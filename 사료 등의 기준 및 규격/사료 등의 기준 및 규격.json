@@ -2568,7 +2568,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:사료등의기준및규격#JO0010"
+        "provision_id": "admrul:사료등의기준및규격#JO0010",
+        "scheduled": [
+          {
+            "enforcement_date": "20280903",
+            "change": "개정",
+            "content": "제10조(사료의 기타 표시사항) ① 규칙 별표 4의 제1호가목12) 및 제2호가목11)의 사료공정에서 정하는 사항, 사료의 절감ㆍ품질관리 및 유통개선을 위하여 농림축산식품부장관이 정하는 사항은 별표 15와 같다. 단, 개 사료와 고양이 사료에 대하여서는 별표 15의2를 따른다.② 사료관련 단체에서는 표시 및 광고에 대한 자문위원회를 구성하여 운영할 수 있다.③ 농림축산식품부장관 및 시ㆍ도지사는 표시 및 광고에 대한 표시광고심의위원회를 구성하여 운영할 수 있다.④ 또는 농림축산식품부장관 및 시ㆍ도지사는 표시 및 광고에 대한 위반행위를 판단할 때 제2항에 의거 구성된 자문위원회의 의견을 참고할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제11조",
@@ -3524,6 +3531,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240401"
+    },
+    {
+      "promulgation_date": "20250904",
+      "promulgation_no": "2025-93",
+      "content": "부칙 <제2025-93호, 2025. 9. 4.>제1조(시행일) 이 고시는 공포일로부터 3년 후 시행한다.제2조(경과조치) 이 고시 시행일로부터 1년까지는 [별표 15의2] 4호 라목 4)에도 불구하고 표시사항이 인쇄 또는 기재된 스티커 및 라벨 등을 사용하여 변경처리 할 수 있다.",
+      "provision_id": "admrul:사료등의기준및규격#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000263778",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20280903",
+      "enforcement_date": "20280903"
     }
   ],
   "appendices": [
@@ -4636,8 +4655,10 @@
   "addendum_provision_id": "admrul:사료등의기준및규격#ADDENDUM",
   "amendment_provision_id": "admrul:사료등의기준및규격#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20280903"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "사료 등의 기준 및 규격/사료 등의 기준 및 규격.json"
 }
