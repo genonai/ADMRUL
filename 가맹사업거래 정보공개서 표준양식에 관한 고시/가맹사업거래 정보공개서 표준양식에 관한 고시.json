@@ -452,6 +452,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20211119"
+    },
+    {
+      "promulgation_date": "20260804",
+      "promulgation_no": "2026-14",
+      "content": "부칙 <제2026-14호, 2026. 8. 4.>이 고시는 2028년 1월 1일부터 시행한다.",
+      "provision_id": "admrul:가맹사업거래정보공개서표준양식에관한고시#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000283584",
+      "source_version_uid": "",
+      "source_revision_type": "전부개정",
+      "version_enforcement_date": "20280101",
+      "enforcement_date": "20280101"
     }
   ],
   "appendices": [
@@ -526,8 +538,10 @@
   "addendum_provision_id": "admrul:가맹사업거래정보공개서표준양식에관한고시#ADDENDUM",
   "amendment_provision_id": "admrul:가맹사업거래정보공개서표준양식에관한고시#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20280101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "가맹사업거래 정보공개서 표준양식에 관한 고시/가맹사업거래 정보공개서 표준양식에 관한 고시.json"
 }
