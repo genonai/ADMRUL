@@ -49,7 +49,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:통계작성의승인고시(대기오염물질배출량)#DOC"
+        "provision_id": "admrul:통계작성의승인고시(대기오염물질배출량)#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20261230",
+            "change": "개정",
+            "content": "1. 통계의 명칭 : 대기오염물질배출량2. 통계작성기관의 명칭 : 기후에너지환경부3. 통계작성승인(협의)번호 [작성승인(협의)일] : 제106033호 [2018.12.28.]4. 통계작성의 변경 연월일 : 2026.12.30.5. 통계작성의 변경 내용과 사유 :[그림]"
+          }
+        ]
       }
     ]
   },
@@ -94,8 +101,10 @@
   "addendum_provision_id": "admrul:통계작성의승인고시(대기오염물질배출량)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의승인고시(대기오염물질배출량)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261230"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통계작성의 승인 고시(대기오염물질배출량)/통계작성의 승인 고시(대기오염물질배출량).json"
 }
