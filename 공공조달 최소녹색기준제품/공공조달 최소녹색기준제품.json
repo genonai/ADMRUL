@@ -215,6 +215,18 @@
       "source_version_uid": "",
       "source_revision_type": "폐지제정",
       "version_enforcement_date": "20260101"
+    },
+    {
+      "promulgation_date": "20261111",
+      "promulgation_no": "2026-558",
+      "content": "부칙 <제2026-558호, 2026. 11. 11.>① 이 공고 사항은 2027. 1. 1.일부터 시행한다.② 이 공고 시행과 동시에 조달청 공고 제2025-543호(2025. 12. 29.)는 폐지한다.",
+      "provision_id": "admrul:공공조달최소녹색기준제품#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000288334",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20270101",
+      "enforcement_date": "20270101"
     }
   ],
   "appendices": [
@@ -311,8 +323,14 @@
   "addendum_provision_id": "admrul:공공조달최소녹색기준제품#ADDENDUM",
   "amendment_provision_id": "admrul:공공조달최소녹색기준제품#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20270101",
+    "revision_type": "폐지제정"
+  },
+  "version_count": 2,
   "git_path": "공공조달 최소녹색기준제품/공공조달 최소녹색기준제품.json"
 }
