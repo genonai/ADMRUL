@@ -2185,6 +2185,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260217"
+    },
+    {
+      "promulgation_date": "20261109",
+      "promulgation_no": "2026-412",
+      "content": "부칙 <제2026-412호, 2026. 11. 9.>제1조(시행일) 이 고시는 고시한 날부터 6개월이 경과한 날부터 시행한다.제2조(적용례) 부칙 제1조에 따른 시행일 이후 출고되거나 통관되는 제품부터 적용한다.",
+      "provision_id": "admrul:안전확인대상생활용품의안전기준#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000288308",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270510",
+      "enforcement_date": "20270510"
     }
   ],
   "appendices": [
@@ -4529,8 +4541,10 @@
   "addendum_provision_id": "admrul:안전확인대상생활용품의안전기준#ADDENDUM",
   "amendment_provision_id": "admrul:안전확인대상생활용품의안전기준#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270510"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "안전확인대상생활용품의 안전기준/안전확인대상생활용품의 안전기준.json"
 }
