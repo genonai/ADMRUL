@@ -293,6 +293,18 @@
       "source_version_uid": "",
       "source_revision_type": "제정",
       "version_enforcement_date": "20260101"
+    },
+    {
+      "promulgation_date": "20260831",
+      "promulgation_no": "2026-455",
+      "content": "부칙 <제2026-455호, 2026. 8. 31.>이 고시는 2027년 1월 1일부터 시행한다.",
+      "provision_id": "admrul:2026년주거급여선정기준및최저보장수준#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000284670",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20270101",
+      "enforcement_date": "20270101"
     }
   ],
   "appendices": [],
@@ -332,8 +344,10 @@
   "addendum_provision_id": "admrul:2026년주거급여선정기준및최저보장수준#ADDENDUM",
   "amendment_provision_id": "admrul:2026년주거급여선정기준및최저보장수준#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "2026년 주거급여 선정기준 및 최저보장수준/2026년 주거급여 선정기준 및 최저보장수준.json"
 }
