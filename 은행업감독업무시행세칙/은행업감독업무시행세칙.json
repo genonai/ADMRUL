@@ -1,6 +1,6 @@
 {
   "law_id": "2041117",
-  "mst": "2000000081882",
+  "mst": "2000000081867",
   "law_name": "은행업감독업무시행세칙",
   "law_abbr": "",
   "law_type": "세칙",
@@ -8,9 +8,9 @@
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2041117",
   "promulgation_no": "9999",
-  "promulgation_date": "20030411",
-  "enforcement_date": "20030411",
-  "revision_date": "20030411",
+  "promulgation_date": "20030711",
+  "enforcement_date": "20030711",
+  "revision_date": "20030711",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "",
     "행정규칙종류코드": "B0027",
     "행정규칙명": "은행업감독업무시행세칙",
-    "발령일자": "20030411",
+    "발령일자": "20030711",
     "행정규칙종류": "세칙",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,19 +27,19 @@
     "전화번호": "02-3145-8023",
     "제개정구분명": "일부개정",
     "소관부처코드": "B000000",
-    "생성일자": "20121017",
+    "생성일자": "20150629",
     "행정규칙ID": "2041117",
-    "시행일자": "20030411",
+    "시행일자": "20030711",
     "담당부서기관코드": "B550021",
     "발령번호": "9999",
-    "행정규칙일련번호": "2000000081882",
+    "행정규칙일련번호": "2000000081867",
     "상위부처명": "정부산하기관및위원회"
   },
   "amendment_text": "",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 109,
+    "article_count": 110,
     "articles": [
       {
         "article_no": "제1조",
@@ -590,6 +590,17 @@
         "relations": [],
         "images": [],
         "provision_id": "admrul:은행업감독업무시행세칙#JO0042_02"
+      },
+      {
+        "article_no": "제42조의3",
+        "article_title": "업무용부동산",
+        "chapter": "제8절 금지업무의 영위",
+        "chapter_path": "제5장 건전경영지도 > 제8절 금지업무의 영위",
+        "content": "제42조의3(업무용부동산) 규정 제55조제1항제6호에서 \"감독원장이 정하는 부동산\"이라 함은 직장보육시설을 말한다.[본조신설 2003. 7. 11]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:은행업감독업무시행세칙#JO0042_03"
       },
       {
         "article_no": "제43조",
@@ -1244,9 +1255,9 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20030411",
+      "promulgation_date": "20030711",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호,2003. 4. 11.>이 세칙은 은행업감독규정(2003년 4월 11일 금융감독위원회 개정의결)의 시행일부터 시행한다.",
+      "content": "부칙 <제9999호,2003. 7. 11.>이 세칙은 은행업감독규정(2003년 7월 11일 금융감독위원회 개정의결)의 시행일부터 시행한다. 다만, <별표3> 1. 라.의 상환우선주에 관한 개정내용은 이 세칙 시행일 이후 발행된 상환우선주에 대하여 적용한다.",
       "provision_id": "admrul:은행업감독업무시행세칙#ADDENDUM"
     }
   ],
@@ -1257,7 +1268,7 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 109,
+    "articles_total": 110,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
