@@ -83,8 +83,10 @@
   "addendum_provision_id": "admrul:2026년적용최저임금고시#ADDENDUM",
   "amendment_provision_id": "admrul:2026년적용최저임금고시#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "2026년 적용 최저임금 고시/2026년 적용 최저임금 고시.json"
 }
