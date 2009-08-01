@@ -1,16 +1,16 @@
 {
   "law_id": "36934",
-  "mst": "63789",
-  "law_name": "장기요양급여비용 등",
+  "mst": "2000000056538",
+  "law_name": "장기요양급여 비용 등에 관한 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:36934",
-  "promulgation_no": "2009-37",
-  "promulgation_date": "20090302",
-  "enforcement_date": "20090302",
-  "revision_date": "20090302",
+  "promulgation_no": "2009-125",
+  "promulgation_date": "20090630",
+  "enforcement_date": "20090801",
+  "revision_date": "20090630",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -18,22 +18,22 @@
     "담당부서기관명": "보건복지부(요양보험제도과)",
     "담당자명": "",
     "행정규칙종류코드": "B0003",
-    "행정규칙명": "장기요양급여비용 등",
-    "발령일자": "20090302",
+    "행정규칙명": "장기요양급여 비용 등에 관한 고시",
+    "발령일자": "20090630",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "보건복지가족부",
+    "소관부처명": "보건복지부",
     "전화번호": "044-202-3491",
     "제개정구분명": "일부개정",
-    "소관부처코드": "1351000",
-    "생성일자": "20090525",
+    "소관부처코드": "1352000",
+    "생성일자": "20110216",
     "행정규칙ID": "36934",
-    "시행일자": "20090302",
-    "담당부서기관코드": "1351000",
-    "발령번호": "2009-37",
-    "행정규칙일련번호": "63789",
-    "상위부처명": "보건복지가족부"
+    "시행일자": "20090801",
+    "담당부서기관코드": "",
+    "발령번호": "2009-125",
+    "행정규칙일련번호": "2000000056538",
+    "상위부처명": "보건복지부"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -42,7 +42,14 @@
     "article_count": 0,
     "articles": []
   },
-  "addenda": [],
+  "addenda": [
+    {
+      "promulgation_date": "20090630",
+      "promulgation_no": "2009-125",
+      "content": "부칙 <제2009-125호,2009. 6. 30.>① (시행일) 이 고시는 2009년 8월 1일부터 시행한다. 다만, 제2장-Ⅴ-1호 는 2009년 7월 1일부터 시행하고, 제3장 “급여비용의 가산 및 감산”은 2009년 10월 1일부터 시행한다.② (등급개선 장려금에 관한 적용례) 제3장-Ⅰ-1호 등급개선 장려금 규정은 2008년 7월 1일 이후 등급변경자부터 적용한다.③ (단기보호 급여기간에 관한 적용례) 제2장-Ⅴ-1호 단서조항에 따라 장기요양등급판정위원회에서 계속 보호가 필요하다고 인정한 경우 그 인정기간은 2009년도 이용일수가 180일을 초과한 날부터 적용한다.",
+      "provision_id": "admrul:장기요양급여비용등에관한고시#ADDENDUM"
+    }
+  ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
@@ -55,16 +62,16 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 0,
+    "addenda_count": 1,
     "appendices_count": 0,
     "attachments_count": 1
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/장기요양급여비용 등"
+    "source_url": "https://www.law.go.kr/행정규칙/장기요양급여 비용 등에 관한 고시"
   },
-  "provision_id": "admrul:장기요양급여비용등#DOC",
-  "addendum_provision_id": "admrul:장기요양급여비용등#ADDENDUM",
-  "amendment_provision_id": "admrul:장기요양급여비용등#AMENDMENT",
+  "provision_id": "admrul:장기요양급여비용등에관한고시#DOC",
+  "addendum_provision_id": "admrul:장기요양급여비용등에관한고시#ADDENDUM",
+  "amendment_provision_id": "admrul:장기요양급여비용등에관한고시#AMENDMENT",
   "is_future": false,
   "git_path": "장기요양급여 제공기준 및 급여비용 산정방법 등에 관한 고시/장기요양급여 제공기준 및 급여비용 산정방법 등에 관한 고시.json"
 }
