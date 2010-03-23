@@ -1,42 +1,42 @@
 {
   "law_id": "35381",
-  "mst": "2000000011466",
-  "law_name": "대검찰청 체육진흥관리위원회 운영규정",
+  "mst": "2000000013313",
+  "law_name": "대검찰청 체육진흥관리위원회 운영규칙",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:35381",
-  "promulgation_no": "138",
-  "promulgation_date": "20090921",
-  "enforcement_date": "20090921",
-  "revision_date": "20090921",
-  "revision_type": "폐지제정",
-  "is_current": false,
+  "promulgation_no": "151",
+  "promulgation_date": "20100323",
+  "enforcement_date": "20100323",
+  "revision_date": "20100323",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대검찰청(운영지원과)",
     "담당자명": "",
     "행정규칙종류코드": "B0001",
-    "행정규칙명": "대검찰청 체육진흥관리위원회 운영규정",
-    "발령일자": "20090921",
+    "행정규칙명": "대검찰청 체육진흥관리위원회 운영규칙",
+    "발령일자": "20100323",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200407",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "대검찰청",
     "전화번호": "02-3480-2196",
-    "제개정구분명": "폐지제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1280000",
-    "생성일자": "20091030",
+    "생성일자": "20160602",
     "행정규칙ID": "35381",
-    "시행일자": "20090921",
+    "시행일자": "20100323",
     "담당부서기관코드": "1281276",
-    "발령번호": "138",
-    "행정규칙일련번호": "2000000011466",
+    "발령번호": "151",
+    "행정규칙일련번호": "2000000013313",
     "상위부처명": "대검찰청"
   },
   "amendment_text": "",
-  "revision_reason": "",
+  "revision_reason": "◇ 개정이유\n대검찰청 체육진흥관리위원회 운영규칙의 제1조의 위임근거규정이 잘못 기재\n◇ 주요내용\n목적규정은 위임근거규정과 훈령의 목적을 밝히는 규정으로 목적규정에 있어 위임근거규정은 주요사항이라고 할 것인데 그 위임근거규정을 잘못 기재하였음",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -46,11 +46,32 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 국민체육진흥법 제10조 제2항 및 동시행령 제17조 제1항에 의하여 대검찰청 체육진흥관리위원회(이하 위원회라 한다)의 설치와 운영에 관한 사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 국민체육진흥법 제10조 제2항 및 동시행령 제7조 제1항에 의하여 대검찰청 체육진흥관리위원회(이하 위원회라 한다)의 설치와 운영에 관한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "대검찰청 체육진흥관리위원회 운영규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35381",
+            "target_url": "https://www.law.go.kr/행정규칙/대검찰청 체육진흥관리위원회 운영규칙/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0001",
+            "reference_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0007",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대검찰청 체육진흥관리위원회 운영규칙/대검찰청 체육진흥관리위원회 운영규칙.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0001"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0001"
       },
       {
         "article_no": "제2조",
@@ -61,7 +82,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0002"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0002"
       },
       {
         "article_no": "제3조",
@@ -72,7 +93,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0003"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0003"
       },
       {
         "article_no": "제4조",
@@ -83,7 +104,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0004"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0004"
       },
       {
         "article_no": "제5조",
@@ -94,7 +115,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0005"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0005"
       },
       {
         "article_no": "제6조",
@@ -105,7 +126,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0006"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0006"
       },
       {
         "article_no": "제7조",
@@ -116,7 +137,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0007"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0007"
       },
       {
         "article_no": "제8조",
@@ -127,51 +148,96 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0008"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0008"
       },
       {
         "article_no": "제9조",
         "article_title": "세칙",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조(세칙)기타 필요한 사항은 위원회 의결을 거쳐 위원장이 정한다.",
+        "content": "제9조(세칙) 기타 필요한 사항은 위원회 의결을 거쳐 위원장이 정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#JO0009"
+        "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#JO0009"
       }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "20090921",
-      "promulgation_no": "138",
-      "content": "부칙 <제138호,2009. 9. 21.>제1조(시행일) 이 훈령은 2009. 9. 21.부터 시행한다.제2조(종전 훈령의 폐지) 종전의 대검훈령 제28호는 이를 폐지한다.",
-      "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#ADDENDUM"
+      "promulgation_date": "20100323",
+      "promulgation_no": "151",
+      "content": "부칙 <제151호,2010. 3. 23.>이 훈령은 2010. 3. 23.부터 시행한다.",
+      "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000013313",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20100323"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "대검찰청 체육진흥관리위원회 운영규칙_신구조문대비표.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=4174832",
+      "filename": "대검찰청 체육진흥관리위원회 운영규칙_신구조문대비표.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/대검찰청 체육진흥관리위원회 운영규칙_신구조문대비표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "대검찰청 체육진흥관리위원회 운영규칙 개정령.hwp.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=3812187",
+      "filename": "대검찰청 체육진흥관리위원회 운영규칙 개정령.hwp.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/대검찰청 체육진흥관리위원회 운영규칙 개정령.hwp.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "(대검훈령 제151호) 대검찰청체육진흥관리위원회운영규칙.hwp.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=3812185",
+      "filename": "(대검훈령 제151호) 대검찰청체육진흥관리위원회운영규칙.hwp.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(대검훈령 제151호) 대검찰청체육진흥관리위원회운영규칙.hwp.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "(대검훈령 제138호) 대검찰청체육진흥관리위원회운영규칙.hwp.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=3812186",
+      "filename": "(대검훈령 제138호) 대검찰청체육진흥관리위원회운영규칙.hwp.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(대검훈령 제138호) 대검찰청체육진흥관리위원회운영규칙.hwp.hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 4
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/대검찰청 체육진흥관리위원회 운영규정"
+    "source_url": "https://www.law.go.kr/행정규칙/대검찰청 체육진흥관리위원회 운영규칙"
   },
-  "provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#DOC",
-  "addendum_provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#ADDENDUM",
-  "amendment_provision_id": "admrul:대검찰청체육진흥관리위원회운영규정#AMENDMENT",
+  "provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#DOC",
+  "addendum_provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#ADDENDUM",
+  "amendment_provision_id": "admrul:대검찰청체육진흥관리위원회운영규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대검찰청 체육진흥관리위원회 운영규칙/대검찰청 체육진흥관리위원회 운영규칙.json"
 }
