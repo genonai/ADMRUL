@@ -1,16 +1,16 @@
 {
   "law_id": "36036",
-  "mst": "2000000012119",
-  "law_name": "통계자료 제공비용 산정기준",
+  "mst": "2000000016796",
+  "law_name": "통계자료제공 서비스 수수료 산정 기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:36036",
-  "promulgation_no": "2009-220",
-  "promulgation_date": "20090831",
-  "enforcement_date": "20090901",
-  "revision_date": "20090831",
+  "promulgation_no": "2011-43",
+  "promulgation_date": "20110401",
+  "enforcement_date": "20110401",
+  "revision_date": "20110401",
   "revision_type": "폐지제정",
   "is_current": false,
   "basic_info": {
@@ -18,8 +18,8 @@
     "담당부서기관명": "국가데이터처(마이크로데이터과)",
     "담당자명": "",
     "행정규칙종류코드": "B0003",
-    "행정규칙명": "통계자료 제공비용 산정기준",
-    "발령일자": "20090831",
+    "행정규칙명": "통계자료제공 서비스 수수료 산정 기준",
+    "발령일자": "20110401",
     "행정규칙종류": "고시",
     "제개정구분코드": "200407",
     "조문형식여부": "N",
@@ -27,12 +27,12 @@
     "전화번호": "042-481-2330",
     "제개정구분명": "폐지제정",
     "소관부처코드": "1241000",
-    "생성일자": "20141015",
+    "생성일자": "20141008",
     "행정규칙ID": "36036",
-    "시행일자": "20090901",
+    "시행일자": "20110401",
     "담당부서기관코드": "1240434",
-    "발령번호": "2009-220",
-    "행정규칙일련번호": "2000000012119",
+    "발령번호": "2011-43",
+    "행정규칙일련번호": "2000000016796",
     "상위부처명": "국가데이터처"
   },
   "amendment_text": "",
@@ -45,11 +45,39 @@
         "article_no": "전문",
         "article_title": "",
         "chapter": "",
-        "content": "1. 자료이용료자료이용료 = 기본료(20,000원/1MB) ＋ 추가비용(1,500 ×1MB 초과 MB당)- 출력용량 1MB까지는 20,000원- 1MB를 초과하는 용량은 1MB당 1,500원씩 추가 부과※ On-site Access 자료 제공 시 이용환경 설정, 시스템 이용 등에대한 수수료로 자료이용료의 10%를 추가 징수 2. 소프트웨어개발비정보통신부 고시 제2005-22호\"소프트웨어사업대가의 기준\"을 준용하여 징수- 소프트웨어개발비는 주문형 위탁처리 요청 시 징수",
+        "content": "1. 서비스 수수료[그림]- 출력 용량 1MB까지는 20,000원- 1MB를 초과하는 용량은 자료이용량 구간에 해당되는 추가비용을 산정하되, 자료이용량(MB)으로 적용하여 산정[그림]예) 102MB를 이용한 경우(20,000원+99MB×1,300원+2MB×1,100원) = 150,900원※ 마이크로데이터이용센터(MDAC), 원격접근서비스(RAS) 자료 제공시 이용환경 설정, 시스템 이용 등에 대해서는 서비스 수수료외에 서비스 수수료의 10%를 별도 부과2. 소프트웨어개발비[그림]- 소프트웨어개발비는 주문형 위탁처리 요청 시 징수",
         "enforcement_date": "",
         "relations": [],
-        "images": [],
-        "provision_id": "admrul:통계자료제공비용산정기준#DOC"
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6272702",
+            "seq": "6272702",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6272703",
+            "seq": "6272703",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6272704",
+            "seq": "6272704",
+            "filename": "전문_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:통계자료제공서비스수수료산정기준#DOC"
       }
     ]
   },
@@ -71,11 +99,11 @@
     "attachments_count": 2
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/통계자료 제공비용 산정기준"
+    "source_url": "https://www.law.go.kr/행정규칙/통계자료제공 서비스 수수료 산정 기준"
   },
-  "provision_id": "admrul:통계자료제공비용산정기준#DOC",
-  "addendum_provision_id": "admrul:통계자료제공비용산정기준#ADDENDUM",
-  "amendment_provision_id": "admrul:통계자료제공비용산정기준#AMENDMENT",
+  "provision_id": "admrul:통계자료제공서비스수수료산정기준#DOC",
+  "addendum_provision_id": "admrul:통계자료제공서비스수수료산정기준#ADDENDUM",
+  "amendment_provision_id": "admrul:통계자료제공서비스수수료산정기준#AMENDMENT",
   "is_future": false,
   "git_path": "통계자료제공 서비스 수수료 산정 기준/통계자료제공 서비스 수수료 산정 기준.json"
 }
