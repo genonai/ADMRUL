@@ -1,17 +1,17 @@
 {
   "law_id": "23670",
-  "mst": "3714",
+  "mst": "2000000017286",
   "law_name": "청원경찰 근무규칙",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:23670",
-  "promulgation_no": "136",
-  "promulgation_date": "20110208",
-  "enforcement_date": "20110208",
-  "revision_date": "20110208",
-  "revision_type": "일부개정",
+  "promulgation_no": "159",
+  "promulgation_date": "20111007",
+  "enforcement_date": "20111007",
+  "revision_date": "20111007",
+  "revision_type": "타법개정",
   "is_current": false,
   "basic_info": {
     "현행여부": "N",
@@ -19,20 +19,20 @@
     "담당자명": "",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "청원경찰 근무규칙",
-    "발령일자": "20110208",
+    "발령일자": "20111007",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "방위사업청",
     "전화번호": "02-2079-6621",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "타법개정",
     "소관부처코드": "1690000",
-    "생성일자": "20110210",
+    "생성일자": "20111025",
     "행정규칙ID": "23670",
-    "시행일자": "20110208",
+    "시행일자": "20111007",
     "담당부서기관코드": "1690206",
-    "발령번호": "136",
-    "행정규칙일련번호": "3714",
+    "발령번호": "159",
+    "행정규칙일련번호": "2000000017286",
     "상위부처명": "방위사업청"
   },
   "amendment_text": "",
@@ -217,8 +217,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=5391650",
-            "seq": "5391650",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10973146",
+            "seq": "10973146",
             "filename": "제16조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제16조_1.gif",
@@ -295,7 +295,14 @@
       }
     ]
   },
-  "addenda": [],
+  "addenda": [
+    {
+      "promulgation_date": "20111007",
+      "promulgation_no": "159",
+      "content": "부칙 (방위사업청 조직개편에 따른 훈령 일괄개정 규정) <제159호,2011. 10. 7.>(시행일) 이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:청원경찰근무규칙#ADDENDUM"
+    }
+  ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
@@ -308,7 +315,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 0,
+    "addenda_count": 1,
     "appendices_count": 3,
     "attachments_count": 3
   },
