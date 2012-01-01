@@ -1,16 +1,16 @@
 {
   "law_id": "32314",
-  "mst": "2000000072254",
+  "mst": "2000000070962",
   "law_name": "공공측량 작업규정",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:32314",
-  "promulgation_no": "2011-605",
-  "promulgation_date": "20110801",
-  "enforcement_date": "20110801",
-  "revision_date": "20110801",
+  "promulgation_no": "2011-1084",
+  "promulgation_date": "20111229",
+  "enforcement_date": "20120101",
+  "revision_date": "20111229",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "공공측량 작업규정",
-    "발령일자": "20110801",
+    "발령일자": "20111229",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,23 +29,23 @@
     "소관부처코드": "1611000",
     "생성일자": "20151202",
     "행정규칙ID": "32314",
-    "시행일자": "20110801",
+    "시행일자": "20120101",
     "담당부서기관코드": "1611265",
-    "발령번호": "2011-605",
-    "행정규칙일련번호": "2000000072254",
+    "발령번호": "2011-1084",
+    "행정규칙일련번호": "2000000070962",
     "상위부처명": "국토해양부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n공공측량제도의 효율성을 위하여 지형도의 정확도 표준 통일 및 군 지역의 지하시설물도 작성을 위하여 1/2,500수치지도 사용 등 일부 미비점을 개선·보완하려는 것임\n◇ 주요내용\n가. 수치지형도작성작업규정 명시(제36조제1항, 제50조, 제54조4항)\n지형도의 작성과 항공사진측량, 수동독취의 구체적 작업규정 제시\n나. 지형도의 정확도 표준이 신규제작과 수정제작의 경우로 구분되어 있던 것을 신규제작 경우로 정확도 통일(제37조)\n다. 군지역 지하시설물도 제작을 위하여 1/2,500 수치지도 사용(제128조8항)\n라. 지하시설물의 레이어코드 및 속성코드 부여를 위하여 「수치지형도작성작업규정 별표 1」을 명시(제148조 1항의2)",
+  "revision_reason": "◇ 개정이유\n지하시설물 측량 등 밀폐공간 작업시 발생할 수 있는 안전사고 예방을 위하여 안전교육 및 작업절차 등 측량수행자가 준수해야할 안전대책을 구체적으로 명시하는 등 일부 미비점을 개선·보완함\n◇ 주요내용\n가. 지하시설물 측량 관련 용어의 보완(안 제128조 14항～17항)\n나. 안전교육 등 측량수행자 준수사항 명시(안 제133조, 제133조의2, 제133조의3)\n다. 밀폐공간 작업절차와 유해가스 농도 측정방법 등 구체화(안 제133조의4, 제133조의5, 제133조의6, 제133조의7, 제133조의8)\n라. 지하시설물 측량 용역계약시 측량수행자에게 안전이행 확인서 제출 명시(제133조의9)",
   "body": {
     "format": "articles",
-    "article_count": 184,
+    "article_count": 192,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제1조(목적) 이 규정은 「측량·수로조사 및 지적에 관한 법률」(이하 \"법\"이라 한다) 제17조 및 같은 법 시행규칙 제21조의 규정에 따라 공공측량의 작업계획서의 작성기준 등 기타 공공측량에 필요한 사항을 정하여 규격을 통일하고 공공측량성과의 정확도를 확보하는데 그 목적이 있다.",
         "enforcement_date": "",
         "relations": [],
@@ -55,8 +55,8 @@
       {
         "article_no": "제2조",
         "article_title": "용어의 정의",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제2조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.   ① \"공공측량\"이라 함은 법 제2조 제3호의 규정에 의한 측량을 말한다.② \"공공측량시행자\"라 함은 법 제17조 제2항에 따라 공공측량을 실시하는 자를 말한다.③ \"공공측량수행자\"라 함은 공공측량을 수행하는 자를 말한다.④ \"공공측량계획\"이라 함은 공공측량시행자가 측량의 규모와 작업량 등을 결정하고 작업계획을 수립하는 것을 말한다.⑤ \"공공측량작업계획\"이라 함은 공공측량수행자가 작업규정 등을 검토하고 사용기기, 작업공정 및 인원편성 등을 결정하여 세부계획과 작업공정표 등을 작성하는 것을 말한다.",
         "enforcement_date": "",
         "relations": [],
@@ -66,9 +66,9 @@
       {
         "article_no": "제3조",
         "article_title": "발주방법",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
-        "content": "제3조(발주방법) 공공측량시행자가 공공측량을 용역으로 발주하고자 할 때는 법시행령 제34조 별표7 규정에 의한 업무내용에 따라 발주한다.",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
+        "content": "제3조(발주방법) 공공측량시행자가 공공측량을 용역으로 발주하고자 할 때는 법시행령 제34조  별표7 규정에 의한 업무내용에 따라 발주한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -77,8 +77,8 @@
       {
         "article_no": "제4조",
         "article_title": "공공측량 작업계획서 제출 등",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제4조(공공측량 작업계획서 제출 등) 공공측량 시행자는 다음 각 호의 사항이 포함된 공공측량 계획서를 법 시행규칙 제21조에 따라 국토지리정보원장에게 제출한다.1. 공공측량의 사업명2. 공공측량의 목적 및 활용범위3. 공공측량의 위치 및 사업량4. 공공측량의 작업기간5. 공공측량의 작업방법6. 사용할 측량기기의 종류 및 성능7. 법 제17조 제1항의 규정에 의하여 사용할 측량성과의 명칭, 종류 및 내용8. 그밖에 작업에 필요한 사항",
         "enforcement_date": "",
         "relations": [],
@@ -88,8 +88,8 @@
       {
         "article_no": "제5조",
         "article_title": "사업수행 계획",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제5조(사업수행 계획) ①공공측량수행자는 작업계획을 수립하고 공공측량시행자에게 제출하여 검토를 받는다. 작업계획의 변경이 있을 경우에도 또한 같다.②사업수행 계획서에는 다음 각 호의 사항을 포함한다.1. 당해 측량계획 내용2. 용역수행 대리인 선임3. 인력투입계획4. 기기투입계획5. 작업공정 관리계획6. 정확도 확보방안7. 기타 공공측량작업에 필요한 사항③사업수행계획서를 제출받은 공공측량시행자는 인력투입계획을 국토지리정보원장에게 제출한다.",
         "enforcement_date": "",
         "relations": [],
@@ -99,8 +99,8 @@
       {
         "article_no": "제6조",
         "article_title": "측량기기의 사용",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제6조(측량기기의 사용) ①공공측량수행자는 법 제92조의 규정에 따라 성능검사를 필한 기기를 사용한다.②작업자는 사용하는 주요한 기기에 대해서 적절한 점검을 하고 필요한 조정을 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -110,8 +110,8 @@
       {
         "article_no": "제7조",
         "article_title": "공정관리",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제7조(공정관리) ①공공측량수행자는 제5조의 작업계획에 따라 공정관리를 한다.②공공측량수행자는 작업의 진행사항을 공공측량시행자에게 보고한다.",
         "enforcement_date": "",
         "relations": [],
@@ -121,8 +121,8 @@
       {
         "article_no": "제8조",
         "article_title": "정확도의 관리",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제8조(정확도의 관리) ①공공측량수행자는 측량의 정확도를 확보하기 위하여 정확도 관리를 하며, 그 결과에 따른 정확도 관리표를 작성하여 공공측량시행자에게 제출한다.②공공측량수행자는 각 공정별로 작업을 완료한 때에는 정확도를 확인한다.③정확도 관리표, 성과표 등 기타 측량기록에 필요한 표준양식은 별표와 같다.",
         "enforcement_date": "",
         "relations": [],
@@ -132,8 +132,8 @@
       {
         "article_no": "제9조",
         "article_title": "공공측량성과 등의 제출",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제9조(공공측량성과 등의 제출) ①공공측량수행자는 공공측량성과를 취득하고, 공공측량시행자에게 측량성과 및 측량기록 등을 제출한다.②공공측량시행자가 지정하는 측량작업에 대해서는 측량 및 지형공간정보기술사의 기술검토서를 첨부할 수 있다.",
         "enforcement_date": "",
         "relations": [],
@@ -143,8 +143,8 @@
       {
         "article_no": "제10조",
         "article_title": "공공측량성과의 심사",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제10조(공공측량성과의 심사) 공공측량시행자는 공공측량수행자로부터 납품된 성과품에 대하여 신속히 검사를 실시하고 법 제18조 및 제105조, 시행령 제104조, 시행규칙 제22조의 규정에 의거 법령에서 정한 기관에서 심사를 받는다.",
         "enforcement_date": "",
         "relations": [],
@@ -154,8 +154,8 @@
       {
         "article_no": "제11조",
         "article_title": "공공측량성과의 관리",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제11조(공공측량성과의 관리) 제10조의 규정에 따라 심사를 필한 경우에는 법 제19조의 규정에 따라 관리한다.",
         "enforcement_date": "",
         "relations": [],
@@ -165,8 +165,8 @@
       {
         "article_no": "제12조",
         "article_title": "측량방법 및 기기에 관한 특례",
-        "chapter": "제1편 총칙",
-        "chapter_path": "제1편 총칙",
+        "chapter": "제1편 총 칙",
+        "chapter_path": "제1편 총 칙",
         "content": "제12조(측량방법 및 기기에 관한 특례) 공공측량시행자는 본 규정이 정한 것과 상이한 기기 및 작업방법 등을 사용하고자 할 경우 정확도를 확인하기 위한 자료를 제출하여 국토지리정보원장의 검토를 받는다.",
         "enforcement_date": "",
         "relations": [],
@@ -217,8 +217,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304714",
-            "seq": "9304714",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020519",
+            "seq": "9020519",
             "filename": "제16조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제16조_1.gif",
@@ -238,8 +238,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304716",
-            "seq": "9304716",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020520",
+            "seq": "9020520",
             "filename": "제17조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제17조_1.gif",
@@ -292,8 +292,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304735",
-            "seq": "9304735",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020521",
+            "seq": "9020521",
             "filename": "제21조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제21조_1.gif",
@@ -301,8 +301,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304736",
-            "seq": "9304736",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020542",
+            "seq": "9020542",
             "filename": "제21조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제21조_2.gif",
@@ -310,8 +310,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304718",
-            "seq": "9304718",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020543",
+            "seq": "9020543",
             "filename": "제21조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제21조_3.gif",
@@ -331,8 +331,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304720",
-            "seq": "9304720",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020545",
+            "seq": "9020545",
             "filename": "제22조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제22조_1.gif",
@@ -340,8 +340,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304738",
-            "seq": "9304738",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020564",
+            "seq": "9020564",
             "filename": "제22조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제22조_2.gif",
@@ -349,8 +349,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304721",
-            "seq": "9304721",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020547",
+            "seq": "9020547",
             "filename": "제22조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제22조_3.gif",
@@ -370,8 +370,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304742",
-            "seq": "9304742",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020566",
+            "seq": "9020566",
             "filename": "제23조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_1.gif",
@@ -379,8 +379,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304739",
-            "seq": "9304739",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020548",
+            "seq": "9020548",
             "filename": "제23조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_2.gif",
@@ -394,14 +394,14 @@
         "article_title": "공공삼각점측량의 점검계산",
         "chapter": "제2장 공공삼각점측량",
         "chapter_path": "제2편 공공기준점측량 > 제2장 공공삼각점측량",
-        "content": "제24조(공공삼각점측량의 점검계산) ①공공삼각점측량의 점검계산은 관측종료 후에 실시하며, 허용범위를 초과하는 경우에는 재측하거나 또는 시행자의 지시에 따라 적절한 조치를 취한다.② TS관측의 점검계산은 다음과 같이 실시한다.1. 수평위치 및 표고의 폐합차의 계산은 모든 단위다각형 및 다음 조건에 따라 선정된 모든 점검노선에 대하여 측정값의 양부를 판정한다.2. 점검노선은 기지점과 기지점을 결합시킨다.3. 점검노선은 되도록 짧은 것으로 한다.4. 모든 기지점은 1개 이상의 점검노선으로 결합시킨다.5. 모든 단위다각형은 노선의 1개 이상을 점검노선과 중복시킨다.6. 점검계산의 허용범위는 다음 표와 같다.[그림]주 : N는 변수, ∑s는 노선장(km), n는 측각수③GPS관측의 점검계산은 다음과 같이 실시한다.1. 점검노선은 다른 세션과의 조합에 의한 최소변수의 다각형을 선정하고, 기선벡터 요소()에 대한 환폐합차를 계산한다.2. 중복하는 기선벡터 요소를 비교, 점검한다.3. 점검계산의 허용범위는 다음 표와 같다.[그림]",
+        "content": "제24조(공공삼각점측량의 점검계산) ①공공삼각점측량의 점검계산은 관측종료 후에 실시하며, 허용범위를 초과하는 경우에는 재측하거나 또는 시행자의 지시에 따라 적절한 조치를 취한다.② TS관측의 점검계산은 다음과 같이 실시한다.1. 수평위치 및 표고의 폐합차의 계산은 모든 단위다각형 및 다음 조건에 따라 선정된 모든 점검노선에 대하여 측정값의 양부를 판정한다.2. 점검노선은 기지점과 기지점을 결합시킨다.3. 점검노선은 되도록 짧은 것으로 한다.4. 모든 기지점은 1개 이상의 점검노선으로 결합시킨다.5. 모든 단위다각형은 노선의 1개 이상을 점검노선과 중복시킨다.6. 점검계산의 허용범위는 다음 표와 같다.[그림]주 : N는 변수, ∑s는 노선장(km), n는 측각수③GPS관측의 점검계산은 다음과 같이 실시한다.1. 점검노선은 다른 세션과의 조합에 의한 최소변수의 다각형을 선정하고, 기선벡터 요소[그림]에 대한 환폐합차를 계산한다.2. 중복하는 기선벡터 요소를 비교, 점검한다.3. 점검계산의 허용범위는 다음 표와 같다.[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304743",
-            "seq": "9304743",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020549",
+            "seq": "9020549",
             "filename": "제24조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제24조_1.gif",
@@ -409,11 +409,20 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304740",
-            "seq": "9304740",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020551",
+            "seq": "9020551",
             "filename": "제24조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제24조_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020550",
+            "seq": "9020550",
+            "filename": "제24조_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제24조_3.gif",
             "file_store_url": ""
           }
         ],
@@ -430,8 +439,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304741",
-            "seq": "9304741",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020552",
+            "seq": "9020552",
             "filename": "제25조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조_1.gif",
@@ -439,8 +448,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304762",
-            "seq": "9304762",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020567",
+            "seq": "9020567",
             "filename": "제25조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조_2.gif",
@@ -448,8 +457,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304744",
-            "seq": "9304744",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020553",
+            "seq": "9020553",
             "filename": "제25조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조_3.gif",
@@ -457,8 +466,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304763",
-            "seq": "9304763",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020554",
+            "seq": "9020554",
             "filename": "제25조_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조_4.gif",
@@ -466,8 +475,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304765",
-            "seq": "9304765",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020555",
+            "seq": "9020555",
             "filename": "제25조_5.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조_5.gif",
@@ -475,8 +484,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304767",
-            "seq": "9304767",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020557",
+            "seq": "9020557",
             "filename": "제25조_6.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조_6.gif",
@@ -490,14 +499,14 @@
         "article_title": "RTK-GPS공공삼각점측량",
         "chapter": "제2장 공공삼각점측량",
         "chapter_path": "제2편 공공기준점측량 > 제2장 공공삼각점측량",
-        "content": "제26조(RTK-GPS공공삼각점측량) ①RTK-GPS 공공삼각점측량은 RTK-GPS에 의해 관측점간의 상대위치관계를 구해 기지점에 근거해 미지점의 수평위치 및 표고 등을 정하는 작업을 말한다.②RTK-GPS 공공삼각점측량은 기지점 및 미지점을 기선벡터에 의해 결합하는 결합트래버스방식 또는 방사방식에 의해 실시한다.1. RTK-GPS 공공삼각점측량은 다음의 측량 방법으로 실시한다.가. 직접 관측법 : 직접관측법은 고정점과 이동점에서 동시에 GPS위성으로부터 신호를 관측하여 기선 해석에 의해 얻어진 기선 벡터를 이용, 기지점∼미지점 또는 미지점∼미지점을 결합하는 트래버스 망을 구축하는 방법이다.③RTK-GPS 공공삼각점측량이 곤란한 경우에는 TS관측법을 병용할 수 있다.④작업계획 시 RTK-GPS 의 특징을 고려해 지형도상에서 미지점의 개략 위치를 결정해 관측망도를 작성한다.⑤선점은 관측망도에 근거해 현지에 있어 기지점의 현황을 조사함과 동시에 미지점의 위치를 선정해 지형, 식생, 지물, GPS위성으로부터 신호의 수신조건, 관측점간의 데이터 전송의 조건 및 그 외의 현지 상황에 따라 작업의 실시방법을 검토해 선점 후 선점도 및 관측망도를 작성한다.⑥미지점은 후속작업에서의 이용, 보전 및 배점 밀도 등을 고려해 가장 적절한 위치에 선정한다.⑦미지점의 위치를 선정했을 때에는 선점도를 작성한다.⑧미지점의 위치에는 원칙적으로 영구표지를 설치하고, 도심지에서는 동판을 설치할 수 있다.⑨RTK-GPS 공공삼각점측량의 관측이란 관측망도에 근거해 관측점에 GPS수신기를 정치하고, GPS위성으로부터 반송파 위상 등의 신호를 수신하는 것과 동시에 관측 데이터를 무선 장치 등으로 한편의 관측점에 전송해 즉시 기선해석을 실시하여 관측점간의 위치산출 및 기선해석결과 등을 기록하는 작업을 말한다.⑩RTK-GPS 관측은 간섭 측위 방식에서 소정의 관측을 실시한다.1. RTK-GPS 관측에서는 고정점과 이동점에 대해 GPS위성으로부터 신호를 동시에 수신해 고정점의 관측데이터를 무선기 등으로 이동점에 전송해 필요한 해석 처리를 실시한 후 이동점측은 다른 관측점으로 이동해 같은 관측을 실시해 이것을 차례차례 반복하는 동적 간섭 측위 방식에 의해 실시한다. GPS 안테나의 정치는 고정점에서는 삼각대에 이동점이 되는 미지점 등에서는 삼각 또는 안테나 폴을 이용하는 것을 표준으로 한다.2. RTK-GPS 관측에서는 고정점의 관측데이터를 이동점으로 무선 장치 등을 이용해 상시 전송해 이동점에 대해 고정점과 이동점의 관측데이터를 이용해 즉시에 기선해석을 실시하여 상대 위치를 산출한다.3. RTK-GPS 관측은 직접관측법에 의해 실시한다.4. 직접관측법은 고정점에서 이동점으로 동시관측을 실시한다.5. 관측은 각 변에 대해 1세트 실시한다. 세트내의 관측회수 등은 다음의 표를 표준으로 한다.[그림]6. 관측은 아래 둘 중의 한 방법을 사용한다.가. 관측치로 환폐합차의 점검을 실시한다. 관측치로 환 폐합차의 점검을 실시할 수 없는 경우는 기지점간의 관측을 실시해 환을 구성한다. 다만 기지점간의 관측은 RTK-GPS 외에 세부기준의 다른 기준점측량 방법을 사용할 수 있다.나. 각 변에 대해 1세트의 점검 관측을 실시해 중복관측에 의한 점검을 실시한다.7. 안테나고는 cm까지 측정한다.8. 안테나 폴을 이용하는 경우 보조삼각대 등의 보조장치를 이용해 연직에 정치한다.9. GPS 안테나의 방향은 항상 자북방향을 향하여 정치한다.10. GPS위성의 배치상태를 고려해 고정점과 이동점으로 동시에 5개이상의 위성을 사용한다.⑪계산은 미지점의 위치, 표고 및 이와 관련된 모든 요소의 계산결과를 출력하여 성과표 등을 작성하는 작업을 말한다.⑫관측 종료 후는 정확도에 대한 점검계산을 신속히 실시하고 규정의 허용범위에 있는 것을 확인한다. 또 점검계산값이 규정의 허용범위를 넘었을 경우는 필요한 재관측을 실시한다.1. 점검계산은 기선벡터의 환 폐합차 또는 중복하는 기선 벡터(R)의 교차를 비교하는 방법으로 실시한다.2. 환 폐합의 점검계산은 가능한 한 짧은 노선을 선정해 실시하며, 신점이 1점 밖에 없는 경우는 기지점간의 관측을 추가해 폐합차의 점검을 실시한다.3. 점검계산의 허용범위는 다음 표를 표준으로 한다.[그림]단, 세트간 교차의 점검은, 다각망을 구성하는 각 기선벡터(R)로 비교한다.[그림]⑬평균계산은 삼차원망 평균계산을 실시한다.1. 기지점 1점을 고정하는 삼차원망 평균계산을 다음에 의해 실시한다.가. 수평 및 높이의 분산을 고정치로서 다음식에 의해 구한 값으로 한다.[그림]나. 기선해석에 의한 분산·공분산이 세트내의 모든 관측치로 부터 구할 수 있는 경우는, 기선 해석으로부터 구한 값으로 한다.다. 삼차원망 평균계산에 의한 허용범위는 결합다각의 수평위치 폐합차는 3,4급 공공삼각점측량 모두[그림]2. 기지점 2점이상을 고정하는 삼차원망 평균계산을 다음과 같이 실시한다.가. 삼차원망 평균계산의 중량(P)은 다음의 몇 개의 분산·공분산 행렬의 역행렬을 이용한다.수평 및 높이의 분산을 고정치로서 다음식에 의해 구한 값으로 한다.[그림]나. 기선해석에 의한 분산·공분산이 세트내의 모든 관측치로부터 구할 수 있는 경우는 기선해석에 의해 구한 값으로 한다.다. 3차원망평균계산에 사용하는 허용범위는 다음의 표를 표준으로 한다.[그림]",
+        "content": "제26조(RTK-GPS공공삼각점측량) ①RTK-GPS 공공삼각점측량은 RTK-GPS에 의해 관측점간의 상대위치관계를 구해 기지점에 근거해 미지점의 수평위치 및 표고 등을 정하는 작업을 말한다.②RTK-GPS 공공삼각점측량은 기지점 및 미지점을 기선벡터에 의해 결합하는 결합트래버스방식 또는 방사방식에 의해 실시한다.1. RTK-GPS 공공삼각점측량은 다음의 측량 방법으로 실시한다.가. 직접 관측법 : 직접관측법은 고정점과 이동점에서 동시에 GPS위성으로부터 신호를 관측하여 기선 해석에 의해 얻어진 기선 벡터를 이용, 기지점∼미지점 또는 미지점∼미지점을 결합하는 트래버스 망을 구축하는 방법이다.③RTK-GPS 공공삼각점측량이 곤란한 경우에는 TS관측법을 병용할 수 있다.④작업계획 시 RTK-GPS 의 특징을 고려해 지형도상에서 미지점의 개략 위치를 결정해 관측망도를 작성한다.⑤선점은 관측망도에 근거해 현지에 있어 기지점의 현황을 조사함과 동시에 미지점의 위치를 선정해 지형, 식생, 지물, GPS위성으로부터 신호의 수신조건, 관측점간의 데이터 전송의 조건 및 그 외의 현지 상황에 따라 작업의 실시방법을 검토해 선점 후 선점도 및 관측망도를 작성한다.⑥미지점은 후속작업에서의 이용, 보전 및 배점 밀도 등을 고려해 가장 적절한 위치에 선정한다.⑦미지점의 위치를 선정했을 때에는 선점도를 작성한다.⑧미지점의 위치에는 원칙적으로 영구표지를 설치하고, 도심지에서는 동판을 설치할 수 있다.⑨RTK-GPS 공공삼각점측량의 관측이란 관측망도에 근거해 관측점에 GPS수신기를 정치하고, GPS위성으로부터 반송파 위상 등의 신호를 수신하는 것과 동시에 관측 데이터를 무선 장치 등으로 한편의 관측점에 전송해 즉시 기선해석을 실시하여 관측점간의 위치산출 및 기선해석결과 등을 기록하는 작업을 말한다.⑩RTK-GPS 관측은 간섭 측위 방식에서 소정의 관측을 실시한다.1. RTK-GPS 관측에서는 고정점과 이동점에 대해 GPS위성으로부터 신호를 동시에 수신해 고정점의 관측데이터를 무선기 등으로 이동점에 전송해 필요한 해석 처리를 실시한 후 이동점측은 다른 관측점으로 이동해 같은 관측을 실시해 이것을 차례차례 반복하는 동적 간섭 측위 방식에 의해 실시한다. GPS 안테나의 정치는 고정점에서는 삼각대에 이동점이 되는 미지점 등에서는 삼각 또는 안테나 폴을 이용하는 것을 표준으로 한다.2. RTK-GPS 관측에서는 고정점의 관측데이터를 이동점으로 무선 장치 등을 이용해 상시 전송해 이동점에 대해 고정점과 이동점의 관측데이터를 이용해 즉시에 기선해석을 실시하여 상대 위치를 산출한다.3. RTK-GPS 관측은 직접관측법에 의해 실시한다.4. 직접관측법은 고정점에서 이동점으로 동시관측을 실시한다.5. 관측은 각 변에 대해 1세트 실시한다. 세트내의 관측회수 등은 다음의 표를 표준으로 한다.[그림]6. 관측은 아래 둘 중의 한 방법을 사용한다.가. 관측치로 환폐합차의 점검을 실시한다. 관측치로 환 폐합차의 점검을 실시할 수 없는 경우는 기지점간의 관측을 실시해 환을 구성한다. 다만 기지점간의 관측은 RTK-GPS 외에 세부기준의 다른 기준점측량 방법을 사용할 수 있다.나. 각 변에 대해 1세트의 점검 관측을 실시해 중복관측에 의한 점검을 실시한다.7. 안테나고는 cm까지 측정한다.8. 안테나 폴을 이용하는 경우 보조삼각대 등의 보조장치를 이용해 연직에 정치한다.9. GPS 안테나의 방향은 항상 자북방향을 향하여 정치한다.10. GPS위성의 배치상태를 고려해 고정점과 이동점으로 동시에 5개이상의 위성을 사용한다.⑪계산은 미지점의 위치, 표고 및 이와 관련된 모든 요소의 계산결과를 출력하여 성과표 등을 작성하는 작업을 말한다.⑫관측 종료 후는 정확도에 대한 점검계산을 신속히 실시하고 규정의 허용범위에 있는 것을 확인한다. 또 점검계산값이 규정의 허용범위를 넘었을 경우는 필요한 재관측을 실시한다.1. 점검계산은 기선벡터의 환 폐합차 또는 중복하는 기선 벡터(R)의 교차를 비교하는 방법으로 실시한다.2. 환 폐합의 점검계산은 가능한 한 짧은 노선을 선정해 실시하며, 신점이 1점 밖에 없는 경우는 기지점간의 관측을 추가해 폐합차의 점검을 실시한다.3. 점검계산의 허용범위는 다음 표를 표준으로 한다.[그림]단, 세트간 교차의 점검은, 다각망을 구성하는 각 기선벡터(R)로 비교한다.[그림][그림][그림]  Ø : 위도λ : 경도Ø ,λ 는 측량 지역내의 임의 기지점의 값으로 한다.⑬평균계산은 삼차원망 평균계산을 실시한다.1. 기지점 1점을 고정하는 삼차원망 평균계산을 다음에 의해 실시한다.가. 수평 및 높이의 분산을 고정치로서 다음식에 의해 구한 값으로 한다.[그림][그림]ø : 위도, λ : 경도위도, 경도는 측량지역내의 임의의 기지점의 값으로 한다.나. 기선해석에 의한 분산·공분산이 세트내의 모든 관측치로 부터 구할 수 있는 경우는, 기선 해석으로부터 구한 값으로 한다.다. 삼차원망 평균계산에 의한 허용범위는 결합다각의 수평위치 폐합차는 3,4급 공공삼각점측량 모두ΔS = 10cm+4cm (N:기지점까지의 최단변수)ΔS : 기지점 성과치와 삼차원망 평균계산결과에서 구한 거리2. 기지점 2점이상을 고정하는 삼차원망 평균계산을 다음과 같이 실시한다.가. 삼차원망 평균계산의 중량(P)은 다음의 몇 개의 분산·공분산 행렬의 역행렬을 이용한다.수평 및 높이의 분산을 고정치로서 다음식에 의해 구한 값으로 한다.[그림]나. 기선해석에 의한 분산·공분산이 세트내의 모든 관측치로부터 구할 수 있는 경우는 기선해석에 의해 구한 값으로 한다.다. 3차원망평균계산에 사용하는 허용범위는 다음의 표를 표준으로 한다.[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304745",
-            "seq": "9304745",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020855",
+            "seq": "9020855",
             "filename": "제26조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_1.gif",
@@ -505,8 +514,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304769",
-            "seq": "9304769",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020861",
+            "seq": "9020861",
             "filename": "제26조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_2.gif",
@@ -514,8 +523,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304770",
-            "seq": "9304770",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020884",
+            "seq": "9020884",
             "filename": "제26조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_3.gif",
@@ -523,8 +532,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304771",
-            "seq": "9304771",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020888",
+            "seq": "9020888",
             "filename": "제26조_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_4.gif",
@@ -532,8 +541,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304747",
-            "seq": "9304747",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020873",
+            "seq": "9020873",
             "filename": "제26조_5.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_5.gif",
@@ -541,8 +550,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304774",
-            "seq": "9304774",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020892",
+            "seq": "9020892",
             "filename": "제26조_6.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_6.gif",
@@ -550,11 +559,29 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304775",
-            "seq": "9304775",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020877",
+            "seq": "9020877",
             "filename": "제26조_7.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020878",
+            "seq": "9020878",
+            "filename": "제26조_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제26조_8.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020897",
+            "seq": "9020897",
+            "filename": "제26조_9.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제26조_9.gif",
             "file_store_url": ""
           }
         ],
@@ -571,8 +598,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304749",
-            "seq": "9304749",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020899",
+            "seq": "9020899",
             "filename": "제27조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제27조_1.gif",
@@ -592,8 +619,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304776",
-            "seq": "9304776",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020900",
+            "seq": "9020900",
             "filename": "제28조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제28조_1.gif",
@@ -646,8 +673,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304751",
-            "seq": "9304751",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020903",
+            "seq": "9020903",
             "filename": "제32조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제32조_1.gif",
@@ -655,8 +682,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304753",
-            "seq": "9304753",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020906",
+            "seq": "9020906",
             "filename": "제32조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제32조_2.gif",
@@ -664,8 +691,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304755",
-            "seq": "9304755",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020907",
+            "seq": "9020907",
             "filename": "제32조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제32조_3.gif",
@@ -729,8 +756,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304802",
-            "seq": "9304802",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020908",
+            "seq": "9020908",
             "filename": "제37조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제37조_1.gif",
@@ -777,7 +804,7 @@
         "article_title": "지상현황측량",
         "chapter": "제2장 지상현황측량",
         "chapter_path": "제3편 지형측량 > 제2장 지상현황측량",
-        "content": "제41조(지상현황측량) 지상현황측량은 평판, 토털스테이션, GPS측량기 등을 사용하여 지형·지물의 좌표를 관측하여 그 값을 도시하거나 컴퓨터 등 정보기기를 이용하여 수치데이터 형태로 제작하는 것을 말한다.",
+        "content": "제41조(지상현황측량) 지상현황측량은 평판, 토털스테이션, GPS측량기 등을 사용하여 지형·지물의 좌표를  관측하여 그 값을 도시하거나 컴퓨터 등 정보기기를 이용하여 수치데이터 형태로 제작하는 것을 말한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -794,8 +821,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304804",
-            "seq": "9304804",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020911",
+            "seq": "9020911",
             "filename": "제42조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제42조_1.gif",
@@ -848,8 +875,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304824",
-            "seq": "9304824",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9020912",
+            "seq": "9020912",
             "filename": "제46조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제46조_1.gif",
@@ -869,8 +896,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304807",
-            "seq": "9304807",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021134",
+            "seq": "9021134",
             "filename": "제47조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제47조_1.gif",
@@ -878,8 +905,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304826",
-            "seq": "9304826",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021226",
+            "seq": "9021226",
             "filename": "제47조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제47조_2.gif",
@@ -1064,8 +1091,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304808",
-            "seq": "9304808",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021227",
+            "seq": "9021227",
             "filename": "제63조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제63조_1.gif",
@@ -1085,8 +1112,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304827",
-            "seq": "9304827",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021136",
+            "seq": "9021136",
             "filename": "제64조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제64조_1.gif",
@@ -1106,8 +1133,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304809",
-            "seq": "9304809",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021138",
+            "seq": "9021138",
             "filename": "제65조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제65조_1.gif",
@@ -1160,8 +1187,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304828",
-            "seq": "9304828",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021139",
+            "seq": "9021139",
             "filename": "제69조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제69조_1.gif",
@@ -1169,8 +1196,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304810",
-            "seq": "9304810",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021228",
+            "seq": "9021228",
             "filename": "제69조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제69조_2.gif",
@@ -1178,8 +1205,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304811",
-            "seq": "9304811",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021263",
+            "seq": "9021263",
             "filename": "제69조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제69조_3.gif",
@@ -1187,8 +1214,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304829",
-            "seq": "9304829",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021280",
+            "seq": "9021280",
             "filename": "제69조_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제69조_4.gif",
@@ -1219,8 +1246,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304830",
-            "seq": "9304830",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021291",
+            "seq": "9021291",
             "filename": "제71조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제71조_1.gif",
@@ -1228,8 +1255,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304833",
-            "seq": "9304833",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021331",
+            "seq": "9021331",
             "filename": "제71조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제71조_2.gif",
@@ -1271,8 +1298,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304834",
-            "seq": "9304834",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021357",
+            "seq": "9021357",
             "filename": "제74조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제74조_1.gif",
@@ -1303,8 +1330,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304835",
-            "seq": "9304835",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021392",
+            "seq": "9021392",
             "filename": "제76조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제76조_1.gif",
@@ -1312,8 +1339,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304814",
-            "seq": "9304814",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021419",
+            "seq": "9021419",
             "filename": "제76조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제76조_2.gif",
@@ -1388,8 +1415,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304840",
-            "seq": "9304840",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021473",
+            "seq": "9021473",
             "filename": "제82조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제82조_1.gif",
@@ -1397,8 +1424,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304817",
-            "seq": "9304817",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021509",
+            "seq": "9021509",
             "filename": "제82조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제82조_2.gif",
@@ -1406,8 +1433,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304819",
-            "seq": "9304819",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021492",
+            "seq": "9021492",
             "filename": "제82조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제82조_3.gif",
@@ -1438,8 +1465,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304844",
-            "seq": "9304844",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021564",
+            "seq": "9021564",
             "filename": "제84조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제84조_1.gif",
@@ -1525,8 +1552,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304884",
-            "seq": "9304884",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021601",
+            "seq": "9021601",
             "filename": "제91조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제91조_1.gif",
@@ -1700,8 +1727,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304879",
-            "seq": "9304879",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021649",
+            "seq": "9021649",
             "filename": "제106조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제106조_1.gif",
@@ -1820,8 +1847,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304880",
-            "seq": "9304880",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021678",
+            "seq": "9021678",
             "filename": "제116조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제116조_1.gif",
@@ -1863,8 +1890,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304888",
-            "seq": "9304888",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021727",
+            "seq": "9021727",
             "filename": "제119조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제119조_1.gif",
@@ -1966,7 +1993,7 @@
         "article_title": "정의",
         "chapter": "제6장 지하시설물측량",
         "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
-        "content": "제128조(정의) ①\"지하시설물(이하 \"시설물\"이라 한다)\"이란 도로 및 도로부대시설물과 다음 각호의 시설물을 말한다.1. 도로법 제2조의 규정에 의한 도로 및 부속시설물2. 수도법 제3조의 규정에 의한 상수관로 및 부속시설물3. 하수도법 제2조의 규정에 의한 하수관로 및 부속시설물4. 도시가스사업법 제2조 규정에 의한 가스관로 및 부속시설물5. 전기통신기본법 제2조 규정에 의한 통신관로 및 부속시설물6. 전기사업법 제2조에 규정에 의한 전력관로 및 부속시설물7. 송유관안전관리법 제2조 규정에 의한 송유관로 및 부속시설물8. 집단에너지사업법 제2조 규정에 의한 난방열관로 및 부속시설물9. 기타 신호 및 가로등과 관련된 지하시설, 지하철 및 ITS 관련 지하시설, 지하에 설치된 케이블TV 및 유선선로, 공동구, 지하도 및 지하상가 시설 등과 같이 공공의 이해관계가 있는 지하시설물②\"지하시설물측량\"이란 시설물을 조사, 탐사하고 위치를 측량(시설물의 위치를 육안으로 확인할 수 있는 상태에서 측량하는 것을 포함한다)하여 도면 및 수치로 표현하고 데이터베이스로 구축하는 것을 말한다.③\"지하시설물도\"란 지하시설물 기본도를 기초로 일정한 기호와 축척으로 표시한 도면을 말한다.④\"조사\"란 시설물의 제원과 속성을 직접 현장에서 확인하는 것을 말한다.⑤\"탐사\"란 지하에 매설된 시설물의 위치와 깊은 정도(이하 \"심도\"라 한다)를 탐사기기에 의하여 측정하는 것을 말한다.⑥ (삭제)⑦ (삭제)⑧\"지하시설물 기본도(이하 \"기본도\"라 한다)\"란 지하시설물도 작성에 기초가 되는 축척 1/1,000, 1/2,500의 수치지도 또는 이미 제작된 지하시설물도를 말한다. 다만, 축척 1/1,000 수치지도와 1/2,500 수치지도가 없는 지역에 대해서는 국토지리정보원장이 간행한 수치지도 중 가장 큰 축척의 수치지도를 말한다.⑨\"정위치편집\"이란 시설물의 측량결과를 표준코드 등을 이용하여 편집하거나, 시설물에 대한 현지조사 결과를 이용하여 기 제작된 지하시설물도를 수정·보완하는 작업을 말한다.⑩\"구조화편집\"이란 데이터간의 상호관계를 파악하기 위하여 정위치편집된 지하시설물도를 기하학적, 논리적 형태로 구성하는 작업을 말한다.⑪\"도면제작편집\"이라 함은 지도형식의 도면으로 출력하기 위하여 정위치편집된 성과를 지도도식 규칙 및 표준도식에 의하여 편집하는 작업을 말한다.⑫\"탐사불가구간(이하 \"불탐\"이라 한다)\"이란 탐사가 불가능한 지역으로서 지하시설물도에 탐사불가로 명시하는 구간을 말한다.⑬이 규정에서 정하지 아니한 사항에 대하여는 \"수치지도작성작업규칙\" 또는 \"지도도식규칙\"을 적용한다.",
+        "content": "제128조(정의)   ①\"지하시설물(이하 \"시설물\"이라 한다)\"이란 도로 및 도로부대시설물과 다음 각호의 시설물을 말한다.1. 도로법 제2조의 규정에 의한 도로 및 부속시설물2. 수도법 제3조의 규정에 의한 상수관로 및 부속시설물3. 하수도법 제2조의 규정에 의한 하수관로 및 부속시설물4. 도시가스사업법 제2조 규정에 의한 가스관로 및 부속시설물5. 전기통신기본법 제2조 규정에 의한 통신관로 및 부속시설물6. 전기사업법 제2조에 규정에 의한 전력관로 및 부속시설물7. 송유관안전관리법 제2조 규정에 의한 송유관로 및 부속시설물8. 집단에너지사업법 제2조 규정에 의한 난방열관로 및 부속시설물9. 기타 신호 및 가로등과 관련된 지하시설, 지하철 및 ITS 관련 지하시설, 지하에 설치된 케이블TV 및 유선선로, 공동구, 지하도 및 지하상가 시설 등과 같이 공공의 이해관계가 있는 지하시설물②\"지하시설물측량\"이란 시설물을 조사, 탐사하고 위치를 측량(시설물의 위치를 육안으로 확인할 수 있는 상태에서 측량하는 것을 포함한다)하여 도면 및 수치로 표현하고 데이터베이스로 구축하는 것을 말한다.③\"지하시설물도\"란 지하시설물 기본도를 기초로 일정한 기호와 축척으로 표시한 도면을 말한다.④\"조사\"란 시설물의 제원과 속성을 직접 현장에서 확인하는 것을 말한다.⑤\"탐사\"란 지하에 매설된 시설물의 위치와 깊은 정도(이하 \"심도\"라 한다)를 탐사기기에 의하여 측정하는 것을 말한다.⑥ (삭제)⑦ (삭제)⑧\"지하시설물 기본도(이하 \"기본도\"라 한다)\"란 지하시설물도 작성에 기초가 되는 축척 1/1,000, 1/2,500의 수치지도 또는 이미 제작된 지하시설물도를 말한다. 다만, 축척 1/1,000 수치지도와 1/2,500 수치지도가 없는 지역에 대해서는 국토지리정보원장이 간행한 수치지도 중 가장 큰 축척의  수치지도를 말한다.⑨\"정위치편집\"이란 시설물의 측량결과를 표준코드 등을 이용하여 편집하거나, 시설물에 대한 현지조사 결과를 이용하여 기 제작된 지하시설물도를 수정·보완하는 작업을 말한다.⑩\"구조화편집\"이란 데이터간의 상호관계를 파악하기 위하여 정위치편집된 지하시설물도를 기하학적, 논리적 형태로 구성하는 작업을 말한다.⑪\"도면제작편집\"이라 함은 지도형식의 도면으로 출력하기 위하여 정위치편집된 성과를 지도도식 규칙 및 표준도식에 의하여 편집하는 작업을 말한다.⑫\"탐사불가구간(이하 \"불탐\"이라 한다)\"이란 탐사가 불가능한 지역으로서 지하시설물도에 탐사불가로 명시하는 구간을 말한다.⑬이 규정에서 정하지 아니한 사항에 대하여는 \"수치지도작성작업규칙\" 또는 \"지도도식규칙\"을 적용한다.⑭\"밀폐공간\"이란 산소결핍, 유해가스로 인한 화재·폭발 등의 위험이 있는 장소로서「산업안전보건기준에 관한 규칙」제618조 제1호에 따른 장소 중 지하시설물 측량과 관련된 것을 말한다.⑮\"산소결핍\"이란 공기 중의 산소농도가 18퍼센트 미만인 상태로서「산업안전보건기준에 관한 규칙」제618조 제4호에서 정한 것을 말한다.\"유해가스\"란 밀폐공간에서 탄산가스·황화수소 등의 유해물질이 가스 상태로 공기 중에 발생하는 것으로서 「산업안전보건기준에 관한 규칙」제618조 제2호에서 정한 것을 말한다.\"적정공기\"란 산소농도의 범위가 18퍼센트 이상 23.5퍼센트 미만, 탄산가스의 농도가 1.5퍼센트 미만, 황화수소의 농도가 10피피엠 미만인 수준의 공기로서「산업안전보건기준에 관한 규칙」제618조 제3호에서 정한 것을 말한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2016,8 +2043,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304890",
-            "seq": "9304890",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022006",
+            "seq": "9022006",
             "filename": "제132조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제132조_1.gif",
@@ -2028,14 +2055,102 @@
       },
       {
         "article_no": "제133조",
-        "article_title": "시설물측량 시 안전 확보",
+        "article_title": "안전관리책임자의 지정",
         "chapter": "제6장 지하시설물측량",
         "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
-        "content": "제133조(시설물측량 시 안전 확보) 시설물측량을 수행하는 측량기술자는 안전을 확보하기 위하여 다음 각 호의 사항을 준수한다.1. 시설물을 측량하기 위하여 공동구 및 맨홀 등을 출입하고자 할 경우에는 지하시설물 관리기관과 사전 협의하여야 한다.2. 시설물 관리기관은 안전대책 및 시설물과 관련된 제반 측량조건에 대하여 측량기술자에게 설명하거나 관련자를 입회시킨다.3. 측량작업 전에 측량작업자에게 안전교육을 실시하고, 안내간판, 차량 유도표지판 등의 안전시설을 설치하며, 안전요원을 배치하여야 한다.4. 관련 규정에 따라 안전기기 및 보호구를 착용하고 작업을 실시하며, 맨홀 등과 같이 통풍이 되지 않는 곳에는 가스 및 산소 결핍 등으로 인한 사고가 발생되지 않도록 하고, 맨홀 등을 출입할 때에는 사다리 등을 이용하여 안전하게 출입할 수 있도록 한다.5. 야간작업을 할 때에는 야간 안전대책을 수립·시행한다.6. 용역책임자는 작업현장에 상주하여 작업이 안전하게 이루어지도록 지휘 및 감독하며, 측량기기 및 작업방법 등을 확인하거나 점검하고, 측량 내용도 수시로 검사한다.7. (삭제)8. 관리기관이 시설물 측량용역을 발주하고자 할 때에는 제1호 내지 제6호의 규정에 의한 안전관리를 위해 필요한 비용을 설계에 계상한다.",
+        "content": "제133조(안전관리책임자의 지정) 지하시설물 측량작업을 수행하는 사업주는 측량기술자 중에서 각종 안전사고 예방과 안전교육을 담당하는 안전관리책임자를 지정하여 운영하여야 하며 이를 공공측량시행자에게 보고하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "admrul:공공측량작업규정#JO0133"
+      },
+      {
+        "article_no": "제133조의2",
+        "article_title": "안전교육의 실시",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의2(안전교육의 실시) 안전관리책임자는 밀폐공간에서 작업자를 대상으로 다음 각 호의 내용을 포함하는 안전교육을 사업착수전 1회 이상 실시하여야 한다.1. 유해가스의 종류, 유해·위험성2. 유해가스의 농도 측정방법3. 공기호흡기 등 보호구의 사용방법 및 보수점검요령4. 당해 작업 시의 주의사항5. 공정별 표준작업요령6. 사고발생 시의 대처요령7. 응급처치요령8. 기타 안전보건상의 조치 등",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_02"
+      },
+      {
+        "article_no": "제133조의3",
+        "article_title": "감시인의 배치 등",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의3(감시인의 배치 등) ① 안전관리책임자는 작업자가 밀폐공간에서 작업을 하는 경우에 상시 작업 상황을 감시할 수 있도록 감시인을 지정하여 밀폐공간 외부에 배치하여야 한다.② 감시인은 밀폐공간에서 작업하는 작업자가 질식 등 이상이 있을 경우에 구조요청 등 필요한 조치를 한 후 이를 즉시 안전관리책임자에게 알려야 한다.③ 재해자 구조요청 후 감시인 등이 재해자 구조를 위해 밀폐공간 내로 들어갈 경우에는 반드시 호흡용보호구를 착용해야 한다. 이를 위해 반드시 2대이상의 호흡용보호구를 비치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_03"
+      },
+      {
+        "article_no": "제133조의4",
+        "article_title": "긴급 구조훈련",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의4(긴급 구조훈련) 사업주는 긴급 상황 발생 시 신속하게 대응할 수 있도록 작업자에 대하여 비상연락체계 운영, 구조용 장비의 사용, 송기마스크 착용 및 응급처치 등에 관한 훈련을 최초 작업 착수 전에 1회 이상 실시하고, 그 결과를 공공측량시행자에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_04"
+      },
+      {
+        "article_no": "제133조의5",
+        "article_title": "안전작업절차",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의5(안전작업절차) ① 지하시설물 조사를 위한 밀폐공간 작업 시에는 다음 각 호의 절차에 따라 작업을 수행하여야 한다.1. 밀폐공간에 출입하기 전에 반드시 산소 및 유해가스농도를 측정하여 유해가스 존재유무를 확인한다.2. 유해가스농도 측정 후 측정결과와 환기 시간 등을 [별표51]의 지하시설물 안전보건 작업일지에 작성한다.3. 밀폐공간의 유해가스 제거 및 적정 공기 상태를 유지하기 위하여 환기를 한다. 다만, 공간적 특성이나 작업의 성질 상 환기하기가 곤란하여 작업자에게 송기마스크 등을 지급하여 착용하도록 하는 경우에는 그러하지 아니하다.4. 환기 후 밀폐공간 내의 유해가스농도를 재측정하여 적정 공기 상태일 경우에만 출입하여야 한다.5. 작업자는 산소농도측정기를 휴대하고 질식사고 발생 시 용이한 구조를 위해 지상과 구명밧줄을 연결한 후 밀폐공간에 진입하여야 한다. 이때 산소농도측정기를 통해 산소결핍 여부를 수시로 확인하여야 한다.6. 밀폐공간 내 질식사고 예방과 차량 통제 등을 위하여 [별표52]의 안전작업 배치도에 따라 안전조치를 실시하여야 한다.② 밀폐공간을 출입하고자 할 경우에는 지하시설물 관리기관과 사전 협의하여야 한다.③ 시설물 관리기관은 안전대책 및 시설물과 관련된 제반 측량조건에 대하여 측량기술자에게 설명하거나 관련자를 입회시킨다.④ 야간작업을 할 때에는 야간 안전대책을 수립·시행한다.⑤ 관리기관이 시설물 측량용역을 발주하고자 할 때에는 안전관리를 위해 필요한 비용을 설계에 계상한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_05"
+      },
+      {
+        "article_no": "제133조의6",
+        "article_title": "유해가스농도 측정방법",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의6(유해가스농도 측정방법) ① 밀폐공간에 대한 유해가스농도 측정 시 산소농도, 황화수소농도, 일산화탄소농도 및 가연성가스(매탄) 측정이 모두 가능한 혼합가스농도측정기를 사용하여야 한다.② 유해가스 측정 시에는 반드시 밀폐공간 외부에서 흡입용 호스를 이용하여 밀폐공간의 상부, 중간, 하부의 각 지점별 농도를 측정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_06"
+      },
+      {
+        "article_no": "제133조의7",
+        "article_title": "안전장비의 종류",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의7(안전장비의 종류) 지하시설물 측량을 위한 밀폐공간 작업 시 구비해야할 안전장비의 종류는 [별표53]과 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_07"
+      },
+      {
+        "article_no": "제133조의8",
+        "article_title": "응급조치",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의8(응급조치) ① 밀폐공간작업장에서는 평상시에 응급 비상연락체계가 항상 유지되어 있어야 하며, 응급 재해자가 발생하였을 때는 병원 또는 구조대에 연락과 동시에 그 재해자에게 의사의 치료를 받을 수 있도록 하기 전까지 적절한 조치를 하여야 한다.② 응급조치 시에는 다음의 사항을 주의 깊게 관찰하고 그 내용을 의사에게 정확히 전달하여 치료에 참고하도록 하여야 한다.1. 호흡하고 있는지 확인하여야 한다. 호흡이 정지되어 있으면 머리를뒤로 젖히거나 아래턱을 밀어내어 기도를 열어주고 다시 확인하여야  한다.2. 재해자의 체온을 유지하도록 보온하여야 한다.3. 재해자를 운반할 때는 서두르지 말고 재해자의 마음을 가라앉히고되도록 재해자의 상처를 건드리지 않도록 주의하여 운반하여야 한다.③ 구조된 재해자의 응급조치요령(심폐소생술)은 [별표54]와 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_08"
+      },
+      {
+        "article_no": "제133조의9",
+        "article_title": "안전이행확인서",
+        "chapter": "제6장 지하시설물측량",
+        "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
+        "content": "제133조의9(안전이행확인서) 공공측량시행자는 지하시설물 측량 수행자에게 밀폐공간 출입작업에 관한 주의사항을 주지시키고 해당 용역사업 계약 시 [별표55]의 \"안전이행확인서\"를 제출토록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공측량작업규정#JO0133_09"
       },
       {
         "article_no": "제134조",
@@ -2136,8 +2251,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304904",
-            "seq": "9304904",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9021992",
+            "seq": "9021992",
             "filename": "제142조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제142조_1.gif",
@@ -2145,8 +2260,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304891",
-            "seq": "9304891",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022016",
+            "seq": "9022016",
             "filename": "제142조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제142조_2.gif",
@@ -2215,14 +2330,14 @@
         "article_title": "지하시설물 정위치 편집",
         "chapter": "제6장 지하시설물측량",
         "chapter_path": "제4편 응용측량 > 제6장 지하시설물측량",
-        "content": "제148조(지하시설물 정위치 편집)\n제145조(정위치편집) ①정위치편집은 다음 각 호와 같이 실시한다.1. 정위치편집 작업은 도엽단위로 하고 표준코드(도엽코드·지형코드·도로기반시설물 레이어코드 및 속성코드를 말한다) 및 심볼을 사용한다.2. 시설물의 레이어코드 및 속성코드는 수치지형도작성작업규정 별표1 및 국가공간정보 표준을 준수한다.3. 지하시설물 관로의 입력은 관속 내용물의 흐르는 방향으로 입력하는 것을 원칙으로 하고, 그 흐름의 방향을 파악할 수 없는 경우에는 도면의 상단에서 하단, 좌측에서 우측방향의 순서로 입력한다.4. 관로를 입력할 때에는 시설물의 맨홀, 제수변, 밸브 등을 기준으로 해서 관로를 분리하여 입력하며, 점형자료(맨홀, 제수변, 밸브)의 중앙에서 관로를 끊어준다. 다만, 계획기간의 요청에 따라 달리할 수 있다.5. 관로의 위치정보 및 속성정보가 달라지거나 분기 또는 합쳐지는 등 다음 각 목에 해당하는 경우는 반드시 접합점(NODE)을 생성한다가. 지하시설물의 관경 또는 재질 등 속성자료가 변경되는 지점나. 시설물이 교차·분리하거나 상태가 바뀌는 지점다. 지하시설물에 각종 제어장치 또는 밸브가 있는 지점라. 기타 시설물 관리상 필요하다고 판단되는 지점6. 관로가 횡단할 경우에는 분리기호를 교차점에 별도로 표시하고, 통과하도록 입력한다.7. 맨홀 및 심볼 등이 중복될 경우에는 중복하여 입력한다.8. 관로가 변류 및 제어기 등과 만날 경우에는 관로 위의 접합부에 심벌을 부여한다. 이 경우, 심벌입력은 관로 방향과 동일한 방향으로 입력한다.9. 정위치편집이 완료되면 시설물의 정위치편집된 파일은 별도 작성하여 보관한다.②정위치편집된 도면에 표시하는 시설물의 종류별 기본색상은 다음 각 호와 같다.1. 도로 시설은 \"수치지도작성작업규칙\" 또는 \"지도도식규칙\"을 적용한다.2. 상수도 시설은 청색(0,0,255)으로 한다.3. 하수도 시설은 보라색(255,0,255)한다. 다만, 계획기관의 요구에 의해 동일한 색상의 심벌로 시설물 종류를 다음 각 목과 같은 방법으로 세분할 수 있다.가. 오수관로  보라색   ─── ·───나. 우수관로  보라색   ───‥───4. 가스시설은 황색(255,102,0)으로 한다.5. 통신시설은 녹색(0,255,0)으로 한다.6. 전기시설은 적색(255,0,0)으로 한다.7. 송유관 시설은 갈색(153,102,0)으로 한다.8. 난방열관 시설은 주황색(255,102,204)으로 한다.③시설물의 제원은 다음 각 호와 같이 표기한다.1. 매설물의 연장은 맨홀과 맨홀 사이의 거리를 기록하는 것을 원칙으로 하되, 경우에 따라서는 분기점, 관경의 변화점, 매설년도의 상이점 등을 적용하여 기입할 수 있다.2. 두 개 이상의 동일 공종관이 서로 교차하여 합류될 경우에는 합류와 같이 표시하며, 분리될 경우에는 분리기호(심볼)를 교차점에 별도로 표시하고, 상월, 하월로 구분한다.[그림]3. 같은 지점에 동일 공종으로써 2개 이상의 각기 다른 재질, 규격의 시설물이  매설되어 있을 경우에는 한 선분위에 그 제원을 2줄 이상으로 각각 기입한다.4. 동일한 제원으로 맨홀과 맨홀 사이의 거리가 협소할 경우에는 기록 제원 중  연장만 표시한다.5. 하수시설의 경우 유수방향을 관의 연결부나 끝부분 및 접합점에 ‘→’와 같이 화살표로 표시한다.6. 각 제원의 표시방법은 다음 각목과 같다.가. 매설년도는 연도(예 : 1991)만 표시한다.나. 재질은 약어표에 따라 작성한다.다. 관경은 원형, 각형 구분으로 구분하고 공칭 지름을 밀리미터로 작성한다.라. 연장은 미터단위로 소수 둘째자리에서 사사오입 한다.마. 매설깊이는 지하시설물 상단의 거리를 미터 단위로 소수 둘째자리에서 사사오입 한다.바. 관로수량은 규격별 수량(예 : ?200×6)을 기입한다.사. 1991년에 매설한 흄관 원형 구경 500mm, 연장 25m, 지하시설물 상단의 매설깊이 1.2m인 경우, 다음과 같이 방법으로 표기한다.[그림]아. 박스 구조물은 「연수＠폭×높이」로 표기하고, 미터단위로 소수 첫째자리까지 표기한다.자. 도로폭은 미터 단위로 소수 둘째자리에서 사사오입 한다.7. 특수한 지하시설물은 다음 각목과 같이 표기한다.가. R.C BOX(하수), 공동구, 체신구, 기타 대형 지하시설물의 평면도 표시방법은 그 구조물의 높이에 관계없이 폭이 1.5m 이상일 경우에는 다음 그림과 같이 실제 폭을 실선으로 표시하고 규격은 「폭×높이」로 기록하며, 다른 사항은 제3항의 제원표시방법을 따른다.[그림]나. 하천 복개 구조물도 R.C BOX와 같이 표시하고, 측벽이 수직이 아닌 경우 그 폭은 상부 슬래부(Slab) 폭으로 기록한다.다. 원형관의 관경이 1,500mm 이상일 경우에는 내경을 실제 폭으로 표시한다.④도로시설물의 제원 표기방법은 다음과 같다.1. 도로시설물은 형태적 특성에 따라 점형, 선형, 면형으로 분류하고 각각의 재원 조사 및 표기는 국가공간정보 표준을 준수한다.2. 점형시설물인 가로수의 제원 표시 예시는 다음과 같다.가. 수종(예 : 느티나무)을 표시한다.나. 직경은 미터 단위로 소수 둘째자리에서 사사오입 한다.다. 수목보호판 유무(예 : 보호판 유)를 표시한다.라. 지주대유무(예 : 지주대 유)를 표시한다.[그림]3. 선형시설물인 방호울타리의 제원은 다음 각목과 같이 표시한다.가. 방호울타리종류(예 : 가드레일)를 표시한다.나. 재질(예 : 스테인레스)을 표시한다.다. 높이는 미터 단위로 소수 둘째자리에서 사사오입 한다.[그림]4. 면형시설물인 중앙분리대는 다음 각목과 같이 표시 한다.가. 분리대종류(예 : 녹지대)를 표시한다.나. 폭원과 높이를 미터단위로 소수 둘째자리에서 사사오입 한다.[그림]",
+        "content": "제148조(지하시설물 정위치 편집)\n제145조(정위치편집) ①정위치편집은 다음 각 호와 같이 실시한다.1. 정위치편집 작업은 도엽단위로 하고 표준코드(도엽코드·지형코드·도로기반시설물 레이어코드 및 속성코드를 말한다) 및 심볼을 사용한다.2. 시설물의 레이어코드 및 속성코드는 수치지형도작성작업규정 별표1 및 국가공간정보 표준을 준수한다.3. 지하시설물 관로의 입력은 관속 내용물의 흐르는 방향으로 입력하는 것을 원칙으로 하고, 그 흐름의 방향을 파악할 수 없는 경우에는 도면의 상단에서 하단, 좌측에서 우측방향의 순서로 입력한다.4. 관로를 입력할 때에는 시설물의 맨홀, 제수변, 밸브 등을 기준으로 해서 관로를 분리하여 입력하며, 점형자료(맨홀, 제수변, 밸브)의 중앙에서 관로를 끊어준다. 다만, 계획기간의 요청에 따라 달리할 수 있다.5. 관로의 위치정보 및 속성정보가 달라지거나 분기 또는 합쳐지는 등 다음 각 목에 해당하는 경우는 반드시 접합점(NODE)을 생성한다가. 지하시설물의 관경 또는 재질 등 속성자료가 변경되는 지점나. 시설물이 교차·분리하거나 상태가 바뀌는 지점다. 지하시설물에 각종 제어장치 또는 밸브가 있는 지점라. 기타 시설물 관리상 필요하다고 판단되는 지점6. 관로가 횡단할 경우에는 분리기호를 교차점에 별도로 표시하고, 통과하도록 입력한다.7. 맨홀 및 심볼 등이 중복될 경우에는 중복하여 입력한다.8. 관로가 변류 및 제어기 등과 만날 경우에는 관로 위의 접합부에 심벌을 부여한다. 이 경우, 심벌입력은 관로 방향과 동일한 방향으로 입력한다.9. 정위치편집이 완료되면 시설물의 정위치편집된 파일은 별도 작성하여 보관한다.②정위치편집된 도면에 표시하는 시설물의 종류별 기본색상은 다음 각 호와 같다.1. 도로 시설은 \"수치지도작성작업규칙\" 또는 \"지도도식규칙\"을 적용한다.2. 상수도 시설은 청색(0,0,255)으로 한다.3. 하수도 시설은 보라색(255,0,255)한다. 다만, 계획기관의 요구에 의해 동일한 색상의 심벌로 시설물 종류를 다음 각 목과 같은 방법으로 세분할 수 있다.가. 오수관로  보라색   ─── ·───나. 우수관로  보라색   ───‥───4. 가스시설은 황색(255,102,0)으로 한다.5. 통신시설은 녹색(0,255,0)으로 한다.6. 전기시설은 적색(255,0,0)으로 한다.7. 송유관 시설은 갈색(153,102,0)으로 한다.8. 난방열관 시설은 주황색(255,102,204)으로 한다.③시설물의 제원은 다음 각 호와 같이 표기한다.1. 매설물의 연장은 맨홀과 맨홀 사이의 거리를 기록하는 것을 원칙으로 하되, 경우에 따라서는 분기점, 관경의 변화점, 매설년도의 상이점 등을 적용하여 기입할 수 있다.2. 두 개 이상의 동일 공종관이 서로 교차하여 합류될 경우에는 합류와 같이 표시하며, 분리될 경우에는 분리기호(심볼)를 교차점에 별도로 표시하고, 상월, 하월로 구분한다.[그림]3. 같은 지점에 동일 공종으로써 2개 이상의 각기 다른 재질, 규격의 시설물이  매설되어 있을 경우에는 한 선분위에 그 제원을 2줄 이상으로 각각 기입한다.4. 동일한 제원으로 맨홀과 맨홀 사이의 거리가 협소할 경우에는 기록 제원 중  연장만 표시한다.5. 하수시설의 경우 유수방향을 관의 연결부나 끝부분 및 접합점에 ‘→’와 같이 화살표로 표시한다.6. 각 제원의 표시방법은 다음 각목과 같다.가. 매설년도는 연도(예 : 1991)만 표시한다.나. 재질은 약어표에 따라 작성한다.다. 관경은 원형, 각형 구분으로 구분하고 공칭 지름을 밀리미터로 작성한다.라. 연장은 미터단위로 소수 둘째자리에서 사사오입 한다.마. 매설깊이는 지하시설물 상단의 거리를 미터 단위로 소수 둘째자리에서 사사오입 한다.바. 관로수량은 규격별 수량[그림]을 기입한다.사. 1991년에 매설한 흄관 원형 구경 500mm, 연장 25m, 지하시설물 상단의 매설깊이 1.2m인 경우, 다음과 같이 방법으로 표기한다.[그림]아. 박스 구조물은 「연수＠폭×높이」로 표기하고, 미터단위로 소수 첫째자리까지 표기한다.자. 도로폭은 미터 단위로 소수 둘째자리에서 사사오입 한다.7. 특수한 지하시설물은 다음 각목과 같이 표기한다.가. R.C BOX(하수), 공동구, 체신구, 기타 대형 지하시설물의 평면도 표시방법은 그 구조물의 높이에 관계없이 폭이 1.5m 이상일 경우에는 다음 그림과 같이 실제 폭을 실선으로 표시하고 규격은 「폭×높이」로 기록하며, 다른 사항은 제3항의 제원표시방법을 따른다.[그림]나. 하천 복개 구조물도 R.C BOX와 같이 표시하고, 측벽이 수직이 아닌 경우 그 폭은 상부 슬래부(Slab) 폭으로 기록한다.다. 원형관의 관경이 1,500mm 이상일 경우에는 내경을 실제 폭으로 표시한다.④도로시설물의 제원 표기방법은 다음과 같다.1. 도로시설물은 형태적 특성에 따라 점형, 선형, 면형으로 분류하고 각각의 재원 조사 및 표기는 국가공간정보 표준을 준수한다.2. 점형시설물인 가로수의 제원 표시 예시는 다음과 같다.가. 수종(예 : 느티나무)을 표시한다.나. 직경은 미터 단위로 소수 둘째자리에서 사사오입 한다.다. 수목보호판 유무(예 : 보호판 유)를 표시한다.라. 지주대유무(예 : 지주대 유)를 표시한다.[그림]3. 선형시설물인 방호울타리의 제원은 다음 각목과 같이 표시한다.가. 방호울타리종류(예 : 가드레일)를 표시한다.나. 재질(예 : 스테인레스)을 표시한다.다. 높이는 미터 단위로 소수 둘째자리에서 사사오입 한다.[그림]4. 면형시설물인 중앙분리대는 다음 각목과 같이 표시 한다.가. 분리대종류(예 : 녹지대)를 표시한다.나. 폭원과 높이를 미터단위로 소수 둘째자리에서 사사오입 한다.[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304905",
-            "seq": "9304905",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022043",
+            "seq": "9022043",
             "filename": "제148조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제148조_1.gif",
@@ -2230,8 +2345,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304892",
-            "seq": "9304892",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9023600",
+            "seq": "9023600",
             "filename": "제148조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제148조_2.gif",
@@ -2239,8 +2354,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304895",
-            "seq": "9304895",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022044",
+            "seq": "9022044",
             "filename": "제148조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제148조_3.gif",
@@ -2248,8 +2363,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304908",
-            "seq": "9304908",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022035",
+            "seq": "9022035",
             "filename": "제148조_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제148조_4.gif",
@@ -2257,8 +2372,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304913",
-            "seq": "9304913",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022036",
+            "seq": "9022036",
             "filename": "제148조_5.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제148조_5.gif",
@@ -2266,11 +2381,20 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304901",
-            "seq": "9304901",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022037",
+            "seq": "9022037",
             "filename": "제148조_6.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제148조_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022039",
+            "seq": "9022039",
+            "filename": "제148조_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제148조_7.gif",
             "file_store_url": ""
           }
         ],
@@ -2430,8 +2554,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304923",
-            "seq": "9304923",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022046",
+            "seq": "9022046",
             "filename": "제162조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제162조_1.gif",
@@ -2594,8 +2718,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304915",
-            "seq": "9304915",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022062",
+            "seq": "9022062",
             "filename": "제176조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제176조_1.gif",
@@ -2637,8 +2761,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304925",
-            "seq": "9304925",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022063",
+            "seq": "9022063",
             "filename": "제179조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제179조_1.gif",
@@ -2674,14 +2798,14 @@
         "article_title": "세션평균",
         "chapter": "제6장 계산",
         "chapter_path": "제6편 네트워크 RTK 측량 > 제6장 계산",
-        "content": "제182조(세션평균) ① 관측 세션이 1회 이상인 경우 평균 계산은 다음의 순서로 한다.② 관측기기로부터 취득한 결과가 측지좌표로 주어진 경우에는 각 요소별로 가중평균한다. 측지위도의 가중평균은 다음의 식으로 구할 수 있다.[그림]③ 관측기기로부터 취득한 결과가 평면좌표로 주어진 경우에는 2항에서 정의한 바와 같이 각 요소별로 가중평균한다.[그림]④ 관측기기로부터 취득한 결과가 임의의 점에 대한 기선벡터로 주어진 경우에는 분산-공분산 행렬을 이용하여 기선벡터에 대해 가중평균한다.[그림]⑤ 4항에서와 같이 임의의 점에 대한 기선벡터의 평균값을 계산하고 해당 측점에 대한 3차원 직각좌표 를 구한 경우에는 다음 식을 이용하여 측지좌표로 변환한다.[그림]⑥ 2항 및 5항에서와 같이 계산된 측지경위도는 [별표50] 투영변환식 (1)에 따라 평면직각좌표로 변환한다.⑦ 4항에서와 같이 계산된 평면직각좌표는 [별표50] 투영변환식 (2)에 의거하여 측지경위도 좌표로 변환한다.⑧ GRS80 타원체의 장반경(a) 및 편평률(f)의 역수는 다음과 같다.[그림]⑨ 계산된 성과 및 관측시 위성관련 정보는 네트워크 RTK 관측기록부에 정리한다(별표48).",
+        "content": "제182조(세션평균) ① 관측 세션이 1회 이상인 경우 평균 계산은 다음의 순서로 한다.② 관측기기로부터 취득한 결과가 측지좌표로 주어진 경우에는 각 요소별로 가중평균한다. 측지위도의 가중평균은 다음의 식으로 구할 수 있다.[그림]여기서 N은 전체 세션 수를 나타내며 [그림]는 각 세션에서 취득한 측지위도를 나타낸다. 각 세션의 가중값 [그림]은 수평위치 분산의 역수로서 다음과 같이 나타낼 수 있다.[그림]동일한 방법으로 측지경도 및 타원체고의 평균값을 계산하며, 가중값 계산을 위해서는 각각 수평위치 및 수직위치 분산을 이용한다.[그림]③ 관측기기로부터 취득한 결과가 평면좌표로 주어진 경우에는 2항에서 정의한 바와 같이 각 요소별로 가중평균한다.[그림]④ 관측기기로부터 취득한 결과가 임의의 점에 대한 기선벡터로 주어진 경우에는 분산-공분산 행렬을 이용하여 기선벡터에 대해 가중평균한다.[그림]여기서 [그림]는 각 세션에서 취득한 기선벡터이며, [그림]는 해당 세션의 분산-공분산 행렬의 역행렬이다.[그림]⑤ 4항에서와 같이 임의의 점에 대한 기선벡터의 평균값을 계산하고 해당 측점에 대한 3차원 직각좌표 를 구한 경우에는 다음 식을 이용하여 측지좌표로 변환한다.[그림]여기서 측지위도는 다음 값을 초기값으로 하여 측지위도의 변화가 [그림] 라디안 이내가 될 때까지 반복계산한다.[그림]위 식에서 은 묘유선 곡률반경이고, 는 제1이심율로서 다음 식으로 계산한다.[그림]⑥ 2항 및 5항에서와 같이 계산된 측지경위도는 [별표50] 투영변환식 (1)에 따라 평면직각좌표로 변환한다.⑦ 4항에서와 같이 계산된 평면직각좌표는 [별표50] 투영변환식 (2)에 의거하여 측지경위도 좌표로 변환한다.⑧ GRS80 타원체의 장반경(a) 및 편평률(f)의 역수는 다음과 같다.[그림]⑨ 계산된 성과 및 관측시 위성관련 정보는 네트워크 RTK 관측기록부에 정리한다(별표48).",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304927",
-            "seq": "9304927",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022064",
+            "seq": "9022064",
             "filename": "제182조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제182조_1.gif",
@@ -2689,8 +2813,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304916",
-            "seq": "9304916",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022067",
+            "seq": "9022067",
             "filename": "제182조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제182조_2.gif",
@@ -2698,8 +2822,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304917",
-            "seq": "9304917",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022068",
+            "seq": "9022068",
             "filename": "제182조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제182조_3.gif",
@@ -2707,8 +2831,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304920",
-            "seq": "9304920",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022069",
+            "seq": "9022069",
             "filename": "제182조_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제182조_4.gif",
@@ -2716,11 +2840,101 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9304942",
-            "seq": "9304942",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022070",
+            "seq": "9022070",
             "filename": "제182조_5.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제182조_5.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022071",
+            "seq": "9022071",
+            "filename": "제182조_6.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022047",
+            "seq": "9022047",
+            "filename": "제182조_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022072",
+            "seq": "9022072",
+            "filename": "제182조_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_8.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022073",
+            "seq": "9022073",
+            "filename": "제182조_9.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_9.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022074",
+            "seq": "9022074",
+            "filename": "제182조_10.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_10.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022048",
+            "seq": "9022048",
+            "filename": "제182조_11.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_11.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022049",
+            "seq": "9022049",
+            "filename": "제182조_12.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_12.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022075",
+            "seq": "9022075",
+            "filename": "제182조_13.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_13.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022076",
+            "seq": "9022076",
+            "filename": "제182조_14.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_14.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=9022050",
+            "seq": "9022050",
+            "filename": "제182조_15.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제182조_15.gif",
             "file_store_url": ""
           }
         ],
@@ -2752,9 +2966,9 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20110801",
-      "promulgation_no": "2011-605",
-      "content": "부칙 <제2011-605호,2011. 8. 1.>제1조(시행일) 이 고시는 2011년 8월 1일부터 시행한다.",
+      "promulgation_date": "20111229",
+      "promulgation_no": "2011-1084",
+      "content": "부칙 <제2011-1084호,2011. 12. 29.>제1조(시행일) 이 고시는 2012년 1월 1일부터 시행한다.제2조(종전 고시의 폐지) 종전의 공공측량작업규정(국토지리정보원 고시 제2011-605호, ’ 11. 8. 1.)은 이를 폐지한다.",
       "provision_id": "admrul:공공측량작업규정#ADDENDUM"
     }
   ],
@@ -2765,13 +2979,13 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 184,
+    "articles_total": 192,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
-    "appendices_count": 50,
+    "appendices_count": 55,
     "attachments_count": 1
   },
   "source": {
