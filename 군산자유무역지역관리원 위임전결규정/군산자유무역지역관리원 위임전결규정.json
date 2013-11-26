@@ -1,39 +1,39 @@
 {
   "law_id": "24888",
-  "mst": "2000000022236",
+  "mst": "2000000026201",
   "law_name": "군산자유무역지역관리원 위임전결규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:24888",
-  "promulgation_no": "114",
-  "promulgation_date": "20130204",
-  "enforcement_date": "20130204",
-  "revision_date": "20130204",
+  "promulgation_no": "22",
+  "promulgation_date": "20131126",
+  "enforcement_date": "20131126",
+  "revision_date": "20131126",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "산업통상부(군산자유무역지역관리원)",
     "담당자명": "",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "군산자유무역지역관리원 위임전결규정",
-    "발령일자": "20130204",
+    "발령일자": "20131126",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
-    "소관부처명": "지식경제부",
+    "소관부처명": "산업통상부",
     "전화번호": "063-464-0704",
     "제개정구분명": "일부개정",
-    "소관부처코드": "1411000",
-    "생성일자": "20130205",
+    "소관부처코드": "1451000",
+    "생성일자": "20131127",
     "행정규칙ID": "24888",
-    "시행일자": "20130204",
-    "담당부서기관코드": "1415797",
-    "발령번호": "114",
-    "행정규칙일련번호": "2000000022236",
-    "상위부처명": "지식경제부"
+    "시행일자": "20131126",
+    "담당부서기관코드": "1450148",
+    "발령번호": "22",
+    "행정규칙일련번호": "2000000026201",
+    "상위부처명": "산업통상부"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -46,9 +46,30 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조 (목적) 행정업무의 효율적 운영에 관한 규정 제10조제2항 및 지식경제부와 그 소속기관 위임전결규정 제6조에 의하여 군산자유무역지역관리원의 위임전결사항과 그 절차를 정하여 권한과 책임을 분명히 하고 업무처리에 신속을 기함을 목적으로 한다.",
+        "content": "제1조 (목적) 행정업무의 효율적 운영에 관한 규정 제10조제2항 및 산업통상자원부와 그 소속기관 위임전결규정 제6조에 의하여 군산자유무역지역관리원의 위임전결사항과 그 절차를 정하여 권한과 책임을 분명히 하고 업무처리에 신속을 기함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "군산자유무역지역관리원 위임전결규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24888",
+            "target_url": "https://www.law.go.kr/행정규칙/군산자유무역지역관리원 위임전결규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:군산자유무역지역관리원위임전결규정#JO0001",
+            "reference_id": "admrul:군산자유무역지역관리원위임전결규정#JO0006",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "군산자유무역지역관리원 위임전결규정/군산자유무역지역관리원 위임전결규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:군산자유무역지역관리원위임전결규정#JO0001"
       },
@@ -79,7 +100,7 @@
         "article_title": "전결사항",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조 (전결사항) ① 과장의 위임전결사항은 별표와 같다.② 별표에 열거되지 아니한 사항은 이 영에 준하여 유사사항의 전결권자가 전결할 수 있다.  다만, 전결권자를 판단하기 어려운 사항에 대하여는 원장의 지시에 따라 처리한다.",
+        "content": "제4조 (전결사항) ① 과장의 위임전결사항은 별표와 같다.② 별표에 열거되지 아니한 사항은 이 영에 준하여 유사사항의 전결권자가  전결할 수 있다.  다만, 전결권자를 판단하기 어려운 사항에 대하여는 원장의 지시에 따라 처리한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -144,27 +165,120 @@
   },
   "addenda": [
     {
+      "promulgation_date": "20060327",
+      "promulgation_no": "86",
+      "content": "부칙 <제86호,2006. 3. 27.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:군산자유무역지역관리원위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000026201",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20131126"
+    },
+    {
+      "promulgation_date": "20060612",
+      "promulgation_no": "104",
+      "content": "부칙 <제104호,2006. 6. 12.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:군산자유무역지역관리원위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000026201",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20131126"
+    },
+    {
       "promulgation_date": "20130204",
       "promulgation_no": "114",
       "content": "부칙 <제114호,2013. 2. 4.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:군산자유무역지역관리원위임전결규정#ADDENDUM"
+      "provision_id": "admrul:군산자유무역지역관리원위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000026201",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20131126"
+    },
+    {
+      "promulgation_date": "20131126",
+      "promulgation_no": "22",
+      "content": "부칙 <제22호,2013. 11. 26.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:군산자유무역지역관리원위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000026201",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20131126"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "위임전결사항",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=15581033",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=15581033",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:군산자유무역지역관리원위임전결규정#BYL0000",
+      "filename": "별표0_위임전결사항.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_위임전결사항.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "군산자유무역지역관리원 위임전결(별표).xlsx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=15572567",
+      "filename": "군산자유무역지역관리원 위임전결(별표).xlsx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/군산자유무역지역관리원 위임전결(별표).xlsx",
+      "file_store_url": ""
+    },
+    {
+      "name": "군산자유무역지역관리원 위임전결 규정(전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=15572566",
+      "filename": "군산자유무역지역관리원 위임전결 규정(전문).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/군산자유무역지역관리원 위임전결 규정(전문).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "군산자유무역지역관리원 위임전결(별표).xlsx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=15572565",
+      "filename": "군산자유무역지역관리원 위임전결(별표).xlsx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/군산자유무역지역관리원 위임전결(별표).xlsx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 4,
     "appendices_count": 1,
-    "attachments_count": 2
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/군산자유무역지역관리원 위임전결규정"
@@ -173,5 +287,8 @@
   "addendum_provision_id": "admrul:군산자유무역지역관리원위임전결규정#ADDENDUM",
   "amendment_provision_id": "admrul:군산자유무역지역관리원위임전결규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "군산자유무역지역관리원 위임전결규정/군산자유무역지역관리원 위임전결규정.json"
 }
