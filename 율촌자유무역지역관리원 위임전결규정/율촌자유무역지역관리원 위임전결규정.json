@@ -1,42 +1,42 @@
 {
   "law_id": "41524",
-  "mst": "2000000022229",
+  "mst": "2000000026565",
   "law_name": "율촌자유무역지역관리원 위임전결규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:41524",
-  "promulgation_no": "113",
-  "promulgation_date": "20130201",
-  "enforcement_date": "20130201",
-  "revision_date": "20130201",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "24",
+  "promulgation_date": "20131216",
+  "enforcement_date": "20131216",
+  "revision_date": "20131216",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "산업통상부(율촌자유무역지역관리원)",
     "담당자명": "",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "율촌자유무역지역관리원 위임전결규정",
-    "발령일자": "20130201",
+    "발령일자": "20131216",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
-    "소관부처명": "지식경제부",
+    "소관부처명": "산업통상부",
     "전화번호": "061-727-9793",
-    "제개정구분명": "제정",
-    "소관부처코드": "1411000",
-    "생성일자": "20130202",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1451000",
+    "생성일자": "20140103",
     "행정규칙ID": "41524",
-    "시행일자": "20130201",
-    "담당부서기관코드": "1415789",
-    "발령번호": "113",
-    "행정규칙일련번호": "2000000022229",
-    "상위부처명": "지식경제부"
+    "시행일자": "20131216",
+    "담당부서기관코드": "1450161",
+    "발령번호": "24",
+    "행정규칙일련번호": "2000000026565",
+    "상위부처명": "산업통상부"
   },
   "amendment_text": "",
-  "revision_reason": "",
+  "revision_reason": "◇ 추진배경\nㅇ 자유무역지역관리원에서 징계사유가 발생하여 운영지원과와 감사관실에서 징계를 검토하던 중\n- 위임전결규정에 따라 관리원에도 징계권한이 존재하여 운영지원과와 관리원간의 징계요구의 권한 소재에서 충돌 발생\nㅇ 따라서, 징계요구 권한의 소재를 명확하게 하기 위해 창조행정담당관실에서 자유무역지역 관리원의 징계관련 조항 삭제 요청\n◇ 개정내용\nㅇ 율촌자유무역지역관리원 위임전결규정 별표 중 사무내용 34번 “징계요구 및 집행(6급이하)” 삭제",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -46,9 +46,30 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 행정업무의 효율적 운영에 관한 규정 제10조제2항 및 지식경제부와 그 소속기관 위임전결규정 제6조에 의하여 율촌자유무역지역관리원의 위임전결사항과 그 절차를 정하여 권한과 책임을 분명히 하고 업무처리에 신속을 기함을 목적으로 한다.",
+        "content": "제1조(목적) 행정업무의 효율적 운영에 관한 규정 제10조제2항 및 산업통상자원부와와 그 소속기관 위임전결규정 제6조에 의하여 율촌자유무역지역관리원의 위임전결사항과 그 절차를 정하여 권한과 책임을 분명히 하고 업무처리에 신속을 기함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "율촌자유무역지역관리원 위임전결규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "41524",
+            "target_url": "https://www.law.go.kr/행정규칙/율촌자유무역지역관리원 위임전결규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:율촌자유무역지역관리원위임전결규정#JO0001",
+            "reference_id": "admrul:율촌자유무역지역관리원위임전결규정#JO0006",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "율촌자유무역지역관리원 위임전결규정/율촌자유무역지역관리원 위임전결규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:율촌자유무역지역관리원위임전결규정#JO0001"
       },
@@ -112,7 +133,7 @@
         "article_title": "전결권의 부재",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(전결권의 부재) 전결권자가 결원, 출장, 휴가 기타의 사유로 부재 중이거나 사정에 의하여 결재할 수 없을 때에는 그 직무를 대리하는 자가 결재할 수 있으며, 그 내용이 중요한 사항은 결재권자에게 사후에 보고하여야 한다.",
+        "content": "제7조(전결권의 부재) 전결권자가 결원, 출장, 휴가 기타의 사유로 부재  중이거나 사정에 의하여 결재할 수 없을 때에는 그 직무를 대리하는 자가 결재할 수 있으며, 그 내용이 중요한 사항은 결재권자에게 사후에 보고하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -136,24 +157,95 @@
       "promulgation_date": "20130201",
       "promulgation_no": "113",
       "content": "부칙 <제113호,2013. 2. 1.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:율촌자유무역지역관리원위임전결규정#ADDENDUM"
+      "provision_id": "admrul:율촌자유무역지역관리원위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000026565",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20131216"
+    },
+    {
+      "promulgation_date": "20131216",
+      "promulgation_no": "24",
+      "content": "부칙 <제24호,2013. 12. 16.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:율촌자유무역지역관리원위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000026565",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20131216"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "위임전결사항",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=32400105",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=32400105",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:율촌자유무역지역관리원위임전결규정#BYL0000",
+      "filename": "별표0_위임전결사항.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_위임전결사항.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "율촌자유무역지역관리원 위임전결규정(별표).xlsx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=15839264",
+      "filename": "율촌자유무역지역관리원 위임전결규정(별표).xlsx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/율촌자유무역지역관리원 위임전결규정(별표).xlsx",
+      "file_store_url": ""
+    },
+    {
+      "name": "율촌자유무역지역관리원 위임전결규정 개정문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=15839266",
+      "filename": "율촌자유무역지역관리원 위임전결규정 개정문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/율촌자유무역지역관리원 위임전결규정 개정문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "율촌자유무역지역관리원 위임전결규정(전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=15839265",
+      "filename": "율촌자유무역지역관리원 위임전결규정(전문).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/율촌자유무역지역관리원 위임전결규정(전문).hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
-    "appendices_count": 0,
-    "attachments_count": 2
+    "addenda_count": 2,
+    "appendices_count": 1,
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/율촌자유무역지역관리원 위임전결규정"
@@ -162,5 +254,8 @@
   "addendum_provision_id": "admrul:율촌자유무역지역관리원위임전결규정#ADDENDUM",
   "amendment_provision_id": "admrul:율촌자유무역지역관리원위임전결규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "율촌자유무역지역관리원 위임전결규정/율촌자유무역지역관리원 위임전결규정.json"
 }
