@@ -1,16 +1,16 @@
 {
   "law_id": "2110675",
-  "mst": "2200000105867",
+  "mst": "2200000105869",
   "law_name": "송달료규칙의 시행에 따른 업무처리요령(재일 87-4)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2110675",
-  "promulgation_no": "1453",
-  "promulgation_date": "20131210",
-  "enforcement_date": "20131216",
-  "revision_date": "20131210",
+  "promulgation_no": "1460",
+  "promulgation_date": "20140121",
+  "enforcement_date": "20140203",
+  "revision_date": "20140121",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "송달료규칙의 시행에 따른 업무처리요령(재일 87-4)",
-    "발령일자": "20131210",
+    "발령일자": "20140121",
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
@@ -29,14 +29,14 @@
     "소관부처코드": "9740000",
     "생성일자": "20250609",
     "행정규칙ID": "2110675",
-    "시행일자": "20131216",
+    "시행일자": "20140203",
     "담당부서기관코드": "",
-    "발령번호": "1453",
-    "행정규칙일련번호": "2200000105867",
+    "발령번호": "1460",
+    "행정규칙일련번호": "2200000105869",
     "상위부처명": "대법원"
   },
-  "amendment_text": "송달료규칙의 시행에 따른 업무처리요령(재일 87-4) 일부를 다음과 같이 개정한다.\n[별표 2] 법원별 수납은행 및 관리은행 중 일부를 별지와 같이 변경한다.\n부 칙\n이 예규는 2013년 12월 16일부터 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 대구가정법원의 청사이전에 따라 기존의 수납은행인 대구은행의 소속지점이 변경됨\n○ 법원별 송달료 수납은행 및 관리은행의 일부 소속지점 명칭을 출장소에서 ‘지점’으로 통일함\n2. 주요내용\n○  대구가정법원의 수납은행을 “대구은행 서부지원지점”으로 지정함[별표 2]\n○  법원별 송달료 수납은행 및 관리은행의 소속지점 명칭을 출장소에서 ‘지점’으로 통일하여 반영함[별표 2]",
+  "amendment_text": "송달료규칙의 시행에 따른 업무처리요령(재일 87-4) 일부를 다음과 같이 개정한다.\n별표 1 중 개인회생사건(개회)의 당사자 1인당 납부기준란 중 “채권자수×3회”를 “채권자수×5회”로 한다.\n부 칙\n제1조(시행일) 이 예규는 2014년 2월 3일부터 시행한다.\n제2조(경과조치) 이 예규 시행 이전에 접수된 사건은 종전의 예에 의한다.",
+  "revision_reason": "1. 개정이유\n○ 개인회생사건 당사자 1인당 송달료납부기준을 상향하여 송달료 부족에 따른 절차지연을 방지함\n2. 주요내용\n○  개인회생사건 당사자 1인당 송달료납부기준을 실무를 반영하여 상향함(별표 1)",
   "body": {
     "format": "articles",
     "article_count": 52,
@@ -239,7 +239,7 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/flDownload.do?flSeq=146238721&gubun=ESTABLISHRULEIMG",
+            "url": "https://www.law.go.kr/flDownload.do?flSeq=146238759&gubun=ESTABLISHRULEIMG",
             "seq": "",
             "filename": "제17조_1.gif",
             "file_dir": "본문이미지",
@@ -248,7 +248,7 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/flDownload.do?flSeq=146238723&gubun=ESTABLISHRULEIMG",
+            "url": "https://www.law.go.kr/flDownload.do?flSeq=146238761&gubun=ESTABLISHRULEIMG",
             "seq": "",
             "filename": "제17조_2.gif",
             "file_dir": "본문이미지",
@@ -912,6 +912,12 @@
       "provision_id": "admrul:송달료규칙의시행에따른업무처리요령(재일87-4)#ADDENDUM"
     },
     {
+      "promulgation_date": "20140121",
+      "promulgation_no": "1460",
+      "content": "부  칙(2014. 1. 21. 제1460호)제1조(시행일) 이 예규는 2014년 2월 3일부터 시행한다.제2조(경과조치) 이 예규 시행 이전에 접수된 사건은 종전의 예에 의한다.",
+      "provision_id": "admrul:송달료규칙의시행에따른업무처리요령(재일87-4)#ADDENDUM"
+    },
+    {
       "promulgation_date": "99991231",
       "promulgation_no": "9993",
       "content": "부 칙이 예규는 1996. 9. 1.부터 시행한다.",
@@ -966,7 +972,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 53,
+    "addenda_count": 54,
     "appendices_count": 9,
     "attachments_count": 0
   },
