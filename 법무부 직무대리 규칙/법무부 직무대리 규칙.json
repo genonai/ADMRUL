@@ -1,25 +1,25 @@
 {
   "law_id": "36999",
-  "mst": "2000000016490",
+  "mst": "2100000004845",
   "law_name": "법무부 직무대리 규칙",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:36999",
-  "promulgation_no": "825",
-  "promulgation_date": "20110617",
-  "enforcement_date": "20110617",
-  "revision_date": "20110617",
+  "promulgation_no": "959",
+  "promulgation_date": "20140825",
+  "enforcement_date": "20140901",
+  "revision_date": "20140825",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "법무부(혁신행정담당관)",
     "담당자명": "",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "법무부 직무대리 규칙 ",
-    "발령일자": "20110617",
+    "발령일자": "20140825",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-2110-3054",
     "제개정구분명": "일부개정",
     "소관부처코드": "1270000",
-    "생성일자": "20110618",
+    "생성일자": "20260428",
     "행정규칙ID": "36999",
-    "시행일자": "20110617",
-    "담당부서기관코드": "1271753",
-    "발령번호": "825",
-    "행정규칙일련번호": "2000000016490",
+    "시행일자": "20140901",
+    "담당부서기관코드": "1272337",
+    "발령번호": "959",
+    "행정규칙일련번호": "2100000004845",
     "상위부처명": "법무부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 상위규정인 「직무대리규정(대통령령)」과 중복된 내용 삭제\n- 법제처로부터 법제업무규정 제23조에 따라 위임범위 일탈로 개정 권고(2010.12월)\n◇ 주요 내용\n가.  중복된 규정\n○ 법무부 직무대리규칙 제 3조 제1호 및 제4호, 제4조 제1항, 제3항, 제4항, 제5조부터 제7조까지 삭제",
+  "revision_reason": "◇ 개정 이유\n법무부 법무심의관실 훈령·예규 정기심사결과 “지침 개정권고”에 의거 기관장 및 부기관장, 실·국·본부장의 용어에 대한 정의를 명확히 하고, 사고시 직무대리 범위를 명확하게 하는 등 지침 상 일부 미비점을 개선·보완하려는 것임.\n◇ 주요 개정내용\n가. 기관장 및 부기관장, 실·국·본부장의 용어에 대한 정의 명확화(안 제3조)\n나. 실·국·본부장 사고시 직무대리 범위 명확화(안 제4조 제1항)\n다. 실·국·본부장 소속 이외의 보조기관 사고시 직무대리 범위 명확화(안 제4조 제2항)\n라. 기관장 및 부기관장 사고시 직무대리 범위 명확화(안 제4조 제5항)",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -46,9 +46,50 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 규칙은「직무대리규정」제8조의 규정에 따라 기관장, 부기관장이나 그 밖의 공무원이 사고가 있을 때에 직무상 공백이 생기지 아니하도록 하고 직무대리자의 책임을 명확하게 하기 위하여 직무대리자의 결정 방식 및 직무대리의 운영 원칙 등 필요한 사항을 정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규칙은「직무대리규정」제8조의 규정에 따라 기관장, 부기관장이나 그 밖의 공무원에게 사고가 있을 때에 직무상 공백이 생기지 아니하도록 하고 직무대리자의 책임을 명확하게 하기 위하여 직무대리자의 결정 방식 및 직무대리의 운영 원칙 등 필요한 사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「직무대리규정」",
+            "line_text": "",
+            "target_law_name": "직무대리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "36999",
+            "target_url": "https://www.law.go.kr/법령/직무대리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부직무대리규칙#JO0001",
+            "reference_id": "law:직무대리규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "직무대리규정/법률/직무대리규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "직무대리규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "36999",
+            "target_url": "https://www.law.go.kr/법령/직무대리규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부직무대리규칙#JO0001",
+            "reference_id": "law:직무대리규정#JO0008",
+            "target_repo": "LAW",
+            "target_git_path_guess": "직무대리규정/법률/직무대리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:법무부직무대리규칙#JO0001"
       },
@@ -68,7 +109,7 @@
         "article_title": "정의",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(정의) 이 영에서 사용하는 용어의 정의는 다음과 같다.1. 삭제 <2011.6.17>2. \"기관장\"이라 함은 장관 및 소속기관장을 말한다.3. \"부기관장\"이라 함은 차관 및 소속기관장의 직근 하위 보조기관을 말한다.4. 삭제 <2011.6.17>",
+        "content": "제3조(정의) 이 영에서 사용하는 용어의 정의는 다음과 같다.1. \"실·국·본부장\"이란 법무부의 실장·국장·본부장을 말한다.2. \"기관장\"이란 소속기관장을 말한다.3. \"부기관장\"이란 소속기관장의 직근 하위 보조기관을 말한다.4. 삭제 <2011.6.17>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -76,10 +117,10 @@
       },
       {
         "article_no": "제4조",
-        "article_title": "기관장과 부기관장의 직무대리",
+        "article_title": "법무부장관 보조기관 및 기관장의 직무대리",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(기관장과 부기관장의 직무대리)  ①삭제 <2011.6.17>②부기관장이 사고가 있을 때에는 실·국·본부의 순위에 의한 실·국·본부장(실·국·본부가 설치되어 있지 아니한 기관에서는 과장 또는 이에 준하는 보조기관을 말한다. 이하 같다)이 부기관장을 직무대리한다. 다만, 소속기관의 경우 과장보다 상위 직위가 설치되어 있는 경우에는 그 직위를 설치하는 법령에 규정된 순위에 따라 그 상위직위를 가진 자가 과장 또는 이에 준하는 보조기관에 우선하여 부기관장을 직무대리한다.③ 삭제 <2011.6.17>④ 삭제 <2011.6.17>",
+        "content": "제4조(법무부장관 보조기관 및 기관장의 직무대리)  ① 실·국·본부장에게 사고가 있을 때에는 실·국·본부를 설치하는 법령에 규정된 과장 또는 이에 준하는 보조기관의 순위에 따라 실·국·본부장의 직무대리를 한다. 다만, 과장보다 상위 직위가 설치되어 있는 경우에는 그 직위를 설치하는 법령에 규정된 순위에 따라 그 상위 직위에 재직 중인 공무원이 과장에 우선하여 실·국·본부장의 직무대리를 한다.② 실·국·본부장 소속 이외의 보조기관에게 사고가 있을 때에는 그 보조기관에 소속된 선임자가 직무대리를 한다.③ 삭제 <2011.6.17>④ 삭제 <2011.6.17.>⑤ 기관장이 사고가 있을 때에는 부기관장이 기관장의 직무대리를 한다. 다만, 부기관장이 없는 경우에는 법령에 규정된 순위 또는 소속기관의 최상위 직급자(직급이 같은 경우에는 경력이 우선한다)가 기관장의 직무대리를 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -133,27 +174,101 @@
   },
   "addenda": [
     {
+      "promulgation_date": "20100322",
+      "promulgation_no": "768",
+      "content": "부칙 <제768호,2010. 3. 22.>①(시행일) 이 규칙은 2010년 3월 22일부터 시행한다.",
+      "provision_id": "admrul:법무부직무대리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000004845",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20140901"
+    },
+    {
       "promulgation_date": "20110617",
       "promulgation_no": "825",
       "content": "부칙 <제825호,2011. 6. 17.>①(시행일) 이 규칙은 2011년 6월 17일부터 시행한다.",
-      "provision_id": "admrul:법무부직무대리규칙#ADDENDUM"
+      "provision_id": "admrul:법무부직무대리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000004845",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20140901"
+    },
+    {
+      "promulgation_date": "20140825",
+      "promulgation_no": "959",
+      "content": "부칙 <제959호,2014. 8. 25.>①(시행일) 이 규칙은 2014년 9월 1일부터 시행한다.",
+      "provision_id": "admrul:법무부직무대리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000004845",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20140901"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "직무대리명령서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18094023",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18094023",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:법무부직무대리규칙#FORM0000",
+      "filename": "서식0_직무대리명령서.hwp",
+      "file_dir": "서식",
+      "local_path": "서식/서식0_직무대리명령서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "959-법무부 직무대리규칙.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163874271",
+      "filename": "959-법무부 직무대리규칙.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/959-법무부 직무대리규칙.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "959-법무부 직무대리규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163874275",
+      "filename": "959-법무부 직무대리규칙.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/959-법무부 직무대리규칙.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 3,
     "appendices_count": 1,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/법무부 직무대리 규칙"
@@ -162,5 +277,8 @@
   "addendum_provision_id": "admrul:법무부직무대리규칙#ADDENDUM",
   "amendment_provision_id": "admrul:법무부직무대리규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "법무부 직무대리 규칙/법무부 직무대리 규칙.json"
 }
