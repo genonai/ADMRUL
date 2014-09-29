@@ -1,41 +1,41 @@
 {
   "law_id": "2036161",
-  "mst": "2000000055897",
-  "law_name": "흡연 경고문구",
+  "mst": "2100000005427",
+  "law_name": "흡연경고문구 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2036161",
-  "promulgation_no": "2004-12",
-  "promulgation_date": "20040804",
-  "enforcement_date": "20040804",
-  "revision_date": "20040804",
-  "revision_type": "제정",
+  "promulgation_no": "2014-16",
+  "promulgation_date": "20140929",
+  "enforcement_date": "20140929",
+  "revision_date": "20140929",
+  "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
     "현행여부": "N",
     "담당부서기관명": "재정경제부(출자관리과)",
     "담당자명": "",
     "행정규칙종류코드": "B0003",
-    "행정규칙명": "흡연 경고문구",
-    "발령일자": "20040804",
+    "행정규칙명": "흡연경고문구 고시",
+    "발령일자": "20140929",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "N",
     "소관부처명": "재정경제부",
     "전화번호": "044-215-5176",
-    "제개정구분명": "제정",
-    "소관부처코드": "1190000",
-    "생성일자": "20110121",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1053000",
+    "생성일자": "20260119",
     "행정규칙ID": "2036161",
-    "시행일자": "20040804",
-    "담당부서기관코드": "1190136",
-    "발령번호": "2004-12",
-    "행정규칙일련번호": "2000000055897",
+    "시행일자": "20140929",
+    "담당부서기관코드": "1051082",
+    "발령번호": "2014-16",
+    "행정규칙일련번호": "2100000005427",
     "상위부처명": "재정경제부"
   },
-  "amendment_text": "⊙재정경제부고시 제2004-12호\n담배사업법 제25조제1항과 동법 시행령 제8조 및 동법 시행규칙 제15조의 규정에 의한 흡연 경고문구를 다음과 같이 고시합니다.\n2004년 8월4일\n재정경제부장관\n흡연 경고문구\n[본문 생략]",
+  "amendment_text": "⊙기획재정부고시 제2014-16호\n담배사업법 제25조제1항과 동법 시행령 제8조 및 동법 시행규칙 제15조의 규정에 따른 흡연 경고문구를 다음과 같이 고시합니다.\n2014년 9월 29일\n기획재정부장관\n흡연 경고문구 고시\n[본문 생략]\n부칙\n제1조 (시행일) 이 고시는 고시한 날부터 시행한다.\n제2조 (경고문구의 변경) 다른 법률의 개정에 의해 경고문구가 변경되는 경우에는 그에 따를 수 있다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -51,19 +51,26 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=5065067",
-            "seq": "5065067",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18330707",
+            "seq": "18330707",
             "filename": "전문_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_1.gif",
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:흡연경고문구#DOC"
+        "provision_id": "admrul:흡연경고문구고시#DOC"
       }
     ]
   },
-  "addenda": [],
+  "addenda": [
+    {
+      "promulgation_date": "20140929",
+      "promulgation_no": "2014-16",
+      "content": "부칙 <제2014-16호,2014. 9. 29.>제1조 (시행일) 이 고시는 고시한 날부터 시행한다.제2조 (경고문구의 변경) 다른 법률의 개정에 의해 경고문구가 변경되는 경우에는 그에 따를 수 있다.",
+      "provision_id": "admrul:흡연경고문구고시#ADDENDUM"
+    }
+  ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
@@ -76,16 +83,16 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 0,
+    "addenda_count": 1,
     "appendices_count": 0,
-    "attachments_count": 1
+    "attachments_count": 3
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/흡연 경고문구"
+    "source_url": "https://www.law.go.kr/행정규칙/흡연경고문구 고시"
   },
-  "provision_id": "admrul:흡연경고문구#DOC",
-  "addendum_provision_id": "admrul:흡연경고문구#ADDENDUM",
-  "amendment_provision_id": "admrul:흡연경고문구#AMENDMENT",
+  "provision_id": "admrul:흡연경고문구고시#DOC",
+  "addendum_provision_id": "admrul:흡연경고문구고시#ADDENDUM",
+  "amendment_provision_id": "admrul:흡연경고문구고시#AMENDMENT",
   "is_future": false,
   "git_path": "흡연경고문구 고시/흡연경고문구 고시.json"
 }
