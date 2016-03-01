@@ -1,25 +1,25 @@
 {
   "law_id": "34152",
-  "mst": "2200000035282",
+  "mst": "2100000040006",
   "law_name": "다수공급자계약 추가특수조건",
   "law_abbr": "",
   "law_type": "공고",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34152",
-  "promulgation_no": "2013-12",
-  "promulgation_date": "20130221",
-  "enforcement_date": "20130301",
-  "revision_date": "20130221",
+  "promulgation_no": "2016-22",
+  "promulgation_date": "20160216",
+  "enforcement_date": "20160301",
+  "revision_date": "20160216",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "조달청(구매총괄과)",
-    "담당자명": "",
+    "담당자명": "김형국",
     "행정규칙종류코드": "B0004",
     "행정규칙명": "다수공급자계약 추가특수조건",
-    "발령일자": "20130221",
+    "발령일자": "20160216",
     "행정규칙종류": "공고",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,12 +27,12 @@
     "전화번호": "070-4056-7293",
     "제개정구분명": "일부개정",
     "소관부처코드": "1230000",
-    "생성일자": "20160229",
+    "생성일자": "20200102",
     "행정규칙ID": "34152",
-    "시행일자": "20130301",
-    "담당부서기관코드": "",
-    "발령번호": "2013-12",
-    "행정규칙일련번호": "2200000035282",
+    "시행일자": "20160301",
+    "담당부서기관코드": "1230434",
+    "발령번호": "2016-22",
+    "행정규칙일련번호": "2100000040006",
     "상위부처명": "조달청"
   },
   "amendment_text": "",
@@ -48,7 +48,28 @@
         "chapter_path": "",
         "content": "제1조(적용) 이 추가특수조건(이하 \"추가조건”이라 한다)은 조달청이 체결하는 다수공급자계약에 적용하며, 이 조건에서 따로 정하는 경우를 제외하고는「물품구매계약 일반조건」(이하 \"일반조건”이라 한다)과「다수공급자계약 특수조건」(이하 \"특수조건”이라 한다)에서 정하는 바에 의한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「다수공급자계약 특수조건」",
+            "line_text": "",
+            "target_law_name": "다수공급자계약 특수조건",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34152",
+            "target_url": "https://www.law.go.kr/행정규칙/다수공급자계약 특수조건",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:다수공급자계약추가특수조건#JO0001",
+            "reference_id": "admrul:다수공급자계약특수조건#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "다수공급자계약 특수조건/다수공급자계약 특수조건.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:다수공급자계약추가특수조건#JO0001"
       },
@@ -125,7 +146,48 @@
         "chapter_path": "",
         "content": "제4조의5(계약금액 조정) 「다수공급자계약 특수조건」제12조제3항의 물가변동으로 인한 계약금액 조정방법은 (지수조정율, 품목조정률)을 적용한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조의5",
+            "source_clause": "제4조의5",
+            "link_text": "「다수공급자계약 특수조건」",
+            "line_text": "",
+            "target_law_name": "다수공급자계약 특수조건",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34152",
+            "target_url": "https://www.law.go.kr/행정규칙/다수공급자계약 특수조건",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:다수공급자계약추가특수조건#JO0004_05",
+            "reference_id": "admrul:다수공급자계약특수조건#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "다수공급자계약 특수조건/다수공급자계약 특수조건.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조의5",
+            "source_clause": "제4조의5",
+            "link_text": "제12조제3항",
+            "line_text": "",
+            "target_law_name": "다수공급자계약 특수조건",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34152",
+            "target_url": "https://www.law.go.kr/행정규칙/다수공급자계약 특수조건/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:다수공급자계약추가특수조건#JO0004_05",
+            "reference_id": "admrul:다수공급자계약특수조건#JO0012",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "다수공급자계약 특수조건/다수공급자계약 특수조건.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:다수공급자계약추가특수조건#JO0004_05"
       },
@@ -136,7 +198,48 @@
         "chapter_path": "",
         "content": "제4조의6(하자보수기간) 「물품구매계약 품질관리 특수조건」제18조에 따른 하자보수기간 (  )년으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조의6",
+            "source_clause": "제4조의6",
+            "link_text": "「물품구매계약 품질관리 특수조건」",
+            "line_text": "",
+            "target_law_name": "물품구매계약 품질관리 특수조건",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34152",
+            "target_url": "https://www.law.go.kr/행정규칙/물품구매계약 품질관리 특수조건",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:다수공급자계약추가특수조건#JO0004_06",
+            "reference_id": "admrul:물품구매계약품질관리특수조건#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "물품구매계약 품질관리 특수조건/물품구매계약 품질관리 특수조건.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조의6",
+            "source_clause": "제4조의6",
+            "link_text": "제18조",
+            "line_text": "",
+            "target_law_name": "물품구매계약 품질관리 특수조건",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34152",
+            "target_url": "https://www.law.go.kr/행정규칙/물품구매계약 품질관리 특수조건/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:다수공급자계약추가특수조건#JO0004_06",
+            "reference_id": "admrul:물품구매계약품질관리특수조건#JO0018",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "물품구매계약 품질관리 특수조건/물품구매계약 품질관리 특수조건.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:다수공급자계약추가특수조건#JO0004_06"
       },
@@ -343,9 +446,30 @@
         "article_title": "재검토기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제20조(재검토기한) 이 지침은 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 지침을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2016년 2월 29일까지 효력을 가진다.",
+        "content": "제20조(재검토기한) 「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 이 공고에 대하여 2016년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "「훈령·예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령·예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34152",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령·예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:다수공급자계약추가특수조건#JO0020",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령·예규 등의 발령 및 관리에 관한 규정/훈령·예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:다수공급자계약추가특수조건#JO0020"
       }
@@ -356,36 +480,83 @@
       "promulgation_date": "20120119",
       "promulgation_no": "2012-8",
       "content": "부칙 <제2012-8호,2012. 1. 19.>이 규정은 개정과 동시에 즉시 시행한다.",
-      "provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM"
+      "provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000040006",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20160301"
     },
     {
       "promulgation_date": "20120824",
       "promulgation_no": "2012-60",
       "content": "부칙 <제2012-60호,2012. 8. 24.>이 규정은 2012년 8월 25일부터 시행한다.",
-      "provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM"
+      "provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000040006",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20160301"
     },
     {
       "promulgation_date": "20130221",
       "promulgation_no": "2013-12",
       "content": "부칙 <제2013-12호,2013. 2. 21.>이 규정은 2013년 3월 1일부터 시행한다.",
-      "provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM"
+      "provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000040006",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20160301"
+    },
+    {
+      "promulgation_date": "20160216",
+      "promulgation_no": "2016-22",
+      "content": "부칙 <제2016-22호,2016. 2. 16.>이 규정은 2016년 3월 1일부터 시행한다.",
+      "provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000040006",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20160301"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "다수공급자계약 추가특수조건(조달청 공고 2016-22, 2016.02.16 ).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=23787347",
+      "filename": "다수공급자계약 추가특수조건(조달청 공고 2016-22, 2016.02.16 ).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/다수공급자계약 추가특수조건(조달청 공고 2016-22, 2016.02.16 ).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "다수공급자계약 추가특수조건(조달청 공고 2016-22, 2016.02.16 ).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=23787348",
+      "filename": "다수공급자계약 추가특수조건(조달청 공고 2016-22, 2016.02.16 ).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/다수공급자계약 추가특수조건(조달청 공고 2016-22, 2016.02.16 ).hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "행정규칙": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
     "articles_total": 28,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/다수공급자계약 추가특수조건"
@@ -394,5 +565,8 @@
   "addendum_provision_id": "admrul:다수공급자계약추가특수조건#ADDENDUM",
   "amendment_provision_id": "admrul:다수공급자계약추가특수조건#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "다수공급자계약 추가특수조건/다수공급자계약 추가특수조건.json"
 }
