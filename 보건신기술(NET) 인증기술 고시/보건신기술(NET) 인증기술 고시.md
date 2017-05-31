@@ -3,18 +3,18 @@
 문서종: 행정규칙
 provision_id: "admrul:보건신기술(NET)인증기술고시#DOC"
 law_id: 34387
-mst: 2100000013938
-시행일자: 20150206
-공포일자: 20150206
+mst: 2100000089192
+시행일자: 20170531
+공포일자: 20170531
 source: "https://www.law.go.kr/행정규칙/보건신기술(NET) 인증기술 고시"
 adm_uid: "admrul:34387"
 ---
 
 # 보건신기술(NET) 인증기술 고시
-> 고시 · 행정규칙 · 시행 2015-02-06 · 공포 2015-02-06 · 일부개정
+> 고시 · 행정규칙 · 시행 2017-05-31 · 공포 2017-05-31 · 일부개정
 
 ### 전문
-![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=20192135)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=20192136)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=20192110)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=20192137)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=20192138)
+![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=29990482)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=29990483)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=29990484)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=29990485)
 
 ## 부칙
 ### 부칙 (공포 2014-06-30 제2014-103호)
@@ -22,3 +22,6 @@ adm_uid: "admrul:34387"
 
 ### 부칙 (공포 2015-02-06 제2015-31호)
 부칙 <제2015-31호,2015. 2. 6.>이 고시는 발령한 날부터 시행한다.
+
+### 부칙 (공포 2017-05-31 제2017-88호)
+부칙 <제2017-88호,2017. 5. 31.>이 고시는 발령한 날부터 시행한다.
