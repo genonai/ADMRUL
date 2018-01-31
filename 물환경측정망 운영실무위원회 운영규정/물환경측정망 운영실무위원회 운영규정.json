@@ -1,25 +1,25 @@
 {
   "law_id": "59691",
-  "mst": "2100000098990",
+  "mst": "2100000112569",
   "law_name": "물환경측정망 운영실무위원회 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:59691",
-  "promulgation_no": "41",
-  "promulgation_date": "20170921",
-  "enforcement_date": "20170921",
-  "revision_date": "20170921",
+  "promulgation_no": "44",
+  "promulgation_date": "20180131",
+  "enforcement_date": "20180131",
+  "revision_date": "20180131",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "낙동강유역환경청(측정분석과)",
     "담당자명": "정경미",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "물환경측정망 운영실무위원회 운영규정",
-    "발령일자": "20170921",
+    "발령일자": "20180131",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "055-211-1682",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20171018",
+    "생성일자": "20180201",
     "행정규칙ID": "59691",
-    "시행일자": "20170921",
+    "시행일자": "20180131",
     "담당부서기관코드": "1480383",
-    "발령번호": "41",
-    "행정규칙일련번호": "2100000098990",
+    "발령번호": "44",
+    "행정규칙일련번호": "2100000112569",
     "상위부처명": "기후에너지환경부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 개정 사유\n개정된 법률 명 및 환경부 고시 등이 개정됨에 따라 규정, 위원회 등의 명칭 변경이 필요하였고, 측정지점의 신설·폐쇄·변경 등의 사유 발생을 대비하여 운영상 미비점을 개선하고자 일부 내용을 개정하고자 함.\n◇ 주요내용\n○ 규정 및 해당 법률 명, 고시 명 등을 변경\n○ 오타 등의 수정",
+  "amendment_text": "⊙낙동강유역환경청훈령 제44호\n물환경측정망 운영실무위원회 운영규정 일부를 다음과 같이 개정한다.\n2018년 1월 31일\n낙동강유역환경청장\n물환경측정망 운영실무위원회 운영규정 일부개정고시\n물환경측정망 운영실무위원회 운영규정 일부를 다음과 같이 개정한다.\n본문 중 “수질 및 수생태계 보전에 관한 법률”을 “물환경보전법”으로  한다.\n부칙\n이 규정은 고시한 날로부터 시행한다.",
+  "revision_reason": "◇ 개정이유\nㅇ「수질 및 수생태계 보전에 관한 법률」이「물환경보전법」으로 제명이 변경되어 개정(법률 제14532호, 2017.1.17. 개정, 2018.1.18. 시행)됨\nㅇ 이에 따라, 제명 변경 등을 반영하여「물환경측정망 운영실무위원회 운영규정」(낙동강유역환경청훈령 제 44호)을 개정하고자 함\n◇ 주요내용\n가.「수질 및 수생태계 보전에 관한 법률」을 「물환경보전법」으로 제명 변경",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -92,7 +92,28 @@
         "chapter_path": "",
         "content": "제6조(회의 등)  ① 회의는 물환경측정망의 운영에 관하여 심의·의결할 사항이 있거나 위원장 또는 위원 3분의 1 이상의 요청이 있을 경우에 소집한다.② 회의는 위원장이 회의개최 7일 전에 위원 및 관련기관에 통보한다.③ 회의는 위원의 과반수 참석을 원칙으로 한다. 다만, 위원의 사정으로 인하여 불참 시 사전에 위원장에게 소속공무원 또는 직원을 대리인으로 지정 통보하였을 경우에는 참석한 것으로 본다.④ 위원은 제3조 각호의 해당사항에 대하여 안건을 작성하여 간사에게 제출할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제4항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "물환경측정망 운영실무위원회 운영규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "59691",
+            "target_url": "https://www.law.go.kr/행정규칙/물환경측정망 운영실무위원회 운영규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:물환경측정망운영실무위원회운영규정#JO0006",
+            "reference_id": "admrul:물환경측정망운영실무위원회운영규정#JO0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "물환경측정망 운영실무위원회 운영규정/물환경측정망 운영실무위원회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:물환경측정망운영실무위원회운영규정#JO0006"
       },
@@ -129,6 +150,48 @@
         "images": [],
         "provision_id": "admrul:물환경측정망운영실무위원회운영규정#JO0009"
       }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "제1조",
+        "source_clause": "제1조",
+        "link_text": "「물환경보전법」",
+        "line_text": "",
+        "target_law_name": "물환경보전법",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "59691",
+        "target_url": "https://www.law.go.kr/법령/물환경보전법",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:물환경측정망운영실무위원회운영규정#DOC",
+        "reference_id": "law:물환경보전법#DOC",
+        "target_repo": "LAW",
+        "target_git_path_guess": "물환경보전법/법률/물환경보전법.json"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "제1조",
+        "source_clause": "제1조",
+        "link_text": "제9조",
+        "line_text": "",
+        "target_law_name": "물환경보전법",
+        "target_article_no": "제9조",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "59691",
+        "target_url": "https://www.law.go.kr/법령/물환경보전법/제9조",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:물환경측정망운영실무위원회운영규정#DOC",
+        "reference_id": "law:물환경보전법#JO0009",
+        "target_repo": "LAW",
+        "target_git_path_guess": "물환경보전법/법률/물환경보전법.json"
+      }
     ]
   },
   "addenda": [
@@ -136,24 +199,71 @@
       "promulgation_date": "20170921",
       "promulgation_no": "41",
       "content": "부칙 <제41호,2017. 9. 21.>이 규정은 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:물환경측정망운영실무위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:물환경측정망운영실무위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000112569",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20180131"
+    },
+    {
+      "promulgation_date": "20180131",
+      "promulgation_no": "44",
+      "content": "부칙 <제44호,2018. 1. 31.>이 규정은 고시한 날로부터 시행한다.",
+      "provision_id": "admrul:물환경측정망운영실무위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000112569",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20180131"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "물환경측정망운영실무위원회 운영규정(훈령제44호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=33267886",
+      "filename": "물환경측정망운영실무위원회 운영규정(훈령제44호).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/물환경측정망운영실무위원회 운영규정(훈령제44호).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "개정이유서 및 신(구)조문 대비표.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=33267887",
+      "filename": "개정이유서 및 신(구)조문 대비표.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정이유서 및 신(구)조문 대비표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "물환경측정망 운영실무위원회 운영규정(낙동강청훈령제41호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=33267888",
+      "filename": "물환경측정망 운영실무위원회 운영규정(낙동강청훈령제41호).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/물환경측정망 운영실무위원회 운영규정(낙동강청훈령제41호).hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "internal_ref": 1
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
-    "unmatched_relations": 0,
+    "articles_with_relations": 1,
+    "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/물환경측정망 운영실무위원회 운영규정"
@@ -162,5 +272,8 @@
   "addendum_provision_id": "admrul:물환경측정망운영실무위원회운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:물환경측정망운영실무위원회운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "물환경측정망 운영실무위원회 운영규정/물환경측정망 운영실무위원회 운영규정.json"
 }
