@@ -1,17 +1,17 @@
 ---
-법령명: 서산(A)간척지 농업기반시설 재정비사업 3공구 편입토지 세목고시
+법령명: 서산(A)간척지 농업기반시설 재정비사업 5공구 편입토지세목
 문서종: 행정규칙
-provision_id: "admrul:서산(A)간척지농업기반시설재정비사업3공구편입토지세목고시#DOC"
+provision_id: "admrul:서산(A)간척지농업기반시설재정비사업5공구편입토지세목#DOC"
 law_id: 38592
-mst: 2100000100989
-시행일자: 20171030
-공포일자: 20171030
-source: "https://www.law.go.kr/행정규칙/서산(A)간척지 농업기반시설 재정비사업 3공구 편입토지 세목고시"
+mst: 2100000165289
+시행일자: 20181107
+공포일자: 20181101
+source: "https://www.law.go.kr/행정규칙/서산(A)간척지 농업기반시설 재정비사업 5공구 편입토지세목"
 adm_uid: "admrul:38592"
 ---
 
-# 서산(A)간척지 농업기반시설 재정비사업 3공구 편입토지 세목고시
-> 고시 · 행정규칙 · 시행 2017-10-30 · 공포 2017-10-30 · 일부개정
+# 서산(A)간척지 농업기반시설 재정비사업 5공구 편입토지세목
+> 고시 · 행정규칙 · 시행 2018-11-07 · 공포 2018-11-01 · 제정
 
 ### 전문
-1. 사 업 명 : 서산(A)간척지 농업기반시설 재정비사업 3공구2. 사업목적 : 노후된 농업생산기반시설의 기능개선, 침수방지 등 재해대비 능력보강3. 사업구역 : 충청남도 서산시 고북면, 홍성군 갈산면, 서부면 일원4. 사업시행자 : 한국농어촌공사 사장5. 사업기간 : 2011년 ∼ 2020년(10년)6. 기타사항 : 기타 자세한 사항은 한국농어촌공사 천수만사업단(우32226, 충남 홍성군 홍성읍 월산로 58, 전화 041-630-5852)에 문의하시기 바랍니다.7. 수용 또는 사용한 토지세목 조서![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=31893109)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=31893110)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=31893111)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=31893112)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=31893113)
+1. 사 업 명 : 서산(A)간척지 농업기반시설 재정비사업 5공구 2. 사업목적 : 노후된 농업생산기반시설의 기능개선, 침수방지 등 재해대비 능력보강 3. 사업구역 : 충청남도 서산시 부석면 일원 4. 사업시행자 : 한국농어촌공사 사장 5. 사업기간 : 2013년 ∼ 2021년(9년) 6. 기타사항 : 기타 자세한 사항은 한국농어촌공사 천수만사업단(우32226, 충남 홍성군 홍성읍 월산로 58, 전화 041-630-5853)에 문의하시기 바랍니다. 7. 수용 또는 사용한 토지세목 조서![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989167)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989169)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989171)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989173)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989175)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989177)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989179)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989181)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989183)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989187)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989189)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989191)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989193)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989195)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989213)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989231)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989233)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989235)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989237)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989239)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989241)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989243)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989245)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=37989247)
