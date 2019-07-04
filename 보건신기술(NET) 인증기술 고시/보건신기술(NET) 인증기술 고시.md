@@ -3,18 +3,18 @@
 문서종: 행정규칙
 provision_id: "admrul:보건신기술(NET)인증기술고시#DOC"
 law_id: 34387
-mst: 2100000170851
-시행일자: 20181205
-공포일자: 20181205
+mst: 2100000180038
+시행일자: 20190704
+공포일자: 20190704
 source: "https://www.law.go.kr/행정규칙/보건신기술(NET) 인증기술 고시"
 adm_uid: "admrul:34387"
 ---
 
 # 보건신기술(NET) 인증기술 고시
-> 고시 · 행정규칙 · 시행 2018-12-05 · 공포 2018-12-05 · 일부개정
+> 고시 · 행정규칙 · 시행 2019-07-04 · 공포 2019-07-04 · 일부개정
 
 ### 전문
-![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=38834156)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=38834158)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=38834160)
+![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=43224461)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=43224474)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=43224476)
 
 ## 부칙
 ### 부칙 (공포 2014-06-30 제2014-103호)
@@ -40,3 +40,6 @@ adm_uid: "admrul:34387"
 
 ### 부칙 (공포 2018-12-05 제2018-257호)
 부칙 <제2018-257호,2018. 12. 5.>이 고시는 발령한 날부터 시행한다.
+
+### 부칙 (공포 2019-07-04 제2019-145호)
+부칙 <제2019-145호,2019. 7. 4.>이 고시는 발령한 날부터 시행한다.
