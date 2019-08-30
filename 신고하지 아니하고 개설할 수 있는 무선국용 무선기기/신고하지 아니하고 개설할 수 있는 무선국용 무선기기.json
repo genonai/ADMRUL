@@ -1,16 +1,16 @@
 {
   "law_id": "36261",
-  "mst": "2100000174897",
+  "mst": "2100000181753",
   "law_name": "신고하지 아니하고 개설할 수 있는 무선국용 무선기기",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:36261",
-  "promulgation_no": "2018-89",
-  "promulgation_date": "20181227",
-  "enforcement_date": "20181227",
-  "revision_date": "20181227",
+  "promulgation_no": "2019-73",
+  "promulgation_date": "20190830",
+  "enforcement_date": "20190830",
+  "revision_date": "20190830",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "양재혁",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "신고하지 아니하고 개설할 수 있는 무선국용 무선기기",
-    "발령일자": "20181227",
+    "발령일자": "20190830",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-202-4946",
     "제개정구분명": "일부개정",
     "소관부처코드": "1721000",
-    "생성일자": "20190902",
+    "생성일자": "20191028",
     "행정규칙ID": "36261",
-    "시행일자": "20181227",
+    "시행일자": "20190830",
     "담당부서기관코드": "1725429",
-    "발령번호": "2018-89",
-    "행정규칙일련번호": "2100000174897",
+    "발령번호": "2019-73",
+    "행정규칙일련번호": "2100000181753",
     "상위부처명": "과학기술정보통신부"
   },
-  "amendment_text": "⊙과학기술정보통신부고시 제2018-89호\n전파법 제45조(기술기준), 전파법 시행령 제25조(신고하지 아니하고 개설할 수 있는 무선국)에 따라 「신고하지 아니하고 개설할 수 있는 무선국용 무선기기」(과학기술정보통신부 고시 제2018-87호, 2018.12.5.) 일부를 다음과 같이 개정하여 고시합니다.\n2018년 12월 27일\n과학기술정보통신부장관\n신고하지 아니하고 개설할 수 있는 무선국용 무선기기\n[본문 생략]\n부칙\n이 고시는 고시한 날부터 시행한다.",
-  "revision_reason": "◇ 제·개정 이유\n○  235㎒ 및 358㎒ 주파수 대역에서 이용되는 시각장애인 등 교통약자 지원시스템용 기기를 신고하지 아니하고 개설할 수 무선국용 무선기기로 추가\n◇ 주요내용\n제4조제3호의 표를 다음과 같이 한다.\n[그림]\n┌──────────────┬──────┬─────────────┐\n│주파수(㎒)                  │공중선전력  │비고                      │\n│                            │또는        │                          │\n│                            │실효복사전력│                          │\n├──────────────┼──────┼─────────────┤\n│235.3000                    │10㎽ 이하   │시각장애인                │\n│358.5000                    │            │유도신호장치에 한함       │\n├──────────────┼──────┼─────────────┤\n│235.3125, 235.3250, 235.3375│100㎽ 이하  │시각장애인 등 교통약자 지 │\n│358.5125, 358.5250, 358.5375│            │원시스템에 한함           │\n├──────────────┼──────┼─────────────┤\n│447.2625,…, 447.5625       │10㎽ 이하   │                          │\n│(25채널, 12.5㎑간격)        │            │                          │\n└──────────────┴──────┴─────────────┘\n",
+  "amendment_text": "⊙과학기술정보통신부고시 제2019-73호\n전파법 제45조(기술기준), 전파법 시행령 제25조(신고하지 아니하고 개설할 수 있는 무선국)에 따라 「신고하지 아니하고 개설할 수 있는 무선국용 무선기기」(과학기술정보통신부 고시 제2018-89호, 2018.12.27.) 일부를 다음과 같이 개정하여 고시합니다.\n2019년 8월 30일\n과학기술정보통신부장관\n신고하지 아니하고 개설할 수 있는 무선국용 무선기기\n[본문 생략]\n부칙\n이 고시는 고시한 날부터 시행한다.",
+  "revision_reason": "◇ 제·개정 이유\no  차량 충돌방지용 레이다 무선기기 이용 범위 확대\n◇ 주요내용\n제4조제7호 “차량 충돌방지용 레이다 무선기기”의 표를 다음과 같이 한다.\n[그림]\n┌───────┬───────┬───────────────────────────┐\n│주파수        │안테나공급전력│비고                                                  │\n├───────┼───────┼───────────────────────────┤\n│24.25-26.65㎓ │-41.3dBm/㎒   │점유주파수대폭은 주파수대역의 범위 이내일 것          │\n├───────┼───────┤※ 24.25∼26.65㎓ 주파수는 2021년 12월 31일까지 기기  │\n│76-81㎓       │20㎽ 이하     │설치가 가능하고(적합인증은 2017년 12월 31일까지       │\n│              │              │가능), 기기수명 만료 시까지만 사용                    │\n└───────┴───────┴───────────────────────────┘\n",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -74,8 +74,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739469",
-            "seq": "39739469",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269476",
+            "seq": "45269476",
             "filename": "제3조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제3조_1.gif",
@@ -89,17 +89,26 @@
         "article_title": "자계 유도식 무선기기",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조의2(자계 유도식 무선기기) 루프 안테나를 사용하는 자계 유도식 무선기기는 다음의 조건에 적합하여야 한다.[그림]",
+        "content": "제3조의2(자계 유도식 무선기기) 루프 안테나를 사용하는 자계 유도식 무선기기는 다음의 조건에 적합하여야 한다.1. 150㎑ 미만의 주파수를 사용하는 것[그림]2. 150㎑ 이상 30㎒ 미만의 주파수를 사용하는 것[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739471",
-            "seq": "39739471",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269478",
+            "seq": "45269478",
             "filename": "제3조의2_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제3조의2_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269480",
+            "seq": "45269480",
+            "filename": "제3조의2_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제3조의2_2.gif",
             "file_store_url": ""
           }
         ],
@@ -116,8 +125,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739955",
-            "seq": "39739955",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269482",
+            "seq": "45269482",
             "filename": "제4조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_1.gif",
@@ -125,8 +134,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739961",
-            "seq": "39739961",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269484",
+            "seq": "45269484",
             "filename": "제4조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_2.gif",
@@ -134,8 +143,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739965",
-            "seq": "39739965",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269486",
+            "seq": "45269486",
             "filename": "제4조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_3.gif",
@@ -143,8 +152,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739971",
-            "seq": "39739971",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269488",
+            "seq": "45269488",
             "filename": "제4조_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_4.gif",
@@ -152,8 +161,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739975",
-            "seq": "39739975",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269490",
+            "seq": "45269490",
             "filename": "제4조_5.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_5.gif",
@@ -161,8 +170,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739743",
-            "seq": "39739743",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269492",
+            "seq": "45269492",
             "filename": "제4조_6.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_6.gif",
@@ -170,8 +179,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739745",
-            "seq": "39739745",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269496",
+            "seq": "45269496",
             "filename": "제4조_7.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_7.gif",
@@ -179,8 +188,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739749",
-            "seq": "39739749",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269498",
+            "seq": "45269498",
             "filename": "제4조_8.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_8.gif",
@@ -188,8 +197,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739905",
-            "seq": "39739905",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269568",
+            "seq": "45269568",
             "filename": "제4조_9.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_9.gif",
@@ -197,8 +206,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739937",
-            "seq": "39739937",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269570",
+            "seq": "45269570",
             "filename": "제4조_10.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_10.gif",
@@ -206,8 +215,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739929",
-            "seq": "39739929",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269712",
+            "seq": "45269712",
             "filename": "제4조_11.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_11.gif",
@@ -215,8 +224,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739893",
-            "seq": "39739893",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269814",
+            "seq": "45269814",
             "filename": "제4조_12.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_12.gif",
@@ -224,8 +233,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739895",
-            "seq": "39739895",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45269874",
+            "seq": "45269874",
             "filename": "제4조_13.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_13.gif",
@@ -245,8 +254,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739485",
-            "seq": "39739485",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270026",
+            "seq": "45270026",
             "filename": "제5조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제5조_1.gif",
@@ -266,8 +275,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739487",
-            "seq": "39739487",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270030",
+            "seq": "45270030",
             "filename": "제6조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제6조_1.gif",
@@ -287,8 +296,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739489",
-            "seq": "39739489",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270092",
+            "seq": "45270092",
             "filename": "제7조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제7조_1.gif",
@@ -308,8 +317,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739493",
-            "seq": "39739493",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270168",
+            "seq": "45270168",
             "filename": "제8조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제8조_1.gif",
@@ -329,8 +338,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739497",
-            "seq": "39739497",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270194",
+            "seq": "45270194",
             "filename": "제9조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제9조_1.gif",
@@ -350,8 +359,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739501",
-            "seq": "39739501",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270196",
+            "seq": "45270196",
             "filename": "제10조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제10조_1.gif",
@@ -371,8 +380,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739503",
-            "seq": "39739503",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270198",
+            "seq": "45270198",
             "filename": "제11조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제11조_1.gif",
@@ -380,8 +389,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=39739505",
-            "seq": "39739505",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=45270200",
+            "seq": "45270200",
             "filename": "제11조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제11조_2.gif",
@@ -505,6 +514,12 @@
       "promulgation_no": "2018-89",
       "content": "부칙 <제2018-89호,2018. 12. 27.>이 고시는 고시한 날부터 시행한다.",
       "provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선기기#ADDENDUM"
+    },
+    {
+      "promulgation_date": "20190830",
+      "promulgation_no": "2019-73",
+      "content": "부칙 <제2019-73호,2019. 8. 30.>이 고시는 고시한 날부터 시행한다.",
+      "provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선기기#ADDENDUM"
     }
   ],
   "appendices": [],
@@ -519,7 +534,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 0,
     "attachments_count": 2
   },
