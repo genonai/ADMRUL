@@ -1,25 +1,25 @@
 {
   "law_id": "2035336",
-  "mst": "2100000118174",
+  "mst": "2100000183340",
   "law_name": "여성가족부 자체평가위원회 운영 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2035336",
-  "promulgation_no": "116",
-  "promulgation_date": "20180322",
-  "enforcement_date": "20180322",
-  "revision_date": "20180322",
+  "promulgation_no": "138",
+  "promulgation_date": "20191030",
+  "enforcement_date": "20191030",
+  "revision_date": "20191030",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
     "현행여부": "N",
     "담당부서기관명": "성평등가족부(혁신행정법무담당관)",
-    "담당자명": "김창후",
+    "담당자명": "최혜진",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "여성가족부 자체평가위원회 운영 규정",
-    "발령일자": "20180322",
+    "발령일자": "20191030",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,19 +27,19 @@
     "전화번호": "02-2100-6085",
     "제개정구분명": "일부개정",
     "소관부처코드": "1384000",
-    "생성일자": "20191031",
+    "생성일자": "20250307",
     "행정규칙ID": "2035336",
-    "시행일자": "20180322",
+    "시행일자": "20191030",
     "담당부서기관코드": "1383053",
-    "발령번호": "116",
-    "행정규칙일련번호": "2100000118174",
+    "발령번호": "138",
+    "행정규칙일련번호": "2100000183340",
     "상위부처명": "성평등가족부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제·개정 이유\n「여성가족부 직제 시행규칙」개정(여성가족부령 제112호, 2017. 9. 29.)에 따른 부서명칭 변경으로 「여성가족부 기업민원·서비스헌장 운영규정」등 5개 행정규칙을 일괄개정하려는 것임\n◇ 주요내용\n가. “창조행정담당관”을 “혁신행정담당관”으로 변경",
+  "revision_reason": "◇ 제·개정 이유\n- 자체평가 자료의 대외 유출 방지 및 비밀보호 등 보안관리를 강화하기 위하여 자체평가위원회 운영 규정에 보안 규정을 신설\n◇ 주요내용\n가. 여성가족부 장관은 자체평가 민간위원 및 민간위원 제공자료에 대한보안조치를 강구하여야 함(안 제10조)\n나. 위원은 평가업무 수행과정에서 알게 된 정책이나 개인의 신상에 관한 비밀을 누설하면 안됨(안 제11조)\n\n다. 보안서약서 서식(별지 제1호)",
   "body": {
     "format": "articles",
-    "article_count": 10,
+    "article_count": 12,
     "articles": [
       {
         "article_no": "제1조",
@@ -142,14 +142,36 @@
       },
       {
         "article_no": "제10조",
-        "article_title": "운영세칙",
+        "article_title": "보안조치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조(운영세칙) 이 규정 외에 위원회의 운영에 관하여 필요한 사항은 위원회의 의결을 거쳐 정할 수 있다.",
+        "content": "제10조(보안조치) ① 장관은 위원들로부터 보안서약서를 평가 전에 제출받아야 한다.② 평가과제 수행부서(이하 \"각 부서\"라 한다)는 민간위원의 원활한 평가활동을 보장하되 자료 제공 시 보안에 유의하여야 한다.③ 「보안업무규정」에 의한 비밀 등 자료에 대해서는 해당 규정에서 정한 절차를 준수하여야 한다. 그 외 보안이 필요한 자료를 민간위원에게 제공시에는 공람 후 회수 등 보안조치를 강구해야 한다.④ 각 부서는 민간위원에게 전자우편을 통해 자료 발송 시에는 정부에서 제공한 전자우편 계정 등을 이용해야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "admrul:여성가족부자체평가위원회운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "비밀보호",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제11조(비밀보호) 위원은 평가업무 수행과정에서 알게 된 정책이나 개인의 신상에 관한 비밀을 누설하여서는 아니된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:여성가족부자체평가위원회운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "운영세칙",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제12조(운영세칙) 이 규정 외에 위원회의 운영에 관하여 필요한 사항은 위원회의 의결을 거쳐 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:여성가족부자체평가위원회운영규정#JO0012"
       }
     ]
   },
@@ -171,6 +193,12 @@
       "promulgation_no": "116",
       "content": "부칙 <제116호,2018. 3. 22.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:여성가족부자체평가위원회운영규정#ADDENDUM"
+    },
+    {
+      "promulgation_date": "20191030",
+      "promulgation_no": "138",
+      "content": "부칙 <제138호,2019. 10. 30.>이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:여성가족부자체평가위원회운영규정#ADDENDUM"
     }
   ],
   "appendices": [],
@@ -180,13 +208,13 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 10,
+    "articles_total": 12,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
-    "appendices_count": 0,
+    "addenda_count": 4,
+    "appendices_count": 1,
     "attachments_count": 2
   },
   "source": {
