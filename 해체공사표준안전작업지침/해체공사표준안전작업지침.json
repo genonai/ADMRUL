@@ -1,25 +1,25 @@
 {
   "law_id": "34727",
-  "mst": "2100000089807",
+  "mst": "2100000186047",
   "law_name": "해체공사표준안전작업지침",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34727",
-  "promulgation_no": "2015-52",
-  "promulgation_date": "20150925",
-  "enforcement_date": "20150925",
-  "revision_date": "20150925",
+  "promulgation_no": "2020-11",
+  "promulgation_date": "20200107",
+  "enforcement_date": "20200116",
+  "revision_date": "20200107",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "고용노동부(건설산재예방정책과)",
-    "담당자명": "김문규",
+    "담당자명": "김영남",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "해체공사표준안전작업지침",
-    "발령일자": "20150925",
+    "발령일자": "20200107",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1492000",
     "생성일자": "20200117",
     "행정규칙ID": "34727",
-    "시행일자": "20150925",
+    "시행일자": "20200116",
     "담당부서기관코드": "1494724",
-    "발령번호": "2015-52",
-    "행정규칙일련번호": "2100000089807",
+    "발령번호": "2020-11",
+    "행정규칙일련번호": "2100000186047",
     "상위부처명": "고용노동부"
   },
-  "amendment_text": "⊙고용노동부고시 제2015-52호\n산업안전보건법 제27조의 규정에 의한 「해체공사 표준안전작업지침」을 붙임과 같이 개정·고시합니다.\n2015년 9월 25일\n고용노동부장관\n해체공사 표준안전작업지침 개정\n해체공사 표준안전작업지침 일부를 다음과 같이 개정한다.\n제26조를 다음과 같이 한다.\n제26조(재검토기한) 이 고시에 대하여 2016년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.\n부칙\n이 고시는 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n행정환경의 변화에 따라 주기적으로 행정규칙의 존속 여부를 재검토하도록 함으로써 행정의 현실적합성과 합리성을 높이려는 것임.\n◇ 주요내용\n가. 재검토기한 재설정(안 제26조)\n1) 행정의 계속성 및 법령 집행의 통일성을 확보하기 위하여 「해체공사 표준안전작업지침」(고시)을 계속 시행할 필요가 있으므로 재검토기한을 다시 설정하여 발령함.\n2) 이와 같이 주기적으로 「해체공사 표준안전작업지침」(고시)을 검토하도록 함으로써 현실적합성이 제고될 수 있을 것으로 기대됨.",
+  "amendment_text": "⊙고용노동부고시 제2020-11호\n해체공사표준안전작업지침 일부를 다음과 같이 개정한다.\n2020년 1월 7일\n고용노동부장관\n해체공사표준안전작업지침 일부개정고시\n해체공사표준안전작업지침 일부를 다음과 같이 개정한다.\n제1조 중 “「산업안전보건법」 제27조”를 “「산업안전보건법」 제13조”로 한다.\n부칙\n이 고시는 2020년 1월 16일부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n「산업안전보건법」전부개정(’20.1.16. 시행)에 따라 후속조치로「해체공사표준안전작업지침」의 인용조문을 수정하기 위함\n◇ 주요내용\n가.「산업안전보건법」개정 조문을 반영하여 인용조문 수정(안 제1조)",
   "body": {
     "format": "articles",
     "article_count": 26,
@@ -46,9 +46,50 @@
         "article_title": "목적",
         "chapter": "제1장  총     칙",
         "chapter_path": "제1장  총     칙",
-        "content": "제1조(목적) 이 고시는 「산업안전보건법」제27조에 따라 구조물의 해체 공사시 발생되는 산업재해 예방을 위한 기계기구 및 공법에 따른 작업상의 안전에 관하여 사업주에게 지도·권고할 기술상의 지침을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 고시는 「산업안전보건법」제13조에 따라 구조물의 해체 공사시 발생되는 산업재해 예방을 위한 기계기구 및 공법에 따른 작업상의 안전에 관하여 사업주에게 지도·권고할 기술상의 지침을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「산업안전보건법」",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34727",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해체공사표준안전작업지침#JO0001",
+            "reference_id": "law:산업안전보건법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34727",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해체공사표준안전작업지침#JO0001",
+            "reference_id": "law:산업안전보건법#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:해체공사표준안전작업지침#JO0001"
       },
@@ -59,7 +100,48 @@
         "chapter_path": "제1장  총     칙",
         "content": "제2조(용어의 정의) 이 고시에서 사용하는 용어의 뜻은 이 고시에 특별한 규정이 없으면 「산업안전보건법」, 같은 법 시행령 및 시행규칙, 「산업안전보건기준에 관한 규칙」에서 정하는 바에 따른다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34727",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해체공사표준안전작업지침#JO0002",
+            "reference_id": "law:산업안전보건법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「산업안전보건기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34727",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해체공사표준안전작업지침#JO0002",
+            "reference_id": "law:산업안전보건기준에관한규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:해체공사표준안전작업지침#JO0002"
       },
@@ -334,36 +416,83 @@
       "promulgation_date": "20090925",
       "promulgation_no": "2009-41",
       "content": "부칙 <제2009-41호,2009. 9. 25.>제1조(시행일) 이 고시는 2009년 9월 25일부터 시행한다.제2조(종전 고시의 폐지) 종전의 해체공사표준안전작업지침은 이를 폐지한다.",
-      "provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186047",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     },
     {
       "promulgation_date": "20120925",
       "promulgation_no": "2012-94",
       "content": "부칙 <제2012-94호,2012. 9. 25.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186047",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     },
     {
       "promulgation_date": "20150925",
       "promulgation_no": "2015-52",
       "content": "부칙 <제2015-52호,2015. 9. 25.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186047",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
+    },
+    {
+      "promulgation_date": "20200107",
+      "promulgation_no": "2020-11",
+      "content": "부칙 <제2020-11호,2020. 1. 7.>이 고시는 2020년 1월 16일부터 시행한다.",
+      "provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186047",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "법제심사결과(해체공사 표준안전 작업지침 일부개정안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=55604795",
+      "filename": "법제심사결과(해체공사 표준안전 작업지침 일부개정안).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/법제심사결과(해체공사 표준안전 작업지침 일부개정안).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "2020-11호.해체공사표준안전작업지침_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=55604797",
+      "filename": "2020-11호.해체공사표준안전작업지침_전문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2020-11호.해체공사표준안전작업지침_전문.hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
     "articles_total": 26,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/해체공사표준안전작업지침"
@@ -372,5 +501,8 @@
   "addendum_provision_id": "admrul:해체공사표준안전작업지침#ADDENDUM",
   "amendment_provision_id": "admrul:해체공사표준안전작업지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "해체공사표준안전작업지침/해체공사표준안전작업지침.json"
 }
