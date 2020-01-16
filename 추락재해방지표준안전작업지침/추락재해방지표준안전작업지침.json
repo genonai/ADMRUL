@@ -1,25 +1,25 @@
 {
   "law_id": "34901",
-  "mst": "2100000089808",
+  "mst": "2100000186039",
   "law_name": "추락재해방지표준안전작업지침",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34901",
-  "promulgation_no": "2015-53",
-  "promulgation_date": "20150925",
-  "enforcement_date": "20150925",
-  "revision_date": "20150925",
+  "promulgation_no": "2020-8",
+  "promulgation_date": "20200107",
+  "enforcement_date": "20200116",
+  "revision_date": "20200107",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "고용노동부(산업안전기준과)",
-    "담당자명": "김문규",
+    "담당자명": "김영남",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "추락재해방지표준안전작업지침",
-    "발령일자": "20150925",
+    "발령일자": "20200107",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1492000",
     "생성일자": "20200117",
     "행정규칙ID": "34901",
-    "시행일자": "20150925",
+    "시행일자": "20200116",
     "담당부서기관코드": "1494724",
-    "발령번호": "2015-53",
-    "행정규칙일련번호": "2100000089808",
+    "발령번호": "2020-8",
+    "행정규칙일련번호": "2100000186039",
     "상위부처명": "고용노동부"
   },
-  "amendment_text": "⊙고용노동부고시 제2015-53호\n산업안전보건법 제27조의 규정에 의한 「추락재해방지 표준안전작업지침」을 붙임과 같이 개정·고시합니다.\n2015년 9월 25일\n고용노동부장관\n추락재해방지 표준안전작업지침 개정\n추락재해방지 표준안전작업지침 일부를 다음과 같이 개정한다.\n제36조를 다음과 같이 한다.\n제36조(재검토기한) 이 고시에 대하여 2016년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.\n부칙\n이 고시는 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n행정환경의 변화에 따라 주기적으로 행정규칙의 존속 여부를 재검토하도록 함으로써 행정의 현실적합성과 합리성을 높이려는 것임.\n◇ 주요내용\n가. 재검토기한 재설정(안 제36조)\n1) 행정의 계속성 및 법령 집행의 통일성을 확보하기 위하여 「추락재해방지 표준안전작업지침」(고시)을 계속 시행할 필요가 있으므로 재검토기한을 다시 설정하여 발령함.\n2) 이와 같이 주기적으로 「추락재해방지 표준안전작업지침」(고시)을 검토하도록 함으로써 현실적합성이 제고될 수 있을 것으로 기대됨.",
+  "amendment_text": "⊙고용노동부고시 제2020-8호\n추락재해방지표준안전작업지침 일부를 다음과 같이 개정한다.\n2020년 1월 7일\n고용노동부장관\n추락재해방지표준안전작업지침 일부개정\n추락재해방지표준안전작업지침 일부를 다음과 같이 개정한다.\n제1조 중 “「산업안전보건법」 제27조”를 “「산업안전보건법」 제13조”로 한다.\n부칙\n이 고시는 2020년 1월 16일부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n「산업안전보건법」전부개정(’20.1.16. 시행)에 따라 후속조치로「추락재해방지표준안전작업지침」의 인용조문을 수정하기 위함\n◇ 주요내용\n가.「산업안전보건법」개정 조문을 반영하여 인용조문 수정(안 제1조)",
   "body": {
     "format": "articles",
     "article_count": 36,
@@ -46,9 +46,50 @@
         "article_title": "목적",
         "chapter": "제1장  총    칙",
         "chapter_path": "제1장  총    칙",
-        "content": "제1조(목적) 이 고시는 「산업안전보건법」제27조에 따라 추락 재해방지를 위하여 사용되는 방망, 안전대, 지지로우프,  표준안전난간의 설치 및 관리에 관하여 사업주에게 지도·권고할 기술상의  지침을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 고시는 「산업안전보건법」제13조에 따라 추락 재해방지를 위하여 사용되는 방망, 안전대, 지지로우프,  표준안전난간의 설치 및 관리에 관하여 사업주에게 지도·권고할 기술상의  지침을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「산업안전보건법」",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34901",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추락재해방지표준안전작업지침#JO0001",
+            "reference_id": "law:산업안전보건법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34901",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추락재해방지표준안전작업지침#JO0001",
+            "reference_id": "law:산업안전보건법#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:추락재해방지표준안전작업지침#JO0001"
       },
@@ -57,9 +98,50 @@
         "article_title": "정의",
         "chapter": "제1장  총    칙",
         "chapter_path": "제1장  총    칙",
-        "content": "제2조(정의) ①이 지침에서 사용되는 용어의 정의는 다음 각호와 같다.1. \"방망\"이라 함은 그물코가 다수 연속된 것을 말한다.2. \"매듭\"이라 함은 그물코의 정점을 만드는 방망사의 매듭을 말한다.3. \"테두리로우프\"라 함은 방망주변을 형성하는 로우프를 말한다.4. \"재봉사\"라 함은 테두리로우프와 방망을 일체화하기 위한 실을 말한다. 여기서 사는 방망사와 동일한 재질의 것을 말한다.5. \"달기로우프\"라 함은 방망을 지지점에 부착하기 위한 로우프를 말한다.6. \"시험용사\"라 함은 등속인장시험에 사용하기 위한 것으로서 방망사와 동일한 재질의 것을 말한다.② 그 밖에 이 고시에서 사용하는 용어의 뜻은 이 고시에 특별한 규정이 없으면 「산업안전보건법」, 같은 법 시행령 및 시행규칙, 「산업안전보건기준에 관한 규칙」에서 정하는 바에 따른다.",
+        "content": "제2조(정의) ①이 지침에서 사용되는 용어의 정의는 다음 각호와 같다.1. \"방망”이라 함은 그물코가 다수 연속된 것을 말한다.2. \"매듭”이라 함은 그물코의 정점을 만드는 방망사의 매듭을 말한다.3. \"테두리로우프”라 함은 방망주변을 형성하는 로우프를 말한다.4. \"재봉사”라 함은 테두리로우프와 방망을 일체화하기 위한 실을 말한다. 여기서 사는 방망사와 동일한 재질의 것을 말한다.5. \"달기로우프”라 함은 방망을 지지점에 부착하기 위한 로우프를 말한다.6. \"시험용사”라 함은 등속인장시험에 사용하기 위한 것으로서 방망사와 동일한 재질의 것을 말한다.② 그 밖에 이 고시에서 사용하는 용어의 뜻은 이 고시에 특별한 규정이 없으면 「산업안전보건법」, 같은 법 시행령 및 시행규칙, 「산업안전보건기준에 관한 규칙」에서 정하는 바에 따른다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34901",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추락재해방지표준안전작업지침#JO0002",
+            "reference_id": "law:산업안전보건법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「산업안전보건기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34901",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추락재해방지표준안전작업지침#JO0002",
+            "reference_id": "law:산업안전보건기준에관한규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:추락재해방지표준안전작업지침#JO0002"
       },
@@ -74,8 +156,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451248",
-            "seq": "12451248",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829779",
+            "seq": "55829779",
             "filename": "제3조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제3조_1.gif",
@@ -83,8 +165,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451251",
-            "seq": "12451251",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829805",
+            "seq": "55829805",
             "filename": "제3조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제3조_2.gif",
@@ -98,7 +180,7 @@
         "article_title": "테두리로우프 및 달기로우프의 강도",
         "chapter": "제2절  강    도",
         "chapter_path": "제2장  방망의 구조 등 안전기준 > 제2절  강    도",
-        "content": "제4조(테두리로우프 및 달기로우프의 강도) 테두리로우프 및 달기로우프의 강도는 다음 각 호에 정하는 바에 적합하여야 한다.1. 테두리로우프 및 달기로우프는 방망에 사용되는 로우프와 동일한 시험편의 양단을 인장 시험기로 체크하거나 또는 이와 유사한 방법으로 인장속도가 매분 20㎝ 이상 30㎝ 이하의 등속인장시험(이하 \"등속인장시험\"이라 한다)을 행한 경우 인장강도가 1,500㎏ 이상이어야 한다.2. 제1호의 경우 시험편의 유효길이는 로우프 직경의 30배 이상으로 시험편수는 5개 이상으로 하고, 산술평균하여 로우프의 인장강도를 산출한다.",
+        "content": "제4조(테두리로우프 및 달기로우프의 강도) 테두리로우프 및 달기로우프의 강도는 다음 각 호에 정하는 바에 적합하여야 한다.1. 테두리로우프 및 달기로우프는 방망에 사용되는 로우프와 동일한 시험편의 양단을 인장 시험기로 체크하거나 또는 이와 유사한 방법으로 인장속도가 매분 20㎝ 이상 30㎝ 이하의 등속인장시험(이하 \"등속인장시험”이라 한다)을 행한 경우 인장강도가 1,500㎏ 이상이어야 한다.2. 제1호의 경우 시험편의 유효길이는 로우프 직경의 30배 이상으로 시험편수는 5개 이상으로 하고, 산술평균하여 로우프의 인장강도를 산출한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -115,8 +197,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451227",
-            "seq": "12451227",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829817",
+            "seq": "55829817",
             "filename": "제5조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제5조_1.gif",
@@ -141,14 +223,14 @@
         "article_title": "허용낙하높이",
         "chapter": "제3절  방망의 사용방법",
         "chapter_path": "제2장  방망의 구조 등 안전기준 > 제3절  방망의 사용방법",
-        "content": "제7조(허용낙하높이) 작업발판과 방망 부착위치의 수직거리(이하 \"낙하높이\"라 한다.)는〈표 4〉및 (그림 2), (그림 3)에 의해 계산된 값 이하로 한다.[그림]또, L, A의 값은 (그림-2), (그림-3)에 의한다.[그림]",
+        "content": "제7조(허용낙하높이) 작업발판과 방망 부착위치의 수직거리(이하 \"낙하높이”라 한다.)는〈표 4〉및 (그림 2), (그림 3)에 의해 계산된 값 이하로 한다.[그림]또, L, A의 값은 (그림-2), (그림-3)에 의한다.[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451252",
-            "seq": "12451252",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829835",
+            "seq": "55829835",
             "filename": "제7조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제7조_1.gif",
@@ -156,8 +238,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451253",
-            "seq": "12451253",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829845",
+            "seq": "55829845",
             "filename": "제7조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제7조_2.gif",
@@ -177,8 +259,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451231",
-            "seq": "12451231",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829855",
+            "seq": "55829855",
             "filename": "제8조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제8조_1.gif",
@@ -291,26 +373,17 @@
         "article_title": "점검",
         "chapter": "제4절  안전대의 점검, 보수, 보관 및 폐기",
         "chapter_path": "제3장  안  전  대 > 제4절  안전대의 점검, 보수, 보관 및 폐기",
-        "content": "제18조(점검) 안전대의 점검, 보수, 보관 및 폐기는 책임자를 정하여 정기점검하고 관리대장에 다음 각 호에 정하는 기준에 의하여 그 결과나 관리상의 필요한 사항을 기록하여야 한다.1. 벨트의 마모, 홈, 비틀림, 약품류에 의한 변색2. 재봉실의 마모, 절단, 풀림3. 철물류의 마모, 균열, 변형, 전기단락에 의한 용융, 리벳이나 스프링의 상태4. 로우프의 마모, 소선의 절단, 홈, 열에 의한 변형, 풀림 등의 변형, 약품류에 의한 변색5. 각 부품의 손상정도에 의한 사용한계에 대해서는 부품의 재질, 치수, 구조 및 사용조건을 고려하여야 하며 벨트 및 로우프에 사용되는 나일론, 비닐론, 폴리에스텔의 재료특성 및 로우프의 인장 강도는〈표 6〉및〈표 7〉과 같다.[그림][그림]",
+        "content": "제18조(점검) 안전대의 점검, 보수, 보관 및 폐기는 책임자를 정하여 정기점검하고 관리대장에 다음 각 호에 정하는 기준에 의하여 그 결과나 관리상의 필요한 사항을 기록하여야 한다.1. 벨트의 마모, 홈, 비틀림, 약품류에 의한 변색2. 재봉실의 마모, 절단, 풀림3. 철물류의 마모, 균열, 변형, 전기단락에 의한 용융, 리벳이나 스프링의 상태4. 로우프의 마모, 소선의 절단, 홈, 열에 의한 변형, 풀림 등의 변형, 약품류에 의한 변색5. 각 부품의 손상정도에 의한 사용한계에 대해서는 부품의 재질, 치수, 구조 및 사용조건을 고려하여야 하며 벨트 및 로우프에 사용되는 나일론, 비닐론, 폴리에스텔의 재료특성 및 로우프의 인장 강도는〈표 6〉및〈표 7〉과 같다.[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451234",
-            "seq": "12451234",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829867",
+            "seq": "55829867",
             "filename": "제18조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제18조_1.gif",
-            "file_store_url": ""
-          },
-          {
-            "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451254",
-            "seq": "12451254",
-            "filename": "제18조_2.gif",
-            "file_dir": "본문이미지",
-            "local_path": "본문이미지/제18조_2.gif",
             "file_store_url": ""
           }
         ],
@@ -349,8 +422,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451255",
-            "seq": "12451255",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829879",
+            "seq": "55829879",
             "filename": "제21조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제21조_1.gif",
@@ -358,8 +431,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451257",
-            "seq": "12451257",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829883",
+            "seq": "55829883",
             "filename": "제21조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제21조_2.gif",
@@ -390,8 +463,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451259",
-            "seq": "12451259",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829907",
+            "seq": "55829907",
             "filename": "제23조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_1.gif",
@@ -411,8 +484,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451260",
-            "seq": "12451260",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829939",
+            "seq": "55829939",
             "filename": "제24조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제24조_1.gif",
@@ -426,7 +499,7 @@
         "article_title": "설치위치",
         "chapter": "제4장  표준안전난간",
         "chapter_path": "제4장  표준안전난간",
-        "content": "제25조(설치위치) 표준안전난간(이하 \"안전난간\"이라 한다)의 설치장소는 중량물 취급 개구부, 작업대, 가설계단의 통로, 흙막이 지보공의 상부등으로 한다.",
+        "content": "제25조(설치위치) 표준안전난간(이하 \"안전난간”이라 한다)의 설치장소는 중량물 취급 개구부, 작업대, 가설계단의 통로, 흙막이 지보공의 상부등으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -443,8 +516,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451261",
-            "seq": "12451261",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829943",
+            "seq": "55829943",
             "filename": "제26조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_1.gif",
@@ -464,8 +537,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451262",
-            "seq": "12451262",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829949",
+            "seq": "55829949",
             "filename": "제27조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제27조_1.gif",
@@ -473,8 +546,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451263",
-            "seq": "12451263",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829953",
+            "seq": "55829953",
             "filename": "제27조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제27조_2.gif",
@@ -527,8 +600,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451264",
-            "seq": "12451264",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55829961",
+            "seq": "55829961",
             "filename": "제31조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제31조_1.gif",
@@ -544,7 +617,28 @@
         "chapter_path": "제4장  표준안전난간",
         "content": "제32조(수평최대처짐) 제31조의 하중에 의한 수평최대처짐은 10밀리미터 이하로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조",
+            "link_text": "제31조",
+            "line_text": "",
+            "target_law_name": "추락재해방지표준안전작업지침",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34901",
+            "target_url": "https://www.law.go.kr/행정규칙/추락재해방지표준안전작업지침/제31조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추락재해방지표준안전작업지침#JO0032",
+            "reference_id": "admrul:추락재해방지표준안전작업지침#JO0031",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "추락재해방지표준안전작업지침/추락재해방지표준안전작업지침.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:추락재해방지표준안전작업지침#JO0032"
       },
@@ -559,8 +653,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=12451277",
-            "seq": "12451277",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55830081",
+            "seq": "55830081",
             "filename": "제33조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제33조_1.gif",
@@ -609,36 +703,85 @@
       "promulgation_date": "20090925",
       "promulgation_no": "2009-43",
       "content": "부칙 <제2009-43호,2009. 9. 25.>제1조(시행일) 이 고시는 2009년 9월 25일부터 시행한다.제2조(종전 고시의 폐지) 종전의 추락재해방지표준안전작업지침은 이를 폐지한다.",
-      "provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186039",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     },
     {
       "promulgation_date": "20120925",
       "promulgation_no": "2012-95",
       "content": "부칙 <제2012-95호,2012. 9. 25.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186039",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     },
     {
       "promulgation_date": "20150925",
       "promulgation_no": "2015-53",
       "content": "부칙 <제2015-53호,2015. 9. 25.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186039",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
+    },
+    {
+      "promulgation_date": "20200107",
+      "promulgation_no": "2020-8",
+      "content": "부칙 <제2020-8호,2020. 1. 7.>이 고시는 2020년 1월 16일부터 시행한다.",
+      "provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186039",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "2020-8호.추락재해방지표준안전작업지침_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=55604787",
+      "filename": "2020-8호.추락재해방지표준안전작업지침_전문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2020-8호.추락재해방지표준안전작업지침_전문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "법제심사결과(추락재해방지 표준안전 작업지침 일부개정안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=55604789",
+      "filename": "법제심사결과(추락재해방지 표준안전 작업지침 일부개정안).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/법제심사결과(추락재해방지 표준안전 작업지침 일부개정안).hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 1
+    },
     "articles_total": 36,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/추락재해방지표준안전작업지침"
@@ -647,5 +790,8 @@
   "addendum_provision_id": "admrul:추락재해방지표준안전작업지침#ADDENDUM",
   "amendment_provision_id": "admrul:추락재해방지표준안전작업지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "추락재해방지표준안전작업지침/추락재해방지표준안전작업지침.json"
 }
