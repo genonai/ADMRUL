@@ -1,25 +1,25 @@
 {
   "law_id": "34918",
-  "mst": "2100000069687",
+  "mst": "2100000186124",
   "law_name": "운반하역 표준안전 작업지침",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34918",
-  "promulgation_no": "2015-47",
-  "promulgation_date": "20150920",
-  "enforcement_date": "20150920",
-  "revision_date": "20150920",
+  "promulgation_no": "2020-26",
+  "promulgation_date": "20200116",
+  "enforcement_date": "20200116",
+  "revision_date": "20200116",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "고용노동부(산업안전기준과)",
-    "담당자명": "오현석",
+    "담당자명": "서충한",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "운반하역 표준안전 작업지침",
-    "발령일자": "20150920",
+    "발령일자": "20200116",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-202-8852",
     "제개정구분명": "일부개정",
     "소관부처코드": "1492000",
-    "생성일자": "20200120",
+    "생성일자": "20230102",
     "행정규칙ID": "34918",
-    "시행일자": "20150920",
+    "시행일자": "20200116",
     "담당부서기관코드": "1494724",
-    "발령번호": "2015-47",
-    "행정규칙일련번호": "2100000069687",
+    "발령번호": "2020-26",
+    "행정규칙일련번호": "2100000186124",
     "상위부처명": "고용노동부"
   },
-  "amendment_text": "⊙고용노동부고시 제2015-47호\n운반하역 표준안전 작업지침 일부를 다음과 같이 개정한다.\n2015년 9월 20일\n고용노동부장관\n「운반하역 표준안전 작업지침」 일부 개정\n운반하역 표준안전 작업지침 일부를 다음과 같이 개정한다.\n제77조를 다음과 같이 “2015년 9월 19일까지”를 “2018년 9월 19일까지”로 한다.\n제77조(재검토기한 3년) 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 2018년 9월 19일까지 법령이나 현실여건의 변화 등을 검토하여 폐지 또는 개정한다.\n부칙\n이 예규는 2015년 9월 20일부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n○ 운반하역 표준안전 작업지침의 재검토 기한 도래에 따른 기한변경 개정 필요\n◇ 주요 개정내용\n가. 재검토 기한 도래에 따른 기한 변경(안 제77조)",
+  "amendment_text": "",
+  "revision_reason": "◇ 제·개정 이유\nㅇ 산업안전보건법(법률 제16272호)이 전부 개정됨에 따라 개정된 사항을 반영하여 인용조문 개정\n\n◇ 주요내용\n가. 인용조문 개정\n- 산업안전보건법 전부개정에 따른 인용조문 개정",
   "body": {
     "format": "articles",
     "article_count": 77,
@@ -46,9 +46,50 @@
         "article_title": "목적",
         "chapter": "제1장  총칙",
         "chapter_path": "제1장  총칙",
-        "content": "제1조(목적) 이 고시는 「산업안전보건법」 제27조에 따라 인력 및 기계 운반하역 작업상의 안전에 관하여 사업주에게 지도·권고할 기술상의 지침을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 고시는 「산업안전보건법」 제13조에 따라 인력 및 기계 운반하역 작업상의 안전에 관하여 사업주에게 지도·권고할 기술상의 지침을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「산업안전보건법」",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34918",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:운반하역표준안전작업지침#JO0001",
+            "reference_id": "law:산업안전보건법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34918",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:운반하역표준안전작업지침#JO0001",
+            "reference_id": "law:산업안전보건법#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:운반하역표준안전작업지침#JO0001"
       },
@@ -57,9 +98,50 @@
         "article_title": "용어의 정의",
         "chapter": "제1장  총칙",
         "chapter_path": "제1장  총칙",
-        "content": "제2조(용어의 정의) 이 고시에서 사용하는 용어의 정의는 이 고시에 특별한 규정이 없으면 「산업안전보건법」(이하 “법”이라 한다), 같은 법 시행령(이하 “영”이라 한다) 및 시행규칙(이하 “규칙”이라 한다), 「산업안전보건기준에 관한 규칙」(이하 “안전보건규칙”이라 한다)이 정하는 바에 따른다.",
+        "content": "제2조(용어의 정의) 이 고시에서 사용하는 용어의 정의는 이 고시에 특별한 규정이 없으면 「산업안전보건법」(이하 \"법”이라 한다), 같은 법 시행령(이하 \"영”이라 한다) 및 시행규칙(이하 \"규칙”이라 한다), 「산업안전보건기준에 관한 규칙」(이하 \"안전보건규칙”이라 한다)이 정하는 바에 따른다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34918",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:운반하역표준안전작업지침#JO0002",
+            "reference_id": "law:산업안전보건법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「산업안전보건기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34918",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:운반하역표준안전작업지침#JO0002",
+            "reference_id": "law:산업안전보건기준에관한규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:운반하역표준안전작업지침#JO0002"
       },
@@ -68,7 +150,7 @@
         "article_title": "준비",
         "chapter": "제2장  인력 운반하역",
         "chapter_path": "제2장  인력 운반하역",
-        "content": "제3조(준비) 작업시작 전 다음 각 호의 사항을 준수하여야 한다.1.작업시작 전에 허리를 중심으로 요통을 방지하기 위한 가벼운 운동을 하여야 한다.2.운반통로를 확인하고 통로상의 장애물을 제거하여 안전운반 통로를 확보하고, 부득이한 경우에는 우회 운반통로를 사용하여야 한다.3.작업자의 체력을 고려하여 작업자를 배치하여야 한다.",
+        "content": "제3조(준비) 작업시작 전 다음 각 호의 사항을 준수하여야 한다.1. 작업시작 전에 허리를 중심으로 요통을 방지하기 위한 가벼운 운동을 하여야 한다.2. 운반통로를 확인하고 통로상의 장애물을 제거하여 안전운반 통로를 확보하고, 부득이한 경우에는 우회 운반통로를 사용하여야 한다.3. 작업자의 체력을 고려하여 작업자를 배치하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -79,7 +161,7 @@
         "article_title": "복장 및 보호구",
         "chapter": "제2장  인력 운반하역",
         "chapter_path": "제2장  인력 운반하역",
-        "content": "제4조(복장 및 보호구) 운반하역 작업을 할 때에는 다음 각 호의 사항에 맞는 복장 및 보호구를 착용하여야 한다.1.상의 작업복의 소매는 손목에 밀착시킬 수 있는 구조이어야 하며 상의 작업복 옷자락은 하의 속으로 집어넣어야 한다.2.하의 작업복 바지자락은 안전화 속에 집어넣거나 발목에 밀착이 가능하도록 조일 수 있는 구조이어야 한다.3.안전모, 안전화 및 안전장갑은 안전인증을 받은 제품으로서 근로자의 신체에 잘 맞는 제품을 바르게 착용하여야 한다.4.분진이 발생하는 물건을 취급할 때 또는 분진작업장에서는 안전인증을 받은 제품으로서 작업조건에 적합한 방진마스크와 보안경을 착용하여야 한다.5.유해·위험물을 취급할 때에는 유해·위험물로부터 방호할 수 있는 보호구를 선정하여 착용하여야 한다.",
+        "content": "제4조(복장 및 보호구) 운반하역 작업을 할 때에는 다음 각 호의 사항에 맞는 복장 및 보호구를 착용하여야 한다.1. 상의 작업복의 소매는 손목에 밀착시킬 수 있는 구조이어야 하며 상의 작업복 옷자락은 하의 속으로 집어넣어야 한다.2. 하의 작업복 바지자락은 안전화 속에 집어넣거나 발목에 밀착이 가능하도록 조일 수 있는 구조이어야 한다.3. 안전모, 안전화 및 안전장갑은 안전인증을 받은 제품으로서 근로자의 신체에 잘 맞는 제품을 바르게 착용하여야 한다.4. 분진이 발생하는 물건을 취급할 때 또는 분진작업장에서는 안전인증을 받은 제품으로서 작업조건에 적합한 방진마스크와 보안경을 착용하여야 한다.5. 유해·위험물을 취급할 때에는 유해·위험물로부터 방호할 수 있는 보호구를 선정하여 착용하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -112,7 +194,7 @@
         "article_title": "인양",
         "chapter": "제2장  인력 운반하역",
         "chapter_path": "제2장  인력 운반하역",
-        "content": "제7조(인양) 하물을 인양할 때에는 다음 각 호의 사항을 준수하여야 한다.1.인양물체의 무게는 실측을 원칙으로 하며 인양물체의 무게가 일정하지 않은 때에는 평균무게와 최대무게를 실측하여야 한다.2.인양물체의 무게를 어림잡은 때에는 가볍게 들어 개인의 인양능력에 충분한가의 여부를 판단하여 인양하여야 한다.3. 인양할 때의 몸의 자세는 다음 각 목의 사항을 준수하여야 한다.가.한쪽 발은 들어올리는 물체를 향하여 안전하게 고정시키고 다른 발은 그 뒤에 안전하게 고정시킬 것나. 등은 항상 직립을 유지하여 가능한 한 지면과 수직이 되도록 할 것다. 무릎은 직각자세를 취하고 몸은 가능한 한 인양물에 근접하여 정면에서 인양할 것라. 턱은 안으로 당겨 척추와 일직선이 되도록 할 것마. 팔은 몸에 밀착시키고 끌어당기는 자세를 취하며 가능한 한 수평거리를 짧게 할 것바.손가락으로만 인양물을 잡아서는 아니 되며 손바닥으로 인양물 전체를 잡을 것사.체중의 중심은 항상 양 다리 중심에 있게 하여 균형을 유지할 것아. 인양하는 최초의 힘은 뒷발쪽에 두고 인양할 것",
+        "content": "제7조(인양) 하물을 인양할 때에는 다음 각 호의 사항을 준수하여야 한다.1. 인양물체의 무게는 실측을 원칙으로 하며 인양물체의 무게가 일정하지 않은 때에는 평균무게와 최대무게를 실측하여야 한다.2. 인양물체의 무게를 어림잡은 때에는 가볍게 들어 개인의 인양능력에 충분한가의 여부를 판단하여 인양하여야 한다.3. 인양할 때의 몸의 자세는 다음 각 목의 사항을 준수하여야 한다.가. 한쪽 발은 들어올리는 물체를 향하여 안전하게 고정시키고 다른 발은 그 뒤에 안전하게 고정시킬 것나. 등은 항상 직립을 유지하여 가능한 한 지면과 수직이 되도록 할 것다. 무릎은 직각자세를 취하고 몸은 가능한 한 인양물에 근접하여 정면에서 인양할 것라. 턱은 안으로 당겨 척추와 일직선이 되도록 할 것마. 팔은 몸에 밀착시키고 끌어당기는 자세를 취하며 가능한 한 수평거리를 짧게 할 것바. 손가락으로만 인양물을 잡아서는 아니 되며 손바닥으로 인양물 전체를 잡을 것사. 체중의 중심은 항상 양 다리 중심에 있게 하여 균형을 유지할 것아. 인양하는 최초의 힘은 뒷발쪽에 두고 인양할 것",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -198,8 +280,8 @@
       {
         "article_no": "제15조",
         "article_title": "감아올리기",
-        "chapter": "제1절  운전",
-        "chapter_path": "제3장  고정식 기계운반하역 > 제1절  운전",
+        "chapter": "제2절  운전",
+        "chapter_path": "제3장  고정식 기계운반하역 > 제2절  운전",
         "content": "제15조(감아올리기) 감아올리기 작업은 다음 각 호의 사항을 준수하여야 한다.1. 감아올림은 수직으로 하여야 하며 비스듬히 끌어올리지 말아야 한다.2. 저속으로 천천히 감아올리고 와이어로프가 인장력을 받기 시작할 때에는 일단 정지해야 한다.3. 지면과 약 5센티미터 떨어진 지점에서 정지하여야 한다.4. 지면과 약 5센티미터 떨어져 정지한 후 감아올릴 때 급격한 상승을 하여서는 아니 된다.5. 매단 하물이 무너지거나 빠지는 등의 위험이 있을 때에는 경보 등의 신호에 따라 즉시 풀어내려야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -209,8 +291,8 @@
       {
         "article_no": "제16조",
         "article_title": "이동",
-        "chapter": "제1절  운전",
-        "chapter_path": "제3장  고정식 기계운반하역 > 제1절  운전",
+        "chapter": "제2절  운전",
+        "chapter_path": "제3장  고정식 기계운반하역 > 제2절  운전",
         "content": "제16조(이동) 장비의 이동 작업은 다음 각 호의 사항을 준수하여야 한다.1. 근로자(특히 신호자, 걸이공)의 위치, 장애물의 유무, 인접 크레인의 움직임 등 주위의 상황을 확인하고 경보를 울린 후 이동하여야 한다.2. 급격한 기동이나 정지를 해서는 아니 된다.3. 장척물이나 이형물을 운반할 때에는 특히 신중히 하여야 한다.4. 감아올림(풀어내림)과 주행 또는 가로방향 운전의 이중조작 운전을 할 때에는 매단물체의 바닥면과 작업면과의 최소 이격거리를 2미터 이상으로 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -220,8 +302,8 @@
       {
         "article_no": "제17조",
         "article_title": "풀어내리기",
-        "chapter": "제1절  운전",
-        "chapter_path": "제3장  고정식 기계운반하역 > 제1절  운전",
+        "chapter": "제2절  운전",
+        "chapter_path": "제3장  고정식 기계운반하역 > 제2절  운전",
         "content": "제17조(풀어내리기) 풀어내리기 작업은 다음 각 호의 사항을 준수하여야 한다.1. 착지 전에 지면으로부터 20센티미터 정도의 높이에서 일단 정지하고 신호자의 신호에 따라 안전을 확인한 후 저속 조작으로 풀어내려야 한다.2. 컨트롤러(Controller)를 영(0)의 눈금으로 되돌리고 급정지 하여서는 아니 된다.",
         "enforcement_date": "",
         "relations": [],
@@ -231,8 +313,8 @@
       {
         "article_no": "제18조",
         "article_title": "이상 시 조치",
-        "chapter": "제1절  운전",
-        "chapter_path": "제3장  고정식 기계운반하역 > 제1절  운전",
+        "chapter": "제2절  운전",
+        "chapter_path": "제3장  고정식 기계운반하역 > 제2절  운전",
         "content": "제18조(이상 시 조치) 이상이 있을 때에는 다음 각 호의 사항에 따라 조치를 취하여야 한다.1. 주행 중에 갑자기 브레이크가 걸리지 않게 되고 컨트롤러(Controller)를 역행으로 했지만 컨텍터(Contactor)가 소손되고, 크레인(Crane)이 폭주했을 경우에는 조작회로 버튼을 오프(OFF)로 하고 주전원을 개방한 후 감속하여야 한다.2. 운전 중 매단 물체가 자연강하할 경우 컨트롤러(Controller)를 1눈금 또는 2눈금으로 내리면서 신호자와 연락을 취하면서 안전한 장소로 이동해서 내려야 한다.3. 감아올리는 전동기 2대를 사용하는 크레인(Crane)으로 그 하나가 고장일 때는 신호자에게 연락하고 물체를 안전한 장소에 내려야 한다.4. 운전중 정전이 되었을 경우 컨트롤러(Controller)를 오프(OFF)로 되돌린 후 주전원을 개방하고 송전을 기다려야 한다.5. 리프팅 마그네트(Lifting magnet)를 사용 중에 정전이 되었을 경우 신호자 등 지상 근로자에게 연락을 취하고 흡착물의 낙하에 의한 재해를 방지하기 위한 조치를 신속히 한 후 브레이크 해제장치 등 사용 흡착물을 안전하게 지상에 내려놓아야 한다.6. 그 밖의 돌발적인 고장 등 원인불명의 경우에는 안전한 위치에서 크레인을 정지하는 등의 방법을 취한 후 신속히 감독자에게 연락을 취하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -360,8 +442,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823616",
-            "seq": "27823616",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938063",
+            "seq": "55938063",
             "filename": "제29조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제29조_1.gif",
@@ -381,8 +463,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823614",
-            "seq": "27823614",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938133",
+            "seq": "55938133",
             "filename": "제30조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제30조_1.gif",
@@ -390,8 +472,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823615",
-            "seq": "27823615",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938137",
+            "seq": "55938137",
             "filename": "제30조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제30조_2.gif",
@@ -411,8 +493,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823612",
-            "seq": "27823612",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938141",
+            "seq": "55938141",
             "filename": "제31조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제31조_1.gif",
@@ -420,8 +502,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823613",
-            "seq": "27823613",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938145",
+            "seq": "55938145",
             "filename": "제31조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제31조_2.gif",
@@ -441,8 +523,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823611",
-            "seq": "27823611",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938149",
+            "seq": "55938149",
             "filename": "제32조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제32조_1.gif",
@@ -462,8 +544,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823609",
-            "seq": "27823609",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938191",
+            "seq": "55938191",
             "filename": "제33조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제33조_1.gif",
@@ -483,8 +565,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823610",
-            "seq": "27823610",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938197",
+            "seq": "55938197",
             "filename": "제34조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제34조_1.gif",
@@ -504,8 +586,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823676",
-            "seq": "27823676",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938201",
+            "seq": "55938201",
             "filename": "제35조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제35조_1.gif",
@@ -525,8 +607,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823567",
-            "seq": "27823567",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938269",
+            "seq": "55938269",
             "filename": "제36조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제36조_1.gif",
@@ -546,8 +628,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823562",
-            "seq": "27823562",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938273",
+            "seq": "55938273",
             "filename": "제37조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제37조_1.gif",
@@ -567,8 +649,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823561",
-            "seq": "27823561",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938385",
+            "seq": "55938385",
             "filename": "제38조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제38조_1.gif",
@@ -588,8 +670,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823560",
-            "seq": "27823560",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938421",
+            "seq": "55938421",
             "filename": "제39조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제39조_1.gif",
@@ -609,8 +691,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823559",
-            "seq": "27823559",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938429",
+            "seq": "55938429",
             "filename": "제40조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제40조_1.gif",
@@ -971,8 +1053,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823558",
-            "seq": "27823558",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938433",
+            "seq": "55938433",
             "filename": "제72조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제72조_1.gif",
@@ -980,8 +1062,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=27823557",
-            "seq": "27823557",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=55938437",
+            "seq": "55938437",
             "filename": "제72조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제72조_2.gif",
@@ -1039,7 +1121,7 @@
         "article_title": "재검토기한",
         "chapter": "제5절  셔블로더",
         "chapter_path": "제4장  이동식 기계운반하역 > 제5절  셔블로더",
-        "content": "제77조(재검토기한) 고용노동부장관은 이 고시에 대하여 2016년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제77조(재검토기한) 고용노동부장관은 이 고시에 대하여 2020년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1052,36 +1134,83 @@
       "promulgation_date": "20090925",
       "promulgation_no": "2009-49",
       "content": "부칙 <제2009-49호,2009. 9. 25.>제1조(시행일) 이 고시는 2009년 9월 25일부터 시행한다.제2조(종전 고시의 폐지) 종전의 운반하역표준안전작업지침은 이를 폐지한다.",
-      "provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186124",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     },
     {
       "promulgation_date": "20120920",
       "promulgation_no": "2012-70",
       "content": "부칙 <제2012-70호,2012. 9. 20.>이 고시는 2012년 9월 20일부터 시행한다.",
-      "provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186124",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     },
     {
       "promulgation_date": "20150920",
       "promulgation_no": "2015-47",
       "content": "부칙 <제2015-47호,2015. 9. 20.>이 예규는 2015년 9월 20일부터 시행한다.",
-      "provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM"
+      "provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186124",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
+    },
+    {
+      "promulgation_date": "20200116",
+      "promulgation_no": "2020-26",
+      "content": "부칙 <제2020-26호,2020. 1. 16.>이 고시는 2020년 1월 16일부터 시행한다.",
+      "provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000186124",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200116"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "운반하역 표준안전 작업지침(고용노동부고시 제2020-26호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=55681997",
+      "filename": "운반하역 표준안전 작업지침(고용노동부고시 제2020-26호).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/운반하역 표준안전 작업지침(고용노동부고시 제2020-26호).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서(운반하역 표준안전 작업지침).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=55681999",
+      "filename": "조문별제개정이유서(운반하역 표준안전 작업지침).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서(운반하역 표준안전 작업지침).hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
     "articles_total": 77,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/운반하역 표준안전 작업지침"
@@ -1090,5 +1219,8 @@
   "addendum_provision_id": "admrul:운반하역표준안전작업지침#ADDENDUM",
   "amendment_provision_id": "admrul:운반하역표준안전작업지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "운반하역 표준안전 작업지침/운반하역 표준안전 작업지침.json"
 }
