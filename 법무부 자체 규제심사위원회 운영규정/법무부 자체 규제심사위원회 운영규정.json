@@ -1,25 +1,25 @@
 {
   "law_id": "35518",
-  "mst": "2100000176609",
+  "mst": "2100000189405",
   "law_name": "법무부 자체 규제심사위원회 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:35518",
-  "promulgation_no": "1210",
-  "promulgation_date": "20190306",
-  "enforcement_date": "20190306",
-  "revision_date": "20190306",
+  "promulgation_no": "1296",
+  "promulgation_date": "20200518",
+  "enforcement_date": "20200518",
+  "revision_date": "20200518",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "법무부(혁신행정담당관)",
     "담당자명": "이근영",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "법무부 자체 규제심사위원회 운영규정",
-    "발령일자": "20190306",
+    "발령일자": "20200518",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,19 +27,19 @@
     "전화번호": "02-2110-4272",
     "제개정구분명": "일부개정",
     "소관부처코드": "1270000",
-    "생성일자": "20200521",
+    "생성일자": "20260428",
     "행정규칙ID": "35518",
-    "시행일자": "20190306",
+    "시행일자": "20200518",
     "담당부서기관코드": "1272421",
-    "발령번호": "1210",
-    "행정규칙일련번호": "2100000176609",
+    "발령번호": "1296",
+    "행정규칙일련번호": "2100000189405",
     "상위부처명": "법무부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n가. ‘법무부 자체규제심사위원회’(이하 ‘위원회’라 한다)의 기능에 기존규제의 발굴과 자체정비에 관한 사항을 신설하고 차관을 정부위원에 포함하여 공동위원장으로 하며, 민간위원 수를 확대하여 자체 규제심사 기능을 강화하고 변경된 부서의 명칭을 수정하고자 함\n◇ 주요내용\n가. 위원회 기능 추가(안 제3조)\n- 2호 심의사항에 기존규제의 발굴과 자체정비에 관한 사항 신설\n나. 위원회 구성 변경(안 제4조)\n- 1항 “5인 이상 10인 이내의 위원”을 “8인 이상 15인 이내의 위원”으로, “민간위원은 과반수로”를 “민간위원은 과반수 이상으로” 수정\n- 3항 “공동위원장 1인은 기획조정실장”을 “공동위원장 1인은 차관”으로 수정\n다. 부서 명칭 변경\n- 제4조 제4항과 제10조 제1호, 제4호의 “창조행정담당관실”을 “혁신행정담당관실”로 수정",
+  "revision_reason": "◇ 개정이유\n가. 아래 국무조정실 협조 요청 사항과 관련하여 ‘규제 입증책임제도의 운영 내실화’ 및 ‘국민 규제 입증요청제’ 도입을 통한 국민·기업 참여 확대를 도모하기 위함임.\n- 2020년 규제 정부 입증책임제 추진 방향(국무조정실-`20.2.3.)\n- 규제 정부 입증책임제 추진성과 및 향후 추진계획(국무조정실-`20.4.9.)\n\n◇ 주요내용\n가. 위원회 기능 추가(안 제3조)\n- ‘규제 정부 입증책임제도’와 관련한 사항을 위원회의 심의 사항에 포함\n나. 규제 정부 입증책임제도 관련 근거 마련(안 제11조의2)\n- 규제 정부 입증책임제도 등의 개념, 제도 추진과 관련한 위원회 개최 절차, 위원회의 권고 기능 등을 규정",
   "body": {
     "format": "articles",
-    "article_count": 14,
+    "article_count": 15,
     "articles": [
       {
         "article_no": "제1조",
@@ -48,7 +48,68 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 규정은 『행정규제기본법 』제7조 및 제19조의 규정에 의한 법무부 자체 규제심사위원회의 구성 및 운영 등에 관하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "『행정규제기본법 』",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35518",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0001",
+            "reference_id": "law:행정규제기본법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조 및 제19조",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35518",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0001",
+            "reference_id": "law:행정규제기본법#JO0007",
+            "target_repo": "LAW",
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조 및 제19조",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35518",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0001",
+            "reference_id": "law:행정규제기본법#JO0019",
+            "target_repo": "LAW",
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0001"
       },
@@ -68,9 +129,30 @@
         "article_title": "기능",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(기능) 위원회는 다음 각 호의 사항을 심의한다.1. 법령 등의 제·개정시 입안부서가 실시한 규제영향·비용분석의 타당성 및 규제가 신설 또는 강화되는 경우 그 범위·대상·존속기한 등의 타당성에 관한 사항2. 기존 규제의 발굴과 자체정비에 관한 사항3. 규제개혁태스크포스 논의 안건 중 위원회에서의 심의가 필요한 사항4. 그 밖에 공동위원장이 필요하다고 인정하여 부의하는 사항",
+        "content": "제3조(기능) 위원회는 다음 각 호의 사항을 심의한다.1. 법령 등의 제·개정시 입안부서가 실시한 규제영향·비용분석의 타당성 및 규제가 신설 또는 강화되는 경우 그 범위·대상·존속기한 등의 타당성에 관한 사항2. 기존 규제의 발굴과 자체정비에 관한 사항3. 제11조의2 규제 정부 입증책임제도와 관련한 사항4. 규제개혁태스크포스 논의 안건 중 위원회에서의 심의가 필요한 사항5. 그 밖에 공동위원장이 필요하다고 인정하여 부의하는 사항",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제11조의2",
+            "line_text": "",
+            "target_law_name": "법무부 자체 규제심사위원회 운영규정",
+            "target_article_no": "제11조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35518",
+            "target_url": "https://www.law.go.kr/행정규칙/법무부 자체 규제심사위원회 운영규정/제11조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0003",
+            "reference_id": "admrul:법무부자체규제심사위원회운영규정#JO0011_02",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "법무부 자체 규제심사위원회 운영규정/법무부 자체 규제심사위원회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0003"
       },
@@ -79,9 +161,30 @@
         "article_title": "구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(구성) ① 위원회는 공동위원장 2인을 포함하여 8인 이상 15인 이내의 위원으로 구성하고 , 그 중 민간위원은 과반수 이상으로 하며, 민간위원 중 특정 성별이 10분의 6을 초과하지 아니하도록 하여야 한다.②민간위원은 장관이 위촉하고, 정부위원은 규제심사 대상 법령의 소관 실·국·본부장이 된다. 다만, 기획조정실이 입안하는 경우 소관 과장(담당관)이 내부위원이 된다.③공동위원장 1인은 차관이 되고, 다른 공동위원장 1인은 민간위원 중에서 법무부장관이 위촉한다.④위원회의 간사는 혁신행정담당관실내 규제업무를 담당하는 사무관이상 공무원이 되며, 위원장의 명을 받아 사무를 처리한다.⑤법무부장관은 위원이 다음 각 호의 어느 하나에 해당하는 때에는 임기 중에도 해촉할 수 있다.1. 제3조에 규정된 직무를 기피 또는 이유 없이 정해진 기간 내에 시행하지 않았을 때2. 직무상 취득한 사실을 유포하여 법무부의 업무에 심각한 피해를 입혔을 때3. 위원으로서 품위를 손상하는 행위로 사회적 물의를 야기한 때4. 심신장애로 인하여 정상적으로 직무를 수행하는 것이 어렵다고 인정될 때5. 스스로 직무수행이 곤란하다는 의사를 밝힐 때",
+        "content": "제4조(구성) ① 위원회는 공동위원장 2인을 포함하여 8인 이상 15인 이내의 위원으로 구성하고, 그 중 민간위원은 과반수 이상으로 하며, 민간위원 중 특정 성별이 10분의 6을 초과하지 아니하도록 하여야 한다.②민간위원은 장관이 위촉하고, 정부위원은 규제심사 대상 법령의 소관 실·국·본부장이 된다. 다만, 기획조정실이 입안하는 경우 소관 과장(담당관)이 내부위원이 된다.③공동위원장 1인은 차관이 되고, 다른 공동위원장 1인은 민간위원 중에서 법무부장관이 위촉한다.④위원회의 간사는 혁신행정담당관실내 규제업무를 담당하는 사무관이상 공무원이 되며, 위원장의 명을 받아 사무를 처리한다.⑤법무부장관은 위원이 다음 각 호의 어느 하나에 해당하는 때에는 임기 중에도 해촉할 수 있다.1. 제3조에 규정된 직무를 기피 또는 이유 없이 정해진 기간 내에 시행하지 않았을 때2. 직무상 취득한 사실을 유포하여 법무부의 업무에 심각한 피해를 입혔을 때3. 위원으로서 품위를 손상하는 행위로 사회적 물의를 야기한 때4. 심신장애로 인하여 정상적으로 직무를 수행하는 것이 어렵다고 인정될 때5. 스스로 직무수행이 곤란하다는 의사를 밝힐 때",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제5항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "법무부 자체 규제심사위원회 운영규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35518",
+            "target_url": "https://www.law.go.kr/행정규칙/법무부 자체 규제심사위원회 운영규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0004",
+            "reference_id": "admrul:법무부자체규제심사위원회운영규정#JO0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "법무부 자체 규제심사위원회 운영규정/법무부 자체 규제심사위원회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0004"
       },
@@ -163,11 +266,43 @@
         "provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0011"
       },
       {
+        "article_no": "제11조의2",
+        "article_title": "규제 정부 입증책임제도",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제11조의2(규제 정부 입증책임제도) ①법무부는 소관 규제의 폐지·완화가 불가한 사유를 입증하지 못할 경우, 그 규제를 폐지 또는 완화해야 한다.②법무부 소관 규제에 대한 개선 건의를 한 자 중 ‘수용곤란’ 또는 ‘중장기검토’ 의견을 받은 자는 규제의 폐지·완화가 불가한 사유를 입증할 것을 위원회에 요청할 수 있다. 다만, 「행정규제기본법」의 적용 제외 대상인 비규제, 단순 민원 등에 대해서는 그러하지 아니하다.③제2항의 요청을 할 자는 혁신행정담당관실이 운영하는 규제 입증 요청창구 등을 이용해야 하고, 위원회는 제2항의 요청을 받은 후 60일 이내에 개최해야 한다.④위원회는 심의 결과 관계 부서의 장에게 다음 각 호의 어느 하나의 조치를 하도록 권고 할 수 있다.1. 대안제시2. 규제의 완화3. 규제의 폐지⑤제4항에 따라 위원회로부터 권고를 받은 관계 부서의 장은 권고를 존중하여야 하며, 그 결과를 위원회에 통지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조의2",
+            "source_clause": "제11조의2제2항",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35518",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0011_02",
+            "reference_id": "law:행정규제기본법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:법무부자체규제심사위원회운영규정#JO0011_02"
+      },
+      {
         "article_no": "제12조",
         "article_title": "위원의 기피·회피",
         "chapter": "",
         "chapter_path": "",
-        "content": "제12조(위원의 기피·회피) ① 당해 사안의 관계공무원 또는 이해당사자는 위원에게 공정을 기대하기 어려운 특별한 사정이 있는 경우에는 정부 공동위원장에게 기피신청을 할 수 있으며, 정부 공동위원장은 기피여부를 결정한다.② 위원이 제1항의 사유에 해당하거나 공정한 심의를 하기 어려운 사정이 있는 때에는 당해 사안에 대하여 심의·의결을 회피할 수 있다.",
+        "content": "제12조(위원의 기피·회피) ①당해 사안의 관계공무원 또는 이해당사자는 위원에게 공정을 기대하기 어려운 특별한 사정이 있는 경우에는 정부 공동위원장에게 기피신청을 할 수 있으며, 정부 공동위원장은 기피여부를 결정한다.② 위원이 제1항의 사유에 해당하거나 공정한 심의를 하기 어려운 사정이 있는 때에는 당해 사안에 대하여 심의·의결을 회피할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -202,58 +337,127 @@
       "promulgation_date": "20051014",
       "promulgation_no": "532",
       "content": "부칙 <제532호,2005. 10. 14.>이 훈령은 2005. 11. 1.부로 시행한다.",
-      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
     },
     {
       "promulgation_date": "20070928",
       "promulgation_no": "597",
       "content": "부칙 <제597호,2007. 9. 28.>이 훈령은 2007. 10. 15.부로 시행한다.",
-      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
     },
     {
       "promulgation_date": "20080506",
       "promulgation_no": "616",
       "content": "부칙 <제616호,2008. 5. 6.>이 훈령은 2008. 5. 6.부로 시행한다.",
-      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
     },
     {
       "promulgation_date": "20091105",
       "promulgation_no": "740",
       "content": "부칙 <제740호,2009. 11. 5.>이 훈령은 2009. 11. 5.부로 시행한다.",
-      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
     },
     {
       "promulgation_date": "20111031",
       "promulgation_no": "839",
       "content": "부칙 <제839호,2011. 10. 31.>이 훈령은 2011. 10. 31.부로 시행한다.",
-      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
     },
     {
       "promulgation_date": "20151230",
       "promulgation_no": "1036",
       "content": "부칙 <제1036호,2015. 12. 30.>제1조(시행일) 이 훈령은 개정한 날부터 시행한다.제2조(위원의 구성 및 임기에 관한 경과조치) 이 훈령 시행 이전에 구성된 위원은 이 훈령에 의해 구성된 것으로 본다.",
-      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
     },
     {
       "promulgation_date": "20190306",
       "promulgation_no": "1210",
       "content": "부칙 <제1210호,2019. 3. 6.>이 규정은 공포한 날로부터 시행한다.",
-      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
+    },
+    {
+      "promulgation_date": "20200518",
+      "promulgation_no": "1296",
+      "content": "부칙 <제1296호,2020. 5. 18.>이 규정은 공포한 날로부터 시행한다.",
+      "provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000189405",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20200518"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "훈령 제1296호-법무부 자체 규제심사위원회 운영규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163874063",
+      "filename": "훈령 제1296호-법무부 자체 규제심사위원회 운영규정.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/훈령 제1296호-법무부 자체 규제심사위원회 운영규정.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "훈령 제1296호-법무부 자체 규제심사위원회 운영규정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163874067",
+      "filename": "훈령 제1296호-법무부 자체 규제심사위원회 운영규정.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/훈령 제1296호-법무부 자체 규제심사위원회 운영규정.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 14,
-    "articles_with_relations": 0,
+    "relations_total": 6,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 2
+    },
+    "articles_total": 15,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 0,
     "attachments_count": 2
   },
@@ -264,5 +468,8 @@
   "addendum_provision_id": "admrul:법무부자체규제심사위원회운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:법무부자체규제심사위원회운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "법무부 자체 규제심사위원회 운영규정/법무부 자체 규제심사위원회 운영규정.json"
 }
