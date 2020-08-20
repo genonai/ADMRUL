@@ -3,18 +3,18 @@
 문서종: 행정규칙
 provision_id: "admrul:보건신기술(NET)인증기술고시#DOC"
 law_id: 34387
-mst: 2100000184627
-시행일자: 20191217
-공포일자: 20191217
+mst: 2100000192284
+시행일자: 20200820
+공포일자: 20200820
 source: "https://www.law.go.kr/행정규칙/보건신기술(NET) 인증기술 고시"
 adm_uid: "admrul:34387"
 ---
 
 # 보건신기술(NET) 인증기술 고시
-> 고시 · 행정규칙 · 시행 2019-12-17 · 공포 2019-12-17 · 일부개정
+> 고시 · 행정규칙 · 시행 2020-08-20 · 공포 2020-08-20 · 일부개정
 
 ### 전문
-![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=53448437)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=53448441)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=53448445)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=53448449)
+![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=75571753)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=75571757)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=75571761)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=75571765)
 
 ## 부칙
 ### 부칙 (공포 2014-06-30 제2014-103호)
@@ -49,3 +49,6 @@ adm_uid: "admrul:34387"
 
 ### 부칙 (공포 2019-12-17 제2019-274호)
 부칙 <제2019-274호,2019. 12. 17.>이 고시는 발령한 날부터 시행한다.
+
+### 부칙 (공포 2020-08-20 제2020-179호)
+부칙 <제2020-179호,2020. 8. 20.>이 고시는 발령한 날부터 시행한다.
