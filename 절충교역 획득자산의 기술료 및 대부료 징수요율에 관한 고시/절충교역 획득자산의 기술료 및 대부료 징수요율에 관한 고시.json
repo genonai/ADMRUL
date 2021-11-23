@@ -1,25 +1,25 @@
 {
   "law_id": "39876",
-  "mst": "2100000038622",
+  "mst": "2100000206398",
   "law_name": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:39876",
-  "promulgation_no": "2016-2",
-  "promulgation_date": "20160125",
-  "enforcement_date": "20160125",
-  "revision_date": "20160125",
+  "promulgation_no": "2021-11",
+  "promulgation_date": "20211123",
+  "enforcement_date": "20211123",
+  "revision_date": "20211123",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "방위사업청(방위산업협력과)",
-    "담당자명": "김현동",
+    "담당자명": "김유정",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시",
-    "발령일자": "20160125",
+    "발령일자": "20211123",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,10 +29,10 @@
     "소관부처코드": "1690000",
     "생성일자": "20211126",
     "행정규칙ID": "39876",
-    "시행일자": "20160125",
-    "담당부서기관코드": "1690251",
-    "발령번호": "2016-2",
-    "행정규칙일련번호": "2100000038622",
+    "시행일자": "20211123",
+    "담당부서기관코드": "1690420",
+    "발령번호": "2021-11",
+    "행정규칙일련번호": "2100000206398",
     "상위부처명": "방위사업청"
   },
   "amendment_text": "",
@@ -57,7 +57,7 @@
         "article_title": "징수요율",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(징수요율) ①절충교역 자산에 대해 이전·대부 계약을 체결하는 경우에 지불하는 기술료 및 대부료 등의 징수요율은 다음과 같이 산정한다. 이때 소수점이하는 버림한다.1. 선급 기술료 : 기술자산(노하우)의 절충교역 가치에 대한 100분의 12. 고정 기술료 : 기술자료의 절충교역 가치에 대한 100분의 53. 대부료 : 물품자산의 실제금액에 대한 연간 100분의 6②1항의 절충교역 가치와 실제금액은 절충교역 합의각서에 명시된 가치와 금액으로 한다.",
+        "content": "제2조(징수요율) ① 절충교역 자산에 대해 이전ㆍ대부 계약을 체결하는 경우에 지불하는 기술료 및 대부료 등의 징수요율은 다음과 같이 산정한다. 이때 소수점이하는 버림한다.1. 선급 기술료 : 기술자산(노하우)의 절충교역 가치에 대한 100분의 12. 고정 기술료 : 기술자료의 절충교역 가치에 대한 100분의 53. 대부료 : 물품자산의 실제금액에 대한 연간 100분의 6② 1항의 절충교역 가치와 실제금액은 절충교역 합의각서에 명시된 가치와 금액으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -68,9 +68,30 @@
         "article_title": "재검토기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(재검토기한) 방위사업청장은 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제334호)에 따라 이 고시에 대하여 2016년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제3조(재검토기한) 이 고시는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2021년 12월 1일 기준으로 매 3년이 되는 시점(매 3년째의 11월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "39876",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#JO0003"
       }
@@ -81,34 +102,81 @@
       "promulgation_date": "20120307",
       "promulgation_no": "2012-4",
       "content": "부칙 <제2012-4호,2012. 3. 7.>이 고시는 2012년 4월 1일부터 시행한다.",
-      "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM"
+      "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000206398",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20211123"
     },
     {
       "promulgation_date": "20121026",
       "promulgation_no": "2012-12",
       "content": "부칙 <제2012-12호,2012. 10. 26.>이 고시는 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM"
+      "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000206398",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20211123"
     },
     {
       "promulgation_date": "20160125",
       "promulgation_no": "2016-2",
       "content": "부칙 <제2016-2호,2016. 1. 25.>이 고시는 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM"
+      "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000206398",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20211123"
+    },
+    {
+      "promulgation_date": "20211123",
+      "promulgation_no": "2021-11",
+      "content": "부칙 <제2021-11호, 2021. 11. 23.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000206398",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20211123"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=110197829",
+      "filename": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시_전문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시_전문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시_신구조문대비표.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=110197831",
+      "filename": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시_신구조문대비표.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시_신구조문대비표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
     "articles_total": 3,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
     "attachments_count": 2
   },
@@ -119,5 +187,8 @@
   "addendum_provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#ADDENDUM",
   "amendment_provision_id": "admrul:절충교역획득자산의기술료및대부료징수요율에관한고시#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시/절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시.json"
 }
