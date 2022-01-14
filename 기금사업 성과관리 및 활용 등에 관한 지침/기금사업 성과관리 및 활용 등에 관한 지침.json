@@ -1,42 +1,42 @@
 {
   "law_id": "76782",
-  "mst": "2100000199641",
+  "mst": "2100000208406",
   "law_name": "기금사업 성과관리 및 활용 등에 관한 지침",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:76782",
-  "promulgation_no": "2021-160",
-  "promulgation_date": "20210331",
-  "enforcement_date": "20210331",
-  "revision_date": "20210331",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "190",
+  "promulgation_date": "20220114",
+  "enforcement_date": "20220114",
+  "revision_date": "20220114",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "과학기술정보통신부(정보통신산업정책과)",
     "담당자명": "문구선",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "기금사업 성과관리 및 활용 등에 관한 지침",
-    "발령일자": "20210331",
+    "발령일자": "20220114",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "과학기술정보통신부",
     "전화번호": "044-202-6229",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1721000",
     "생성일자": "20220117",
     "행정규칙ID": "76782",
-    "시행일자": "20210331",
+    "시행일자": "20220114",
     "담당부서기관코드": "1722136",
-    "발령번호": "2021-160",
-    "행정규칙일련번호": "2100000199641",
+    "발령번호": "190",
+    "행정규칙일련번호": "2100000208406",
     "상위부처명": "과학기술정보통신부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제정 이유\n「방송통신발전기금 운용ㆍ관리규정」(과학기술정보통신부 공고 제2021-59호) 및 「정보통신진흥기금 운용ㆍ관리규정」(과학기술정보통신부 공고 제2021-60호)이 개정됨에 따라 기금사업 성과관리 및 활용 등을 위하여 필요한 사항을 정하고자 함.\n◇ 주요내용\n가. 기금사업 표기 및 성과활용(안 제2조 및 [별표])\n사업 결과물에 대한 표기방법과 성과활용보고서 제출, 수행 결과물에 대한 활용을 규정함\n나. 콘텐츠 및 자산의 관리(안 제3조 내지 제4조)\n기금으로 지원받아 제작한 프로그램 및 자산의 활용 및 관리에 관한 사항을 규정함\n다. 사업보안 및 윤리(안 제5조)\n기금사업 수행자, 정보ㆍ시설, 기금사업 수행 내용 및 결과 등에 관한 보안 및 윤리 사항을 규정함\n라. 비밀준수 및 청렴의무(안 제6조)\n기금사업에 참여하는 인력 및 업무 관계자가 지켜야할 비밀준수 및 청렴의무 사항을 규정함\n마. 사업 수행 결과물의 귀속(안 제7조)\n기금사업의 수행과정에서 발생하는 결과물의 귀속 및 결과물의 처분에 관한 사항을 규정함",
+  "revision_reason": "◇ 제ㆍ개정 이유\n개인정보를 활용하는 사업에 대해 개인정보 보호 방안을 강화하기 위해 필요한 사항을 정하고자 함\n◇ 주요내용\n가. 개인정보 보호방안 강화(안 제5조)\nICT기금사업 수행시 개인정보를 활용하는 사업의 경우 관리기관 및 전담기관이 이에 대한 관리ㆍ점검 등 보안조치 방안을 계획 및 수립하여 개인정보 보호 방안을 강화하고자 함",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -48,7 +48,48 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 지침은 「방송통신발전기금 운용ㆍ관리규정」제44조제7호 및 「정보통신진흥기금 운용ㆍ관리규정」제42조제7호에 따라 기금사업 성과관리 및 활용 등에 관한 세부사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「정보통신진흥기금 운용ㆍ관리규정」",
+            "line_text": "",
+            "target_law_name": "정보통신진흥기금 운용ㆍ관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "76782",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신진흥기금 운용ㆍ관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업성과관리및활용등에관한지침#JO0001",
+            "reference_id": "admrul:정보통신진흥기금운용관리규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "정보통신진흥기금 운용ㆍ관리규정/정보통신진흥기금 운용ㆍ관리규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제42조제7호",
+            "line_text": "",
+            "target_law_name": "정보통신진흥기금 운용ㆍ관리규정",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "76782",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신진흥기금 운용ㆍ관리규정/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업성과관리및활용등에관한지침#JO0001",
+            "reference_id": "admrul:정보통신진흥기금운용관리규정#JO0042",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "정보통신진흥기금 운용ㆍ관리규정/정보통신진흥기금 운용ㆍ관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기금사업성과관리및활용등에관한지침#JO0001"
       },
@@ -90,7 +131,7 @@
         "article_title": "사업 보안 및 윤리",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(사업 보안 및 윤리) ① 관리기관등의 장은 사업을 수행하는 과정에서 주요 정보 및 결과물 등이 무단으로 유출되지 아니하도록 다음 각 호의 사항이 포함된 보안대책을 수립ㆍ시행하여야 한다.1. 기금사업 수행자에 대한 보안조치2. 기금사업 수행 관련 정보ㆍ시설 등에 대한 보안조치3. 기금사업 수행 내용 및 결과의 대외 발표 시 보안조치4. 기금사업 수행에 사용되는 정보통신망 및 정보시스템에 대한 보안조치② 장관은 사업의 보안실태에 대하여 점검하고 개선조치를 명할 수 있으며, 국가안보ㆍ공익 또는 첨단기술과 관련된 중요 사업에 대하여는 국가정보원 등 관계기관과 합동으로 관리기관등의 보안실태에 대하여 점검할 수 있다.③ 관리기관등의 장은 사업을 수행함에 있어 그 절차 및 방법 등이 사업윤리에 위배되지 않도록 노력하여야 한다.",
+        "content": "제5조(사업 보안 및 윤리) ① 관리기관 및 전담기관의 장은 사업을 수행하는 과정에서 주요 정보 및 결과물 등이 무단으로 유출되지 아니하도록 다음 각 호의 사항이 포함된 보안대책을 수립ㆍ시행하여야 한다.1. 기금사업 수행자에 대한 보안조치2. 기금사업 수행 관련 정보ㆍ시설 등에 대한 보안조치3. 기금사업 수행 내용 및 결과의 대외 발표 시 보안조치4. 기금사업 수행에 사용되는 정보통신망 및 정보시스템에 대한 보안조치5. 기금사업 관련 개인정보를 활용하는 사업에 대한 관리ㆍ점검 등 보안조치② 장관은 사업의 보안실태에 대하여 점검하고 개선조치를 명할 수 있으며, 국가안보ㆍ공익 또는 첨단기술과 관련된 중요 사업에 대하여는 국가정보원 등 관계기관과 합동으로 관리기관등의 보안실태에 대하여 점검할 수 있다.③ 관리기관등의 장은 사업을 수행함에 있어 그 절차 및 방법 등이 사업윤리에 위배되지 않도록 노력하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -125,24 +166,95 @@
       "promulgation_date": "20210331",
       "promulgation_no": "2021-160",
       "content": "부칙 <제2021-160호, 2021. 3. 31.>제1조(시행일) 이 지침은 발령된 날부터 시행한다.제2조(재검토기한) 장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대하여 발령일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.제3조(체결협약에 대한 적용례) 이 지침은 기금사업과 관련하여 2021년 1월 1일 이후 체결된 협약부터 적용한다.",
-      "provision_id": "admrul:기금사업성과관리및활용등에관한지침#ADDENDUM"
+      "provision_id": "admrul:기금사업성과관리및활용등에관한지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000208406",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20220114"
+    },
+    {
+      "promulgation_date": "20220114",
+      "promulgation_no": "190",
+      "content": "부칙 <제190호, 2022. 1. 14.>제1조(시행일) 이 지침은 발령된 날부터 시행한다.제2조(재검토기한) 장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대하여 발령일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+      "provision_id": "admrul:기금사업성과관리및활용등에관한지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000208406",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20220114"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기금사업 표기방안",
+      "enforcement_date": "",
+      "content": "[별표]\n기금사업 표기방안\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구  분                │세부 표기방안                                                       ┃\n┣━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃공연, 보고서,         │o “후원 : 과학기술정보통신부 OOOOOO기금”                          ┃\n┃간행물, 홍보물 등     │                                                                    ┃\n┃                      │o “이 ○○○(공연 등)은 ?과학기술정보통신부 OOOOOO기금?을 지원받 ┃\n┃                      │아 제작한 것입니다”                                                ┃\n┃                      │                                                                    ┃\n┃                      │o “이 ○○○(연구보고서, 간행물 등)은 ?과학기술정보통신부 OOOOOO  ┃\n┃                      │기금?을 지원받아 제작한 것으로 과학기술정보통신부의 공식의견과 다  ┃\n┃                      │를 수 있습니다”                                                    ┃\n┠───┬───────┼──────────────────────────────────┨\n┃TV 및 │고지시간      │o TV : 프로그램 종료 시                                             ┃\n┃라디오│              │                                                                    ┃\n┃      │              │o 라디오 : 방송 시작 전 + 종료 시                                   ┃\n┃      ├───────┼──────────────────────────────────┨\n┃      │지원표시      │o 프로그램 종료 시 (자막 고지)                                      ┃\n┃      │문구(안)      │  “제작지원 : 과학기술정보통신부  OOOOOO기금”                     ┃\n┃      │(TV)          │                                                                    ┃\n┃      │              │  ※ 협찬고지 등과 병기 금지                                        ┃\n┃      ├───────┼──────────────────────────────────┨\n┃      │자막고지 방법 │o 위치 : 화면 하단(중앙)                                            ┃\n┃      │(TV)          │                                                                    ┃\n┃      │              │o 크기 : 전체화면의 1/4                                             ┃\n┃      │              │                                                                    ┃\n┃      │              │o 노출시간 : 2초 이상                                               ┃\n┗━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n※ 세부 표기방안에서 지원사업 해당 기금(방송통신발전기금 또는 정보통신진흥기금)으로 표기\n※ 인터넷방송, 홈페이지 및 기타 홍보물에 대한 표기\n- “???(방송사명)의 프로그램은 과학기술정보통신부의 OOOOOO기금을 지원받아 운용되고 있습니다.”(인터넷방송)\n- “???(방송사명)의 프로그램은 과학기술정보통신부의 OOOOOO기금을 지원받아 제작되었습니다.”(홍보물 등)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112180875",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112180875",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기금사업성과관리및활용등에관한지침#BYL0000",
+      "filename": "별표0_기금사업 표기방안.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_기금사업 표기방안.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(과학기술정보통신부훈령 제190호) 기금사업성과관리및활용등에관한지침 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=112163655",
+      "filename": "(과학기술정보통신부훈령 제190호) 기금사업성과관리및활용등에관한지침 전문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(과학기술정보통신부훈령 제190호) 기금사업성과관리및활용등에관한지침 전문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "개정이유서_기금사업성과관리및활용등에관한지침.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=112163657",
+      "filename": "개정이유서_기금사업성과관리및활용등에관한지침.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정이유서_기금사업성과관리및활용등에관한지침.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "(과학기술정보통신부훈령 제190호) 기금사업성과관리및활용등에관한지침 개정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=112163659",
+      "filename": "(과학기술정보통신부훈령 제190호) 기금사업성과관리및활용등에관한지침 개정.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(과학기술정보통신부훈령 제190호) 기금사업성과관리및활용등에관한지침 개정.hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 7,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
-    "attachments_count": 2
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/기금사업 성과관리 및 활용 등에 관한 지침"
@@ -151,5 +263,8 @@
   "addendum_provision_id": "admrul:기금사업성과관리및활용등에관한지침#ADDENDUM",
   "amendment_provision_id": "admrul:기금사업성과관리및활용등에관한지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "기금사업 성과관리 및 활용 등에 관한 지침/기금사업 성과관리 및 활용 등에 관한 지침.json"
 }
