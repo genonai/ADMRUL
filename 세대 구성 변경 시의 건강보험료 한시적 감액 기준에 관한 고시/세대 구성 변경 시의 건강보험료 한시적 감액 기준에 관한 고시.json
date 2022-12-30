@@ -1,42 +1,42 @@
 {
   "law_id": "83070",
-  "mst": "2100000214514",
+  "mst": "2100000224540",
   "law_name": "세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:83070",
-  "promulgation_no": "2022-216",
-  "promulgation_date": "20220915",
-  "enforcement_date": "20220915",
-  "revision_date": "20220915",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "2023-315",
+  "promulgation_date": "20221230",
+  "enforcement_date": "20221230",
+  "revision_date": "20221230",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "보건복지부(보험정책과)",
-    "담당자명": "박선영",
+    "담당자명": "이재혁",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시",
-    "발령일자": "20220915",
+    "발령일자": "20221230",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "보건복지부",
     "전화번호": "044-202-2706, 2718",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1352000",
     "생성일자": "20230614",
     "행정규칙ID": "83070",
-    "시행일자": "20220915",
+    "시행일자": "20221230",
     "담당부서기관코드": "1352551",
-    "발령번호": "2022-216",
-    "행정규칙일련번호": "2100000214514",
+    "발령번호": "2023-315",
+    "행정규칙일련번호": "2100000224540",
     "상위부처명": "보건복지부"
   },
   "amendment_text": "",
-  "revision_reason": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 일몰기한이 재검토기한으로 되어 있어 유효기간으로 변경\n\n◇ 주요내용\n가. 일몰기한을 재검토기한 형식에서 유효기간 형식으로 변경 (안 제3조)",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -48,7 +48,48 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 고시는 대통령령 제32894호 「국민건강보험법 시행령」 일부개정령 부칙 제7조 및 보건복지부령 제907호 「국민건강보험법 시행규칙」 일부개정령 부칙 제4조에 따라 건강보험료 한시적 감액을 받는 지역가입자의 세대 구성이 변경되는 경우의 감액 기준을 정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국민건강보험법 시행령」",
+            "line_text": "",
+            "target_law_name": "국민건강보험법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "83070",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#JO0001",
+            "reference_id": "law:국민건강보험법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국민건강보험법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "국민건강보험법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "83070",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#JO0001",
+            "reference_id": "law:국민건강보험법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#JO0001"
       },
@@ -65,12 +106,33 @@
       },
       {
         "article_no": "제3조",
-        "article_title": "재검토기한",
+        "article_title": "유효기간",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시 발령 후의 법령이나 현실여건의 변화 등을 검토하여 이 고시의 폐지, 개정 등의 조치를 해야 하는 기한은 2026년 8월 31일로 한다.",
+        "content": "제3조(유효기간) 이 고시는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시를 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2026년 8월 31일까지 효력을 가진다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "83070",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#JO0003"
       }
@@ -81,24 +143,78 @@
       "promulgation_date": "20220915",
       "promulgation_no": "2022-216",
       "content": "부칙 <제2022-216호, 2022. 9. 15.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(적용례) 이 고시에 따른 보험료 감액은 2022년 9월분 보험료부터 적용한다.",
-      "provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#ADDENDUM"
+      "provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000224540",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20221230"
+    },
+    {
+      "promulgation_date": "20221230",
+      "promulgation_no": "2022-315",
+      "content": "부칙 <제2022-315호, 2022. 12. 30.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000224540",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20221230"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시(보건복지부고시)(제2022-315호)(20221230).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=129211575",
+      "filename": "세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시(보건복지부고시)(제2022-315호)(20221230).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시(보건복지부고시)(제2022-315호)(20221230).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시(보건복지부고시)(제2022-315호)(20221230).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=129211579",
+      "filename": "세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시(보건복지부고시)(제2022-315호)(20221230).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시(보건복지부고시)(제2022-315호)(20221230).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=129209439",
+      "filename": "조문별제개정이유서_세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=129209443",
+      "filename": "조문별제개정이유서_세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
     "articles_total": 3,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시"
@@ -107,5 +223,8 @@
   "addendum_provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#ADDENDUM",
   "amendment_provision_id": "admrul:세대구성변경시의건강보험료한시적감액기준에관한고시#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시/세대 구성 변경 시의 건강보험료 한시적 감액 기준에 관한 고시.json"
 }
