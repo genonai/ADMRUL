@@ -1,25 +1,25 @@
 {
   "law_id": "82117",
-  "mst": "2100000211964",
+  "mst": "2100000254280",
   "law_name": "도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00)",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:82117",
-  "promulgation_no": "2019-389",
-  "promulgation_date": "20190729",
-  "enforcement_date": "20190804",
-  "revision_date": "20190729",
+  "promulgation_no": "2023-907",
+  "promulgation_date": "20230106",
+  "enforcement_date": "20230112",
+  "revision_date": "20230106",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국토교통부(도로건설과)",
-    "담당자명": "김은경",
+    "담당자명": "송진우",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00)",
-    "발령일자": "20190729",
+    "발령일자": "20230106",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1613000",
     "생성일자": "20250210",
     "행정규칙ID": "82117",
-    "시행일자": "20190804",
+    "시행일자": "20230112",
     "담당부서기관코드": "1613645",
-    "발령번호": "2019-389",
-    "행정규칙일련번호": "2100000211964",
+    "발령번호": "2023-907",
+    "행정규칙일련번호": "2100000254280",
     "상위부처명": "국토교통부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 터널내 환경특성을 고려한 동상방지층의 설치, 콘크리트 포장 설계 및 시공기준 마련\n◇ 주요내용\nㅇ (도로설계기준) 터널 내부의 필터층 및 동상방지층 설치 기준 개선 (KDS 44 50 00)\nㅇ (도로공사 표준시방서) 터널 내부 가로수축줄눈의 설치 간격, 절삭 깊이 개선(KCS 44 50 15)",
+  "revision_reason": "",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -65,7 +65,40 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "개정 사유서(도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148995319",
+      "filename": "개정 사유서(도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정 사유서(도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "개정 사유서(도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148995323",
+      "filename": "개정 사유서(도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정 사유서(도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "도로설계기준(KDS 44 00 00).zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148995993",
+      "filename": "도로설계기준(KDS 44 00 00).zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/도로설계기준(KDS 44 00 00).zip",
+      "file_store_url": ""
+    },
+    {
+      "name": "도로공사 표준시방서(KCS 44 00 00).zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148995997",
+      "filename": "도로공사 표준시방서(KCS 44 00 00).zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/도로공사 표준시방서(KCS 44 00 00).zip",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -78,7 +111,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 0,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00)"
@@ -87,5 +120,8 @@
   "addendum_provision_id": "admrul:도로설계기준(KDS440000)및도로공사표준시방서(KCS440000)#ADDENDUM",
   "amendment_provision_id": "admrul:도로설계기준(KDS440000)및도로공사표준시방서(KCS440000)#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00)/도로설계기준(KDS 44 00 00) 및 도로공사 표준시방서(KCS 44 00 00).json"
 }
