@@ -1,25 +1,25 @@
 {
   "law_id": "2089176",
-  "mst": "2100000108893",
+  "mst": "2100000221148",
   "law_name": "국립중앙도서관 자료제본규정",
   "law_abbr": "",
   "law_type": "규정",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2089176",
-  "promulgation_no": "551",
-  "promulgation_date": "20180104",
-  "enforcement_date": "20180104",
-  "revision_date": "20180104",
+  "promulgation_no": "649",
+  "promulgation_date": "20230324",
+  "enforcement_date": "20230324",
+  "revision_date": "20230324",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립중앙도서관(장서개발과)",
-    "담당자명": "최명옥",
+    "담당자명": "김태연",
     "행정규칙종류코드": "B0017",
     "행정규칙명": "국립중앙도서관 자료제본규정",
-    "발령일자": "20180104",
+    "발령일자": "20230324",
     "행정규칙종류": "규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1371000",
     "생성일자": "20230328",
     "행정규칙ID": "2089176",
-    "시행일자": "20180104",
-    "담당부서기관코드": "1371456",
-    "발령번호": "551",
-    "행정규칙일련번호": "2100000108893",
+    "시행일자": "20230324",
+    "담당부서기관코드": "1371870",
+    "발령번호": "649",
+    "행정규칙일련번호": "2100000221148",
     "상위부처명": "문화체육관광부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○「국립중앙도서관 연속간행물 수집처리규정」의 도서관자료 등록기준이 변경됨에 따라 관련 규정을 일치시키고자「국립중앙도서관 자료제본규정」을 개정함\n◇ 주요내용\n○「국립중앙도서관 자료제본규정」제5조(제본기준), 제8조(가제본의 규격·색상·재료) 일부 개정",
+  "revision_reason": "◇ 개정이유\nㅇ 제본 표지재료와 색상 변경에 대한 근거 마련\nㅇ 제본사업 관리를 위한 제본의뢰서 현행화\n◇ 주요내용\nㅇ 제본재료 단종에 의한 표지재료 및 색상 변경 근거 마련\n- 기존 다래색의 단종으로 밝은회황색으로 변경, 변경관련 근거조항 추가\nㅇ [별지 제1호 서식] 제본의뢰서 양식변경",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -90,9 +90,30 @@
         "article_title": "제본기준",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(제본기준) 자료의 제본기준은 다음과 같다.  ①수리제본은 오·훼손, 낙장 등으로 인하여 이용과 관리에 지장을 초래할 우려가 있는 자료를 대상으로 한다.②합철제본은 월간 이상 발행되는 간행물을 대상으로 하되, 책등의 두께가 0.5cm이상인 자료는 제본하지 아니한다. 다만, 책등의 두께가 0.5cm 미만인 자료의 경우라도 보존을 위하여 제본대상에서 제외할 수 있다.③합철할 때에는 표지를 제외한 합철의 두께가 6cm이하로 함을 원칙으로 하되 합철의 두께가 1cm미만의 자료는 제본하지 않고 제8조의 2에 의하여 가제본한다.",
+        "content": "제5조(제본기준) 자료의 제본기준은 다음과 같다.①수리제본은 오ㆍ훼손, 낙장 등으로 인하여 이용과 관리에 지장을 초래할 우려가 있는 자료를 대상으로 한다.② 합철제본은 월간 이상 발행되는 간행물을 대상으로 하되, 책등의 두께가 0.5cm이상인 자료는 제본하지 아니한다. 다만, 책등의 두께가 0.5cm 미만인 자료의 경우라도 보존을 위하여 제본대상에서 제외할 수 있다.③ 합철할 때에는 표지를 제외한 합철의 두께가 6cm이하로 함을 원칙으로 하되 합철의 두께가 1cm미만의 자료는 제본하지 않고 제8조의 2에 의하여 가제본한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "국립중앙도서관 자료제본규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2089176",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙도서관 자료제본규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료제본규정#JO0005",
+            "reference_id": "admrul:국립중앙도서관자료제본규정#JO0008",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립중앙도서관 자료제본규정/국립중앙도서관 자료제본규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립중앙도서관자료제본규정#JO0005"
       },
@@ -123,7 +144,7 @@
         "article_title": "표지재료와 색상",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조(표지재료와 색상) ①잡지의 표지재료는 두께 2mm 이상의 마닐라지와 포(布)-클로스로 하며 색상은 동양서는 감(紺)색, 서양서는 적(赤)색으로 한다.②신문의 표지재료는 두께 2mm이상 합판과 지(紙)-클로스 혹은 1mm이상의 중성판지를 사용하고, 색상은 합판의 경우는 검정색과 청색마포, 중성판지인 경우는 다래색과 짙은 녹색으로 한다.",
+        "content": "제8조(표지재료와 색상) 제본의 표지재료와 색상은 다음과 같으며 필요한 경우 변경해서 제작할 수도 있다.①잡지의 표지재료는 두께 2mm 이상의 마닐라지와 포(布)-클로스로 하며 색상은 동양서는 감(紺)색, 서양서는 적(赤)색으로 한다.② 신문의 표지재료는 두께 2mm이상 합판과 지(紙)-클로스 혹은 1mm이상의 중성판지를 사용하고, 색상은 합판의 경우는 검정색과 청색마포, 중성판지인 경우는 밝은 회황색과 짙은 녹색으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -131,10 +152,10 @@
       },
       {
         "article_no": "제8조의2",
-        "article_title": "가제본의 규격·색상·재료",
+        "article_title": "가제본의 규격ㆍ색상ㆍ재료",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조의2(가제본의 규격·색상·재료) 가제본의 규격, 색상, 재료는 다음과 같으며 자료에 따라 변경해서 제작할 수도 있다.  ①규격은 B5, A4, 타블로이드판, 타블로이드배판으로 한다.②재료와 색상은 겉표지의 경우 0.8㎎이상의 투명 합성수지, 밑표지는 1.5g/㎡이상의 마닐라지 또는 합판을 사용하고, 검정색 포클로스로 하며, 철 좌측에 구멍을 뚫어 철끈으로 철한다.③겉표지 하단에 \"국립중앙도서관\"을 인쇄한다.",
+        "content": "제8조의2(가제본의 규격ㆍ색상ㆍ재료) 가제본의 규격, 색상, 재료는 다음과 같으며 자료에 따라 변경해서 제작할 수도 있다.① 규격은 B5, A4, 타블로이드판, 타블로이드배판으로 한다.② 재료와 색상은 겉표지의 경우 0.8㎎이상의 투명 합성수지, 밑표지는 1.5g/㎡이상의 마닐라지 또는 합판을 사용하고, 검정색 포클로스로 하며, 철 좌측에 구멍을 뚫어 철끈으로 철한다.③ 겉표지 하단에 \"국립중앙도서관\"을 인쇄한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -145,7 +166,7 @@
         "article_title": "책등문자 표시위치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조(책등문자 표시위치) 책등문자 표시는 다음 각 호에 의하여 표시하고, 동일한 간행물은 책등문자의 위치가 변경되지 않도록 하고 간격은 고르게 유지되어야 한다.  ①잡지의 책등문자 표시는 도서관마크(이하 \"로고\"라 한다), 표제, 권호차, 연월차 순으로 한다. 다만, 권호차가 없을 때에는 통권호를 표시하며, 4·6배판 및 국판의 머리글자는 책등 최상단에서 1.5cm 간격을 두고 로고를 시작하고 로고길이는 1cm로 하며, 표제는 로고에서 1.5cm 간격을 두고 첫글자를 시작한다. 밑글자는 책등 하단에서 6cm 간격을 두어야 한다.②신문의 책등문자 표시는 로고, 표제, 연차, 월차 순으로 하고 머리글자는 책등 최상단에서 2.5cm 간격을 두고 로고를 시작하고, 로고길이는 1.5cm로 하며, 표제는 로고에서 2cm 간격을 두고 첫글자를 시작한다.",
+        "content": "제9조(책등문자 표시위치) 책등문자 표시는 다음 각 호에 의하여 표시하고, 동일한 간행물은 책등문자의 위치가 변경되지 않도록 하고 간격은 고르게 유지되어야 한다.①잡지의 책등문자 표시는 도서관마크(이하 \"로고\"라 한다), 표제, 권호차, 연월차 순으로 한다. 다만, 권호차가 없을 때에는 통권호를 표시하며, 4ㆍ6배판 및 국판의 머리글자는 책등 최상단에서 1.5cm 간격을 두고 로고를 시작하고 로고길이는 1cm로 하며, 표제는 로고에서 1.5cm 간격을 두고 첫글자를 시작한다. 밑글자는 책등 하단에서 6cm 간격을 두어야 한다.② 신문의 책등문자 표시는 로고, 표제, 연차, 월차 순으로 하고 머리글자는 책등 최상단에서 2.5cm 간격을 두고 로고를 시작하고, 로고길이는 1.5cm로 하며, 표제는 로고에서 2cm 간격을 두고 첫글자를 시작한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -153,10 +174,10 @@
       },
       {
         "article_no": "제10조",
-        "article_title": "책등문자의 종류·크기·배열",
+        "article_title": "책등문자의 종류ㆍ크기ㆍ배열",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조(책등문자의 종류·크기·배열) ①책등문자의 종류와 크기는 다음과 같이 일관성있게 유지되어야 한다.1.잡지：동양서의 표제는 1호 명조로 하고 권호차, 통 권호, 연월차 등은 3호 명조로 하며, 영문활자는 표제, 권호차, 통권호, 연월차 등을 모두 3호와 4호 명조로 한다.2. 신문：표제는 초호명조, 연차는 1호 명조, 월차는 2호 명조로 한다.②글자의 배열은 책등의 두께에 따라 가로 세로행으로 할 수 있다.",
+        "content": "제10조(책등문자의 종류ㆍ크기ㆍ배열) ① 책등문자의 종류와 크기는 다음과 같이 일관성있게 유지되어야 한다.1. 잡지：동양서의 표제는 1호 명조로 하고 권호차, 통 권호, 연월차 등은 3호 명조로 하며, 영문활자는 표제, 권호차, 통권호, 연월차 등을 모두 3호와 4호 명조로 한다.2. 신문：표제는 초호명조, 연차는 1호 명조, 월차는 2호 명조로 한다.② 글자의 배열은 책등의 두께에 따라 가로 세로행으로 할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -167,9 +188,60 @@
         "article_title": "제본절차와 인수인계",
         "chapter": "",
         "chapter_path": "",
-        "content": "제11조(제본절차와 인수인계) ①제본대상 자료는 제본의뢰서(별지 제1호 서식)에 의한 목록을 작성하고, 제본자료목록(별지 제2호 서식)에 의하여 제본업무를 관장하는 부서로 제본의뢰하여야 한다.②제본된 자료는 제본의뢰한 부서에서 제본양식, 책수, 책등문자의 인쇄등 세부사항을 확인하여 제본완료 결정을 하여야 한다.",
+        "content": "제11조(제본절차와 인수인계) ① 제본대상 자료는 제본의뢰서(별지 제1호 서식)에 의한 목록을 작성하고, 제본자료목록(별지 제2호 서식)에 의하여 제본업무를 관장하는 부서로 제본의뢰하여야 한다.② 제본된 자료는 제본의뢰한 부서에서 제본양식, 책수, 책등문자의 인쇄등 세부사항을 확인하여 제본완료 결정을 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙도서관 자료제본규정",
+            "target_article_no": "별지1",
+            "target_article_title": "제본의뢰서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2089176",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126646249",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료제본규정#JO0011",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:국립중앙도서관자료제본규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립중앙도서관 자료제본규정/국립중앙도서관 자료제본규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙도서관 자료제본규정",
+            "target_article_no": "별지2",
+            "target_article_title": "제본자료목록",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2089176",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126646253",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료제본규정#JO0011",
+            "target_unit": "BJ0002",
+            "reference_id": "admrul:국립중앙도서관자료제본규정#BJ0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립중앙도서관 자료제본규정/국립중앙도서관 자료제본규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립중앙도서관자료제본규정#JO0011"
       },
@@ -191,36 +263,135 @@
       "promulgation_date": "20120831",
       "promulgation_no": "445",
       "content": "부칙 <제445호,2012. 8. 31.>이 규정은 공포한 날로부터 시행한다.",
-      "provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM"
+      "provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000221148",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20161227",
       "promulgation_no": "532",
       "content": "부칙 <제532호,2016. 12. 27.>이 규정은 공포한 날로부터 시행한다.",
-      "provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM"
+      "provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000221148",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20180104",
       "promulgation_no": "551",
       "content": "부칙 <제551호,2018. 1. 4.>이 규정은 공포한 날로부터 시행한다.",
-      "provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM"
+      "provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000221148",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
+    },
+    {
+      "promulgation_date": "20230324",
+      "promulgation_no": "649",
+      "content": "부칙 <제649호, 2023. 3. 24.>이 규정은 공포한 날로부터 시행한다.",
+      "provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000221148",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "제본의뢰서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n\n제본의뢰서\n┌────┬─────┬─────┐\n│No.     │          │          │\n├────┼┬───┬┼────┬┤\n│연속자료││함번호││보조등록││\n│구분    ││      ││구분    ││\n├────┼┴───┴┴────┴┤\n│서 명   │                      │\n├────┼───────────┤\n│권 호   │                      │\n├────┼───────────┤\n│년월일  │                      │\n├────┼───────────┤\n│책(부)수│                      │\n├────┼───────────┤\n│비고    │                      │\n└────┴───────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126646249",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126646249",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙도서관자료제본규정#BJ0001",
+      "filename": "별지1_제본의뢰서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_제본의뢰서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "제본자료목록",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n제 본 자 료 목 록\n┏━┯━━━━━━┯━━━┯━━━┯━━━┯━━━┓\n┃NO│서        명│권  호│년  월│책  수│비 고 ┃\n┠─┼──────┼───┼───┼───┼───┨\n┃  │            │      │      │      │      ┃\n┗━┷━━━━━━┷━━━┷━━━┷━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126646253",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126646253",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙도서관자료제본규정#BJ0002",
+      "filename": "별지2_제본자료목록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_제본자료목록.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(개정안09) 국립중앙도서관 자료제본규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=126617289",
+      "filename": "(개정안09) 국립중앙도서관 자료제본규정.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(개정안09) 국립중앙도서관 자료제본규정.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립중앙도서관 자료제본규정 일부개정안(개정사유 및 신구조문대비표).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=126617291",
+      "filename": "국립중앙도서관 자료제본규정 일부개정안(개정사유 및 신구조문대비표).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립중앙도서관 자료제본규정 일부개정안(개정사유 및 신구조문대비표).hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "internal_ref": 1,
+      "appendix_ref": 2
+    },
     "articles_total": 13,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 2,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립중앙도서관 자료제본규정"
@@ -229,5 +400,8 @@
   "addendum_provision_id": "admrul:국립중앙도서관자료제본규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립중앙도서관자료제본규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립중앙도서관 자료제본규정/국립중앙도서관 자료제본규정.json"
 }
