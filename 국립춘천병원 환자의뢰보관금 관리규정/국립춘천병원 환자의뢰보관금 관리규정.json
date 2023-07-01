@@ -1,25 +1,25 @@
 {
   "law_id": "77247",
-  "mst": "2100000213291",
-  "law_name": "국립춘천병원 환자의뢰 보관금 관리규정",
+  "mst": "2100000225620",
+  "law_name": "국립춘천병원 환자의뢰보관금 관리규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:77247",
-  "promulgation_no": "337",
-  "promulgation_date": "20220722",
-  "enforcement_date": "20220722",
-  "revision_date": "20220722",
+  "promulgation_no": "352",
+  "promulgation_date": "20230701",
+  "enforcement_date": "20230701",
+  "revision_date": "20230701",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립춘천병원(기획운영과)",
     "담당자명": "강물결",
     "행정규칙종류코드": "B0002",
-    "행정규칙명": "국립춘천병원 환자의뢰 보관금 관리규정",
-    "발령일자": "20220722",
+    "행정규칙명": "국립춘천병원 환자의뢰보관금 관리규정",
+    "발령일자": "20230701",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1352000",
     "생성일자": "20230703",
     "행정규칙ID": "77247",
-    "시행일자": "20220722",
+    "시행일자": "20230701",
     "담당부서기관코드": "1352765",
-    "발령번호": "337",
-    "행정규칙일련번호": "2100000213291",
+    "발령번호": "352",
+    "행정규칙일련번호": "2100000225620",
     "상위부처명": "보건복지부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n2022. 7. 22. 개정된 「국립춘천병원 기본운영규정」부칙 제2조(다른 예규의 개정)에 의해 개정된 사항을 반영하고자 함.\n◇ 주요내용\n국립춘천병원 직제상 ‘서무과’의 명칭이 ‘기획운영과’로 변경된 사항 반영",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 기존의 팀명은 업무의 내용과 역할을 충분히 표현하지 못하여 조직의 책임과 권한을 드러내고, 역할을 명확히 할 수 있는 팀명 변경의 필요성이 제기되어 이에 대한 예규를 정비하고자 하는 것임.\n\n◇ 주요내용\n가. 국립춘천병원 물품관리규정 등 11개의 예규에 포함된 ‘서무팀’, ‘관리팀’, ‘용도팀’, ‘원무팀’, ‘성과평가팀’을 각 ‘인사총무팀’, ‘시설관리팀’, ‘재정운용팀’, ‘원무심사팀’, ‘기획성과팀’으로 변경",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -68,7 +68,7 @@
         "article_title": "관리부서",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(관리부서) 보관금은 기획운영과(원무팀)에서 관리한다.",
+        "content": "제3조(관리부서) 보관금은 기획운영과(원무심사팀)에서 관리한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -103,7 +103,33 @@
         "chapter_path": "",
         "content": "제6조(영수증 발급) 환자 또는 보호자(제3자 포함)로부터 보관금을 수령한 경우에는 별지 제1호 서식의 영수증을 발행하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "국립춘천병원 환자의뢰보관금 관리규정",
+            "target_article_no": "별지1",
+            "target_article_title": "환자 보관금",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "77247",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130187603",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#JO0006",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:국립춘천병원환자의뢰보관금관리규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립춘천병원 환자의뢰보관금 관리규정/국립춘천병원 환자의뢰보관금 관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#JO0006"
       },
@@ -169,43 +195,141 @@
       "promulgation_date": "20141216",
       "promulgation_no": "237",
       "content": "부칙 <제237호, 2014. 12. 16.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM"
+      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000225620",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230701"
     },
     {
       "promulgation_date": "20180911",
       "promulgation_no": "278",
       "content": "부칙 <제278호, 2018. 9. 11.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM"
+      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000225620",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230701"
     },
     {
       "promulgation_date": "20220722",
       "promulgation_no": "337",
       "content": "부칙 <제337호, 2022. 7. 22.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM"
+      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000225620",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230701"
+    },
+    {
+      "promulgation_date": "20230701",
+      "promulgation_no": "352",
+      "content": "부칙 <제352호, 2023. 7. 1.>이 규정은 2023년 7월 1일부터 시행한다.",
+      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000225620",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230701"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "환자 보관금",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n┌──────────────┐\n│                            │\n│환 자  보 관 금             │\n│┌────┬┬─────┬┐│\n││성명    ││등록번호  │││\n│├────┼┼─────┼┤│\n││주민등록││병    동  │││\n││번    호││          │││\n│├────┼┼─────┼┤│\n││입금액  ││ 환 불 액 │││\n│└────┴┴─────┴┘│\n│                            │\n│                            │\n│                            │\n│                            │\n│                            │\n│                            │\n│국 립 춘 천 병 원 장        │\n│                            │\n└──────────────┘\n<병원 보관용>\n┌──────────────┐\n│                            │\n│환 자  보 관 금             │\n│┌────┬┬─────┬┐│\n││성명    ││등록번호  │││\n│├────┼┼─────┼┤│\n││주민등록││병    동  │││\n││번    호││          │││\n│├────┼┼─────┼┤│\n││입금액  ││ 환 불 액 │││\n│└────┴┴─────┴┘│\n│                            │\n│                            │\n│                            │\n│                            │\n│                            │\n│                            │\n│국 립 춘 천 병 원 장        │\n│                            │\n└──────────────┘\n<환자 보관용>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130187603",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130187599",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130187603",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#BJ0001",
+      "filename": "별지1_환자 보관금.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_환자 보관금.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국립춘천병원 환자의뢰보관금관리규정 일부개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=130187637",
+      "filename": "국립춘천병원 환자의뢰보관금관리규정 일부개정 전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립춘천병원 환자의뢰보관금관리규정 일부개정 전문.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립춘천병원 환자의뢰보관금관리규정 일부개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=130187633",
+      "filename": "국립춘천병원 환자의뢰보관금관리규정 일부개정 전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립춘천병원 환자의뢰보관금관리규정 일부개정 전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별 제·개정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=130187641",
+      "filename": "조문별 제·개정이유서.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 제·개정이유서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별 제·개정이유서.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=130187645",
+      "filename": "조문별 제·개정이유서.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 제·개정이유서.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "appendix_ref": 1
+    },
     "articles_total": 11,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 1,
-    "attachments_count": 2
+    "attachments_count": 4
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/국립춘천병원 환자의뢰 보관금 관리규정"
+    "source_url": "https://www.law.go.kr/행정규칙/국립춘천병원 환자의뢰보관금 관리규정"
   },
   "provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#DOC",
   "addendum_provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립춘천병원환자의뢰보관금관리규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립춘천병원 환자의뢰보관금 관리규정/국립춘천병원 환자의뢰보관금 관리규정.json"
 }
