@@ -1,38 +1,38 @@
 {
   "law_id": "80360",
-  "mst": "2100000207812",
+  "mst": "2100000227128",
   "law_name": "조달청 보수조정심의위원회 설치 및 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:80360",
-  "promulgation_no": "2024",
-  "promulgation_date": "20211229",
-  "enforcement_date": "20211230",
-  "revision_date": "20211229",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "2125",
+  "promulgation_date": "20230721",
+  "enforcement_date": "20230721",
+  "revision_date": "20230721",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "조달청(혁신행정담당관)",
-    "담당자명": "박정모",
+    "담당자명": "김벼리",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "조달청 보수조정심의위원회 설치 및 운영규정",
-    "발령일자": "20211229",
+    "발령일자": "20230721",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "조달청",
     "전화번호": "042-724-7169",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1230000",
     "생성일자": "20230727",
     "행정규칙ID": "80360",
-    "시행일자": "20211230",
+    "시행일자": "20230721",
     "담당부서기관코드": "1230501",
-    "발령번호": "2024",
-    "행정규칙일련번호": "2100000207812",
+    "발령번호": "2125",
+    "행정규칙일련번호": "2100000227128",
     "상위부처명": "조달청"
   },
   "amendment_text": "",
@@ -48,7 +48,48 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 규정은 조달청의 총액인건비제도를 보다 합리적으로 운영하기 위하여 「공무원 보수규정」 제74조 제4항에 따른 보수조정심의위원회의 구성 및 운영에 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공무원 보수규정」",
+            "line_text": "",
+            "target_law_name": "공무원 보수규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "80360",
+            "target_url": "https://www.law.go.kr/법령/공무원 보수규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#JO0001",
+            "reference_id": "law:공무원보수규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제74조",
+            "line_text": "",
+            "target_law_name": "공무원 보수규정",
+            "target_article_no": "제74조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "80360",
+            "target_url": "https://www.law.go.kr/법령/공무원 보수규정/제74조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#JO0001",
+            "reference_id": "law:공무원보수규정#JO0074",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#JO0001"
       },
@@ -79,7 +120,7 @@
         "article_title": "구성 등",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(구성 등) ① 위원회는 위원장 1명을 포함한 10명 이내의 위원으로 구성한다.② 위원장은 차장으로 하며, 위원회 업무를 총괄한다.③ 위원은 기획조정관, 운영지원과장, 기획재정담당관, 전자조달기획과장, 구매총괄과장, 기술서비스총괄과장, 시설총괄과장, 원자재비축과장, 노동조합위원장으로 구성한다.④ 위원회에 간사 1인을 두되, 간사는 혁신행정담당관으로 한다.⑤ 위원장이 위임하는 경우 위원 중에서 선순위 위원이 그 직무를 대행한다.",
+        "content": "제4조(구성 등) ① 위원회는 위원장 1명을 포함한 10명 이내의 위원으로 구성한다.② 위원장은 차장으로 하며, 위원회 업무를 총괄한다.③ 위원은 기획조정관, 운영지원과장, 기획재정담당관, 공정조달총괄과장, 구매총괄과장, 기술서비스총괄과장, 시설총괄과장, 전략비축물자과장, 노동조합위원장으로 구성한다.④ 위원회에 간사 1인을 두되, 간사는 혁신행정담당관으로 한다.⑤ 위원장이 위임하는 경우 위원 중에서 선순위 위원이 그 직무를 대행한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -136,24 +177,101 @@
       "promulgation_date": "20211229",
       "promulgation_no": "2024",
       "content": "부칙 <제2024호, 2021. 12. 29.>제1조(시행일) 이 훈령은 2021년 12월 30일부터 시행한다.",
-      "provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#ADDENDUM"
+      "provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000227128",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230721"
+    },
+    {
+      "promulgation_date": "20230721",
+      "promulgation_no": "2125",
+      "content": "부칙 <제2125호, 2023. 7. 21.>제1조(시행일) 이 훈령은 발생한 날부터 시행한다.",
+      "provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000227128",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230721"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보수조정심의위원회 개최결과",
+      "enforcement_date": "",
+      "content": "\n[별지 서식]\n┌────────────────────────┐\n│제   회 보수조정심의위원회 개최결과             │\n┢━━━━━━━━━━━━━━━━━━━━━━━━┪\n┃  1. 개최일시 :                                 ┃\n┃                                                ┃\n┃  2. 개최장소 :                                 ┃\n┃                                                ┃\n┃  3. 참 석 자                                   ┃\n┃    ? 위원장 : 소속         직위          성명 ┃\n┃    ? 위  원 : (               ) 외 명         ┃\n┃    ? 간  사 :                                 ┃\n┃                                                ┃\n┃  4. 부의안건                                   ┃\n┃    (1)                                         ┃\n┃    (2)                                         ┃\n┃                                                ┃\n┃  5. 의결사항                                   ┃\n┃                                                ┃\n┃  6. 확    인                                   ┃\n┃                                                ┃\n┃┌───┬───┬───┬───┬───┐      ┃\n┃│구  분│소  속│직  위│성  명│서  명│      ┃\n┃┝━━━┿━━━┿━━━┿━━━┿━━━┥      ┃\n┃│위원장│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│위  원│      │      │      │      │      ┃\n┃├───┼───┼───┼───┼───┤      ┃\n┃│간  사│      │      │      │      │      ┃\n┃└───┴───┴───┴───┴───┘      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=131692041",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=131692037",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=131692041",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#BJ0000",
+      "filename": "별지0_보수조정심의위원회 개최결과.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지0_보수조정심의위원회 개최결과.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=131654487",
+      "filename": "★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=131689893",
+      "filename": "★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=131689897",
+      "filename": "★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★조달청 보수조정심의위원회 설치 및 운영규정(개정전문).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
-    "attachments_count": 2
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/조달청 보수조정심의위원회 설치 및 운영규정"
@@ -162,5 +280,8 @@
   "addendum_provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:조달청보수조정심의위원회설치및운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "조달청 보수조정심의위원회 설치 및 운영규정/조달청 보수조정심의위원회 설치 및 운영규정.json"
 }
