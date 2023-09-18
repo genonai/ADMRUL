@@ -3,15 +3,16 @@
 문서종: 행정규칙
 provision_id: "admrul:GLOBALG.A.P.IFA인증기관인정을위한추가기술요건#DOC"
 law_id: 79777
-mst: 2100000226836
-시행일자: 20221031
-공포일자: 20221031
+mst: 2100000229554
+시행일자: 20230918
+공포일자: 20230918
 source: "https://www.law.go.kr/행정규칙/GLOBALG.A.P. IFA 인증기관 인정을 위한 추가기술요건"
 adm_uid: "admrul:79777"
 ---
 
 # GLOBALG.A.P. IFA 인증기관 인정을 위한 추가기술요건
-> 고시 · 행정규칙 · 시행 2022-10-31 · 공포 2022-10-31 · 일부개정
+> 고시 · 행정규칙 · 시행 2023-09-18 · 공포 2023-09-18 · 일부개정
 
-### 전문
-「GLOBALG.A.P. IFA 인증기관 인정을 위한 추가기술요건」의 자세한 내용은 상단 메뉴 "![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=40425753)"버튼을 이용하십시오.
+## 첨부파일
+- 📎 [2. KOLAS-SR-016 GLOBAL G.A.P. IFA 인증기관 인정을 위한 추가기술요건(국가기술표준원 고시 제2023-0380호)(2023.9.18.).pdf](http://law.go.kr/flDownload.do?flSeq=133280339)
+- 📎 [조문별제개정이유서_「GLOBALG.A.P. IFA 인증기관 인정을 위한 추가기술요건」 개정 고시.hwp](http://law.go.kr/flDownload.do?flSeq=133280341)
