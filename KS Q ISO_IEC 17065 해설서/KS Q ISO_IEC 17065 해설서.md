@@ -3,15 +3,17 @@
 문서종: 행정규칙
 provision_id: "admrul:KSQISO/IEC17065해설서#DOC"
 law_id: 76899
-mst: 2100000210697
-시행일자: 20220408
-공포일자: 20220408
+mst: 2100000237128
+시행일자: 20240102
+공포일자: 20240102
 source: "https://www.law.go.kr/행정규칙/KS Q ISO/IEC 17065 해설서"
 adm_uid: "admrul:76899"
 ---
 
 # KS Q ISO/IEC 17065 해설서
-> 고시 · 행정규칙 · 시행 2022-04-08 · 공포 2022-04-08 · 타법개정
+> 고시 · 행정규칙 · 시행 2024-01-02 · 공포 2024-01-02 · 일부개정
 
-### 전문
-「KS Q ISO IEC 17065 해설서」의 자세한 내용은 상단 메뉴 "![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=40425753)"버튼을 이용하십시오.
+## 첨부파일
+- 📎 [조문별제개정이유서_KS Q ISO IEC 17065 해설서.hwpx](http://law.go.kr/flDownload.do?flSeq=138439397)
+- 📎 [조문별제개정이유서_KS Q ISO IEC 17065 해설서.pdf](http://law.go.kr/flDownload.do?flSeq=138439401)
+- 📎 [KOLAS-G-018 KS Q ISO IEC 17065 해설서.pdf](http://law.go.kr/flDownload.do?flSeq=138437301)
