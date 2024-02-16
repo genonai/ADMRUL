@@ -3,18 +3,18 @@
 문서종: 행정규칙
 provision_id: "admrul:보건신기술(NET)인증기술고시#DOC"
 law_id: 34387
-mst: 2100000232280
-시행일자: 20231207
-공포일자: 20231207
+mst: 2100000236476
+시행일자: 20240216
+공포일자: 20240216
 source: "https://www.law.go.kr/행정규칙/보건신기술(NET) 인증기술 고시"
 adm_uid: "admrul:34387"
 ---
 
 # 보건신기술(NET) 인증기술 고시
-> 고시 · 행정규칙 · 시행 2023-12-07 · 공포 2023-12-07 · 일부개정
+> 고시 · 행정규칙 · 시행 2024-02-16 · 공포 2024-02-16 · 일부개정
 
 ### 전문
-![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=135205397)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=135205399)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=135205401)
+![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=137936857)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=137936859)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=137936861)
 
 ## 부칙
 ### 부칙 (공포 2014-06-30 제2014-103호)
@@ -82,3 +82,6 @@ adm_uid: "admrul:34387"
 
 ### 부칙 (공포 2023-12-07 제2023-233호)
 부칙 <제2023-233호, 2023. 12. 7.>이 고시는 발령한 날부터 시행한다.
+
+### 부칙 (공포 2024-02-16 제2024-26호)
+부칙 <제2024-26호, 2024. 2. 16.>이 고시는 2024년 2월 16일부터 시행한다.
