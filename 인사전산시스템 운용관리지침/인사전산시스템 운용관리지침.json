@@ -1,42 +1,42 @@
 {
   "law_id": "2111483",
-  "mst": "2200000085473",
+  "mst": "2200000104081",
   "law_name": "인사전산시스템 운용관리지침",
   "law_abbr": "",
   "law_type": "행정예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111483",
-  "promulgation_no": "1272",
-  "promulgation_date": "20210628",
-  "enforcement_date": "20210701",
-  "revision_date": "20210628",
+  "promulgation_no": "1367",
+  "promulgation_date": "20240208",
+  "enforcement_date": "20240219",
+  "revision_date": "20240208",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대법원(대법원)",
     "담당자명": "",
     "행정규칙종류코드": "B0012",
     "행정규칙명": "인사전산시스템 운용관리지침",
-    "발령일자": "20210628",
+    "발령일자": "20240208",
     "행정규칙종류": "행정예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "",
+    "소관부처명": "대법원",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
     "생성일자": "20241125",
     "행정규칙ID": "2111483",
-    "시행일자": "20210701",
+    "시행일자": "20240219",
     "담당부서기관코드": "",
-    "발령번호": "1272",
-    "행정규칙일련번호": "2200000085473",
+    "발령번호": "1367",
+    "행정규칙일련번호": "2200000104081",
     "상위부처명": "대법원"
   },
-  "amendment_text": "인사전산시스템 운용관리지침 일부를 다음과 같이 개정한다.\n제3조 제1항 제3호 중 “근무성적평정(경력평정, 훈련성적평정, 4급 인사평정 포함, 이하 “근무성적평정 등”이라 한다)”를 “근무성적평정(경력평정 포함, 이하 “근무성적평정 등”이라 한다)”로, “인력운영심의관실”을 “인사협력심의관실”로 하며, 같은 조 제2항 중 “인력운영심의관”을 “인사협력심의관”으로 한다.\n제4조 제4호 중 “인력운영심의관”을 “인사협력심의관”으로 한다.\n부    칙\n이 예규는 2021년 7월 1일부터 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 승진후보자명부 작성요소 중 훈련성적평정을 폐지하는 것으로 「법원공무원규칙」 및 「법원공무원 평정규칙」이 개정됨에 따라 관련 규정을 정비하고자 함\n2. 주요내용\n○ 훈련성적평정이 폐지됨에 따라 관련 조문에서 “훈련성적평정”을 삭제함(제3조 제1항 제3호)",
+  "amendment_text": "인사전산시스템 운용관리지침 일부를 다음과 같이 개정한다.\n제6조제1항 중 \"전산정보관리국\"을 \"사법정보화실\"로, \" \"사법부전산망 주전산기 백업에 관한 지침\" \"을 \"「사법부 정보시스템 백업에 관한 지침」\"으로 한다.\n제6조제2항 및 제7조제3항 중\"전산정보관리국\"을 각각\"사법정보화실\"로 한다.\n부    칙\n이 예규는 2024년 2월 19일부터 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 「법원사무기구에 관한 규칙」의 일부 개정 및 「사법부 정보시스템 백업에 관한 지침」 예규의 제명이 변경됨에 따라 관련 내용을 반영하여 이 예규를 개정하고자 함\n2. 주요내용\n○ \"전산정보관리국\"을 \"사법정보화실\"로 변경함(제6조제1항, 제2항 및 제7조제3항)\n○ \" \"사법부전산망 주전산기 백업에 관한 지침\" \"을 \"「사법부 정보시스템 백업에 관한 지침」\"으로 변경함(제6조제1항)",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -101,7 +101,7 @@
         "article_title": "인사프로그램 및 자료의 저장 관리",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조 (인사프로그램 및 자료의 저장 관리) ① 인사기록파일 및 인사기록내역파일은 법원행정처 전산정보관리국의 주전산기에 저장하여야 하고, 그 관리는 \"사법부전산망 주전산기 백업에 관한 지침\"에 따른다.② 전산정보관리국 인사전산시스템 전산담당자는 서브프로그램과 원시프로그램을 전산정보관리국 통합운영관리시스템에 작성 보관하여야 한다.",
+        "content": "제6조 (인사프로그램 및 자료의 저장 관리) ① 인사기록파일 및 인사기록내역파일은 법원행정처 사법정보화실의 주전산기에 저장하여야 하고, 그 관리는 \"「사법부 정보시스템 백업에 관한 지침」\"에 따른다.② 사법정보화실 인사전산시스템 전산담당자는 서브프로그램과 원시프로그램을 사법정보화실 통합운영관리시스템에 작성 보관하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -112,7 +112,7 @@
         "article_title": "보안관리 및 비밀엄수",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조 (보안관리 및 비밀엄수) ① 인사기록파일에 저장된 각종 인사자료는 이를 암호화하여 프로그램을 사용하지 않으면 내용을 알 수 없도록 하여야 한다.② 인사프로그램은 사용자 그룹별로 분류하여 메뉴를 구성함으로써 사용자로 하여금 자기가 사용하는 것 외에는 어떤 내용이 인사기록파일에 저장되어 있는지 알 수 없도록 하여야 한다.③ 사용자, 입력담당자, 전산정보관리국 인사전산시스템 전산담당자는 직무상 필요한 범위 외에는 인사기록파일에 저장되어 있는 각종 인사자료를 열람하거나 출력하여서는 안 되고, 직무상 알게 된 인사 상 비밀을 엄수하여야 한다.",
+        "content": "제7조 (보안관리 및 비밀엄수) ① 인사기록파일에 저장된 각종 인사자료는 이를 암호화하여 프로그램을 사용하지 않으면 내용을 알 수 없도록 하여야 한다.② 인사프로그램은 사용자 그룹별로 분류하여 메뉴를 구성함으로써 사용자로 하여금 자기가 사용하는 것 외에는 어떤 내용이 인사기록파일에 저장되어 있는지 알 수 없도록 하여야 한다.③ 사용자, 입력담당자, 사법정보화실 인사전산시스템 전산담당자는 직무상 필요한 범위 외에는 인사기록파일에 저장되어 있는 각종 인사자료를 열람하거나 출력하여서는 안 되고, 직무상 알게 된 인사 상 비밀을 엄수하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -129,6 +129,53 @@
         "images": [],
         "provision_id": "admrul:인사전산시스템운용관리지침#JO0008"
       }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 1",
+        "line_text": "",
+        "target_law_name": "인사전산시스템 운용관리지침",
+        "target_article_no": "별표1",
+        "target_article_title": "[별표 1] 사용 권한 부여 신청서",
+        "appendix_no": "1",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "source_admrul_seq": "2111483",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000104081&bylNo=0001&bylBrNo=00",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:인사전산시스템운용관리지침#DOC",
+        "target_unit": "BYL0001",
+        "reference_id": "admrul:인사전산시스템운용관리지침#BYL0001",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "인사전산시스템 운용관리지침/인사전산시스템 운용관리지침.json"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「사법부 정보시스템 백업에 관한 지침」",
+        "line_text": "",
+        "target_law_name": "사법부 정보시스템 백업에 관한 지침",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2111483",
+        "target_url": "https://www.law.go.kr/행정규칙/사법부 정보시스템 백업에 관한 지침",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:인사전산시스템운용관리지침#DOC",
+        "reference_id": "admrul:사법부정보시스템백업에관한지침#DOC",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "사법부 정보시스템 백업에 관한 지침/사법부 정보시스템 백업에 관한 지침.json"
+      }
     ]
   },
   "addenda": [
@@ -136,82 +183,179 @@
       "promulgation_date": "19980406",
       "promulgation_no": "348",
       "content": "부  칙(1998. 4. 6. 제348호)이 지침은 1998.  4.  20. 부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20051226",
       "promulgation_no": "639",
       "content": "부  칙(2005. 12. 26. 제639호)이 지침은 2006. 1. 1. 부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20070413",
       "promulgation_no": "706",
       "content": "부  칙(2007. 4. 13. 제706호)제1조(시행일) 이 예규는 2007. 5. 1.부터 시행한다.제2조(예비판사에 대한 경과조치) 이 규칙 시행 당시 재직 중인 예비판사에 대하여는 종전의 규정을 적용한다.제3조(다른 예규의 개정) ① ~ ③ 생략④ 인사전산시스템 운용관리지침 일부를 다음과 같이 개정한다제2조 제3호를 다음과 같이 한다.3. “일반직 등”이라 함은 일반직, 별정직(사법연수생 제외), 기능직 및 고용직 등을 말한다.⑤ ~ ⑥ 생략",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20110824",
       "promulgation_no": "904",
       "content": "부  칙(2011. 8. 24. 제904호)이 예규는 2011년 8월 24일부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20140410",
       "promulgation_no": "1009",
       "content": "부   칙(2014. 4. 10. 제1009호)이 예규는 2014년 4월 14일부터 시행하되, 2013년 12월 12일부터 적용한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20160302",
       "promulgation_no": "1075",
       "content": "부   칙(2016. 3. 2. 제1075호)이 지침은 2016년 3월 7일부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20170131",
       "promulgation_no": "1104",
       "content": "부   칙(2017. 1. 31. 제1104호)이 예규는 2017년 3월 1일부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20200429",
       "promulgation_no": "1224",
       "content": "부   칙(2020. 4. 29. 제1224호)이 예규는 2020년 5월 1일부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20210204",
       "promulgation_no": "1248",
       "content": "부   칙(2021. 2. 4. 제1248호)이 예규는 2021년 2월 9일부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "20210628",
       "promulgation_no": "1272",
       "content": "부   칙(2021. 6. 28. 제1272호)이 예규는 2021년 7월 1일부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
+    },
+    {
+      "promulgation_date": "20240208",
+      "promulgation_no": "1367",
+      "content": "부   칙(2024. 2. 8. 제1367호)이 예규는 2024년 2월 19일부터 시행한다.",
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9999",
       "content": "부  칙이 지침은 1996. 4. 1.부터 시행한다.",
-      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM"
+      "provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104081",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240219"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표 1] 사용 권한 부여 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000104081&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729059",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729059",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:인사전산시스템운용관리지침#BYL0001",
+      "filename": "별표1_[별표 1] 사용 권한 부여 신청서.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_[별표 1] 사용 권한 부여 신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 1,
+      "citation": 1
+    },
     "articles_total": 8,
     "articles_with_relations": 0,
-    "unmatched_relations": 0,
+    "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -222,5 +366,8 @@
   "addendum_provision_id": "admrul:인사전산시스템운용관리지침#ADDENDUM",
   "amendment_provision_id": "admrul:인사전산시스템운용관리지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "인사전산시스템 운용관리지침/인사전산시스템 운용관리지침.json"
 }
