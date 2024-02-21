@@ -1,42 +1,42 @@
 {
   "law_id": "2111699",
-  "mst": "2200000094025",
+  "mst": "2200000104161",
   "law_name": "법원 제도개선 건의함 운영지침",
   "law_abbr": "",
   "law_type": "행정예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111699",
-  "promulgation_no": "912",
-  "promulgation_date": "20111114",
-  "enforcement_date": "20111114",
-  "revision_date": "20111114",
+  "promulgation_no": "1380",
+  "promulgation_date": "20240221",
+  "enforcement_date": "20240221",
+  "revision_date": "20240221",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대법원(대법원)",
     "담당자명": "",
     "행정규칙종류코드": "B0012",
     "행정규칙명": "법원 제도개선 건의함 운영지침",
-    "발령일자": "20111114",
+    "발령일자": "20240221",
     "행정규칙종류": "행정예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "",
+    "소관부처명": "대법원",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
     "생성일자": "20241125",
     "행정규칙ID": "2111699",
-    "시행일자": "20111114",
+    "시행일자": "20240221",
     "담당부서기관코드": "",
-    "발령번호": "912",
-    "행정규칙일련번호": "2200000094025",
+    "발령번호": "1380",
+    "행정규칙일련번호": "2200000104161",
     "상위부처명": "대법원"
   },
-  "amendment_text": "법원 제도개선 건의함 운영지침 일부를 다음과 같이 개정한다.\n별표 1을 다음과 같이 한다.\n[별표 1] 제도개선 건의함 관리 담당 부서(제3조 관련)\n[그림]\n부    칙\n이 예규는 2011년 11월 14일부터 시행한다.",
-  "revision_reason": "1. 개정이유\n법원사무기구에 관한 규칙(대법원규칙 제2367호)의 개정 내용을 반영하고자 함\n2. 주요내용\n○ 제도개선 건의함 관리 담당 부서 중 정책지원심의관실을 사법지원실과 사법정책실로 변경함(별표 1)",
+  "amendment_text": "법원 제도개선 건의함 운영지침 일부를 다음과 같이 개정한다.\n별표 1을 별지와 같이 한다.\n부    칙\n이 예규는 즉시 시행한다.",
+  "revision_reason": "1. 개정이유\n「법원사무기구에 관한 규칙」 개정 사항을 반영하여 관련 조문을 정비하고자 함\n2. 주요내용\n○ 제도개선 건의함 관리 담당 부서를 정비함(별표 1)",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -118,47 +118,185 @@
         "images": [],
         "provision_id": "admrul:법원제도개선건의함운영지침#JO0007"
       }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 1",
+        "line_text": "",
+        "target_law_name": "법원 제도개선 건의함 운영지침",
+        "target_article_no": "별표1",
+        "target_article_title": "[별표 1] 제도개선 건의함 관리 담당 부서(제3조 관련)",
+        "appendix_no": "1",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "source_admrul_seq": "2111699",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000104161&bylNo=0001&bylBrNo=00",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:법원제도개선건의함운영지침#DOC",
+        "target_unit": "BYL0001",
+        "reference_id": "admrul:법원제도개선건의함운영지침#BYL0001",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "법원 제도개선 건의함 운영지침/법원 제도개선 건의함 운영지침.json"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 2",
+        "line_text": "",
+        "target_law_name": "법원 제도개선 건의함 운영지침",
+        "target_article_no": "별표2",
+        "target_article_title": "[별표2] 담당자 지정(변경) 통보",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "source_admrul_seq": "2111699",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000104161&bylNo=0002&bylBrNo=00",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:법원제도개선건의함운영지침#DOC",
+        "target_unit": "BYL0002",
+        "reference_id": "admrul:법원제도개선건의함운영지침#BYL0002",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "법원 제도개선 건의함 운영지침/법원 제도개선 건의함 운영지침.json"
+      }
     ]
   },
   "addenda": [
     {
       "promulgation_date": "99991231",
+      "promulgation_no": "9995",
+      "content": "부 칙(2024. 2. 21. 제1380호)이 예규는 즉시 시행한다.",
+      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104161",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240221"
+    },
+    {
+      "promulgation_date": "99991231",
       "promulgation_no": "9996",
       "content": "부 칙(2011. 11. 14. 제912호)이 예규는 2011년 11월 14일부터 시행한다.",
-      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM"
+      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104161",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240221"
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9997",
       "content": "부 칙(2010. 2. 22. 제856호)이 예규는 2010년 2월 22일부터 시행한다.",
-      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM"
+      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104161",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240221"
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9998",
       "content": "부 칙(2009. 2. 11. 제794호)이 예규는 2009. 2. 23.부터 시행한다. 다만, 제7조는 2009. 4. 1.부터 시행한다.",
-      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM"
+      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104161",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240221"
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9999",
       "content": "부 칙이 예규는 2007년  5월  18일부터 시행한다.",
-      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM"
+      "provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000104161",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240221"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표 1] 제도개선 건의함 관리 담당 부서(제3조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000104161&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729811",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729811",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:법원제도개선건의함운영지침#BYL0001",
+      "filename": "별표1_[별표 1] 제도개선 건의함 관리 담당 부서(제3조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_[별표 1] 제도개선 건의함 관리 담당 부서(제3조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표2] 담당자 지정(변경) 통보",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000104161&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729813",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729813",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:법원제도개선건의함운영지침#BYL0002",
+      "filename": "별표2_[별표2] 담당자 지정(변경) 통보.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_[별표2] 담당자 지정(변경) 통보.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 2
+    },
     "articles_total": 7,
     "articles_with_relations": 0,
-    "unmatched_relations": 0,
+    "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -169,5 +307,8 @@
   "addendum_provision_id": "admrul:법원제도개선건의함운영지침#ADDENDUM",
   "amendment_provision_id": "admrul:법원제도개선건의함운영지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "법원 제도개선 건의함 운영지침/법원 제도개선 건의함 운영지침.json"
 }
