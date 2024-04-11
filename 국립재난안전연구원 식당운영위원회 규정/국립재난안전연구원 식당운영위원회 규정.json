@@ -1,25 +1,25 @@
 {
   "law_id": "51733",
-  "mst": "2100000204336",
+  "mst": "2100000239062",
   "law_name": "국립재난안전연구원 식당운영위원회 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:51733",
-  "promulgation_no": "97",
-  "promulgation_date": "20210903",
-  "enforcement_date": "20210903",
-  "revision_date": "20210903",
+  "promulgation_no": "120",
+  "promulgation_date": "20240411",
+  "enforcement_date": "20240411",
+  "revision_date": "20240411",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립재난안전연구원(연구기획과)",
     "담당자명": "김영복",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국립재난안전연구원 식당운영위원회 규정",
-    "발령일자": "20210903",
+    "발령일자": "20240411",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1741000",
     "생성일자": "20240412",
     "행정규칙ID": "51733",
-    "시행일자": "20210903",
+    "시행일자": "20240411",
     "담당부서기관코드": "1741286",
-    "발령번호": "97",
-    "행정규칙일련번호": "2100000204336",
+    "발령번호": "120",
+    "행정규칙일련번호": "2100000239062",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n식당운영위원회 위원을 각 부서의 연구관 또는 5급 상당 공무원과 행정안전부 공무직 노동조합 국립재난안전연구원 지부장으로 변경하여 위원의 대상을 명확히 하고 위원회의 내실을 확보하기 위해 개정하고자 함\n◇ 주요내용\n가. 식당운영위원회 위원 대상자 정비(안 제3조)\n나. 사무장 명칭을 간사로 수정(안 제5조)",
+  "revision_reason": "◇ 개정이유\n국립재난안전연구원의 잠재 재난위험 발굴ㆍ분석ㆍ평가 관련 기능 강화를 위한 잠재재난위험분석센터 신설(’24.3.26.)에 따라 식당운영위원회의 구성을 변경하여 규정에 반영하고자 함\n◇ 주요내용\n가. 식당운영위원회에 ‘잠재재난위험분석센터’ 1인 포함(안 제3조)",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -68,7 +68,7 @@
         "article_title": "위원회 구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(위원회 구성) ① 위원회는 위원장 1명과 위원 7명으로 구성한다.② 위원장은 국립재난안전연구원 연구기획과장으로 한다.③ 위원은 각 부서에서 추천하는 연구관 또는 5급 상당 공무원 각 1명과 행정안전부 노동조합 국립재난안전연구원 지부장으로 한다.④ 위원회의 사무를 처리하기 위하여 간사 1명을 두며, 간사는 소관업무 담당 직원으로 한다.",
+        "content": "제3조(위원회 구성) ① 위원회는 위원장 1명과 위원 8명으로 구성한다.② 위원장은 국립재난안전연구원 연구기획과장으로 한다.③ 위원은 각 부서에서 추천하는 연구관 또는 5급 상당 공무원 각 1명과 행정안전부 노동조합 국립재난안전연구원 지부장으로 한다.④ 위원회의 사무를 처리하기 위하여 간사 1명을 두며, 간사는 소관업무 담당 직원으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -92,7 +92,28 @@
         "chapter_path": "",
         "content": "제5조(직무) ① 위원장은 위원회를 대표하며 식당운영에 관한 모든 업무를 총괄한다.② 위원장의 사고가 있을 때는 제3조제3항의 위원 중 위원장이 미리 지정한 순으로 대행한다.③ 간사는 회의사항의 기록 등 위원회의 사무를 처리하며, 위원회의 결정사항을 집행한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제3조제3항",
+            "line_text": "",
+            "target_law_name": "국립재난안전연구원 식당운영위원회 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "51733",
+            "target_url": "https://www.law.go.kr/행정규칙/국립재난안전연구원 식당운영위원회 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재난안전연구원식당운영위원회규정#JO0005",
+            "reference_id": "admrul:국립재난안전연구원식당운영위원회규정#JO0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립재난안전연구원 식당운영위원회 규정/국립재난안전연구원 식당운영위원회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#JO0005"
       },
@@ -158,48 +179,121 @@
       "promulgation_date": "20151104",
       "promulgation_no": "29",
       "content": "부칙 <제29호,2015. 11. 4.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM"
+      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239062",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240411"
     },
     {
       "promulgation_date": "20170202",
       "promulgation_no": "41",
       "content": "부칙 <제41호,2017. 2. 2.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM"
+      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239062",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240411"
     },
     {
       "promulgation_date": "20190101",
       "promulgation_no": "67",
       "content": "부칙 <제67호,2019. 1. 1.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM"
+      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239062",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240411"
     },
     {
       "promulgation_date": "20200214",
       "promulgation_no": "81",
       "content": "부칙 <제81호,2020. 2. 14.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM"
+      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239062",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240411"
     },
     {
       "promulgation_date": "20210903",
       "promulgation_no": "97",
       "content": "부칙 <제97호, 2021. 9. 3.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM"
+      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239062",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240411"
+    },
+    {
+      "promulgation_date": "20240411",
+      "promulgation_no": "120",
+      "content": "부칙 <제120호, 2024. 4. 11.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239062",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240411"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "국립재난안전연구원 식당운영위원회 규정(개정전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139635517",
+      "filename": "국립재난안전연구원 식당운영위원회 규정(개정전문).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립재난안전연구원 식당운영위원회 규정(개정전문).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립재난안전연구원 식당운영위원회 규정(개정전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139635521",
+      "filename": "국립재난안전연구원 식당운영위원회 규정(개정전문).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립재난안전연구원 식당운영위원회 규정(개정전문).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립재난안전연구원 식당운영위원회 규정(개정이유서).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139635687",
+      "filename": "국립재난안전연구원 식당운영위원회 규정(개정이유서).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립재난안전연구원 식당운영위원회 규정(개정이유서).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립재난안전연구원 식당운영위원회 규정(개정이유서).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139635691",
+      "filename": "국립재난안전연구원 식당운영위원회 규정(개정이유서).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립재난안전연구원 식당운영위원회 규정(개정이유서).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
     "articles_total": 10,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립재난안전연구원 식당운영위원회 규정"
@@ -208,5 +302,8 @@
   "addendum_provision_id": "admrul:국립재난안전연구원식당운영위원회규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립재난안전연구원식당운영위원회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립재난안전연구원 식당운영위원회 규정/국립재난안전연구원 식당운영위원회 규정.json"
 }
