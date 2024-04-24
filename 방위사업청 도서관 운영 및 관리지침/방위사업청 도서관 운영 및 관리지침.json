@@ -1,6 +1,6 @@
 {
   "law_id": "70401",
-  "mst": "2100000239712",
+  "mst": "2100000239752",
   "law_name": "방위사업청 도서관 운영 및 관리지침",
   "law_abbr": "",
   "law_type": "예규",
@@ -12,9 +12,9 @@
   "enforcement_date": "20240424",
   "revision_date": "20240424",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "방위사업청(운영지원과)",
     "담당자명": "이은녕",
     "행정규칙종류코드": "B0002",
@@ -32,7 +32,7 @@
     "시행일자": "20240424",
     "담당부서기관코드": "1690207",
     "발령번호": "909",
-    "행정규칙일련번호": "2100000239712",
+    "행정규칙일련번호": "2100000239752",
     "상위부처명": "방위사업청"
   },
   "amendment_text": "",
@@ -191,7 +191,33 @@
         "chapter_path": "제3장 도서관 자료 이용",
         "content": "제14조(자료의 열람과 대출) ① 자료의 열람 및 대출은 직원에 한한다. 다만, 운영책임자의 승인이 있는 경우에는 예외로 한다.② 자료의 대출권수, 대출기간 등은 [별표1]과 같다.③ 자료가 희소하여 재구입 또는 수집이 어려운 경우 대출을 제한할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "방위사업청 도서관 운영 및 관리지침",
+            "target_article_no": "별표1",
+            "target_article_title": "자료 대출 기준(제15조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "70401",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000239752&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:방위사업청도서관운영및관리지침#JO0014",
+            "target_unit": "BYL0001",
+            "reference_id": "admrul:방위사업청도서관운영및관리지침#BYL0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "방위사업청 도서관 운영 및 관리지침/방위사업청 도서관 운영 및 관리지침.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:방위사업청도서관운영및관리지침#JO0014"
       },
@@ -202,7 +228,33 @@
         "chapter_path": "제3장 도서관 자료 이용",
         "content": "제15조(대출자료의 반납) ① [별표1]에 의거 자료 대출 기준을 위반했을 경우 자료 대출을 제한할 수 있으며, 운영담당자는 대출자에게 전화 또는 문자, 구두로 자료 반납을 요구할 수 있다.② 반납요구 기한이 경과하여도 대출자가 반납하지 아니할 경우 1차 독촉을 하고, 독촉 받은 날로부터 30일이 경과 시 2차 독촉, 2차 독촉 후에도 반납하지 아니할 경우에는 대출을 제한할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "방위사업청 도서관 운영 및 관리지침",
+            "target_article_no": "별표1",
+            "target_article_title": "자료 대출 기준(제15조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "70401",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000239752&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:방위사업청도서관운영및관리지침#JO0015",
+            "target_unit": "BYL0001",
+            "reference_id": "admrul:방위사업청도서관운영및관리지침#BYL0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "방위사업청 도서관 운영 및 관리지침/방위사업청 도서관 운영 및 관리지침.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:방위사업청도서관운영및관리지침#JO0015"
       },
@@ -224,7 +276,28 @@
         "chapter_path": "제3장 도서관 자료 이용",
         "content": "제17조(재검토 기한) 방위사업청장은 이 예규에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2024년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31까지를 말한다)따라 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "70401",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:방위사업청도서관운영및관리지침#JO0017",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:방위사업청도서관운영및관리지침#JO0017"
       }
@@ -235,30 +308,102 @@
       "promulgation_date": "20200102",
       "promulgation_no": "611",
       "content": "부칙 <제611호,2020. 1. 2.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:방위사업청도서관운영및관리지침#ADDENDUM"
+      "provision_id": "admrul:방위사업청도서관운영및관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239752",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240424"
     },
     {
       "promulgation_date": "20240424",
       "promulgation_no": "909",
       "content": "부칙 <제909호, 2024. 4. 24.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:방위사업청도서관운영및관리지침#ADDENDUM"
+      "provision_id": "admrul:방위사업청도서관운영및관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000239752",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240424"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "자료 대출 기준(제15조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n자료 대출 기준(제15조 관련)┌──────┬────┬────┬────┬───┬────┐\n│자료 구분   │대출수량│대출기간│연장횟수│연장일│예약권수│\n├──────┼────┼────┼────┼───┼────┤\n│도서/보고서 │4권     │14일    │1회     │7일   │2권     │\n├──────┼────┼────┼────┼───┼────┤\n│잡지/간행물 │2권     │4일     │-       │-     │-       │\n└──────┴────┴────┴────┴───┴────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000239752&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139980889",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139980885",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139980889",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:방위사업청도서관운영및관리지침#BYL0001",
+      "filename": "별표1_자료 대출 기준(제15조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_자료 대출 기준(제15조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "11.(예규)방위사업청 도서관 운영 및 관리지침_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139971223",
+      "filename": "11.(예규)방위사업청 도서관 운영 및 관리지침_전문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/11.(예규)방위사업청 도서관 운영 및 관리지침_전문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "11.방위사업청 도서관 운영 및 관리지침_ 신구조문대조표.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139979765",
+      "filename": "11.방위사업청 도서관 운영 및 관리지침_ 신구조문대조표.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/11.방위사업청 도서관 운영 및 관리지침_ 신구조문대조표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "11.방위사업청 도서관 운영 및 관리지침_ 신구조문대조표.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139979769",
+      "filename": "11.방위사업청 도서관 운영 및 관리지침_ 신구조문대조표.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/11.방위사업청 도서관 운영 및 관리지침_ 신구조문대조표.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "appendix_ref": 2,
+      "citation": 1
+    },
     "articles_total": 17,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 2,
     "appendices_count": 1,
-    "attachments_count": 4
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/방위사업청 도서관 운영 및 관리지침"
@@ -267,5 +412,8 @@
   "addendum_provision_id": "admrul:방위사업청도서관운영및관리지침#ADDENDUM",
   "amendment_provision_id": "admrul:방위사업청도서관운영및관리지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "방위사업청 도서관 운영 및 관리지침/방위사업청 도서관 운영 및 관리지침.json"
 }
