@@ -1,25 +1,25 @@
 {
   "law_id": "70372",
-  "mst": "2100000213142",
+  "mst": "2100000248888",
   "law_name": "차량 다수공급자계약 추가특수조건",
   "law_abbr": "",
   "law_type": "공고",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:70372",
-  "promulgation_no": "2022-181",
-  "promulgation_date": "20220720",
-  "enforcement_date": "20220725",
-  "revision_date": "20220720",
+  "promulgation_no": "2024-375",
+  "promulgation_date": "20241031",
+  "enforcement_date": "20241101",
+  "revision_date": "20241031",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "조달청(첨단융복합제품구매과)",
-    "담당자명": "이기원",
+    "담당자명": "김애나",
     "행정규칙종류코드": "B0004",
     "행정규칙명": "차량 다수공급자계약 추가특수조건",
-    "발령일자": "20220720",
+    "발령일자": "20241031",
     "행정규칙종류": "공고",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,17 +29,17 @@
     "소관부처코드": "1230000",
     "생성일자": "20241101",
     "행정규칙ID": "70372",
-    "시행일자": "20220725",
-    "담당부서기관코드": "1230434",
-    "발령번호": "2022-181",
-    "행정규칙일련번호": "2100000213142",
+    "시행일자": "20241101",
+    "담당부서기관코드": "1230556",
+    "발령번호": "2024-375",
+    "행정규칙일련번호": "2100000248888",
     "상위부처명": "조달청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 국무조정실 민관합동규제개선추진단으로부터 반도체 수급 불안정으로 인해 차량 다수공급자계약 업체에서 납품기한 준수에 어려운 호소(6월)\n○ 이에 따라, 계약업체 및 수요기관의 의견수렴을 거쳐 원활한 공급이 될 수 있도록 납품기한 완화 필요\n◇ 주요내용\n[그림]\n",
+  "revision_reason": "◇ 개정사유\n- 조달청 공공조달 부문 「전기차 화재 대응 관련 안전관리 대책」에 따라 전기차 제품군의 배터리 주요 정보 공개 의무화*를 신설하고자 일부 개정\n* 배터리의 용량, 정격전압 및 최고출력, 제조사 및 원산지, 형태 및 주요원료를 제품규격서에 명시",
   "body": {
     "format": "articles",
-    "article_count": 13,
+    "article_count": 14,
     "articles": [
       {
         "article_no": "제2조",
@@ -147,7 +147,28 @@
         "chapter_path": "",
         "content": "제11조(리콜제 실시)자동차관리법 및 공정거래위원회 고시 「소비자분쟁해결기준」에 따른다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「소비자분쟁해결기준」",
+            "line_text": "",
+            "target_law_name": "소비자분쟁해결기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "70372",
+            "target_url": "https://www.law.go.kr/행정규칙/소비자분쟁해결기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량다수공급자계약추가특수조건#JO0011",
+            "reference_id": "admrul:소비자분쟁해결기준#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "소비자분쟁해결기준/소비자분쟁해결기준.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:차량다수공급자계약추가특수조건#JO0011"
       },
@@ -175,14 +196,89 @@
       },
       {
         "article_no": "제14조",
+        "article_title": "전기차 제품군의 배터리 정보 공개",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제14조(전기차 제품군의 배터리 정보 공개) ① 전기공급원으로부터 충전받은 에너지를 동력원으로 사용하는 자동차에 해당하는 세부품명(전기차 제품군)은 배터리의 주요정보를 제품규격서에 명시하여야 한다.② 배터리의 주요정보는 용량, 정격전압 및 최고출력, 제조사 및 원산지, 형태 및 주요원료를 의미한다.③ 계약자는 제1항에서 정한 배터리 정보의 변경이 필요한 경우 지체없이 계약담당공무원에게 수정계약을 요청하여야 하며, 규격서에 명시된 배터리 정보와 다르게 납품한 경우 「물품 다수공급자계약 특수조건」에서 정한 계약상대자의 의무를 이행하지 않은 것으로 볼 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "「물품 다수공급자계약 특수조건」",
+            "line_text": "",
+            "target_law_name": "물품 다수공급자계약 특수조건",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "70372",
+            "target_url": "https://www.law.go.kr/행정규칙/물품 다수공급자계약 특수조건",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량다수공급자계약추가특수조건#JO0014",
+            "reference_id": "admrul:물품다수공급자계약특수조건#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "물품 다수공급자계약 특수조건/물품 다수공급자계약 특수조건.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량다수공급자계약추가특수조건#JO0014"
+      },
+      {
+        "article_no": "제15조",
         "article_title": "재검토기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제14조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 공고에 대하여 2021년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 1월 1일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제15조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 공고에 대하여 2021년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 1월 1일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "70372",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량다수공급자계약추가특수조건#JO0015",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:차량다수공급자계약추가특수조건#JO0014"
+        "provision_id": "admrul:차량다수공급자계약추가특수조건#JO0015"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "제1조",
+        "source_clause": "제1조",
+        "link_text": "「물품 다수공급자계약 특수조건」",
+        "line_text": "",
+        "target_law_name": "물품 다수공급자계약 특수조건",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "70372",
+        "target_url": "https://www.law.go.kr/행정규칙/물품 다수공급자계약 특수조건",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:차량다수공급자계약추가특수조건#DOC",
+        "reference_id": "admrul:물품다수공급자계약특수조건#DOC",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "물품 다수공급자계약 특수조건/물품 다수공급자계약 특수조건.json"
       }
     ]
   },
@@ -191,30 +287,88 @@
       "promulgation_date": "20220420",
       "promulgation_no": "2022-79",
       "content": "부칙 <제2022-79호, 2022. 4. 20.>1. 이 공고는 2022. 5. 2.부터 시행한다.",
-      "provision_id": "admrul:차량다수공급자계약추가특수조건#ADDENDUM"
+      "provision_id": "admrul:차량다수공급자계약추가특수조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248888",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
     },
     {
       "promulgation_date": "20220720",
       "promulgation_no": "2022-181",
       "content": "부칙 <제2022-181호, 2022. 7. 20.>1. 이 공고는 2022. 7. 25.부터 시행한다.",
-      "provision_id": "admrul:차량다수공급자계약추가특수조건#ADDENDUM"
+      "provision_id": "admrul:차량다수공급자계약추가특수조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248888",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
+    },
+    {
+      "promulgation_date": "20241031",
+      "promulgation_no": "2024-375",
+      "content": "부칙 <제2024-375호, 2024. 10. 31.>1. 이 공고는 2024. 11. 1.부터 시행한다.",
+      "provision_id": "admrul:차량다수공급자계약추가특수조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248888",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_개정사유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145119377",
+      "filename": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_개정사유서.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_개정사유서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_신구조문대비표.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145119379",
+      "filename": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_신구조문대비표.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_신구조문대비표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145124893",
+      "filename": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_전문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_전문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145124897",
+      "filename": "★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★(공고 2024-375호)차량 다수공급자계약 추가특수조건 개정안_전문.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 13,
-    "articles_with_relations": 0,
-    "unmatched_relations": 0,
+    "relations_total": 4,
+    "by_category": {
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
+    "articles_total": 14,
+    "articles_with_relations": 3,
+    "unmatched_relations": 1,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/차량 다수공급자계약 추가특수조건"
@@ -223,5 +377,8 @@
   "addendum_provision_id": "admrul:차량다수공급자계약추가특수조건#ADDENDUM",
   "amendment_provision_id": "admrul:차량다수공급자계약추가특수조건#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "차량 다수공급자계약 추가특수조건/차량 다수공급자계약 추가특수조건.json"
 }
