@@ -1,25 +1,25 @@
 {
   "law_id": "35867",
-  "mst": "2100000215858",
+  "mst": "2100000248922",
   "law_name": "법무부 예산집행심의회 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:35867",
-  "promulgation_no": "1450",
-  "promulgation_date": "20221111",
-  "enforcement_date": "20221111",
-  "revision_date": "20221111",
+  "promulgation_no": "1544",
+  "promulgation_date": "20241101",
+  "enforcement_date": "20241101",
+  "revision_date": "20241101",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "법무부(기획재정담당관)",
-    "담당자명": "이우승",
+    "담당자명": "이태경",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "법무부 예산집행심의회 규정",
-    "발령일자": "20221111",
+    "발령일자": "20241101",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1270000",
     "생성일자": "20241104",
     "행정규칙ID": "35867",
-    "시행일자": "20221111",
+    "시행일자": "20241101",
     "담당부서기관코드": "1272323",
-    "발령번호": "1450",
-    "행정규칙일련번호": "2100000215858",
+    "발령번호": "1544",
+    "행정규칙일련번호": "2100000248922",
     "상위부처명": "법무부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n종전에 「법무부 예산집행심의회 규정」 제5조제2항 예산집행심의회의 위원장이 필요하다고 인정하는 경우에는 서면회의를 통하여 의결할 수 있다고 정하였던 것을 향후에는「행정기관 소속 위원회의 설치ㆍ운영에 관한 법률」제9조제2항 및 같은 법 시행령 제5조2항에서 정하고 있는 사유에 해당하는 경우에만 서면으로 의결할 수 있게 하도록 관련 규정을 정비하려는 것임.",
+  "revision_reason": "◇ 개정이유\n종전 「법무부 예산집행심의회 규정」 제2조제2항 위원 구성 관련, ‘23. 08. 법무부 내 ‘국제법무국’ 신설에 따라 같은 규정 제2조제2항에서 정하고 있는 내부위원에 ‘국제법무정책과장’을 추가하여 관련 규정을 정비하려는 것임.",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -48,7 +48,48 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 규정은 「국가재정법시행령」 제49조제1항의 규정에 의하여 법무부에 설치하는 예산집행심의회(이하 \"심의회\"라 한다)의 구성과 운영에 관하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가재정법시행령」",
+            "line_text": "",
+            "target_law_name": "국가재정법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35867",
+            "target_url": "https://www.law.go.kr/법령/국가재정법시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부예산집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/시행령/국가재정법시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제49조제1항",
+            "line_text": "",
+            "target_law_name": "국가재정법시행령",
+            "target_article_no": "제49조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35867",
+            "target_url": "https://www.law.go.kr/법령/국가재정법시행령/제49조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부예산집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법시행령#JO0049",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/시행령/국가재정법시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:법무부예산집행심의회규정#JO0001"
       },
@@ -57,7 +98,7 @@
         "article_title": "구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(구성) ① 심의회의 위원장은 기획조정실장으로 하며, 위원장은 심의회를 대표하고 회의에 관한 사무를 통할한다.② 위원은 법무과장, 검찰과장, 범죄예방기획과장, 인권정책과장, 복지과장, 출입국기획과장, 운영지원과장, 기획재정담당관, 법무연수원 총무과장, 그리고 예산 회계에 관한 학식과 경험이 풍부한 자로서 위원장이 위촉한 외부전문가 2인으로 한다.③ 위원장이 사고 등으로 인하여 직무를 수행할 수 없을 때에는 기획재정담당관이 그 직무를 대행한다.④ 위원회 위원 중 제2항에 따라 위촉하는 외부위원의 임기는 2년으로 하되, 특별한 사정이 없는 한 2회에 한하여 연임할 수 있다.",
+        "content": "제2조(구성) ① 심의회의 위원장은 기획조정실장으로 하며, 위원장은 심의회를 대표하고 회의에 관한 사무를 통할한다.② 위원은 법무과장, 검찰과장, 범죄예방기획과장, 인권정책과장, 국제법무정책과장, 복지과장, 출입국기획과장, 운영지원과장, 기획재정담당관, 법무연수원 총무과장, 그리고 예산 회계에 관한 학식과 경험이 풍부한 자로서 위원장이 위촉한 외부전문가 2인으로 한다.③ 위원장이 사고 등으로 인하여 직무를 수행할 수 없을 때에는 기획재정담당관이 그 직무를 대행한다.④ 위원회 위원 중 제2항에 따라 위촉하는 외부위원의 임기는 2년으로 하되, 특별한 사정이 없는 한 2회에 한하여 연임할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -114,7 +155,33 @@
         "chapter_path": "",
         "content": "제6조(심의요구) 심의요구는 당해 사업을 주관하는 과의 과장이 하며, 심의회에 심의를 요구할 때에는 별지 제1호서식의 심사의뢰서를 심의회에 제출한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "법무부 예산집행심의회 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "심사의뢰서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "35867",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000248922&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부예산집행심의회규정#JO0006",
+            "target_unit": "FORM0001",
+            "reference_id": "admrul:법무부예산집행심의회규정#FORM0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "법무부 예산집행심의회 규정/법무부 예산집행심의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:법무부예산집행심의회규정#JO0006"
       },
@@ -136,7 +203,33 @@
         "chapter_path": "",
         "content": "제8조(간사) ① 심의회를 효율적으로 운영하기 위해 기획재정담당관실 서기관을 간사로 둔다.② 간사는 심의회 회무를 담당하고 별지 제2호서식에 의한 연도별 운영실적 현황을 작성ㆍ관리하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "법무부 예산집행심의회 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "예산집행심의회 운영실적",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "35867",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000248922&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법무부예산집행심의회규정#JO0008",
+            "target_unit": "FORM0002",
+            "reference_id": "admrul:법무부예산집행심의회규정#FORM0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "법무부 예산집행심의회 규정/법무부 예산집행심의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:법무부예산집행심의회규정#JO0008"
       },
@@ -169,42 +262,167 @@
       "promulgation_date": "20040120",
       "promulgation_no": "495",
       "content": "부칙 <제495호,2004. 1. 20.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248922",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
     },
     {
       "promulgation_date": "20090501",
       "promulgation_no": "685",
       "content": "부칙 <제685호,2009. 5. 1.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248922",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
     },
     {
       "promulgation_date": "20121015",
       "promulgation_no": "870",
       "content": "부칙 <제870호,2012. 10. 15.>이 규정은 발령일로부터 시행한다.",
-      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248922",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
     },
     {
       "promulgation_date": "20170306",
       "promulgation_no": "1096",
       "content": "부칙 <제1096호,2017. 3. 6.>제1조(시행일) 이 규정은 공포한 날로부터 시행한다. 다만 제2조제4항 및 제2조의2의 개정 규정은 이 훈령 시행 후 위원으로 위촉되는 사람부터 적용한다.",
-      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248922",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
+    },
+    {
+      "promulgation_date": "20241101",
+      "promulgation_no": "1544",
+      "content": "부칙 <제1544호, 2024. 11. 1.>제1조(시행일) 이 규정은 공포한 날로부터 시행한다.",
+      "provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000248922",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241101"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "심사의뢰서",
+      "enforcement_date": "",
+      "content": "(서식 제 1 호)\n┌┐\n││\n││\n└┘\n┌─────────┬─────────┐┌─┐\n│의안번호          │제       호       ││의│\n├─────────┼─────────┤│결│\n│심의    년  월  일│20  .     .     . ││사│\n│                  │제     차   회 의 ││항│\n└─────────┴─────────┘└─┘\n┌─────┬┐\n│회  계  명││\n├─────┼┤\n│사  업  명││\n├─────┼┤\n│안  건  명││\n└─────┴┘\n┌──────┬────────┐\n│신   청   인│                │\n├──────┼────────┤\n│신 청  일 자│20  .    .    . │\n└──────┴────────┘\n1. 의 결 주 문\n2. 제 안 이 유\n3. 주 요 골 자\n4. 참 고 사 항\n가. 근  거\n나. 관계기관 협조\n다. 참고자료",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145909",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145903",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145909",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:법무부예산집행심의회규정#FORM0001",
+      "filename": "서식1_심사의뢰서.hwp",
+      "file_dir": "서식",
+      "local_path": "서식/서식1_심사의뢰서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "예산집행심의회 운영실적",
+      "enforcement_date": "",
+      "content": "(서식 제 2 호)\n(    )년도 예산집행심의회 운영실적\n기관명 :\n(단위 : 백만원)\n┌──────┬───┬─────┬───────┬───┐\n│심 의 사 항 │월 일 │관련예산액│심  의  결  과│비  고│\n├──────┼───┼─────┼───────┼───┤\n│            │      │          │              │      │\n│            │      │          │              │      │\n│            │      │          │              │      │\n│            │      │          │              │      │\n│            │      │          │              │      │\n│            │      │          │              │      │\n│            │      │          │              │      │\n└──────┴───┴─────┴───────┴───┘\n※ 비고란은 특기사항을 기재한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145915",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145911",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145145915",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:법무부예산집행심의회규정#FORM0002",
+      "filename": "서식2_예산집행심의회 운영실적.hwp",
+      "file_dir": "서식",
+      "local_path": "서식/서식2_예산집행심의회 운영실적.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「법무부 예산집행심의회 규정」일부 개정 훈령(안)(개정이유서).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145145805",
+      "filename": "「법무부 예산집행심의회 규정」일부 개정 훈령(안)(개정이유서).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「법무부 예산집행심의회 규정」일부 개정 훈령(안)(개정이유서).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "「법무부 예산집행심의회 규정」일부 개정 훈령(안)(개정이유서).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145145801",
+      "filename": "「법무부 예산집행심의회 규정」일부 개정 훈령(안)(개정이유서).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「법무부 예산집행심의회 규정」일부 개정 훈령(안)(개정이유서).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "법무부 예산집행심의회 규정.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145141983",
+      "filename": "법무부 예산집행심의회 규정.zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/법무부 예산집행심의회 규정.zip",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 2
+    },
     "articles_total": 11,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 2,
-    "attachments_count": 2
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/법무부 예산집행심의회 규정"
@@ -213,5 +431,8 @@
   "addendum_provision_id": "admrul:법무부예산집행심의회규정#ADDENDUM",
   "amendment_provision_id": "admrul:법무부예산집행심의회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "법무부 예산집행심의회 규정/법무부 예산집행심의회 규정.json"
 }
