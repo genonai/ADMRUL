@@ -1,16 +1,16 @@
 {
   "law_id": "34999",
-  "mst": "2100000234416",
+  "mst": "2100000249756",
   "law_name": "국세청 사무분장규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34999",
-  "promulgation_no": "2604",
-  "promulgation_date": "20231229",
-  "enforcement_date": "20231229",
-  "revision_date": "20231229",
+  "promulgation_no": "2649",
+  "promulgation_date": "20241115",
+  "enforcement_date": "20241116",
+  "revision_date": "20241115",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "최진영",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국세청 사무분장규정",
-    "발령일자": "20231229",
+    "발령일자": "20241115",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,19 +27,19 @@
     "전화번호": "044-204-2315",
     "제개정구분명": "일부개정",
     "소관부처코드": "1210000",
-    "생성일자": "20241126",
+    "생성일자": "20250403",
     "행정규칙ID": "34999",
-    "시행일자": "20231229",
+    "시행일자": "20241116",
     "담당부서기관코드": "1214578",
-    "발령번호": "2604",
-    "행정규칙일련번호": "2100000234416",
+    "발령번호": "2649",
+    "행정규칙일련번호": "2100000249756",
     "상위부처명": "국세청"
   },
   "amendment_text": "",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 60,
+    "article_count": 61,
     "articles": [
       {
         "article_no": "제1조",
@@ -205,6 +205,17 @@
         "relations": [],
         "images": [],
         "provision_id": "admrul:국세청사무분장규정#JO0010_03"
+      },
+      {
+        "article_no": "제10조의4",
+        "article_title": "인공지능세정혁신팀",
+        "chapter": "제4장 정보화관리관",
+        "chapter_path": "제4장 정보화관리관",
+        "content": "제10조의4(인공지능세정혁신팀) 인공지능세정혁신팀은 다음 각 호의 사항을 분장한다. <신설 2024. 11. 16.>1. AI상담 발전계획 수립 및 시행에 관한 업무2. AI상담 시스템 개발 및 유지ㆍ관리3. AI상담 세목 확대 및 상담 품질 관리",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국세청사무분장규정#JO0010_04"
       },
       {
         "article_no": "제11조",
@@ -871,6 +882,12 @@
       "promulgation_no": "2604",
       "content": "부칙 <제2604호, 2023. 12. 29.>제1조(시행일) 이 규정은 2023년 12월 29일부터 시행한다. 다만, 제18조의2제13호 및 제19조제4호의 개정 규정은 2024년 1월 29일부터 시행한다.",
       "provision_id": "admrul:국세청사무분장규정#ADDENDUM"
+    },
+    {
+      "promulgation_date": "20241115",
+      "promulgation_no": "2649",
+      "content": "부칙 <제2649호, 2024. 11. 15.>제1조(시행일) 이 규정은 2024. 11. 16.부터 시행한다.",
+      "provision_id": "admrul:국세청사무분장규정#ADDENDUM"
     }
   ],
   "appendices": [],
@@ -880,12 +897,12 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 60,
+    "articles_total": 61,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 28,
+    "addenda_count": 29,
     "appendices_count": 0,
     "attachments_count": 4
   },
