@@ -1,25 +1,25 @@
 {
   "law_id": "2080820",
-  "mst": "2100000211490",
+  "mst": "2100000251772",
   "law_name": "국립고궁박물관 소방규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2080820",
-  "promulgation_no": "121",
-  "promulgation_date": "20220511",
-  "enforcement_date": "20220511",
-  "revision_date": "20220511",
+  "promulgation_no": "160",
+  "promulgation_date": "20241224",
+  "enforcement_date": "20241224",
+  "revision_date": "20241224",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립고궁박물관(기획운영과)",
-    "담당자명": "박지연",
+    "담당자명": "최혜웅",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립고궁박물관 소방규정",
-    "발령일자": "20220511",
+    "발령일자": "20241224",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1833100",
     "생성일자": "20241230",
     "행정규칙ID": "2080820",
-    "시행일자": "20220511",
-    "담당부서기관코드": "1550196",
-    "발령번호": "121",
-    "행정규칙일련번호": "2100000211490",
+    "시행일자": "20241224",
+    "담당부서기관코드": "1833128",
+    "발령번호": "160",
+    "행정규칙일련번호": "2100000251772",
     "상위부처명": "국가유산청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 사유\nㅇ 국립고궁박물관의 화재예방과 박물관 화재의 신속한 소화 및 소장유물의 비상 반출을 원활하게 하기 위해 소방 규정을 현실화 하고, 어구 수정 등 미비점을 반영하기 위함\n◇ 주요 내용\nㅇ 국립고궁박물관 소방규정의 어구 수정\n- 방화관리자를 소방안전관리자로 일원화\n- 맞춤법 수정\nㅇ 소방안전관리자 임무 관련 사항 현실화\n- 소방안전관리자 임무 수정(제2조)\n- 화재 시 비상반출우선순위 목록 작성 구체화(제7조)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n「문화재청과 그 소속기관 직제」의 일부개정(2023. 12. 26.)에 따라 국립고궁박물관에 신설된 국립조선왕조실록박물관을 동 규정에 추가하려고 하는 것임\n◇ 주요내용\n가. 목적 수정(제1조 개정)\nㅇ 국립고궁박물관의 소속인 국립조선왕조실록박물관의 화재예방과 박물관 소방시설을 관리하는데 필요한 사항을 동 규정에 함께 규정하도록 함",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -46,7 +46,7 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 규정은 국립고궁박물관(이하 \"박물관\"이라 한다)의 화재예방과 박물관 화재의 신속한 소화 및 소장유물의 비상반출을 원활하게 함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 국립고궁박물관과 그 소속인 국립조선왕조실록박물관(이하 \"박물관\"이라 한다)의 화재예방과 박물관 화재의 신속한 소화 및 소장유물의 비상반출을 원활하게 함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -114,12 +114,38 @@
         "chapter_path": "",
         "content": "제7조(비상반출표시) 각 과에서 화재 등 비상시에 우선적으로 반출하여야 할 중요한 문서함에는 다음과 같은 비상반출표시를 하고, [별지 제1호 서식]에 따라 지출 우선 순위를 정하여야 한다.[그림]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "국립고궁박물관 소방규정",
+            "target_article_no": "별지1",
+            "target_article_title": "지출우선순위 일람표(제7조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2080820",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147478269",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립고궁박물관소방규정#JO0007",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:국립고궁박물관소방규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립고궁박물관 소방규정/국립고궁박물관 소방규정.json"
+          }
+        ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=115683945",
-            "seq": "115683945",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147477209",
+            "seq": "147477209",
             "filename": "제7조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제7조_1.gif",
@@ -157,30 +183,112 @@
       "promulgation_date": "20110919",
       "promulgation_no": "28",
       "content": "부칙 <제28호,2011. 9. 19.>이 규정은 2011년 9월 19일부터 시행한다.",
-      "provision_id": "admrul:국립고궁박물관소방규정#ADDENDUM"
+      "provision_id": "admrul:국립고궁박물관소방규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000251772",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241224"
     },
     {
       "promulgation_date": "20220511",
       "promulgation_no": "121",
       "content": "부칙 <제121호, 2022. 5. 11.>이 예규는 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:국립고궁박물관소방규정#ADDENDUM"
+      "provision_id": "admrul:국립고궁박물관소방규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000251772",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241224"
+    },
+    {
+      "promulgation_date": "20241224",
+      "promulgation_no": "160",
+      "content": "부칙 <제160호, 2024. 12. 24.>이 예규는 발령한 날로부터 시행한다.",
+      "provision_id": "admrul:국립고궁박물관소방규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000251772",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241224"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지출우선순위 일람표(제7조 관련)",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식] 지출우선순위 일람표(제7조 관련)\n지출우선순위 일람표\n┌───┬──────┬────────┬───┐\n│부서명│지출우선순위│캐비닛 관리번호 │비  고│\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n├───┼──────┼────────┼───┤\n│      │            │                │      │\n└───┴──────┴────────┴───┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147478269",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147478265",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147478269",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립고궁박물관소방규정#BJ0001",
+      "filename": "별지1_지출우선순위 일람표(제7조 관련).hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_지출우선순위 일람표(제7조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국립고궁박물관 소방규정 일부개정(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147421137",
+      "filename": "국립고궁박물관 소방규정 일부개정(전문).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립고궁박물관 소방규정 일부개정(전문).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙(국립고궁박물관 소방규정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147477879",
+      "filename": "조문별제개정이유서_행정규칙(국립고궁박물관 소방규정).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_행정규칙(국립고궁박물관 소방규정).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙(국립고궁박물관 소방규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147477887",
+      "filename": "조문별제개정이유서_행정규칙(국립고궁박물관 소방규정).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_행정규칙(국립고궁박물관 소방규정).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "appendix_ref": 1
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 1,
-    "attachments_count": 2
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립고궁박물관 소방규정"
@@ -189,5 +297,8 @@
   "addendum_provision_id": "admrul:국립고궁박물관소방규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립고궁박물관소방규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립고궁박물관 소방규정/국립고궁박물관 소방규정.json"
 }
