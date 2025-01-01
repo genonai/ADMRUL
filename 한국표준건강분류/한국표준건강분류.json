@@ -1,81 +1,96 @@
 {
   "law_id": "55603",
-  "mst": "2100000071945",
+  "mst": "2100000248988",
   "law_name": "한국표준건강분류",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:55603",
-  "promulgation_no": "2016-419",
-  "promulgation_date": "20161230",
-  "enforcement_date": "20180101",
-  "revision_date": "20161230",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "2024-287",
+  "promulgation_date": "20240701",
+  "enforcement_date": "20250101",
+  "revision_date": "20240701",
+  "revision_type": "전부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국가데이터처(통계기준과)",
-    "담당자명": "최원",
+    "담당자명": "정가영",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "한국표준건강분류",
-    "발령일자": "20161230",
+    "발령일자": "20240701",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200401",
-    "조문형식여부": "N",
+    "제개정구분코드": "200402",
+    "조문형식여부": "Y",
     "소관부처명": "국가데이터처",
     "전화번호": "042-481-2574",
-    "제개정구분명": "제정",
+    "제개정구분명": "전부개정",
     "소관부처코드": "1241000",
     "생성일자": "20250101",
     "행정규칙ID": "55603",
-    "시행일자": "20180101",
+    "시행일자": "20250101",
     "담당부서기관코드": "1240467",
-    "발령번호": "2016-419",
-    "행정규칙일련번호": "2100000071945",
+    "발령번호": "2024-287",
+    "행정규칙일련번호": "2100000248988",
     "상위부처명": "국가데이터처"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 추진 배경 및 목적\n○ (배경) 세계보건기구(WHO) 국제기능·장애·건강분류(ICF)를 기반으로 통계법 제22조 의거하여 국내 표준분류인 ‘한국표준건강분류(KCF)’로 제정\n○ (목적) 건강분류에 대한 수요 제고와 관련 통계작성 기반을 마련하고, 국제 비교성 확보를 통한 국가 간 보건수준 비교를 위해 통계법 제22조에 따라 표준분류 제정\n\n◇ 주요 내용\n○ (제정범위) 국제기능·장애·건강분류(ICF 2015버전)의 서론, 분류표, 부록의 전 범위를 대상으로 표준분류 지정\n○ (분류 영역) 신체기능, 신체구조, 활동과 참여, 환경요인의 4가지 구성요소로 건강과 건강관련 범위를 코드화\n○ (분류 체계) 구성요소별 최대 4단계(대·중·소·세) 계층구조로 알파벳과 숫자를 조합하여 총 1,541개 코드로 구성\n[그림]\n─────┰────┬───────┬────┬─────┬────\n구분    ┃분류영역│대분류        │중분류  │소분류    │세분류\n─────╂────┼───────┼────┼─────┼────\n자리수  ┃1자리   │2자리         │4자리   │5자리     │6자리\n─────╂────┼───────┼────┼─────┼────\n항목수  ┃4개     │30개          │370개   │996개     │145개\n─────╂────┼───────┼────┼─────┼────\n코드예시┃S       │S7            │S730    │S7302     │S73020\n┠────┼───────┼────┼─────┼────\n┃신체구조│운동과 관련된 │상지구조│손의 구조 │손뼈\n┃        │구조          │        │          │\n─────┸────┴───────┴────┴─────┴────\n\n○ (분류 원칙) 건강상태와 그 건강상태에 대한 수준과 정도를 5점 척도로 평가하여 함께 분류",
+  "revision_reason": "◇ 제ㆍ개정 이유\n국내 보건환경 변화와 개정수요, 최신 국제분류 등 반영\n\n◇ 주요내용\n가. 국제분류 변화 반영\nㆍ 세게보건기구(WHO)의 국제기능장애건강분류(ICF)의 최신정보(신설 24건, 삭제 1건) 반영\n나. 국내 환경변화 반영\nㆍ 한글 표기 등 용어 정비, 대한의사협회 의학용어위원회의 「의학용어짐 제6판(2020)」시의성 있는 반영",
   "body": {
     "format": "articles",
-    "article_count": 1,
-    "articles": [
-      {
-        "article_no": "전문",
-        "article_title": "",
-        "chapter": "",
-        "content": "1. 2013년 일반분류로 제정한 바 있는 「한국건강분류」를 통계법 제22조에 의하여 「한국표준건강분류」로 제정하고 통계청 고시 제2016-419호(2016. 12. 30.)로 고시한다. 2. 이번 고시 범위는 「한국표준건강분류」의 ‘서론’, ‘분류 항목표’, ‘부록’ 등이다.○ 고시내용은 ‘통계청 홈페이지(http://kostat.go.kr) > 새소식 > 공지사항 > 고시’에 게재",
-        "enforcement_date": "",
-        "relations": [],
-        "images": [],
-        "provision_id": "admrul:한국표준건강분류#DOC"
-      }
-    ]
+    "article_count": 0,
+    "articles": []
   },
-  "addenda": [
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
     {
-      "promulgation_date": "20161230",
-      "promulgation_no": "2016-419",
-      "content": "부칙 <제2016-419호,2016. 12. 30.>제1조(시행일) 이 고시는 2018년 1월 1일부터 시행한다.제2조(재검토기한) 통계청장은 이 고시에 대하여 2017년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
-      "provision_id": "admrul:한국표준건강분류#ADDENDUM"
+      "name": "통계청고시제2024-287호(한국표준건강분류 개정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145159833",
+      "filename": "통계청고시제2024-287호(한국표준건강분류 개정).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/통계청고시제2024-287호(한국표준건강분류 개정).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(입법시스템)조문별제개정이유서_행정규칙.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145164235",
+      "filename": "(입법시스템)조문별제개정이유서_행정규칙.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(입법시스템)조문별제개정이유서_행정규칙.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(입법시스템)조문별제개정이유서_행정규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145164239",
+      "filename": "(입법시스템)조문별제개정이유서_행정규칙.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(입법시스템)조문별제개정이유서_행정규칙.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "제1차 한국표준건강분류_20240701102215.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145164255",
+      "filename": "제1차 한국표준건강분류_20240701102215.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/제1차 한국표준건강분류_20240701102215.pdf",
+      "file_store_url": ""
     }
   ],
-  "appendices": [],
-  "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 1,
+    "articles_total": 0,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
-    "appendices_count": 1,
-    "attachments_count": 2
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/한국표준건강분류"
@@ -84,5 +99,8 @@
   "addendum_provision_id": "admrul:한국표준건강분류#ADDENDUM",
   "amendment_provision_id": "admrul:한국표준건강분류#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "한국표준건강분류/한국표준건강분류.json"
 }
