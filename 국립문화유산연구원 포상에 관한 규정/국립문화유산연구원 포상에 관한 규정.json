@@ -1,25 +1,25 @@
 {
   "law_id": "2088530",
-  "mst": "2100000241092",
+  "mst": "2100000254642",
   "law_name": "국립문화유산연구원 포상에 관한 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2088530",
-  "promulgation_no": "8",
-  "promulgation_date": "20240517",
-  "enforcement_date": "20240517",
-  "revision_date": "20240517",
+  "promulgation_no": "24",
+  "promulgation_date": "20250214",
+  "enforcement_date": "20250214",
+  "revision_date": "20250214",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립문화유산연구원(행정운영과)",
-    "담당자명": "전선영",
+    "담당자명": "김지현",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국립문화유산연구원 포상에 관한 규정",
-    "발령일자": "20240517",
+    "발령일자": "20250214",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,17 +29,17 @@
     "소관부처코드": "1833100",
     "생성일자": "20250217",
     "행정규칙ID": "2088530",
-    "시행일자": "20240517",
-    "담당부서기관코드": "1550318",
-    "발령번호": "8",
-    "행정규칙일련번호": "2100000241092",
+    "시행일자": "20250214",
+    "담당부서기관코드": "1833130",
+    "발령번호": "24",
+    "행정규칙일련번호": "2100000254642",
     "상위부처명": "국가유산청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 「국가유산기본법」제정 및「정부조직법」개정 등에 따라 제명 및 용어 등을 변경하는 등 국립문화재연구원 소관의 행정규칙(예규, 지침, 훈령)을 국가유산체제에 맞게 일괄 정비하려는 것임\n◇ 주요 내용\n○ 법률 제ㆍ개정 사항을 반영하여 제명, 용어 등 변경\n- 문화재 → 국가유산 등\n- 문화재청 → 국가유산청\n- 국립문화재연구원 → 국립문화유산연구원 등\n○ 어려운 용어의 정비 등",
+  "revision_reason": "◇ 제ㆍ개정 이유\n가. 재검토기한(일몰제) 설정\n1) 규정의 실효성에 대한 정기적인 평가 및 현실 적합성 제고를 위해 소관 훈령 국립문화유산연구원 포상에 관한 규정에 재검토기한을 명시하여 정비하려는 것임.\n◇ 주요내용\n(제11조 신설) 위 행정규칙에 ‘재검토기한’ 조문 신설",
   "body": {
     "format": "articles",
-    "article_count": 10,
+    "article_count": 11,
     "articles": [
       {
         "article_no": "제1조",
@@ -150,6 +150,38 @@
         "relations": [],
         "images": [],
         "provision_id": "admrul:국립문화유산연구원포상에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제11조(재검토기한) 국립문화유산연구원장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대해 2025년 2월 14일 기준으로 매3년이 되는 시점(매3년째의 2월 13일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2088530",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립문화유산연구원포상에관한규정#JO0011",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립문화유산연구원포상에관한규정#JO0011"
       }
     ]
   },
@@ -158,48 +190,137 @@
       "promulgation_date": "20140527",
       "promulgation_no": "51",
       "content": "부칙 <제51호,2014. 5. 27.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM"
+      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000254642",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250214"
     },
     {
       "promulgation_date": "20141128",
       "promulgation_no": "56",
       "content": "부칙 <제56호,2014. 11. 28.>이 규정은 2015. 1. 1.부터 시행한다.",
-      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM"
+      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000254642",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250214"
     },
     {
       "promulgation_date": "20171218",
       "promulgation_no": "81",
       "content": "부칙 <제81호,2017. 12. 18.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM"
+      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000254642",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250214"
     },
     {
       "promulgation_date": "20220415",
       "promulgation_no": "128",
       "content": "부칙 <제128호, 2022. 4. 15.>이 규정은 개정한 날부터 시행한다.",
-      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM"
+      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000254642",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250214"
     },
     {
       "promulgation_date": "20240517",
       "promulgation_no": "8",
       "content": "부칙 <제8호, 2024. 5. 17.>이 규정은 개정한 날부터 시행한다.",
-      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM"
+      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000254642",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250214"
+    },
+    {
+      "promulgation_date": "20250214",
+      "promulgation_no": "24",
+      "content": "부칙 <제24호, 2025. 2. 14.>이 훈령은 2025년 2월 14일부터 시행한다.",
+      "provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000254642",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250214"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "(훈령4)조문별제개정이유서(국립문화유산연구원 포상에 관한 규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149126807",
+      "filename": "(훈령4)조문별제개정이유서(국립문화유산연구원 포상에 관한 규정).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(훈령4)조문별제개정이유서(국립문화유산연구원 포상에 관한 규정).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(훈령4)조문별제개정이유서(국립문화유산연구원 포상에 관한 규정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149126803",
+      "filename": "(훈령4)조문별제개정이유서(국립문화유산연구원 포상에 관한 규정).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(훈령4)조문별제개정이유서(국립문화유산연구원 포상에 관한 규정).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(훈령4)「국립문화유산연구원 포상에 관한 규정」전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149126839",
+      "filename": "(훈령4)「국립문화유산연구원 포상에 관한 규정」전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(훈령4)「국립문화유산연구원 포상에 관한 규정」전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(훈령4)「국립문화유산연구원 포상에 관한 규정」전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149126843",
+      "filename": "(훈령4)「국립문화유산연구원 포상에 관한 규정」전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(훈령4)「국립문화유산연구원 포상에 관한 규정」전문.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립문화유산연구원 훈령 13개 일괄개정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149126847",
+      "filename": "국립문화유산연구원 훈령 13개 일괄개정안.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립문화유산연구원 훈령 13개 일괄개정안.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립문화유산연구원 훈령 13개 일괄개정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149126851",
+      "filename": "국립문화유산연구원 훈령 13개 일괄개정안.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립문화유산연구원 훈령 13개 일괄개정안.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 10,
-    "articles_with_relations": 0,
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
+    "articles_total": 11,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 6
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립문화유산연구원 포상에 관한 규정"
@@ -208,5 +329,8 @@
   "addendum_provision_id": "admrul:국립문화유산연구원포상에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립문화유산연구원포상에관한규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립문화유산연구원 포상에 관한 규정/국립문화유산연구원 포상에 관한 규정.json"
 }
