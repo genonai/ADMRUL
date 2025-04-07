@@ -1,25 +1,25 @@
 {
   "law_id": "73416",
-  "mst": "2100000223462",
+  "mst": "2100000257424",
   "law_name": "개인정보보호위원회 고문변호사 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:73416",
-  "promulgation_no": "94",
-  "promulgation_date": "20230515",
-  "enforcement_date": "20230515",
-  "revision_date": "20230515",
+  "promulgation_no": "124",
+  "promulgation_date": "20250407",
+  "enforcement_date": "20250407",
+  "revision_date": "20250407",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "개인정보보호위원회(법무감사담당관)",
-    "담당자명": "노유빈",
+    "담당자명": "김경화",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "개인정보보호위원회 고문변호사 운영규정",
-    "발령일자": "20230515",
+    "발령일자": "20250407",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1790365",
     "생성일자": "20250407",
     "행정규칙ID": "73416",
-    "시행일자": "20230515",
+    "시행일자": "20250407",
     "담당부서기관코드": "1790382",
-    "발령번호": "94",
-    "행정규칙일련번호": "2100000223462",
+    "발령번호": "124",
+    "행정규칙일련번호": "2100000257424",
     "상위부처명": "개인정보보호위원회"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n연임 규정 개정을 통해 활동 실적이 우수한 고문변호사의 지속적 활동을 보장하고 고문변호사 운영의 안정성을 확보하고자 함.\n\n◇ 주요내용\n가. 연임 제한 폐지(안 제3조제2항)\n- 1회 연임제한 규정을 폐지하여 법률 자문의 안정성을 확보",
+  "amendment_text": "⊙개인정보보호위원회훈령 제124호\n개인정보보호위원회 고문변호사 운영규정 일부를 다음과 같이 개정한다.\n2025년 4월 7일\n개인정보보호위원회위원장\n개인정보보호위원회 고문변호사 운영규정 일부개정훈령\n개인정보보호위원회 고문변호사 운영규정 일부를 다음과 같이 개정한다.\n제7조에 제3항을 다음과 같이 신설한다.\n③ 심도 깊은 검토가 필요하거나, 장기간 검토한 필요한 사안인 경우 법무감사담당관과 협의하여 법률자문 계약을 체결할 수 있고 예산의 범위 안에서 비용을 지급할 수 있다.\n부칙\n이 영은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n심도 깊은 자문이 필요하거나 장기간 검토가 필요한 사안인 경우 법률자문 계약이 가능하도록 규정 개정\n◇ 주요내용\n○ 법률자문 계약 체결 가능 조항 신설",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -70,7 +70,48 @@
         "chapter_path": "",
         "content": "제3조(위촉) ① 위원장은 공개모집의 절차 또는 내ㆍ외부의 추천을 받아 위원회 업무와 관련하여 식견과 경험이 있는 변호사를 위원회 고문변호사로 위촉할 수 있다.② 위촉기간은 2년으로 연임할 수 있다. 다만, 고문변호사의 사임 등으로 새로 위촉된 자의 위촉기간은 전임 변호사의 남은 위촉기간으로 한다.③ 고문변호사를 재위촉하고자 하는 경우에는 고문실적, 고문만족도 등을 고려하여야 하고, 제1항의 공개모집 절차를 생략할 수 있다.④ 「변호사법」 제90조의 정직 이상의 징계처분을 받고 그 처분이 종료된 후 2년이 경과하지 아니한 경우 제1항의 고문변호사로 위촉될 수 없다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "「변호사법」",
+            "line_text": "",
+            "target_law_name": "변호사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "73416",
+            "target_url": "https://www.law.go.kr/법령/변호사법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0003",
+            "reference_id": "law:변호사법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "변호사법/법률/변호사법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "제90조",
+            "line_text": "",
+            "target_law_name": "변호사법",
+            "target_article_no": "제90조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "73416",
+            "target_url": "https://www.law.go.kr/법령/변호사법/제90조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0003",
+            "reference_id": "law:변호사법#JO0090",
+            "target_repo": "LAW",
+            "target_git_path_guess": "변호사법/법률/변호사법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0003"
       },
@@ -81,7 +122,28 @@
         "chapter_path": "",
         "content": "제4조(해촉) 위원장은 고문변호사에게 다음 각 호의 어느 하나에 해당하는 사유가 생겼다고 판단하는 때에는 해촉할 수 있다.1. 제2조 각 호에 따른 직무를 정당한 사유 없이 해태하거나 기피한 때2. 위원회와 관련된 쟁송사건의 상대방을 위한 행위를 한 때3. 변호사로서의 품위를 손상하거나 사회적 물의를 야기한 때4. 고문만족도 등을 평가한 결과 고문실적, 성실도, 업무수행능력 등이 부족하다고 인정되는 때5. 그 밖에 정상적인 업무수행이 불가능한 때",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "개인정보보호위원회 고문변호사 운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "73416",
+            "target_url": "https://www.law.go.kr/행정규칙/개인정보보호위원회 고문변호사 운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0004",
+            "reference_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "개인정보보호위원회 고문변호사 운영규정/개인정보보호위원회 고문변호사 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0004"
       },
@@ -112,9 +174,30 @@
         "article_title": "자문료 및 보수 지급",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(자문료 및 보수 지급) ① 고문변호사에 대하여는 예산의 범위 안에서 자문료를 지급할 수 있다.② 소송대리변호사에게는 예산의 범위 안에서 「변호사 보수 규정」(법무부훈령)을 준용하여 보수를 지급할 수 있다.",
+        "content": "제7조(자문료 및 보수 지급) ① 고문변호사에 대하여는 예산의 범위 안에서 자문료를 지급할 수 있다.② 소송대리변호사에게는 예산의 범위 안에서 「변호사 보수 규정」(법무부훈령)을 준용하여 보수를 지급할 수 있다.③ 심도 깊은 검토가 필요하거나, 장기간 검토한 필요한 사안인 경우 법무감사담당관과 협의하여 법률자문 계약을 체결할 수 있고 예산의 범위 안에서 비용을 지급할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "「변호사 보수 규정」",
+            "line_text": "",
+            "target_law_name": "변호사 보수 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "73416",
+            "target_url": "https://www.law.go.kr/행정규칙/변호사 보수 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0007",
+            "reference_id": "admrul:변호사보수규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "변호사 보수 규정/변호사 보수 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0007"
       },
@@ -125,7 +208,28 @@
         "chapter_path": "",
         "content": "제8조(협의) 고문변호사에게 제2조 각 호의 사항에 관하여 자문을 받고자 하는 경우에는 법무감사담당관과 협의하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "개인정보보호위원회 고문변호사 운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "73416",
+            "target_url": "https://www.law.go.kr/행정규칙/개인정보보호위원회 고문변호사 운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0008",
+            "reference_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "개인정보보호위원회 고문변호사 운영규정/개인정보보호위원회 고문변호사 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#JO0008"
       },
@@ -158,36 +262,109 @@
       "promulgation_date": "20200805",
       "promulgation_no": "12",
       "content": "부칙 <제12호, 2020. 8. 5.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(경과조치) 이 훈령 시행 당시 위촉 또는 선임된 변호사는 이 훈령에 따라 위촉 또는 선임된 것으로 본다.",
-      "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM"
+      "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000257424",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250407"
     },
     {
       "promulgation_date": "20210610",
       "promulgation_no": "58",
       "content": "부칙 <제58호, 2021. 6. 10.>제1조(시행일)  이 훈령은 발령한 날부터 시행한다.제2조(경과조치) 이 훈령 시행 당시 위촉 또는 선임된 변호사는 이 훈령에 따라 위촉 또는 선임된 것으로 본다.`",
-      "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM"
+      "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000257424",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250407"
     },
     {
       "promulgation_date": "20220503",
       "promulgation_no": "76",
       "content": "부칙 <제76호, 2022. 5. 3.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(경과조치) 이 훈령 시행 당시 위촉 또는 선임된 변호사는 이 훈령에 따라 위촉 또는 선임된 것으로 본다.",
-      "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM"
+      "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000257424",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250407"
+    },
+    {
+      "promulgation_date": "20250407",
+      "promulgation_no": "124",
+      "content": "부칙 <제124호, 2025. 4. 7.>이 영은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000257424",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250407"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "개정본문 (개인정보보호위원회 고문변호사 운영규정 일부개정훈령안 20250325).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150784161",
+      "filename": "개정본문 (개인정보보호위원회 고문변호사 운영규정 일부개정훈령안 20250325).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정본문 (개인정보보호위원회 고문변호사 운영규정 일부개정훈령안 20250325).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "제개정 이유서 (개인정보보호위원회 고문변호사 운영규정 일부개정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150792395",
+      "filename": "제개정 이유서 (개인정보보호위원회 고문변호사 운영규정 일부개정).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/제개정 이유서 (개인정보보호위원회 고문변호사 운영규정 일부개정).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "제개정 이유서 (개인정보보호위원회 고문변호사 운영규정 일부개정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150792399",
+      "filename": "제개정 이유서 (개인정보보호위원회 고문변호사 운영규정 일부개정).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/제개정 이유서 (개인정보보호위원회 고문변호사 운영규정 일부개정).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "규제심사 비대상 확인증.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150792403",
+      "filename": "규제심사 비대상 확인증.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/규제심사 비대상 확인증.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "규제심사 비대상 확인증.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150792407",
+      "filename": "규제심사 비대상 확인증.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/규제심사 비대상 확인증.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "internal_ref": 2
+    },
     "articles_total": 10,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 4
+    "attachments_count": 5
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/개인정보보호위원회 고문변호사 운영규정"
@@ -196,5 +373,8 @@
   "addendum_provision_id": "admrul:개인정보보호위원회고문변호사운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:개인정보보호위원회고문변호사운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "개인정보보호위원회 고문변호사 운영규정/개인정보보호위원회 고문변호사 운영규정.json"
 }
