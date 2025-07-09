@@ -1,25 +1,25 @@
 {
   "law_id": "2049838",
-  "mst": "2100000252580",
+  "mst": "2100000261630",
   "law_name": "산림교육원 교육훈련 평가규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2049838",
-  "promulgation_no": "77",
-  "promulgation_date": "20250102",
-  "enforcement_date": "20250102",
-  "revision_date": "20250102",
+  "promulgation_no": "83",
+  "promulgation_date": "20250709",
+  "enforcement_date": "20250709",
+  "revision_date": "20250709",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "산림교육원(교육기획과)",
-    "담당자명": "김정민",
+    "담당자명": "이승환",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "산림교육원 교육훈련 평가규정",
-    "발령일자": "20250102",
+    "발령일자": "20250709",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1400000",
     "생성일자": "20250710",
     "행정규칙ID": "2049838",
-    "시행일자": "20250102",
-    "담당부서기관코드": "1400643",
-    "발령번호": "77",
-    "행정규칙일련번호": "2100000252580",
+    "시행일자": "20250709",
+    "담당부서기관코드": "1400824",
+    "발령번호": "83",
+    "행정규칙일련번호": "2100000261630",
     "상위부처명": "산림청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n산림교육원 교육과정 교육생의 교육성과를 측정하기 위하여 실시하는 평가와 관련하여 나타난 일부 미비점을 개선ㆍ보완하려는 것임\n◇ 주요내용\n가. 제명을 산림교육원 연수평가규정에서 산림교육원 교육훈련 평가규정으로 변경\n나. 평가의 종류, 평가기준 및 방법, 배점 비율, 기타 필요한 사항 등을 포함한 평가계획을 수립하는 규정 신설(제3조)\n다. 평가의 종류, 평가 방법 및 요령을 개정(제4조)\n라. 교육생이 부득이한 사유로 평가에 참여하지 못하였을 경우 추가 평가할 수 있는 사유 및 방법을 개정(제10조)\n마. 그 밖에 평가를 실시하는 교육과정 운영 현실과 부합하지 않는 규정을 개정",
+  "revision_reason": "◇ 제ㆍ개정 이유\n산림교육원 교육평가에 따른 상장 수여 대상자 결정과 관련하여 나타난 일부 미비점을 개선ㆍ보완하려는 것임\n◇ 주요내용\n가. (기존) 성적 동점자의 경우 ① 학습ㆍ실습평가 성적, ② 자치활동 공로, ③ 생년월일(연장자) 순서에 따라 수상 우선순위를 결정(제16조)\n나. (개선) ③ 생년월일(연장자)을 삭제하여 공정성 강화하는 한편, ①, ② 기준을 적용하였음에도 우선순위가 결정되지 않은 경우 동점자 모두를 수상 대상자로 결정하도록 허용(제16조제5호 삭제)\n* 「국가공무원인재개발원 학칙」(인재개발원 훈령)에서도 기준을 적용하고 우선순위가 결정되지 않은 경우 동점자 모두에게 수여 허용\n* 산림청 운영지원과 의견조회 결과 : 의견 없음",
   "body": {
     "format": "articles",
     "article_count": 25,
@@ -114,7 +114,28 @@
         "chapter_path": "",
         "content": "제7조(평가문제의 보안 및 출제) 부서장은 제6조에 따라 담당 강사가 작성 제출한 문제를 시건장치가 있는 문서함에 보관하여야 하며 평가 실시 1일 전까지 평가문제를 선정ㆍ출제하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "산림교육원 교육훈련 평가규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2049838",
+            "target_url": "https://www.law.go.kr/행정규칙/산림교육원 교육훈련 평가규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산림교육원교육훈련평가규정#JO0007",
+            "reference_id": "admrul:산림교육원교육훈련평가규정#JO0006",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "산림교육원 교육훈련 평가규정/산림교육원 교육훈련 평가규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:산림교육원교육훈련평가규정#JO0007"
       },
@@ -211,7 +232,7 @@
         "article_title": "수상 순위",
         "chapter": "",
         "chapter_path": "",
-        "content": "제16조(수상 순위) 평가 성적이 동점일 경우 다음 순위에 따라 상장 수여 대상자를 결정한다.1. 학습평가 성적이 우수한자2. 삭제3. 실습평가 성적이 우수한자4. 자치활동에 공이 많은 자(과정대표, 총무, 분임장 순)5. 연장자(주민등록상 생년월일이 빠른 자)",
+        "content": "제16조(수상 순위) 평가 성적이 동점일 경우 다음 순위에 따라 상장 수여 대상자를 결정한다. 단, 이 규정을 적용하고도 동점일 경우에는 동점자 모두를 상장 수여 대상자로 결정할 수 있다.1. 학습평가 성적이 우수한자2. 삭제3. 실습평가 성적이 우수한자4. 자치활동에 공이 많은 자(과정대표, 총무, 분임장 순)5. 삭제",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -312,7 +333,28 @@
         "chapter_path": "",
         "content": "제25조(재검토기한) 산림교육원장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2025년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2049838",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산림교육원교육훈련평가규정#JO0025",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:산림교육원교육훈련평가규정#JO0025"
       }
@@ -323,42 +365,92 @@
       "promulgation_date": "20120126",
       "promulgation_no": "35",
       "content": "부칙 <제35호,2012. 1. 26.>이 규정은 2012. 1. 26. 부터 시행한다.",
-      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM"
+      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000261630",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20221222",
       "promulgation_no": "67",
       "content": "부칙 <제67호, 2022. 12. 22.>이 규정은 2022. 12. 22. 부터 시행한다.",
-      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM"
+      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000261630",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20230223",
       "promulgation_no": "70",
       "content": "부칙 <제70호, 2023. 2. 23.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM"
+      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000261630",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20250102",
       "promulgation_no": "77",
       "content": "부칙 <제77호, 2025. 1. 2.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM"
+      "provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000261630",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "예규 제83호 산림교육원 교육훈련 평가규정 일부개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=154276911",
+      "filename": "예규 제83호 산림교육원 교육훈련 평가규정 일부개정전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/예규 제83호 산림교육원 교육훈련 평가규정 일부개정전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙(산림교육원 교육훈련 평가규정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=154306781",
+      "filename": "조문별제개정이유서_행정규칙(산림교육원 교육훈련 평가규정).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_행정규칙(산림교육원 교육훈련 평가규정).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙(산림교육원 교육훈련 평가규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=154306785",
+      "filename": "조문별제개정이유서_행정규칙(산림교육원 교육훈련 평가규정).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_행정규칙(산림교육원 교육훈련 평가규정).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 1,
+      "citation": 1
+    },
     "articles_total": 25,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 4
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/산림교육원 교육훈련 평가규정"
@@ -367,5 +459,8 @@
   "addendum_provision_id": "admrul:산림교육원교육훈련평가규정#ADDENDUM",
   "amendment_provision_id": "admrul:산림교육원교육훈련평가규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "산림교육원 교육훈련 평가규정/산림교육원 교육훈련 평가규정.json"
 }
