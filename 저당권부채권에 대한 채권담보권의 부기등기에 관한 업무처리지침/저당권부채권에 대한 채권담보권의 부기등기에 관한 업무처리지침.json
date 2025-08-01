@@ -1,42 +1,42 @@
 {
   "law_id": "2111443",
-  "mst": "2200000101913",
+  "mst": "2200000107677",
   "law_name": "저당권부채권에 대한 채권담보권의 부기등기에 관한 업무처리지침",
   "law_abbr": "",
   "law_type": "등기예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111443",
-  "promulgation_no": "1741-1",
-  "promulgation_date": "20220418",
-  "enforcement_date": "20220421",
-  "revision_date": "20220418",
+  "promulgation_no": "1858",
+  "promulgation_date": "20250724",
+  "enforcement_date": "20250801",
+  "revision_date": "20250724",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대법원(대법원)",
     "담당자명": "",
     "행정규칙종류코드": "B0014",
     "행정규칙명": "저당권부채권에 대한 채권담보권의 부기등기에 관한 업무처리지침",
-    "발령일자": "20220418",
+    "발령일자": "20250724",
     "행정규칙종류": "등기예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "",
+    "소관부처명": "대법원",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
     "생성일자": "20250801",
     "행정규칙ID": "2111443",
-    "시행일자": "20220421",
+    "시행일자": "20250801",
     "담당부서기관코드": "",
-    "발령번호": "1741-1",
-    "행정규칙일련번호": "2200000101913",
+    "발령번호": "1858",
+    "행정규칙일련번호": "2200000107677",
     "상위부처명": "대법원"
   },
-  "amendment_text": "저당권부채권에 대한 채권담보권의 부기등기에 관한 업무처리지침",
-  "revision_reason": "1. 개정이유\n○ 담보권설정자가 기존 상호등기를 한 사람에서 사업자등록을 한 사람으로 변경ㆍ확대되는 내용의 「동산ㆍ채권 등의 담보에 관한 법률」이 2022. 4. 21. 시행됨에 따라 담보등기 사무에 필요한 사항을 반영하기 위함\n2. 주요내용\n○ 동산ㆍ채권의 담보등기에 관한 사무처리지침(2022. 04. 18. 개정, 2022. 04. 21. 시행) 부칙 제2호에 의하여, 본 예규 제2조 중 “상업등기법에 따라 상호등기를 한 사람”을 “「부가가치세법」에 따라 사업자등록을 한 사람”으로 개정함",
+  "amendment_text": "저당권부채권에 대한 채권담보권의 부기등기에 관한 업무처리지침 일부를 다음과 같이 개정한다.\n본문생략\n부   칙\n제1조(시행일) 이 예규는 2025년 8월 1일부터 시행한다.\n제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
+  "revision_reason": "1. 개정이유\n○ 「등기사항증명서 등 수수료규칙」의 개정으로 등기신청수수료 관련 규정이 일부 수정 및 신설됨에 따라 이를 해당 예규에 반영함\n2. 주요내용\n○ 「등기사항증명서 등 수수료규칙」 제5조의2제4항 본문에 해당하는 부동산등기의 경우, 등기신청수수료를 매 부동산마다 4천원으로 함(제5조)",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -90,7 +90,7 @@
         "article_title": "등록면허세 등",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조 (등록면허세 등) ① 채권담보권의 부기등기를 신청하는 경우에는 매 1건당 3천 원에 해당하는 등록면허세를 납부하고, 매 부동산별로 3,000원에 해당하는 등기신청수수료를 납부하여야 한다.② 채권담보권의 부기등기를 신청하는 경우에 국민주택채권은 매입하지 아니한다.",
+        "content": "제5조 (등록면허세 등) ① 채권담보권의 부기등기를 신청하는 경우에는 매 1건당 6천원에 해당하는 등록면허세를 납부하고, 매 부동산별로 4천원에 해당하는 등기신청수수료를 납부하여야 한다.② 채권담보권의 부기등기를 신청하는 경우에 국민주택채권은 매입하지 아니한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -118,35 +118,128 @@
         "images": [],
         "provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#JO0007"
       }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「부가가치세법」",
+        "line_text": "",
+        "target_law_name": "부가가치세법",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2111443",
+        "target_url": "https://www.law.go.kr/법령/부가가치세법",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#DOC",
+        "reference_id": "law:부가가치세법#DOC",
+        "target_repo": "LAW",
+        "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「동산ㆍ채권 등의 담보에 관한 법률」",
+        "line_text": "",
+        "target_law_name": "동산ㆍ채권 등의 담보에 관한 법률",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2111443",
+        "target_url": "https://www.law.go.kr/법령/동산ㆍ채권 등의 담보에 관한 법률",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#DOC",
+        "reference_id": "law:동산채권등의담보에관한법률#DOC",
+        "target_repo": "LAW",
+        "target_git_path_guess": "동산ㆍ채권 등의 담보에 관한 법률/법률/동산ㆍ채권 등의 담보에 관한 법률.json"
+      }
     ]
   },
   "addenda": [
     {
+      "promulgation_date": "20250724",
+      "promulgation_no": "1858",
+      "content": "부   칙(2025. 7. 24. 제1858호)제1조(시행일) 이 예규는 2025년 8월 1일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
+      "provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000107677",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250801"
+    },
+    {
       "promulgation_date": "99991231",
       "promulgation_no": "9998",
       "content": "부   칙(2022. 4. 18. 제1741-1호)제1조(시행일) 이 예규는 2022년 4월 21일부터 시행한다.제2조(다른 예규의 개정) 「저당권부채권에 대한 채권담보권의 부기등기에 관한 업무처리지침」(등기예규 제1462호) 일부를 다음과 같이 개정한다.제2조 중 “상업등기법에 따라 상호등기를 한 사람”을 “「부가가치세법」에 따라 사업자등록을 한 사람”으로 한다.",
-      "provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#ADDENDUM"
+      "provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000107677",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250801"
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9999",
       "content": "부   칙이 예규는 2012. 6. 11.부터 시행한다.",
-      "provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#ADDENDUM"
+      "provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000107677",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250801"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "기타",
+      "title": "[별지]",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154874043",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154874043",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#ETC0001",
+      "filename": "기타1_[별지].hwp",
+      "file_dir": "기타",
+      "local_path": "기타/기타1_[별지].hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 7,
     "articles_with_relations": 0,
-    "unmatched_relations": 0,
+    "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -157,5 +250,8 @@
   "addendum_provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#ADDENDUM",
   "amendment_provision_id": "admrul:저당권부채권에대한채권담보권의부기등기에관한업무처리지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "저당권부채권에 대한 채권담보권의 부기등기에 관한 업무처리지침/저당권부채권에 대한 채권담보권의 부기등기에 관한 업무처리지침.json"
 }
