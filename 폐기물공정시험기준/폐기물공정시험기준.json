@@ -1,25 +1,25 @@
 {
   "law_id": "58432",
-  "mst": "2100000245210",
+  "mst": "2100000263068",
   "law_name": "폐기물공정시험기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:58432",
-  "promulgation_no": "2024-42",
-  "promulgation_date": "20240805",
-  "enforcement_date": "20240805",
-  "revision_date": "20240805",
+  "promulgation_no": "2025-21",
+  "promulgation_date": "20250806",
+  "enforcement_date": "20250806",
+  "revision_date": "20250806",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립환경과학원(자원순환연구과)",
     "담당자명": "전다래",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "폐기물공정시험기준",
-    "발령일자": "20240805",
+    "발령일자": "20250806",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "032-560-7515",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20250808",
+    "생성일자": "20250819",
     "행정규칙ID": "58432",
-    "시행일자": "20240805",
+    "시행일자": "20250806",
     "담당부서기관코드": "1480523",
-    "발령번호": "2024-42",
-    "행정규칙일련번호": "2100000245210",
+    "발령번호": "2025-21",
+    "행정규칙일련번호": "2100000263068",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 폐기물관리법과 시험기준의 유해물질 목록을 일치시키고 시료채취 등 일부 내용을 명확히 개선하여 사용자 이해도를 높임\n◇ 주요내용\n[그림]\n\n",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 폐기물 분야 공정시험기준의 운영상 나타난 미비점 검토를 통해 시험기준의 실효성 제고\n◇ 주요내용\n○ 시료 보존방법, 배양조건 등 세부 설명 추가를 통한 표현 명확화\n- 용출 용액의 보관을 위한 방법 및 분석기한에 대한 표현 명확화(ES 06351.1a)\n- 마이크로웨이브 멸균분쇄시설 표준지표생물 추가 및 배양 온도 명확화(ES 06701.1b)\n○ 시약 제조시 시약 혼합 비율 오류 개정\n- 다이클로로메탄(150 ml)과 헥산(850 ml)의 혼합 비율 수정(ES 06501.1b)\n○ 고형물 비율 계산식 수정 및 표준화 지침에 따른 숫자 표기 등 세부사항 수정(ES 06900.1a 등)",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -65,7 +65,32 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "조문별 제·개정 이유서.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=155617923",
+      "filename": "조문별 제·개정 이유서.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 제·개정 이유서.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별 제·개정 이유서.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=155617919",
+      "filename": "조문별 제·개정 이유서.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 제·개정 이유서.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "폐기물공정시험기준 전문(250806, pdf).zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=155595801",
+      "filename": "폐기물공정시험기준 전문(250806, pdf).zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/폐기물공정시험기준 전문(250806, pdf).zip",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -87,5 +112,8 @@
   "addendum_provision_id": "admrul:폐기물공정시험기준#ADDENDUM",
   "amendment_provision_id": "admrul:폐기물공정시험기준#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "폐기물공정시험기준/폐기물공정시험기준.json"
 }
