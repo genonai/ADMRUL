@@ -1,25 +1,25 @@
 {
   "law_id": "2085525",
-  "mst": "2100000204239",
+  "mst": "2100000264094",
   "law_name": "이북5도 등 행정자문위원회 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2085525",
-  "promulgation_no": "169",
-  "promulgation_date": "20210901",
-  "enforcement_date": "20210901",
-  "revision_date": "20210901",
+  "promulgation_no": "177",
+  "promulgation_date": "20250911",
+  "enforcement_date": "20250911",
+  "revision_date": "20250911",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "이북5도위원회(총무과)",
-    "담당자명": "심정은",
+    "담당자명": "신찬용",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "이북5도 등 행정자문위원회 규정",
-    "발령일자": "20210901",
+    "발령일자": "20250911",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1741000",
     "생성일자": "20250912",
     "행정규칙ID": "2085525",
-    "시행일자": "20210901",
-    "담당부서기관코드": "1741116",
-    "발령번호": "169",
-    "행정규칙일련번호": "2100000204239",
+    "시행일자": "20250911",
+    "담당부서기관코드": "1741386",
+    "발령번호": "177",
+    "행정규칙일련번호": "2100000264094",
     "상위부처명": "행정안전부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n- 위원 본인이 일신상의 이유 등으로 위촉의 해제를 희망하는 경우나 위원으로서 의무를 성실히 수행하지 않는 경우 등 위원회 활동에 지장을 주는 상황 발생시 도지사가 위원을 해촉할 수 있는 근거 조항을 신설하여 원활한 위원회 운영을 도모하려는 것임\n\n◇ 주요내용\n가. 원에 의한 해촉 등 위원의 해촉 조항을 신설하여 원활한 위원회 운영을 도모함(제4조의 2)\n나. 종전의 비밀준수의무 위반에 의한 해촉 조항은 신설 조항(제4조의2)과 중복되어 해당 내용 삭제하도록 함(제12조 제2항 삭제)",
+  "amendment_text": "⊙이북5도위원회훈령 제177호\n이북5도 등 행정자문위원회 규정 일부를 다음과 같이 개정한다.\n2025년 9월 11일\n이북5도위원회위원장\n이북5도 등 행정자문위원회 규정 일부개정훈령\n이북5도 등 행정자문위원회 규정 일부를 다음과 같이 개정한다.\n제8조제1항 및 제2항을 각각 다음과 같이 한다.\n① 자문위원회는 위원장을 포함하여 12명 내외의 위원으로 구성한다.\n② 자문위원은 각 도 자문위원회의 위원장 및 부위원장과 미수복 시ㆍ군 자문위원회의 위원장으로 한다.\n제9조제2항 각 호 외의 부분 중 \"자문위원회 위원장\"을 \"자문위원회위원장\"으로 하고, 같은 조 제4항 중 \"자문위원회회의\"를 \"자문위원회 회의\"로 한다.\n부칙\n이 영은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 이북5도위원회 행정자문위원회 효율적이고 체계적인 운영을 위하여 위원 구성 방식을 구체화함.\n\n◇ 주요내용\n가. 이북5도위원회 행정자문위원회의 구성 및 인원 변경(안 제8조)",
   "body": {
     "format": "articles",
     "article_count": 14,
@@ -70,7 +70,48 @@
         "chapter_path": "제2장 도 행정자문위원회",
         "content": "제3조(기능) 「이북5도 등에 관한 특별조치법」 제4조에 규정된 중요시책과 기타 각 도의 운영에 필요한 사항에 관하여 각 도지사의 자문에 응한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「이북5도 등에 관한 특별조치법」",
+            "line_text": "",
+            "target_law_name": "이북5도 등에 관한 특별조치법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2085525",
+            "target_url": "https://www.law.go.kr/법령/이북5도 등에 관한 특별조치법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:이북5도등행정자문위원회규정#JO0003",
+            "reference_id": "law:이북5도등에관한특별조치법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "이북5도 등에 관한 특별조치법/법률/이북5도 등에 관한 특별조치법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "이북5도 등에 관한 특별조치법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2085525",
+            "target_url": "https://www.law.go.kr/법령/이북5도 등에 관한 특별조치법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:이북5도등행정자문위원회규정#JO0003",
+            "reference_id": "law:이북5도등에관한특별조치법#JO0004",
+            "target_repo": "LAW",
+            "target_git_path_guess": "이북5도 등에 관한 특별조치법/법률/이북5도 등에 관한 특별조치법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:이북5도등행정자문위원회규정#JO0003"
       },
@@ -125,7 +166,48 @@
         "chapter_path": "제3장 이북5도위원회 행정자문위원회",
         "content": "제7조(기능) 「이북5도 등에 관한 특별조치법」제4조에 규정된 중요시책과 다음 각 호의 사항에 대하여 위원장의 자문에 응한다.1. 이북5도위원회의 기본정책에 관한 사항2. 이북5도위원회의 장 ㆍ 단기 발전계획에 관한 사항3. 새로운 정책 및 행정개선에 관한 사항4. 기타 위원장이 부의하는 사항",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「이북5도 등에 관한 특별조치법」",
+            "line_text": "",
+            "target_law_name": "이북5도 등에 관한 특별조치법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2085525",
+            "target_url": "https://www.law.go.kr/법령/이북5도 등에 관한 특별조치법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:이북5도등행정자문위원회규정#JO0007",
+            "reference_id": "law:이북5도등에관한특별조치법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "이북5도 등에 관한 특별조치법/법률/이북5도 등에 관한 특별조치법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "이북5도 등에 관한 특별조치법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2085525",
+            "target_url": "https://www.law.go.kr/법령/이북5도 등에 관한 특별조치법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:이북5도등행정자문위원회규정#JO0007",
+            "reference_id": "law:이북5도등에관한특별조치법#JO0004",
+            "target_repo": "LAW",
+            "target_git_path_guess": "이북5도 등에 관한 특별조치법/법률/이북5도 등에 관한 특별조치법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:이북5도등행정자문위원회규정#JO0007"
       },
@@ -134,7 +216,7 @@
         "article_title": "구성",
         "chapter": "제3장 이북5도위원회 행정자문위원회",
         "chapter_path": "제3장 이북5도위원회 행정자문위원회",
-        "content": "제8조(구성) ① 자문위원회는 87명 이내로 한다.② 위원은 위원장과 각 도지사가 위촉한 위원으로 구성한다.",
+        "content": "제8조(구성) ① 자문위원회는 위원장을 포함하여 12명 내외의 위원으로 구성한다.② 자문위원은 각 도 자문위원회의 위원장 및 부위원장과 미수복 시ㆍ군 자문위원회의 위원장으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -145,7 +227,7 @@
         "article_title": "운영",
         "chapter": "제3장 이북5도위원회 행정자문위원회",
         "chapter_path": "제3장 이북5도위원회 행정자문위원회",
-        "content": "제9조(운영) ① 자문위원회 회의는 연 1회 이상 개최한다.② 자문위원회위원장과 부위원장은 다음의 순위에 의하되, 해당 도 자문위원회 위원장으로 하며 임기 1년으로 한다.1. 위원장 순위: 평안남도, 평안북도, 함경남도, 함경북도, 황해도2. 부위원장 순위: 평안북도, 함경남도, 함경북도, 황해도, 평안남도③ 자문위원회위원장은 위원장의 요청에 의해 회의를 소집하고 그 의장이 되며, 부위원장은 위원장 유고 시 그 직무를 대행한다.④ 자문위원회회의는 재적위원 과반수의 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.⑤ 자문위원회를 개최하였을 때에는 회의록을 작성하고 그 결과를 이북5도위원회에 제출하여야 한다.⑥ 위원장은 자문 등에 관하여 관련 분야의 전문가 의견을 들을 수 있다.",
+        "content": "제9조(운영) ① 자문위원회 회의는 연 1회 이상 개최한다.② 자문위원회위원장과 부위원장은 다음의 순위에 의하되, 해당 도 자문위원회위원장으로 하며 임기 1년으로 한다.1. 위원장 순위: 평안남도, 평안북도, 함경남도, 함경북도, 황해도2. 부위원장 순위: 평안북도, 함경남도, 함경북도, 황해도, 평안남도③ 자문위원회위원장은 위원장의 요청에 의해 회의를 소집하고 그 의장이 되며, 부위원장은 위원장 유고 시 그 직무를 대행한다.④ 자문위원회 회의는 재적위원 과반수의 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.⑤ 자문위원회를 개최하였을 때에는 회의록을 작성하고 그 결과를 이북5도위원회에 제출하여야 한다.⑥ 위원장은 자문 등에 관하여 관련 분야의 전문가 의견을 들을 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -202,48 +284,97 @@
       "promulgation_date": "20091111",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호,2009. 11. 11.>제1조(시행일) 이 규정은 공포한 날로부터 시행한다. 다만, 제5조제4항은 2010. 1. 1.부터 시행한다.제2조(특례조치) 종전 규정에 의해 위촉된 행정자문위원의 임기는 2010. 12. 31.까지로 한다.",
-      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM"
+      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000264094",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250911"
     },
     {
       "promulgation_date": "20151222",
       "promulgation_no": "114",
       "content": "부칙 <제114호,2015. 12. 22.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM"
+      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000264094",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250911"
     },
     {
       "promulgation_date": "20161123",
       "promulgation_no": "125",
       "content": "부칙 <제125호,2016. 11. 23.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM"
+      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000264094",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250911"
     },
     {
       "promulgation_date": "20181224",
       "promulgation_no": "160",
       "content": "부칙 <제160호,2018. 12. 24.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM"
+      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000264094",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250911"
     },
     {
       "promulgation_date": "20210901",
       "promulgation_no": "169",
       "content": "부칙 <제169호, 2021. 9. 1.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM"
+      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000264094",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250911"
+    },
+    {
+      "promulgation_date": "20250911",
+      "promulgation_no": "177",
+      "content": "부칙 <제177호, 2025. 9. 11.>이 영은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000264094",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250911"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "이북5도 등 행정자문위원회 규정 일부개정훈령(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=156248191",
+      "filename": "이북5도 등 행정자문위원회 규정 일부개정훈령(전문).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/이북5도 등 행정자문위원회 규정 일부개정훈령(전문).hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
     "articles_total": 14,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/이북5도 등 행정자문위원회 규정"
@@ -252,5 +383,8 @@
   "addendum_provision_id": "admrul:이북5도등행정자문위원회규정#ADDENDUM",
   "amendment_provision_id": "admrul:이북5도등행정자문위원회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "이북5도 등 행정자문위원회 규정/이북5도 등 행정자문위원회 규정.json"
 }
