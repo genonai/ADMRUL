@@ -1,26 +1,26 @@
 {
   "law_id": "84465",
-  "mst": "2100000219026",
+  "mst": "2100000270402",
   "law_name": "국립과천과학관 식당운영위원회 운영규정",
   "law_abbr": "",
-  "law_type": "규칙",
+  "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:84465",
-  "promulgation_no": "175",
-  "promulgation_date": "20160516",
-  "enforcement_date": "20160516",
-  "revision_date": "20160516",
+  "promulgation_no": "309",
+  "promulgation_date": "20250925",
+  "enforcement_date": "20251001",
+  "revision_date": "20250925",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립과천과학관(경영기획과)",
-    "담당자명": "김선자",
-    "행정규칙종류코드": "B0011",
+    "담당자명": "김병곤",
+    "행정규칙종류코드": "B0002",
     "행정규칙명": "국립과천과학관 식당운영위원회 운영규정",
-    "발령일자": "20160516",
-    "행정규칙종류": "규칙",
+    "발령일자": "20250925",
+    "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "국립과천과학관",
@@ -29,14 +29,14 @@
     "소관부처코드": "1721000",
     "생성일자": "20251227",
     "행정규칙ID": "84465",
-    "시행일자": "20160516",
+    "시행일자": "20251001",
     "담당부서기관코드": "1725893",
-    "발령번호": "175",
-    "행정규칙일련번호": "2100000219026",
+    "발령번호": "309",
+    "행정규칙일련번호": "2100000270402",
     "상위부처명": "과학기술정보통신부"
   },
   "amendment_text": "",
-  "revision_reason": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n법제처 행정규칙 개선의견 통보에 따라 차별문구 수정\n◇ 주요내용\nㅇ 식당운영위원회의 위원장 부재시 ‘연장자’ 대리조항을 ‘위원장이 지명한 위원’으로 변경",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -46,7 +46,7 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 규정은 국립과천과학관의 식당, 커피숍, 편의점 등 식음시설에 대한 시설이용자들의 만족도 제고와 운영 품질제고를 위하여 식당운영위원회(이하 \"위원회\"라고 한다)를 둔다. <개정 2016.05.16.>",
+        "content": "제1조(목적) 이 규정은 국립과천과학관의 식당, 커피숍, 편의점 등 식음시설에 대한  시설이용자들의 만족도 제고와 운영 품질제고를 위하여 식당운영위원회(이하 \"위원회\"라고 한다)를 둔다. <개정 2016.05.16.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -90,9 +90,30 @@
         "article_title": "위원회의 운영",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조 (위원회의 운영) ① 위원장은 식음시설과 관련한 중요사안이 발생하거나, 위원 또는 간사가 위원장에게 요청한 경우 위원회를 소집한다. <개정 2016.05.16.>② 위원회의 회의는 재적위원 과반수 이상의 출석으로 개의하고 출석위원 과반수 이상의 찬성으로 의결하며, 가부동수의 경우에는 부결된 것으로 본다.③ 위원회를 개최할 시간적 여유가 없는 긴급한 사정이 있는 경우에는 서면으로 의결하게 할 수 있다.④ 위원장이 해외출장 또는 유고 등으로 회의를 주재하지 못할 경우, 제2조제1항에 해당하는 위원 중 연장자 순으로 위원장을 대리한다.",
+        "content": "제5조 (위원회의 운영) ① 위원장은 식음시설과 관련한 중요사안이 발생하거나, 위원 또는 간사가 위원장에게 요청한 경우 위원회를 소집한다. <개정 2016.05.16.>② 위원회의 회의는 재적위원 과반수 이상의 출석으로 개의하고 출석위원 과반수 이상의 찬성으로 의결하며, 가부동수의 경우에는 부결된 것으로 본다.③ 위원회를 개최할 시간적 여유가 없는 긴급한 사정이 있는 경우에는 서면으로 의결하게 할 수 있다.④ 위원장이 해외출장 또는 유고 등으로 회의를 주재하지 못할 경우, 제2조제1항에 해당하는 위원 중 위원장이 지명한 위원이 직무를 대행한다. <개정 2025.09.25.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "제2조제1항",
+            "line_text": "",
+            "target_law_name": "국립과천과학관 식당운영위원회 운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "84465",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과천과학관 식당운영위원회 운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과천과학관식당운영위원회운영규정#JO0005",
+            "reference_id": "admrul:국립과천과학관식당운영위원회운영규정#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립과천과학관 식당운영위원회 운영규정/국립과천과학관 식당운영위원회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립과천과학관식당운영위원회운영규정#JO0005"
       },
@@ -147,24 +168,42 @@
       "promulgation_date": "20160516",
       "promulgation_no": "175",
       "content": "부칙 <제175호, 2016. 5. 16.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립과천과학관식당운영위원회운영규정#ADDENDUM"
+      "provision_id": "admrul:국립과천과학관식당운영위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000270402",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251001"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "12. 식당운영위원회 운영규정【개정 2025.09.25. 제309호】.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=159671393",
+      "filename": "12. 식당운영위원회 운영규정【개정 2025.09.25. 제309호】.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/12. 식당운영위원회 운영규정【개정 2025.09.25. 제309호】.hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립과천과학관 식당운영위원회 운영규정"
@@ -173,5 +212,8 @@
   "addendum_provision_id": "admrul:국립과천과학관식당운영위원회운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립과천과학관식당운영위원회운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립과천과학관 식당운영위원회 운영규정/국립과천과학관 식당운영위원회 운영규정.json"
 }
