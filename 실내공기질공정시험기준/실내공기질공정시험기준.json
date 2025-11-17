@@ -1,25 +1,25 @@
 {
   "law_id": "58428",
-  "mst": "2100000253582",
+  "mst": "2100000267784",
   "law_name": "실내공기질공정시험기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:58428",
-  "promulgation_no": "2024-70",
-  "promulgation_date": "20241230",
-  "enforcement_date": "20241230",
-  "revision_date": "20241230",
+  "promulgation_no": "2025-46",
+  "promulgation_date": "20251117",
+  "enforcement_date": "20251117",
+  "revision_date": "20251117",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립환경과학원(생활환경연구과)",
     "담당자명": "전다래",
     "행정규칙종류코드": "B0003",
-    "행정규칙명": "실내공기질공정시험기준 ",
-    "발령일자": "20241230",
+    "행정규칙명": "실내공기질공정시험기준",
+    "발령일자": "20251117",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1482000",
     "생성일자": "20251117",
     "행정규칙ID": "58428",
-    "시행일자": "20241230",
-    "담당부서기관코드": "1480523",
-    "발령번호": "2024-70",
-    "행정규칙일련번호": "2100000253582",
+    "시행일자": "20251117",
+    "담당부서기관코드": "1482330",
+    "발령번호": "2025-46",
+    "행정규칙일련번호": "2100000267784",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 실내공기질 분야 공정시험기준의 운영상 나타난 미비점 검토를 통해 시험기준의 실효성 제고\n◇ 주요내용\n[그림]\n",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 실내공기질 분야 공정시험기준의 적용기준 명확화를 통한 시험방법의 일관성 및 신뢰성 제고\n◇ 주요내용\n○ (시험결과의 표시방법) KS Q 5002(데이터의 통계적 기술)의 유효숫자의 4사5입 맺음법(4.2.2.2)에 따라 시험결과 표시 명확화(ES 02000.c)\n○ (시료채취 위치선정) 연면적 10,000 m2 초과 다중이용시설 내 식당가의 공동 식사공간은 시료채취 위치에 반드시 포함(ES 02130.g)\n○ (시험방법의 적용범위) 「표면가공 목질판상제품의 오염물질 방출여부 확인시험 인정단위 및 건축자재의 표지 부착 등에 관한 지침」에 따라 시료 부하율이 오차범위 내에 들어오도록 시험편 제작(ES 02131.1g)",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -65,7 +65,16 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "실내공기질공정시험기준 전문(251117 개정).zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=158119411",
+      "filename": "실내공기질공정시험기준 전문(251117 개정).zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/실내공기질공정시험기준 전문(251117 개정).zip",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -78,7 +87,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 0,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/실내공기질공정시험기준"
@@ -87,5 +96,8 @@
   "addendum_provision_id": "admrul:실내공기질공정시험기준#ADDENDUM",
   "amendment_provision_id": "admrul:실내공기질공정시험기준#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "실내공기질공정시험기준/실내공기질공정시험기준.json"
 }
