@@ -1,25 +1,25 @@
 {
   "law_id": "58431",
-  "mst": "2100000263066",
+  "mst": "2100000269152",
   "law_name": "먹는물수질공정시험기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:58431",
-  "promulgation_no": "2025-22",
-  "promulgation_date": "20250806",
-  "enforcement_date": "20250806",
-  "revision_date": "20250806",
+  "promulgation_no": "2025-48",
+  "promulgation_date": "20251208",
+  "enforcement_date": "20251208",
+  "revision_date": "20251208",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립환경과학원(수질이화학-물이용연구과)",
     "담당자명": "전다래",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "먹는물수질공정시험기준",
-    "발령일자": "20250806",
+    "발령일자": "20251208",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1482000",
     "생성일자": "20251208",
     "행정규칙ID": "58431",
-    "시행일자": "20250806",
-    "담당부서기관코드": "1480523",
-    "발령번호": "2025-22",
-    "행정규칙일련번호": "2100000263066",
+    "시행일자": "20251208",
+    "담당부서기관코드": "1482330",
+    "발령번호": "2025-48",
+    "행정규칙일련번호": "2100000269152",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 먹는물수질 분야 공정시험기준의 운영상 나타난 미비점 검토를 통해 시험기준의 실효성 제고\n◇ 주요내용\n○ 자외선/가시선 분광법의 분석기기 및 보정 내용 내정\n- 세제, 페놀류 등 5개 항목의 분석기기에 대한 내용 통일(ES 05309.1f 등)\n- 연속흐름법의 바탕선 들뜸 보정시료에 대한 내용 수정(ES 05309.2c 등)\n○ 시험방법의 정도보증/정도관리 등 내용 개정\n- 탁도 시험법의 정밀도, 정확도 항목 추가(ES 05308.1f)\n- 잔류염소(DPD 분광법) 정량한계 목표 값 상향 조정(0.02 mg/L→0.05 mg/L)\n- 색도(색도계법)의 검정곡선 작성 내용 추가(ES 05305.2b)\n○ 기타\n- 시료채취와 보존방법 합리적으로 개선(ES 05601.1g 등)\n- 맛 시험방법의 주의사항 추가(ES05034.1d)\n- 공정시험기준 통일성을 위해 용어 수정(ES 05353.2d, ES 05357.1e 등)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 미생물 분야 공정시험기준의 운영상 나타난 미비점 검토를 통해 시험기준의 실효성 제고 및 이해관계자의 이해도 향상\n◇ 주요내용\n○ 중온일반세균-건조필름법(ES 05702.2) 신설\n○ 먹는샘물, 먹는해양심층수 등(24±2)시간, 그외 수돗물을 포함한 먹는물(48±2)시간으로 배양시간 명확화(ES 05702.1)\n○ 분원성대장균군-시험관법에서는 막여과 추정시험이 불가하여 총대장균군 막여과법 내용 삭제(ES 05704.1)\n○ 자동화된 집략계수기 등 분석기기 및 참고문헌 최신화(ES 05701.1 등)",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -65,7 +65,16 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "먹는물수질공정시험기준 전문(251208 개정).zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=158820913",
+      "filename": "먹는물수질공정시험기준 전문(251208 개정).zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/먹는물수질공정시험기준 전문(251208 개정).zip",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -78,7 +87,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 0,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/먹는물수질공정시험기준"
@@ -87,5 +96,8 @@
   "addendum_provision_id": "admrul:먹는물수질공정시험기준#ADDENDUM",
   "amendment_provision_id": "admrul:먹는물수질공정시험기준#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "먹는물수질공정시험기준/먹는물수질공정시험기준.json"
 }
