@@ -1,25 +1,25 @@
 {
   "law_id": "2083899",
-  "mst": "2100000217435",
+  "mst": "2100000269768",
   "law_name": "중앙소방학교 의무소방원 및 사회복무요원 사감근무규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2083899",
-  "promulgation_no": "277",
-  "promulgation_date": "20221230",
-  "enforcement_date": "20221230",
-  "revision_date": "20221230",
+  "promulgation_no": "297",
+  "promulgation_date": "20251210",
+  "enforcement_date": "20251216",
+  "revision_date": "20251210",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "중앙소방학교(교육훈련과)",
     "담당자명": "최태일",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "중앙소방학교 의무소방원 및 사회복무요원 사감근무규정",
-    "발령일자": "20221230",
+    "발령일자": "20251210",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "041-840-6801",
     "제개정구분명": "일부개정",
     "소관부처코드": "1661000",
-    "생성일자": "20251226",
+    "생성일자": "20251229",
     "행정규칙ID": "2083899",
-    "시행일자": "20221230",
-    "담당부서기관코드": "1661013",
-    "발령번호": "277",
-    "행정규칙일련번호": "2100000217435",
+    "시행일자": "20251216",
+    "담당부서기관코드": "1661011",
+    "발령번호": "297",
+    "행정규칙일련번호": "2100000269768",
     "상위부처명": "소방청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 「중앙소방학교 의무소방원 및 사회복무요원 사감근무규정」에 대한 존속기한(유효기간)을 3년의 범위로 설정하여 행정규칙을 재검토하고 실효성을 확보하고자 함.\n◇ 주요내용\n○ 유효기간 개정(제14조)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 훈령의 유효기간이 도래하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 유효기간을 연장하려는 것임.\n\n◇ 주요내용\n가. 훈령의 유효기간을 2028년 12월 31까지로 함",
   "body": {
     "format": "articles",
     "article_count": 14,
@@ -180,7 +180,33 @@
         "chapter_path": "",
         "content": "제13조(근무보고) 사감은 근무 중 발생한 사실에 대하여 이를 별지 제1호서식에 기록 유지하고 교육훈련과장에게 보고하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "중앙소방학교 의무소방원 및 사회복무요원 사감근무규정",
+            "target_article_no": "별지1",
+            "target_article_title": "사감 근무일지(제13조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2083899",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159787099",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#JO0013",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "중앙소방학교 의무소방원 및 사회복무요원 사감근무규정/중앙소방학교 의무소방원 및 사회복무요원 사감근무규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#JO0013"
       },
@@ -189,9 +215,30 @@
         "article_title": "유효기간",
         "chapter": "",
         "chapter_path": "",
-        "content": "제14조(유효기간) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2025년 12월 31일까지 효력을 가진다.",
+        "content": "제14조(유효기간) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2028년 12월 31일까지 효력을 가진다.[전문개정]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2083899",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#JO0014",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#JO0014"
       }
@@ -202,36 +249,110 @@
       "promulgation_date": "20141223",
       "promulgation_no": "177",
       "content": "부칙 <제177호,2014. 12. 23.>이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM"
+      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269768",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251216"
     },
     {
       "promulgation_date": "20170220",
       "promulgation_no": "205",
       "content": "부칙 <제205호,2017. 2. 20.>이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM"
+      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269768",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251216"
     },
     {
       "promulgation_date": "20200416",
       "promulgation_no": "253",
       "content": "부칙 <제253호,2020. 4. 16.>이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM"
+      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269768",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251216"
     },
     {
       "promulgation_date": "20221230",
       "promulgation_no": "277",
       "content": "부칙 <제277호, 2022. 12. 30.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM"
+      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269768",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251216"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "사감 근무일지(제13조 관련)",
+      "enforcement_date": "",
+      "content": "■ 중앙소방학교 의무소방원 및 사회복무요원 사감근무규정 [별지 제1호서식]\n사감 근무일지(제13조 관련)\n○ 기 ○○○반\n┌─┬───┬───┬───┬─┬────┬──────┬────┐\n│사│계 급 │성 명 │서 명 │결│교육대장│교육훈련과장│학 교 장│\n│감├───┼───┼───┤재├────┼──────┼────┤\n│  │      │      │      │  │        │전 결       │        │\n│  ├───┼───┼───┤  │        │            │        │\n│  │      │      │      │  │        │            │        │\n├─┴───┴───┴───┴─┴────┴──────┴────┤\n│                                                                │\n│  20  년  월  일  요일 09:00 ∼  월  일  요일  09:00            │\n│                                                                │\n├────────────────────────────────┤\n│인 원 관 리 상 황                                               │\n├───┬───┬───┬────────────────────┤\n│총 원 │사 고 │현재원│사고내용                                │\n├───┼───┼───┼────────────────────┤\n│      │      │      │                                        │\n└───┴───┴───┴────────────────────┘\n┌─────┬─────┐\n│교육실시  │ 1. 일시 :│\n│          │ 2. 장소 :│\n│          │ 3. 내용 :│\n│          │          │\n│          │          │\n└─────┴─────┘\n┌──────┬──────┐\n│특 이 사 항 │조 치 사 항 │\n├──────┼──────┤\n│            │            │\n└──────┴──────┘\n210㎜×297㎜(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159787099",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159787095",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159787099",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#BJ0001",
+      "filename": "별지1_사감 근무일지(제13조 관련).hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_사감 근무일지(제13조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "8. 개정본문 (중앙소방학교 의무소방원 및 사회복무요원 사감근무규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=159787079",
+      "filename": "8. 개정본문 (중앙소방학교 의무소방원 및 사회복무요원 사감근무규정).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/8. 개정본문 (중앙소방학교 의무소방원 및 사회복무요원 사감근무규정).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "8. 개정본문 (중앙소방학교 의무소방원 및 사회복무요원 사감근무규정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=159787075",
+      "filename": "8. 개정본문 (중앙소방학교 의무소방원 및 사회복무요원 사감근무규정).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/8. 개정본문 (중앙소방학교 의무소방원 및 사회복무요원 사감근무규정).hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 1,
+      "citation": 1
+    },
     "articles_total": 14,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -246,5 +367,8 @@
   "addendum_provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#ADDENDUM",
   "amendment_provision_id": "admrul:중앙소방학교의무소방원및사회복무요원사감근무규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "중앙소방학교 의무소방원 및 사회복무요원 사감근무규정/중앙소방학교 의무소방원 및 사회복무요원 사감근무규정.json"
 }
