@@ -1,25 +1,25 @@
 {
   "law_id": "60334",
-  "mst": "2100000260890",
+  "mst": "2100000269346",
   "law_name": "국립공주병원 사무분장 규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:60334",
-  "promulgation_no": "454",
-  "promulgation_date": "20250718",
-  "enforcement_date": "20250718",
-  "revision_date": "20250718",
+  "promulgation_no": "481",
+  "promulgation_date": "20251231",
+  "enforcement_date": "20251231",
+  "revision_date": "20251231",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립공주병원(기획운영과)",
-    "담당자명": "남정우",
+    "담당자명": "남동진",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립공주병원 사무분장 규정",
-    "발령일자": "20250718",
+    "발령일자": "20251231",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,17 +29,17 @@
     "소관부처코드": "1352000",
     "생성일자": "20251231",
     "행정규칙ID": "60334",
-    "시행일자": "20250718",
+    "시행일자": "20251231",
     "담당부서기관코드": "1352285",
-    "발령번호": "454",
-    "행정규칙일련번호": "2100000260890",
+    "발령번호": "481",
+    "행정규칙일련번호": "2100000269346",
     "상위부처명": "보건복지부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n병원 및 일부 부서의 사업 조정을 통해 병원 운영의 효율성을 제고하고자 함\n◇ 주요내용\n1) 정신건강사업과 분장 사항 중 충청권트라우마센터 관련 사항을 별도 조문 신설을 통해 구체화(안 제6조 7항 및 안 제6조의1)\n2) 약제과 분장 사항 중 의약외품 관련 사항을 삭제하고 의약품 보관관리로 용어 변경(안 제7조)",
+  "amendment_text": "⊙국립공주병원 예규 제481호\n국립공주병원 사무분장규정을 다음과 같이 개정한다.\n2025년 12월 31일\n국립공주병원장\n국립공주병원 사무분장규정 일부개정\n제5조의2를 삭제한다.\n부칙\n제1조(시행일) 이 예규는 2025년 12월 31일부터 시행한다.",
+  "revision_reason": "◇ 개정이유 및 주요내용\n사무분장규정 제5조의2에 근거한 전략기획실이 전략기획 T/F 운영계획에 근거한 T/F 사무국으로 ’25. 11. 19.에 근거가 변경됨에 따라, 사무분장규정 제5조의2(전략기획실)를 삭제하여 사무분장규정을 현행화 하고자 함",
   "body": {
     "format": "articles",
-    "article_count": 11,
+    "article_count": 10,
     "articles": [
       {
         "article_no": "제1조",
@@ -48,7 +48,28 @@
         "chapter_path": "제1장 총 칙",
         "content": "제1조(목적) 이 규정은 「국립공주병원 기본운영규정」에 규정된 국립공주병원의 각 과 및 기타 부서의 관장사무를 세부적으로 분장함으로써 효율적인 업무수행과 행정체계를 확립함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국립공주병원 기본운영규정」",
+            "line_text": "",
+            "target_law_name": "국립공주병원 기본운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "60334",
+            "target_url": "https://www.law.go.kr/행정규칙/국립공주병원 기본운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립공주병원사무분장규정#JO0001",
+            "reference_id": "admrul:국립공주병원기본운영규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립공주병원 기본운영규정/국립공주병원 기본운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립공주병원사무분장규정#JO0001"
       },
@@ -95,17 +116,6 @@
         "relations": [],
         "images": [],
         "provision_id": "admrul:국립공주병원사무분장규정#JO0005"
-      },
-      {
-        "article_no": "제5조의2",
-        "article_title": "전략기획실",
-        "chapter": "제2장 기 획 운 영 과",
-        "chapter_path": "제2장 기 획 운 영 과",
-        "content": "제5조의2(전략기획실) 원장 직속으로 전략기획실을 두고 실장은 의료부 과장중 원장이 지정하는 자가 겸하며, 실장을 보조하기 위하여 팀장을 두고 다음 사항을 분장한다.1. 장ㆍ단기 사업계획의 수립2. 병원 경영 목표 설정 및 평가3. 책임운영기관 운영계획 수립 및 조정ㆍ평가4. 성과관리 및 총액인건비제도 관련5. 홍보계획 수립 및 시행6. 인터넷을 통한 병원홍보 및 홍보물ㆍ간행물 발간7. 언론사 대응 및 보도자료 배포ㆍ수집ㆍ분석8. 조직ㆍ직제 및 정원에 관한 사항9. 병원장 부속실의 관리",
-        "enforcement_date": "",
-        "relations": [],
-        "images": [],
-        "provision_id": "admrul:국립공주병원사무분장규정#JO0005_02"
       },
       {
         "article_no": "제6조",
@@ -169,72 +179,149 @@
       "promulgation_date": "20170221",
       "promulgation_no": "323",
       "content": "부칙 <제323호,2017. 2. 21.>이 규정은 2017년 2월 21일부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20171109",
       "promulgation_no": "336",
       "content": "부칙 <제336호,2017. 11. 9.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20181213",
       "promulgation_no": "347",
       "content": "부칙 <제347호,2018. 12. 13.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20200217",
       "promulgation_no": "362",
       "content": "부칙 <제362호,2020. 2. 17.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20210318",
       "promulgation_no": "370",
       "content": "부칙 <제370호, 2021. 3. 18.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20210423",
       "promulgation_no": "372",
       "content": "부칙 <제372호, 2021. 4. 23.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20211126",
       "promulgation_no": "383",
       "content": "부칙 <제383호, 2021. 11. 26.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20230504",
       "promulgation_no": "427",
       "content": "부칙 <제427호, 2023. 5. 4.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     },
     {
       "promulgation_date": "20250718",
       "promulgation_no": "454",
       "content": "부칙 <제454호, 2025. 7. 18.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM"
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
+    },
+    {
+      "promulgation_date": "20251231",
+      "promulgation_no": "481",
+      "content": "부칙 <제481호, 2025. 12. 31.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269346",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251231"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "251208 국립공주병원 사무분장규정 개정전문(예규 제481호¸ '25.12.31. 시행)v2.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=158933377",
+      "filename": "251208 국립공주병원 사무분장규정 개정전문(예규 제481호¸ '25.12.31. 시행)v2.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/251208 국립공주병원 사무분장규정 개정전문(예규 제481호¸ '25.12.31. 시행)v2.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "251208 국립공주병원 사무분장규정 개정전문(예규 제481호¸ '25.12.31. 시행)v2.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=158933381",
+      "filename": "251208 국립공주병원 사무분장규정 개정전문(예규 제481호¸ '25.12.31. 시행)v2.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/251208 국립공주병원 사무분장규정 개정전문(예규 제481호¸ '25.12.31. 시행)v2.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 11,
-    "articles_with_relations": 0,
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
+    "articles_total": 10,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 9,
+    "addenda_count": 10,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립공주병원 사무분장 규정"
@@ -243,5 +330,8 @@
   "addendum_provision_id": "admrul:국립공주병원사무분장규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립공주병원사무분장규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립공주병원 사무분장 규정/국립공주병원 사무분장 규정.json"
 }
