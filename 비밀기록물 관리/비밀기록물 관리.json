@@ -1,42 +1,42 @@
 {
   "law_id": "2060167",
-  "mst": "2100000215547",
+  "mst": "2100000273332",
   "law_name": "비밀기록물 관리",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2060167",
-  "promulgation_no": "2021-6",
-  "promulgation_date": "20211228",
-  "enforcement_date": "20220103",
-  "revision_date": "20211228",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "2025-10",
+  "promulgation_date": "20251226",
+  "enforcement_date": "20260101",
+  "revision_date": "20251226",
+  "revision_type": "타법개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국가기록원(특수기록과)",
-    "담당자명": "김미향",
+    "담당자명": "이재진",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "비밀기록물 관리 ",
-    "발령일자": "20211228",
+    "발령일자": "20251226",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "국가기록원",
     "전화번호": "042-481-1787",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "타법개정",
     "소관부처코드": "1741000",
     "생성일자": "20260121",
     "행정규칙ID": "2060167",
-    "시행일자": "20220103",
-    "담당부서기관코드": "1741589",
-    "발령번호": "2021-6",
-    "행정규칙일련번호": "2100000215547",
+    "시행일자": "20260101",
+    "담당부서기관코드": "1741070",
+    "발령번호": "2025-10",
+    "행정규칙일련번호": "2100000273332",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n- 「보안업무규정」및 그 시행규칙의 개정사항(20년,21년)을 반영하기 위하여 해당표준 개정 추진\n\n◇ 주요내용\n가. 처리과에서 (특수)기록관으로 이관하는 비밀기록물 유형별(일반문서로 재분류, 비밀보호기간이 만료된 경우 등) ‘이관 시 조치사항’ 등을 구분하여 작성함\n나. 「공공기록물 관리에 관한 법률」시행규칙의 별지 제12호 서식에 근거하여 변경된 비밀기록물 생산현황통보 항목 등을 반영함",
+  "revision_reason": "◇ 개정 이유\n- 「NAK 1 기록물관리 표준의 서식과 작성방법(국가기록원 고시)」개정에 따른 서식 일괄 변경\n◇ 주요내용\n가. 표지(뒷면)의 표준 제ㆍ개정 정보, 소관ㆍ총괄부서 정보의 기재 방식 개선 및 서식 변경\n나. 표준 명칭(공공표준→기록물관리 표준) 및 사전 심의 전문위원회(기록정책전문위원회→각 소관 전문위원회) 변경",
   "body": {
     "format": "articles",
     "article_count": 0,
@@ -44,7 +44,16 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "NAK 17 2021(v1.3) 비밀기록물 관리.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161080165",
+      "filename": "NAK 17 2021(v1.3) 비밀기록물 관리.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/NAK 17 2021(v1.3) 비밀기록물 관리.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -57,7 +66,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 0,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/비밀기록물 관리"
@@ -66,5 +75,8 @@
   "addendum_provision_id": "admrul:비밀기록물관리#ADDENDUM",
   "amendment_provision_id": "admrul:비밀기록물관리#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "비밀기록물 관리/비밀기록물 관리.json"
 }
