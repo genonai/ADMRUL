@@ -1,42 +1,42 @@
 {
   "law_id": "2060166",
-  "mst": "2100000215546",
+  "mst": "2100000273322",
   "law_name": "한시 및 폐지기관 기록관리",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2060166",
-  "promulgation_no": "2021-6",
-  "promulgation_date": "20211228",
-  "enforcement_date": "20220103",
-  "revision_date": "20211228",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "2025-10",
+  "promulgation_date": "20251226",
+  "enforcement_date": "20260101",
+  "revision_date": "20251226",
+  "revision_type": "타법개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국가기록원(경제기록과)",
-    "담당자명": "김선희",
+    "담당자명": "이재진",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "한시 및 폐지기관 기록관리",
-    "발령일자": "20211228",
+    "발령일자": "20251226",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "국가기록원",
     "전화번호": "042-481-6384",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "타법개정",
     "소관부처코드": "1741000",
     "생성일자": "20260121",
     "행정규칙ID": "2060166",
-    "시행일자": "20220103",
-    "담당부서기관코드": "1741583",
-    "발령번호": "2021-6",
-    "행정규칙일련번호": "2100000215546",
+    "시행일자": "20260101",
+    "담당부서기관코드": "1741070",
+    "발령번호": "2025-10",
+    "행정규칙일련번호": "2100000273322",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n- 「한시기관 기록관리」표준에 폐지기관의 기록관리에 관한 사항을 추가하여 해당표준 개정 추진\n\n◇ 주요내용\n가. 폐지기관의 기록관리에 관한 사항을 추가하여 각 폐지유형(기관통합, 한시기관, 업무 승계기관 유무 등)에 따른 각각의 조치사항을 제시함\n나. 폐지 전까지의 기록관리, 폐지 시 인계인수를 위한 준비사항, 기록물 인계인수, 인계인수 후 조치사항 등 폐지업무 프로세스에 따른 기록관리 기준과 절차를 설명함",
+  "revision_reason": "◇ 개정 이유\n- 「NAK 1 기록물관리 표준의 서식과 작성방법(국가기록원 고시)」개정에 따른 서식 일괄 변경\n◇ 주요내용\n가. 표지(뒷면)의 표준 제ㆍ개정 정보, 소관ㆍ총괄부서 정보의 기재 방식 개선 및 서식 변경\n나. 표준 명칭(공공표준→기록물관리 표준) 및 사전 심의 전문위원회(기록정책전문위원회→각 소관 전문위원회) 변경",
   "body": {
     "format": "articles",
     "article_count": 0,
@@ -44,7 +44,16 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "NAK 15 2021(v2.0) 한시 및 폐지기관 기록관리.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161080217",
+      "filename": "NAK 15 2021(v2.0) 한시 및 폐지기관 기록관리.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/NAK 15 2021(v2.0) 한시 및 폐지기관 기록관리.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -57,7 +66,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 0,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/한시 및 폐지기관 기록관리"
@@ -66,5 +75,8 @@
   "addendum_provision_id": "admrul:한시및폐지기관기록관리#ADDENDUM",
   "amendment_provision_id": "admrul:한시및폐지기관기록관리#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "한시 및 폐지기관 기록관리/한시 및 폐지기관 기록관리.json"
 }
