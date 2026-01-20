@@ -1,25 +1,25 @@
 {
   "law_id": "26911",
-  "mst": "2100000218975",
+  "mst": "2100000273526",
   "law_name": "당직 및 비상근무 내규",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:26911",
-  "promulgation_no": "314",
-  "promulgation_date": "20230207",
-  "enforcement_date": "20230207",
-  "revision_date": "20230207",
+  "promulgation_no": "1509",
+  "promulgation_date": "20260120",
+  "enforcement_date": "20260120",
+  "revision_date": "20260120",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대검찰청(운영지원과)",
-    "담당자명": "안영준",
+    "담당자명": "두형순",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "당직 및 비상근무 내규",
-    "발령일자": "20230207",
+    "발령일자": "20260120",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-3480-2396",
     "제개정구분명": "일부개정",
     "소관부처코드": "1280000",
-    "생성일자": "20260126",
+    "생성일자": "20260428",
     "행정규칙ID": "26911",
-    "시행일자": "20230207",
+    "시행일자": "20260120",
     "담당부서기관코드": "1281252",
-    "발령번호": "314",
-    "행정규칙일련번호": "2100000218975",
+    "발령번호": "1509",
+    "행정규칙일련번호": "2100000273526",
     "상위부처명": "대검찰청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 당직 및 비상근무 내규 개정\n◇ 주요내용\n○ 당직 및 비상근무 내규 개정",
+  "revision_reason": "◇ 개정 이유\n○ 인사혁신처에서「국가공무원 복무규칙」등 개정내용 반영\n◇ 주요내용\n○ 인사혁신처에서「국가공무원 복무규칙」등 개정내용 반영",
   "body": {
     "format": "articles",
     "article_count": 25,
@@ -48,7 +48,28 @@
         "chapter_path": "제1장 총칙",
         "content": "제1조(목적) 이 내규는 「국가공무원 복무규칙」(이하 \"규칙\"이라 한다) 제2절(당직)부터 제4절(연락체계의 유지)의 시행에 필요한 세부절차와 실무지침을 규정함을 목적으로 한다. <개정 2017. 5. 2.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가공무원 복무규칙」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "26911",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:당직및비상근무내규#JO0001",
+            "reference_id": "law:국가공무원복무규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:당직및비상근무내규#JO0001"
       },
@@ -123,7 +144,7 @@
         "article_title": "숙직 근무자의 교대 취침 등",
         "chapter": "제2장 당직근무",
         "chapter_path": "제2장 당직근무",
-        "content": "제8조(숙직 근무자의 교대 취침 등) ① 숙직근무자는 24:00부터 익일 06:00까지 근무에 지장이 없는 범위 내에서 교대 취침할 수 있다. <일부삭제 2003.7.15>② 당직근무자(평일 근무 정보조자는 제외한다)는 그 근무종료시각이 속하는 날(근무종료시각이 속하는 날이 토요일 또는 공휴일인 경우에는 그 다음 정상근무일로부터 토요일 및 공휴일을 제외한 10일째 되는 날까지의 기간 중 1일을 말한다)의 일정 시간 동안 휴무할 수 있다. <신설>③ 전항의 일정 시간은 평일 당직근무의 책임자 (전산 및 통신당직 책임자ㆍ보조자 포함)는 4시간, 부보조자는 7시간, 토요일 또는 공휴일 당직근무의 책임자, 정ㆍ부보조자, 전산 및 통신당직 책임자ㆍ보조자, 행정지원(운전) 당직자는 8시간을 의미한다. <신설>④ 당직근무의 책임자는 그 근무 종료시각에 속하는 날의 근무시간 중 오전(09:00~14:00) 또는 오후(14:00~18:00) 시간을, 부보조자는 그 근무 종료시간에 속하는 날의 근무시간 중 1시간의 범위 내(09:00~10:00)에서 담당자와 대직자에게 당직 업무 및 통상업무 인수인계를 마친 후 그 이후부터 소속 부서장의 승인을 얻어 휴무할 수 있다. 소속부서장은 업무에 지장이 없는 한 승인하여야 한다. <기존 ②항 일부개정>",
+        "content": "제8조(숙직 근무자의 교대 취침 등) ① 숙직근무자는 24:00부터 익일 06:00까지 근무에 지장이 없는 범위 내에서 교대 취침할 수 있다. <일부삭제 2003.7.15>② 당직근무자(평일 근무 정보조자는 제외한다)는 그 근무종료시각이 속하는 날부터 토요일 또는 공휴일을 제외한 10일째 되는 날까지의 기간 중 1일의 일정 시간 동안 휴무할 수 있다. <개정 2026. 1. 20.>③ 전항의 일정 시간은 평일 당직근무의 책임자 (전산 및 통신당직 책임자ㆍ보조자 포함)는 4시간, 부보조자는 7시간, 토요일 또는 공휴일 당직근무의 책임자, 정ㆍ부보조자, 전산 및 통신당직 책임자ㆍ보조자, 행정지원(운전) 당직자는 8시간을 의미한다. <신설>④ 당직근무의 책임자는 그 근무 종료시각에 속하는 날의 근무시간 중 오전(09:00~14:00) 또는 오후(14:00~18:00) 시간을, 부보조자는 그 근무 종료시간에 속하는 날의 근무시간 중 1시간의 범위 내(09:00~10:00)에서 담당자와 대직자에게 당직 업무 및 통상업무 인수인계를 마친 후 그 이후부터 소속 부서장의 승인을 얻어 휴무할 수 있다. 소속부서장은 업무에 지장이 없는 한 승인하여야 한다. <기존 ②항 일부개정>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -255,7 +276,7 @@
         "article_title": "비상소집",
         "chapter": "제3장 비상근무",
         "chapter_path": "제3장 비상근무",
-        "content": "제18조(비상소집) ① 정상근무 시간이 아닌 때에 당직총사령 또는 법무부장관으로부터 비상근무 발령 연락을 받았을 경우에는 당직책임자는 지체없이 검찰총장과 사무국장에게 보고하고, 그 지시에 따라 전 직원이 비상소집 되도록 조치하여야 한다.다만, 비상근무 제3호 또는 4호가 발령된 경우에는 검찰총장의 명에 따라 필요한 인원이 비상소집 되도록 연락 하여야 한다. <내용정비 2011.8.1>② 정상근무 시간이 아닌 때에 검찰총장으로부터 비상근무의 명을 받았을 때에는 사무국장에게 보고한 후 전 직원이 비상소집 되도록 조치하여야 한다.다만, 비상근무 제3호 또는 제4호가 발령된 경우에는 검찰총장의 명에 따라 필요한 인원이 비상소집 되도록 연락 하여야 한다. <내용정비 2011.8.1>③ 대검찰청 당직책임자는 비상소집 조치하였을 때에는 비상근무 발령 접수일시, 사고인원 및 내용 등 비상소집 결과를 집계하여 검찰총장에게 보고하여야 한다. 제1항의 경우에는 각 고ㆍ지검 당직으로부터 위와 같은 내용으로 보고받아 집계하여 검찰총장 및 당직 총사령에게 보고하여야 한다.",
+        "content": "제18조(비상소집) ① 정상근무 시간이 아닌 때에 당직총사령 또는 법무부장관으로부터 비상근무 발령 연락을 받았을 경우에는 당직책임자는 지체없이 검찰총장과 사무국장에게 보고하고, 그 지시에 따라 전 직원이 비상소집 되도록 조치하여야 한다. 다만, 비상근무 제3호 또는 4호가 발령된 경우에는 검찰총장의 명에 따라 필요한 인원이 비상소집 되도록 연락 하여야 한다. <내용정비 2011.8.1>② 정상근무 시간이 아닌 때에 검찰총장으로부터 비상근무의 명을 받았을 때에는 사무국장에게 보고한 후 전 직원이 비상소집 되도록 조치하여야 한다. 다만, 비상근무 제3호 또는 제4호가 발령된 경우에는 검찰총장의 명에 따라 필요한 인원이 비상소집 되도록 연락 하여야 한다. <내용정비 2011.8.1>③ 대검찰청 당직책임자는 비상소집 조치하였을 때에는 비상근무 발령 접수일시, 사고인원 및 내용 등 비상소집 결과를 집계하여 검찰총장에게 보고하여야 한다. 제1항의 경우에는 각 고ㆍ지검 당직으로부터 위와 같은 내용으로 보고받아 집계하여 검찰총장 및 당직 총사령에게 보고하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -323,58 +344,125 @@
       "promulgation_date": "20041028",
       "promulgation_no": "109",
       "content": "부칙 <제109호,2004. 10. 28.>이 내규는 2004. 10. 28.부터 시행한다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM"
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
     },
     {
       "promulgation_date": "20110801",
       "promulgation_no": "164",
       "content": "부칙 <제164호,2011. 8. 1.>① 이 내규는 2011. 8. 1.부터 시행한다.② 이 내규 시행전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM"
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
     },
     {
       "promulgation_date": "20140113",
       "promulgation_no": "185",
       "content": "부칙 <제185호,2014. 1. 13.>① 이 내규는 2014. 1. 13.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM"
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
     },
     {
       "promulgation_date": "20150101",
       "promulgation_no": "195",
       "content": "부칙 <제195호,2015. 1. 1.>① 이 내규는 2015. 1. 1.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM"
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
     },
     {
       "promulgation_date": "20170502",
       "promulgation_no": "220",
       "content": "부칙 <제220호,2017. 5. 2.>① 이 내규는 2017. 5. 8.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM"
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
     },
     {
       "promulgation_date": "20180416",
       "promulgation_no": "234",
-      "content": "부칙 <제234호,2018. 4. 16.>① 이 내규는 2018. 4. 16.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정·부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM"
+      "content": "부칙 <제234호,2018. 4. 16.>① 이 내규는 2018. 4. 16.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
     },
     {
       "promulgation_date": "20230207",
       "promulgation_no": "314",
       "content": "부칙 <제314호, 2023. 2. 7.>① 이 내규는 2023. 2. 7.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.③ 2023. 1. 20.부터 이 내규 개정 전 당직근무자에게 제8조를 소급적용한다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM"
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
+    },
+    {
+      "promulgation_date": "20260120",
+      "promulgation_no": "1509",
+      "content": "부칙 <제1509호, 2026. 1. 20.>① 이 내규는 2026. 1. 20.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.③ 2026. 1. 20.부터 이 내규 개정 전 당직근무자에게 제8조를 소급적용한다.",
+      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273526",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260120"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "(대검훈령 제1509호)당직 및 비상근무 내규.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161167451",
+      "filename": "(대검훈령 제1509호)당직 및 비상근무 내규.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(대검훈령 제1509호)당직 및 비상근무 내규.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(대검훈령 제1509호)당직 및 비상근무 내규.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161167447",
+      "filename": "(대검훈령 제1509호)당직 및 비상근무 내규.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(대검훈령 제1509호)당직 및 비상근무 내규.hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "법령": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
     "articles_total": 25,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 0,
     "attachments_count": 2
   },
@@ -385,5 +473,8 @@
   "addendum_provision_id": "admrul:당직및비상근무내규#ADDENDUM",
   "amendment_provision_id": "admrul:당직및비상근무내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "당직 및 비상근무 내규/당직 및 비상근무 내규.json"
 }
