@@ -1,25 +1,25 @@
 {
   "law_id": "51597",
-  "mst": "2100000253940",
+  "mst": "2100000273508",
   "law_name": "공무원연금 전액정지 대상기관 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:51597",
-  "promulgation_no": "2025-2",
-  "promulgation_date": "20250124",
-  "enforcement_date": "20250124",
-  "revision_date": "20250124",
+  "promulgation_no": "2026-1",
+  "promulgation_date": "20260123",
+  "enforcement_date": "20260123",
+  "revision_date": "20260123",
   "revision_type": "제정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "인사혁신처(연금복지과)",
     "담당자명": "김지수",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "공무원연금 전액정지 대상기관 고시",
-    "발령일자": "20250124",
+    "발령일자": "20260123",
     "행정규칙종류": "고시",
     "제개정구분코드": "200401",
     "조문형식여부": "N",
@@ -29,14 +29,14 @@
     "소관부처코드": "1760000",
     "생성일자": "20260126",
     "행정규칙ID": "51597",
-    "시행일자": "20250124",
+    "시행일자": "20260123",
     "담당부서기관코드": "1760061",
-    "발령번호": "2025-2",
-    "행정규칙일련번호": "2100000253940",
+    "발령번호": "2026-1",
+    "행정규칙일련번호": "2100000273508",
     "상위부처명": "인사혁신처"
   },
-  "amendment_text": "⊙인사혁신처 고시 제2025-2호\n「공무원연금법」제50조제1항제3호부터 제5호 및 같은 법 시행령 제46조 제1항부터 제5항에 따른 공무원연금 전액정지 대상기관을 다음과 같이 고시합니다.\n2025년 1월 24일\n인사혁신처장\n공무원연금 전액정지 대상기관 고시\n[본문 생략]\n부칙\n이 고시는 고시한 날부터 시행한다.",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 연금수급자가 국가 또는 지방자치단체가 전액 출자ㆍ출연한 기관에 채용되어\n- 근로소득금액이 전년도 공무원 전체의 기준소득월액 평균액의 1.6배* 이상인 경우에 해당하면 연금 전액을 지급정지(공무원연금법 제50조제1항)\n* ’25년 근로소득이 ’24년 공무원 전체의 기준소득월액 평균액의 1.6배(883.2만원) 이상일 경우 연금 전액정지, 1.6배 미만일 경우 연금 일부정지(최대1/2)\n○ 공무원연금 전액정지 대상이 되는 기관을 지정하여 매년 1월 25일까지 관보에 고시(공무원연금법 시행령 제46조)",
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 연금수급자가 국가 또는 지방자치단체가 전액 출자ㆍ출연한 기관에 채용되어\n- 근로소득금액이 전년도 공무원 전체의 기준소득월액 평균액의 1.6배* 이상인 경우에 해당하면 연금 전액을 지급정지(공무원연금법 제50조제1항)\n* ’26년 근로소득이 ’25년 공무원 전체의 기준소득월액 평균액의 1.6배(913.6만원) 이상일 경우 연금 전액정지, 1.6배 미만일 경우 연금 일부정지(최대1/2)\n○ 공무원연금 전액정지 대상이 되는 기관을 지정하여 매년 1월 25일까지 관보에 고시(공무원연금법 시행령 제46조)",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -47,12 +47,53 @@
         "chapter": "",
         "content": "□ 「공무원연금법」 제50조제1항제3호~제5호에 따른 국가 또는 지방자치단체가 전액 출자ㆍ출연한 기관[그림][그림][그림][그림][그림][그림][그림][그림][그림]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「공무원연금법」",
+            "line_text": "",
+            "target_law_name": "공무원연금법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "51597",
+            "target_url": "https://www.law.go.kr/법령/공무원연금법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공무원연금전액정지대상기관고시#DOC",
+            "reference_id": "law:공무원연금법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제50조제1항제3호",
+            "line_text": "",
+            "target_law_name": "공무원연금법",
+            "target_article_no": "제50조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "51597",
+            "target_url": "https://www.law.go.kr/법령/공무원연금법/제50조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공무원연금전액정지대상기관고시#DOC",
+            "reference_id": "law:공무원연금법#JO0050",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+          }
+        ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763011",
-            "seq": "148763011",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163723",
+            "seq": "161163723",
             "filename": "전문_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_1.gif",
@@ -60,8 +101,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763013",
-            "seq": "148763013",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163725",
+            "seq": "161163725",
             "filename": "전문_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_2.gif",
@@ -69,8 +110,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763015",
-            "seq": "148763015",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163727",
+            "seq": "161163727",
             "filename": "전문_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_3.gif",
@@ -78,8 +119,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763017",
-            "seq": "148763017",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163729",
+            "seq": "161163729",
             "filename": "전문_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_4.gif",
@@ -87,8 +128,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763059",
-            "seq": "148763059",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163731",
+            "seq": "161163731",
             "filename": "전문_5.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_5.gif",
@@ -96,8 +137,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763061",
-            "seq": "148763061",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163733",
+            "seq": "161163733",
             "filename": "전문_6.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_6.gif",
@@ -105,8 +146,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763063",
-            "seq": "148763063",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163735",
+            "seq": "161163735",
             "filename": "전문_7.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_7.gif",
@@ -114,8 +155,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763065",
-            "seq": "148763065",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163737",
+            "seq": "161163737",
             "filename": "전문_8.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_8.gif",
@@ -123,8 +164,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148763067",
-            "seq": "148763067",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161163739",
+            "seq": "161163739",
             "filename": "전문_9.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_9.gif",
@@ -137,27 +178,53 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20250124",
-      "promulgation_no": "2025-2",
-      "content": "부칙 <제2025-2호, 2025. 1. 24.>이 고시는 고시한 날부터 시행한다.",
-      "provision_id": "admrul:공무원연금전액정지대상기관고시#ADDENDUM"
+      "promulgation_date": "20260123",
+      "promulgation_no": "2026-1",
+      "content": "부칙 <제2026-1호, 2026. 1. 23.>이 고시는 고시한 날부터 시행한다.",
+      "provision_id": "admrul:공무원연금전액정지대상기관고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000273508",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20260123"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "2026년 공무원연금 전액정지 대상기관 관보 고시.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161163717",
+      "filename": "2026년 공무원연금 전액정지 대상기관 관보 고시.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2026년 공무원연금 전액정지 대상기관 관보 고시.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "2026년 공무원연금 전액정지 대상기관 관보 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161163721",
+      "filename": "2026년 공무원연금 전액정지 대상기관 관보 고시.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2026년 공무원연금 전액정지 대상기관 관보 고시.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 1,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/공무원연금 전액정지 대상기관 고시"
@@ -166,5 +233,8 @@
   "addendum_provision_id": "admrul:공무원연금전액정지대상기관고시#ADDENDUM",
   "amendment_provision_id": "admrul:공무원연금전액정지대상기관고시#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "공무원연금 전액정지 대상기관 고시/공무원연금 전액정지 대상기관 고시.json"
 }
