@@ -1,25 +1,25 @@
 {
   "law_id": "24609",
-  "mst": "2100000255792",
+  "mst": "2100000274780",
   "law_name": "조달청 예산성과금 심사위원회 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:24609",
-  "promulgation_no": "2241",
-  "promulgation_date": "20250304",
-  "enforcement_date": "20250304",
-  "revision_date": "20250304",
+  "promulgation_no": "2323",
+  "promulgation_date": "20260123",
+  "enforcement_date": "20260123",
+  "revision_date": "20260123",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "조달청(기획재정담당관)",
-    "담당자명": "윤종현",
+    "담당자명": "이현우",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "조달청 예산성과금 심사위원회 규정",
-    "발령일자": "20250304",
+    "발령일자": "20260123",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1230000",
     "생성일자": "20260220",
     "행정규칙ID": "24609",
-    "시행일자": "20250304",
+    "시행일자": "20260123",
     "담당부서기관코드": "1230384",
-    "발령번호": "2241",
-    "행정규칙일련번호": "2100000255792",
+    "발령번호": "2323",
+    "행정규칙일련번호": "2100000274780",
     "상위부처명": "조달청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n□ 법제처 주관 \"행정규칙 속 어려운 용어 정비계획\" 후속조치에 따른 개정 등\n◇ 주요내용\n가. 어려운 용어 정비(예: 부의 → 회의에 부치는 등)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n정부조직법 개정(`25.10.1.) 및 조달청 직제개정(`26.1.1.) 반영\n\n◇ 주요내용\n① 기획재정부를 소관업무에 따라 기획예산처로 변경\n② 혁신조달기획관 신설에 따라, 심사위원에 혁신조달기획관 포함",
   "body": {
     "format": "articles",
     "article_count": 12,
@@ -48,7 +48,88 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 규정은 「국가재정법」 제49조와 「예산성과금규정」 제13조의 규정에 의하여 조달청의 지출절약과 수입증대 계획의 수립 및 시행, 예산성과금 지급대상자의 선정 등을 심의하기 위하여 필요한 사항을 규정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가재정법」",
+            "line_text": "",
+            "target_law_name": "국가재정법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24609",
+            "target_url": "https://www.law.go.kr/법령/국가재정법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청예산성과금심사위원회규정#JO0001",
+            "reference_id": "law:국가재정법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제49조",
+            "line_text": "",
+            "target_law_name": "국가재정법",
+            "target_article_no": "제49조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24609",
+            "target_url": "https://www.law.go.kr/법령/국가재정법/제49조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청예산성과금심사위원회규정#JO0001",
+            "reference_id": "law:국가재정법#JO0049",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「예산성과금규정」",
+            "line_text": "",
+            "target_law_name": "예산성과금규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24609",
+            "target_url": "https://www.law.go.kr/법령/예산성과금규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청예산성과금심사위원회규정#JO0001",
+            "reference_id": "law:예산성과금규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "예산성과금규정/법률/예산성과금규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "예산성과금규정",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24609",
+            "target_url": "https://www.law.go.kr/법령/예산성과금규정/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청예산성과금심사위원회규정#JO0001",
+            "reference_id": "law:예산성과금규정#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "예산성과금규정/법률/예산성과금규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:조달청예산성과금심사위원회규정#JO0001"
       },
@@ -90,7 +171,7 @@
         "article_title": "구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(구성) ① 위원장은 조달청 차장이 되고 위원은 각 국장, 기획조정관, 신성장조달기획관, 감사담당관, 운영지원과장, 기획재정담당관, 규제개혁법무담당관이 된다.",
+        "content": "제5조(구성) ① 위원장은 조달청 차장이 되고 위원은 각 국장, 기획조정관, 혁신조달기획관, 감사담당관, 운영지원과장, 기획재정담당관, 규제개혁법무담당관이 된다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -167,7 +248,7 @@
         "article_title": "중앙심사의 요청",
         "chapter": "",
         "chapter_path": "",
-        "content": "제11조(중앙심사의 요청) ① 기획재정담당관은 위원회의 심사를 거쳐 의결된 지출절약 또는 수입증대의 사항에 대하여는 기획재정부장관에게 예산성과금의 심사를 요청하여야 한다.② 위원회의 심사 결과 기획재정부의 예산성과금규정 상 심사요청대상에서 제외되는 사항이라도 예산절약의 노력이나 창의성이 있는 사항은 자체 포상 등 자체인센티브 부여 자료로 활용토록 할 수 있다.",
+        "content": "제11조(중앙심사의 요청) ① 기획재정담당관은 위원회의 심사를 거쳐 의결된 지출절약 또는 수입증대의 사항에 대하여는 기획예산처 장관에게 예산성과금의 심사를 요청하여야 한다.② 위원회의 심사 결과 기획예산처의 예산성과금 규정 상 심사요청대상에서 제외되는 사항이라도 예산절약의 노력이나 창의성이 있는 사항은 자체 포상 등 자체인센티브 부여 자료로 활용토록 할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -180,54 +261,148 @@
       "promulgation_date": "20050824",
       "promulgation_no": "1305",
       "content": "부칙 <제1305호,2005. 8. 24.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM"
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274780",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20120307",
       "promulgation_no": "1535",
       "content": "부칙 <제1535호,2012. 3. 7.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM"
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274780",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20160121",
       "promulgation_no": "1729",
       "content": "부칙 <제1729호,2016. 1. 21.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM"
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274780",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20210805",
       "promulgation_no": "2000",
       "content": "부칙 <제2000호, 2021. 8. 5.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM"
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274780",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
+    },
+    {
+      "promulgation_date": "20230123",
+      "promulgation_no": "2323",
+      "content": "부칙 <제2323호, 2023. 1. 23.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274780",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20230721",
       "promulgation_no": "2123",
       "content": "부칙 <제2123호, 2023. 7. 21.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM"
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274780",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20250304",
       "promulgation_no": "2241",
       "content": "부칙 <제2241호, 2025. 3. 4.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM"
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274780",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "예산성과금 재심사 요청서",
+      "enforcement_date": "",
+      "content": "[별지 서식]\n예산성과금 재심사 요청서\n□ ‘00년 제0차 예산성과금 심사\n┏━━━━━━━━┯━━━━━━━━━━━┯━━━┓\n┃요청인          │(소속)                │(성명)┃\n┠────────┼───────────┴───┨\n┃심사일자        │                              ┃\n┠────────┼───────────────┨\n┃심사건명        │                              ┃\n┠────────┼───────────────┨\n┃심사 결과       │                              ┃\n┠────────┼───────────────┨\n┃재심사 요청사유 │                              ┃\n┗━━━━━━━━┷━━━━━━━━━━━━━━━┛\n20  .  .  .\n조달청 기획재정담당관 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161744579",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161744455",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161744579",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:조달청예산성과금심사위원회규정#BJ0000",
+      "filename": "별지0_예산성과금 재심사 요청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지0_예산성과금 재심사 요청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "조달청 예산성과금 심사위원회 규정(조달청훈령 제2323호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161744521",
+      "filename": "조달청 예산성과금 심사위원회 규정(조달청훈령 제2323호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조달청 예산성과금 심사위원회 규정(조달청훈령 제2323호).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "조달청 예산성과금 심사위원회 규정(조달청훈령 제2323호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161744517",
+      "filename": "조달청 예산성과금 심사위원회 규정(조달청훈령 제2323호).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조달청 예산성과금 심사위원회 규정(조달청훈령 제2323호).hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
     "articles_total": 12,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
+    "addenda_count": 7,
     "appendices_count": 1,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/조달청 예산성과금 심사위원회 규정"
@@ -236,5 +411,8 @@
   "addendum_provision_id": "admrul:조달청예산성과금심사위원회규정#ADDENDUM",
   "amendment_provision_id": "admrul:조달청예산성과금심사위원회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "조달청 예산성과금 심사위원회 규정/조달청 예산성과금 심사위원회 규정.json"
 }
