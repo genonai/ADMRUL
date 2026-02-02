@@ -1,25 +1,25 @@
 {
   "law_id": "33573",
-  "mst": "2100000246264",
+  "mst": "2100000274130",
   "law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:33573",
-  "promulgation_no": "2024-40",
-  "promulgation_date": "20240828",
-  "enforcement_date": "20250829",
-  "revision_date": "20240828",
+  "promulgation_no": "2026-2",
+  "promulgation_date": "20260202",
+  "enforcement_date": "20260202",
+  "revision_date": "20260202",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "소방청(소방산업진흥정책과)",
-    "담당자명": "권정희",
+    "담당자명": "김일수",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
-    "발령일자": "20240828",
+    "발령일자": "20260202",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-205-7511",
     "제개정구분명": "일부개정",
     "소관부처코드": "1661000",
-    "생성일자": "20260203",
+    "생성일자": "20260209",
     "행정규칙ID": "33573",
-    "시행일자": "20250829",
-    "담당부서기관코드": "1661076",
-    "발령번호": "2024-40",
-    "행정규칙일련번호": "2100000246264",
+    "시행일자": "20260202",
+    "담당부서기관코드": "1661107",
+    "발령번호": "2026-2",
+    "행정규칙일련번호": "2100000274130",
     "상위부처명": "소방청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 스프링클러헤드의 성능 안정성 향상을 위한 시험기준 규정 등 기술기준을 개선ㆍ보완하려는 것임\n◇ 주요내용\n가. 정수압시험 강화(안 제4조의2)\n나. 주위온도시험 강화(안 제5조)\n다. 가스켓 고온노출 누설시험 강화(안 제5조의 6)\n라. 반사판 강도시험 강화(안 제8조의 2)\n마. 진동시험 강화 및 수격시험 강화(안 제9조 및 제10조)\n바. 응력부식균열시험 및 경사작동시험 신설(안 제11조의2, 제12조의3)\n사. 방수량시험 해외기준 일치화(안 제14조)\n아. 거친사용시험 신설, 최소작동압력시험 신설 및 실화재시험 신설(안 제15조의2, 3, 4)\n자. 열차단성능시험 신설(안 제28조)\n차. 실화재시험장치(별도 16 / 안 제15조의4 관련)\n카. 열차단성능시험장치(별도 17 / 안 제28조 관련)",
+  "revision_reason": "◇ 개정이유\n스프링클러헤드 제조년도 표시방법 개선을 통해 제조업체의 제품 생산 및 관리 효율성을 향상하고 비용 부담을 완화하려는 것임.\n◇ 주요내용\n가. 스프링클러헤드 제조년도 표시방법 개선(안 제12조의6)\n[그림]\n",
   "body": {
     "format": "articles",
     "article_count": 47,
@@ -48,7 +48,48 @@
         "chapter_path": "제1장 공통사항",
         "content": "제1조(목적) 이 기준은 「소방시설 설치 및 관리에 관한 법률」 제37조제5항에서 소방청장에게 위임한 스프링클러헤드의 형식승인 및 제품검사의 기술기준에 관한 사항을 규정함을 목적으로 한다.<개정 2013. 7. 25., 2015. 1. 15., 2017. 12. 28.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소방시설 설치 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제37조제5항",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률/제37조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#JO0037",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0001"
       },
@@ -63,8 +104,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735613",
-            "seq": "143735613",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419331",
+            "seq": "161419331",
             "filename": "제2조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제2조_1.gif",
@@ -72,8 +113,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735665",
-            "seq": "143735665",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419333",
+            "seq": "161419333",
             "filename": "제2조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제2조_2.gif",
@@ -93,8 +134,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735615",
-            "seq": "143735615",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419335",
+            "seq": "161419335",
             "filename": "제3조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제3조_1.gif",
@@ -114,8 +155,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735667",
-            "seq": "143735667",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419337",
+            "seq": "161419337",
             "filename": "제4조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제4조_1.gif",
@@ -142,12 +183,33 @@
         "chapter_path": "제1장 공통사항",
         "content": "제5조(주위온도시험) 폐쇄형헤드는 다음 표에 기재된 표시온도의 구분에 따른 기준시험온도와 표시시험온도 보다 섭씨 15도 낮은 온도중에서 낮은 쪽 온도에 90일간 놓아둔 후 제4조의2에 적합하여야 한다. <개정 2024.8.28.>[그림]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제4조의2",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제4조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제4조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0005",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0004_02",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735669",
-            "seq": "143735669",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419339",
+            "seq": "161419339",
             "filename": "제5조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제5조_1.gif",
@@ -207,7 +269,28 @@
         "chapter_path": "제1장 공통사항",
         "content": "제5조의6(가스켓 고온노출 누설시험) 비금속물질을 이용하여 오리피스를 실링한 헤드는 섭씨 (140 ± 2)(표시온도가 섭씨 75도 이상인 헤드는  최고주위온도에 100을 더한 온도로 한다)도의 항온조건에 45일간 놓아둔 시료를 다시 상온에서 24시간 방치한 후 제4조의2에 적합하여야 한다. <개정 2024.8.28.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조의6",
+            "source_clause": "제5조의6",
+            "link_text": "제4조의2",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제4조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제4조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0005_06",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0004_02",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0005_06"
       },
@@ -262,7 +345,28 @@
         "chapter_path": "제1장 공통사항",
         "content": "제9조(진동시험) 폐쇄형헤드는 전진폭 5밀리미터, 25헤르츠의 진동을 헤드의 축 방향 및 수직 방향으로 각각 3시간 가한 다음\n제4조의2(정수압시험)에 적합하여야 한다.<개정 2024.8.28.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제4조의2",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제4조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제4조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0009",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0004_02",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0009"
       },
@@ -273,7 +377,28 @@
         "chapter_path": "제1장 공통사항",
         "content": "제10조(수격시험) 폐쇄형헤드에 매초 0.35메가파스칼에서 3.5메가파스칼까지의 압력변동을 연속하여 4 000회 가한 후 제4조의2에 적합하여야 한다.<개정 2024.8.28.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제4조의2",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제4조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제4조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0010",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0004_02",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0010"
       },
@@ -282,7 +407,7 @@
         "article_title": "부식시험",
         "chapter": "제1장 공통사항",
         "chapter_path": "제1장 공통사항",
-        "content": "제11조(부식시험) 폐쇄형헤드는 다음 각 호에 적합하여야 한다.1. 폐쇄형헤드는 농도 50퍼센트인 질산수용액에 30초 동안 담그었다가 물로 씻은 다음 농도 리터당 10그램되는 질산수은의 수용액에 30분간 담그어도 균열 또는 파손되지 않아야 한다.2. 폐쇄형헤드는 5리터의 시험기중에 농도 리터당 40그램의 티오황산나트륨 수용액을 500밀리리터 넣고 1규정농도의 황산 156밀리리터를 1,000밀리리터의 물에 용해한 용액을 12시간마다 10밀리리터씩 가하여 발생하는 아황산가스중에 4일간 놓아두어 기능에 이상이 생기지 않아야 한다.3. 비금속물질을 이용하여 오리피스를 실링한 폐쇄형헤드는 다음 각 목의 조건에서 시험한 후, 50킬로파스칼의 시험압력에서 누수 및 작동에 이상이 없어야 한다.<개정 2013. 7. 25.>가. 폐쇄형헤드의 실링재가 탄화수소혼합물에 균일하게 노출되도록 도포하여 72시간 동안 섭씨 (21 ± 5.6)도 조건의 시험장치에 놓아둔 후, 온도는 섭씨 (95 ± 1)도이고, 습도는 (98 ± 2)퍼센트의 조건에 90일간 노출나. 폐쇄형헤드의 실링재가 탄화수소혼합물에 균일하게 노출되도록 도포하여 72시간 동안 섭씨 (21 ± 5.6)도 조건의 시험장치에 놓아둔 후, 1.0메가파스칼의 압력을 가한 상태로 섭씨 (87 ± 2)도의 물속에 90일간 침수다. 폐쇄형헤드의 실링재가 다음과 같은 비율의 부동액에 각각 노출되도록 하여 섭씨 (87 ± 2)도의 조건에 90일간 방치   (1) 디에틸렌 글리콜 60부피퍼센트(Vol%)와 물 40부피퍼센트(Vol%) 혼합물   (2) 에틸렌 글리콜 53부피퍼센트(Vol%)와 물 47부피퍼센트(Vol%) 혼합물   (3) 프로필렌 글리콜 60부피퍼센트(Vol%)와 물 40부피퍼센트(Vol%) 혼합물   (4) 글리세린 70부피퍼센트(Vol%)와 물 30부피퍼센트(Vol%) 혼합물4. O-링 실링재로 사용되는 재료는 KS B 2805(O-링) 9.2.6(부식 및 점착시험)에 따라 섭씨 (70 ± 2)도의 항온조건에 24시간 놓아둔 경우 O-링과 접촉하는 금속을 부식시키거나 점착시키지 않아야 한다.<신설 2010. 7. 26.>",
+        "content": "제11조(부식시험) 폐쇄형헤드는 다음 각 호에 적합하여야 한다.1. 폐쇄형헤드는 농도 50퍼센트인 질산수용액에 30초 동안 담그었다가 물로 씻은 다음 농도 리터당 10그램되는 질산수은의 수용액에 30분간 담그어도 균열 또는 파손되지 않아야 한다.2. 폐쇄형헤드는 5리터의 시험기중에 농도 리터당 40그램의 티오황산나트륨 수용액을 500밀리리터 넣고 1규정농도의 황산 156밀리리터를 1,000밀리리터의 물에 용해한 용액을 12시간마다 10밀리리터씩 가하여 발생하는 아황산가스중에 4일간 놓아두어 기능에 이상이 생기지 않아야 한다.3. 비금속물질을 이용하여 오리피스를 실링한 폐쇄형헤드는 다음 각 목의 조건에서 시험한 후, 50킬로파스칼의 시험압력에서 누수 및 작동에 이상이 없어야 한다.<개정 2013. 7. 25.>가. 폐쇄형헤드의 실링재가 탄화수소혼합물에 균일하게 노출되도록 도포하여 72시간 동안 섭씨 (21 ± 5.6)도 조건의 시험장치에 놓아둔 후, 온도는 섭씨 (95 ± 1)도이고, 습도는 (98 ± 2)퍼센트의 조건에 90일간 노출나. 폐쇄형헤드의 실링재가 탄화수소혼합물에 균일하게 노출되도록 도포하여 72시간 동안 섭씨 (21 ± 5.6)도 조건의 시험장치에 놓아둔 후, 1.0메가파스칼의 압력을 가한 상태로 섭씨 (87 ± 2)도의 물속에 90일간 침수다. 폐쇄형헤드의 실링재가 다음과 같은 비율의 부동액에 각각 노출되도록 하여 섭씨 (87 ± 2)도의 조건에 90일간 방치(1) 디에틸렌 글리콜 60부피퍼센트(Vol%)와 물 40부피퍼센트(Vol%) 혼합물(2) 에틸렌 글리콜 53부피퍼센트(Vol%)와 물 47부피퍼센트(Vol%) 혼합물(3) 프로필렌 글리콜 60부피퍼센트(Vol%)와 물 40부피퍼센트(Vol%) 혼합물(4) 글리세린 70부피퍼센트(Vol%)와 물 30부피퍼센트(Vol%) 혼합물4. O-링 실링재로 사용되는 재료는 KS B 2805(O-링) 9.2.6(부식 및 점착시험)에 따라 섭씨 (70 ± 2)도의 항온조건에 24시간 놓아둔 경우 O-링과 접촉하는 금속을 부식시키거나 점착시키지 않아야 한다.<신설 2010. 7. 26.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -359,14 +484,14 @@
         "article_title": "표시",
         "chapter": "제1장 공통사항",
         "chapter_path": "제1장 공통사항",
-        "content": "제12조의6(표시) 헤드에는 다음 사항을 보기 쉬운 부위에 잘 지워지지 않도록 표시하여야 한다. 다만, 제2호 내지 제4호 및 제10호 내지 제14호는 포장 또는 취급설명서에 표시할 수 있다.<개정 2017. 12. 28., 2022. 9. 21., 2024.8.28.>1. 종 별2. 형 식3. 형식승인번호4. 제조번호 또는 로트번호5. 제조년도6. 제조업체명 또는 약호7. 표시온도(폐쇄형헤드에 한한다)8. <삭제>9. 표시온도에 따른 다음표의 색표시(폐쇄형헤드에 한한다)[그림]10. 최고주위온도(폐쇄형헤드에 한한다)11. 열차단성능(시간) 및 설치방법, 설치 가능한 유리창의 종류 등(윈도우 스프링클러헤드에 한함)12. 취급상의 주의사항13. <삭제>14. 품질보증에 관한 사항(보증기간, 보증내용, 애프터서비스(A/S)방법, 자체검사확인증 등)",
+        "content": "제12조의6(표시) 헤드에는 다음 사항을 보기 쉬운 부위에 잘 지워지지 않도록 표시하여야 한다. 다만, 제2호 내지 제5호 및 제10호 내지 제14호는 포장 또는 취급설명서에 표시할 수 있다.<개정 2017. 12. 28., 2022. 9. 21., 2024.8.28., 2026.2.2.>1. 종 별2. 형 식3. 형식승인번호4. 제조번호 또는 로트번호5. 제조년도6. 제조업체명 또는 약호7. 표시온도(폐쇄형헤드에 한한다)8. <삭제>9. 표시온도에 따른 다음표의 색표시(폐쇄형헤드에 한한다)[그림]10. 최고주위온도(폐쇄형헤드에 한한다)11. 열차단성능(시간) 및 설치방법, 설치 가능한 유리창의 종류 등(윈도우 스프링클러헤드에 한함)12. 취급상의 주의사항13. <삭제>14. 품질보증에 관한 사항(보증기간, 보증내용, 애프터서비스(A/S)방법, 자체검사확인증 등)",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735617",
-            "seq": "143735617",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419341",
+            "seq": "161419341",
             "filename": "제12조의6_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제12조의6_1.gif",
@@ -382,12 +507,53 @@
         "chapter_path": "제1장 공통사항",
         "content": "제13조(감도시험) 헤드는 표시온도 구분에 따라 반응시간지수를 표준반응, 특수반응, 조기반응으로 구분하고, 별도 8의 시험장치에서 시험한 경우 다음 각 호에 적합하여야 한다. 다만, 제16조, 제22조의 적용을 받는 헤드의 감도시험은 해당 기준에 따른다.<개정 2013. 7. 25., 2024.8.28.>1. 표준반응의 반응시간지수는 80 초과∼350 이하이어야 한다.2. 특수반응의 반응시간지수는 50 초과∼80 이하이어야 한다.3. 조기반응의 반응시간지수는 50 이하이어야 한다.[그림]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0013",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0016",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0013",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0022",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735619",
-            "seq": "143735619",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419343",
+            "seq": "161419343",
             "filename": "제13조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제13조_1.gif",
@@ -407,8 +573,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735671",
-            "seq": "143735671",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419345",
+            "seq": "161419345",
             "filename": "제13조의2_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제13조의2_1.gif",
@@ -424,12 +590,73 @@
         "chapter_path": "제1장 공통사항",
         "content": "제14조(방수량시험) 헤드는 방수압력 0.05메가파스칼에서 0.65메가파스칼까지 0.1메가파스칼 간격으로 방수량을 측정한 경우 아래 식의 K의 값이 아래 표의 호칭구분에 따라 각각 그 해당 허용범위 내에 있어야 한다. 다만, 제17조, 제23조, 제26조의 적용을 받는 헤드의 방수량시험은 해당 기준에 따른다. <개정 2024.8.28.>[그림]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0014",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0017",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0014",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0023",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0014",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0026",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735673",
-            "seq": "143735673",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419347",
+            "seq": "161419347",
             "filename": "제14조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제14조_1.gif",
@@ -445,7 +672,108 @@
         "chapter_path": "제1장 공통사항",
         "content": "제15조(살수분포시험) ① 헤드의 살수분포는 방수압력범위 0.1메가파스칼, 0.4메가파스칼, 0.7메가파스칼의 방수압력으로 방수하는 시험에서 다음 각 호에 적합하여야 한다. 다만, 제20조, 제24조, 제27조의 적용을 받는 헤드의 살수분포시험은 해당 기준에 따르며, 윈도우 스프링클러헤드는 제외한다. <개정 2017. 12. 28., 2024.8.28.>1. 헤드는 별도 2에 의한 살수분포 시험장치를 사용하여 각 채수통의 살수량을 측정하는 경우 헤드의 축심을 중심으로 하는 동심원상의 각각 채수통의 채수량 평균치의 분포곡선이 별도 3(유효살수반경이 2.3인 것에 한한다) 또는 별도 4(유효살수반경이 2.6인 것에 한한다)에 나타내는 살수분포 곡선보다 위에 있어야 하며, 전체 방수량의 60퍼센트 이상이 헤드의 축심을 중심으로 하는 반경 300센티미터(유효살수반경이 2.3인 것에 한한다) 또는 반경 330센티미터(유효살수반경이 2.6인 것에 한한다)의 범위 내에 살수되고, 동심원상의 각 채수통의 채수량의 차이가 적어야 한다.2. 측벽형헤드는 별도 6에 나타내는 살수분포시험장치를 사용하여 각 채수통의 살수량을 측정하는 경우, 다음 각 목의 채수통의 각 채수량 평균치의 분포곡선이 별도 6의2에 나타내는 살수분포 곡선보다 위에 있어야 하며, 각 채수통 채수량의 차이가 적고, 살수한 물이 벽면을 적셔야 한다.가. 헤드 전방에 있어서는 벽면에 병행한 각 열의 각 채수통나. 헤드 양측에 있어서는 벽면에 직각으로 그은 선상의 각 열의 각 채수통② 「소방시설 설치 및 관리에 관한 법률」 제13조제5항을 적용받고자 하는 헤드는 소방청장이 정하는 바에 따라 제1항에 의한 시험을 생략할 수 있다.<신설 2017. 12. 28.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제20조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0020",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제24조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제24조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0024",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제27조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제27조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0027",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "「소방시설 설치 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015",
+            "reference_id": "law:소방시설설치및관리에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "제13조제5항",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015",
+            "reference_id": "law:소방시설설치및관리에관한법률#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015"
       },
@@ -456,7 +784,48 @@
         "chapter_path": "제1장 공통사항",
         "content": "제15조의2(거친사용시험) 폐쇄형헤드(건식스프링클러헤드 제외)를 시험장치에 넣고, 3분간 회전시키는 경우, 제4조의2 및 제13조에 적합하여야 한다.<신설 2024.8.28.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조의2",
+            "source_clause": "제15조의2",
+            "link_text": "제4조의2 및 제13조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제4조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제4조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015_02",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0004_02",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조의2",
+            "source_clause": "제15조의2",
+            "link_text": "제4조의2 및 제13조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015_02",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0013",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015_02"
       },
@@ -467,12 +836,33 @@
         "chapter_path": "제1장 공통사항",
         "content": "제15조의3(최소작동압력시험) 폐쇄형헤드에 아래표의 작동압력을 가한 후, 열을 가하여 작동시키는 경우 모든 분해부품이 5초안에 이탈되어야 한다. 다만,\n제13조의2(열반응시험)를 적용받는 헤드는 제외한다.<신설 2024.8.28.>[그림]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조의3",
+            "source_clause": "제15조의3",
+            "link_text": "제13조의2",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제13조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제13조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0015_03",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0013_02",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735621",
-            "seq": "143735621",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419163",
+            "seq": "161419163",
             "filename": "제15조의3_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제15조의3_1.gif",
@@ -492,8 +882,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735675",
-            "seq": "143735675",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419349",
+            "seq": "161419349",
             "filename": "제15조의4_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제15조의4_1.gif",
@@ -513,8 +903,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735623",
-            "seq": "143735623",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419351",
+            "seq": "161419351",
             "filename": "제16조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제16조_1.gif",
@@ -534,8 +924,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735677",
-            "seq": "143735677",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419165",
+            "seq": "161419165",
             "filename": "제17조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제17조_1.gif",
@@ -555,8 +945,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735625",
-            "seq": "143735625",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419353",
+            "seq": "161419353",
             "filename": "제18조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제18조_1.gif",
@@ -572,7 +962,48 @@
         "chapter_path": "제2장 화재조기진압용 스프링클러헤드",
         "content": "제19조(저온시험) 조기진압용헤드는 섭씨 영하 (30 ± 5)도의 온도에 24시간 노출시킨 경우 다음 각 호의 어느 하나에 적합하여야 한다.<개정 2022. 9. 21.>1. 균열이 생길 것2. 녹은 후 누수가 생길 것3. 균열이 생기지 않은 것은 제5조제1호 및 제16조에 적합할 것",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "제5조제1호 및 제16조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0019",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "제5조제1호 및 제16조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0019",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0016",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0019"
       },
@@ -587,8 +1018,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735627",
-            "seq": "143735627",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419355",
+            "seq": "161419355",
             "filename": "제20조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제20조_1.gif",
@@ -608,8 +1039,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735679",
-            "seq": "143735679",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419357",
+            "seq": "161419357",
             "filename": "제21조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제21조_1.gif",
@@ -629,8 +1060,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735835",
-            "seq": "143735835",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419359",
+            "seq": "161419359",
             "filename": "제22조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제22조_1.gif",
@@ -650,8 +1081,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735837",
-            "seq": "143735837",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538665",
+            "seq": "161538665",
             "filename": "제23조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_1.gif",
@@ -678,7 +1109,28 @@
         "chapter_path": "제4장 라지드롭(Large Drop)형 스프링클러헤드",
         "content": "제25조(감도시험) 라지드롭형헤드 스프링클러헤드(이하\"라지드롭형헤드\"라 한다)의 감도는 제13조의 규정에 적합하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "스프링클러헤드의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0025",
+            "reference_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0013",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0025"
       },
@@ -693,8 +1145,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735839",
-            "seq": "143735839",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419361",
+            "seq": "161419361",
             "filename": "제26조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제26조_1.gif",
@@ -714,8 +1166,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735841",
-            "seq": "143735841",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419167",
+            "seq": "161419167",
             "filename": "제27조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제27조_1.gif",
@@ -735,8 +1187,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143735681",
-            "seq": "143735681",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161419363",
+            "seq": "161419363",
             "filename": "제28조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제28조_1.gif",
@@ -752,7 +1204,48 @@
         "chapter_path": "제6장 보칙",
         "content": "제29조(시험세칙) 「소방산업의 진흥에 관한 법률」 제14조에 따른 한국소방산업기술원은 이 기준의 운영방법, 형식시험방법 및 제품검사방법 등에 관한 세부사항인 시험세칙을 정하여 소방청장 승인을 받아 운영할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "「소방산업의 진흥에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0029",
+            "reference_id": "law:소방산업의진흥에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소방산업의 진흥에 관한 법률/법률/소방산업의 진흥에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0029",
+            "reference_id": "law:소방산업의진흥에관한법률#JO0014",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소방산업의 진흥에 관한 법률/법률/소방산업의 진흥에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0029"
       },
@@ -761,97 +1254,633 @@
         "article_title": "재검토기한",
         "chapter": "제6장 보칙",
         "chapter_path": "제6장 보칙",
-        "content": "제30조(재검토기한) 소방청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2023년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.<개정 2016. 4. 1., 2017. 12. 28., 2022. 9. 21.>",
+        "content": "제30조(재검토기한) 소방청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.<개정 2016. 4. 1., 2017. 12. 28., 2022. 9. 21., 2026.2.2.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33573",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0030",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#JO0030"
       }
     ]
   },
-  "addenda": [
+  "addenda": [],
+  "appendices": [
     {
-      "promulgation_date": "20081212",
-      "promulgation_no": "2008-21",
-      "content": "부칙 <제2008-21호,2008. 12. 12.>이 기준은 고시한 날로부터 시행한다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0001",
+      "branch": "00",
+      "kind": "별도",
+      "title": "정류통(제2조제14호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 1] (제2조제14호 관련) <개정 2024.8.28.>\n정류통\n(단위 : ㎜)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538673",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538669",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538673",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0001",
+      "filename": "별도1_정류통(제2조제14호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도1_정류통(제2조제14호 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20090824",
-      "promulgation_no": "2009-31",
-      "content": "부칙 <제2009-31호,2009. 8. 24.>이 기준은 고시한 날부터 시행한다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0002",
+      "branch": "00",
+      "kind": "별도",
+      "title": "살수분포 시험장치(제15조제1호, 제24조제1호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 2] (제15조제1호, 제24조제1호 관련)<개정 2013.7.25>\n살수분포 시험장치\n(단위 : ㎝)\n채수통 배치도                               채수통도\n시 험 장 치 도",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538679",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538675",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538679",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0002",
+      "filename": "별도2_살수분포 시험장치(제15조제1호, 제24조제1호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도2_살수분포 시험장치(제15조제1호, 제24조제1호 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20100726",
-      "promulgation_no": "2010-26",
-      "content": "부칙 <제2010-26호,2010. 7. 26.>제1조(시행일) 이 기준은 고시한 후 6개월이 경과한 날로부터 시행한다.제2조(형식승인 및 형식변경승인에 관한 일반적 경과조치) 이 기준 시행 당시 종전의 규정에 의하여 형식승인 또는 형식승인의 변경승인을 얻은 것으로서 이 기준 제5조제5호 및 제11조제3호ㆍ제4호의 적용대상이 되는 스프링클러헤드는 이 기준 시행일부터 6월 이내에 이 기준을 적용한 형식승인의 변경신청을 할 수 있으며, 종전규정에 의한 이 기준 제5조제5호 및 제11조제3호ㆍ제4호의 적용대상이 되는 스프링클러헤드의 형식승인 및 형식승인의 변경승인은 이 기준 시행일로 부터 6월이 경과된 날 취소된 것으로 본다.제3조(제품검사에 관한 일반적 경과조치) 이 기준 시행 당시 종전의 규정에 의하여 형식승인 또는 형식승인의 변경승인을 얻은 것에 대하여는 이 기준 시행일부터 6개월 이내에 종전의 규정에 의하여 제품검사를 신청할 수 있다. 다만, 이 기간 내에 제품검사를 신청한 것으로서 불합격되거나 수검희망일을 연기한 것에 대하여는 동기간에 불구하고 불합격 통지를 받은 날로부터 1월 이내 또는 수검희망일을 연기한 날까지 제품검사를 받을 수 있다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0003",
+      "branch": "00",
+      "kind": "별도",
+      "title": "살수분포 곡선(유효살수반경 2.3)(제15조제1호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 3] (제15조제1호 관련)<개정 2013.7.25.>\n살수분포 곡선(유효살수반경 2.3)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538685",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538681",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538685",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0003",
+      "filename": "별도3_살수분포 곡선(유효살수반경 2.3)(제15조제1호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도3_살수분포 곡선(유효살수반경 2.3)(제15조제1호 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20120209",
-      "promulgation_no": "2012-63",
-      "content": "부칙 <제2012-63호,2012. 2. 9.>제1조(시행일) 이 기준은 고시한 날부터 시행한다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0004",
+      "branch": "00",
+      "kind": "별도",
+      "title": "살수분포 곡선(유효살수반경 2.6)",
+      "enforcement_date": "",
+      "content": "[별도 4]  <개정 2013.7.25.>\n살수분포 곡선(유효살수반경 2.6)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538691",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538687",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538691",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0004",
+      "filename": "별도4_살수분포 곡선(유효살수반경 2.6).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도4_살수분포 곡선(유효살수반경 2.6).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20130725",
-      "promulgation_no": "2013-39",
-      "content": "부칙 <제2013-39호,2013. 7. 25.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0005",
+      "branch": "00",
+      "kind": "별도",
+      "title": "벽면 살수분포 시험장치(제24조제2호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 5] (제24조제2호 관련)<개정 2013.7.25>\n벽면 살수분포 시험장치\n(단위 : ㎝)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538697",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538693",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538697",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0005",
+      "filename": "별도5_벽면 살수분포 시험장치(제24조제2호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도5_벽면 살수분포 시험장치(제24조제2호 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20150115",
-      "promulgation_no": "2015-14",
-      "content": "부칙 <제2015-14호,2015. 1. 15.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0006",
+      "branch": "00",
+      "kind": "별도",
+      "title": "측벽형헤드 살수분포 시험장치",
+      "enforcement_date": "",
+      "content": "[별도 6] (제15조제2호 관련)\n측벽형헤드 살수분포 시험장치\n(단위 : ㎝)\n채수통배치도\n시험장치도",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538703",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538699",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538703",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0006",
+      "filename": "별도6_측벽형헤드 살수분포 시험장치.hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도6_측벽형헤드 살수분포 시험장치.hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20160401",
-      "promulgation_no": "2016-39",
-      "content": "부칙 <제2016-39호,2016. 4. 1.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0006",
+      "branch": "02",
+      "kind": "별도",
+      "title": "측벽형헤드 살수분포 곡선(제15조제2호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 6의2] (제15조제2호 관련)\n측벽형헤드 살수분포 곡선\n(실선은 전방향의 살수분포곡선, 점선은 측방향의 살수분포곡선)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538709",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538705",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538709",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0006_02",
+      "filename": "별도6의2_측벽형헤드 살수분포 곡선(제15조제2호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도6의2_측벽형헤드 살수분포 곡선(제15조제2호 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20171228",
-      "promulgation_no": "2017-9",
-      "content": "부칙 <제2017-9호,2017. 12. 28.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(형식승인에 관한 일반적 경과조치) 이 고시 시행 당시 종전의 규정에 의하여 형식승인(형식승인의 변경을 포함한다. 이하 같다)을 받은 것 중 이 고시에 적합하지 아니한 것은 시행일로부터 6개월 이내에 이 고시에 의하여 형식승인을 받아야 한다.제3조(제품검사에 관한 일반적 경과조치) ① 부칙 제1조에도 불구하고 이 고시 시행 당시 종전의 규정에 의하여 형식승인을 받은 것은 이 고시 시행일로부터 6개월 이내에 종전의 규정에 의하여 제품검사를 받을 수 있다.② 이 고시에 따라 형식승인을 받지 않은 것은 이 고시 시행일로부터 6개월이 경과한 날부터 이 고시에 의한 제품검사를 받을 수 없다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0007",
+      "branch": "00",
+      "kind": "별도",
+      "title": "스프링클러헤드 설치방향(제2조제22호·제23호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 7] (제2조제22호ㆍ제23호 관련)\n스프링클러헤드 설치방향\n표준방향 \"A\"\n표준방향 \"B\"\n최악의 방향",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538715",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538711",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538715",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0007",
+      "filename": "별도7_스프링클러헤드 설치방향(제2조제22호·제23호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도7_스프링클러헤드 설치방향(제2조제22호·제23호 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20220921",
-      "promulgation_no": "2022-24",
-      "content": "부칙 <제2022-24호, 2022. 9. 21.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(형식승인에 관한 일반적인 경과조치)  ① 이 고시 시행일 이전에 형식승인(형식승인의 변경을 포함한다. 이하 같다)이 신청된 것은 종전의 고시를 적용할 수 있다. 다만, 신청인이 이 고시에 의하여 형식승인을 받고자 하는 경우에는 이 고시를 적용한다.② 이 고시 시행 당시 종전의 규정에 의하여 형식승인을 받은 것 중 이 고시 제13조의2에 적합하지 아니한 것은 이 고시 시행일로부터 6월 이내에 이 고시에 의하여 형식승인을 받아야 한다.제3조(제품검사에 대한 경과조치)  ① 부칙 제1조에도 불구하고 이 고시 시행 당시 종전의 규정에 의하여 형식승인을 받은 것 중 이 고시 제13조의2에 적합하지 않은 것은 이 고시 시행일로부터 6월 이내에는 종전의 규정에 의하여 제품검사를 받을 수 있다.② 부칙 제2조제2항에 따라 형식승인을 받지 않은 것은 고시 시행일로부터 6월이 경과한 날부터 이 고시에 의한 제품검사를 받을 수 없으며, 품질제품검사를 적용받고 있는 경우 제품완성 예정일이 이 고시 시행일로부터 6개월이 경과한 날부터 합격표시를 발급받을 수 없다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0008",
+      "branch": "00",
+      "kind": "별도",
+      "title": "감도시험장치(제16조 관련)",
+      "enforcement_date": "",
+      "content": "[별도 8] (제16조 관련)\n감도시험장치\n(단위 : ㎜)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538721",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538717",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538721",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0008",
+      "filename": "별도8_감도시험장치(제16조 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도8_감도시험장치(제16조 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20221201",
-      "promulgation_no": "2022-27",
-      "content": "부칙 (소방용품의 형식승인 및 제품검사의 기술기준 32개 고시 일괄개정 고시)<제2022-27호, 2022. 12. 1.>이 고시는 2022년 12월 1일부터 시행한다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0009",
+      "branch": "00",
+      "kind": "별도",
+      "title": "살수력 시험장치(제18조 관련)",
+      "enforcement_date": "",
+      "content": "[별도 9] (제18조 관련)\n살수력 시험장치\n(단위 : ㎜)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538727",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538723",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538727",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0009",
+      "filename": "별도9_살수력 시험장치(제18조 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도9_살수력 시험장치(제18조 관련).hwp",
+      "file_store_url": ""
     },
     {
-      "promulgation_date": "20240828",
-      "promulgation_no": "2024-40",
-      "content": "부칙 <제2024-40호, 2024. 8. 28.>제1조(시행일) 이 고시는 발령한 날부터 1년 이후에 시행한다.제2조(형식승인에 관한 일반적 경과조치) ① 이 고시 시행 전에 형식승인(형식승인 변경 신청을 포함한다. 이하 같다)을 신청하여 이 고시 시행 당시 그 형식승인 절차가 진행 중인 경우에는 개정규정에도 불구하고 종전의 규정에 따른다.② 이 고시 시행 전에 종전의 규정에 따라 형식승인을 받은 경우 또는 제1항에 따라 형식승인을 받은 경우에는 이 고시에 따라 형식승인을 받은 것으로 본다. 다만, 이 고시 시행일로부터 2년 이내에 개정규정에 따라 다시 형식승인을 받아야 한다.제3조(제품검사에 관한 일반적 경과조치) ① 이 고시 시행 전에 제품검사(품질제품검사의 경우에는 합격표시 교부를 말한다. 이하 같다.)를 신청한 경우로서 이 고시 시행 당시 그 검사가 진행 중인 경우에는 개정규정에도 불구하고 종전의 규정에 따른다.② 부칙 제2조제1항 및 같은 조 제2항 본문에 따라 형식승인을 받은 소방용품에 대한 제품검사는 개정규정에도 불구하고 이 고시 시행일로부터 2년 이내에는 종전의 규정에 따른다.③ 부칙 제2조제2항단서에 따른 기간 내에 다시 형식승인을 받지 않은 경우 그 기간이 경과한 날부터 제품검사를 받을 수 없다.",
-      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM"
+      "no": "0010",
+      "branch": "00",
+      "kind": "별도",
+      "title": "살수분포 시험장치(제20조제1호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 10] (제20조제1호 관련)\n살수분포 시험장치\n(단위 : ㎜)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538733",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538729",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538733",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0010",
+      "filename": "별도10_살수분포 시험장치(제20조제1호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도10_살수분포 시험장치(제20조제1호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별도",
+      "title": "살수분포 시험장치(제20조제2호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 11] (제20조제2호 관련)\n살수분포 시험장치\n(단위 : ㎜)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538739",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538735",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538739",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0011",
+      "filename": "별도11_살수분포 시험장치(제20조제2호 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도11_살수분포 시험장치(제20조제2호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별도",
+      "title": "실제전달밀도 시험장치(제21조 관련)",
+      "enforcement_date": "",
+      "content": "[별도 12] (제21조 관련)\n실제전달밀도 시험장치\n12-1 단면도\n(단위 : ㎜)\n12-2 평면도\n(1) 헤드가 1개인 경우\n(단위 : ㎜)\n(2) 헤드가 2개인 경우\n(3) 헤드가 4개인 경우",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538749",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538741",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538749",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0012",
+      "filename": "별도12_실제전달밀도 시험장치(제21조 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도12_실제전달밀도 시험장치(제21조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별도",
+      "title": "16통 살수분포 시험장치(제27조 관련)",
+      "enforcement_date": "",
+      "content": "[별도 13] (제27조 관련)<개정 2013.7.25., 2024.8.28.>\n16통 살수분포 시험장치\n(단위 : m)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538755",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538751",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538755",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0013",
+      "filename": "별도13_16통 살수분포 시험장치(제27조 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도13_16통 살수분포 시험장치(제27조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별도",
+      "title": "걸림작동시험장치 배관도(제12조의2 관련)",
+      "enforcement_date": "",
+      "content": "[별도 14] (제12조의2 관련)<신설 2017.12.28.>\n걸림작동시험장치 배관도",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538761",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538757",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538761",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0014",
+      "filename": "별도14_걸림작동시험장치 배관도(제12조의2 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도14_걸림작동시험장치 배관도(제12조의2 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별도",
+      "title": "표준반응헤드 열반응시험장치 평면도, 조기반응헤드 열반응시험장치 평면도",
+      "enforcement_date": "",
+      "content": "[별도 15](제13조의2 관련) <신설 2022. 9. 21.>\n표준반응헤드 열반응시험장치 평면도\n조기반응헤드 열반응시험장치 평면도",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538767",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538763",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538767",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0015",
+      "filename": "별도15_표준반응헤드 열반응시험장치 평면도, 조기반응헤드 열반응시험장치 평면도.hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도15_표준반응헤드 열반응시험장치 평면도, 조기반응헤드 열반응시험장치 평면도.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별도",
+      "title": "실화재시험장치 (제15조의4 관련)",
+      "enforcement_date": "",
+      "content": "[별도 16] 실화재시험장치 (제15조의4 관련) <신설 2024.8.28.>\n<A-6단 화재모형도>\n<A-12단 화재모형도>\n<헤드 배치도>\n※ L : 유효살수반경별 헤드간 거리\n- r2.3 : 3.3 m\n- r2.6 : 3.7 m",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538777",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538769",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538777",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0016",
+      "filename": "별도16_실화재시험장치 (제15조의4 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도16_실화재시험장치 (제15조의4 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별도",
+      "title": "열차단성능시험장치 (제28조 관련)",
+      "enforcement_date": "",
+      "content": "[별도 17] 열차단성능시험장치 (제28조 관련) <신설 2024.8.28.>\n<열차단성능시험장치>\n※ 헤드 및 유리창은 신청자가 제시하는 설치방법에 따름\n<버너 및 공기공급장치>\n<열전대 설치 위치>\n\n<디플렉타>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538789",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538779",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161538789",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#BD0017",
+      "filename": "별도17_열차단성능시험장치 (제28조 관련).hwp",
+      "file_dir": "별도",
+      "local_path": "별도/별도17_열차단성능시험장치 (제28조 관련).hwp",
+      "file_store_url": ""
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "개정전문(스프링클러헤드의 형식승인 및 제품검사의 기술기준).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161419317",
+      "filename": "개정전문(스프링클러헤드의 형식승인 및 제품검사의 기술기준).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정전문(스프링클러헤드의 형식승인 및 제품검사의 기술기준).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "개정전문(스프링클러헤드의 형식승인 및 제품검사의 기술기준).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161419321",
+      "filename": "개정전문(스프링클러헤드의 형식승인 및 제품검사의 기술기준).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정전문(스프링클러헤드의 형식승인 및 제품검사의 기술기준).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 25,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 19
+    },
+    "by_relation_type": {
+      "citation": 7,
+      "internal_ref": 18
+    },
     "articles_total": 47,
-    "articles_with_relations": 0,
+    "articles_with_relations": 14,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 0,
     "appendices_count": 18,
-    "attachments_count": 12
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/스프링클러헤드의 형식승인 및 제품검사의 기술기준"
@@ -860,5 +1889,8 @@
   "addendum_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#ADDENDUM",
   "amendment_provision_id": "admrul:스프링클러헤드의형식승인및제품검사의기술기준#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "스프링클러헤드의 형식승인 및 제품검사의 기술기준/스프링클러헤드의 형식승인 및 제품검사의 기술기준.json"
 }
