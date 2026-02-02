@@ -1,25 +1,25 @@
 {
   "law_id": "22404",
-  "mst": "2100000260886",
-  "law_name": "농업관측 실시요령",
+  "mst": "2100000274106",
+  "law_name": "농업관측실시요령",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:22404",
-  "promulgation_no": "542",
-  "promulgation_date": "20250625",
-  "enforcement_date": "20250625",
-  "revision_date": "20250625",
+  "promulgation_no": "574",
+  "promulgation_date": "20260202",
+  "enforcement_date": "20260202",
+  "revision_date": "20260202",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "농림축산식품부(농식품시장관리과)",
     "담당자명": "김혜진",
     "행정규칙종류코드": "B0001",
-    "행정규칙명": "농업관측 실시요령",
-    "발령일자": "20250625",
+    "행정규칙명": "농업관측실시요령",
+    "발령일자": "20260202",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1543000",
     "생성일자": "20260203",
     "행정규칙ID": "22404",
-    "시행일자": "20250625",
-    "담당부서기관코드": "1543576",
-    "발령번호": "542",
-    "행정규칙일련번호": "2100000260886",
+    "시행일자": "20260202",
+    "담당부서기관코드": "1543579",
+    "발령번호": "574",
+    "행정규칙일련번호": "2100000274106",
     "상위부처명": "농림축산식품부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 농업관측 고도화(소비관측, 농림위성 활용)에 따른 사업 추진근거를 마련하고, 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조에 따라 재검토기한을 재설정하고자 함\n◇ 주요내용\n가. 농업관측 항목에 주요 농축산물 소비동향 추가(안 제12조제1호)\n나. 농촌진흥청이 관리하는 농림위성 데이터를 농업관측에 활용할 수 있도록 자료수집 항목에 농림위성 자료 추가(안 제14조제4호)\n다. 훈령ㆍ예규 등의 발령 및 관리에 관한 규정(대통령 훈령 431호)에 따라 재검토기한 재설정(안 제23조)",
+  "revision_reason": "가. 제ㆍ개정 이유\n○「정부조직법」개정(법률 제21065호, 2025.10.1.)에 따라, 법령 개정 사항을 반영하여 부처명칭 등을 변경하는 등 농림축산식품부 소관 행정규칙(훈령ㆍ예규ㆍ고시)을 정비\n나. 제ㆍ개정 내용\n○ 법령 개정 사항을 반영하여 부처명칭 등 변경\n- 훈령 : 「농림사업정책자금 이차보전규정」 등 19건\n[그림][그림]\n\n- 예규 : 「인수공통전염병(감염병) 대책위원회 운영규정」 1건\n[그림]\n\n- 고시 : 「간척지 임시사용에 관한 지침」 등 14건\n[그림][그림]\n",
   "body": {
     "format": "articles",
     "article_count": 24,
@@ -48,7 +48,68 @@
         "chapter_path": "제1장 총칙",
         "content": "제1조(목적) 이 요령은 「농수산물 유통 및 가격안정에 관한 법률」 제5조제3항 및 동법시행규칙 제7조제2항에서 농림축산식품부장관에게 위임한 농업관측 전담기관의 농업관측업무 수행범위와 요령 및 필요한 지원 등에 관한 세부사항을 정하는 것을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조제3항",
+            "line_text": "",
+            "target_law_name": "농수산물 유통 및 가격안정에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/법령/농수산물 유통 및 가격안정에 관한 법률/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0001",
+            "reference_id": "law:농수산물유통및가격안정에관한법률#JO0005",
+            "target_repo": "LAW",
+            "target_git_path_guess": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법시행규칙",
+            "line_text": "",
+            "target_law_name": "농수산물 유통 및 가격안정에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/법령/농수산물 유통 및 가격안정에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0001",
+            "reference_id": "law:농수산물유통및가격안정에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "농수산물 유통 및 가격안정에 관한 법률/시행규칙/농수산물 유통 및 가격안정에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조제2항",
+            "line_text": "",
+            "target_law_name": "농수산물 유통 및 가격안정에 관한 법률 시행규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/법령/농수산물 유통 및 가격안정에 관한 법률 시행규칙/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0001",
+            "reference_id": "law:농수산물유통및가격안정에관한법률시행규칙#JO0007",
+            "target_repo": "LAW",
+            "target_git_path_guess": "농수산물 유통 및 가격안정에 관한 법률/시행규칙/농수산물 유통 및 가격안정에 관한 법률 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:농업관측실시요령#JO0001"
       },
@@ -112,9 +173,30 @@
         "article_title": "농업관측자문위원회의 구성",
         "chapter": "제2장 농업관측 전담조직",
         "chapter_path": "제2장 농업관측 전담조직",
-        "content": "제6조(농업관측자문위원회의 구성) ① 중앙자문위원회는 농림축산식품부, 국립농산물품질관리원(이하 \"농관원\"이라 한다), 농촌진흥청, 통계청의 농업관측 관련공무원, 기상전문가, 소비자단체 대표, 한국농수산식품유통공사, 농업협동조합중앙회(이하 \"농협\"이라 한다) 등 농업관측 관련기관 임직원, 산지유통인, 도매시장법인, 농산물 저장ㆍ유통업체 대표 또는 임직원, 대학 및 연구기관의 전문가 중에서 농업관측 부류별로 10∼30명을 위촉하여 구성한다.② 지역자문위원회는 관측부류별로 제4조의 규정에 의한 품목별ㆍ축종별 관측모니터 중에서 주산지별로 10∼15명을 위촉하여 구성한다.",
+        "content": "제6조(농업관측자문위원회의 구성) ① 중앙자문위원회는 농림축산식품부, 국립농산물품질관리원(이하 \"농관원\"이라 한다), 농촌진흥청, 국가데이터처의 농업관측 관련공무원, 기상전문가, 소비자단체 대표, 한국농수산식품유통공사, 농업협동조합중앙회(이하 \"농협\"이라 한다) 등 농업관측 관련기관 임직원, 산지유통인, 도매시장법인, 농산물 저장ㆍ유통업체 대표 또는 임직원, 대학 및 연구기관의 전문가 중에서 농업관측 부류별로 10∼30명을 위촉하여 구성한다.② 지역자문위원회는 관측부류별로 제4조의 규정에 의한 품목별ㆍ축종별 관측모니터 중에서 주산지별로 10∼15명을 위촉하여 구성한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "농업관측실시요령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/행정규칙/농업관측실시요령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0006",
+            "reference_id": "admrul:농업관측실시요령#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "농업관측실시요령/농업관측실시요령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:농업관측실시요령#JO0006"
       },
@@ -169,7 +251,28 @@
         "chapter_path": "제3장 단기관측",
         "content": "제11조(관측품목) 제2조제1호의 규정에 의한 단기관측 품목ㆍ축종은 재배면적 또는 사육규모가 크고 수급 및 가격안정을 위하여 관리가 필요한 품목ㆍ축종을 부류별로 구분하여 다음 각 호와 같이 정하되, 관측부류 및 품목ㆍ축종의 조정이 필요한 경우에는 농림축산식품부장관과 협의하여 추가 또는 제외할 수 있다.1. 곡물류 : 쌀, 콩2. 채소류 : 배추, 무, 고추, 마늘, 양파, 파, 당근, 양배추, 감자, 버섯3. 과일류 : 사과, 배, 포도, 감귤, 단감, 복숭아4. 과채류 : 수박, 참외, 토마토, 오이, 호박, 딸기, 풋고추, 파프리카5. 축산류 : 한ㆍ육우, 젖소, 돼지, 산란계, 육계, 오리6. 국제곡물류 : 밀, 옥수수, 대두, 쌀",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제2조제1호",
+            "line_text": "",
+            "target_law_name": "농업관측실시요령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/행정규칙/농업관측실시요령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0011",
+            "reference_id": "admrul:농업관측실시요령#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "농업관측실시요령/농업관측실시요령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:농업관측실시요령#JO0011"
       },
@@ -200,9 +303,30 @@
         "article_title": "자료수집",
         "chapter": "제3장 단기관측",
         "chapter_path": "제3장 단기관측",
-        "content": "제14조(자료수집) 농경연 원장은 제4조의 규정에 의한 표본농가 및 품목별ㆍ축종별 관측모니터, 농촌진흥청 등 관련기관, 저장업체 등 관련업체를 연결하는 농업관측정보망을 구축하여 다음 각 호에서 정한 자료를 수집한다.1. 표본농가 : 품목별ㆍ작기별 재배의향 및 실제재배면적, 축종별 사육의향, 생육상황, 수확예정시기, 포전매매면적, 농가판매가격, 저장량 등2. 품목별ㆍ축종별 관측모니터 : 조사지역의 품목별 재배면적, 축종별 사육두수, 생육상황, 예상단수, 저장량, 포전거래동향, 지역별 기상변화와 병충해 발생상황, 기타 특기사항 등3. 농림축산식품부 : 품목별ㆍ시기별 정부수입량, 품목별 정책변수 등4. 농촌진흥청 : 품목별ㆍ지역별ㆍ시기별 생육상황, 농림위성자료 등5. 통계청 : 품목별ㆍ시기별 재배면적, 생산량 및 단수 확정치, 축종별 사육두수 및 축산물생산비 결과 등 각종 통계자료6. 한국농수산식품유통공사, 농산물냉장협회 : 월별 채소류 및 과일류 저장량 등7. 서울시농수산식품공사 : 일자별 도매시장 반입량, 등급별 경락가격 등8. 관세청 : 매월 수출입 통계자료 등9. 기상청 : 3개월간 기상예보 등10. 해외주재 농무관 : 농업관측에 필요한 각 국의 농산물 수급상황 등11. 기타기관(농관원, 농협, 저장업체, 종묘업체, 사료업체, 수출입업체 등) : 업무실적자료(품질인증자료, 종자ㆍ사료판매량, 저장량, 수출입현황 등)",
+        "content": "제14조(자료수집) 농경연 원장은 제4조의 규정에 의한 표본농가 및 품목별ㆍ축종별 관측모니터, 농촌진흥청 등 관련기관, 저장업체 등 관련업체를 연결하는 농업관측정보망을 구축하여 다음 각 호에서 정한 자료를 수집한다.1. 표본농가 : 품목별ㆍ작기별 재배의향 및 실제재배면적, 축종별 사육의향, 생육상황, 수확예정시기, 포전매매면적, 농가판매가격, 저장량 등2. 품목별ㆍ축종별 관측모니터 : 조사지역의 품목별 재배면적, 축종별 사육두수, 생육상황, 예상단수, 저장량, 포전거래동향, 지역별 기상변화와 병충해 발생상황, 기타 특기사항 등3. 농림축산식품부 : 품목별ㆍ시기별 정부수입량, 품목별 정책변수 등4. 농촌진흥청 : 품목별ㆍ지역별ㆍ시기별 생육상황, 농림위성자료 등5. 국가데이터처 : 품목별ㆍ시기별 재배면적, 생산량 및 단수 확정치, 축종별 사육두수 및 축산물생산비 결과 등 각종 통계자료6. 한국농수산식품유통공사, 농산물냉장협회 : 월별 채소류 및 과일류 저장량 등7. 서울시농수산식품공사 : 일자별 도매시장 반입량, 등급별 경락가격 등8. 관세청 : 매월 수출입 통계자료 등9. 기상청 : 3개월간 기상예보 등10. 해외주재 농무관 : 농업관측에 필요한 각 국의 농산물 수급상황 등11. 기타기관(농관원, 농협, 저장업체, 종묘업체, 사료업체, 수출입업체 등) : 업무실적자료(품질인증자료, 종자ㆍ사료판매량, 저장량, 수출입현황 등)",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "농업관측실시요령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/행정규칙/농업관측실시요령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0014",
+            "reference_id": "admrul:농업관측실시요령#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "농업관측실시요령/농업관측실시요령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:농업관측실시요령#JO0014"
       },
@@ -235,7 +359,48 @@
         "chapter_path": "제4장 중ㆍ장기관측",
         "content": "제17조(중ㆍ장기관측 내용) ① 농경연 원장은 무역자유화와 시장개방 등 국내외 경제여건 변화에 적절히 대응하기 위하여 중ㆍ장기관측을 실시한다.② 제2조제2호의 규정에 의한 중기관측의 내용은 국내ㆍ외 농업여건의 변화, 농업ㆍ농촌경제의 주요지표 등에 관한 동향 및 전망 등을 정리ㆍ분석하고 제2조제3호의 규정에 의한 장기관측은 농업경제의 주요 변화, 주요 품목별 수출입과 수급동향 및 전망 등을 정리ㆍ분석하여 실시한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "제2조제2호",
+            "line_text": "",
+            "target_law_name": "농업관측실시요령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/행정규칙/농업관측실시요령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0017",
+            "reference_id": "admrul:농업관측실시요령#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "농업관측실시요령/농업관측실시요령.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "농업관측실시요령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/행정규칙/농업관측실시요령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0017",
+            "reference_id": "admrul:농업관측실시요령#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "농업관측실시요령/농업관측실시요령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:농업관측실시요령#JO0017"
       },
@@ -246,7 +411,28 @@
         "chapter_path": "제4장 중ㆍ장기관측",
         "content": "제18조(공표) ① 중기관측 결과는 분기별로 책자로 발간하여 공표하고, 장기관측 결과는 매년 1∼2월중에 책자로 발간하여 공표하는 것을 원칙으로 하되, 필요한 경우 분기 또는 연도 내에 수정치를 공표할 수 있다.② 농경연 원장은 중ㆍ장기관측 결과를 농림축산식품부장관과 협의하여 공표하되 공표와 관련된 세부사항은 제16조의 제2항 내지 제4항의 규정을 준용한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제2항",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "농업관측실시요령",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/행정규칙/농업관측실시요령/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0018",
+            "reference_id": "admrul:농업관측실시요령#JO0016",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "농업관측실시요령/농업관측실시요령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:농업관측실시요령#JO0018"
       },
@@ -301,7 +487,28 @@
         "chapter_path": "제5장 사업계획수립ㆍ평가 및 예산편성ㆍ결산",
         "content": "제23조(재검토기한) 농림축산식품부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 2025년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다.)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22404",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:농업관측실시요령#JO0023",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:농업관측실시요령#JO0023"
       }
@@ -309,70 +516,153 @@
   },
   "addenda": [
     {
+      "promulgation_date": "20020910",
+      "promulgation_no": "1116",
+      "content": "부칙 <제1116호,2002. 9. 10.>(시행일) 이 실시요령은 발령한 날로부터 시행한다.",
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
+    },
+    {
       "promulgation_date": "20090626",
       "promulgation_no": "89",
       "content": "부칙 <제89호,2009. 6. 26.>제1조(시행일) 이 실시요령은 발령한 날로부터 시행한다.제2조(종전 훈령의 폐지) 종전의 훈령 농업관측실시요령(제1116호)을 폐지한다.",
-      "provision_id": "admrul:농업관측실시요령#ADDENDUM"
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
     },
     {
       "promulgation_date": "20130409",
       "promulgation_no": "2",
       "content": "부칙 <제2호,2013. 4. 9.>제1조(시행일) 이 실시요령은 발령한 날로부터 시행한다.제2조(존속기한) 이 고시는 2016년 4월 8일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다.",
-      "provision_id": "admrul:농업관측실시요령#ADDENDUM"
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
     },
     {
       "promulgation_date": "20160405",
       "promulgation_no": "206",
-      "content": "부칙 <제206호,2016. 4. 5.>제1조(시행일) 이 실시요령은 발령한 날로부터 시행한다.제2조(재검토기한) 농림축산식품부 장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2016년 7월 1일을 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다.)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
-      "provision_id": "admrul:농업관측실시요령#ADDENDUM"
+      "content": "부칙 <제206호,2016. 4. 5.>제1조(시행일) 이 실시요령은 발령한 날로부터 시행한다.제2조(재검토기한) 농림축산식품부 장관은 「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2016년 7월 1일을 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다.)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
     },
     {
       "promulgation_date": "20161004",
       "promulgation_no": "232",
-      "content": "부칙 <제232호,2016. 10. 4.>제1조(시행일) 이 훈령은 발령한 날로부터 시행한다.제2조(재검토기한) 농림축산식품부 장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2016년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다.)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
-      "provision_id": "admrul:농업관측실시요령#ADDENDUM"
+      "content": "부칙 <제232호,2016. 10. 4.>제1조(시행일) 이 훈령은 발령한 날로부터 시행한다.제2조(재검토기한) 농림축산식품부 장관은 「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2016년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다.)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
     },
     {
       "promulgation_date": "20201110",
       "promulgation_no": "379",
       "content": "부칙 <제379호,2020. 11. 10.>이 훈령은 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:농업관측실시요령#ADDENDUM"
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
     },
     {
       "promulgation_date": "20210614",
       "promulgation_no": "404",
       "content": "부칙 <제404호, 2021. 6. 14.>이 훈령은 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:농업관측실시요령#ADDENDUM"
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
     },
     {
       "promulgation_date": "20250625",
       "promulgation_no": "542",
       "content": "부칙 <제542호, 2025. 6. 25.>이 훈령은 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:농업관측실시요령#ADDENDUM"
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
+    },
+    {
+      "promulgation_date": "20260202",
+      "promulgation_no": "574",
+      "content": "부칙 <제574호, 2026. 2. 2.>이 훈령은 발령한 날로부터 시행한다.",
+      "provision_id": "admrul:농업관측실시요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274106",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260202"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "13.제574호_농업관측 실시요령(훈령) 개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161398621",
+      "filename": "13.제574호_농업관측 실시요령(훈령) 개정 전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/13.제574호_농업관측 실시요령(훈령) 개정 전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "13.제574호_농업관측 실시요령(훈령) 개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161398625",
+      "filename": "13.제574호_농업관측 실시요령(훈령) 개정 전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/13.제574호_농업관측 실시요령(훈령) 개정 전문.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 10,
+    "by_category": {
+      "법령": 3,
+      "행정규칙": 7
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 6
+    },
     "articles_total": 24,
-    "articles_with_relations": 0,
+    "articles_with_relations": 7,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 9,
     "appendices_count": 0,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/농업관측 실시요령"
+    "source_url": "https://www.law.go.kr/행정규칙/농업관측실시요령"
   },
   "provision_id": "admrul:농업관측실시요령#DOC",
   "addendum_provision_id": "admrul:농업관측실시요령#ADDENDUM",
   "amendment_provision_id": "admrul:농업관측실시요령#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "농업관측실시요령/농업관측실시요령.json"
 }
