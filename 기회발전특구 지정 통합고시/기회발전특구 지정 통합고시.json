@@ -1,25 +1,25 @@
 {
   "law_id": "89713",
-  "mst": "2100000262414",
+  "mst": "2100000274336",
   "law_name": "기회발전특구 지정 통합고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:89713",
-  "promulgation_no": "2025-131",
-  "promulgation_date": "20250730",
-  "enforcement_date": "20250805",
-  "revision_date": "20250730",
+  "promulgation_no": "2026-10",
+  "promulgation_date": "20260205",
+  "enforcement_date": "20260211",
+  "revision_date": "20260205",
   "revision_type": "폐지제정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "산업통상부(지역경제진흥과)",
     "담당자명": "최선혜",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "기회발전특구 지정 통합고시",
-    "발령일자": "20250730",
+    "발령일자": "20260205",
     "행정규칙종류": "고시",
     "제개정구분코드": "200407",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1451000",
     "생성일자": "20260211",
     "행정규칙ID": "89713",
-    "시행일자": "20250805",
-    "담당부서기관코드": "1450516",
-    "발령번호": "2025-131",
-    "행정규칙일련번호": "2100000262414",
+    "시행일자": "20260211",
+    "담당부서기관코드": "1451215",
+    "발령번호": "2026-10",
+    "행정규칙일련번호": "2100000274336",
     "상위부처명": "산업통상부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n지방자치분권 및 지역균형발전에 관한 특별법 제23조제2항 및 같은법 시행령 제20조제3항에 따라 기회발전특구를 지정함\n\n◇ 주요내용\n1. 기회발전특구 위치 및 면적\n2.. 시ㆍ도별 기회발전특구 지형도면 및 지번\n3. 기타사항\n- 통합고시에 따라 기존 개별고시는 모두 폐지",
+  "revision_reason": "◇ 제ㆍ개정 이유\n부산, 울산 기회발전특구 지정 신청에 따른 지방시대위원회 심의ㆍ의결 결과를 고시하고자 함\n◇ 주요내용\n가. 부산 기회발전특구 신규 지정\n나. 울산 기회발전특구 신규 지정 및 변경",
   "body": {
     "format": "articles",
     "article_count": 0,
@@ -44,7 +44,16 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "★ 기회발전특구 지정 통합고시(산업통상자원부 고시 2026-010).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161488131",
+      "filename": "★ 기회발전특구 지정 통합고시(산업통상자원부 고시 2026-010).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★ 기회발전특구 지정 통합고시(산업통상자원부 고시 2026-010).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -57,7 +66,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 0,
     "appendices_count": 0,
-    "attachments_count": 4
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/기회발전특구 지정 통합고시"
@@ -66,5 +75,8 @@
   "addendum_provision_id": "admrul:기회발전특구지정통합고시#ADDENDUM",
   "amendment_provision_id": "admrul:기회발전특구지정통합고시#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "기회발전특구 지정 통합고시/기회발전특구 지정 통합고시.json"
 }
