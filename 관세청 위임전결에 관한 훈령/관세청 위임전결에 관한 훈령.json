@@ -1,25 +1,25 @@
 {
   "law_id": "26880",
-  "mst": "2100000264792",
+  "mst": "2100000274810",
   "law_name": "관세청 위임전결에 관한 훈령",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:26880",
-  "promulgation_no": "2430",
-  "promulgation_date": "20250923",
-  "enforcement_date": "20250923",
-  "revision_date": "20250923",
+  "promulgation_no": "2450",
+  "promulgation_date": "20260219",
+  "enforcement_date": "20260219",
+  "revision_date": "20260219",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "관세청(행정관리담당관)",
     "담당자명": "김동현",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "관세청 위임전결에 관한 훈령",
-    "발령일자": "20250923",
+    "발령일자": "20260219",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1220000",
     "생성일자": "20260223",
     "행정규칙ID": "26880",
-    "시행일자": "20250923",
+    "시행일자": "20260219",
     "담당부서기관코드": "1221525",
-    "발령번호": "2430",
-    "행정규칙일련번호": "2100000264792",
+    "발령번호": "2450",
+    "행정규칙일련번호": "2100000274810",
     "상위부처명": "관세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정사유\n○ 직제ㆍ시행규칙 및 법령ㆍ고시 개정에 따른 단위업무 현행화\n○ 상위법 제명 변경 반영 및 조항 정리 등\n◇ 주요 개정내용\n○ 직제시행규칙 개정에 따른 부서명 변경, 부서 간 업무이관 등\n[그림]\n",
+  "revision_reason": "◇ 개정사유\nㅇ 직제시행규칙 개정에 따른 단위업무 신설 및 이관\n◇ 주요 개정내용\nㅇ 직제시행규칙 개정에 따른 부서 간 업무이관\n[그림]\n",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -48,7 +48,48 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 훈령은「행정업무의 운영 및 혁신에 관한 규정」제10조제2항에 따라 관세청장의 권한에 속하는 업무의 일부를 보조기관 또는 보좌기관 등에 위임하여 처리함으로써 권한과 책임을 분명히 하고, 행정의 능률과 업무처리의 간소화를 도모함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「행정업무의 운영 및 혁신에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "행정업무의 운영 및 혁신에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "26880",
+            "target_url": "https://www.law.go.kr/법령/행정업무의 운영 및 혁신에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청위임전결에관한훈령#JO0001",
+            "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조제2항",
+            "line_text": "",
+            "target_law_name": "행정업무의 운영 및 혁신에 관한 규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "26880",
+            "target_url": "https://www.law.go.kr/법령/행정업무의 운영 및 혁신에 관한 규정/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청위임전결에관한훈령#JO0001",
+            "reference_id": "law:행정업무의운영및혁신에관한규정#JO0010",
+            "target_repo": "LAW",
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:관세청위임전결에관한훈령#JO0001"
       },
@@ -81,7 +122,28 @@
         "chapter_path": "",
         "content": "제3조의2(전결사항의 예외) 제3조에 따른 전결사항에도 불구하고 관세청장은 아래사항에 대해 보조기관 또는 보좌기관 등에 업무를 위임해서는 아니 된다.1. 국민생활에 미치는 파급효과가 큰 사항2. 이해관계자 사이의 갈등이 높은 사항3. 그 밖에 정책 영향력이 크고 민감도가 높은 사항",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조의2",
+            "source_clause": "제3조의2",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "관세청 위임전결에 관한 훈령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "26880",
+            "target_url": "https://www.law.go.kr/행정규칙/관세청 위임전결에 관한 훈령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청위임전결에관한훈령#JO0003_02",
+            "reference_id": "admrul:관세청위임전결에관한훈령#JO0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 위임전결에 관한 훈령/관세청 위임전결에 관한 훈령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:관세청위임전결에관한훈령#JO0003_02"
       },
@@ -92,7 +154,28 @@
         "chapter_path": "",
         "content": "제4조(전결권자 부재시의 결재) 전결권자가 휴가, 출장, 그 밖에 사고 등 사유로 결재할 수 없을 때에는 「직무대리규정」에 따라 처리한다. 다만, 내용이 중요한 문서는 전결권자에게 사후에 보고하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「직무대리규정」",
+            "line_text": "",
+            "target_law_name": "직무대리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "26880",
+            "target_url": "https://www.law.go.kr/법령/직무대리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청위임전결에관한훈령#JO0004",
+            "reference_id": "law:직무대리규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "직무대리규정/법률/직무대리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:관세청위임전결에관한훈령#JO0004"
       },
@@ -136,7 +219,28 @@
         "chapter_path": "",
         "content": "제8조(직제개정) 「관세청과 그 소속기관 직제」 및 같은 영 시행규칙을 개정하여 시행할 경우에는 그 개정내용에 따라 별표의 기구명 및 소관업무 등도 개정된 것으로 본다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "같은 영 시행규칙",
+            "line_text": "",
+            "target_law_name": "관세청과 그 소속기관 직제 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "26880",
+            "target_url": "https://www.law.go.kr/법령/관세청과 그 소속기관 직제 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청위임전결에관한훈령#JO0008",
+            "reference_id": "law:관세청과그소속기관직제시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "관세청과 그 소속기관 직제/시행규칙/관세청과 그 소속기관 직제 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:관세청위임전결에관한훈령#JO0008"
       }
@@ -147,100 +251,244 @@
       "promulgation_date": "20050331",
       "promulgation_no": "1007",
       "content": "부칙 <제1007호,2005. 3. 31.>이 시행세칙은 2005. 4 . 1 . 부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20080903",
       "promulgation_no": "1188",
       "content": "부칙 <제1188호,2008. 9. 3.>이 시행세칙은 2008. 9.  3. 부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20110414",
       "promulgation_no": "1422",
       "content": "부칙 <제1422호,2011. 4. 14.>이 시행세칙은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20120522",
       "promulgation_no": "1481",
       "content": "부칙 <제1481호,2012. 5. 22.>이 시행세칙은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20131111",
       "promulgation_no": "1579",
       "content": "부칙 <제1579호,2013. 11. 11.>이 시행세칙은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20150206",
       "promulgation_no": "1674",
       "content": "부칙 <제1674호,2015. 2. 6.>이 훈령은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20160329",
       "promulgation_no": "1818",
       "content": "부칙 <제1818호,2016. 3. 29.>이 훈령은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20170628",
       "promulgation_no": "1870",
       "content": "부칙 <제1870호,2017. 6. 28.>이 훈령은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20191203",
       "promulgation_no": "1983",
       "content": "부칙 <제1983호,2019. 12. 3.>이 훈령은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20210330",
       "promulgation_no": "2097",
       "content": "부칙 <제2097호, 2021. 3. 30.>이 훈령은  21. 3. 30.부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20211228",
       "promulgation_no": "2176",
       "content": "부칙 <제2176호, 2021. 12. 28.>이 훈령은  21. 12. 28.부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20221227",
       "promulgation_no": "2226",
       "content": "부칙 <제2226호, 2022. 12. 27.>이 훈령은 2022년 12월 27일부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20241016",
       "promulgation_no": "2344",
       "content": "부칙 <제2344호, 2024. 10. 16.>이 훈령은 2024년 10월 16일부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     },
     {
       "promulgation_date": "20250923",
       "promulgation_no": "2430",
       "content": "부칙 <제2430호, 2025. 9. 23.>이 훈령은 2025년 9월 23일부터 시행한다.",
-      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM"
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
+    },
+    {
+      "promulgation_date": "20260219",
+      "promulgation_no": "2450",
+      "content": "부칙 <제2450호, 2026. 2. 19.>이 훈령은 2026년 2월 19일부터 시행한다.",
+      "provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274810",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260219"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "관세청 위임전결사항",
+      "enforcement_date": "",
+      "content": "[별표] 관세청 위임전결사항의 자세한 내용은 상단 메뉴 버튼을 이용하십시오.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161780749",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161780745",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161780749",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:관세청위임전결에관한훈령#BYL0000",
+      "filename": "별표0_관세청 위임전결사항.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_관세청 위임전결사항.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "★(260219) 관세청 위임전결에 관한 훈령_전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161780667",
+      "filename": "★(260219) 관세청 위임전결에 관한 훈령_전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★(260219) 관세청 위임전결에 관한 훈령_전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "★(260219) 관세청 위임전결에 관한 훈령_전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161780671",
+      "filename": "★(260219) 관세청 위임전결에 관한 훈령_전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★(260219) 관세청 위임전결에 관한 훈령_전문.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "★(260219) 관세청 위임전결에 관한 훈령_별표.xlsx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161757579",
+      "filename": "★(260219) 관세청 위임전결에 관한 훈령_별표.xlsx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/★(260219) 관세청 위임전결에 관한 훈령_별표.xlsx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 1
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 14,
+    "addenda_count": 15,
     "appendices_count": 1,
     "attachments_count": 3
   },
@@ -251,5 +499,8 @@
   "addendum_provision_id": "admrul:관세청위임전결에관한훈령#ADDENDUM",
   "amendment_provision_id": "admrul:관세청위임전결에관한훈령#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "관세청 위임전결에 관한 훈령/관세청 위임전결에 관한 훈령.json"
 }
