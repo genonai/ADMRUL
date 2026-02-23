@@ -1,25 +1,25 @@
 {
   "law_id": "58910",
-  "mst": "2100000264486",
+  "mst": "2100000274586",
   "law_name": "해양경찰교육원 도서관 운영규칙",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:58910",
-  "promulgation_no": "134",
-  "promulgation_date": "20250916",
-  "enforcement_date": "20250916",
-  "revision_date": "20250916",
+  "promulgation_no": "147",
+  "promulgation_date": "20260223",
+  "enforcement_date": "20260223",
+  "revision_date": "20260223",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "해양경찰교육원(운영지원과)",
     "담당자명": "문정웅",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "해양경찰교육원 도서관 운영규칙",
-    "발령일자": "20250916",
+    "발령일자": "20260223",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1532000",
     "생성일자": "20260223",
     "행정규칙ID": "58910",
-    "시행일자": "20250916",
+    "시행일자": "20260223",
     "담당부서기관코드": "1532673",
-    "발령번호": "134",
-    "행정규칙일련번호": "2100000264486",
+    "발령번호": "147",
+    "행정규칙일련번호": "2100000274586",
     "상위부처명": "해양경찰청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n- 해양경찰교육원 교육 대혁신, 선제적인 인력운영 효율화 방안 등을 반영하는 직제가 개정됨에 따라 이를 반영하여 현실에 맞게 재정비하여 운영하기 위한 개정임.\n\n◇ 주요내용\n가. 기획운영계장을 기획예산계장으로 변경(제7조, 제16조)\n나. 의사결정을 위해 위원 인원 수 변경(제7조)\n다. 교육원 운영 현실에 맞는 용어로 삭제 및 변경(제10조, 제16조)\n라. 법령 정비기준 정비 대상 용어 삭제(제4조, 제5조, 제8조, 제13조)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 해양경찰교육원과 소속기관 사무분장 규칙 개정에 따른 변경\n◇ 주요내용\n- 기획예산계장을 총무계장으로 변경(제7조, 제16조)",
   "body": {
     "format": "articles",
     "article_count": 20,
@@ -112,7 +112,7 @@
         "article_title": "도서관운영위원회 설치",
         "chapter": "제2장 자료의 수집 및 관리",
         "chapter_path": "제2장 자료의 수집 및 관리",
-        "content": "제7조(도서관운영위원회 설치) ① 도서관운영위원회는 자료구입 선정 및 도서관 운영에 관한 사항을 심의하며, 위원장은 운영지원과장이 되고 위원은 교수요원(3명)과 교직원(2명)으로 하고 간사는 기획예산계장으로 한다.② 운영위원회 안건의 결정은 출석위원 과반수의 찬성으로 의결한다.③ 자료선정이 필요할 시 운영지원과장이 수시 운영위원회를 소집할 수 있다.④ 자료선정에 관한 구체적 지침과 절차는 운영지원과장이 따로 정한다.",
+        "content": "제7조(도서관운영위원회 설치) ① 도서관운영위원회는 자료구입 선정 및 도서관 운영에 관한 사항을 심의하며, 위원장은 운영지원과장이 되고 위원은 교수요원(3명)과 교직원(2명)으로 하고 간사는 총무계장으로 한다.② 운영위원회 안건의 결정은 출석위원 과반수의 찬성으로 의결한다.③ 자료선정이 필요할 시 운영지원과장이 수시 운영위원회를 소집할 수 있다.④ 자료선정에 관한 구체적 지침과 절차는 운영지원과장이 따로 정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -147,7 +147,33 @@
         "chapter_path": "제3장 열람ㆍ대출ㆍ반납",
         "content": "제10조(이용자격) 도서관의 장서의 열람 및 대출은 학생 및 해양경찰청 소속공무원과 직원에 한하며 신분이 확인된 외부 이용자는 별지 제1호서식에 기재한 후 열람만 할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "해양경찰교육원 도서관 운영규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "외부 이용자 대장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "58910",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161605963",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양경찰교육원도서관운영규칙#JO0010",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:해양경찰교육원도서관운영규칙#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "해양경찰교육원 도서관 운영규칙/해양경찰교육원 도서관 운영규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:해양경찰교육원도서관운영규칙#JO0010"
       },
@@ -169,7 +195,48 @@
         "chapter_path": "제3장 열람ㆍ대출ㆍ반납",
         "content": "제12조(휴관일) 도서관의 휴관일은 다음과 같다.1. 자료실: 토ㆍ일요일, 「관공서의 공휴일에 관한 규정」 제2조에 따른 공휴일2. 열람실: 연중무휴",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「관공서의 공휴일에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "관공서의 공휴일에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "58910",
+            "target_url": "https://www.law.go.kr/법령/관공서의 공휴일에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양경찰교육원도서관운영규칙#JO0012",
+            "reference_id": "law:관공서의공휴일에관한규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "관공서의 공휴일에 관한 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "58910",
+            "target_url": "https://www.law.go.kr/법령/관공서의 공휴일에 관한 규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양경찰교육원도서관운영규칙#JO0012",
+            "reference_id": "law:관공서의공휴일에관한규정#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:해양경찰교육원도서관운영규칙#JO0012"
       },
@@ -211,7 +278,7 @@
         "article_title": "반납",
         "chapter": "제3장 열람ㆍ대출ㆍ반납",
         "chapter_path": "제3장 열람ㆍ대출ㆍ반납",
-        "content": "제16조(반납) 자료 대출자 중 다음 각 호에 해당하는 사유가 발생할 때에는 대출 자료를 즉시 반납하여야 하며, 관련 담당자는 해당사실을 기획예산계장에게 통보해야 한다.1. 교수요원 및 교직원: 퇴직, 휴직, 전출 시2. 신임 학생: 퇴교 또는 졸업 시3. 전문과정 학생: 수료 또는 교육중단 시4. 그 밖에 필요에 의하여 반납 요청이 있을 때",
+        "content": "제16조(반납) 자료 대출자 중 다음 각 호에 해당하는 사유가 발생할 때에는 대출 자료를 즉시 반납하여야 하며, 관련 담당자는 해당사실을 총무계장에게 통보해야 한다.1. 교수요원 및 교직원: 퇴직, 휴직, 전출 시2. 신임 학생: 퇴교 또는 졸업 시3. 전문과정 학생: 수료 또는 교육중단 시4. 그 밖에 필요에 의하여 반납 요청이 있을 때",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -255,9 +322,30 @@
         "article_title": "재검토기한",
         "chapter": "제3장 열람ㆍ대출ㆍ반납",
         "chapter_path": "제3장 열람ㆍ대출ㆍ반납",
-        "content": "제20조(재검토기한) 이 규칙은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "content": "제20조(재검토기한) 이 규칙은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "58910",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양경찰교육원도서관운영규칙#JO0020",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:해양경찰교육원도서관운영규칙#JO0020"
       }
@@ -268,28 +356,104 @@
       "promulgation_date": "20200821",
       "promulgation_no": "56",
       "content": "부칙 <제56호,2020. 8. 21.>이 규칙은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:해양경찰교육원도서관운영규칙#ADDENDUM"
+      "provision_id": "admrul:해양경찰교육원도서관운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274586",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260223"
     },
     {
       "promulgation_date": "20250916",
       "promulgation_no": "134",
       "content": "부칙 <제134호, 2025. 9. 16.>이 예규는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:해양경찰교육원도서관운영규칙#ADDENDUM"
+      "provision_id": "admrul:해양경찰교육원도서관운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274586",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260223"
+    },
+    {
+      "promulgation_date": "20260223",
+      "promulgation_no": "147",
+      "content": "부칙 <제147호, 2026. 2. 23.>이 예규는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:해양경찰교육원도서관운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000274586",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260223"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외부 이용자 대장",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n외부 이용자 대장\n┏━━━━┯━━┯━━┯━━━┯━━━┯━━━━━━┓\n┃일련번호│일시│성명│소 속 │연락처│이용자료 명 ┃\n┣━━━━┿━━┿━━┿━━━┿━━━┿━━━━━━┫\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┠────┼──┼──┼───┼───┼──────┨\n┃        │    │    │      │      │            ┃\n┗━━━━┷━━┷━━┷━━━┷━━━┷━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161605963",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161605959",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161605963",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:해양경찰교육원도서관운영규칙#BJ0001",
+      "filename": "별지1_외부 이용자 대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_외부 이용자 대장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "해양경찰교육원 도서관 운영규칙.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161605885",
+      "filename": "해양경찰교육원 도서관 운영규칙.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/해양경찰교육원 도서관 운영규칙.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "해양경찰교육원 도서관 운영규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161605889",
+      "filename": "해양경찰교육원 도서관 운영규칙.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/해양경찰교육원 도서관 운영규칙.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "행정규칙": 2,
+      "법령": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 1,
+      "citation": 3
+    },
     "articles_total": 20,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 1,
     "attachments_count": 2
   },
@@ -300,5 +464,8 @@
   "addendum_provision_id": "admrul:해양경찰교육원도서관운영규칙#ADDENDUM",
   "amendment_provision_id": "admrul:해양경찰교육원도서관운영규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "해양경찰교육원 도서관 운영규칙/해양경찰교육원 도서관 운영규칙.json"
 }
