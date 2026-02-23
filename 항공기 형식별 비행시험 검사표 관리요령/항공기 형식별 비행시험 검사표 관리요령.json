@@ -1,25 +1,25 @@
 {
   "law_id": "48834",
-  "mst": "2100000254784",
+  "mst": "2100000287690",
   "law_name": "항공기 형식별 비행시험 검사표 관리요령",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:48834",
-  "promulgation_no": "545",
-  "promulgation_date": "20250218",
-  "enforcement_date": "20250218",
-  "revision_date": "20250218",
+  "promulgation_no": "555",
+  "promulgation_date": "20260223",
+  "enforcement_date": "20260223",
+  "revision_date": "20260223",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "서울지방항공청(항공검사과)",
-    "담당자명": "우태영",
+    "담당자명": "여주원",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "항공기 형식별 비행시험 검사표 관리요령",
-    "발령일자": "20250218",
+    "발령일자": "20260223",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "032-740-2177",
     "제개정구분명": "일부개정",
     "소관부처코드": "1613000",
-    "생성일자": "20250306",
+    "생성일자": "20261103",
     "행정규칙ID": "48834",
-    "시행일자": "20250218",
+    "시행일자": "20260223",
     "담당부서기관코드": "1613327",
-    "발령번호": "545",
-    "행정규칙일련번호": "2100000254784",
+    "발령번호": "555",
+    "행정규칙일련번호": "2100000287690",
     "상위부처명": "국토교통부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 국토교통부 고시 항공기기술기준 Part 21 21.183(b) 따라 항공기 비행 성능을 확인하기 위한 항공기 형식별 비행시험 검사표 별권 중 국내로 새롭게 도입된 항공기 형식을 추가하고 제작사 비행교범 개정 등에 따른 일부 기종 검사표 수정사항 반영\n◇ 제ㆍ개정 내용\nㅇ 비행시험 점검표 항공기 기종 추가(EMB-550, C90A, XL-2, H160-B)\nㅇ 제작사 비행교범 개정사항 반영(A320 등 6개 기종)\nㅇ 기존 비행시험 점검표 오기 수정(A330, B747-8/8F, B777)\nㅇ 비행시험 중 측정이 불가한 일부 항목* 삭제(S-76D)\n* Hover Track And Balance Chk’ 중 Lateral Chk’ 등 2건\nㅇ 항공기 형식명 및 일부 수치 개정(BD-500-1A11)\nㅇ 기존 비행시험 점검표 전면 개정(S-92A)",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 국토교통부 고시 항공기기술기준 Part 21 21.183(b) 따라 항공기 비행 성능을 확인하기 위한 항공기 형식별 비행시험 검사표 별권 중 국내로 새롭게 도입된 항공기 형식을 추가하고 제작사 비행교범 개정 등에 따른 일부 기종 검사표 수정사항 반영\n◇ 제ㆍ개정 내용\nㅇ 비행시험 검사표 항공기 기종 추가(Bell 505, ATR72-212A 600version,)\nㅇ 검사시 운항 제한치 초과로 정비소요 발생이 높은 검사항목 삭제(AW139)\nㅇ 제작사 검사표 기준 내용 통일(EMB550)\nㅇ 검사표 내용을 실제 운항절차에 맞게 변경(S58, S-76D)\nㅇ 기존 비행시험 검사표 내 오기 수정 및 문구 명확화(B747)",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -89,9 +89,7 @@
             "source_provision_id": "admrul:항공기형식별비행시험검사표관리요령#JO0003",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
-            "target_git_path": "항공안전법/법률/항공안전법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
           },
           {
             "relation_type": "citation",
@@ -111,9 +109,7 @@
             "source_provision_id": "admrul:항공기형식별비행시험검사표관리요령#JO0003",
             "reference_id": "law:항공안전법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
-            "target_git_path": "항공안전법/법률/항공안전법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
           },
           {
             "relation_type": "citation",
@@ -133,11 +129,7 @@
             "source_provision_id": "admrul:항공기형식별비행시험검사표관리요령#JO0003",
             "reference_id": "admrul:항공안전감독관업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공안전감독관업무규정/항공안전감독관업무규정.json",
-            "target_git_path": "항공안전감독관 업무규정/항공안전감독관 업무규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "항공안전감독관업무규정/항공안전감독관업무규정.json"
           },
           {
             "relation_type": "citation",
@@ -157,11 +149,7 @@
             "source_provision_id": "admrul:항공기형식별비행시험검사표관리요령#JO0003",
             "reference_id": "admrul:항공안전감독관업무규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공안전감독관업무규정/항공안전감독관업무규정.json",
-            "target_git_path": "항공안전감독관 업무규정/항공안전감독관 업무규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "항공안전감독관업무규정/항공안전감독관업무규정.json"
           }
         ],
         "images": [],
@@ -237,11 +225,7 @@
             "source_provision_id": "admrul:항공기형식별비행시험검사표관리요령#JO0007",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
@@ -256,10 +240,10 @@
       "content": "부칙 <제496호,2020. 4. 13.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
       "provision_id": "admrul:항공기형식별비행시험검사표관리요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254784",
+      "source_mst": "2100000287690",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250218"
+      "version_enforcement_date": "20260223"
     },
     {
       "promulgation_date": "20210728",
@@ -267,10 +251,10 @@
       "content": "부칙 <제513호, 2021. 7. 28.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
       "provision_id": "admrul:항공기형식별비행시험검사표관리요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254784",
+      "source_mst": "2100000287690",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250218"
+      "version_enforcement_date": "20260223"
     },
     {
       "promulgation_date": "20220630",
@@ -278,10 +262,10 @@
       "content": "부칙 <제522호, 2022. 6. 30.>제정 : 2008. 5. 1.                                                       개정 : 2022.06.30.제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
       "provision_id": "admrul:항공기형식별비행시험검사표관리요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254784",
+      "source_mst": "2100000287690",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250218"
+      "version_enforcement_date": "20260223"
     },
     {
       "promulgation_date": "20230704",
@@ -289,10 +273,10 @@
       "content": "부칙 <제526호, 2023. 7. 4.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
       "provision_id": "admrul:항공기형식별비행시험검사표관리요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254784",
+      "source_mst": "2100000287690",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250218"
+      "version_enforcement_date": "20260223"
     },
     {
       "promulgation_date": "20250218",
@@ -300,10 +284,21 @@
       "content": "부칙 <제545호, 2025. 2. 18.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
       "provision_id": "admrul:항공기형식별비행시험검사표관리요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254784",
+      "source_mst": "2100000287690",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250218"
+      "version_enforcement_date": "20260223"
+    },
+    {
+      "promulgation_date": "20260223",
+      "promulgation_no": "555",
+      "content": "부칙 <제555호, 2026. 2. 23.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.",
+      "provision_id": "admrul:항공기형식별비행시험검사표관리요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287690",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260223"
     }
   ],
   "appendices": [
@@ -311,57 +306,41 @@
       "no": "0000",
       "branch": "00",
       "kind": "별첨",
-      "title": "항공기형식별 비행시험 검사표",
+      "title": "항공기 형식별 비행시험 검사표",
       "enforcement_date": "",
-      "content": "[별권] 항공기형식별 비행시험 검사표의 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.",
+      "content": "<별표 1> 항공기 형식별 비행시험 검사표\n※ 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n서울지방항공청 예규555호 전문.zip",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149246845",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171117655",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149246841",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171117651",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149246845",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171117655",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:항공기형식별비행시험검사표관리요령#BC0000",
-      "filename": "별첨0_항공기형식별 비행시험 검사표.hwp",
+      "filename": "별첨0_항공기 형식별 비행시험 검사표.hwp",
       "file_dir": "별첨",
-      "local_path": "별첨/별첨0_항공기형식별 비행시험 검사표.hwp",
+      "local_path": "별첨/별첨0_항공기 형식별 비행시험 검사표.hwp",
       "file_store_url": ""
     }
   ],
   "attachments": [
     {
-      "name": "서울지방항공청 예규545호 전문.zip",
-      "url": "http://law.go.kr/flDownload.do?flSeq=149203521",
-      "filename": "서울지방항공청 예규545호 전문.zip",
+      "name": "서울지방항공청 예규555호 전문.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171110595",
+      "filename": "서울지방항공청 예규555호 전문.zip",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/서울지방항공청 예규545호 전문.zip",
-      "file_store_url": ""
-    },
-    {
-      "name": "항공기 형식별 비행시험 검사표 관리요령 조문별제개정이유서.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=149688419",
-      "filename": "항공기 형식별 비행시험 검사표 관리요령 조문별제개정이유서.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/항공기 형식별 비행시험 검사표 관리요령 조문별제개정이유서.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "항공기 형식별 비행시험 검사표 관리요령 조문별제개정이유서.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=149688423",
-      "filename": "항공기 형식별 비행시험 검사표 관리요령 조문별제개정이유서.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/항공기 형식별 비행시험 검사표 관리요령 조문별제개정이유서.pdf",
+      "local_path": "첨부파일/서울지방항공청 예규555호 전문.zip",
       "file_store_url": ""
     }
   ],
@@ -380,9 +359,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 1,
-    "attachments_count": 3
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/항공기 형식별 비행시험 검사표 관리요령"
