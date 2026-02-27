@@ -1,25 +1,25 @@
 {
   "law_id": "24610",
-  "mst": "2100000255776",
+  "mst": "2100000275320",
   "law_name": "예산 편성 및 집행심의회 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:24610",
-  "promulgation_no": "2240",
-  "promulgation_date": "20250304",
-  "enforcement_date": "20250304",
-  "revision_date": "20250304",
+  "promulgation_no": "2356",
+  "promulgation_date": "20260227",
+  "enforcement_date": "20260227",
+  "revision_date": "20260227",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "조달청(기획재정담당관)",
-    "담당자명": "윤종현",
+    "담당자명": "이현우",
     "행정규칙종류코드": "B0001",
-    "행정규칙명": "예산 편성 및 집행심의회 규정",
-    "발령일자": "20250304",
+    "행정규칙명": "예산 편성 및 집행심의회 규정 ",
+    "발령일자": "20260227",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1230000",
     "생성일자": "20260303",
     "행정규칙ID": "24610",
-    "시행일자": "20250304",
+    "시행일자": "20260227",
     "담당부서기관코드": "1230384",
-    "발령번호": "2240",
-    "행정규칙일련번호": "2100000255776",
+    "발령번호": "2356",
+    "행정규칙일련번호": "2100000275320",
     "상위부처명": "조달청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n□ 법제처 주관 \"행정규칙 속 어려운 용어 정비계획\" 후속조치에 따른 개정 등\n◇ 주요내용\n가. 어려운 용어 정비(예: 부의 → 회의에 부치는 등)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n조달청 직제개정(`26.1.1.) 반영\n◇ 주요내용\n① 혁신조달기획관 신설에 따라, 심사위원에 혁신조달기획관 포함",
   "body": {
     "format": "articles",
     "article_count": 12,
@@ -48,7 +48,68 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 규정은 「국가재정법」 제98조 및 같은 법 시행령 제49조에 따라 \"조달청예산편성및집행심의회\"(이하 \"심의회\"라 한다)를 설치ㆍ운영함으로써 경제적인 재정관리를 도모하고 예산운용의 효율성을 제고함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제98조",
+            "line_text": "",
+            "target_law_name": "국가재정법",
+            "target_article_no": "제98조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/법령/국가재정법/제98조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법#JO0098",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "국가재정법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/법령/국가재정법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제49조",
+            "line_text": "",
+            "target_law_name": "국가재정법 시행령",
+            "target_article_no": "제49조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/법령/국가재정법 시행령/제49조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법시행령#JO0049",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:예산편성및집행심의회규정#JO0001"
       },
@@ -68,7 +129,7 @@
         "article_title": "구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(구성) ① 위원장은 조달청 차장이 되고 위원은 각 국장, 기획조정관, 신성장조달기획관, 감사담당관, 운영지원과장, 민간위원 2인이 된다.",
+        "content": "제3조(구성) ① 위원장은 조달청 차장이 되고 위원은 각 국장, 기획조정관, 혁신조달기획관, 감사담당관, 운영지원과장, 민간위원 2인이 된다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -112,9 +173,55 @@
         "article_title": "심의요구",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(심의요구) 본청의 각 국장, 기획조정관, 신성장조달기획관(필요시 소속과ㆍ팀장 포함), 조달품질원장, 공공조달역량개발원장, 각 지방조달청장은 제6조 제1항 각 호의 규정에 의한 심의사항이 발생한 때에는 심의회에 심의요구(별지1호 및 2호 서식)를 하여야 한다. 다만, 예산의 편성, 이월ㆍ이체ㆍ이용 및 전용에 관한 사항은 기획재정담당관이 요구사항을 일괄하여 심의 요구할 수 있다.",
+        "content": "제7조(심의요구) 본청의 각 국장, 기획조정관, 혁신조달기획관(필요시 소속과ㆍ팀장 포함), 조달품질원장, 공공조달역량개발원장, 각 지방조달청장은 제6조 제1항 각 호의 규정에 의한 심의사항이 발생한 때에는 심의회에 심의요구(별지1호 및 2호 서식)를 하여야 한다. 다만, 예산의 편성, 이월ㆍ이체ㆍ이용 및 전용에 관한 사항은 기획재정담당관이 요구사항을 일괄하여 심의 요구할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "예산 편성 및 집행심의회 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/행정규칙/예산 편성 및 집행심의회 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0007",
+            "reference_id": "admrul:예산편성및집행심의회규정#JO0006",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "예산 편성 및 집행심의회 규정/예산 편성 및 집행심의회 규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지1호",
+            "line_text": "",
+            "target_law_name": "예산 편성 및 집행심의회 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "심의요구",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162054421",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0007",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:예산편성및집행심의회규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "예산 편성 및 집행심의회 규정/예산 편성 및 집행심의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:예산편성및집행심의회규정#JO0007"
       },
@@ -125,7 +232,28 @@
         "chapter_path": "",
         "content": "제8조(심의효과) ① 심의회에 부치는 사항으로서 의결되지 아니한 사항에 대하여는 당해 예산을 예산안에 반영하거나 집행할 수 없다.② 심의회의 심의를 거쳐 집행한 사항은 「공공감사에 관한 법률」에 따라 자체 감사대상에서 제외할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "「공공감사에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공감사에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/법령/공공감사에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0008",
+            "reference_id": "law:공공감사에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:예산편성및집행심의회규정#JO0008"
       },
@@ -136,7 +264,28 @@
         "chapter_path": "",
         "content": "제9조(재심의) ① 심의회의 심의에서 보류되었거나 부결된 사항 중 예산반영 및 집행이 불가피하다고 인정 될 때에는 재심의를 요구할 수 있다.② 재심의의 요구는 제7조 규정에 준한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "예산 편성 및 집행심의회 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/행정규칙/예산 편성 및 집행심의회 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0009",
+            "reference_id": "admrul:예산편성및집행심의회규정#JO0007",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "예산 편성 및 집행심의회 규정/예산 편성 및 집행심의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:예산편성및집행심의회규정#JO0009"
       },
@@ -147,7 +296,48 @@
         "chapter_path": "",
         "content": "제10조(회의 및 의사) ① 위원장은 심의회를 소집하며 그 의장이 된다.② 심의회는 제6조 제1항의 규정에 의한 심의사항이 있을 때에 개최한다.③ 심의회는 재적위원(위원장 포함) 과반수의 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다. 다만, 가부동수인 경우에는 부결된 것으로 본다.④ 심의회는 제6조 제1항 각 호의 사항을 심의함에 있어서 필요한 때에는 위원 이외의 관계자의 의견을 들을 수 있다.⑤ 사안의 긴급, 기타 사유로 인하여 심의회를 개최할 수 없는 경우에는 서면 심의로 갈음할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "예산 편성 및 집행심의회 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/행정규칙/예산 편성 및 집행심의회 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0010",
+            "reference_id": "admrul:예산편성및집행심의회규정#JO0006",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "예산 편성 및 집행심의회 규정/예산 편성 및 집행심의회 규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제4항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "예산 편성 및 집행심의회 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "24610",
+            "target_url": "https://www.law.go.kr/행정규칙/예산 편성 및 집행심의회 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예산편성및집행심의회규정#JO0010",
+            "reference_id": "admrul:예산편성및집행심의회규정#JO0006",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "예산 편성 및 집행심의회 규정/예산 편성 및 집행심의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:예산편성및집행심의회규정#JO0010"
       },
@@ -180,48 +370,171 @@
       "promulgation_date": "20050824",
       "promulgation_no": "1306",
       "content": "부칙 <제1306호,2005. 8. 24.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000275320",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260227"
     },
     {
       "promulgation_date": "20210805",
       "promulgation_no": "1999",
       "content": "부칙 <제1999호, 2021. 8. 5.>이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000275320",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260227"
     },
     {
       "promulgation_date": "20230221",
       "promulgation_no": "2089",
       "content": "부칙 <제2089호, 2023. 2. 21.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000275320",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260227"
     },
     {
       "promulgation_date": "20230721",
       "promulgation_no": "2122",
       "content": "부칙 <제2122호, 2023. 7. 21.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000275320",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260227"
     },
     {
       "promulgation_date": "20250304",
       "promulgation_no": "2240",
       "content": "부칙 <제2240호, 2025. 3. 4.>이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000275320",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260227"
+    },
+    {
+      "promulgation_date": "20260227",
+      "promulgation_no": "2356",
+      "content": "부칙 <제2356호, 2026. 2. 27.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000275320",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260227"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "심의요구",
+      "enforcement_date": "",
+      "content": "[별지1호 서식]\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━┓\n┃의안번호  │제              호                    │의   결 ┃\n┠─────┼───────────────────┤        ┃\n┃의결년월일│.     .     .                         │사   항 ┃\n┃          │제   차 조달청 예산편성 및 집행 심의회│        ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━┛\n┏━━━━┓\n┃건  명：┃\n┗━━━━┛\n┏━━━━━┯━━━━━━━━━━━━━┓\n┃제  출  자│○ ○ ○  과 장 (지방청장)┃\n┠─────┼─────────────┨\n┃제출년월일│.     .     .             ┃\n┗━━━━━┷━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162054421",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162054017",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162054421",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:예산편성및집행심의회규정#BJ0001",
+      "filename": "별지1_심의요구.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_심의요구.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "의결주문",
+      "enforcement_date": "",
+      "content": "[별지2호 서식]\n1. 의결주문\nㆍ\n2. 심의요청사유\nㆍ\n3. 심의사항(사업내용 및 추진계획)\nㆍ\n4. 소요예산 확보방안\nㆍ\n5. 기타 참고사항 및 의견\nㆍ",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162054427",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162054423",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162054427",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:예산편성및집행심의회규정#BJ0002",
+      "filename": "별지2_의결주문.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_의결주문.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "예산 편성 및 집행심의회 규정(조달청훈령 제2356호¸ 20260227).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162054327",
+      "filename": "예산 편성 및 집행심의회 규정(조달청훈령 제2356호¸ 20260227).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/예산 편성 및 집행심의회 규정(조달청훈령 제2356호¸ 20260227).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "예산 편성 및 집행심의회 규정(조달청훈령 제2356호¸ 20260227).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162054331",
+      "filename": "예산 편성 및 집행심의회 규정(조달청훈령 제2356호¸ 20260227).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/예산 편성 및 집행심의회 규정(조달청훈령 제2356호¸ 20260227).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 9,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 4,
+      "appendix_ref": 1
+    },
     "articles_total": 12,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 2,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/예산 편성 및 집행심의회 규정"
@@ -230,5 +543,8 @@
   "addendum_provision_id": "admrul:예산편성및집행심의회규정#ADDENDUM",
   "amendment_provision_id": "admrul:예산편성및집행심의회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "예산 편성 및 집행심의회 규정/예산 편성 및 집행심의회 규정.json"
 }
