@@ -1,25 +1,25 @@
 {
   "law_id": "77392",
-  "mst": "2100000225614",
+  "mst": "2100000276288",
   "law_name": "국립춘천병원 분임예산집행심의회규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:77392",
-  "promulgation_no": "347",
-  "promulgation_date": "20230701",
-  "enforcement_date": "20230701",
-  "revision_date": "20230701",
+  "promulgation_no": "378",
+  "promulgation_date": "20260324",
+  "enforcement_date": "20260324",
+  "revision_date": "20260324",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립춘천병원(기획운영과)",
-    "담당자명": "강물결",
+    "담당자명": "이채연",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립춘천병원 분임예산집행심의회규정",
-    "발령일자": "20230701",
+    "발령일자": "20260324",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1352000",
     "생성일자": "20260325",
     "행정규칙ID": "77392",
-    "시행일자": "20230701",
+    "시행일자": "20260324",
     "담당부서기관코드": "1352765",
-    "발령번호": "347",
-    "행정규칙일련번호": "2100000225614",
+    "발령번호": "378",
+    "행정규칙일련번호": "2100000276288",
     "상위부처명": "보건복지부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n- 기존의 팀명은 업무의 내용과 역할을 충분히 표현하지 못하여 조직의 책임과 권한을 드러내고, 역할을 명확히 할 수 있는 팀명 변경의 필요성이 제기되어 이에 대한 예규를 정비하고자 하는 것임.\n\n◇ 주요내용\n가. 국립춘천병원 물품관리규정 등 11개의 예규에 포함된 ‘서무팀’, ‘관리팀’, ‘용도팀’, ‘원무팀’, ‘성과평가팀’을 각 ‘인사총무팀’, ‘시설관리팀’, ‘재정운용팀’, ‘원무심사팀’, ‘기획성과팀’으로 변경",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 2026년 정기직제 개편 결과, 국립춘천병원 정신건강 서비스 전문성 강화를 위해 장기간 운영되지 않은 치과를 임상심리과로 개편하는 내용과 인력 증원(7급2, 8급1)이「보건복지부와 그 소속기관 직제 시행규칙」(2026. 3. 24. 시행 예정)에 반영됨에 따라, 해당 사항을 반영하여 기본운영규정을 일부개정하고자 함.\n\n◇ 주요내용\n가. 임상심리과 신설에 따라 내부 위원회 구성에 임상심리과 추가(안 제4조)",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -48,7 +48,68 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 규정은 「국가재정법」제98조, 같은 법 시행령 제49조의 규정에 의하여 설치되는 「국립춘천병원 분임예산집행심의회」(이하\"심의회\"라 한다)의 구성 및 운영에 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제98조",
+            "line_text": "",
+            "target_law_name": "국가재정법",
+            "target_article_no": "제98조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "77392",
+            "target_url": "https://www.law.go.kr/법령/국가재정법/제98조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원분임예산집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법#JO0098",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "국가재정법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "77392",
+            "target_url": "https://www.law.go.kr/법령/국가재정법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원분임예산집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제49조",
+            "line_text": "",
+            "target_law_name": "국가재정법 시행령",
+            "target_article_no": "제49조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "77392",
+            "target_url": "https://www.law.go.kr/법령/국가재정법 시행령/제49조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원분임예산집행심의회규정#JO0001",
+            "reference_id": "law:국가재정법시행령#JO0049",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#JO0001"
       },
@@ -57,7 +118,7 @@
         "article_title": "심의회의 구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(심의회의 구성) ① 심의회는 위원장을 포함하여 7인 이상의 위원으로 구성하고, 그 중 2인은 외부위원으로 한다.② 심의회 위원장은 기획운영과장이 되고, 위원은 다음 각 호와 같다.1. 의료부장, 정신재활치료과장, 약제과장, 간호과장, 정신건강사업과장2. 예산회계에 관한 학식과 경험이 풍부한 외부전문가(이하 \"민간위원\"이라 한다)③ 외부위원은 위원장의 추천으로 원장이 위촉하며, 그 임기는 2년으로 하되 연임할 수 있다.④ 심의회 업무를 보조하기 위하여 간사 1명을 두되, 재정운용팀장으로 한다.",
+        "content": "제2조(심의회의 구성) ① 심의회는 위원장을 포함하여 7인 이상의 위원으로 구성하고, 그 중 2인은 외부위원으로 한다.② 심의회 위원장은 기획운영과장이 되고, 위원은 다음 각 호와 같다.1. 의료부장, 정신건강사업과장, 정신재활치료과장, 임상심리과장, 간호과장, 약제과장2. 예산회계에 관한 학식과 경험이 풍부한 외부전문가(이하 \"민간위원\"이라 한다)③ 외부위원은 위원장의 추천으로 원장이 위촉하며, 그 임기는 2년으로 하되 연임할 수 있다.④ 심의회 업무를 보조하기 위하여 간사 1명을 두되, 재정운용팀장으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -147,36 +208,83 @@
       "promulgation_date": "20180126",
       "promulgation_no": "271",
       "content": "부칙 <제271호, 2018. 1. 26.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000276288",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260324"
     },
     {
       "promulgation_date": "20220722",
       "promulgation_no": "330",
       "content": "부칙 <제330호, 2022. 7. 22.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000276288",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260324"
     },
     {
       "promulgation_date": "20230701",
       "promulgation_no": "347",
       "content": "부칙 <제347호, 2023. 7. 1.>이 규정은 2023년 7월 1일부터 시행한다.",
-      "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM"
+      "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000276288",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260324"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "378",
+      "content": "부칙 <제378호, 2026. 3. 24.>이 규정은 2026년 3월 24일부터 시행한다.",
+      "provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000276288",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260324"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "국립춘천병원 분임예산집행심의회규정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162812781",
+      "filename": "국립춘천병원 분임예산집행심의회규정 전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립춘천병원 분임예산집행심의회규정 전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "국립춘천병원 분임예산집행심의회규정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162812785",
+      "filename": "국립춘천병원 분임예산집행심의회규정 전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립춘천병원 분임예산집행심의회규정 전문.pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립춘천병원 분임예산집행심의회규정"
@@ -185,5 +293,8 @@
   "addendum_provision_id": "admrul:국립춘천병원분임예산집행심의회규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립춘천병원분임예산집행심의회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립춘천병원 분임예산집행심의회규정/국립춘천병원 분임예산집행심의회규정.json"
 }
