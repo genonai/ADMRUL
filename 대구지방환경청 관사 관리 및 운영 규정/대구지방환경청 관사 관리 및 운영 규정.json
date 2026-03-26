@@ -1,20 +1,20 @@
 {
   "law_id": "86488",
-  "mst": "2100000276434",
+  "mst": "2100000280558",
   "law_name": "대구지방환경청 관사 관리 및 운영 규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:86488",
-  "promulgation_no": "114",
+  "promulgation_no": "115",
   "promulgation_date": "20260326",
   "enforcement_date": "20260326",
   "revision_date": "20260326",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구지방환경청(운영지원과)",
     "담당자명": "이예슬",
     "행정규칙종류코드": "B0002",
@@ -27,12 +27,12 @@
     "전화번호": "053-230-6413, 6416",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20260612",
+    "생성일자": "20260610",
     "행정규칙ID": "86488",
     "시행일자": "20260326",
     "담당부서기관코드": "1482063",
-    "발령번호": "114",
-    "행정규칙일련번호": "2100000276434",
+    "발령번호": "115",
+    "행정규칙일련번호": "2100000280558",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
@@ -59,7 +59,48 @@
         "chapter_path": "",
         "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"관사\"라 함은 대구청 소속 직원으로 제5조의 입주자격을 갖춘자가 일정기간 지속적으로 거주하는 주택을 말한다.2. \"입주자\"라 함은 관사에 거주하는 자를 말한다.3. \"임시 거주자\"라 함은 제9조에 따른 입주기간 경과자가 관사 정원 미달 시 관사에 임시 거주하는 직원을 말한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0002",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0002",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0009",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0002"
       },
@@ -103,7 +144,28 @@
         "chapter_path": "",
         "content": "제6조(입주자 선정기준) ① 입주자는 제5조의 입주 자격에 해당되는 자 중 다음 각 호의 순서에 따라 입주 우선순위를 정한다.1. 관외 지역 연고자 중 각 목의 순서에 따라 우선순위를 정한다.가. 신규자(발령일로부터 3년 이내)나. 전입자(전입일로부터 3년 이내)이면서, 과거 청관사 미입주자다. 신규 또는 전입이 아닌 자이면서, 과거 청관사 미입주자2. 관내 지역 연고자 중 편도 통근시간(대중교통 기준)이 90분 이상인 자 중 각 목의 순서에 따라 우선순위를 정한다.가. 신규자(발령일로부터 3년 이내)나. 전입자(전입일로부터 3년 이내)이면서, 과거 청관사 미입주자다. 신규 또는 전입이 아닌 자이면서, 과거 청관사 미입주자② 제1항에 따른 입주자 선정 결과 우선 배정 순위가 동일한 자가 2인 이상일 경우 저연차, 직급이 낮은 자 순으로 우선순위를 정한다.③ 관사의 입주는 독신 거주를 원칙으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0006",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0006"
       },
@@ -125,7 +187,28 @@
         "chapter_path": "",
         "content": "제8조(입주자 선정) ① 운영지원과는 입주자가 2년이 만료되는 시점과 인사이동 후 신규 전입자가 있을 경우 입주 희망자 조사를 실시하여야 한다.② 제1항 외에도 매년 1월 정기 수요조사를 실시하여 전체적인 수요를 파악할 수 있다.③ 입주를 희망하는 자는 입주 희망예정일 이전에 운영지원과장에게 입주신청을 하여야 하며, 운영지원과장은 관리위원회의 심의대상 여부를 판단하여 관리위원회 심의대상이 될 경우 가능한 빠른 시일 내에 관리위원회를 소집하여 입주 여부를 결정하여야 한다.④ 입주 희망자가 관사의 정원에 미달되었을 때에는 제7조 제1항 규정의 입주신청서 제출순서에 따라 운영지원과장이 입주 희망자의 자격요건을 검토 후 희망하는 관사에 우선 배정할 수 있다.⑤ 운영지원과장은 재해의 발생 또는 청사의 이전 등으로 특별히 필요하다고 인정할 경우에는 입주자의 선정기준을 따로 정할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제4항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0008",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0007",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0008"
       },
@@ -136,7 +219,28 @@
         "chapter_path": "",
         "content": "제9조(입주기간) ① 입주기간은 2년으로 한다. 다만, 입주 만료시점에 입주 희망자가 없는 경우 1회에 한하여 1년 연장할 수 있다.② 관사 정원이 미달될 경우, 제1항에 따른 연장 기간을 포함하여 총 3년을 입주한 자를 제2조제3호에 따른 \"임시 거주자\"로 둘 수 있다. 다만, 입주 희망자가 있을 경우 \"임시 거주자\"는 2개월 이내에 퇴거하여야 한다.③ 총 입주기간은 최대 5년을 초과할 수 없다. 다만, 입주 희망자가 없는 경우 관리위원회의 심의를 거쳐 연장 여부를 결정할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0009",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0009"
       },
@@ -145,9 +249,60 @@
         "article_title": "입주신청",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조(입주신청) ① 입주를 희망하는 자는 별지 제1호 서식의 입주신청서와 별지 제3호 서식의 서약서를 운영지원과장에게 제출하여야 한다.② 제1항의 입주신청서가 접수되면 운영지원과장은 관사의 수급 상황 등을 고려하여 입주자를 결정하여 입주 희망자에게 유선 등을 통하여 통보하여야 한다. 다만, 입주 심의가 필요할 경우 관리위원회를 개최하여 결정하여야 한다.③ 입주기간이 만료된 자 중\t 거주기간을 추가로 연장 할 경우에도 제1항의 절차에 따라야 한다.",
+        "content": "제10조(입주신청) ① 입주를 희망하는 자는 별지 제1호 서식의 입주신청서와 별지 제3호 서식의 서약서를 운영지원과장에게 제출하여야 한다.② 제1항의 입주신청서가 접수되면 운영지원과장은 관사의 수급 상황 등을 고려하여 입주자를 결정하여 입주 희망자에게 유선 등을 통하여 통보하여야 한다. 다만, 입주 심의가 필요할 경우 관리위원회를 개최하여 결정하여야 한다.③ 입주기간이 만료된 자 중 거주기간을 추가로 연장 할 경우에도 제1항의 절차에 따라야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "관사 입주 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859549",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0010",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "서약서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859561",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0010",
+            "target_unit": "BJ0003",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#BJ0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0010"
       },
@@ -158,7 +313,28 @@
         "chapter_path": "",
         "content": "제11조(인원 배정) ① 관사는 1인 1실 배정을 원칙으로 한다. 다만, 관사 입주 대기인원에 따라 1실에 2명을 배정할 수 있다.② 운영지원과장은 제7조에 따른 관사 입주 수요조사 결과 및 성별 대기 인원을 고려하여 남ㆍ여 관사 배정 비율을 조정할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0011",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0007",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0011"
       },
@@ -169,7 +345,68 @@
         "chapter_path": "",
         "content": "제12조(퇴거) 입주자가 다음 각호의 어느 하나에 해당될 경우에는 입주 자격을 상실하며, 이 경우 입주자는 그 사유 발생일로부터 2개월 이내에 퇴거하여야 한다. 다만, 운영지원과장이 필요하다고 인정하는 경우에는 이를 연장 할 수 있다.1. 퇴직, 파면 등의 사유로 공무원의 신분을 상실한 경우2. 타 기관(환경부 및 소속기관 포함)으로 전출한 경우3. 제4조 제2항의 규정에 의한 위원회 심의결과 탈락자4. 허위 또는 부정한 방법으로 입주한 사실이 발견된 경우5. 제15조 입주자 준수사항 및 제16조 금지사항을 위반한 경우6. 공동생활을 해치는 등 운영지원과장이 특별히 결정한 경우",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0012",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0012",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0015",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0012",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#JO0016",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0012"
       },
@@ -180,7 +417,33 @@
         "chapter_path": "",
         "content": "제13조(퇴거절차) 관사에서 퇴거하고자 하는 자는 운영지원과장에게 별지 제2호 서식에 의한 퇴거신청서를 제출하여야 한다. 다만, 제 10조 각호의 어느 하나에 해당하는 자는 별도의 퇴거 절차 없이 퇴거 조치할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "관사 퇴거 신청서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859555",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0013",
+            "target_unit": "BJ0002",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#BJ0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0013"
       },
@@ -191,7 +454,33 @@
         "chapter_path": "",
         "content": "제14조(관리책임) ① 운영지원과장은 관사를 총괄 관리하며, 소속직원 중에서 관리책임자를 지정하여 관사의 관리책임 및 그 권한의 일부를 위임할 수 있다.② 관리책임자는 관사 입주자, 물품 등을 관리하여야 하며, 별지 제4호 서식에 따라 매년 또는 수시로 실태 검검을 할 수 있다.③ 제2항에 따른 실태 점검 결과 관사 물품 및 위생ㆍ청소 상태가 불량할 경우 관리책임자는 입주자에게 필요한 조치를 요구할 수 있으며, 이때 필요한 비용은 입주자가 부담하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "대구지방환경청 관사 관리 및 운영 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "관사 유지관리 실태점검표",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "86488",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859567",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0014",
+            "target_unit": "BJ0004",
+            "reference_id": "admrul:대구지방환경청관사관리및운영규정#BJ0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:대구지방환경청관사관리및운영규정#JO0014"
       },
@@ -233,7 +522,7 @@
         "article_title": "경비 부담",
         "chapter": "",
         "chapter_path": "",
-        "content": "제18조(경비 부담) ① 입주자는 입주 기간 내 발생하는 아래 각 호의 경비를 부담하여야 한다.1. 관리비, 전기료, 수도료, 가스료, TV 수신료 또는 인터넷 사용료 등 개인이 사용한 경비. 다만, 긴급연락 및 보고, 영상회의 등 비상 대응 필요 시설에 대한 사용 경비는 예산의 범위 내에서 지원 가능2. 고의 및 과실로 인한 시설 또는 물품의 훼손, 분실시 그 수리비와 구입비② 퇴거 사유가 발생 했을 경우에는 전월 사용한 사용료를 포함한 퇴거 당일까지의 관리비를 일괄 계산하여 납부하여야 하며, 이사로 발생하는 추가 관리비(엘리베이터 사용료 등)는 당사자가 부담한다.③ 입주자 교체로 인하여 빈집 상태에서 발생한 관리비 등은 대구지방환경청이 부담한다. 단, 퇴거 전 통보 의무를 이행하지 않아 발생한 경우 해당 직원이 부담한다.",
+        "content": "제18조(경비 부담) ① 입주자는 입주 기간 내 발생하는 아래 각 호의 경비를 부담하여야 한다.1. 관리비, 전기료, 수도료, 가스료, TV 수신료 또는 인터넷 사용료 등 개인이 사용한 경비  다만, 긴급연락 및 보고, 영상회의 등 비상 대응 필요 시설에 대한 사용 경비는 예산의 범위 내에서 지원 가능2. 고의 및 과실로 인한 시설 또는 물품의 훼손, 분실시 그 수리비와 구입비② 퇴거 사유가 발생 했을 경우에는 전월 사용한 사용료를 포함한 퇴거 당일까지의 관리비를 일괄 계산하여 납부하여야 하며, 이사로 발생하는 추가 관리비(엘리베이터 사용료 등)는 당사자가 부담한다.③ 입주자 교체로 인하여 빈집 상태에서 발생한 관리비 등은 대구지방환경청이 부담한다. 단, 퇴거 전 통보 의무를 이행하지 않아 발생한 경우 해당 직원이 부담한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -290,24 +579,168 @@
       "promulgation_date": "20220404",
       "promulgation_no": "102",
       "content": "부칙 <제102호, 2022. 4. 4.>1. (시행일) 이 규정은 공포한 날부터 시행한다.2. (경과규정) 동 규정 시행일 이전 관사에 이미 거주하고 있는 자가 계속 관사 거주를 희망 할 경우에는 잔여 거주기간에 한해 입주자 선정절차에 따라 입주자로 선정된 것으로 본다.",
-      "provision_id": "admrul:대구지방환경청관사관리및운영규정#ADDENDUM"
+      "provision_id": "admrul:대구지방환경청관사관리및운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000280558",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260326"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "관사 입주 신청서",
+      "enforcement_date": "",
+      "content": "(별지 제1호 서식)\n관사 입주 신청서\n┌─────┬┬──────┬────────────────────┐\n│성 명     ││소 속       │                                        │\n├─────┼┼──────┼────────────────────┤\n│직 급     ││생년월일    │                                        │\n├─────┼┼──────┼────────────────────┤\n│재직기간  ││입주 희망일 │                                        │\n├─────┼┼──────┼────────────────────┤\n│원 거주지 ││            │                                        │\n├─────┴┴──────┴────────────────────┤\n│                                                                    │\n│위와 같이 관사 입주를 신청합니다.                                   │\n│                                                                    │\n│                                                                    │\n│년   월   일                                                        │\n│                                                                    │\n│                                                                    │\n│                                          신청인              (서명)│\n│                                                                    │\n│                                                                    │\n│                                                                    │\n│    대구지방환경청장  귀하                                          │\n│                                                                    │\n│                                                                    │\n└──────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859549",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859545",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859549",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:대구지방환경청관사관리및운영규정#BJ0001",
+      "filename": "별지1_관사 입주 신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_관사 입주 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "관사 퇴거 신청서",
+      "enforcement_date": "",
+      "content": "(별지 제2호 서식)\n관사 퇴거 신청서\n┌────────────────────────────┐\n│  아래와 같이 관사 퇴거를 신청합니다.                   │\n├────────┬┬──────┬───────────┤\n│소 속           ││직급?호봉  │                      │\n├────────┼┼──────┼───────────┤\n│성 명           ││생년월일    │                      │\n├────────┼┼──────┼───────────┤\n│관사명(동?호수)││퇴거 희망일 │                      │\n├────────┼┴──────┴───────────┤\n│퇴거사유        │                                      │\n├────────┴───────────────────┤\n│                                                        │\n│                                                        │\n│년    월    일                                          │\n│                                                        │\n│                               신청자               (인)│\n│                                                        │\n│  대구지방환경청장 귀하                                 │\n│                                                        │\n└────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859555",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859551",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859555",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:대구지방환경청관사관리및운영규정#BJ0002",
+      "filename": "별지2_관사 퇴거 신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_관사 퇴거 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서약서",
+      "enforcement_date": "",
+      "content": "┌────────────────────────────────────┐\n│(별지 제3호 서식)                                                       │\n│                                                                        │\n│서 약 서                                                                │\n│                                                                        │\n│                         소  속 :                                       │\n│                         직  급 :                                       │\n│                         성  명 :                                       │\n│                                                                        │\n│ 상기 본인은 대구지방환경청 관사에 입주함에 있어「대구지방환경청 관사   │\n│관리 및 운영 규정」및 아래 사항을 성실히 준수할 것을 서약하며,          │\n│이를 위반할 경우 발생하는 모든 일에 대하여 책임을 지겠습니다.           │\n│                                                                        │\n│1. 입주자는 관사의 모든 시설물 및 물품 등의 관리에 선량한 관리자로서    │\n│의무를 다하고, 이를 위반하여 관사에 손해를 끼쳤을 때에는 손해액을       │\n│변상한다.                                                               │\n│2. 입주자는 관사 화재예방과 위생 관리, 정리 정돈, 청결 유지 등 관사     │\n│시설물을 적정하게 유지관리한다.                                         │\n│                                                                        │\n│3. 퇴거 사유가 발생했을 경우 전월 사용료를 포함한 퇴거 당일까지의       │\n│관리비를 일괄 계산하여 납부한다.                                        │\n│                                                                        │\n│4. 퇴거 시 거주기간 동안 발생한 폐기물을 완전히 배출하고 관사 시설물을  │\n│원상 복구하여야 하며, 퇴거 점검 시 위생·청소 상태가 불량할 경우        │\n│처리 복구 비용을 부담한다.                                              │\n│                                                                        │\n│                                                                        │\n│                                                                        │\n│                                                                        │\n│년      월      일                                                      │\n│                                                                        │\n│                                           서약자         (인)          │\n│                                                                        │\n│                                                                        │\n│  대구지방환경청장 귀하                                                 │\n│                                                                        │\n└────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859561",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859557",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859561",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:대구지방환경청관사관리및운영규정#BJ0003",
+      "filename": "별지3_서약서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "관사 유지관리 실태점검표",
+      "enforcement_date": "",
+      "content": "(별지 제4호 서식)\n관사 유지관리 실태점검표\n┌────────────┬───────────────┬───┐\n│                        │유     지     상     태       │확인자│\n│                   구 분├───┬───┬───┬───┤의  견│\n│                        │양  호│보  통│불  량│훼  손│      │\n│    시설?집기          │      │      │      │      │      │\n├────┬───────┼───┼───┼───┼───┼───┤\n│시설물  │실내도배      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │실내장판      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │거실마루      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │조명시설      │      │      │      │      │      │\n├────┼───────┼───┼───┼───┼───┼───┤\n│청소상태│방            │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │거    실      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │부    엌      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │화 장 실      │      │      │      │      │      │\n├────┼───────┼───┼───┼───┼───┼───┤\n│물품    │에 어 컨      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │냉 장 고      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │텔레비전      │      │      │      │      │      │\n│        ├───────┼───┼───┼───┼───┼───┤\n│        │?            │      │      │      │      │      │\n└────┴───────┴───┴───┴───┴───┴───┘\n20  .     .      .\n점검자      소속 :          직급 :           성명 :                (인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859567",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859563",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164859567",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:대구지방환경청관사관리및운영규정#BJ0004",
+      "filename": "별지4_관사 유지관리 실태점검표.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_관사 유지관리 실태점검표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정 전문 및 별지 서식.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164857841",
+      "filename": "개정 전문 및 별지 서식.zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정 전문 및 별지 서식.zip",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 13,
+    "by_category": {
+      "행정규칙": 13
+    },
+    "by_relation_type": {
+      "internal_ref": 9,
+      "appendix_ref": 4
+    },
     "articles_total": 22,
-    "articles_with_relations": 0,
+    "articles_with_relations": 9,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
     "appendices_count": 4,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/대구지방환경청 관사 관리 및 운영 규정"
@@ -316,5 +749,8 @@
   "addendum_provision_id": "admrul:대구지방환경청관사관리및운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:대구지방환경청관사관리및운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구지방환경청 관사 관리 및 운영 규정/대구지방환경청 관사 관리 및 운영 규정.json"
 }
