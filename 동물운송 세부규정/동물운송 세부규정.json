@@ -1,42 +1,42 @@
 {
   "law_id": "2059825",
-  "mst": "2100000242834",
+  "mst": "2100000277268",
   "law_name": "동물운송 세부규정",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2059825",
-  "promulgation_no": "2024-23",
-  "promulgation_date": "20240620",
-  "enforcement_date": "20240620",
-  "revision_date": "20240620",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "2026-43",
+  "promulgation_date": "20260408",
+  "enforcement_date": "20260408",
+  "revision_date": "20260408",
+  "revision_type": "폐지제정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "농림축산식품부(동물보호과)",
     "담당자명": "김양헌",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "동물운송 세부규정",
-    "발령일자": "20240620",
+    "발령일자": "20260408",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200407",
     "조문형식여부": "Y",
-    "소관부처명": "농림축산검역본부",
+    "소관부처명": "농림축산식품부",
     "전화번호": "044-201-2633",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "폐지제정",
     "소관부처코드": "1543000",
-    "생성일자": "20260410",
+    "생성일자": "20260420",
     "행정규칙ID": "2059825",
-    "시행일자": "20240620",
-    "담당부서기관코드": "1543071",
-    "발령번호": "2024-23",
-    "행정규칙일련번호": "2100000242834",
+    "시행일자": "20260408",
+    "담당부서기관코드": "1543592",
+    "발령번호": "2026-43",
+    "행정규칙일련번호": "2100000277268",
     "상위부처명": "농림축산식품부"
   },
-  "amendment_text": "⊙농림축산검역본부고시 제2024-23호\n「동물보호법」제11조제2항 및 제3항 규정에 의한 \"「동물운송세부규정」(농림축산검역본부고시 제2018-29호, 2018.10.11.)\"을 다음과 같이 개정 고시합니다.\n2024년 6월 20일\n농림축산검역본부장\n동물운송 세부규정\n[본문 생략]\n부칙\n이 고시는 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 동물보호법('22.4.26.) 제11조제2항 및 제3항, 같은 법 시행규칙('23.4.27.)의 개정에 따른 인용조항을 개정하고, 재검토기한을 새로 설정하기 위함\n○ 도축장 출하 시 절식 관련 「축산물 위생관리법」의 규정을 준수할 수 있도록 예외 조항을 신설\n◇ 주요내용\n가. 상위법 개정에 따른 인용조항 개정(안 제1조, 안 제3조)\n\n나. 도축장 출하 시 절식 관련 「축산물 위생관리법」 시행규칙의 준수할 수 있도록 예외조항 신설(안 제5조제6호)\n\n다. 고시 재검토기한(3년) 새로 설정(안 제11조)",
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 농림축산식품부와 그 소속기관 직제 시행규칙 개정(’25.12.30)에 따라 법 개정 사항 반영을 위한 동물보호과 소관 행정규칙(고시11, 예규1)을 정비\n◇ 주요 개정 내용\n○ 직제 시행규칙 개정 내용을 반영한 업무의 위임사항 변경\n- 고시 : 「동물도축 세부규정」 등 11건\n[그림]\n[그림]\n[그림]\n",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -48,7 +48,48 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 고시는 「동물보호법」 제11조제2항 및 제3항에 따라 동물운송에 관하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「동물보호법」",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2059825",
+            "target_url": "https://www.law.go.kr/법령/동물보호법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물운송세부규정#JO0001",
+            "reference_id": "law:동물보호법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제11조제2항 및 제3항",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2059825",
+            "target_url": "https://www.law.go.kr/법령/동물보호법/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물운송세부규정#JO0001",
+            "reference_id": "law:동물보호법#JO0011",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물운송세부규정#JO0001"
       },
@@ -70,7 +111,48 @@
         "chapter_path": "",
         "content": "제3조(적용범위) 이 고시에 적용되는 동물의 범위는 「동물보호법」 제2조제1호 가목의 ‘포유류’와 같은 호 나목의 ‘조류’에 한한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「동물보호법」",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2059825",
+            "target_url": "https://www.law.go.kr/법령/동물보호법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물운송세부규정#JO0003",
+            "reference_id": "law:동물보호법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조제1호",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2059825",
+            "target_url": "https://www.law.go.kr/법령/동물보호법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물운송세부규정#JO0003",
+            "reference_id": "law:동물보호법#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물운송세부규정#JO0003"
       },
@@ -90,9 +172,30 @@
         "article_title": "운송에 적합한 동물선발 등",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(운송에 적합한 동물선발 등) 동물운송자 등은 운송에 적합한 동물을 선발하기 위하여 다음 사항을 준수하여야 한다.1. 서로 다른 축종의 동물을 동일 차량으로 함께 운송하여서는 아니 된다.2. 동일 축종이라 하더라도 어린 동물을 성축과 동일구획 내에 함께 운송하여서는 안 된다. 다만, 자연포유 중인 새끼는 어미와 함께 운송하여야 한다.3. 축사 내 같은 구획 내에서 사육한 동물은 가급적 함께 운송하여야 한다.4. 공격적 성향이 강한 개체는 격리하여 운송하여야 한다.5. 다음 각 목에 해당하는 동물은 운송하여서는 아니 된다. 다만, 부상 또는 질병과 관련된 실험대상 동물이거나 긴급 도축 및 수의학적 처치 등 수의사의 지시ㆍ감독에 따라 운송하는 경우는 그러하지 아니하다.가. 아프거나, 부상 중이거나, 약하거나, 장애가 있거나 지친 동물나. 자신의 힘으로 일어날 수 없거나 각 다리에 체중을 실을 수 없는 동물다. 양쪽 눈 모두를 실명한 동물라. 탯줄을 잘라낸 자리의 상처가 아물지 않은 어린 동물마. 운송일 기준으로 평균 임신기간의 90%가 경과했거나 10일 이내에 출산한 동물6. 동물의 운송 전에 축종의 특성을 고려하여 다음 각 목과 같이 사료와 물을 적절하게 공급하여야 한다.가. 축종에 관계없이 동물이 운송차량으로 상차되기 전까지 물을 먹을 수 있어야 한다.나. 운송차량에 상차하기 전, 소와 오리는 4시간, 닭은 2시간 전까지 사료를 먹을 수 있어야 한다.다. 돼지는 운송 중 멀미와 구토를 예방하기 위하여, 운송차량에 상차되기 최소 4시간 전부터 절식을 하여야 한다. 다만, 공복시간은 도축하기 전 18시간 이상을 초과해서는 안 된다.라. 기타 포유류 및 조류의 경우에도 운송되기 일정시간 전까지 사료를 먹을 수 있어야 한다.마. 나목에서 라목까지의 규정에도 불구하고 도축장에 출하하는 경우 「축산물 위생관리법 시행규칙」 제18조의2의 규정을 적용한다.",
+        "content": "제5조(운송에 적합한 동물선발 등) 동물운송자 등은 운송에 적합한 동물을 선발하기 위하여 다음 사항을 준수하여야 한다.1. 서로 다른 축종의 동물을 동일 차량으로 함께 운송하여서는 아니 된다.2. 동일 축종이라 하더라도 어린 동물을 성축과 동일구획 내에 함께 운송하여서는 안 된다. 다만, 자연포유 중인 새끼는 어미와 함께 운송하여야 한다.3. 축사 내 같은 구획 내에서 사육한 동물은 가급적 함께 운송하여야 한다.4. 공격적 성향이 강한 개체는 격리하여 운송하여야 한다.5. 다음 각 목에 해당하는 동물은 운송하여서는 아니 된다. 다만, 부상 또는 질병과 관련된 실험대상 동물이거나 긴급 도축 및 수의학적 처치 등 수의사의 지시ㆍ감독에 따라 운송하는 경우는 그러하지 아니하다.가. 아프거나, 부상 중이거나, 약하거나, 장애가 있거나 지친 동물나. 자신의 힘으로 일어날 수 없거나 각 다리에 체중을 실을 수 없는 동물다. 양쪽 눈 모두를 실명한 동물라. 탯줄을 잘라낸 자리의 상처가 아물지 않은 어린 동물마. 운송일 기준으로 평균 임신기간의 90%가 경과했거나 10일 이내에 출산한 동물6. 동물의 운송 전에 축종의 특성을 고려하여 다음 각 목과 같이 사료와 물을 적절하게 공급하여야 한다.가. 축종에 관계없이 동물이 운송차량으로 상차되기 전까지 물을 먹을 수 있어야 한다.나. 운송차량에 상차하기 전, 소와 오리는 4시간, 닭은 2시간 전까지 사료를 먹을 수 있어야 한다.다. 돼지는 운송 중 멀미와 구토를 예방하기 위하여, 운송차량에 상차되기 최소 4시간 전부터 절식을 하여야 한다. 다만, 공복시간은 도축하기 전 18시간 이상을 초과해서는 안 된다.라. 기타 포유류 및 조류의 경우에도 운송되기 일정시간 전까지 사료를 먹을 수 있어야 한다.마. 나목에서 라목까지의 규정에도 불구하고 도축장에 출하하는 경우 「축산물 위생관리법」시행규칙 제18조의2의 규정을 적용한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「축산물 위생관리법」",
+            "line_text": "",
+            "target_law_name": "축산물 위생관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2059825",
+            "target_url": "https://www.law.go.kr/법령/축산물 위생관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물운송세부규정#JO0005",
+            "reference_id": "law:축산물위생관리법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "축산물 위생관리법/법률/축산물 위생관리법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물운송세부규정#JO0005"
       },
@@ -114,7 +217,33 @@
         "chapter_path": "",
         "content": "제7조(구비문서) 동물운송자는 축주명, 운송일자, 출발시간 및 도착시간 등이 기재된 별지 제1호서식의 동물운송일지를 구비하여 차내에 비치하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "동물운송 세부규정",
+            "target_article_no": "별지1",
+            "target_article_title": "동물운송일지",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2059825",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163584293",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물운송세부규정#JO0007",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:동물운송세부규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "동물운송 세부규정/동물운송 세부규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물운송세부규정#JO0007"
       },
@@ -136,7 +265,33 @@
         "chapter_path": "",
         "content": "제9조(운송소요면적) 동물 운송 시, 동물의 종류와 크기에 적합한 공간을 제공하여야 하며 동물별 운송소요면적 기준은 별표1과 같다. 다만, 차량에 허용된 적재중량을 초과하지 않아야 하고 돼지, 닭 및 오리는 운송소요면적 기준의 20% 범위 내에서 혹서기에는 증가, 혹한기에는 감할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "동물운송 세부규정",
+            "target_article_no": "별표1",
+            "target_article_title": "동물별 운송소요면적 기준(제9조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2059825",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277268&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물운송세부규정#JO0009",
+            "target_unit": "BYL0001",
+            "reference_id": "admrul:동물운송세부규정#BYL0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "동물운송 세부규정/동물운송 세부규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물운송세부규정#JO0009"
       },
@@ -156,7 +311,7 @@
         "article_title": "재검토기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제11조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 2024년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제11조(재검토기한) 농림축산식품부장관은 이 고시에 대하여 2026년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -166,51 +321,118 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20130305",
-      "promulgation_no": "2013-3",
-      "content": "부칙 <제2013-3호,2013. 3. 5.>① (시행일) 이 고시는 공포한 날부터 시행한다.② (재검토 기한) 이 고시는 2016년  3월 4일까지「훈령ㆍ예규 등의 발령 및 관리에 관한 규정(대통령훈령 제248호)」제7조제3항제2호에 따라 재검토하여야 한다.",
-      "provision_id": "admrul:동물운송세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20130323",
-      "promulgation_no": "2013-20",
-      "content": "부칙 <제2013-20호,2013. 3. 23.>① (시행일) 이 고시는 2013년 3월 23일 부터 시행한다.② (재검토 기한) 이 고시는 2016년  3월 22일까지「훈령ㆍ예규 등의 발령 및 관리에 관한 규정(대통령훈령 제248호)」제7조제3항제2호에 따라 재검토하여야 한다.",
-      "provision_id": "admrul:동물운송세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20140915",
-      "promulgation_no": "2014-16",
-      "content": "부칙 <제2014-16호,2014. 9. 15.>① (시행일) 이 고시는 2014년 9월 15일 부터 시행한다.② (재검토 기한) 이 고시는 2017년 9월 14일까지「훈령ㆍ예규 등의 발령 및 관리에 관한 규정(대통령훈령 제248호)」제7조제3항제2호에 따라 재검토하여야 한다.",
-      "provision_id": "admrul:동물운송세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20181011",
-      "promulgation_no": "2018-29",
-      "content": "부칙 <제2018-29호,2018. 10. 11.>① (시행일) 이 고시는 발령한 날부터 시행한다.② (재검토 기한) 농림축산검역본부장은 이 고시에 대하여 2019년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
-      "provision_id": "admrul:동물운송세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20240620",
-      "promulgation_no": "2024-23",
-      "content": "부칙 <제2024-23호, 2024. 6. 20.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:동물운송세부규정#ADDENDUM"
+      "promulgation_date": "20260408",
+      "promulgation_no": "2026-43",
+      "content": "부칙 <제2026-43호, 2026. 4. 8.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(종전 고시의 폐지) 종전의 「동물운송 세부규정(농림축산검역본부고시 제2024-23호, 2024. 6. 20.)」는 폐지한다.",
+      "provision_id": "admrul:동물운송세부규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000277268",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20260408"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "동물별 운송소요면적 기준(제9조 관련)",
+      "enforcement_date": "",
+      "content": "[별표1]\n동물별 운송소요면적 기준(제9조 관련)\n1. 소\n┌──────┬───────┬────────┐\n│구   분     │체중근사치(kg)│소요면적(㎡/두) │\n├──────┼───────┼────────┤\n│어린 송아지 │50 이하       │ 0.30-0.40      │\n├──────┼───────┼────────┤\n│중 송아지   │51-110        │0.40-0.70       │\n├──────┼───────┼────────┤\n│큰 송아지   │111-200       │0.70-0.95       │\n├──────┼───────┼────────┤\n│중 소       │201-325       │0.95-1.30       │\n├──────┼───────┼────────┤\n│큰 소       │550 이상      │1.30 이상       │\n└──────┴───────┴────────┘\n2. 돼지\n┌───────┬────────┐\n│체중근사치(kg)│소요면적(㎡/두) │\n├───────┼────────┤\n│7～10         │0.05            │\n├───────┼────────┤\n│25            │0.14            │\n├───────┼────────┤\n│30            │0.15            │\n├───────┼────────┤\n│35            │0.16            │\n├───────┼────────┤\n│40            │0.18            │\n├───────┼────────┤\n│100           │0.43            │\n├───────┼────────┤\n│110           │0.45            │\n├───────┼────────┤\n│120           │0.47            │\n├───────┼────────┤\n│모돈          │0.79            │\n└───────┴────────┘\n3. 닭\n┌──────┬───────┐\n│구분        │소요면적      │\n├──────┼───────┤\n│병아리      │21～25 ㎠/수  │\n├──────┼───────┤\n│1.0 kg 미만 │180～250 ㎠/kg│\n├──────┼───────┤\n│1～<2 kg    │160～210 ㎠/kg│\n├──────┼───────┤\n│2～<3 kg    │170～230 ㎠/kg│\n├──────┼───────┤\n│3～<5 kg    │115 ㎠/kg     │\n├──────┼───────┤\n│5 kg 이상   │105 ㎠/kg     │\n└──────┴───────┘\n4. 오리\n┌──────┬────────┐\n│구분        │소요면적        │\n├──────┼────────┤\n│새끼오리    │23.1～27.7 ㎠/수│\n├──────┼────────┤\n│1.0 kg 미만 │198～255 ㎠/kg  │\n├──────┼────────┤\n│1.0～<2.5 kg│193～235 ㎠/kg  │\n├──────┼────────┤\n│2.5～<3.5 kg│188～245 ㎠/kg  │\n├──────┼────────┤\n│3.5 kg 이상 │>200 ㎠/kg      │\n└──────┴────────┘\n5. 기타 포유류 : 개체의 체장과 체폭을 곱한 넓이의 1.4배의 면적을 제공\n6. 기타 조류 : 닭의 운송소요면적에 준하여 적용",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277268&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163584287",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163584281",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163584287",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:동물운송세부규정#BYL0001",
+      "filename": "별표1_동물별 운송소요면적 기준(제9조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_동물별 운송소요면적 기준(제9조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "동물운송일지",
+      "enforcement_date": "",
+      "content": "\n[별지 제1호서식]\n\n동 물 운 송 일 지\n\n20     년                                                                                          운송자명(            ), 차량번호(            )\n┌──────┬────┬───┬───┬────┬────────┬────────┬──────────────────────────────┐\n│운송일자    │출발 및 │축주명│주 소 │축종 및 │동물의 건강상태 │운송 중 폐사두수│특이사항                                                    │\n│            │도착시간│      │      │운송두수│                │및 증상         │                                                            │\n├──────┼────┼───┼───┼────┼────────┼────────┼──────────────────────────────┤\n│    월   일 │출발    │      │출발지│        │전              │폐사두수 :      │                                                            │\n│            │        │      │      │        ├────────┤증상            │                                                            │\n│            ├────┤      ├───┤        │중              │                │                                                            │\n│            │도착    │      │도착지│        ├────────┤                │                                                            │\n│            │        │      │      │        │후              │                │                                                            │\n├──────┼────┼───┼───┼────┼────────┼────────┼──────────────────────────────┤\n│    월   일 │출발    │      │출발지│        │전              │폐사두수 :      │                                                            │\n│            │        │      │      │        ├────────┤증상            │                                                            │\n│            ├────┤      ├───┤        │중              │                │                                                            │\n│            │도착    │      │도착지│        ├────────┤                │                                                            │\n│            │        │      │      │        │후              │                │                                                            │\n├──────┼────┼───┼───┼────┼────────┼────────┼──────────────────────────────┤\n│    월   일 │출발    │      │출발지│        │전              │폐사두수 :      │                                                            │\n│            │        │      │      │        ├────────┤증상            │                                                            │\n│            ├────┤      ├───┤        │중              │                │                                                            │\n│            │도착    │      │도착지│        ├────────┤                │                                                            │\n│            │        │      │      │        │후              │                │                                                            │\n├──────┼────┼───┼───┼────┼────────┼────────┼──────────────────────────────┤\n│    월   일 │출발    │      │출발지│        │전              │폐사두수 :      │                                                            │\n│            │        │      │      │        ├────────┤증상            │                                                            │\n│            ├────┤      ├───┤        │중              │                │                                                            │\n│            │도착    │      │도착지│        ├────────┤                │                                                            │\n│            │        │      │      │        │후              │                │                                                            │\n└──────┴────┴───┴───┴────┴────────┴────────┴──────────────────────────────┘\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작성요령\n───────────────────────────────────────────────────────────────────────────\n① 축종은 소의 경우 한우, 육우, 젖소 중 해당되는 사항을 (  )안에 함께 적고 돼지, 닭, 오리 등 해당 축종을 적습니다.\n② 동물의 건강상태는 운송 전, 중 , 후 동물의 전반적인 건강상태에 대해서 적습니다.\n③ 폐사가 발생한 경우 폐사한 동물의 두수를 적고 폐사축의 특이사항을 적습니다.\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163584293",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163584289",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163584293",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:동물운송세부규정#BJ0001",
+      "filename": "별지1_동물운송일지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_동물운송일지.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "2. 동물운송 세부규정 고시(제2026-43호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163381699",
+      "filename": "2. 동물운송 세부규정 고시(제2026-43호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2. 동물운송 세부규정 고시(제2026-43호).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "2. 동물운송 세부규정 고시(제2026-43호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163381695",
+      "filename": "2. 동물운송 세부규정 고시(제2026-43호).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2. 동물운송 세부규정 고시(제2026-43호).hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "법령": 5,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "appendix_ref": 2
+    },
     "articles_total": 11,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 1,
     "appendices_count": 2,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/동물운송 세부규정"
@@ -219,5 +441,8 @@
   "addendum_provision_id": "admrul:동물운송세부규정#ADDENDUM",
   "amendment_provision_id": "admrul:동물운송세부규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "동물운송 세부규정/동물운송 세부규정.json"
 }
