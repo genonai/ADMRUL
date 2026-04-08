@@ -1,42 +1,42 @@
 {
   "law_id": "2056628",
-  "mst": "2100000242774",
+  "mst": "2100000277248",
   "law_name": "동물도축 세부규정",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2056628",
-  "promulgation_no": "2024-22",
-  "promulgation_date": "20240620",
-  "enforcement_date": "20240620",
-  "revision_date": "20240620",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "2026-42",
+  "promulgation_date": "20260408",
+  "enforcement_date": "20260408",
+  "revision_date": "20260408",
+  "revision_type": "폐지제정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "농림축산식품부(동물보호과)",
     "담당자명": "김양헌",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "동물도축 세부규정",
-    "발령일자": "20240620",
+    "발령일자": "20260408",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200407",
     "조문형식여부": "Y",
-    "소관부처명": "농림축산검역본부",
+    "소관부처명": "농림축산식품부",
     "전화번호": "044-201-2633",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "폐지제정",
     "소관부처코드": "1543000",
     "생성일자": "20260410",
     "행정규칙ID": "2056628",
-    "시행일자": "20240620",
-    "담당부서기관코드": "1543071",
-    "발령번호": "2024-22",
-    "행정규칙일련번호": "2100000242774",
+    "시행일자": "20260408",
+    "담당부서기관코드": "1543592",
+    "발령번호": "2026-42",
+    "행정규칙일련번호": "2100000277248",
     "상위부처명": "농림축산식품부"
   },
-  "amendment_text": "⊙농림축산검역본부고시 제2024-22호\n「동물보호법」제13조제1항 및 같은 법 시행규칙 제8조제2항 규정에 따라 \"「동물도축세부규정」(농림축산검역본부고시 제2019-28호, 2019.5.22.)\"을 다음과 같이 개정 고시합니다.\n2024년 6월 20일\n농림축산검역본부장\n동물도축 세부규정\n[본문 생략]\n부칙\n이 고시는 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 동물보호법('22.4.26.) 및 동물보호법 시행규칙('23.4.27.)의 개정에 따른 인용조항을 개정하고, 재검토기한의 재설정\n○ 알기쉬운법령용어 정비기준에 따라 행정규칙속 어려운 용어를 정비\n○ 가금류의 도살방법에 CO2 가스법 추가\n◇ 주요내용\n가. 상위법 개정에 따른 인용조항 개정(안 제1조, 안 제3조)\n나. 고시 재검토기한의 재설정(안 제10조)\n다. 국내 상업 도축장에서 CO2가스 실신 시 기기 제조사에서 정한 기준을 준용(안 별표)\n라. 가금류 도살방법 중「축산물 위생관리법 시행규칙」별표 1을 준용하여 CO2 가스법 추가(안 별표)",
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 농림축산식품부와 그 소속기관 직제 시행규칙 개정(’25.12.30)에 따라 법 개정 사항 반영을 위한 동물보호과 소관 행정규칙(고시11, 예규1)을 정비\n◇ 주요 개정 내용\n○ 직제 시행규칙 개정 내용을 반영한 업무의 위임사항 변경\n- 고시 : 「동물도축 세부규정」 등 11건\n[그림]\n[그림]\n[그림]\n",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -48,7 +48,68 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 고시는 「동물보호법」제13조제1항 및 같은 법 시행규칙 제8조제2항의 규정에 따라 동물을 도축하는 경우에 관한 세부사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제13조제1항",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2056628",
+            "target_url": "https://www.law.go.kr/법령/동물보호법/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물도축세부규정#JO0001",
+            "reference_id": "law:동물보호법#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "동물보호법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2056628",
+            "target_url": "https://www.law.go.kr/법령/동물보호법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물도축세부규정#JO0001",
+            "reference_id": "law:동물보호법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/시행규칙/동물보호법 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8조제2항",
+            "line_text": "",
+            "target_law_name": "동물보호법 시행규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2056628",
+            "target_url": "https://www.law.go.kr/법령/동물보호법 시행규칙/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물도축세부규정#JO0001",
+            "reference_id": "law:동물보호법시행규칙#JO0008",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/시행규칙/동물보호법 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물도축세부규정#JO0001"
       },
@@ -70,7 +131,48 @@
         "chapter_path": "",
         "content": "제3조(적용범위) 이 고시에 적용되는 동물의 범위는 「동물보호법」제2조제1호 가목의 ‘포유류’ 중 소, 돼지와 같은 호 나목의 ‘조류’ 중 닭과 오리에 한한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「동물보호법」",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2056628",
+            "target_url": "https://www.law.go.kr/법령/동물보호법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물도축세부규정#JO0003",
+            "reference_id": "law:동물보호법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조제1호",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2056628",
+            "target_url": "https://www.law.go.kr/법령/동물보호법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물도축세부규정#JO0003",
+            "reference_id": "law:동물보호법#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물도축세부규정#JO0003"
       },
@@ -81,7 +183,28 @@
         "chapter_path": "",
         "content": "제4조(인력 및 책무) 도축업에 종사하는 자는 해당업무와 관련된「동물보호법」을 비롯한 관련법규의 내용을 숙지하여야 하며, 도축되는 동물의 특성을 이해하여 도축과정 중에 동물이 겪을 수 있는 고통을 최소화하도록 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「동물보호법」",
+            "line_text": "",
+            "target_law_name": "동물보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2056628",
+            "target_url": "https://www.law.go.kr/법령/동물보호법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물도축세부규정#JO0004",
+            "reference_id": "law:동물보호법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물도축세부규정#JO0004"
       },
@@ -125,7 +248,33 @@
         "chapter_path": "",
         "content": "제8조(동물 기절 시 준수사항) ① 동물을 기절시키기 전에, 사용될 기절방법에 따른 적합한 보정법으로 동물을 보정하여야 한다.② 기절 시 사용되는 모든 기구 및 시설은 적절하게 조립ㆍ운용되어야 하며 주 1회 이상 정기점검을 실시하고 문제 발생 시에는 적절한 조치를 취해야 한다.③ 기절은 가축의 특성에 적합한 방법으로 최대한 신속하게 이루어져야 하며, 축종별 기절방법은 별표 1과 같다.④ 최초의 시도로 동물이 완전하게 기절하지 않았거나 의식을 회복한 경우에는 즉시 동일방법으로 재시도하거나 보조방법을 실시하여 동물이 신속하게 기절상태에 이르도록 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "동물도축 세부규정",
+            "target_article_no": "별표1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "2056628",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277248&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물도축세부규정#JO0008",
+            "target_unit": "BYL0001",
+            "reference_id": "admrul:동물도축세부규정#BYL0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "동물도축 세부규정/동물도축 세부규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:동물도축세부규정#JO0008"
       },
@@ -145,7 +294,7 @@
         "article_title": "재검토기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 2024년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제10조(재검토기한) 농림축산식품부장관은 이 고시에 대하여 2026년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -155,51 +304,87 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20130305",
-      "promulgation_no": "2013-4",
-      "content": "부칙 <제2013-4호,2013. 3. 5.>① (시행일) 이 고시는 공포한 날부터 시행한다.② (재검토 기한) 이 고시는 2016년 3월 4일까지「훈령ㆍ예규 등의 발령 및 관리에 관한 규정(대통령훈령 제248호)」제7조제3항제2호에 따라 재검토하여야 한다.",
-      "provision_id": "admrul:동물도축세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20130323",
-      "promulgation_no": "2013-21",
-      "content": "부칙 <제2013-21호,2013. 3. 23.>① (시행일) 이 고시는 2013년 3월 23일 부터 시행한다.② (재검토 기한) 이 고시는 2016년 3월 22일까지「훈령ㆍ예규 등의 발령 및 관리에 관한 규정(대통령훈령 제248호)」제7조제3항제2호에 따라 재검토하여야 한다.",
-      "provision_id": "admrul:동물도축세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20160329",
-      "promulgation_no": "2016-77",
-      "content": "부칙 <제2016-77호,2016. 3. 29.>제1조(시행일) 이 고시는 2016년 3월 29일부터 시행한다.제2조(재검토기한) 이 고시는 2019. 3. 28.일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정(대통령훈령 제248호)」제7조제3항제2호에 따라 재검토하여야 한다.",
-      "provision_id": "admrul:동물도축세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20190522",
-      "promulgation_no": "2019-28",
-      "content": "부칙 <제2019-28호,2019. 5. 22.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:동물도축세부규정#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20240620",
-      "promulgation_no": "2024-22",
-      "content": "부칙 <제2024-22호, 2024. 6. 20.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:동물도축세부규정#ADDENDUM"
+      "promulgation_date": "20260408",
+      "promulgation_no": "2026-42",
+      "content": "부칙 <제2026-42호, 2026. 4. 8.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(종전 고시의 폐지) 종전의 「동물도축 세부규정(농림축산검역본부고시 제2024-22호, 2024. 6. 20.)」는 폐지한다.",
+      "provision_id": "admrul:동물도축세부규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000277248",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20260408"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "축종별 기절방법(제8조제3항 관련)",
+      "enforcement_date": "",
+      "content": "[별표]\n축종별 기절방법(제8조제3항 관련)\n1. 소\n가. 타격법\n1) 눈의 바깥쪽 부위와 반대방향의 뿔 사이의 교차점을 수직방향으로 타격하여야 한다.\n2. 돼지\n가. 타격법\n1) 눈 바로 위의 중앙부위를 척수방향으로 타격하여야 한다.\n나. 전살법\n1) 어떤 전압에서도 최소 1.25A 이상의 전류로 뇌 부위를 2～4초간 통전시켜야 한다.\n다. CO2 가스법\n1) 체임버(chamber: 처리실) 내에서 돼지가 서로 겹치지 않도록 적정 공간을 확보한다.\n2) 가스실신 시 기기 제조사에서 정한 기준을 준용할 수 있으며, 의식이 회복되지 않도록 노출기간이 적절한지 확인하여야 한다.\n3) 80～90% 농도에서 3분간 노출시키는 것을 권장한다.\n3. 닭\n가. 전살법(전기수조)\n1) 전기수조에 입수하기 전에 누전으로 인한 감전이 발생해서는 안 된다.\n2) 60Hz 싸인파 교류전류 이용 시 전압에 관계없이 최소 100mA의 전류로 4초 이상 통전시켜야 한다.\n3) 날개 죽지 앞부분까지 충분히 입수되어야 한다.\n나. CO2 가스법\n1) 체임버(chamber: 처리실) 내에서 닭들이 서로 겹치지 않도록 적정 공간을 확보한다.\n2) 가스실신 시 기기 제조사에서 정한 기준을 준용할 수 있으며, 의식이 회복되지 않도록 노출기간이 적절한지 확인하여야 한다.\n3) 이산화탄소 농도 80% 에서 최소 1분 노출시키는 것을 권장한다.\n4. 오리\n가. 전살법(전기수조)\n1) 전기수조에 입수하기 전에 누전으로 인한 감전 등이 발생하여서는 안 된다.\n2) 60Hz 싸인파 교류전류 이용 시 전압에 관계없이 최소 130mA의 전류로 4초 이상 통전시켜야 한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163381667",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163381661",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163381667",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:동물도축세부규정#BYL0000",
+      "filename": "별표0_축종별 기절방법(제8조제3항 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_축종별 기절방법(제8조제3항 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "1. 동물도축 세부규정 고시(제2026-42호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163381629",
+      "filename": "1. 동물도축 세부규정 고시(제2026-42호).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/1. 동물도축 세부규정 고시(제2026-42호).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "1. 동물도축 세부규정 고시(제2026-42호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163381633",
+      "filename": "1. 동물도축 세부규정 고시(제2026-42호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/1. 동물도축 세부규정 고시(제2026-42호).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "appendix_ref": 1
+    },
     "articles_total": 10,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 1,
     "appendices_count": 1,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/동물도축 세부규정"
@@ -208,5 +393,8 @@
   "addendum_provision_id": "admrul:동물도축세부규정#ADDENDUM",
   "amendment_provision_id": "admrul:동물도축세부규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "동물도축 세부규정/동물도축 세부규정.json"
 }
