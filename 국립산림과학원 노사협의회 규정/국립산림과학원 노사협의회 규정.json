@@ -1,25 +1,25 @@
 {
   "law_id": "66460",
-  "mst": "2100000247294",
+  "mst": "2100000278966",
   "law_name": "국립산림과학원 노사협의회 규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:66460",
-  "promulgation_no": "381",
-  "promulgation_date": "20240912",
-  "enforcement_date": "20240912",
-  "revision_date": "20240912",
+  "promulgation_no": "397",
+  "promulgation_date": "20260508",
+  "enforcement_date": "20260508",
+  "revision_date": "20260508",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립산림과학원(연구기획과)",
     "담당자명": "박찬우",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립산림과학원 노사협의회 규정",
-    "발령일자": "20240912",
+    "발령일자": "20260508",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-961-2564",
     "제개정구분명": "일부개정",
     "소관부처코드": "1400000",
-    "생성일자": "20260512",
+    "생성일자": "20260521",
     "행정규칙ID": "66460",
-    "시행일자": "20240912",
+    "시행일자": "20260508",
     "담당부서기관코드": "1400525",
-    "발령번호": "381",
-    "행정규칙일련번호": "2100000247294",
+    "발령번호": "397",
+    "행정규칙일련번호": "2100000278966",
     "상위부처명": "산림청"
   },
-  "amendment_text": "⊙국립산림과학원 예규 제381호\n「국립산림과학원 노사협의회 규정」을 일부 개정하여 다음과 같이 발령한다.\n2024년 9월 12일\n국립산림과학원장\n국립산림과학원 노사협의회 규정 개정\n「국립산림과학원 노사협의회 규정」 일부를 다음과 같이 개정한다.\n제17조(근로자위원 선출) 제1항 중 \"직접ㆍ비밀ㆍ무기명투표에 의하여 선출하며\"를 \"근로자 과반수가 참여하여 직접ㆍ비밀ㆍ무기명투표로 선출하며\"로 한다.\n부칙\n이 규정은 공포한 날부터 시행한다.",
-  "revision_reason": "◇ 개정 이유\n- 국립산림과학원 노사협의회의 근거 규정인 「근로자참여 및 협력증진에관한법률」(이하, 근로자참여법)에서 개정된 내용을 반영해 근로자위원 선출시 과반수 참여 요건을 명시함.\n\n◇ 주요내용\n가. 근로자 위원 선출시 근로자 과반수 참여를 명시함(안 제17조 제1항)",
+  "amendment_text": "⊙국립산림과학원 예규 제397호\n「국립산림과학원 노사협의회 규정」일부개정예규를 다음과 같이 발령한다.\n2026년 5월 8일\n국립산림과학원장\n국립산림과학원 노사협의회 규정 일부개정예규\n국립산림과학원 노사협의회 규정 일부를 다음과 같이 개정한다.\n제7조제4호를 다음과 같이 한다.\n4. 미래산림정책연구과장\n부칙\n이 규정은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 제ㆍ개정 이유\n국립산림과학원 미래산림전략연구분야 기능 강화를 위한 부서명칭 변경 사항(국립산림과학원훈령 제558호, 2026.5.8.)을 반영하여 노사협의회 사용자위원에 관한 항목을 개정하고자 함.\n◇ 주요내용\n가. (제7조) 사용자위원\n- (기존) 산림전략연구과장 → (개정) 미래산림정책연구과장",
   "body": {
     "format": "articles",
     "article_count": 39,
@@ -48,7 +48,28 @@
         "chapter_path": "제1장 총칙",
         "content": "제1조(목적) 국립산림과학원 노사협의회는 「근로자참여 및 협력증진에 관한 법률」에 의거 노사간 소통과 협력을 통한 동반성장과 근로자 권익개선을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「근로자참여 및 협력증진에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "근로자참여 및 협력증진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "66460",
+            "target_url": "https://www.law.go.kr/법령/근로자참여 및 협력증진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립산림과학원노사협의회규정#JO0001",
+            "reference_id": "law:근로자참여및협력증진에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립산림과학원노사협의회규정#JO0001"
       },
@@ -112,7 +133,7 @@
         "article_title": "사용자위원",
         "chapter": "제2장 협의회의 구성",
         "chapter_path": "제2장 협의회의 구성",
-        "content": "제7조(사용자위원) 사용자위원은 아래와 같이 구성한다.1. 국립산림과학원장2. 운영지원과장3. 연구기획과장4. 산림전략연구과장5. 산불연구과장6. 산림생명정보연구과장7. 목재산업연구과장8. 산림기술경영연구소장",
+        "content": "제7조(사용자위원) 사용자위원은 아래와 같이 구성한다.1. 국립산림과학원장2. 운영지원과장3. 연구기획과장4. 미래산림정책연구과장5. 산불연구과장6. 산림생명정보연구과장7. 목재산업연구과장8. 산림기술경영연구소장",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -213,7 +234,33 @@
         "chapter_path": "제3장 근로자위원 선출",
         "content": "제16조(후보등록) ① 근로자위원에 입후보하고자 하는 자는 별지 제1호 서식에 따른 입후보 신청서를 선관위에 등록하여야 한다.② 선거관리위원은 근로자위원에 입후보할 수 없다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "국립산림과학원 노사협의회 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "노사협의회 근로자위원 입후보 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "66460",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364861",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립산림과학원노사협의회규정#JO0016",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:국립산림과학원노사협의회규정#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립산림과학원 노사협의회 규정/국립산림과학원 노사협의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립산림과학원노사협의회규정#JO0016"
       },
@@ -235,7 +282,28 @@
         "chapter_path": "제3장 근로자위원 선출",
         "content": "제18조(보궐선거) ① 근로자위원의 결원이 생길 때에는 결원이 발생한 날로부터 30일 이내에 보궐선거를 실시한다.② 제1항에도 불구하고 제17조에 의한 근로자위원으로 선출되지 못한 자 중 다수득표자 순에 의한 차점자를 보궐 근로자위원으로 선정할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제2항",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "국립산림과학원 노사협의회 규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "66460",
+            "target_url": "https://www.law.go.kr/행정규칙/국립산림과학원 노사협의회 규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립산림과학원노사협의회규정#JO0018",
+            "reference_id": "admrul:국립산림과학원노사협의회규정#JO0017",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립산림과학원 노사협의회 규정/국립산림과학원 노사협의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립산림과학원노사협의회규정#JO0018"
       },
@@ -301,7 +369,28 @@
         "chapter_path": "제4장 협의회의 운영",
         "content": "제24조(비밀유지) ① 협의회의 위원은 협의회에서 알게 된 비밀을 누설하여서는 아니 된다. 다만, 비밀의 범위는 협의회 회의에서 정한다.② 비밀을 누설한 경우 「산림청 공무직 근로자 인사관리규정」을 준용하여 징계할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "「산림청 공무직 근로자 인사관리규정」",
+            "line_text": "",
+            "target_law_name": "산림청 공무직 근로자 인사관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "66460",
+            "target_url": "https://www.law.go.kr/행정규칙/산림청 공무직 근로자 인사관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립산림과학원노사협의회규정#JO0024",
+            "reference_id": "admrul:산림청공무직근로자인사관리규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "산림청 공무직 근로자 인사관리규정/산림청 공무직 근로자 인사관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립산림과학원노사협의회규정#JO0024"
       },
@@ -323,7 +412,28 @@
         "chapter_path": "제5장 협의회의 의무",
         "content": "제26조(협의사항) ① 협의회는 다음 각 호의 사항을 협의함을 원칙으로 한다.1. 근로자의 채용, 배치 및 교육훈련2. 근로자의 고충처리3. 안전, 보건 그 밖의 작업환경 개선과 근로자의 건강증진4. 인사노무관리의 제도 개선5. 경영상 또는 기술상의 사정으로 인한 인력의 배치전환, 재훈련, 해고 등 고용조건의 일반원칙6. 작업 및 휴게시간의 운용7. 임금의 지불방법, 체계, 구조 등의 제도개선8. 근로자의 복지증진9. 여성근로자의 모성보호 및 일과 가정생활의 양립을 지원하기 위한 사항10. 그 밖의 노사협조에 관한 사항② 제1항 각 호의 사항에 대하여 제21조 규정에 따라 의결할 수 있다.③ 협의회는 협의회에 부의된 안건 중 계속 보완 발전시킬 필요성이 있거나 전문적인 기술을 요하는 특정사항에 대하여는 협의회 결정으로 전문가에게 위탁할 수 있다. 이 경우 필요한 경비는 사용자측에서 부담해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "국립산림과학원 노사협의회 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "66460",
+            "target_url": "https://www.law.go.kr/행정규칙/국립산림과학원 노사협의회 규정/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립산림과학원노사협의회규정#JO0026",
+            "reference_id": "admrul:국립산림과학원노사협의회규정#JO0021",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립산림과학원 노사협의회 규정/국립산림과학원 노사협의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립산림과학원노사협의회규정#JO0026"
       },
@@ -378,7 +488,28 @@
         "chapter_path": "제5장 협의회의 의무",
         "content": "제31조(임의중재기구 활용) ① 협의회는 다음 각 호에 해당하는 경우에는 근로자위원 및 사용자위원의 합의에 의하여 협의회에 중재기구를 두어 해결하거나 노동위원회나 그 밖의 제3자에 의한 중재를 받을 수 있다.1. 제27조에 규정된 사항에 관하여 협의회가 의결하지 못한 경우2. 협의회에서 의결된 사항의 해석이나 이행방법 등에 관하여 의견이 일  치하지 아니하는 경우② 제1항의 규정에 의한 중재결정이 있는 때에는 협의회의 의결을 거친 것으로 보며 근로자와 사용자는 이에 따라야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제1항",
+            "link_text": "제27조",
+            "line_text": "",
+            "target_law_name": "국립산림과학원 노사협의회 규정",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "66460",
+            "target_url": "https://www.law.go.kr/행정규칙/국립산림과학원 노사협의회 규정/제27조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립산림과학원노사협의회규정#JO0031",
+            "reference_id": "admrul:국립산림과학원노사협의회규정#JO0027",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립산림과학원 노사협의회 규정/국립산림과학원 노사협의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립산림과학원노사협의회규정#JO0031"
       },
@@ -400,7 +531,28 @@
         "chapter_path": "제6장 고충상담 및 처리",
         "content": "제33조(고충처리위원의 구성 등) ① 고충처리위원은 협의회 위원 중에서 근로자위원 2인, 사용자위원 1인을 협의회가 선임한다.② 고충처리위원의 임기에 관하여는 제8조를 준용한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제2항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "국립산림과학원 노사협의회 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "66460",
+            "target_url": "https://www.law.go.kr/행정규칙/국립산림과학원 노사협의회 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립산림과학원노사협의회규정#JO0033",
+            "reference_id": "admrul:국립산림과학원노사협의회규정#JO0008",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립산림과학원 노사협의회 규정/국립산림과학원 노사협의회 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립산림과학원노사협의회규정#JO0033"
       },
@@ -477,42 +629,276 @@
       "promulgation_date": "20190211",
       "promulgation_no": "326",
       "content": "부칙 <제326호,2019. 2. 11.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM"
+      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278966",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
     },
     {
       "promulgation_date": "20210428",
       "promulgation_no": "346",
       "content": "부칙 <제346호, 2021. 4. 28.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM"
+      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278966",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
     },
     {
       "promulgation_date": "20240701",
       "promulgation_no": "377",
       "content": "부칙 <제377호, 2024. 7. 1.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM"
+      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278966",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
     },
     {
       "promulgation_date": "20240912",
       "promulgation_no": "381",
       "content": "부칙 <제381호, 2024. 9. 12.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM"
+      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278966",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
+    },
+    {
+      "promulgation_date": "20260508",
+      "promulgation_no": "397",
+      "content": "부칙 <제397호, 2026. 5. 8.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278966",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "노사협의회 근로자위원 입후보 신청서",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식] 노사협의회 근로자위원 입후보 신청서\n┌────────────────────────────┐\n│노사협의회 근로자위원 입후보 신청서                     │\n├───────┬────────────────────┤\n│성        명 :│                                        │\n├───────┼────────────────────┤\n│소속 및 직책 :│                                        │\n├───────┼────────────────────┤\n│주민등록번호 :│                                        │\n├───────┴────────────────────┤\n│                                                        │\n│  상기 본인은 국립산림과학원 노사협의회 근로자위원으로  │\n│입후보를 신청합니다.                                    │\n│                                                        │\n│                                                        │\n│    년     월    일                                     │\n│신청인                      (서명)                      │\n│                                                        │\n│                                                        │\n│국립산림과학원 노사협의회 선거관리위원회 귀중           │\n└────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364861",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364737",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364861",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립산림과학원노사협의회규정#BJ0001",
+      "filename": "별지1_노사협의회 근로자위원 입후보 신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_노사협의회 근로자위원 입후보 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "노사협의회 회의록",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식] 회의록\n┌───────────────────┐\n│제   차 (정기·임시) 노사협의회 회의록│\n├──────────┬────────┤\n│회의일시            │                │\n├──────────┼────────┤\n│회의장소            │                │\n├──────────┼────────┤\n│보고사항            │                │\n├──────────┼────────┤\n│협의사항            │                │\n├──────────┼────────┤\n│의결사항            │                │\n├──────────┼────────┤\n│이행점검            │                │\n├──────────┼────────┤\n│그 밖의 참고 사항   │                │\n└──────────┴────────┘\n┌──────┬─────┬──┬─────┬──┐\n│참석위원서명│근로자위원│서명│사용자위원│서명│\n│            ├─────┼──┼─────┼──┤\n│            │          │    │          │    │\n└──────┴─────┴──┴─────┴──┘\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364869",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364863",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364869",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립산림과학원노사협의회규정#BJ0002",
+      "filename": "별지2_노사협의회 회의록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_노사협의회 회의록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "노사협의회 안건제안서",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식] 노사협의회 안건제안서\n┌───────────────────────┐\n│노사협의회 안건제안서                         │\n├────┬──────────────────┤\n│제  목  │                                    │\n├────┼──────────────────┤\n│내  용  │                                    │\n├────┴──────────────────┤\n│년      월      일                            │\n│소속                     이름          (서명) │\n└───────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364875",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364871",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364875",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립산림과학원노사협의회규정#BJ0003",
+      "filename": "별지3_노사협의회 안건제안서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_노사협의회 안건제안서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "고충처리신청서",
+      "enforcement_date": "",
+      "content": "[별지 제4호서식] 고충처리신청서\n┌───────────────────────┐\n│고충처리신청서                                │\n├────┬──────────────────┤\n│제  목  │                                    │\n├────┼──────────────────┤\n│내  용  │                                    │\n├────┼──────────────────┤\n│요구사항│                                    │\n├────┼──────────────────┤\n│제출자료│                                    │\n├────┴──────────────────┤\n│년      월      일                            │\n│소속                     이름          (서명) │\n└───────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364881",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364877",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364881",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립산림과학원노사협의회규정#BJ0004",
+      "filename": "별지4_고충처리신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_고충처리신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "고충신청 접수 및 처리 대장",
+      "enforcement_date": "",
+      "content": "┌──────────────────────────────┐\n│고충신청 접수 및 처리 대장                                  │\n├───┬───┬───┬──┬────┬───┬──────┤\n│연번  │접수일│이름  │내용│처리결과│회신일│고충처리위원│\n│      │      │(소속)│    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n├───┼───┼───┼──┼────┼───┼──────┤\n│      │      │      │    │        │      │            │\n└───┴───┴───┴──┴────┴───┴──────┘\n[별지 제5호서식] 고충신청 접수 및 처리 대장",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364887",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364883",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364887",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립산림과학원노사협의회규정#BJ0005",
+      "filename": "별지5_고충신청 접수 및 처리 대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지5_고충신청 접수 및 처리 대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "고충신청 결과 통지서",
+      "enforcement_date": "",
+      "content": "[별지 제6호서식] 고충신청 결과 통지서\n┌────────────────────┐\n│고충신청 결과 통지서                    │\n├─────┬┬───┬─────────┤\n│접수번호  ││접수일│                  │\n├─────┼┼───┼─────────┤\n│신청인    ││소속  │                  │\n├─────┼┴───┴─────────┤\n│사건명    │                            │\n├─────┼──────────────┤\n│요구사항  │                            │\n├─────┼──────────────┤\n│처리결과  │                            │\n├─────┴──────────────┤\n│2024. OO. OO.                           │\n│국립산림과학원 노사협의회 고충처리위원  │\n│OOO (서명)    OOO (서명)    OOO (서명)  │\n└────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364893",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364889",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164364893",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립산림과학원노사협의회규정#BJ0006",
+      "filename": "별지6_고충신청 결과 통지서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_고충신청 결과 통지서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(예규397호)국립산림과학원 노사협의회 규정 개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164141271",
+      "filename": "(예규397호)국립산림과학원 노사협의회 규정 개정전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(예규397호)국립산림과학원 노사협의회 규정 개정전문.hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "법령": 1,
+      "행정규칙": 6
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 1,
+      "internal_ref": 4
+    },
     "articles_total": 39,
-    "articles_with_relations": 0,
+    "articles_with_relations": 7,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 6,
-    "attachments_count": 5
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립산림과학원 노사협의회 규정"
@@ -521,5 +907,8 @@
   "addendum_provision_id": "admrul:국립산림과학원노사협의회규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립산림과학원노사협의회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립산림과학원 노사협의회 규정/국립산림과학원 노사협의회 규정.json"
 }
