@@ -67,9 +67,7 @@
             "source_provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#JO0001",
             "reference_id": "law:행정기관의조직과정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
-            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
           },
           {
             "relation_type": "citation",
@@ -89,9 +87,7 @@
             "source_provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#JO0001",
             "reference_id": "law:행정기관의조직과정원에관한통칙#JO0029_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
-            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
           }
         ],
         "images": [],
@@ -145,9 +141,7 @@
             "source_provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#JO0004",
             "reference_id": "law:직무대리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직무대리규정/법률/직무대리규정.json",
-            "target_git_path": "직무대리규정/법률/직무대리규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "직무대리규정/법률/직무대리규정.json"
           },
           {
             "relation_type": "citation",
@@ -230,22 +224,11 @@
             "source_provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#JO0006",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#JO0006",
-        "scheduled": [
-          {
-            "enforcement_date": "20261117",
-            "change": "개정",
-            "content": "제6조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령을 시행한 2026년 5월 17일 기준으로 1년이 되는 시점(2027년 5월 16일까지를 말한다)까지 그 효력을 가진다."
-          }
-        ]
+        "provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#JO0006"
       }
     ]
   },
@@ -260,18 +243,6 @@
       "source_version_uid": "",
       "source_revision_type": "제정",
       "version_enforcement_date": "20260517"
-    },
-    {
-      "promulgation_date": "20261106",
-      "promulgation_no": "68",
-      "content": "부칙 <제68호, 2026. 11. 6.>이 훈령은 2026년 11월 17일부터 시행한다.",
-      "provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#ADDENDUM",
-      "is_future": true,
-      "source_mst": "2100000287988",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20261117",
-      "enforcement_date": "20261117"
     }
   ],
   "appendices": [
@@ -351,10 +322,8 @@
   "addendum_provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:국가유산지역활성화총괄단설치및운영에관한규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [
-    "20261117"
-  ],
-  "has_future": true,
-  "version_count": 2,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국가유산지역활성화총괄단 설치 및 운영에 관한 규정/국가유산지역활성화총괄단 설치 및 운영에 관한 규정.json"
 }
