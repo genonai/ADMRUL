@@ -1,42 +1,42 @@
 {
   "law_id": "40628",
-  "mst": "2100000237892",
+  "mst": "2100000282786",
   "law_name": "국가유산청 청렴마일리지 운영지침",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:40628",
-  "promulgation_no": "327",
-  "promulgation_date": "20240319",
-  "enforcement_date": "20240517",
-  "revision_date": "20240319",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "33",
+  "promulgation_date": "20260601",
+  "enforcement_date": "20260601",
+  "revision_date": "20260601",
+  "revision_type": "폐지제정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국가유산청(법무감사담당관)",
-    "담당자명": "강재훈",
+    "담당자명": "문지혜",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국가유산청 청렴마일리지 운영지침",
-    "발령일자": "20240319",
+    "발령일자": "20260601",
     "행정규칙종류": "예규",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200407",
     "조문형식여부": "Y",
     "소관부처명": "국가유산청",
     "전화번호": "042-481-4692",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "폐지제정",
     "소관부처코드": "1833100",
-    "생성일자": "20260313",
+    "생성일자": "20260722",
     "행정규칙ID": "40628",
-    "시행일자": "20240517",
-    "담당부서기관코드": "1550356",
-    "발령번호": "327",
-    "행정규칙일련번호": "2100000237892",
+    "시행일자": "20260601",
+    "담당부서기관코드": "1833149",
+    "발령번호": "33",
+    "행정규칙일련번호": "2100000282786",
     "상위부처명": "국가유산청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n「국가유산기본법」 제정(‘23.5.16.) 등 국가유산 체제 전환에 따른 「정부조직법」 개정(‘23.2.13.)으로, ’문화재청‘의 명칭을 ’국가유산청‘으로 변경됨에 따른 정비 필요\n◇ 주요내용\n「정부조직법」 개정 사항 반영\n- 문화재청(장) → 국가유산청(장)",
+  "revision_reason": "◇ 제ㆍ개정 이유\no 기본운영규정 내 인사ㆍ정원관련 문구 수정\no 훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조(훈령ㆍ예규등의 존속기간 등의 설정)에 따라 행정규칙 일몰제 적용대상인 「국가유산청 청렴마일리지」 예규의 유효기간을 연장하여 존속기한 설정\n◇ 주요내용\n가. 「국가유산청 청렴마일리지」 존속기한을 2029. 3. 12.까지 연장(안 제9조)\n* 당초 존속기한 : 2026. 3. 12.까지\n나. 청렴마일리지 부여기준 수정\n- 청렴ㆍ반부패 관련 활동의 세부기준 중 참여효과 및 운영 실효성 등을 종합적으로 고려하여 ‘청렴골든벨’ 삭제(별표)",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -134,9 +134,30 @@
         "article_title": "유효기간",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조(유효기간) 이 예규는「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실여건의 변화 등을 검토하여야 하는 2026년 3월 12일까지 효력을 가진다.",
+        "content": "제9조(유효기간) 이 예규는「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실여건의 변화 등을 검토하여야 하는 2029년 3월 12일까지 효력을 가진다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "40628",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가유산청청렴마일리지운영지침#JO0009",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국가유산청청렴마일리지운영지침#JO0009"
       }
@@ -144,57 +165,85 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20150825",
-      "promulgation_no": "149",
-      "content": "부칙 <제149호,2015. 8. 25.>제1조(시행일) 이 지침은 2015년 9월 1일부터 시행한다.제2조(기존 훈령의 폐지) 문화재청 청렴마일리지 운영지침(문화재청 예규 제118호)는 폐지한다.",
-      "provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20180702",
-      "promulgation_no": "192",
-      "content": "부칙 <제192호,2018. 7. 2.>이 지침은 발령일로부터 시행한다.",
-      "provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20210125",
-      "promulgation_no": "231",
-      "content": "부칙 <제231호, 2021. 1. 25.>이 지침은 발령일로부터 시행한다.",
-      "provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20220117",
-      "promulgation_no": "244",
-      "content": "부칙 <제244호, 2022. 1. 17.>이 지침은 발령일로부터 시행한다.",
-      "provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20230313",
-      "promulgation_no": "262",
-      "content": "부칙 <제262호, 2023. 3. 13.>이 지침은 2023년 3월 13일부터 시행한다.",
-      "provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM"
-    },
-    {
-      "promulgation_date": "20240319",
-      "promulgation_no": "327",
-      "content": "부칙 <제327호, 2024. 3. 19.>제1조(시행일) 이 예규는 2024년 5월 17일부터 시행한다.",
-      "provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM"
+      "promulgation_date": "20260601",
+      "promulgation_no": "33",
+      "content": "부칙 <제33호, 2026. 6. 1.>제1조(시행일) 이 지침은 발령일로부터부터 시행한다.제2조(기존 훈령의 폐지) 국가유산청 청렴마일리지 운영지침(문화재청 예규 제327호)는 폐지한다.",
+      "provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000282786",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20260601"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "청렴마일리지 부여 기준",
+      "enforcement_date": "",
+      "content": "<별표>\n청렴마일리지 부여 기준\n가. 마일리지 배점 기준┌───────┬──────────┬──────┬────────────────┬──────┐\n│분야          │평가항목            │배점        │세부기준                        │비고        │\n┝━━━━━━━┿━━━━━━━━━━┿━━━━━━┿━━━━━━━━━━━━━━━━┿━━━━━━┥\n│청렴ㆍ부패방지│ 청렴교육 강사 자격 │10점        │청렴연수원 주관 청렴교육 강사   │            │\n│교육          │취득                │(1인당)     │자격 취득                       │            │\n│              ├──────────┼──────┼────────────────┼──────┤\n│              │부서원 교육 이수    │10점        │부서원 전원 교육 이수(현원 기준)│            │\n│              ├──────────┼──────┼────────────────┼──────┤\n│              │자체 청렴교육       │4점         │자체 청렴 교육                  │제5조제3항  │\n│              │                    │(1회당)     │(증빙: 계획 및 결과보고 공문)   │미적용      │\n├───────┼──────────┼──────┼────────────────┼──────┤\n│부패방지      │권고사항 이행실적   │5점         │권익위 청렴노력도 평가대상      │제5조제3항  │\n│제도개선      │                    │(세부과제별)│제도개선 권고사항(최대 4건)     │미적용      │\n│              ├──────────┼──────┼────────────────┤            │\n│              │외부청렴도 분야 개선│10점        │부패취약분야(5개) 외부청렴도    │            │\n│              │                    │            │평가 결과 전년대비 상승 분야    │            │\n│              │                    │            │* ‘지자체 분야’ 제외          │            │\n│              ├──────────┼──────┼────────────────┤            │\n│              │부패방지 우수사례   │5∼10점     │청렴노력도 평가 관련 우수사례   │            │\n│              │                    │            │ (제출 5점, 채택시 추가 5점)    │            │\n├───────┼──────────┼──────┼────────────────┼──────┤\n│청렴ㆍ반부패  │반부패ㆍ청렴        │행사계획    │청렴퀴즈, 부서장과 함께하는     │제5조제3항  │\n│관련 활동     │회의ㆍ행사 참여     │준용        │청렴활동 등                     │미적용      │\n│              ├──────────┼──────┼────────────────┼──────┤\n│              │노력 및 기여도      │최대20점    │반부패ㆍ청렴 관련 유효한 신고   │제5조제3항  │\n│              │                    │            │건수(2점), 공모전 참여(1∼5점), │미적용      │\n│              │                    │            │기타 활동 등                    │            │\n└───────┴──────────┴──────┴────────────────┴──────┘\n나. 마일리지 감점 기준\n┏━━━━━━━━━━┯━━━━━━━┯━━━━━┓\n┃평가항목            │세부 평가기준 │배 점     ┃\n┃                    │(단위: 건)    │(단위: 점)┃\n┠──────────┼───────┼─────┨\n┃청탁금지법 위반     │중징계        │­30점    ┃\n┠──────────┤경징계        │­20점    ┃\n┃공무원 행동강령 위반│경고          │­10점    ┃\n┠──────────┤주의          │­5점     ┃\n┃공직기강 위반       │              │          ┃\n┗━━━━━━━━━━┷━━━━━━━┷━━━━━┛\n※ 마일리지 감점은 적발 당시의 부서에 적용하며 제5조제3항의 적용을 받지 않음.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167378013",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167378009",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167378013",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국가유산청청렴마일리지운영지침#BYL0000",
+      "filename": "별표0_청렴마일리지 부여 기준.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_청렴마일리지 부여 기준.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국가유산청 청렴마일리지 운영지침.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167377857",
+      "filename": "국가유산청 청렴마일리지 운영지침.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가유산청 청렴마일리지 운영지침.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "국가유산청 청렴마일리지 운영지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167377853",
+      "filename": "국가유산청 청렴마일리지 운영지침.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가유산청 청렴마일리지 운영지침.hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
+    "addenda_count": 1,
     "appendices_count": 1,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국가유산청 청렴마일리지 운영지침"
@@ -203,5 +252,8 @@
   "addendum_provision_id": "admrul:국가유산청청렴마일리지운영지침#ADDENDUM",
   "amendment_provision_id": "admrul:국가유산청청렴마일리지운영지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국가유산청 청렴마일리지 운영지침/국가유산청 청렴마일리지 운영지침.json"
 }
