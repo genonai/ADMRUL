@@ -1,25 +1,25 @@
 {
   "law_id": "21071",
-  "mst": "2100000248722",
+  "mst": "2100000278490",
   "law_name": "국세공무원 회계실무능력 검정시험규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:21071",
-  "promulgation_no": "2646",
-  "promulgation_date": "20250101",
-  "enforcement_date": "20250101",
-  "revision_date": "20250101",
+  "promulgation_no": "2732",
+  "promulgation_date": "20260601",
+  "enforcement_date": "20260601",
+  "revision_date": "20260601",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국세청(국세공무원교육원 교육지원과)",
-    "담당자명": "김호근",
+    "담당자명": "현정용",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국세공무원 회계실무능력 검정시험규정",
-    "발령일자": "20250101",
+    "발령일자": "20260601",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1210000",
     "생성일자": "20260601",
     "행정규칙ID": "21071",
-    "시행일자": "20250101",
+    "시행일자": "20260601",
     "담당부서기관코드": "1214545",
-    "발령번호": "2646",
-    "행정규칙일련번호": "2100000248722",
+    "발령번호": "2732",
+    "행정규칙일련번호": "2100000278490",
     "상위부처명": "국세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n이미 합격에 준하는 수준에 도달한 응시생들의 시험준비 부담을 경감시키기 위해 초급수준의 회계능력을 평가하는 회계실무2급 시험의 부분합격제도를 합리적으로 개선\n\n◇ 주요내용\n가. 부분합격기준 점수 조정\n부분합격기준을 80점에서 60점으로 조정\n나. 부분합격 인정기간 조정\n부분합격 인정기간을 다음회에 시행하는 시험까지 면제하는 기준에서부분합격 합격자발표일로부터 1년으로 연장",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 이전 국세공무원 회계실무능력 검정시험 규정에서는 부분합격자가 해당 과목에 재응시하는 경우 합격자 결정에 대해 별도 명시된 바 없음\n○ 부분합격자의 부분합격 과목에 대한 재응시 시 합격자 결정 방법을 명문화\n◇ 주요내용\n○ (합산 특례) 면제되는 과목에 다시 응시한 경우 부분 합격할 당시 점수와 해당 회차 시험 점수 중 큰 점수를 반영",
   "body": {
     "format": "articles",
     "article_count": 14,
@@ -103,7 +103,28 @@
         "chapter_path": "",
         "content": "제6조(위원회 회의) ① 위원회의 회의는 매년 1회 이상 연다.② 위원장은 제4조의 사항과 관련된 변경사항 발생 시 수시로 회의를 소집할 수 있다.③ 위원회의 회의는 재적위원 과반수의 찬성으로 의결한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "국세공무원 회계실무능력 검정시험규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "21071",
+            "target_url": "https://www.law.go.kr/행정규칙/국세공무원 회계실무능력 검정시험규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0006",
+            "reference_id": "admrul:국세공무원회계실무능력검정시험규정#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국세공무원 회계실무능력 검정시험규정/국세공무원 회계실무능력 검정시험규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0006"
       },
@@ -162,8 +183,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145028033",
-            "seq": "145028033",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163990877",
+            "seq": "163990877",
             "filename": "제11조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제11조_1.gif",
@@ -179,7 +200,28 @@
         "chapter_path": "",
         "content": "제12조(부분합격자의 결정) 제11조의 회계실무능력검정시험에 응시하여 1과목 60점(1급 시험의 경우 80점으로 한다.) 이상 득점한 자에 대하여는 합격자발표일로부터 1년 내에 시행하는 해당 등급 시험에 한하여 그 과목의 시험을 면제한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "국세공무원 회계실무능력 검정시험규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "21071",
+            "target_url": "https://www.law.go.kr/행정규칙/국세공무원 회계실무능력 검정시험규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0012",
+            "reference_id": "admrul:국세공무원회계실무능력검정시험규정#JO0011",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국세공무원 회계실무능력 검정시험규정/국세공무원 회계실무능력 검정시험규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0012"
       },
@@ -188,9 +230,70 @@
         "article_title": "합격자 결정",
         "chapter": "",
         "chapter_path": "",
-        "content": "제13조(합격자 결정) ① 제11조의 회계실무능력검정등급 중 1급 시험의 합격 결정은 매과목 100점을 만점으로 하여 매과목 40점 이상, 전 과목 평균 70점 이상 득점한 자로 하고, 2급 시험의 합격 결정은 매과목 100점을 만점으로 하여 매과목 40점 이상, 전 과목 평균 60점 이상 득점한 자로 한다.② 제12조의 규정에 의하여 면제되는 과목의 성적은 다음 회의 시험 성적과 이를 합산하여 계산한다.",
+        "content": "제13조(합격자 결정) ① 제11조의 회계실무능력검정등급 중 1급 시험의 합격 결정은 매과목 100점을 만점으로 하여 매과목 40점 이상, 전 과목 평균 70점 이상 득점한 자로 하고, 2급 시험의 합격 결정은 매과목 100점을 만점으로 하여 매과목 40점 이상, 전 과목 평균 60점 이상 득점한 자로 한다.② 제12조의 규정에 의하여 면제되는 과목에 대하여는 면제 당시 획득한 점수를 적용하여 총득점을 산정한다. 다만, 제12조의 규정에도 불구하고 면제되는 과목에 다시 응시한 경우에는 그 응시하여 획득한 점수와 면제 당시 획득한 점수 중 큰 점수를 적용하여 총득점을 산정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "국세공무원 회계실무능력 검정시험규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "21071",
+            "target_url": "https://www.law.go.kr/행정규칙/국세공무원 회계실무능력 검정시험규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0013",
+            "reference_id": "admrul:국세공무원회계실무능력검정시험규정#JO0011",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국세공무원 회계실무능력 검정시험규정/국세공무원 회계실무능력 검정시험규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "국세공무원 회계실무능력 검정시험규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "21071",
+            "target_url": "https://www.law.go.kr/행정규칙/국세공무원 회계실무능력 검정시험규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0013",
+            "reference_id": "admrul:국세공무원회계실무능력검정시험규정#JO0012",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국세공무원 회계실무능력 검정시험규정/국세공무원 회계실무능력 검정시험규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "국세공무원 회계실무능력 검정시험규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "21071",
+            "target_url": "https://www.law.go.kr/행정규칙/국세공무원 회계실무능력 검정시험규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0013",
+            "reference_id": "admrul:국세공무원회계실무능력검정시험규정#JO0012",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국세공무원 회계실무능력 검정시험규정/국세공무원 회계실무능력 검정시험규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국세공무원회계실무능력검정시험규정#JO0013"
       },
@@ -212,48 +315,105 @@
       "promulgation_date": "20070723",
       "promulgation_no": "1659",
       "content": "부칙 <제1659호,2007. 7. 23.>(시행일) 이 규정은 2007년 7월 23일부터 시행한다.",
-      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM"
+      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278490",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20170323",
       "promulgation_no": "2196",
       "content": "부칙 <제2196호,2017. 3. 23.>(시행일) 이 규정은 2017년 3월 31일부터 시행한다.",
-      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM"
+      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278490",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20190610",
       "promulgation_no": "2316",
       "content": "부칙 <제2316호,2019. 6. 10.>(시행일) 이 규정은 2019년 7월 1일부터 시행한다.",
-      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM"
+      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278490",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20230101",
       "promulgation_no": "2528",
       "content": "부칙 <제2528호, 2023. 1. 1.>(시행일) 이 규정은 2023년 1월 1일부터 시행한다.",
-      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM"
+      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278490",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20250101",
       "promulgation_no": "2646",
       "content": "부칙 <제2646호, 2025. 1. 1.>(시행일) 이 규정은 2025년 1월 1일부터 시행한다.",
-      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM"
+      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278490",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
+    },
+    {
+      "promulgation_date": "20260601",
+      "promulgation_no": "2732",
+      "content": "부칙 <제2732호, 2026. 6. 1.>(시행일) 이 규정은 2026년 6월 1일부터 시행한다.",
+      "provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000278490",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "국세공무원 회계실무능력 검정시험 규정(국세청 훈령 제2732호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163990635",
+      "filename": "국세공무원 회계실무능력 검정시험 규정(국세청 훈령 제2732호).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국세공무원 회계실무능력 검정시험 규정(국세청 훈령 제2732호).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "국세공무원 회계실무능력 검정시험 규정(국세청 훈령 제2732호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163990639",
+      "filename": "국세공무원 회계실무능력 검정시험 규정(국세청 훈령 제2732호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국세공무원 회계실무능력 검정시험 규정(국세청 훈령 제2732호).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "internal_ref": 5
+    },
     "articles_total": 14,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국세공무원 회계실무능력 검정시험규정"
@@ -262,5 +422,8 @@
   "addendum_provision_id": "admrul:국세공무원회계실무능력검정시험규정#ADDENDUM",
   "amendment_provision_id": "admrul:국세공무원회계실무능력검정시험규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국세공무원 회계실무능력 검정시험규정/국세공무원 회계실무능력 검정시험규정.json"
 }
