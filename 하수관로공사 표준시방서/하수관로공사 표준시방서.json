@@ -1,25 +1,25 @@
 {
   "law_id": "2039986",
-  "mst": "2100000267064",
+  "mst": "2100000281958",
   "law_name": "하수관로공사 표준시방서",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2039986",
-  "promulgation_no": "2025-165",
-  "promulgation_date": "20251001",
-  "enforcement_date": "20251001",
-  "revision_date": "20251001",
+  "promulgation_no": "2026-153",
+  "promulgation_date": "20260629",
+  "enforcement_date": "20260629",
+  "revision_date": "20260629",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "기후에너지환경부(생활하수과)",
-    "담당자명": "김민정",
+    "담당자명": "김귀원",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "하수관로공사 표준시방서",
-    "발령일자": "20251001",
+    "발령일자": "20260629",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-201-7025, 7026",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20251112",
+    "생성일자": "20261124",
     "행정규칙ID": "2039986",
-    "시행일자": "20251001",
+    "시행일자": "20260629",
     "담당부서기관코드": "1482291",
-    "발령번호": "2025-165",
-    "행정규칙일련번호": "2100000267064",
+    "발령번호": "2026-153",
+    "행정규칙일련번호": "2100000281958",
     "상위부처명": "기후에너지환경부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 정부조직법 개정(‘25.10.1 공포 시행)\n◇ 주요내용\n○ 정부조직법 개정에 따라 기관명칭(환경부→기후에너지환경부)을 변경",
+  "amendment_text": "⊙기후에너지환경부고시 제2026-153호\n「건설기술 진흥법」 제44조 및 같은 법 시행령 제65조에 따라 「하수관로공사 표준시방서」를 다음과 같이 개정합니다.\n2026년 6월 29일\n기후에너지환경부장관\n하수관로공사 표준시방서 일부개정고시\n하수관로공사 표준시방서 일부를 다음과 같이 개정한다.\n[그림]\n제3조 중 \"2023년 1월 1일\"을 \"2026년 7월 1일\"로, \"12월 31일\"을 \"6월 30일\"로 한다.\n\n[그림]\n별지를 별지와 같이 한다.\n\n[별지 생략]\n부칙\n이 고시는 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 하수도 전체보수공법, 부분ㆍ보강공법, 관로검사 방법, 맨홀추락방지시설 설치를 위한 표준 등 제시를 위한 하수관로공사 표준시방서 개정\n◇ 주요내용\n가. 하수도 전체보수공법 일부 개정(KCS 61 80 10 하수도 전체보수공법)\n○ 2024년 기준 유효 신기술 적용범위 수정 및 KS, BSI 등 관련 표준 현행화\n○ 수지 종류 추가, CIPP 두께 설계내역서 제출 및 승인 의무 부여\n나. 하수도부분, 보강공법 일부 개정(KCS 61 80 15 하수도부분, 보강공법)\n○ 지수제 특성, 라이너 두께 기준 추가, 보강공법 검사법 추가 등\n다. 하수도 맨홀, 측구 및 표면배수시설 공사 일부 개정(KCS 61 40 10 하수도 맨홀, 측구 및 표면배수시설 공사)\n○ 맨홀추락방지시설 설치를 위한 표준, 재료ㆍ시공기준 추가\n라. 하수도관 부설공 일부 개정(KCS 61 20 30 하수도관 부설공)\n○ 관로표시못 재료, 시공방법, 표기법 등 추가\n마. 관로 검사 및 시험 일부 개정(KCS 61 20 40 관로 검사 및 시험)\n○ 관로 규격별 시험 적용기준 및 검사압ㆍ허용감압량ㆍ측정시간 별지 추가",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -67,9 +67,7 @@
             "source_provision_id": "admrul:하수관로공사표준시방서#JO0001",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
-            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
           },
           {
             "relation_type": "citation",
@@ -89,9 +87,7 @@
             "source_provision_id": "admrul:하수관로공사표준시방서#JO0001",
             "reference_id": "law:건설기술진흥법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
-            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
           }
         ],
         "images": [],
@@ -113,7 +109,7 @@
         "article_title": "재검토기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(재검토기한) 기후에너지환경부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2023년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제3조(재검토기한) 기후에너지환경부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2026년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -134,11 +130,7 @@
             "source_provision_id": "admrul:하수관로공사표준시방서#JO0003",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
@@ -153,10 +145,10 @@
       "content": "부칙 <제2017-195호,2017. 10. 27.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:하수관로공사표준시방서#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267064",
+      "source_mst": "2100000281958",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "version_enforcement_date": "20260629"
     },
     {
       "promulgation_date": "20221228",
@@ -164,10 +156,10 @@
       "content": "부칙 <제2022-271호, 2022. 12. 28.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:하수관로공사표준시방서#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267064",
+      "source_mst": "2100000281958",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "version_enforcement_date": "20260629"
     },
     {
       "promulgation_date": "20251001",
@@ -175,10 +167,21 @@
       "content": "부칙 <제2025-165호, 2025. 10. 1.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:하수관로공사표준시방서#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267064",
+      "source_mst": "2100000281958",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "version_enforcement_date": "20260629"
+    },
+    {
+      "promulgation_date": "20260629",
+      "promulgation_no": "2026-153",
+      "content": "부칙 <제2026-153호, 2026. 6. 29.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:하수관로공사표준시방서#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281958",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260629"
     }
   ],
   "appendices": [
@@ -191,17 +194,17 @@
       "content": "{별지} 하수관로공사 표준시방서의 자세한 내용은 상단 메뉴 \"\"버튼을 이용하십시오.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157946561",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171740535",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157946557",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171740531",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157946561",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171740535",
           "name": "",
           "file_store_url": ""
         }
@@ -216,35 +219,19 @@
   ],
   "attachments": [
     {
-      "name": "개정본문 (하수관로공사 표준시방서 일부개정고시안).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157946517",
-      "filename": "개정본문 (하수관로공사 표준시방서 일부개정고시안).pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/개정본문 (하수관로공사 표준시방서 일부개정고시안).pdf",
-      "file_store_url": ""
-    },
-    {
       "name": "개정본문 (하수관로공사 표준시방서 일부개정고시안).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157946513",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171739987",
       "filename": "개정본문 (하수관로공사 표준시방서 일부개정고시안).hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/개정본문 (하수관로공사 표준시방서 일부개정고시안).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "[별지] 하수관로공사 표준시방서.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157946529",
-      "filename": "[별지] 하수관로공사 표준시방서.hwpx",
+      "name": "개정본문 (하수관로공사 표준시방서 일부개정고시안).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171739991",
+      "filename": "개정본문 (하수관로공사 표준시방서 일부개정고시안).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/[별지] 하수관로공사 표준시방서.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "[별지] 하수관로공사 표준시방서.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157946533",
-      "filename": "[별지] 하수관로공사 표준시방서.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/[별지] 하수관로공사 표준시방서.pdf",
+      "local_path": "첨부파일/개정본문 (하수관로공사 표준시방서 일부개정고시안).pdf",
       "file_store_url": ""
     }
   ],
@@ -263,9 +250,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 1,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/하수관로공사 표준시방서"
