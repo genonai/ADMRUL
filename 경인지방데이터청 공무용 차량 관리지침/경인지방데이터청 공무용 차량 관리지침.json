@@ -1,42 +1,42 @@
 {
   "law_id": "44730",
-  "mst": "2100000260654",
-  "law_name": "경인지방통계청 공무용 차량 관리지침",
+  "mst": "2100000281716",
+  "law_name": "경인지방데이터청 공무용 차량 관리지침",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:44730",
-  "promulgation_no": "34",
-  "promulgation_date": "20250623",
-  "enforcement_date": "20250623",
-  "revision_date": "20250623",
+  "promulgation_no": "4",
+  "promulgation_date": "20260701",
+  "enforcement_date": "20260701",
+  "revision_date": "20260701",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "경인지방국가데이터처(조사지원과)",
-    "담당자명": "조윤민",
+    "담당자명": "이상무",
     "행정규칙종류코드": "B0002",
-    "행정규칙명": "경인지방통계청 공무용 차량 관리지침",
-    "발령일자": "20250623",
+    "행정규칙명": "경인지방데이터청 공무용 차량 관리지침",
+    "발령일자": "20260701",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
-    "소관부처명": "경인지방국가데이터처",
+    "소관부처명": "경인지방데이터청",
     "전화번호": "02-2110-7622",
     "제개정구분명": "일부개정",
     "소관부처코드": "1241000",
     "생성일자": "20260702",
     "행정규칙ID": "44730",
-    "시행일자": "20250623",
-    "담당부서기관코드": "1240364",
-    "발령번호": "34",
-    "행정규칙일련번호": "2100000260654",
+    "시행일자": "20260701",
+    "담당부서기관코드": "1241141",
+    "발령번호": "4",
+    "행정규칙일련번호": "2100000281716",
     "상위부처명": "국가데이터처"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 경인지방통계청 공무용 차량의 효율적인 관리 및 운용을 위함\n◇ 주요내용\n가. 용어의 혼동을 방지하고 수범자가 관련 규정을 쉽게 이해할 수 있도록 ‘공용차량’ 명칭을 ‘공무용 차량’으로 함\n나. 차량일지 작성자 및 결재자 범위 조정",
+  "revision_reason": "◇ 개정이유\n○ 「국가데이터처와 그 소속기관의 직제 시행규칙」(‘25.12.30.) 일부개정에 따른 기관명 변경\n◇ 개정 주요내용\n가. ’통계청‘을 ’국가데이터처‘로 변경\n나. '경인지방통계청'을 '경인지방데이터청'으로 변경\n◇ 개정안 시행: 2026. 7. 1.",
   "body": {
     "format": "articles",
     "article_count": 12,
@@ -46,11 +46,11 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 지침은 경인지방통계청 본부 및 사무소(이하\"경인지방청\"이라 한다)에서 관리하는 모든 공무용 차량의 관리 및 운행에 관한 사항을 규정하여 효율적인 공무용 차량의 관리 및 운영을 도모하는 것을 목적으로 한다.",
+        "content": "제1조(목적) 이 지침은 경인지방데이터청 본부 및 사무소(이하\"경인지방청\"이라 한다)에서 관리하는 모든 공무용 차량의 관리 및 운행에 관한 사항을 규정하여 효율적인 공무용 차량의 관리 및 운영을 도모하는 것을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0001"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0001"
       },
       {
         "article_no": "제2조",
@@ -59,9 +59,90 @@
         "chapter_path": "",
         "content": "제2조(정의) 이 지침에서 사용하는 용어의 뜻은 다음과 같다.1. \"차량\"이란 경인지방청에서 관리ㆍ운행하는 자동차(「자동차관리법」제2조제1호에 따른 자동차를 말하며 이륜자동차는 제외한다)를 말하며, 임차차량을 포함한다.2. \"임차차량\"이란 「여객자동차 운수사업법」 제28조에 따라 자동차대여사업을 경영하기 위하여 등록한 자의 대여사업용 차량을 1년 이상 사용할 목적으로 임차하여 사용하는 차량을 말한다.3. \"사용자\"란 공무용 차량을 운전하는 직원과 동승직원을 말한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「자동차관리법」",
+            "line_text": "",
+            "target_law_name": "자동차관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "44730",
+            "target_url": "https://www.law.go.kr/법령/자동차관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0002",
+            "reference_id": "law:자동차관리법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조제1호",
+            "line_text": "",
+            "target_law_name": "자동차관리법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "44730",
+            "target_url": "https://www.law.go.kr/법령/자동차관리법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0002",
+            "reference_id": "law:자동차관리법#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「여객자동차 운수사업법」",
+            "line_text": "",
+            "target_law_name": "여객자동차 운수사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "44730",
+            "target_url": "https://www.law.go.kr/법령/여객자동차 운수사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0002",
+            "reference_id": "law:여객자동차운수사업법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제28조",
+            "line_text": "",
+            "target_law_name": "여객자동차 운수사업법",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "44730",
+            "target_url": "https://www.law.go.kr/법령/여객자동차 운수사업법/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0002",
+            "reference_id": "law:여객자동차운수사업법#JO0028",
+            "target_repo": "LAW",
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0002"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0002"
       },
       {
         "article_no": "제3조",
@@ -72,18 +153,18 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0003"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0003"
       },
       {
         "article_no": "제4조",
         "article_title": "차량 정수 배정",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(차량 정수 배정) 경인지방청에서 관리하는 모든 공무용 차량은 본부 및 사무소의 소관기능, 업무량, 조직규모, 관할구역, 차량 운행거리 등을 검토하여 경인지방통계청장이 차종 및 차형별로 배정한다.",
+        "content": "제4조(차량 정수 배정) 경인지방청에서 관리하는 모든 공무용 차량은 본부 및 사무소의 소관기능, 업무량, 조직규모, 관할구역, 차량 운행거리 등을 검토하여 경인지방데이터청장이 차종 및 차형별로 배정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0004"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0004"
       },
       {
         "article_no": "제5조",
@@ -94,7 +175,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0005"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0005"
       },
       {
         "article_no": "제6조",
@@ -105,7 +186,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0006"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0006"
       },
       {
         "article_no": "제7조",
@@ -116,18 +197,18 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0007"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0007"
       },
       {
         "article_no": "제8조",
         "article_title": "배차승인",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조(배차승인) 배차승인은 본부 및 사무소는 1차 결재자 차량 담당자, 2차 결재자 주무팀장(본부는 회계팀장), 그 외 분소는 분소장이 한다.  다만, 1차 결재자 공석시 2차 결재자가, 2차 결재자 공석시 2차 결재자 업무를 대행할 수 있는 자가 승인한다.",
+        "content": "제8조(배차승인) 배차승인은 본부 및 사무소는 1차 결재자 차량 담당자, 2차 결재자 주무팀장(본부는 회계팀장), 그 외 분소는 분소장이 한다. 다만, 1차 결재자 공석시 2차 결재자가, 2차 결재자 공석시 2차 결재자 업무를 대행할 수 있는 자가 승인한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0008"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0008"
       },
       {
         "article_no": "제9조",
@@ -138,7 +219,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0009"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0009"
       },
       {
         "article_no": "제10조",
@@ -149,7 +230,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0010"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0010"
       },
       {
         "article_no": "제11조",
@@ -160,7 +241,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0011"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0011"
       },
       {
         "article_no": "제12조",
@@ -171,7 +252,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:경인지방통계청공무용차량관리지침#JO0012"
+        "provision_id": "admrul:경인지방데이터청공무용차량관리지침#JO0012"
       }
     ]
   },
@@ -180,67 +261,169 @@
       "promulgation_date": "20130619",
       "promulgation_no": "8",
       "content": "부칙 <제8호,2013. 6. 19.>제1조(시행일) 이 예규는 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM"
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20151125",
       "promulgation_no": "15",
       "content": "부칙 <제15호,2015. 11. 25.>제1조(시행일) 이 지침은 11. 25.부터 시행한다.",
-      "provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM"
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20160203",
       "promulgation_no": "16",
       "content": "부칙 <제16호,2016. 2. 3.>제1조(시행일) 이 지침은 02. 03.부터 시행한다.",
-      "provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM"
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20161013",
       "promulgation_no": "20",
       "content": "부칙 <제20호,2016. 10. 13.>제1조(시행일) 이 지침은 10. 13.부터 시행한다.",
-      "provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM"
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20200529",
       "promulgation_no": "27",
       "content": "부칙 <제27호,2020. 5. 29.>제1조(시행일) 이 지침은 05. 29.부터 시행한다.",
-      "provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM"
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20230419",
       "promulgation_no": "31",
       "content": "부칙 <제31호, 2023. 4. 19.>제1조(시행일) 이 지침은 04. 19.부터 시행한다.",
-      "provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM"
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20250623",
       "promulgation_no": "34",
       "content": "부칙 <제34호, 2025. 6. 23.>제1조(시행일) 이 지침은 06. 23.부터 시행한다.",
-      "provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM"
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260701",
+      "promulgation_no": "4",
+      "content": "부칙 <제4호, 2026. 7. 1.>제1조(시행일) 이 지침은 07. 01.부터 시행한다.",
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000281716",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별첨",
+      "title": "교통사고경위서",
+      "enforcement_date": "",
+      "content": "【별첨】\n┌─────────────────────────────────────┐\n│교 통 사 고 경 위 서                                                      │\n├────┬──┬────┬────┬─────┬──┬──────────┤\n│사고자  │소속│00사무소│직위    │통계서기  │성명│000                 │\n│        │    │(00분소)│        │          │    │                    │\n├────┼──┴────┴────┼─────┼──┴──────────┤\n│사고장소│                        │사고발생일│ 2025.00.00.              │\n├────┼────────────┤          │ 00:00분경                │\n│차량정보│(공무용,자차) 00소 0000 │          │                          │\n├────┼────────────┴─────┴─────────────┤\n│제  목  │                                                                │\n├────┴────────────────────────────────┤\n│출장업무 수행 작성(6하원칙)                                               │\n│                                                                          │\n│2. 사고경위(일시, 장소(또는 주소) 및 주변사항)                            │\n│                                                                          │\n│3. 조치사항(차량담당자 또는 보험회사 접수 등 시간 및 관련내용)            │\n│                                                                          │\n│4. 진행사항(보험회사 또는 상대편 운전자)                                  │\n│                                                                          │\n│5. 과실유무 확인(보험사측 결과)                                           │\n│                                                                          │\n│6. 앞으로 공무용 차량 운행 시 각별히 주의를 기울일 것이며, 사고경위서를   │\n│   제출합니다.                                                            │\n│                                                                          │\n│                                                                          │\n│                                      작성일 : 2025년  00월 00일          │\n│                                      작성자 : 0   0   0  (서명)          │\n│                                                                          │\n│                                                                          │\n│경인지방데이터청     0 0 사무소장    귀하                                 │\n└─────────────────────────────────────┘\n┌───────────────────────┐\n│교 통 사 고  피 해 사 진                      │\n├───────────┬───────────┤\n│                      │                      │\n├───────────┼───────────┤\n│교통사고 전경         │교통사고 접촉 부분    │\n├───────────┼───────────┤\n│                      │                      │\n├───────────┼───────────┤\n│공무용 차량 피해 사진 │상대방 차량 피해 사진 │\n├───────────┼───────────┤\n│                      │                      │\n├───────────┼───────────┤\n│기타 추가 사진        │기타 추가사진         │\n└───────────┴───────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602055",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602049",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602055",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:경인지방데이터청공무용차량관리지침#BC0000",
+      "filename": "별첨0_교통사고경위서.hwp",
+      "file_dir": "별첨",
+      "local_path": "별첨/별첨0_교통사고경위서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "경인지방데이터청 공무용 차량 관리지침(경인청 예규 제04호¸ 2026.7.1.).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166601683",
+      "filename": "경인지방데이터청 공무용 차량 관리지침(경인청 예규 제04호¸ 2026.7.1.).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/경인지방데이터청 공무용 차량 관리지침(경인청 예규 제04호¸ 2026.7.1.).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "경인지방데이터청 공무용 차량 관리지침(경인청 예규 제04호¸ 2026.7.1.).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166601687",
+      "filename": "경인지방데이터청 공무용 차량 관리지침(경인청 예규 제04호¸ 2026.7.1.).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/경인지방데이터청 공무용 차량 관리지침(경인청 예규 제04호¸ 2026.7.1.).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
     "articles_total": 12,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 1,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/경인지방통계청 공무용 차량 관리지침"
+    "source_url": "https://www.law.go.kr/행정규칙/경인지방데이터청 공무용 차량 관리지침"
   },
-  "provision_id": "admrul:경인지방통계청공무용차량관리지침#DOC",
-  "addendum_provision_id": "admrul:경인지방통계청공무용차량관리지침#ADDENDUM",
-  "amendment_provision_id": "admrul:경인지방통계청공무용차량관리지침#AMENDMENT",
+  "provision_id": "admrul:경인지방데이터청공무용차량관리지침#DOC",
+  "addendum_provision_id": "admrul:경인지방데이터청공무용차량관리지침#ADDENDUM",
+  "amendment_provision_id": "admrul:경인지방데이터청공무용차량관리지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "경인지방데이터청 공무용 차량 관리지침/경인지방데이터청 공무용 차량 관리지침.json"
 }
