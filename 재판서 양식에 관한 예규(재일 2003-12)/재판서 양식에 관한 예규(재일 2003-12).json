@@ -1,42 +1,42 @@
 {
   "law_id": "2111915",
-  "mst": "2200000106499",
+  "mst": "2200000108797",
   "law_name": "재판서 양식에 관한 예규(재일 2003-12)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111915",
-  "promulgation_no": "1904",
-  "promulgation_date": "20250124",
-  "enforcement_date": "20250131",
-  "revision_date": "20250124",
+  "promulgation_no": "1964",
+  "promulgation_date": "20260701",
+  "enforcement_date": "20260701",
+  "revision_date": "20260701",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대법원(대법원)",
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "재판서 양식에 관한 예규(재일 2003-12)",
-    "발령일자": "20250124",
+    "발령일자": "20260701",
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
     "생성일자": "20260702",
     "행정규칙ID": "2111915",
-    "시행일자": "20250131",
+    "시행일자": "20260701",
     "담당부서기관코드": "",
-    "발령번호": "1904",
-    "행정규칙일련번호": "2200000106499",
+    "발령번호": "1964",
+    "행정규칙일련번호": "2200000108797",
     "상위부처명": "대법원"
   },
-  "amendment_text": "재판서 양식에 관한 예규(재일 2003-12) 일부를 다음과 같이 개정한다.\n본문생략\n부 칙\n이 예규는 2025년 1월 31일부터 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 차세대전자소송 시스템 개통에 따른 새로운 전산시스템 환경의 변화에 부합하기 위하여 관련 조문을 정비함\n2. 주요내용\n○ 재판서 한 면의 줄수 관련 규정을 삭제함(제2조제2항 후단 삭제)\n○ 재판서에 표시되는 지원명, 시ㆍ군법원명의 글자 사이 간격을 명확히 하고자 함(제4조제1항 단서 신설)",
+  "amendment_text": "재판서 양식에 관한 예규(재일 2003-12) 일부를 다음과 같이 개정한다.\n본문생략\n부 칙\n이 예규는 2026. 7. 1.부터 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 통합특별시가 포함된 주소 표시에 관한 방식을 정하기 위함\n2. 주요내용\n○ 재판서에 ‘통합특별시’가 포함된 주소를 표시하는 경우 ‘통합특별시’부분을 생략하여 표시하고, ‘시’에는 통합특별시 명칭 전부를 표시하지 아니함(제10조제1항)",
   "body": {
     "format": "articles",
     "article_count": 21,
@@ -145,7 +145,7 @@
         "article_title": "주소 등의 표시",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조 (주소 등의 표시) ① 특별시, 광역시, 특별자치시, 도, 특별자치도는 “서울”, “부산”, “세종”, “경기”, “강원” 등으로 표시하고, 시는 도 표시를 하지 아니한다.② 읍, 면에는 소속 시, 군을 기재한다.③ 번지에는 \"번지\"를 생략하고, 가지번호는 \" - (하이폰)\"로 표시한다.",
+        "content": "제10조 (주소 등의 표시) ① 특별시, 통합특별시, 광역시, 특별자치시, 도, 특별자치도는 “서울”, “전남광주”, “부산”, “세종”, “경기”, “강원” 등으로 표시하고, 시는 통합특별시, 도 표시를 하지 아니한다.② 읍, 면에는 소속 시, 군을 기재한다.③ 번지에는 \"번지\"를 생략하고, 가지번호는 \" - (하이폰)\"로 표시한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -272,7 +272,7 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/flDownload.do?flSeq=149520363&gubun=ESTABLISHRULEIMG",
+            "url": "https://www.law.go.kr/flDownload.do?flSeq=166624855&gubun=ESTABLISHRULEIMG",
             "seq": "",
             "filename": "제21조_1.gif",
             "file_dir": "본문이미지",
@@ -289,103 +289,199 @@
       "promulgation_date": "20020729",
       "promulgation_no": "876",
       "content": "부   칙(2002. 7. 29. 제876호)1. 이 예규는 2002. 8. 1.부터 시행한다.2. \"판결원본의 선고일자와 영수일자 부기(재일 2000-3)\" ,  \"별지 목록을 인용할 경우의 업무처리상 유의사항\", \"판결 등 결정결정의 판결 등 원본에의 표시 등 요령(재민 74-3)\" ,  \"결정·명령 원본에 하는 고지인의 부기요령(재민 87-5)\" 을 각 폐지한다.3. 컴퓨터를 이용한 재판서 작성방식(재일 2000-2) 중 다음과 같이 개정한다.1. 가. 일반사항 중 판결선고 및 원본영수 부기란 부분을 삭제한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20030917",
       "promulgation_no": "930",
       "content": "부  칙(2003. 9. 17. 제930호)제1조(시행일) 이 예규는 2003. 10. 1.부터 시행한다.제2조(폐지예규) \"컴퓨터를 이용한 재판서 작성방식(재일 2000-2)\"을 폐지한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20041014",
       "promulgation_no": "983",
       "content": "부  칙(2004. 10. 14. 제983호)1. (시행일) 이 예규는 2004. 11. 1.부터 시행한다.2. (경과규정) 이 예규 시행 이전에 접수된 사건에 대하여도 적용한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20060428",
       "promulgation_no": "1079",
       "content": "부  칙(2006. 4. 28. 제1079호)이 예규는 2006. 5. 10.부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20070307",
       "promulgation_no": "1115",
       "content": "부  칙(2007. 3. 7. 제1115호)이 예규는 2007. 3. 12.부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20071121",
       "promulgation_no": "1154",
       "content": "부  칙(2007. 11. 21. 제1154호)이 예규는 2008. 3. 1.부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20071228",
       "promulgation_no": "1186",
       "content": "부  칙(2007. 12. 28. 제1186호)이 예규는 2008. 1. 1.부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20080213",
       "promulgation_no": "1200",
       "content": "부  칙(2008. 2. 13. 제1200호)이 예규는 2008.  2.  21.부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20100210",
       "promulgation_no": "1299",
       "content": "부  칙(2010. 2. 10. 제1299호)이 예규는 2010. 2. 11.부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20111118",
       "promulgation_no": "1361",
       "content": "부  칙(2011. 11. 18. 제1361호)이 예규는  2012년 1월 1일부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20140813",
       "promulgation_no": "1477",
       "content": "부  칙(2014. 8. 13. 제1477호)제1조(시행일) 이 예규는 2015. 1. 1.부터 시행한다. 다만, 다음 각호에 해당하는 재판서에 대해서는 2014. 9. 1.부터 시행한다.1. 상고심, 재항고심, 특별항고심의 재판서(다만, 민사소송법 제437조에 따라 파기자판하는 경우는 제외)2. 행정소송법 제4조에 따른 항고소송 재판서3. 특허법원에서 작성하는 재판서제2조(적용범위) 이 예규는 시행일 이후 작성하는 재판서에 대해 적용한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20160620",
       "promulgation_no": "1587",
       "content": "부  칙(2016. 6. 20. 제1587호)제1조(시행일) 이 예규는 2016년 7월 1일부터 시행한다.제2조(적용 범위) 이 예규는 시행일 이후 작성하는 재판서에 대해 적용한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20180222",
       "promulgation_no": "1687",
       "content": "부   칙(2018. 2. 22. 제1687호)이 예규는 2018. 3. 26.부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20241114",
       "promulgation_no": "1883",
       "content": "부   칙(2024. 11. 14. 제1883호)이 예규는 즉시 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20250124",
       "promulgation_no": "1904",
       "content": "부   칙(2025. 1. 24. 제1904호)이 예규는 2025년 1월 31일부터 시행한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260701",
+      "promulgation_no": "1964",
+      "content": "부   칙(2026. 7. 1. 제1964호)이 예규는 2026. 7. 1.부터 시행한다.",
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9998",
       "content": "부   칙(2017. 2. 9. 제1642-4호)제1조(시행일) 이 예규는 2017년 3월 1일부터 시행한다.제2조(경과조치) 이 예규는 이 예규 시행 당시에 법원에 계속 중인 사건에도 적용한다. 다만, 종전의 규정에 따라 생긴 효력에는 영향을 미치지 아니한다.제3조(다른 예규의 개정) ① ~ ③ 생략④ 재판서 양식에 관한 예규(재일 2003-12) 일부를 다음과 같이 개정한다.제4조제2항제4호 중 “특허법원, 행정법원, 가정법원”을 “특허법원, 행정법원, 가정법원, 회생법원”으로 한다.제9조제1항 중 “민사ㆍ행정ㆍ특허사건”을 “민사ㆍ행정ㆍ특허ㆍ도산사건”으로 한다.⑤ 생략",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9999",
       "content": "부   칙제1조(시행일)  이 예규는 2000. 10. 1.부터 시행한다.제2조(폐지예규)  대법원 송무예규 \"판결에 할 법관의 서명날인 방식에 관한 예규(재일 87-1)\", \"과태료 재판서에 당사자의 주민등록번호등 기재(재일 83-4)\"는 이를 각 폐지한다.",
-      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM"
+      "provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108797",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     }
   ],
   "appendices": [],
@@ -400,7 +496,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 0,
     "attachments_count": 0
   },
@@ -411,5 +507,8 @@
   "addendum_provision_id": "admrul:재판서양식에관한예규(재일2003-12)#ADDENDUM",
   "amendment_provision_id": "admrul:재판서양식에관한예규(재일2003-12)#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "재판서 양식에 관한 예규(재일 2003-12)/재판서 양식에 관한 예규(재일 2003-12).json"
 }
