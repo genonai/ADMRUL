@@ -1,25 +1,25 @@
 {
   "law_id": "2002408",
-  "mst": "2100000275124",
-  "law_name": "(산림청) 자연재난 복구비용 산정기준",
+  "mst": "2100000283820",
+  "law_name": "자연재난 복구비용 산정기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2002408",
-  "promulgation_no": "2026-24",
-  "promulgation_date": "20260225",
-  "enforcement_date": "20260225",
-  "revision_date": "20260225",
+  "promulgation_no": "2026-85",
+  "promulgation_date": "20260728",
+  "enforcement_date": "20260728",
+  "revision_date": "20260728",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "산림청(사유림경영소득과)",
     "담당자명": "김기형",
     "행정규칙종류코드": "B0003",
-    "행정규칙명": "(산림청) 자연재난 복구비용 산정기준",
-    "발령일자": "20260225",
+    "행정규칙명": "자연재난 복구비용 산정기준",
+    "발령일자": "20260728",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,42 +29,258 @@
     "소관부처코드": "1400000",
     "생성일자": "20260812",
     "행정규칙ID": "2002408",
-    "시행일자": "20260225",
+    "시행일자": "20260728",
     "담당부서기관코드": "1400712",
-    "발령번호": "2026-24",
-    "행정규칙일련번호": "2100000275124",
+    "발령번호": "2026-85",
+    "행정규칙일련번호": "2100000283820",
     "상위부처명": "산림청"
   },
-  "amendment_text": "",
-  "revision_reason": "",
+  "amendment_text": "⊙산림청 고시 제2026-85호\n「자연재난 구호 및 복구 비용 부담기준 등에 관한 규정」제10조제2항에 따라 자연재난 복구비용 산정기준을 다음과 같이 고시합니다.\n2026년 07월 28일\n산림청장\n자연재난 복구비용 산정기준\n[본문 생략]\n부칙\n이 고시는 발령일부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n「자연재난 구호 및 복구비용 부담기준 등에 관한 규정」(대통령령)제4조에 따른 자연재난 복구비용 산정기준을 정하여 자연재난 발생 시 피해액 산출 및 복구계획 수립에 기여하고자 함\n◇ 주요내용\n자연재난복구를 위한 산림청 소관 사유시설 2026년 복구비용 단가 고시",
   "body": {
     "format": "articles",
-    "article_count": 0,
-    "articles": []
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 고시는「자연재난 구호 및 복구 비용 부담기준 등에 관한 규정」(대통령령) 제4조에 따른 자연재난 복구비용 산정기준을 정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「자연재난 구호 및 복구 비용 부담기준 등에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "자연재난 구호 및 복구 비용 부담기준 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2002408",
+            "target_url": "https://www.law.go.kr/법령/자연재난 구호 및 복구 비용 부담기준 등에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:자연재난복구비용산정기준#JO0001",
+            "reference_id": "law:자연재난구호및복구비용부담기준등에관한규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "자연재난 구호 및 복구 비용 부담기준 등에 관한 규정/법률/자연재난 구호 및 복구 비용 부담기준 등에 관한 규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "자연재난 구호 및 복구 비용 부담기준 등에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2002408",
+            "target_url": "https://www.law.go.kr/법령/자연재난 구호 및 복구 비용 부담기준 등에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:자연재난복구비용산정기준#JO0001",
+            "reference_id": "law:자연재난구호및복구비용부담기준등에관한규정#JO0004",
+            "target_repo": "LAW",
+            "target_git_path_guess": "자연재난 구호 및 복구 비용 부담기준 등에 관한 규정/법률/자연재난 구호 및 복구 비용 부담기준 등에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:자연재난복구비용산정기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "산정기준",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(산정기준) 자연재난 복구비용 산정기준을 다음과 같이 한다.[그림][그림][그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168132097",
+            "seq": "168132097",
+            "filename": "제2조_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제2조_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168132779",
+            "seq": "168132779",
+            "filename": "제2조_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제2조_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168132781",
+            "seq": "168132781",
+            "filename": "제2조_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제2조_3.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:자연재난복구비용산정기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(재검토기한) 산림청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2002408",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:자연재난복구비용산정기준#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:자연재난복구비용산정기준#JO0003"
+      }
+    ]
   },
-  "addenda": [],
+  "addenda": [
+    {
+      "promulgation_date": "20200914",
+      "promulgation_no": "2025-58",
+      "content": "부칙 <제2020-58호,2020. 9. 14.>제1조(시행일) 이 고시는 발령일부터 시행한다.제2조(종전 고시의 폐지) 종전의 「자연재난 복구비용 산정 기준」(산림청 제2019-95호)은 폐지한다.",
+      "provision_id": "admrul:자연재난복구비용산정기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283820",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260728"
+    },
+    {
+      "promulgation_date": "20220630",
+      "promulgation_no": "2022-73",
+      "content": "부칙 <제2022-73호, 2022. 6. 30.>이 고시는 발령일부터 시행한다.",
+      "provision_id": "admrul:자연재난복구비용산정기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283820",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260728"
+    },
+    {
+      "promulgation_date": "20230620",
+      "promulgation_no": "2023-52",
+      "content": "부칙 <제2023-52호, 2023. 6. 20.>이 고시는 발령일부터 시행한다.",
+      "provision_id": "admrul:자연재난복구비용산정기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283820",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260728"
+    },
+    {
+      "promulgation_date": "20240613",
+      "promulgation_no": "2024-47",
+      "content": "부칙 <제2024-47호, 2024. 6. 13.>이 고시는 발령일부터 시행한다.",
+      "provision_id": "admrul:자연재난복구비용산정기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283820",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260728"
+    },
+    {
+      "promulgation_date": "20250722",
+      "promulgation_no": "2025-65",
+      "content": "부칙 <제2025-65호, 2025. 7. 22.>이 고시는 발령일부터 시행한다.",
+      "provision_id": "admrul:자연재난복구비용산정기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283820",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260728"
+    },
+    {
+      "promulgation_date": "20260728",
+      "promulgation_no": "2026-85",
+      "content": "부칙 <제2026-85호, 2026. 7. 28.>이 고시는 발령일부터 시행한다.",
+      "provision_id": "admrul:자연재난복구비용산정기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283820",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260728"
+    }
+  ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "(산림청고시 제2026-85호) (산림청)자연재난 복구비용 산정기준 일부개정고시안(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168132091",
+      "filename": "(산림청고시 제2026-85호) (산림청)자연재난 복구비용 산정기준 일부개정고시안(전문).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(산림청고시 제2026-85호) (산림청)자연재난 복구비용 산정기준 일부개정고시안(전문).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(산림청고시 제2026-85호) (산림청)자연재난 복구비용 산정기준 일부개정고시안(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168132095",
+      "filename": "(산림청고시 제2026-85호) (산림청)자연재난 복구비용 산정기준 일부개정고시안(전문).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(산림청고시 제2026-85호) (산림청)자연재난 복구비용 산정기준 일부개정고시안(전문).pdf",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 0,
-    "articles_with_relations": 0,
+    "relations_total": 3,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 3,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 0,
+    "addenda_count": 6,
     "appendices_count": 0,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/(산림청) 자연재난 복구비용 산정기준"
+    "source_url": "https://www.law.go.kr/행정규칙/자연재난 복구비용 산정기준"
   },
-  "provision_id": "admrul:(산림청)자연재난복구비용산정기준#DOC",
-  "addendum_provision_id": "admrul:(산림청)자연재난복구비용산정기준#ADDENDUM",
-  "amendment_provision_id": "admrul:(산림청)자연재난복구비용산정기준#AMENDMENT",
+  "provision_id": "admrul:자연재난복구비용산정기준#DOC",
+  "addendum_provision_id": "admrul:자연재난복구비용산정기준#ADDENDUM",
+  "amendment_provision_id": "admrul:자연재난복구비용산정기준#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "자연재난 복구비용 산정기준/자연재난 복구비용 산정기준.json"
 }
