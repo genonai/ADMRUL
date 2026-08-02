@@ -1,25 +1,25 @@
 {
   "law_id": "58426",
-  "mst": "2100000251686",
+  "mst": "2100000282970",
   "law_name": "소음·진동공정시험기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:58426",
-  "promulgation_no": "2024-69",
-  "promulgation_date": "20241227",
-  "enforcement_date": "20241227",
-  "revision_date": "20241227",
+  "promulgation_no": "2026-30",
+  "promulgation_date": "20260727",
+  "enforcement_date": "20260802",
+  "revision_date": "20260727",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립환경과학원(소음·진동-생활환경연구과)",
-    "담당자명": "전다래",
+    "담당자명": "구진회",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "소음·진동공정시험기준",
-    "발령일자": "20241227",
+    "발령일자": "20260727",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1482000",
     "생성일자": "20260802",
     "행정규칙ID": "58426",
-    "시행일자": "20241227",
-    "담당부서기관코드": "1480523",
-    "발령번호": "2024-69",
-    "행정규칙일련번호": "2100000251686",
+    "시행일자": "20260802",
+    "담당부서기관코드": "1482310",
+    "발령번호": "2026-30",
+    "행정규칙일련번호": "2100000282970",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 생활소음 규제기준을 측정함에 있어서 측정점에 대한 모호함 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보안\n◇ 주요내용\n[그림]\n\n",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 정부조직법 개정사항(부처명칭 변경) 등에 따라 국립환경과학원 소관 행정규칙의 현행화 필요\n※ (기존) 환경부 → (개정) 기후에너지환경부\n◇ 주요내용\n가. 각 고시의 부서 명칭 변경 등\n- ES 03300.c 총칙(소음) 2.1항 중 \"환경부\"를 \"기후에너지환경부\"로 한다.",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -65,7 +65,16 @@
   },
   "addenda": [],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "소음·진동공정시험기준.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167420513",
+      "filename": "소음·진동공정시험기준.zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/소음·진동공정시험기준.zip",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -78,7 +87,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 0,
     "appendices_count": 0,
-    "attachments_count": 3
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/소음·진동공정시험기준"
@@ -87,5 +96,8 @@
   "addendum_provision_id": "admrul:소음진동공정시험기준#ADDENDUM",
   "amendment_provision_id": "admrul:소음진동공정시험기준#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "소음·진동공정시험기준/소음·진동공정시험기준.json"
 }
