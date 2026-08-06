@@ -1,25 +1,25 @@
 {
   "law_id": "2081172",
-  "mst": "2100000201918",
+  "mst": "2100000283174",
   "law_name": "국무총리비서실 직제운영지침",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2081172",
-  "promulgation_no": "155",
-  "promulgation_date": "20210615",
-  "enforcement_date": "20210615",
-  "revision_date": "20210615",
+  "promulgation_no": "237",
+  "promulgation_date": "20260731",
+  "enforcement_date": "20260806",
+  "revision_date": "20260731",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국무조정실(인사과)",
-    "담당자명": "최진환",
+    "담당자명": "김채원",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국무총리비서실 직제운영지침",
-    "발령일자": "20210615",
+    "발령일자": "20260731",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1092000",
     "생성일자": "20260806",
     "행정규칙ID": "2081172",
-    "시행일자": "20210615",
+    "시행일자": "20260806",
     "담당부서기관코드": "1092020",
-    "발령번호": "155",
-    "행정규칙일련번호": "2100000201918",
+    "발령번호": "237",
+    "행정규칙일련번호": "2100000283174",
     "상위부처명": "국무조정실"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 국정상황 및 정책에 대한 정무적 관리 기능을 강화하고 정무실의 효율적 업무추진을 위하여, 「국무총리비서실 직제운영지침」 정비\n◇ 주요내용\n가. 정무실 과장 직위명 변경\nㅇ 정무 동향 보고, 총리님 행보 관련 정무적 검토 등 수행업무 고려, 정무지원행정관 직위명을 정무분석행정관으로 변경\n나. 정무실 업무ㆍ조직 개편\nㅇ (업무 개편) 정무기획비서관실은 리스크 대응ㆍ관리 업무 담당, 정무협력비서관실은 총리님 정치권 소통 및 대국회 업무(대정부질문, 종합정책질의, 입법관리, 당정협의 등) 담당으로 재정비\nㅇ (조직 개편) 정무기획비서관실의 국회협력행정관 소관 업무ㆍ인력과 정무협력비서관실의 정무지원행정관 소관 업무ㆍ인력 서로 이관\n[그림]\n",
+  "amendment_text": "⊙국무조정실훈령 제237호\n국무총리비서실 직제운영지침 일부를 다음과 같이 개정한다.\n2026년 7월 31일\n국무조정실장\n국무총리비서실 직제운영지침 일부개정훈령\n국무총리비서실 직제운영지침 일부를 다음과 같이 개정한다.\n제2조제2항제8호 및 제9호를 각각 삭제한다.",
+  "revision_reason": "◇ 개정이유\n정무실 정무기획비서관의 업무분장 현행화를 위한 것임\n◇ 주요내용\n가. 정무기획비서관의 국무총리비서실 감사, 청렴ㆍ반부패 정책 등 업무 삭제 (안 제2조 8호ㆍ9호)",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -48,7 +48,28 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 지침은 「국무총리비서실 직제」에 따라 하부조직의 설치와 직무범위ㆍ인력배분 등 필요한 사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국무총리비서실 직제」",
+            "line_text": "",
+            "target_law_name": "국무총리비서실 직제",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2081172",
+            "target_url": "https://www.law.go.kr/법령/국무총리비서실 직제",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국무총리비서실직제운영지침#JO0001",
+            "reference_id": "law:국무총리비서실직제#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국무총리비서실 직제/법률/국무총리비서실 직제.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국무총리비서실직제운영지침#JO0001"
       },
@@ -57,7 +78,7 @@
         "article_title": "정무실장",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(정무실장) ① 정무실장 밑에 정무기획비서관 및 정무협력비서관을 둔다.② 정무기획비서관은 다음 사항을 분장한다.1. 국무총리의 정무활동 업무기획에 관한 사항2. 대통령비서실과 국무총리비서실의 정무업무 협조에 관한 사항3. 국무총리비서실의 주요업무 기획 및 관리에 관한 사항4. 국무총리가 참석하는 고위당정협의 업무에 관한 사항5. 정무 이슈 및 리스크 관리에 관한 사항6. 주요 정무 상황 보고에 관한 사항7. 국회연락관실 운영에 관한 사항8. 국무총리비서실 감사, 다른 기관에 의한 감사결과 처리, 진정ㆍ비위사항 조사ㆍ처리9. 청렴ㆍ반부패정책, 공직자 재산등록, 선물신고 및 취업제한, 공무원행동강령 관련 업무10. 국무총리공관의 유지관리에 관한 사항11. 기타 다른 비서관의 업무에 속하지 아니하는 사항③ 정무협력비서관은 다음 사항을 분장한다.1. 국무총리의 정치권 소통ㆍ협력에 관한 사항2. 국무총리비서실과 정당의 업무협조에 관한 사항3. 국무총리의 대국회활동(대정부질문, 예산결산특별위원회, 국회관련 관계장관 간담회 등) 보좌에 관한 사항4. 당정협조(실무당정협의, 부처별 당정협의 이행실태 점검ㆍ관리, 정당에 대한 정책설명, 정당과의 협력 및 정책ㆍ정무 지원 등)에 관한 사항5. 국무총리비서실 국회업무(정무위원회, 국정감사, 국회 요구자료 등)에 관한 사항6. 국무조정실 정무업무(정무위원회 등) 지원에 관한 사항7. 주요 입법 추진상황 점검ㆍ관리에 관한 사항8. 주요 상임위 및 각종 특별위원회에 관한 사항9. 정당원 등에 대한 국내외 연수에 관한 사항",
+        "content": "제2조(정무실장) ① 정무실장 밑에 정무기획비서관 및 정무협력비서관을 둔다.② 정무기획비서관은 다음 사항을 분장한다.1. 국무총리의 정무활동 업무기획에 관한 사항2. 대통령비서실과 국무총리비서실의 정무업무 협조에 관한 사항3. 국무총리비서실의 주요업무 기획 및 관리에 관한 사항4. 국무총리가 참석하는 고위당정협의 업무에 관한 사항5. 정무 이슈 및 리스크 관리에 관한 사항6. 주요 정무 상황 보고에 관한 사항7. 국회연락관실 운영에 관한 사항8. 삭제9. 삭제10. 국무총리공관의 유지관리에 관한 사항11. 기타 다른 비서관의 업무에 속하지 아니하는 사항③ 정무협력비서관은 다음 사항을 분장한다.1. 국무총리의 정치권 소통ㆍ협력에 관한 사항2. 국무총리비서실과 정당의 업무협조에 관한 사항3. 국무총리의 대국회활동(대정부질문, 예산결산특별위원회, 국회관련 관계장관 간담회 등) 보좌에 관한 사항4. 당정협조(실무당정협의, 부처별 당정협의 이행실태 점검ㆍ관리, 정당에 대한 정책설명, 정당과의 협력 및 정책ㆍ정무 지원 등)에 관한 사항5. 국무총리비서실 국회업무(정무위원회, 국정감사, 국회 요구자료 등)에 관한 사항6. 국무조정실 정무업무(정무위원회 등) 지원에 관한 사항7. 주요 입법 추진상황 점검ㆍ관리에 관한 사항8. 주요 상임위 및 각종 특별위원회에 관한 사항9. 정당원 등에 대한 국내외 연수에 관한 사항",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -114,7 +135,28 @@
         "chapter_path": "",
         "content": "제7조(국무총리비서실에 두는 공무원의 정원) 국무총리비서실에 두는 공무원의 정원은「국무총리비서실 직제」(대통령령)에 의한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「국무총리비서실 직제」",
+            "line_text": "",
+            "target_law_name": "국무총리비서실 직제",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2081172",
+            "target_url": "https://www.law.go.kr/법령/국무총리비서실 직제",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국무총리비서실직제운영지침#JO0007",
+            "reference_id": "law:국무총리비서실직제#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국무총리비서실 직제/법률/국무총리비서실 직제.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국무총리비서실직제운영지침#JO0007"
       },
@@ -136,48 +178,86 @@
       "promulgation_date": "20131212",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호,2013. 12. 12.>이 지침은 2013. 12. 12.부터 시행한다.",
-      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM"
+      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283174",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260806"
     },
     {
       "promulgation_date": "20160405",
       "promulgation_no": "77",
       "content": "부칙 <제77호,2016. 4. 5.>이 지침은 2016. 4. 5.부터 시행한다.",
-      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM"
+      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283174",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260806"
     },
     {
       "promulgation_date": "20170804",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호,2017. 8. 4.>이 지침은 2017. 8. 4.부터 시행한다.",
-      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM"
+      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283174",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260806"
     },
     {
       "promulgation_date": "20180720",
       "promulgation_no": "122",
       "content": "부칙 <제122호,2018. 7. 20.>이 지침은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM"
+      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283174",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260806"
     },
     {
       "promulgation_date": "20201102",
       "promulgation_no": "145",
       "content": "부칙 <제145호,2020. 11. 2.>이 지침은 2020. 11. 2.부터 시행한다.",
-      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM"
+      "provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283174",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260806"
     }
   ],
   "appendices": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "name": "개정본문(국무총리비서실 직제운영지침 일부개정훈령안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167486031",
+      "filename": "개정본문(국무총리비서실 직제운영지침 일부개정훈령안).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정본문(국무총리비서실 직제운영지침 일부개정훈령안).hwpx",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 5,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국무총리비서실 직제운영지침"
@@ -186,5 +266,8 @@
   "addendum_provision_id": "admrul:국무총리비서실직제운영지침#ADDENDUM",
   "amendment_provision_id": "admrul:국무총리비서실직제운영지침#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국무총리비서실 직제운영지침/국무총리비서실 직제운영지침.json"
 }
