@@ -1,42 +1,42 @@
 {
   "law_id": "84475",
-  "mst": "2100000279870",
-  "law_name": "국립과천과학관 방호요원근무규정",
+  "mst": "2100000283758",
+  "law_name": "국립과천과학관 방호요원 근무규정",
   "law_abbr": "",
-  "law_type": "규칙",
+  "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:84475",
-  "promulgation_no": "320",
-  "promulgation_date": "20260526",
-  "enforcement_date": "20260601",
-  "revision_date": "20260526",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "330",
+  "promulgation_date": "20260803",
+  "enforcement_date": "20260809",
+  "revision_date": "20260803",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립과천과학관(경영기획과)",
     "담당자명": "김병곤",
-    "행정규칙종류코드": "B0011",
-    "행정규칙명": "국립과천과학관 방호요원근무규정",
-    "발령일자": "20260526",
-    "행정규칙종류": "규칙",
-    "제개정구분코드": "200409",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립과천과학관 방호요원 근무규정",
+    "발령일자": "20260803",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "국립과천과학관",
     "전화번호": "02-3677-1312",
-    "제개정구분명": "타법개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1721000",
     "생성일자": "20260810",
     "행정규칙ID": "84475",
-    "시행일자": "20260601",
+    "시행일자": "20260809",
     "담당부서기관코드": "1725893",
-    "발령번호": "320",
-    "행정규칙일련번호": "2100000279870",
+    "발령번호": "330",
+    "행정규칙일련번호": "2100000283758",
     "상위부처명": "과학기술정보통신부"
   },
-  "amendment_text": "⊙국립과천과학관 규정 제320호(2026.5.26)\n국립과천과학관 기본운영규정\n[본문 생략]\n부칙\n제1조(다른 규정의 개정) ① 및 ② 생략\n③ 국립과천과학관 방호요원 근무규정 일부를 다음과 같이 개정한다.\n별표4 야간 순찰 구역 및 주간 외곽 순찰 구역 중 ⑥ \"4D영상관\"을 \"빛놀이터\"로 한다.",
-  "revision_reason": "◇ 제ㆍ개정 이유\n국립어린이과학관 전시개선 사업에 따라 ‘4D영상관’이 ‘빛놀이터’로 변경됨에 따라 관련 조항을 정비하고자 위함\n◇ 주요내용\n국립어린이과학관 ‘4D영상관’을 ‘빛놀이터’로 명칭 변경",
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n기관 방호체계의 보안 유지 및 효율적 운영을 위해 별표에 규정된 순찰구역을 삭제하고, 해당내용은 자체 방호계획에 명시하고자 함.\n◇ 주요내용\n가. [별표3] 국립과천과학관 방호요원 순찰구역 삭제\n나. [별표4] 국립어린이과학관 방호요원 순찰구역 삭제",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -134,9 +134,35 @@
         "article_title": "방호요원 근무수칙",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조(방호요원 근무수칙) 방호요원은 방호팀장(부재 시 방호조장) 및 과학관의 명령을 준수ㆍ이행하고, 별표1∼4의 방호요원 근무수칙 및 순찰구역에 따라 근무하여야 한다. <개정 2019.07.16.>",
+        "content": "제9조(방호요원 근무수칙) 방호요원은 방호팀장(부재 시 방호조장) 및 과학관의 명령을 준수ㆍ이행하고, 별표1의 방호요원 근무수칙 및 순찰구역에 따라 근무하여야 한다. <개정 2019.07.16.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "국립과천과학관 방호요원 근무규정",
+            "target_article_no": "별표1",
+            "target_article_title": "방호요원 근무수칙",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "84475",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000283758&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과천과학관방호요원근무규정#JO0009",
+            "target_unit": "BYL0001",
+            "reference_id": "admrul:국립과천과학관방호요원근무규정#BYL0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "국립과천과학관 방호요원 근무규정/국립과천과학관 방호요원 근무규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립과천과학관방호요원근무규정#JO0009"
       },
@@ -169,30 +195,191 @@
       "promulgation_date": "20210707",
       "promulgation_no": "246",
       "content": "부칙 <제246호, 2021. 7. 7.>이 규정은 2021년 7월 16일부터 시행한다.",
-      "provision_id": "admrul:국립과천과학관방호요원근무규정#ADDENDUM"
+      "provision_id": "admrul:국립과천과학관방호요원근무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283758",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260809"
     },
     {
       "promulgation_date": "20230831",
       "promulgation_no": "288",
       "content": "부칙(국립과천과학관 기본운영규정) <제288호, 2023. 8. 31.>제1조(시행일) 이 규정은 2023년 8월 31일부터 시행한다.제2조(다른 규정의 개정) ①부터 ⑤까지 생략⑥ 국립과천과학관 방호요원근무규정 일부를 다음과 같이 개정한다.별표3 나목 중 \"스페이스월드\"를 \"스페이스 아날로그\"로 한다.",
-      "provision_id": "admrul:국립과천과학관방호요원근무규정#ADDENDUM"
+      "provision_id": "admrul:국립과천과학관방호요원근무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283758",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260809"
     },
     {
       "promulgation_date": "20260526",
       "promulgation_no": "320",
       "content": "부칙(국립과천과학관 기본운영규정) <제320호, 2026. 5. 26.>제1조(다른 규정의 개정) ① 및 ② 생략③ 국립과천과학관 방호요원 근무규정 일부를 다음과 같이 개정한다.별표4 야간 순찰 구역 및 주간 외곽 순찰 구역 중 ⑥ \"4D영상관\"을 \"빛놀이터\"로 한다.",
-      "provision_id": "admrul:국립과천과학관방호요원근무규정#ADDENDUM"
+      "provision_id": "admrul:국립과천과학관방호요원근무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283758",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260809"
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "방호요원 근무수칙",
+      "enforcement_date": "",
+      "content": "[별표1] <개정 2014.01.02., 2014.9.30. 2019.07.16.>\n방호요원 근무수칙\n1. 근무시간은 12시간 교대제를 원칙으로 하며, 12시간 교대제의 경우 근무교대는 매일 오전 8시 정각에 한다.\n2. 근무자는 근무개시 시 방호팀장(부재 시 방호조장)에게 신고하고 근무시간 정각에 근무를 개시한다.\n3. 전일근무자는 근무교대 즉시 근무 중에 발생된 상황을 방호팀장(부재 시 방호조장)에게 보고한다.\n4. 근무자는 방호요원근무수칙 및 각종 지시사항을 항상 숙지하고 있어야 한다.\n5. 근무자는 근무 중 항상 정복 정모를 착용하고 관람객 및 방문객을 친절히 안내하여야 한다.\n6. 근무자는 근무 중 취침을 할 수 없으며, 순찰근무시외에는 지정된 근무장소를 이탈할 수 없다.\n7. 근무자는 청사 내ㆍ외를 주간 3회, 야간 3회(매 4시간) 순찰하여 화기단속, 각종 도난사고방지, 시설파손상태 및 청소상태를 점검하고 그 결과를 방호팀장(부재 시 방호조장)에게 보고 후 청사단속에 필요한 조치를 취한다. 또한, 야간순찰 시 당직자의 별도 지시가 있을 때에는 당직자의 지시에 따른다.\n8. 근무자는 모든 방문객에게 필요한 주차안내 및 차량질서를 계도하는 등 출입자 및 차량을 통제하고, 물품의 반출입 상황을 점검하여야 한다.\n9. 근무자는 사고발생시 방호팀장(부재 시 방호조장)에게 보고한 후 응급조치를 취하고, 긴급한 상황 발생 시에는 관계기관에 즉시 연락하는 등 신속히 사고처리에 임하여야 한다.\n10. 근무실에는 다음 각 호의 장부 및 용구를 비치ㆍ유지하고 근무교대시 인계인수하여야 한다.\n가. 방호요원 근무일지\n나. 방문차량출입기록부\n다. 휴일 및 야간작업기록부\n라. 반출증 및 반출입대장\n마. 순찰용 시계\n바. 무전기\n사. 손전등, 비상성냥 및 양초 등\n아. 방문객 일지\n자. 출입카드 발급대장\n차. 기타 경비업무에 필요한 물품\n카. <삭제>\n타. <삭제>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000283758&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042767",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042761",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042767",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과천과학관방호요원근무규정#BYL0001",
+      "filename": "별표1_방호요원 근무수칙.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_방호요원 근무수칙.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "[별표2] <개정 2014.01.02., 2014.9.30.> <삭제, 2019.07.16.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000283758&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042773",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042769",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042773",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과천과학관방호요원근무규정#BYL0002",
+      "filename": "별표2_삭제.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "[별표3] <개정 2014.01.02., 2014.9.30., 2019.07.16., 2021.07.07., 2023.08.31.> <삭제, 2026.08.03.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000283758&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042775",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042779",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과천과학관방호요원근무규정#BYL0003",
+      "filename": "별표3_삭제.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "[별표 4] <신설 2019.07.16.> <개정 2026.05.26.> <삭제 2026.08.03.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000283758&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042785",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042781",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168042785",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과천과학관방호요원근무규정#BYL0004",
+      "filename": "별표4_삭제.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표4_삭제.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "27. 방호요원 근무규정【개정 2026.08.03. 제330호】.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168042713",
+      "filename": "27. 방호요원 근무규정【개정 2026.08.03. 제330호】.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/27. 방호요원 근무규정【개정 2026.08.03. 제330호】.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "27. 방호요원 근무규정【개정 2026.08.03. 제330호】.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168042709",
+      "filename": "27. 방호요원 근무규정【개정 2026.08.03. 제330호】.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/27. 방호요원 근무규정【개정 2026.08.03. 제330호】.hwp",
+      "file_store_url": ""
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "appendix_ref": 1
+    },
     "articles_total": 11,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -201,11 +388,14 @@
     "attachments_count": 2
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/국립과천과학관 방호요원근무규정"
+    "source_url": "https://www.law.go.kr/행정규칙/국립과천과학관 방호요원 근무규정"
   },
   "provision_id": "admrul:국립과천과학관방호요원근무규정#DOC",
   "addendum_provision_id": "admrul:국립과천과학관방호요원근무규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립과천과학관방호요원근무규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "국립과천과학관 방호요원 근무규정/국립과천과학관 방호요원 근무규정.json"
 }
