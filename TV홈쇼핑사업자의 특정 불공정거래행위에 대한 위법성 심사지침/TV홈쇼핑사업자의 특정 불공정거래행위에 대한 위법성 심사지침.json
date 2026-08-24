@@ -331,7 +331,8 @@
             "target_unit": "BYL0002_02",
             "reference_id": "admrul:TV홈쇼핑사업자의특정불공정거래행위에대한위법성심사지침#BYL0002_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "TV홈쇼핑사업자의 특정 불공정거래행위에 대한 위법성 심사지침/TV홈쇼핑사업자의 특정 불공정거래행위에 대한 위법성 심사지침.json"
+            "target_git_path_guess": "TV홈쇼핑사업자의 특정 불공정거래행위에 대한 위법성 심사지침/TV홈쇼핑사업자의 특정 불공정거래행위에 대한 위법성 심사지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -491,7 +492,11 @@
             "source_provision_id": "admrul:TV홈쇼핑사업자의특정불공정거래행위에대한위법성심사지침#DOC",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [

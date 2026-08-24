@@ -428,7 +428,11 @@
             "source_provision_id": "admrul:경찰청소속일반직공무원인사관리규칙#JO0011",
             "reference_id": "admrul:공무원임용규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json"
+            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_git_path": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -448,7 +452,11 @@
             "source_provision_id": "admrul:경찰청소속일반직공무원인사관리규칙#JO0011",
             "reference_id": "admrul:공무원임용규칙#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json"
+            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_git_path": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -649,7 +657,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:경찰청소속일반직공무원인사관리규칙#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json"
+            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_git_path": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_local_path": "별표/별표2_공통·지원부서(제16조제2항제2호 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -674,7 +687,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:경찰청소속일반직공무원인사관리규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json"
+            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_git_path": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_local_path": "별표/별표3_경찰청과 소속기관 간 또는 소속기관 상호 간 유사직위(제16조제2항제3호 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -797,7 +815,11 @@
             "source_provision_id": "admrul:경찰청소속일반직공무원인사관리규칙#JO0018",
             "reference_id": "admrul:경찰청소속일반직공무원인사관리규칙#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json"
+            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_git_path": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -998,7 +1020,8 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:경찰청소속일반직공무원인사관리규칙#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json"
+            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -1023,7 +1046,8 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:경찰청소속일반직공무원인사관리규칙#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json"
+            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1075,7 +1099,11 @@
             "source_provision_id": "admrul:경찰청소속일반직공무원인사관리규칙#JO0024",
             "reference_id": "admrul:경찰청소속일반직공무원인사관리규칙#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json"
+            "target_git_path_guess": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_git_path": "경찰청 소속 일반직공무원 인사관리규칙/경찰청 소속 일반직공무원 인사관리규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

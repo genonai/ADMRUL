@@ -66,7 +66,11 @@
             "source_provision_id": "admrul:국제우편금지물품#DOC",
             "reference_id": "admrul:우편금지물품의내용에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우편금지물품의 내용에 관한 고시/우편금지물품의 내용에 관한 고시.json"
+            "target_git_path_guess": "우편금지물품의 내용에 관한 고시/우편금지물품의 내용에 관한 고시.json",
+            "target_git_path": "우편금지물품의 내용에 관한 고시/우편금지물품의 내용에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,11 @@
             "source_provision_id": "admrul:국제우편금지물품#DOC",
             "reference_id": "admrul:항공기내반입금지위해물품#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공기 내 반입금지 위해물품/항공기 내 반입금지 위해물품.json"
+            "target_git_path_guess": "항공기 내 반입금지 위해물품/항공기 내 반입금지 위해물품.json",
+            "target_git_path": "항공기 내 반입금지 위해물품/항공기 내 반입금지 위해물품.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [

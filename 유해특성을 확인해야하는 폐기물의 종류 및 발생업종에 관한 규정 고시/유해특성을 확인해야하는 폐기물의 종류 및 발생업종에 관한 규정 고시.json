@@ -149,7 +149,8 @@
             "target_unit": "BYL0004_02",
             "reference_id": "admrul:유해특성을확인해야하는폐기물의종류및발생업종에관한규정고시#BYL0004_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "유해특성을 확인해야하는 폐기물의 종류 및 발생업종에 관한 규정 고시/유해특성을 확인해야하는 폐기물의 종류 및 발생업종에 관한 규정 고시.json"
+            "target_git_path_guess": "유해특성을 확인해야하는 폐기물의 종류 및 발생업종에 관한 규정 고시/유해특성을 확인해야하는 폐기물의 종류 및 발생업종에 관한 규정 고시.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -201,7 +202,11 @@
             "source_provision_id": "admrul:유해특성을확인해야하는폐기물의종류및발생업종에관한규정고시#JO0003",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -259,7 +259,11 @@
             "source_provision_id": "admrul:장애인고용장려금지급기준#JO0002",
             "reference_id": "admrul:장애인고용장려금지급기준#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "장애인고용장려금 지급기준/장애인고용장려금 지급기준.json"
+            "target_git_path_guess": "장애인고용장려금 지급기준/장애인고용장려금 지급기준.json",
+            "target_git_path": "장애인고용장려금 지급기준/장애인고용장려금 지급기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

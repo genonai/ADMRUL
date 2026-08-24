@@ -67,7 +67,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0001",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -87,7 +91,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0001",
             "reference_id": "admrul:농림축산식품부보안업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json"
+            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_git_path": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -107,7 +115,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0001",
             "reference_id": "admrul:농림축산식품부보안업무시행세칙#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json"
+            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_git_path": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -254,7 +266,8 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:농림축산검역본부보안업무지침#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json"
+            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -279,7 +292,8 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:농림축산검역본부보안업무지침#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json"
+            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -311,7 +325,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0013",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -331,7 +349,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0013",
             "reference_id": "admrul:보안업무규정시행규칙#JO0052",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -356,7 +378,8 @@
             "target_unit": "BJ0018",
             "reference_id": "admrul:농림축산검역본부보안업무지침#BJ0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json"
+            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -381,7 +404,8 @@
             "target_unit": "BJ0018_02",
             "reference_id": "admrul:농림축산검역본부보안업무지침#BJ0018_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json"
+            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -476,7 +500,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0016",
             "reference_id": "admrul:농림축산검역본부보안업무지침#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json"
+            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_git_path": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -508,7 +536,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0017",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -528,7 +560,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0017",
             "reference_id": "admrul:보안업무규정시행규칙#JO0049",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -580,7 +616,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0018",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -600,7 +640,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0018",
             "reference_id": "admrul:보안업무규정시행규칙#JO0053",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -705,7 +749,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0022",
             "reference_id": "admrul:농림축산식품부보안업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json"
+            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_git_path": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -725,7 +773,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0022",
             "reference_id": "admrul:농림축산식품부보안업무시행세칙#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json"
+            "target_git_path_guess": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_git_path": "농림축산식품부 보안업무시행세칙/농림축산식품부 보안업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -745,7 +797,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0022",
             "reference_id": "admrul:농림축산검역본부보안업무지침#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json"
+            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_git_path": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -765,7 +821,11 @@
             "source_provision_id": "admrul:농림축산검역본부보안업무지침#JO0022",
             "reference_id": "admrul:농림축산검역본부보안업무지침#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json"
+            "target_git_path_guess": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_git_path": "농림축산검역본부 보안업무지침/농림축산검역본부 보안업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

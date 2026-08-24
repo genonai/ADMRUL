@@ -132,7 +132,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:금지유독물질원제를취급하는원제업수입업등록기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "금지·유독물질 원제를 취급하는 원제업·수입업 등록기준/금지·유독물질 원제를 취급하는 원제업·수입업 등록기준.json"
+            "target_git_path_guess": "금지·유독물질 원제를 취급하는 원제업·수입업 등록기준/금지·유독물질 원제를 취급하는 원제업·수입업 등록기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -289,7 +290,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:금지유독물질원제를취급하는원제업수입업등록기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "금지·유독물질 원제를 취급하는 원제업·수입업 등록기준/금지·유독물질 원제를 취급하는 원제업·수입업 등록기준.json"
+            "target_git_path_guess": "금지·유독물질 원제를 취급하는 원제업·수입업 등록기준/금지·유독물질 원제를 취급하는 원제업·수입업 등록기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -450,7 +452,11 @@
             "source_provision_id": "admrul:금지유독물질원제를취급하는원제업수입업등록기준#JO0005",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -706,7 +706,11 @@
             "source_provision_id": "admrul:중앙산지관리위원회운영세칙#JO0006",
             "reference_id": "admrul:중앙산지관리위원회운영세칙#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json"
+            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_git_path": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -731,7 +735,8 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:중앙산지관리위원회운영세칙#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json"
+            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -756,7 +761,8 @@
             "target_unit": "BYL0004_02",
             "reference_id": "admrul:중앙산지관리위원회운영세칙#BYL0004_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json"
+            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -830,7 +836,11 @@
             "source_provision_id": "admrul:중앙산지관리위원회운영세칙#JO0009",
             "reference_id": "admrul:중앙산지관리위원회운영세칙#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json"
+            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_git_path": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -968,7 +978,11 @@
             "source_provision_id": "admrul:중앙산지관리위원회운영세칙#JO0016",
             "reference_id": "admrul:중앙산지관리위원회운영세칙#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json"
+            "target_git_path_guess": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_git_path": "중앙산지관리위원회 운영세칙/중앙산지관리위원회 운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

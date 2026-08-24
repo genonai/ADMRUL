@@ -333,7 +333,11 @@
             "source_provision_id": "admrul:행정사자격심의위원회운영규정#JO0003_03",
             "reference_id": "admrul:행정사자격심의위원회운영규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json"
+            "target_git_path_guess": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json",
+            "target_git_path": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -353,7 +357,11 @@
             "source_provision_id": "admrul:행정사자격심의위원회운영규정#JO0003_03",
             "reference_id": "admrul:행정사자격심의위원회운영규정#JO0003_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json"
+            "target_git_path_guess": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json",
+            "target_git_path": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -526,7 +534,8 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:행정사자격심의위원회운영규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json"
+            "target_git_path_guess": "행정사 자격심의위원회 운영규정/행정사 자격심의위원회 운영규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

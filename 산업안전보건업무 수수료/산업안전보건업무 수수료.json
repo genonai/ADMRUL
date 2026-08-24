@@ -106,7 +106,11 @@
             "source_provision_id": "admrul:산업안전보건업무수수료#DOC",
             "reference_id": "admrul:엔지니어링사업대가의기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json"
+            "target_git_path_guess": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json",
+            "target_git_path": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

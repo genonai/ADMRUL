@@ -628,7 +628,8 @@
         "target_unit": "BJ0010",
         "reference_id": "admrul:지방세관계법운영예규#BJ0010",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "지방세관계법 운영 예규/지방세관계법 운영 예규.json"
+        "target_git_path_guess": "지방세관계법 운영 예규/지방세관계법 운영 예규.json",
+        "target_missing_unit": true
       },
       {
         "relation_type": "citation",
@@ -1648,7 +1649,11 @@
         "source_provision_id": "admrul:지방세관계법운영예규#DOC",
         "reference_id": "admrul:지방세관계법운영예규#JO0232",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "지방세관계법 운영 예규/지방세관계법 운영 예규.json"
+        "target_git_path_guess": "지방세관계법 운영 예규/지방세관계법 운영 예규.json",
+        "target_git_path": "지방세관계법 운영 예규/지방세관계법 운영 예규.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -1768,7 +1773,11 @@
         "source_provision_id": "admrul:지방세관계법운영예규#DOC",
         "reference_id": "admrul:지방세관계법운영예규#JO0610",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "지방세관계법 운영 예규/지방세관계법 운영 예규.json"
+        "target_git_path_guess": "지방세관계법 운영 예규/지방세관계법 운영 예규.json",
+        "target_git_path": "지방세관계법 운영 예규/지방세관계법 운영 예규.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",

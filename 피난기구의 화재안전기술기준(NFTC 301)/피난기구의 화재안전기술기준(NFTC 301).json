@@ -196,7 +196,11 @@
             "source_provision_id": "admrul:피난기구의화재안전기술기준(NFTC301)#DOC",
             "reference_id": "admrul:피난기구의화재안전성능기준(NFPC301)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "피난기구의 화재안전성능기준(NFPC 301)/피난기구의 화재안전성능기준(NFPC 301).json"
+            "target_git_path_guess": "피난기구의 화재안전성능기준(NFPC 301)/피난기구의 화재안전성능기준(NFPC 301).json",
+            "target_git_path": "피난기구의 화재안전성능기준(NFPC 301)/피난기구의 화재안전성능기준(NFPC 301).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -281,7 +285,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:피난기구의화재안전기술기준(NFTC301)#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "피난기구의 화재안전기술기준(NFTC 301)/피난기구의 화재안전기술기준(NFTC 301).json"
+            "target_git_path_guess": "피난기구의 화재안전기술기준(NFTC 301)/피난기구의 화재안전기술기준(NFTC 301).json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -466,7 +471,11 @@
             "source_provision_id": "admrul:피난기구의화재안전기술기준(NFTC301)#DOC",
             "reference_id": "admrul:축광표지의성능인증및제품검사의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "축광표지의 성능인증 및 제품검사의 기술기준/축광표지의 성능인증 및 제품검사의 기술기준.json"
+            "target_git_path_guess": "축광표지의 성능인증 및 제품검사의 기술기준/축광표지의 성능인증 및 제품검사의 기술기준.json",
+            "target_git_path": "축광표지의 성능인증 및 제품검사의 기술기준/축광표지의 성능인증 및 제품검사의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

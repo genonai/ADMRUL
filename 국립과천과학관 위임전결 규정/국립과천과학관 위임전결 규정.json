@@ -105,7 +105,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국립과천과학관위임전결규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과천과학관 위임전결 규정/국립과천과학관 위임전결 규정.json"
+            "target_git_path_guess": "국립과천과학관 위임전결 규정/국립과천과학관 위임전결 규정.json",
+            "target_git_path": "국립과천과학관 위임전결 규정/국립과천과학관 위임전결 규정.json",
+            "target_local_path": "별표/별표1_국립과천과학관위임전결사항.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -130,7 +135,8 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:국립과천과학관위임전결규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과천과학관 위임전결 규정/국립과천과학관 위임전결 규정.json"
+            "target_git_path_guess": "국립과천과학관 위임전결 규정/국립과천과학관 위임전결 규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

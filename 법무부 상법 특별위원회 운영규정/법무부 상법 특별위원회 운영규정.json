@@ -155,7 +155,11 @@
             "source_provision_id": "admrul:법무부상법특별위원회운영규정#JO0009",
             "reference_id": "admrul:법무부상법특별위원회운영규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 상법 특별위원회 운영규정/법무부 상법 특별위원회 운영규정.json"
+            "target_git_path_guess": "법무부 상법 특별위원회 운영규정/법무부 상법 특별위원회 운영규정.json",
+            "target_git_path": "법무부 상법 특별위원회 운영규정/법무부 상법 특별위원회 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -203,7 +207,8 @@
             "target_unit": "BYL0009",
             "reference_id": "admrul:법무부상법특별위원회운영규정#BYL0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 상법 특별위원회 운영규정/법무부 상법 특별위원회 운영규정.json"
+            "target_git_path_guess": "법무부 상법 특별위원회 운영규정/법무부 상법 특별위원회 운영규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

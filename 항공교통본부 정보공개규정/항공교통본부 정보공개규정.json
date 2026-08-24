@@ -107,7 +107,11 @@
             "source_provision_id": "admrul:항공교통본부정보공개규정#JO0001",
             "reference_id": "admrul:국토교통부정보공개규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 정보공개규정/국토교통부 정보공개규정.json"
+            "target_git_path_guess": "국토교통부 정보공개규정/국토교통부 정보공개규정.json",
+            "target_git_path": "국토교통부 정보공개규정/국토교통부 정보공개규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -172,7 +176,11 @@
             "source_provision_id": "admrul:항공교통본부정보공개규정#JO0005",
             "reference_id": "admrul:항공교통본부정보공개규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json"
+            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json",
+            "target_git_path": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -197,7 +205,8 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:항공교통본부정보공개규정#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json"
+            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -217,7 +226,11 @@
             "source_provision_id": "admrul:항공교통본부정보공개규정#JO0005",
             "reference_id": "admrul:항공교통본부정보공개규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json"
+            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json",
+            "target_git_path": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -507,7 +520,11 @@
             "source_provision_id": "admrul:항공교통본부정보공개규정#JO0011",
             "reference_id": "admrul:항공교통본부정보공개규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json"
+            "target_git_path_guess": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json",
+            "target_git_path": "항공교통본부 정보공개규정/항공교통본부 정보공개규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

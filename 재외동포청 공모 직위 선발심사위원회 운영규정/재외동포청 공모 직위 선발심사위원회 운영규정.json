@@ -190,7 +190,11 @@
             "source_provision_id": "admrul:재외동포청공모직위선발심사위원회운영규정#JO0003",
             "reference_id": "admrul:개방형직위및공모직위운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개방형 직위 및 공모 직위 운영지침/개방형 직위 및 공모 직위 운영지침.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위 운영지침/개방형 직위 및 공모 직위 운영지침.json",
+            "target_git_path": "개방형 직위 및 공모 직위 운영지침/개방형 직위 및 공모 직위 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -215,7 +219,8 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:재외동포청공모직위선발심사위원회운영규정#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "재외동포청 공모 직위 선발심사위원회 운영규정/재외동포청 공모 직위 선발심사위원회 운영규정.json"
+            "target_git_path_guess": "재외동포청 공모 직위 선발심사위원회 운영규정/재외동포청 공모 직위 선발심사위원회 운영규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

@@ -93,7 +93,8 @@
             "target_unit": "ANN0009",
             "reference_id": "admrul:출입국절차간소화위원회규정#ANN0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "출입국절차간소화위원회 규정/출입국절차간소화위원회 규정.json"
+            "target_git_path_guess": "출입국절차간소화위원회 규정/출입국절차간소화위원회 규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -202,7 +203,11 @@
             "source_provision_id": "admrul:출입국절차간소화위원회규정#JO0011",
             "reference_id": "admrul:출입국절차간소화위원회규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "출입국절차간소화위원회 규정/출입국절차간소화위원회 규정.json"
+            "target_git_path_guess": "출입국절차간소화위원회 규정/출입국절차간소화위원회 규정.json",
+            "target_git_path": "출입국절차간소화위원회 규정/출입국절차간소화위원회 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

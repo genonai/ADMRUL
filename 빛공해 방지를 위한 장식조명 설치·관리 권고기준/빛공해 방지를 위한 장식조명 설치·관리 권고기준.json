@@ -179,7 +179,11 @@
             "source_provision_id": "admrul:빛공해방지를위한장식조명설치관리권고기준#JO0002",
             "reference_id": "admrul:빛공해공정시험기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "빛공해공정시험기준/빛공해공정시험기준.json"
+            "target_git_path_guess": "빛공해공정시험기준/빛공해공정시험기준.json",
+            "target_git_path": "빛공해공정시험기준/빛공해공정시험기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -238,7 +242,8 @@
             "target_unit": "BR0001",
             "reference_id": "admrul:빛공해방지를위한장식조명설치관리권고기준#BR0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "빛공해 방지를 위한 장식조명 설치·관리 권고기준/빛공해 방지를 위한 장식조명 설치·관리 권고기준.json"
+            "target_git_path_guess": "빛공해 방지를 위한 장식조명 설치·관리 권고기준/빛공해 방지를 위한 장식조명 설치·관리 권고기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -258,7 +263,11 @@
             "source_provision_id": "admrul:빛공해방지를위한장식조명설치관리권고기준#JO0005",
             "reference_id": "admrul:빛공해공정시험기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "빛공해공정시험기준/빛공해공정시험기준.json"
+            "target_git_path_guess": "빛공해공정시험기준/빛공해공정시험기준.json",
+            "target_git_path": "빛공해공정시험기준/빛공해공정시험기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [

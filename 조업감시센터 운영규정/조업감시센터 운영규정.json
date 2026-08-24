@@ -210,7 +210,11 @@
             "source_provision_id": "admrul:조업감시센터운영규정#JO0003",
             "reference_id": "admrul:어선위치추적장치의설비및운영방법등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "어선위치추적장치의 설비 및 운영방법 등에 관한 고시/어선위치추적장치의 설비 및 운영방법 등에 관한 고시.json"
+            "target_git_path_guess": "어선위치추적장치의 설비 및 운영방법 등에 관한 고시/어선위치추적장치의 설비 및 운영방법 등에 관한 고시.json",
+            "target_git_path": "어선위치추적장치의 설비 및 운영방법 등에 관한 고시/어선위치추적장치의 설비 및 운영방법 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -307,7 +311,8 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:조업감시센터운영규정#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조업감시센터 운영규정/조업감시센터 운영규정.json"
+            "target_git_path_guess": "조업감시센터 운영규정/조업감시센터 운영규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -516,7 +521,11 @@
             "source_provision_id": "admrul:조업감시센터운영규정#JO0010",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

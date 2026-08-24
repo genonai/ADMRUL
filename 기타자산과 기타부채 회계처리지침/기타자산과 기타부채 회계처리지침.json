@@ -106,7 +106,11 @@
             "source_provision_id": "admrul:기타자산과기타부채회계처리지침#DOC",
             "reference_id": "admrul:보험회계처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보험 회계처리지침/보험 회계처리지침.json"
+            "target_git_path_guess": "보험 회계처리지침/보험 회계처리지침.json",
+            "target_git_path": "보험 회계처리지침/보험 회계처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

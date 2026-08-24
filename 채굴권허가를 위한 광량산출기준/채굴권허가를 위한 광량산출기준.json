@@ -139,7 +139,11 @@
             "source_provision_id": "admrul:채굴권허가를위한광량산출기준#JO0002",
             "reference_id": "admrul:채굴권허가를위한광량산출기준#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "채굴권허가를 위한 광량산출기준/채굴권허가를 위한 광량산출기준.json"
+            "target_git_path_guess": "채굴권허가를 위한 광량산출기준/채굴권허가를 위한 광량산출기준.json",
+            "target_git_path": "채굴권허가를 위한 광량산출기준/채굴권허가를 위한 광량산출기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -256,7 +260,11 @@
             "source_provision_id": "admrul:채굴권허가를위한광량산출기준#JO0009",
             "reference_id": "admrul:광업업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "광업업무처리지침/광업업무처리지침.json"
+            "target_git_path_guess": "광업업무처리지침/광업업무처리지침.json",
+            "target_git_path": "광업업무처리지침/광업업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -281,7 +289,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:채굴권허가를위한광량산출기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "채굴권허가를 위한 광량산출기준/채굴권허가를 위한 광량산출기준.json"
+            "target_git_path_guess": "채굴권허가를 위한 광량산출기준/채굴권허가를 위한 광량산출기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

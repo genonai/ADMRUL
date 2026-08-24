@@ -184,7 +184,8 @@
             "target_unit": "BYL0010",
             "reference_id": "admrul:종합병원,병원,요양병원내진설계기준#BYL0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "종합병원, 병원, 요양병원 내진설계 기준/종합병원, 병원, 요양병원 내진설계 기준.json"
+            "target_git_path_guess": "종합병원, 병원, 요양병원 내진설계 기준/종합병원, 병원, 요양병원 내진설계 기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -261,7 +262,8 @@
             "target_unit": "BYL0011",
             "reference_id": "admrul:종합병원,병원,요양병원내진설계기준#BYL0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "종합병원, 병원, 요양병원 내진설계 기준/종합병원, 병원, 요양병원 내진설계 기준.json"
+            "target_git_path_guess": "종합병원, 병원, 요양병원 내진설계 기준/종합병원, 병원, 요양병원 내진설계 기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -338,7 +340,8 @@
             "target_unit": "BYL0012",
             "reference_id": "admrul:종합병원,병원,요양병원내진설계기준#BYL0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "종합병원, 병원, 요양병원 내진설계 기준/종합병원, 병원, 요양병원 내진설계 기준.json"
+            "target_git_path_guess": "종합병원, 병원, 요양병원 내진설계 기준/종합병원, 병원, 요양병원 내진설계 기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -381,7 +384,11 @@
             "source_provision_id": "admrul:종합병원,병원,요양병원내진설계기준#JO0006",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령·예규 등의 발령 및 관리에 관한 규정/훈령·예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령·예규 등의 발령 및 관리에 관한 규정/훈령·예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -401,7 +408,11 @@
             "source_provision_id": "admrul:종합병원,병원,요양병원내진설계기준#JO0006",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령·예규 등의 발령 및 관리에 관한 규정/훈령·예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령·예규 등의 발령 및 관리에 관한 규정/훈령·예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

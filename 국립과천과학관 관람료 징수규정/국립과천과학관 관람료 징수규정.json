@@ -165,7 +165,8 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:국립과천과학관관람료징수규정#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과천과학관 관람료 징수규정/국립과천과학관 관람료 징수규정.json"
+            "target_git_path_guess": "국립과천과학관 관람료 징수규정/국립과천과학관 관람료 징수규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -190,7 +191,8 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:국립과천과학관관람료징수규정#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과천과학관 관람료 징수규정/국립과천과학관 관람료 징수규정.json"
+            "target_git_path_guess": "국립과천과학관 관람료 징수규정/국립과천과학관 관람료 징수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -233,7 +235,11 @@
             "source_provision_id": "admrul:국립과천과학관관람료징수규정#JO0006",
             "reference_id": "admrul:국립과천과학관관람료징수규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과천과학관 관람료 징수규정/국립과천과학관 관람료 징수규정.json"
+            "target_git_path_guess": "국립과천과학관 관람료 징수규정/국립과천과학관 관람료 징수규정.json",
+            "target_git_path": "국립과천과학관 관람료 징수규정/국립과천과학관 관람료 징수규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

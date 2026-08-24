@@ -135,7 +135,8 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:(고용노동부)참고인등비용지급에관한규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json"
+            "target_git_path_guess": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -200,7 +201,11 @@
             "source_provision_id": "admrul:(고용노동부)참고인등비용지급에관한규정#JO0007",
             "reference_id": "admrul:(고용노동부)참고인등비용지급에관한규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json"
+            "target_git_path_guess": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json",
+            "target_git_path": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -225,7 +230,12 @@
             "target_unit": "FORM0001",
             "reference_id": "admrul:(고용노동부)참고인등비용지급에관한규정#FORM0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json"
+            "target_git_path_guess": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json",
+            "target_git_path": "(고용노동부) 참고인 등 비용지급에 관한 규정/(고용노동부) 참고인 등 비용지급에 관한 규정.json",
+            "target_local_path": "서식/서식1_참고인등 비용 청구 및 영수증.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

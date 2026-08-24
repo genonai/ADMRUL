@@ -118,7 +118,11 @@
             "source_provision_id": "admrul:환경측정분석사검정용시약및시험기자재운영규정#JO0002",
             "reference_id": "admrul:환경측정분석사검정용시약및시험기자재운영규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경측정분석사 검정용 시약 및 시험기자재 운영 규정/환경측정분석사 검정용 시약 및 시험기자재 운영 규정.json"
+            "target_git_path_guess": "환경측정분석사 검정용 시약 및 시험기자재 운영 규정/환경측정분석사 검정용 시약 및 시험기자재 운영 규정.json",
+            "target_git_path": "환경측정분석사 검정용 시약 및 시험기자재 운영 규정/환경측정분석사 검정용 시약 및 시험기자재 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -143,7 +147,8 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:환경측정분석사검정용시약및시험기자재운영규정#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경측정분석사 검정용 시약 및 시험기자재 운영 규정/환경측정분석사 검정용 시약 및 시험기자재 운영 규정.json"
+            "target_git_path_guess": "환경측정분석사 검정용 시약 및 시험기자재 운영 규정/환경측정분석사 검정용 시약 및 시험기자재 운영 규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",

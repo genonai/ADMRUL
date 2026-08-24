@@ -130,7 +130,11 @@
             "source_provision_id": "admrul:사료용동물성가공단백질제품수입위생조건#JO0003",
             "reference_id": "admrul:지정검역물의수입금지지역#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지정검역물의 수입금지지역/지정검역물의 수입금지지역.json"
+            "target_git_path_guess": "지정검역물의 수입금지지역/지정검역물의 수입금지지역.json",
+            "target_git_path": "지정검역물의 수입금지지역/지정검역물의 수입금지지역.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -155,7 +159,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:사료용동물성가공단백질제품수입위생조건#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json"
+            "target_git_path_guess": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -231,7 +236,11 @@
             "source_provision_id": "admrul:사료용동물성가공단백질제품수입위생조건#JO0008",
             "reference_id": "admrul:사료용동물성가공단백질제품수입위생조건#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json"
+            "target_git_path_guess": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json",
+            "target_git_path": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -251,7 +260,11 @@
             "source_provision_id": "admrul:사료용동물성가공단백질제품수입위생조건#JO0008",
             "reference_id": "admrul:사료용동물성가공단백질제품수입위생조건#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json"
+            "target_git_path_guess": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json",
+            "target_git_path": "사료용 동물성 가공 단백질 제품 수입위생조건/사료용 동물성 가공 단백질 제품 수입위생조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

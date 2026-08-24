@@ -106,7 +106,11 @@
             "source_provision_id": "admrul:대불외국인투자지역관리기본계획#DOC",
             "reference_id": "admrul:해외진출기업의국내복귀지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해외진출기업의 국내복귀 지원에 관한 고시/해외진출기업의 국내복귀 지원에 관한 고시.json"
+            "target_git_path_guess": "해외진출기업의 국내복귀 지원에 관한 고시/해외진출기업의 국내복귀 지원에 관한 고시.json",
+            "target_git_path": "해외진출기업의 국내복귀 지원에 관한 고시/해외진출기업의 국내복귀 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -126,7 +130,11 @@
             "source_provision_id": "admrul:대불외국인투자지역관리기본계획#DOC",
             "reference_id": "admrul:해외진출기업의국내복귀지원에관한고시#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해외진출기업의 국내복귀 지원에 관한 고시/해외진출기업의 국내복귀 지원에 관한 고시.json"
+            "target_git_path_guess": "해외진출기업의 국내복귀 지원에 관한 고시/해외진출기업의 국내복귀 지원에 관한 고시.json",
+            "target_git_path": "해외진출기업의 국내복귀 지원에 관한 고시/해외진출기업의 국내복귀 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -151,7 +159,8 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:대불외국인투자지역관리기본계획#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json"
+            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -176,7 +185,8 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:대불외국인투자지역관리기본계획#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json"
+            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -216,7 +226,11 @@
             "source_provision_id": "admrul:대불외국인투자지역관리기본계획#DOC",
             "reference_id": "admrul:국유재산사용료등의분할납부등에적용할이자율#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국유재산 사용료 등의 분할납부 등에 적용할 이자율/국유재산 사용료 등의 분할납부 등에 적용할 이자율.json"
+            "target_git_path_guess": "국유재산 사용료 등의 분할납부 등에 적용할 이자율/국유재산 사용료 등의 분할납부 등에 적용할 이자율.json",
+            "target_git_path": "국유재산 사용료 등의 분할 납부 등에 적용할 이자율/국유재산 사용료 등의 분할 납부 등에 적용할 이자율.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -341,7 +355,8 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:대불외국인투자지역관리기본계획#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json"
+            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -486,7 +501,8 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:대불외국인투자지역관리기본계획#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json"
+            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -511,7 +527,8 @@
             "target_unit": "BJ0011",
             "reference_id": "admrul:대불외국인투자지역관리기본계획#BJ0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json"
+            "target_git_path_guess": "대불 외국인투자지역 관리기본계획/대불 외국인투자지역 관리기본계획.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",

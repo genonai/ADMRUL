@@ -127,7 +127,11 @@
         "source_provision_id": "admrul:사회복무요원복제규정#DOC",
         "reference_id": "admrul:법원보안관리대원복제등에관한예규#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "법원보안관리대원 복제 등에 관한 예규/법원보안관리대원 복제 등에 관한 예규.json"
+        "target_git_path_guess": "법원보안관리대원 복제 등에 관한 예규/법원보안관리대원 복제 등에 관한 예규.json",
+        "target_git_path": "법원보안관리대원 복제 등에 관한 예규/법원보안관리대원 복제 등에 관한 예규.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -152,7 +156,12 @@
         "target_unit": "ETC0001",
         "reference_id": "admrul:사회복무요원복제규정#ETC0001",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "사회복무요원 복제규정/사회복무요원 복제규정.json"
+        "target_git_path_guess": "사회복무요원 복제규정/사회복무요원 복제규정.json",
+        "target_git_path": "사회복무요원 복제규정/사회복무요원 복제규정.json",
+        "target_local_path": "기타/기타1_제복의 제식.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       }
     ]
   },

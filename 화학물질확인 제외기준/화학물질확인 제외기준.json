@@ -159,7 +159,11 @@
             "source_provision_id": "admrul:화학물질확인제외기준#JO0002",
             "reference_id": "admrul:등록또는신고면제대상화학물질#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "등록 또는 신고 면제대상 화학물질/등록 또는 신고 면제대상 화학물질.json"
+            "target_git_path_guess": "등록 또는 신고 면제대상 화학물질/등록 또는 신고 면제대상 화학물질.json",
+            "target_git_path": "등록 또는 신고 면제대상 화학물질/등록 또는 신고 면제대상 화학물질.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -184,7 +188,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:화학물질확인제외기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json"
+            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +214,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:화학물질확인제외기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json"
+            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -229,7 +235,11 @@
             "source_provision_id": "admrul:화학물질확인제외기준#JO0002",
             "reference_id": "admrul:등록또는신고면제대상화학물질#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "등록 또는 신고 면제대상 화학물질/등록 또는 신고 면제대상 화학물질.json"
+            "target_git_path_guess": "등록 또는 신고 면제대상 화학물질/등록 또는 신고 면제대상 화학물질.json",
+            "target_git_path": "등록 또는 신고 면제대상 화학물질/등록 또는 신고 면제대상 화학물질.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -254,7 +264,8 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:화학물질확인제외기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json"
+            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -279,7 +290,8 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:화학물질확인제외기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json"
+            "target_git_path_guess": "화학물질확인 제외기준/화학물질확인 제외기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

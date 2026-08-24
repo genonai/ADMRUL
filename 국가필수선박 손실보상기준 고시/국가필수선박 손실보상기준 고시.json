@@ -126,7 +126,11 @@
             "source_provision_id": "admrul:국가필수선박손실보상기준고시#DOC",
             "reference_id": "admrul:국가필수선박업무처리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가필수선박 업무처리에 관한 규정/국가필수선박 업무처리에 관한 규정.json"
+            "target_git_path_guess": "국가필수선박 업무처리에 관한 규정/국가필수선박 업무처리에 관한 규정.json",
+            "target_git_path": "국가필수선박 업무처리에 관한 규정/국가필수선박 업무처리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -146,7 +150,11 @@
             "source_provision_id": "admrul:국가필수선박손실보상기준고시#DOC",
             "reference_id": "admrul:국가필수선박업무처리에관한규정#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가필수선박 업무처리에 관한 규정/국가필수선박 업무처리에 관한 규정.json"
+            "target_git_path_guess": "국가필수선박 업무처리에 관한 규정/국가필수선박 업무처리에 관한 규정.json",
+            "target_git_path": "국가필수선박 업무처리에 관한 규정/국가필수선박 업무처리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -171,7 +179,8 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:국가필수선박손실보상기준고시#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가필수선박 손실보상기준 고시/국가필수선박 손실보상기준 고시.json"
+            "target_git_path_guess": "국가필수선박 손실보상기준 고시/국가필수선박 손실보상기준 고시.json",
+            "target_missing_unit": true
           }
         ],
         "images": [

@@ -71,7 +71,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:각종보고서등작성제출시유의할사항#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json"
+            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json",
+            "target_git_path": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json",
+            "target_local_path": "별표/별표1_[별표 1] 각종보고서 제출일람표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -176,7 +181,8 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:각종보고서등작성제출시유의할사항#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json"
+            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -196,7 +202,11 @@
             "source_provision_id": "admrul:각종보고서등작성제출시유의할사항#DOC",
             "reference_id": "admrul:등기특별회계수입금의운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "등기특별회계수입금의 운영규정/등기특별회계수입금의 운영규정.json"
+            "target_git_path_guess": "등기특별회계수입금의 운영규정/등기특별회계수입금의 운영규정.json",
+            "target_git_path": "등기특별회계수입금의 운영규정/등기특별회계수입금의 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -301,7 +311,8 @@
             "target_unit": "BC0003",
             "reference_id": "admrul:각종보고서등작성제출시유의할사항#BC0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json"
+            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -426,7 +437,8 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:각종보고서등작성제출시유의할사항#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json"
+            "target_git_path_guess": "각종 보고서등 작성제출시 유의할 사항/각종 보고서등 작성제출시 유의할 사항.json",
+            "target_missing_unit": true
           }
         ],
         "images": [

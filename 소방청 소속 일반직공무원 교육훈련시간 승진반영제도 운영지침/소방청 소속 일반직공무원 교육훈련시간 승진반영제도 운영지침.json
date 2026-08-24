@@ -232,7 +232,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:소방청소속일반직공무원교육훈련시간승진반영제도운영지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소방청 소속 일반직공무원 교육훈련시간 승진반영제도 운영지침/소방청 소속 일반직공무원 교육훈련시간 승진반영제도 운영지침.json"
+            "target_git_path_guess": "소방청 소속 일반직공무원 교육훈련시간 승진반영제도 운영지침/소방청 소속 일반직공무원 교육훈련시간 승진반영제도 운영지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -252,7 +253,11 @@
             "source_provision_id": "admrul:소방청소속일반직공무원교육훈련시간승진반영제도운영지침#JO0010_02",
             "reference_id": "admrul:공무원인재개발업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 인재개발 업무처리지침/공무원 인재개발 업무처리지침.json"
+            "target_git_path_guess": "공무원 인재개발 업무처리지침/공무원 인재개발 업무처리지침.json",
+            "target_git_path": "공무원 인재개발 업무처리지침/공무원 인재개발 업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

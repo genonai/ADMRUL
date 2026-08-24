@@ -211,7 +211,8 @@
             "target_unit": "BYL0012",
             "reference_id": "admrul:건축물의용도별오수발생량및정화조처리대상인원산정방법#BYL0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건축물의 용도별 오수발생량 및 정화조 처리대상인원 산정방법/건축물의 용도별 오수발생량 및 정화조 처리대상인원 산정방법.json"
+            "target_git_path_guess": "건축물의 용도별 오수발생량 및 정화조 처리대상인원 산정방법/건축물의 용도별 오수발생량 및 정화조 처리대상인원 산정방법.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -231,7 +232,11 @@
             "source_provision_id": "admrul:건축물의용도별오수발생량및정화조처리대상인원산정방법#DOC",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [

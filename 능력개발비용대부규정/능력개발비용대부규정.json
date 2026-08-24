@@ -310,7 +310,11 @@
             "source_provision_id": "admrul:능력개발비용대부규정#JO0003",
             "reference_id": "admrul:능력개발비용대부규정#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json"
+            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_git_path": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -936,7 +940,8 @@
             "target_unit": "BJ0063",
             "reference_id": "admrul:능력개발비용대부규정#BJ0063",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json"
+            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -1088,7 +1093,11 @@
             "source_provision_id": "admrul:능력개발비용대부규정#JO0011",
             "reference_id": "admrul:능력개발비용대부규정#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json"
+            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_git_path": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1125,7 +1134,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:능력개발비용대부규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json"
+            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_git_path": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_local_path": "별지/별지2_근로자학자금 미대출 차입금 상환보고.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1150,7 +1164,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:능력개발비용대부규정#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json"
+            "target_git_path_guess": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_git_path": "능력개발비용대부규정/능력개발비용대부규정.json",
+            "target_local_path": "별지/별지3_직업능력개발훈련비 미대출 차입금 상환보고.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

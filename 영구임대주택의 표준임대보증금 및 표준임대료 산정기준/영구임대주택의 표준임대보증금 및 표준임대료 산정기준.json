@@ -171,7 +171,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json"
+            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -216,7 +217,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json"
+            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -261,7 +263,8 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json"
+            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -346,7 +349,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json"
+            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -371,7 +375,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json"
+            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -416,7 +421,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json"
+            "target_git_path_guess": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준/영구임대주택의 표준임대보증금 및 표준임대료 산정기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -456,7 +462,11 @@
             "source_provision_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#DOC",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [

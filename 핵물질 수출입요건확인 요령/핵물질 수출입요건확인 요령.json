@@ -167,7 +167,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0001",
             "reference_id": "admrul:통합공고#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "통합공고/통합공고.json"
+            "target_git_path_guess": "통합공고/통합공고.json",
+            "target_git_path": "통합공고/통합공고.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -291,7 +295,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "reference_id": "admrul:핵물질수출입요건확인요령#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -316,7 +324,12 @@
             "target_unit": "FORM0001",
             "reference_id": "admrul:핵물질수출입요건확인요령#FORM0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_local_path": "서식/서식1_핵물질 수출 요건확인(신청)서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -341,7 +354,12 @@
             "target_unit": "FORM0002",
             "reference_id": "admrul:핵물질수출입요건확인요령#FORM0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_local_path": "서식/서식2_핵물질 수입 요건확인(신청)서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -366,7 +384,12 @@
             "target_unit": "FORM0003",
             "reference_id": "admrul:핵물질수출입요건확인요령#FORM0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_local_path": "서식/서식3_핵물질 수출입계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -386,7 +409,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "reference_id": "admrul:국제규제물자등의보고에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -409,9 +436,14 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "target_unit": "BJ0009",
-            "reference_id": "admrul:국제규제물자등의보고에관한규정#BJ0009",
+            "reference_id": "admrul:국제규제물자등의보고에관한규정#FORM0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_local_path": "서식/서식9_국외반출예정 핵물질에 관한 사전통보.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -431,7 +463,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "reference_id": "admrul:국제규제물자등의보고에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -454,9 +490,14 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "target_unit": "BJ0010",
-            "reference_id": "admrul:국제규제물자등의보고에관한규정#BJ0010",
+            "reference_id": "admrul:국제규제물자등의보고에관한규정#FORM0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_local_path": "서식/서식10_국내반입예정 핵물질에 관한 사전통보.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -476,7 +517,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "reference_id": "admrul:국제규제물자등의보고에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -499,9 +544,14 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "target_unit": "BJ0011",
-            "reference_id": "admrul:국제규제물자등의보고에관한규정#BJ0011",
+            "reference_id": "admrul:국제규제물자등의보고에관한규정#FORM0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_local_path": "서식/서식11_핵물질 수출입에 관한 사전보고.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -611,7 +661,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "reference_id": "admrul:국제규제물자등의보고에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -631,7 +685,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "reference_id": "admrul:국제규제물자등의보고에관한규정#JO0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json"
+            "target_git_path_guess": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_git_path": "국제규제물자 등의 보고에 관한 규정/국제규제물자 등의 보고에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -908,7 +966,12 @@
             "target_unit": "FORM0003",
             "reference_id": "admrul:핵물질수출입요건확인요령#FORM0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_local_path": "서식/서식3_핵물질 수출입계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1100,7 +1163,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0005",
             "reference_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1120,7 +1187,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0005",
             "reference_id": "admrul:핵물질수출입요건확인요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1140,7 +1211,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0005",
             "reference_id": "admrul:핵물질수출입요건확인요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1188,7 +1263,12 @@
             "target_unit": "FORM0004",
             "reference_id": "admrul:핵물질수출입요건확인요령#FORM0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_local_path": "서식/서식4_핵물질 수출입요건확인 변경(신청)서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1208,7 +1288,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0007",
             "reference_id": "admrul:핵물질수출입요건확인요령#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1240,7 +1324,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0008",
             "reference_id": "admrul:핵물질수출입요건확인요령#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1260,7 +1348,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0008",
             "reference_id": "admrul:핵물질수출입요건확인요령#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1365,7 +1457,12 @@
             "target_unit": "FORM0005",
             "reference_id": "admrul:핵물질수출입요건확인요령#FORM0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json"
+            "target_git_path_guess": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_git_path": "핵물질 수출입요건확인 요령/핵물질 수출입요건확인 요령.json",
+            "target_local_path": "서식/서식5_핵물질 수출입요건확인 면제(신청)서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1408,7 +1505,11 @@
             "source_provision_id": "admrul:핵물질수출입요건확인요령#JO0010",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -389,7 +389,11 @@
             "source_provision_id": "admrul:법제처홈페이지운영지침#JO0021",
             "reference_id": "admrul:법제처민원처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법제처 민원 처리지침/법제처 민원 처리지침.json"
+            "target_git_path_guess": "법제처 민원 처리지침/법제처 민원 처리지침.json",
+            "target_git_path": "법제처 민원 처리지침/법제처 민원 처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

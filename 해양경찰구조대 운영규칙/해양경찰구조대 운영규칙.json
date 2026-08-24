@@ -199,7 +199,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0002",
             "reference_id": "admrul:해양경찰청인사운영규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json"
+            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_git_path": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -219,7 +223,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0002",
             "reference_id": "admrul:해양경찰청인사운영규칙#JO0045",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json"
+            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_git_path": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -371,7 +379,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0003",
             "reference_id": "admrul:해양경찰구조대운영규칙#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -492,7 +504,8 @@
             "target_unit": "BYL0014",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -517,7 +530,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:해양경찰구조대운영규칙#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별지/별지1_출동 및 처치 기록지.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -542,7 +560,8 @@
             "target_unit": "BYL0014",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -590,7 +609,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표1_구조대 표준일과표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -650,7 +674,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0010",
             "reference_id": "admrul:해양경찰청현업공무원복무관리규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰청 현업공무원 복무관리규칙/해양경찰청 현업공무원 복무관리규칙.json"
+            "target_git_path_guess": "해양경찰청 현업공무원 복무관리규칙/해양경찰청 현업공무원 복무관리규칙.json",
+            "target_git_path": "해양경찰청 현업공무원 복무관리규칙/해양경찰청 현업공무원 복무관리규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -670,7 +698,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0010",
             "reference_id": "admrul:해양경찰청현업공무원복무관리규칙#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰청 현업공무원 복무관리규칙/해양경찰청 현업공무원 복무관리규칙.json"
+            "target_git_path_guess": "해양경찰청 현업공무원 복무관리규칙/해양경찰청 현업공무원 복무관리규칙.json",
+            "target_git_path": "해양경찰청 현업공무원 복무관리규칙/해양경찰청 현업공무원 복무관리규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -707,7 +739,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:해양경찰구조대운영규칙#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별지/별지2_해양경찰구조대 근무일지.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -732,7 +769,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:해양경찰구조대운영규칙#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별지/별지3_잠수일지.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -809,7 +851,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:해양경찰구조대운영규칙#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별지/별지4_수중작업 안전점검표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -834,7 +881,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:해양경찰구조대운영규칙#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별지/별지4_수중작업 안전점검표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -866,7 +918,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0013",
             "reference_id": "admrul:해양경찰구조대운영규칙#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -886,7 +942,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0013",
             "reference_id": "admrul:해양경찰구조대운영규칙#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -911,7 +971,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표2_체력 측정표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -936,7 +1001,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표2_체력 측정표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -973,7 +1043,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표2_체력 측정표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1010,7 +1085,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표3_구조등급 분류 기준과 표식장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1035,7 +1115,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표3_구조등급 분류 기준과 표식장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1211,7 +1296,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0018",
             "reference_id": "admrul:해양경찰청인사운영규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json"
+            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_git_path": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1231,7 +1320,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0018",
             "reference_id": "admrul:해양경찰청인사운영규칙#JO0051",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json"
+            "target_git_path_guess": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_git_path": "해양경찰청 인사운영 규칙/해양경찰청 인사운영 규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1268,7 +1361,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표4_연간 교육훈련 종목.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1305,7 +1403,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표5_구조대 교육훈련 종류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1364,7 +1467,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:해양경찰구조대운영규칙#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별지/별지5_월간 장비점검표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1429,7 +1537,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표7_구조정 운용지침.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1454,7 +1567,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:해양경찰구조대운영규칙#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별지/별지6_개인별 잠수복 관리카드.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1537,7 +1655,11 @@
             "source_provision_id": "admrul:해양경찰구조대운영규칙#JO0025",
             "reference_id": "admrul:해양경찰구조대운영규칙#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1614,7 +1736,12 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:해양경찰구조대운영규칙#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json"
+            "target_git_path_guess": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_git_path": "해양경찰구조대 운영규칙/해양경찰구조대 운영규칙.json",
+            "target_local_path": "별표/별표8_특수 건강검진 항목.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

@@ -122,7 +122,11 @@
             "source_provision_id": "admrul:광주지방식품의약품안전청당직근무규칙#JO0006",
             "reference_id": "admrul:광주지방식품의약품안전청당직근무규칙#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "광주지방식품의약품안전청 당직근무규칙/광주지방식품의약품안전청 당직근무규칙.json"
+            "target_git_path_guess": "광주지방식품의약품안전청 당직근무규칙/광주지방식품의약품안전청 당직근무규칙.json",
+            "target_git_path": "광주지방식품의약품안전청 당직근무규칙/광주지방식품의약품안전청 당직근무규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -147,7 +151,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:광주지방식품의약품안전청당직근무규칙#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "광주지방식품의약품안전청 당직근무규칙/광주지방식품의약품안전청 당직근무규칙.json"
+            "target_git_path_guess": "광주지방식품의약품안전청 당직근무규칙/광주지방식품의약품안전청 당직근무규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

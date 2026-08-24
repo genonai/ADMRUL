@@ -164,7 +164,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:팔당호상수원수질보전특별대책지역특별배출허용기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준/팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준.json"
+            "target_git_path_guess": "팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준/팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -189,7 +190,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:팔당호상수원수질보전특별대책지역특별배출허용기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준/팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준.json"
+            "target_git_path_guess": "팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준/팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -221,7 +223,11 @@
             "source_provision_id": "admrul:팔당호상수원수질보전특별대책지역특별배출허용기준#JO0003",
             "reference_id": "admrul:팔당호상수원수질보전특별대책지역특별배출허용기준#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준/팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준.json"
+            "target_git_path_guess": "팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준/팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준.json",
+            "target_git_path": "팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준/팔당호 상수원 수질보전 특별대책지역 특별배출허용 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -293,7 +299,11 @@
             "source_provision_id": "admrul:팔당호상수원수질보전특별대책지역특별배출허용기준#JO0004",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령·예규 등의 발령 및 관리에 관한 규정/훈령·예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령·예규 등의 발령 및 관리에 관한 규정/훈령·예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

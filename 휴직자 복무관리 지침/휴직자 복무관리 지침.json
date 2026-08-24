@@ -307,7 +307,11 @@
             "source_provision_id": "admrul:휴직자복무관리지침#JO0073",
             "reference_id": "admrul:공무원임용규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json"
+            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_git_path": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -372,7 +376,12 @@
             "target_unit": "ATT0001",
             "reference_id": "admrul:휴직자복무관리지침#ATT0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json"
+            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_git_path": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_local_path": "붙임/붙임1_휴직자 복무상황 신고서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -437,7 +446,12 @@
             "target_unit": "ATT0002",
             "reference_id": "admrul:휴직자복무관리지침#ATT0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json"
+            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_git_path": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_local_path": "붙임/붙임2_휴직검증위원회 심사 의결서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

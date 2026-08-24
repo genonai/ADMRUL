@@ -107,7 +107,11 @@
             "source_provision_id": "admrul:해양수산부공무원등의직무관련범죄고발지침#JO0001",
             "reference_id": "admrul:공무원의직무관련범죄고발지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원의 직무관련 범죄고발지침/공무원의 직무관련 범죄고발지침.json"
+            "target_git_path_guess": "공무원의 직무관련 범죄고발지침/공무원의 직무관련 범죄고발지침.json",
+            "target_git_path": "공무원의 직무관련범죄 고발지침/공무원의 직무관련범죄 고발지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -321,7 +325,8 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:해양수산부공무원등의직무관련범죄고발지침#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양수산부 공무원 등의 직무관련 범죄 고발지침/해양수산부 공무원 등의 직무관련 범죄 고발지침.json"
+            "target_git_path_guess": "해양수산부 공무원 등의 직무관련 범죄 고발지침/해양수산부 공무원 등의 직무관련 범죄 고발지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

@@ -359,7 +359,11 @@
         "source_provision_id": "admrul:동산채권의담보등기에관한사무처리지침#DOC",
         "reference_id": "admrul:전자신청등기소의등기신청서접수에관한업무처리지침#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "전자신청 등기소의 등기신청서 접수에 관한 업무처리지침/전자신청 등기소의 등기신청서 접수에 관한 업무처리지침.json"
+        "target_git_path_guess": "전자신청 등기소의 등기신청서 접수에 관한 업무처리지침/전자신청 등기소의 등기신청서 접수에 관한 업무처리지침.json",
+        "target_git_path": "전자신청 등기소의 등기신청서 접수에 관한 업무처리지침/전자신청 등기소의 등기신청서 접수에 관한 업무처리지침.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -519,7 +523,11 @@
         "source_provision_id": "admrul:동산채권의담보등기에관한사무처리지침#DOC",
         "reference_id": "admrul:동산채권의담보등기에관한사무처리지침#JO0003",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "동산ㆍ채권의 담보등기에 관한 사무처리지침/동산ㆍ채권의 담보등기에 관한 사무처리지침.json"
+        "target_git_path_guess": "동산ㆍ채권의 담보등기에 관한 사무처리지침/동산ㆍ채권의 담보등기에 관한 사무처리지침.json",
+        "target_git_path": "동산ㆍ채권의 담보등기에 관한 사무처리지침/동산ㆍ채권의 담보등기에 관한 사무처리지침.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -604,7 +612,8 @@
         "target_unit": "BJ0001",
         "reference_id": "admrul:동산채권의담보등기에관한사무처리지침#BJ0001",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "동산ㆍ채권의 담보등기에 관한 사무처리지침/동산ㆍ채권의 담보등기에 관한 사무처리지침.json"
+        "target_git_path_guess": "동산ㆍ채권의 담보등기에 관한 사무처리지침/동산ㆍ채권의 담보등기에 관한 사무처리지침.json",
+        "target_missing_unit": true
       }
     ]
   },

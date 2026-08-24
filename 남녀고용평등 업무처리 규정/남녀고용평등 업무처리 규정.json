@@ -1439,7 +1439,11 @@
             "source_provision_id": "admrul:남녀고용평등업무처리규정#JO0012",
             "reference_id": "admrul:근로감독관집무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json"
+            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_git_path": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1464,7 +1468,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:근로감독관집무규정#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json"
+            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_git_path": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_local_path": "별표/별표3_개별근로관계법 위반사항 조치기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",

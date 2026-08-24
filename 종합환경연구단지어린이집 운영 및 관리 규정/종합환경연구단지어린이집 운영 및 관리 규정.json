@@ -371,7 +371,11 @@
             "source_provision_id": "admrul:종합환경연구단지어린이집운영및관리규정#JO0012",
             "reference_id": "admrul:종합환경연구단지어린이집운영및관리규정#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "종합환경연구단지어린이집 운영 및 관리 규정/종합환경연구단지어린이집 운영 및 관리 규정.json"
+            "target_git_path_guess": "종합환경연구단지어린이집 운영 및 관리 규정/종합환경연구단지어린이집 운영 및 관리 규정.json",
+            "target_git_path": "종합환경연구단지어린이집 운영 및 관리 규정/종합환경연구단지어린이집 운영 및 관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -396,7 +400,8 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:종합환경연구단지어린이집운영및관리규정#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "종합환경연구단지어린이집 운영 및 관리 규정/종합환경연구단지어린이집 운영 및 관리 규정.json"
+            "target_git_path_guess": "종합환경연구단지어린이집 운영 및 관리 규정/종합환경연구단지어린이집 운영 및 관리 규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

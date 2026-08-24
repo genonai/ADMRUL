@@ -159,7 +159,11 @@
             "source_provision_id": "admrul:생활폐기물중특정품목의대행에관한고시#JO0002",
             "reference_id": "admrul:재활용가능자원의분리수거등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "재활용가능자원의 분리수거 등에 관한 지침/재활용가능자원의 분리수거 등에 관한 지침.json"
+            "target_git_path_guess": "재활용가능자원의 분리수거 등에 관한 지침/재활용가능자원의 분리수거 등에 관한 지침.json",
+            "target_git_path": "재활용가능자원의 분리수거 등에 관한 지침/재활용가능자원의 분리수거 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -184,7 +188,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:생활폐기물중특정품목의대행에관한고시#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "생활폐기물 중 특정 품목의 대행에 관한 고시/생활폐기물 중 특정 품목의 대행에 관한 고시.json"
+            "target_git_path_guess": "생활폐기물 중 특정 품목의 대행에 관한 고시/생활폐기물 중 특정 품목의 대행에 관한 고시.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -448,7 +453,11 @@
             "source_provision_id": "admrul:생활폐기물중특정품목의대행에관한고시#JO0004",
             "reference_id": "admrul:생활폐기물중특정품목의대행에관한고시#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "생활폐기물 중 특정 품목의 대행에 관한 고시/생활폐기물 중 특정 품목의 대행에 관한 고시.json"
+            "target_git_path_guess": "생활폐기물 중 특정 품목의 대행에 관한 고시/생활폐기물 중 특정 품목의 대행에 관한 고시.json",
+            "target_git_path": "생활폐기물 중 특정 품목의 대행에 관한 고시/생활폐기물 중 특정 품목의 대행에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -715,7 +724,11 @@
             "source_provision_id": "admrul:생활폐기물중특정품목의대행에관한고시#JO0008",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -908,7 +908,8 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:국립마산병원안전보건관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 안전보건관리 규정/국립마산병원 안전보건관리 규정.json"
+            "target_git_path_guess": "국립마산병원 안전보건관리 규정/국립마산병원 안전보건관리 규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1023,7 +1024,8 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:국립마산병원안전보건관리규정#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 안전보건관리 규정/국립마산병원 안전보건관리 규정.json"
+            "target_git_path_guess": "국립마산병원 안전보건관리 규정/국립마산병원 안전보건관리 규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1447,7 +1449,11 @@
             "source_provision_id": "admrul:국립마산병원안전보건관리규정#JO0028",
             "reference_id": "admrul:근골격계부담작업의범위및유해요인조사방법에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "근골격계부담작업의 범위 및 유해요인조사 방법에 관한 고시/근골격계부담작업의 범위 및 유해요인조사 방법에 관한 고시.json"
+            "target_git_path_guess": "근골격계부담작업의 범위 및 유해요인조사 방법에 관한 고시/근골격계부담작업의 범위 및 유해요인조사 방법에 관한 고시.json",
+            "target_git_path": "근골격계부담작업의 범위 및 유해요인조사 방법에 관한 고시/근골격계부담작업의 범위 및 유해요인조사 방법에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1672,7 +1678,11 @@
             "source_provision_id": "admrul:국립마산병원안전보건관리규정#JO0035",
             "reference_id": "admrul:사업장위험성평가에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json"
+            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_git_path": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

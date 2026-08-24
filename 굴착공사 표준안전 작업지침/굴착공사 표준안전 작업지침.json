@@ -182,7 +182,11 @@
             "source_provision_id": "admrul:굴착공사표준안전작업지침#JO0004",
             "reference_id": "admrul:굴착공사표준안전작업지침#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "굴착공사 표준안전 작업지침/굴착공사 표준안전 작업지침.json"
+            "target_git_path_guess": "굴착공사 표준안전 작업지침/굴착공사 표준안전 작업지침.json",
+            "target_git_path": "굴착공사 표준안전 작업지침/굴착공사 표준안전 작업지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -384,7 +388,11 @@
             "source_provision_id": "admrul:굴착공사표준안전작업지침#JO0013",
             "reference_id": "admrul:발파표준안전작업지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "발파 표준안전 작업지침/발파 표준안전 작업지침.json"
+            "target_git_path_guess": "발파 표준안전 작업지침/발파 표준안전 작업지침.json",
+            "target_git_path": "발파 표준안전 작업지침/발파 표준안전 작업지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -593,7 +601,8 @@
             "target_unit": "BYL0011",
             "reference_id": "admrul:굴착공사표준안전작업지침#BYL0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "굴착공사 표준안전 작업지침/굴착공사 표준안전 작업지침.json"
+            "target_git_path_guess": "굴착공사 표준안전 작업지침/굴착공사 표준안전 작업지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

@@ -209,7 +209,8 @@
         "target_unit": "BYL0001",
         "reference_id": "admrul:검찰기에관한규정#BYL0001",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json"
+        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json",
+        "target_missing_unit": true
       },
       {
         "relation_type": "internal_ref",
@@ -229,7 +230,11 @@
         "source_provision_id": "admrul:검찰기에관한규정#DOC",
         "reference_id": "admrul:검찰기에관한규정#JO0004",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json"
+        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json",
+        "target_git_path": "검찰기에 관한 규정/검찰기에 관한 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "internal_ref",
@@ -249,7 +254,11 @@
         "source_provision_id": "admrul:검찰기에관한규정#DOC",
         "reference_id": "admrul:검찰기에관한규정#JO0004",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json"
+        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json",
+        "target_git_path": "검찰기에 관한 규정/검찰기에 관한 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -274,7 +283,8 @@
         "target_unit": "BYL0002",
         "reference_id": "admrul:검찰기에관한규정#BYL0002",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json"
+        "target_git_path_guess": "검찰기에 관한 규정/검찰기에 관한 규정.json",
+        "target_missing_unit": true
       }
     ]
   },
