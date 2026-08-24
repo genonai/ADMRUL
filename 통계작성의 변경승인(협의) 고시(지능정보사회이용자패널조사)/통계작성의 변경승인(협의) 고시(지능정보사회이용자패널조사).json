@@ -59,7 +59,14 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:통계작성의변경승인(협의)고시(지능정보사회이용자패널조사)#DOC"
+        "provision_id": "admrul:통계작성의변경승인(협의)고시(지능정보사회이용자패널조사)#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20260824",
+            "change": "개정",
+            "content": "1. 통계의 명칭 : 지능정보사회이용자패널조사 2. 통계작성기관의 명칭 : 방송미디어통신위원회 3. 통계작성승인(협의)번호 [작성승인(협의)일] : 제164004호 [2022.09.30.] 4. 통계작성의 변경 연월일 : 2026.08.24. 5. 통계작성의 변경 내용과 사유 :[그림]"
+          }
+        ]
       }
     ]
   },
@@ -120,8 +127,10 @@
   "addendum_provision_id": "admrul:통계작성의변경승인(협의)고시(지능정보사회이용자패널조사)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의변경승인(협의)고시(지능정보사회이용자패널조사)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260824"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통계작성의 변경승인(협의) 고시(지능정보사회이용자패널조사)/통계작성의 변경승인(협의) 고시(지능정보사회이용자패널조사).json"
 }
