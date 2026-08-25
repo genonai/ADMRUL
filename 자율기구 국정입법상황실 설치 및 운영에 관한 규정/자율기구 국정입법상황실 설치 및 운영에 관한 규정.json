@@ -154,7 +154,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:자율기구국정입법상황실설치및운영에관한규정#JO0003"
+        "provision_id": "admrul:자율기구국정입법상황실설치및운영에관한규정#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20260825",
+            "change": "개정",
+            "content": "제3조(기능) 국정입법상황실은 다음 각 호의 업무를 수행한다.1. 국정입법전략 및 연도별 입법계획의 수립 및 추진2. 국가정상화 과제 입법계획의 수립 및 관리3. 국정과제 등 주요 정책의 신속한 추진을 위한 입법 형식의 사전 검토 및 조정4. 월별ㆍ분기별 주요 관리대상 법안 등의 국회 심의 대응5. 국정입법계획의 실시간 점검ㆍ관리 및 그 추진 상황의 전파ㆍ공유6. 국정입법과 관련한 긴급 현안 및 입법 지연 우려 사항 대응 등 입법 지원 총괄7. 그 밖에 국정입법전략 추진 관련 관계기관 협의 및 지원에 관한 업무"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -278,7 +285,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:자율기구국정입법상황실설치및운영에관한규정#JO0005"
+        "provision_id": "admrul:자율기구국정입법상황실설치및운영에관한규정#JO0005",
+        "scheduled": [
+          {
+            "enforcement_date": "20260825",
+            "change": "개정",
+            "content": "제5조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령 시행일인 2026년 8월 25일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2027년 2월 24일까지를 말한다)까지 그 효력을 가진다."
+          }
+        ]
       }
     ]
   },
@@ -304,6 +318,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260225"
+    },
+    {
+      "promulgation_date": "20260818",
+      "promulgation_no": "502",
+      "content": "부칙 <제502호, 2026. 8. 18.>이 훈령은 2026년 8월 25일부터 시행한다.",
+      "provision_id": "admrul:자율기구국정입법상황실설치및운영에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000284040",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20260825",
+      "enforcement_date": "20260825"
     }
   ],
   "appendices": [
@@ -383,8 +409,10 @@
   "addendum_provision_id": "admrul:자율기구국정입법상황실설치및운영에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:자율기구국정입법상황실설치및운영에관한규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260825"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "자율기구 국정입법상황실 설치 및 운영에 관한 규정/자율기구 국정입법상황실 설치 및 운영에 관한 규정.json"
 }
