@@ -83808,7 +83808,7 @@
   "doc_type": "행정예규",
   "enforcement_date": "20240205",
   "is_active": true,
-  "last_checked_at": "2026-08-24T15:50:54.037582+00:00",
+  "last_checked_at": "2026-08-24T23:59:35.773774+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "대법원",
   "mst": "2200000104131",
@@ -346540,7 +346540,7 @@
   "version_signature": "410c615b6fb56db4e20586e4960daa5cd389c2489b5a805d5f857251d6fb5b0e"
  },
  "admrul:admrul:72632": {
-  "collected_signature": null,
+  "collected_signature": "fb12ff3759abfd66d5535b06c94106a97e483ae2c1ee9e14925eea44451d52b7",
   "content_hash": "05dedd84543f0e40ce394ef3f156c05bda24d399dd863531c902ba671f2815fd",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000190403&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -346549,8 +346549,8 @@
   "doc_type": "예규",
   "enforcement_date": "20200630",
   "is_active": true,
-  "last_checked_at": "2026-08-24T15:56:11.945269+00:00",
-  "last_collected_at": "2026-08-22T10:26:37.217266+00:00",
+  "last_checked_at": "2026-08-24T23:59:35.825095+00:00",
+  "last_collected_at": "2026-08-24T23:59:36.790444+00:00",
   "last_error": "Child Workflow execution failed",
   "last_git_error": "Cancelled",
   "last_git_error_at": "2026-08-22T10:26:59.346462+00:00",
@@ -346559,7 +346559,7 @@
   "name": "대리점분야 불공정거래행위 심사지침",
   "payload_law_id": "72632",
   "promulgation_date": "20200630",
-  "status": "failed",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fb12ff3759abfd66d5535b06c94106a97e483ae2c1ee9e14925eea44451d52b7"
  },
