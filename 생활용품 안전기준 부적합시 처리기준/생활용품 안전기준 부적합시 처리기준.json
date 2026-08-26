@@ -274,8 +274,10 @@
   "addendum_provision_id": "admrul:생활용품안전기준부적합시처리기준#ADDENDUM",
   "amendment_provision_id": "admrul:생활용품안전기준부적합시처리기준#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260826"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "생활용품 안전기준 부적합시 처리기준/생활용품 안전기준 부적합시 처리기준.json"
 }
