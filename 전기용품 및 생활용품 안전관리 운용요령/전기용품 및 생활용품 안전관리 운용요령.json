@@ -9226,7 +9226,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0069"
+        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0069",
+        "scheduled": [
+          {
+            "enforcement_date": "20260826",
+            "change": "개정",
+            "content": "제69조 삭제"
+          }
+        ]
       },
       {
         "article_no": "제70조",
@@ -10215,7 +10222,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0074"
+        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0074",
+        "scheduled": [
+          {
+            "enforcement_date": "20260826",
+            "change": "개정",
+            "content": "제74조 삭제"
+          }
+        ]
       },
       {
         "article_no": "제75조",
@@ -13562,8 +13576,10 @@
   "addendum_provision_id": "admrul:전기용품및생활용품안전관리운용요령#ADDENDUM",
   "amendment_provision_id": "admrul:전기용품및생활용품안전관리운용요령#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260826"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "전기용품 및 생활용품 안전관리 운용요령/전기용품 및 생활용품 안전관리 운용요령.json"
 }
