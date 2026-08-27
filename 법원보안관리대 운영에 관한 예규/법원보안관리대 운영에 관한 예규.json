@@ -397,7 +397,8 @@
         "target_local_path": "서식/서식1_[별지 제1호서식]_flSeq157375349.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원보안관리대 운영에 관한 예규/서식/서식1_[별지 제1호서식]_flSeq157375349.hwp"
       },
       {
         "relation_type": "citation",
@@ -417,7 +418,9 @@
         "source_provision_id": "admrul:법원보안관리대운영에관한예규#DOC",
         "reference_id": "law:국가공무원법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+        "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+        "target_git_path": "국가공무원법/법률/국가공무원법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -437,7 +440,9 @@
         "source_provision_id": "admrul:법원보안관리대운영에관한예규#DOC",
         "reference_id": "law:청원경찰법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+        "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+        "target_git_path": "청원경찰법/법률/청원경찰법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",

@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0003",
             "reference_id": "law:기상산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json"
+            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_git_path": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0003",
             "reference_id": "law:기상산업진흥법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json"
+            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_git_path": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -177,7 +181,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +203,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -321,7 +329,8 @@
             "target_local_path": "별지/별지1_표준기상관측소 이용요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지1_표준기상관측소 이용요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -351,7 +360,8 @@
             "target_local_path": "별지/별지2_표준기상관측소 연간운영계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지2_표준기상관측소 연간운영계획서.hwp"
           }
         ],
         "images": [],
@@ -417,7 +427,8 @@
             "target_local_path": "별지/별지3_표준기상관측소 이용 (변경, 취소) 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지3_표준기상관측소 이용 (변경, 취소) 요청서.hwp"
           }
         ],
         "images": [],
@@ -459,7 +470,8 @@
             "target_local_path": "별지/별지4_표준기상관측소 이용 세부계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지4_표준기상관측소 이용 세부계획서.hwp"
           },
           {
             "relation_type": "citation",
@@ -479,7 +491,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0009",
             "reference_id": "law:국유재산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json"
+            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_git_path": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -502,9 +516,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0009",
             "target_unit": "BJ0001",
-            "reference_id": "law:국유재산법시행규칙#BJ0001",
+            "reference_id": "law:국유재산법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json"
+            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_git_path": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_git_file_path": "국유재산법/시행규칙/서식/서식1_국유재산(사용허가, 대부, 매수)신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -524,7 +541,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0009",
             "reference_id": "law:국유재산법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -544,7 +563,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0009",
             "reference_id": "law:국유재산특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산특례제한법/법률/국유재산특례제한법.json"
+            "target_git_path_guess": "국유재산특례제한법/법률/국유재산특례제한법.json",
+            "target_git_path": "국유재산특례제한법/법률/국유재산특례제한법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -564,7 +585,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0009",
             "reference_id": "law:기상관측표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json"
+            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_git_path": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -584,7 +607,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0009",
             "reference_id": "law:기상관측표준화법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json"
+            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_git_path": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -865,7 +890,8 @@
             "target_local_path": "별지/별지5_기상관측탑 기계설비 점검일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지5_기상관측탑 기계설비 점검일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -895,7 +921,8 @@
             "target_local_path": "별지/별지6_항공장애 표시등 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지6_항공장애 표시등 점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -925,7 +952,8 @@
             "target_local_path": "별지/별지7_청사 및 관측ㆍ통신장비(지상) 점검일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지7_청사 및 관측ㆍ통신장비(지상) 점검일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -955,7 +983,8 @@
             "target_local_path": "별지/별지8_소방시설 외관 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지8_소방시설 외관 점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -985,7 +1014,8 @@
             "target_local_path": "별지/별지9_기상관측탑 접지저항 점검기록표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지9_기상관측탑 접지저항 점검기록표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1015,7 +1045,8 @@
             "target_local_path": "별지/별지10_청사 및 관측·통신장비(지상) 점검일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지10_청사 및 관측·통신장비(지상) 점검일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1045,7 +1076,8 @@
             "target_local_path": "별지/별지8_소방시설 외관 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지8_소방시설 외관 점검표.hwp"
           }
         ],
         "images": [],
@@ -1077,7 +1109,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0015",
             "reference_id": "law:전기안전관리법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1097,7 +1131,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0015",
             "reference_id": "law:전기안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/시행규칙/전기안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기안전관리법/시행규칙/전기안전관리법 시행규칙.json",
+            "target_git_path": "전기안전관리법/시행규칙/전기안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1117,7 +1153,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0015",
             "reference_id": "law:전기안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/시행규칙/전기안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기안전관리법/시행규칙/전기안전관리법 시행규칙.json",
+            "target_git_path": "전기안전관리법/시행규칙/전기안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1137,7 +1175,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0015",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1157,7 +1197,9 @@
             "source_provision_id": "admrul:표준기상관측소운영규정#JO0015",
             "reference_id": "law:산업안전보건법시행령#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1221,7 +1263,8 @@
             "target_local_path": "별지/별지11_기상관측장비 장애 조치 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지11_기상관측장비 장애 조치 보고서.hwp"
           }
         ],
         "images": [],
@@ -1274,7 +1317,8 @@
             "target_local_path": "별지/별지12_기상관측장비 운용 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지12_기상관측장비 운용 보고서.hwp"
           }
         ],
         "images": [],
@@ -1428,7 +1472,8 @@
             "target_local_path": "별지/별지5_기상관측탑 기계설비 점검일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지5_기상관측탑 기계설비 점검일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1458,7 +1503,8 @@
             "target_local_path": "별지/별지9_기상관측탑 접지저항 점검기록표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지9_기상관측탑 접지저항 점검기록표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1488,7 +1534,8 @@
             "target_local_path": "별표/별표1_기상관측탑 리프트 운행 준수사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별표/별표1_기상관측탑 리프트 운행 준수사항.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1542,7 +1589,8 @@
             "target_local_path": "별지/별지13_기상관측탑 리프트 탑승자 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지13_기상관측탑 리프트 탑승자 서약서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1620,7 +1668,8 @@
             "target_local_path": "별표/별표2_기상관측탑 작업자 및 리프트 탑승자 준수사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별표/별표2_기상관측탑 작업자 및 리프트 탑승자 준수사항.hwp"
           }
         ],
         "images": [],
@@ -1708,7 +1757,8 @@
             "target_local_path": "별지/별지14_방문자 출입 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준기상관측소 운영 규정/별지/별지14_방문자 출입 기록부.hwp"
           }
         ],
         "images": [],

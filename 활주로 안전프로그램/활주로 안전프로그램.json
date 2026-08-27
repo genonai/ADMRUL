@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0001",
             "reference_id": "law:항공안전법#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0001",
             "reference_id": "law:항공안전법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0162",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0226",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0248",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -210,7 +222,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0003",
             "reference_id": "law:인천국제공항공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인천국제공항공사법/법률/인천국제공항공사법.json"
+            "target_git_path_guess": "인천국제공항공사법/법률/인천국제공항공사법.json",
+            "target_git_path": "인천국제공항공사법/법률/인천국제공항공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -230,7 +244,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0003",
             "reference_id": "law:한국공항공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국공항공사법/법률/한국공항공사법.json"
+            "target_git_path_guess": "한국공항공사법/법률/한국공항공사법.json",
+            "target_git_path": "한국공항공사법/법률/한국공항공사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -414,7 +430,8 @@
             "target_local_path": "별표/별표1_활주로 침범예방 점검표(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "활주로 안전프로그램/별표/별표1_활주로 침범예방 점검표(예시).hwp"
           }
         ],
         "images": [],
@@ -563,7 +580,8 @@
             "target_local_path": "별표/별표5_활주로 침범 분류.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "활주로 안전프로그램/별표/별표5_활주로 침범 분류.hwp"
           }
         ],
         "images": [],
@@ -704,7 +722,8 @@
             "target_local_path": "별표/별표2_활주로 침범예방 및 지상운용을 위한 표준운영절차 표본.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "활주로 안전프로그램/별표/별표2_활주로 침범예방 및 지상운용을 위한 표준운영절차 표본.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -734,7 +753,8 @@
             "target_local_path": "별표/별표3_활주로 침범 예방 소개.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "활주로 안전프로그램/별표/별표3_활주로 침범 예방 소개.hwp"
           }
         ],
         "images": [],
@@ -951,7 +971,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0031",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -981,7 +1003,8 @@
             "target_local_path": "별표/별표2_활주로 침범예방 및 지상운용을 위한 표준운영절차 표본.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "활주로 안전프로그램/별표/별표2_활주로 침범예방 및 지상운용을 위한 표준운영절차 표본.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1027,7 +1050,9 @@
             "source_provision_id": "admrul:활주로안전프로그램#JO0031",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

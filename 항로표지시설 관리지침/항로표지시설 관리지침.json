@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0001",
             "reference_id": "law:항로표지법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0001",
             "reference_id": "law:항로표지법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0001",
             "reference_id": "law:항로표지법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json"
+            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_git_path": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0001",
             "reference_id": "law:항로표지법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json"
+            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_git_path": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0002",
             "reference_id": "law:항로표지법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json"
+            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_git_path": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0002",
             "reference_id": "law:항로표지법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json"
+            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_git_path": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -244,7 +256,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0006",
             "reference_id": "law:항로표지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -264,7 +278,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0006",
             "reference_id": "law:항로표지법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -294,7 +310,8 @@
             "target_local_path": "별표/별표7_항로표지 관리등급 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표7_항로표지 관리등급 기준.hwp"
           }
         ],
         "images": [],
@@ -347,7 +364,8 @@
             "target_local_path": "별표/별표1_유인등대 건축물의 부분별 관리요령.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표1_유인등대 건축물의 부분별 관리요령.hwp"
           }
         ],
         "images": [],
@@ -389,7 +407,8 @@
             "target_local_path": "별표/별표2_전기설비기준 및 점검요령.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표2_전기설비기준 및 점검요령.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -419,7 +438,8 @@
             "target_local_path": "별표/별표3_축전지 취급방법 및 주의사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표3_축전지 취급방법 및 주의사항.hwp"
           }
         ],
         "images": [],
@@ -461,7 +481,8 @@
             "target_local_path": "별표/별표7_항로표지 관리등급 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표7_항로표지 관리등급 기준.hwp"
           }
         ],
         "images": [],
@@ -503,7 +524,8 @@
             "target_local_path": "별표/별표4_무인표지 현황(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표4_무인표지 현황(제11조 관련).hwp"
           }
         ],
         "images": [],
@@ -578,7 +600,8 @@
             "target_local_path": "별표/별표5_예비표지용품 보유기준(제15조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표5_예비표지용품 보유기준(제15조 관련).hwp"
           }
         ],
         "images": [],
@@ -620,7 +643,8 @@
             "target_local_path": "별표/별표6_항로표지시설 장비용품 내용연수.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표6_항로표지시설 장비용품 내용연수.hwp"
           },
           {
             "relation_type": "citation",
@@ -767,7 +791,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0023",
             "reference_id": "law:항로표지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -787,7 +813,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0023",
             "reference_id": "law:항로표지법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json"
+            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_git_path": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -807,7 +835,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0023",
             "reference_id": "law:항로표지법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json"
+            "target_git_path_guess": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_git_path": "항로표지법/시행규칙/항로표지법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -861,7 +891,9 @@
             "source_provision_id": "admrul:항로표지시설관리지침#JO0026",
             "reference_id": "law:시설물의안전및유지관리에관한특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/시행령/시설물의 안전 및 유지관리에 관한 특별법 시행령.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/시행령/시설물의 안전 및 유지관리에 관한 특별법 시행령.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/시행령/시설물의 안전 및 유지관리에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -903,7 +935,8 @@
             "target_local_path": "별표/별표8_항로표지시설물 정기점검 결과표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표8_항로표지시설물 정기점검 결과표.hwp"
           }
         ],
         "images": [],
@@ -945,7 +978,8 @@
             "target_local_path": "별표/별표9_항로표지시설물의 안전등급.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표9_항로표지시설물의 안전등급.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -975,7 +1009,8 @@
             "target_local_path": "별표/별표10_항로표지시설물의 상태평가 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항로표지시설 관리지침/별표/별표10_항로표지시설물의 상태평가 기준.hwp"
           }
         ],
         "images": [],
@@ -1195,7 +1230,8 @@
             "target_local_path": "별지/별지2_무인비행장치 월간·분기별 운용실적.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산부 무인비행장치 운용지침/별지/별지2_무인비행장치 월간·분기별 운용실적.hwp"
           }
         ],
         "images": [],

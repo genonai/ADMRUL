@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:질병관리청주거용재산관리규정#JO0001",
             "reference_id": "law:국유재산법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:질병관리청주거용재산관리규정#JO0001",
             "reference_id": "law:국유재산법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:질병관리청주거용재산관리규정#JO0002",
             "reference_id": "law:국유재산법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -163,7 +169,9 @@
             "source_provision_id": "admrul:질병관리청주거용재산관리규정#JO0002",
             "reference_id": "law:국유재산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json"
+            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_git_path": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -267,7 +275,9 @@
             "source_provision_id": "admrul:질병관리청주거용재산관리규정#JO0003",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -415,7 +425,8 @@
             "target_local_path": "별지/별지4_공무원 주거용 행정재산 신청자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "질병관리청 주거용 재산 관리규정/별지/별지4_공무원 주거용 행정재산 신청자 명부.hwp"
           }
         ],
         "images": [],
@@ -515,7 +526,8 @@
             "target_local_path": "별지/별지1_공무원 주거용 재산 대부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "질병관리청 주거용 재산 관리규정/별지/별지1_공무원 주거용 재산 대부 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,7 +557,8 @@
             "target_local_path": "별지/별지3_공무원 주거용 재산 대부계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "질병관리청 주거용 재산 관리규정/별지/별지3_공무원 주거용 재산 대부계약서.hwp"
           }
         ],
         "images": [],
@@ -642,7 +655,8 @@
             "target_local_path": "별지/별지2_공무원 주거용 재산 퇴거 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "질병관리청 주거용 재산 관리규정/별지/별지2_공무원 주거용 재산 퇴거 신청서.hwp"
           }
         ],
         "images": [],
@@ -750,7 +764,8 @@
             "target_local_path": "별지/별지5_공무원 주거용 재산 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "질병관리청 주거용 재산 관리규정/별지/별지5_공무원 주거용 재산 관리대장.hwp"
           }
         ],
         "images": [],

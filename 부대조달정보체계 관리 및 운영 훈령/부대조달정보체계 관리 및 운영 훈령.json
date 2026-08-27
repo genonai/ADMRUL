@@ -434,7 +434,8 @@
             "target_local_path": "별지/별지1_유지보수 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "부대조달정보체계 관리 및 운영 훈령/별지/별지1_유지보수 요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -464,7 +465,8 @@
             "target_local_path": "별표/별표1_유지보수 절차도(제18조 제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "부대조달정보체계 관리 및 운영 훈령/별표/별표1_유지보수 절차도(제18조 제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -554,7 +556,9 @@
             "source_provision_id": "admrul:부대조달정보체계관리및운영훈령#JO0022",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

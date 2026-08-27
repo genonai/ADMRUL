@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:퇴직연금제도취급실적제출주기와제출서식에관한규정#JO0001",
             "reference_id": "law:근로자퇴직급여보장법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:퇴직연금제도취급실적제출주기와제출서식에관한규정#JO0001",
             "reference_id": "law:근로자퇴직급여보장법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_git_path": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:퇴직연금제도취급실적제출주기와제출서식에관한규정#JO0001",
             "reference_id": "law:근로자퇴직급여보장법시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_git_path": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:퇴직연금제도취급실적제출주기와제출서식에관한규정#JO0002",
             "reference_id": "law:근로자퇴직급여보장법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_git_path": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:퇴직연금제도취급실적제출주기와제출서식에관한규정#JO0002",
             "reference_id": "law:근로자퇴직급여보장법시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_git_path": "근로자퇴직급여 보장법/시행규칙/근로자퇴직급여 보장법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -189,7 +199,8 @@
             "target_local_path": "서식/서식1_사용자에게 제출하는 취급실적 서식(제2조제1호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "퇴직연금제도 취급실적 제출주기와 제출서식에 관한 규정/서식/서식1_사용자에게 제출하는 취급실적 서식(제2조제1호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -219,7 +230,8 @@
             "target_local_path": "서식/서식2_고용노동부장관에게 제출하는 퇴직연금 취급실적 서식(제2조제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "퇴직연금제도 취급실적 제출주기와 제출서식에 관한 규정/서식/서식2_고용노동부장관에게 제출하는 퇴직연금 취급실적 서식(제2조제2호 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -309,7 +321,8 @@
             "target_local_path": "별표/별표1_취급실적별 제출주기(제3조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "퇴직연금제도 취급실적 제출주기와 제출서식에 관한 규정/별표/별표1_취급실적별 제출주기(제3조제1항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -329,7 +342,9 @@
             "source_provision_id": "admrul:퇴직연금제도취급실적제출주기와제출서식에관한규정#JO0003",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

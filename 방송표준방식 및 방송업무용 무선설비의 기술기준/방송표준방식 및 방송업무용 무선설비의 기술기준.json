@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#JO0001",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#JO0001",
             "reference_id": "law:전파법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#JO0001",
             "reference_id": "law:전파법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,9 +131,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#JO0001",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,9 +153,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제19조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#JO0001",
-            "reference_id": "admrul:무선설비규칙#JO0019",
+            "reference_id": "law:무선설비규칙#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -190,7 +200,9 @@
             "source_provision_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#JO0003",
             "reference_id": "law:전파법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행령/전파법 시행령.json"
+            "target_git_path_guess": "전파법/시행령/전파법 시행령.json",
+            "target_git_path": "전파법/시행령/전파법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -208,9 +220,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#JO0003",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -274,7 +288,8 @@
             "target_local_path": "별표/별표1_스테레오포닉방송의 종합주파수특성 허용범위(제6조제1항제8호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표1_스테레오포닉방송의 종합주파수특성 허용범위(제6조제1항제8호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -304,7 +319,8 @@
             "target_local_path": "별표/별표2_중파(AM)방송용 채널(제6조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표2_중파(AM)방송용 채널(제6조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -334,7 +350,8 @@
             "target_local_path": "별표/별표2_중파(AM)방송용 채널(제6조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표2_중파(AM)방송용 채널(제6조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -364,7 +381,8 @@
             "target_local_path": "별표/별표2_중파(AM)방송용 채널(제6조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표2_중파(AM)방송용 채널(제6조제2항 관련).hwp"
           }
         ],
         "images": [
@@ -425,7 +443,8 @@
             "target_local_path": "별표/별표3_표준프리엠파시스곡선(제7조제1항제8호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표3_표준프리엠파시스곡선(제7조제1항제8호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -455,7 +474,8 @@
             "target_local_path": "별표/별표4_부반송파 신호를 포함한 초단파(FM) 모노포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표4_부반송파 신호를 포함한 초단파(FM) 모노포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호가목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -485,7 +505,8 @@
             "target_local_path": "별표/별표5_부반송파 신호를 포함한 초단파(FM) 스테레오포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호나목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표5_부반송파 신호를 포함한 초단파(FM) 스테레오포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호나목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -515,7 +536,8 @@
             "target_local_path": "별표/별표4_부반송파 신호를 포함한 초단파(FM) 모노포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표4_부반송파 신호를 포함한 초단파(FM) 모노포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호가목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,7 +567,8 @@
             "target_local_path": "별표/별표5_부반송파 신호를 포함한 초단파(FM) 스테레오포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호나목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표5_부반송파 신호를 포함한 초단파(FM) 스테레오포닉방송의 주파수배열(제7조제1항제14호나목 및 제1항제15호나목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -575,7 +598,8 @@
             "target_local_path": "별표/별표6_초단파(FM) 모노포닉방송의 주파수배열(제7조제1항제15호다목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표6_초단파(FM) 모노포닉방송의 주파수배열(제7조제1항제15호다목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -605,7 +629,8 @@
             "target_local_path": "별표/별표7_초단파(FM) 스테레오포닉방송의 주파수배열(제7조제1항제15호라목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표7_초단파(FM) 스테레오포닉방송의 주파수배열(제7조제1항제15호라목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -635,7 +660,8 @@
             "target_local_path": "별표/별표8_초단파(FM)방송용 채널(제7조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표8_초단파(FM)방송용 채널(제7조제3항 관련).hwp"
           }
         ],
         "images": [
@@ -723,7 +749,8 @@
             "target_local_path": "별표/별표9_디지털 지상파 방송에 적용되는 한글 자막 기본 문자표(제9조제1항제3호다목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표9_디지털 지상파 방송에 적용되는 한글 자막 기본 문자표(제9조제1항제3호다목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -753,7 +780,8 @@
             "target_local_path": "별표/별표10_대역외발사강도의 허용범위(제9조제1항제9호사목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표10_대역외발사강도의 허용범위(제9조제1항제9호사목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -783,7 +811,8 @@
             "target_local_path": "별표/별표12_첨두전력대 평균전력비의 허용범위(제9조제1항제9호사목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표12_첨두전력대 평균전력비의 허용범위(제9조제1항제9호사목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -813,7 +842,8 @@
             "target_local_path": "별표/별표13_지상파 디지털 텔레비전 방송용 채널(제9조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표13_지상파 디지털 텔레비전 방송용 채널(제9조제3항 관련).hwp"
           }
         ],
         "images": [
@@ -913,7 +943,8 @@
             "target_local_path": "별표/별표14_대역외발사강도의 허용범위(1)(제11조제1항제8호바목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표14_대역외발사강도의 허용범위(1)(제11조제1항제8호바목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -943,7 +974,8 @@
             "target_local_path": "별표/별표15_대역외발사강도의 허용범위(2)(제11조제1항제8호바목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표15_대역외발사강도의 허용범위(2)(제11조제1항제8호바목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -973,7 +1005,8 @@
             "target_local_path": "별표/별표16_신호대 잡음비(제11조제1항제8호바목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표16_신호대 잡음비(제11조제1항제8호바목 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1051,7 +1084,8 @@
             "target_local_path": "별표/별표17_대역외발사강도의 허용범위(3)(제11조제2항제4호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표17_대역외발사강도의 허용범위(3)(제11조제2항제4호가목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1081,7 +1115,8 @@
             "target_local_path": "별표/별표18_지상파 디지털 멀티미디어 방송(DMB)용 채널(제11조제2항제4호가목 및 제11조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표18_지상파 디지털 멀티미디어 방송(DMB)용 채널(제11조제2항제4호가목 및 제11조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1111,7 +1146,8 @@
             "target_local_path": "별표/별표19_대역외발사강도의 허용범위(4)(제11조제2항제4호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표19_대역외발사강도의 허용범위(4)(제11조제2항제4호가목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1141,7 +1177,8 @@
             "target_local_path": "별표/별표18_지상파 디지털 멀티미디어 방송(DMB)용 채널(제11조제2항제4호가목 및 제11조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표18_지상파 디지털 멀티미디어 방송(DMB)용 채널(제11조제2항제4호가목 및 제11조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -1213,7 +1250,8 @@
             "target_local_path": "별표/별표20_대역외 발사강도의 허용범위(제13조제2항4호가목(4) 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표20_대역외 발사강도의 허용범위(제13조제2항4호가목(4) 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1243,7 +1281,8 @@
             "target_local_path": "별표/별표21_대역외발사강도의 허용범위(제13조제2항4호나목(4) 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표21_대역외발사강도의 허용범위(제13조제2항4호나목(4) 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1273,7 +1312,8 @@
             "target_local_path": "별표/별표22_스퓨리어스영역 불요발사의 허용범위(제13조제2항제5호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/별표/별표22_스퓨리어스영역 불요발사의 허용범위(제13조제2항제5호 관련).hwp"
           },
           {
             "relation_type": "internal_ref",

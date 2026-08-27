@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0001",
             "reference_id": "law:공공감사에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#JO0013_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0001",
             "reference_id": "law:중앙행정기관및지방자치단체자체감사기준#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json"
+            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_git_path": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0001",
             "reference_id": "law:중앙행정기관및지방자치단체자체감사기준#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json"
+            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_git_path": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -345,7 +357,8 @@
             "target_local_path": "별지/별지1_일상감사 신청서 (계약업무).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 일상감사 실시규정/별지/별지1_일상감사 신청서 (계약업무).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -375,7 +388,8 @@
             "target_local_path": "별지/별지2_일상감사 신청서 (정책사업·규제업무).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 일상감사 실시규정/별지/별지2_일상감사 신청서 (정책사업·규제업무).hwp"
           }
         ],
         "images": [],
@@ -417,7 +431,8 @@
             "target_local_path": "별지/별지3_일상감사 처리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 일상감사 실시규정/별지/별지3_일상감사 처리 대장.hwp"
           }
         ],
         "images": [],
@@ -470,7 +485,8 @@
             "target_local_path": "별지/별지4_일상감사 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 일상감사 실시규정/별지/별지4_일상감사 의견서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -536,7 +552,8 @@
             "target_local_path": "별지/별지5_일상감사 의견에 대한 조치결과 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 일상감사 실시규정/별지/별지5_일상감사 의견에 대한 조치결과 통보서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -638,7 +655,8 @@
             "target_local_path": "별지/별지3_일상감사 처리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 일상감사 실시규정/별지/별지3_일상감사 처리 대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -658,7 +676,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0014",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -678,7 +698,9 @@
             "source_provision_id": "admrul:보건복지부일상감사실시규정#JO0014",
             "reference_id": "law:공공감사에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

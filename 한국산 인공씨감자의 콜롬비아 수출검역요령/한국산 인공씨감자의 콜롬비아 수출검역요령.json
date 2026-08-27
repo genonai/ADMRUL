@@ -99,7 +99,8 @@
             "target_local_path": "별지/별지1_콜롬비아 수출용 인공씨감자 생산시설(업체) 승인신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 인공씨감자의 콜롬비아 수출검역요령/별지/별지1_콜롬비아 수출용 인공씨감자 생산시설(업체) 승인신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -129,7 +130,8 @@
             "target_local_path": "별지/별지2_콜롬비아 수출용 인공씨감자 생산시설(업체) 승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 인공씨감자의 콜롬비아 수출검역요령/별지/별지2_콜롬비아 수출용 인공씨감자 생산시설(업체) 승인서.hwp"
           }
         ],
         "images": [],
@@ -183,7 +185,9 @@
             "source_provision_id": "admrul:한국산인공씨감자의콜롬비아수출검역요령#JO0006",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -206,9 +210,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산인공씨감자의콜롬비아수출검역요령#JO0006",
             "target_unit": "BJ0025",
-            "reference_id": "law:식물방역법시행규칙#BJ0025",
+            "reference_id": "law:식물방역법시행규칙#FORM0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식25_수출식물 검역신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -228,7 +235,9 @@
             "source_provision_id": "admrul:한국산인공씨감자의콜롬비아수출검역요령#JO0006",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -251,9 +260,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산인공씨감자의콜롬비아수출검역요령#JO0006",
             "target_unit": "BJ0026",
-            "reference_id": "law:식물방역법시행규칙#BJ0026",
+            "reference_id": "law:식물방역법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식26_수출식물검역증명서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

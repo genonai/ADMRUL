@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0001",
             "reference_id": "law:교통안전법#JO0056_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/법률/교통안전법.json"
+            "target_git_path_guess": "교통안전법/법률/교통안전법.json",
+            "target_git_path": "교통안전법/법률/교통안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0001",
             "reference_id": "law:교통안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/시행규칙/교통안전법 시행규칙.json"
+            "target_git_path_guess": "교통안전법/시행규칙/교통안전법 시행규칙.json",
+            "target_git_path": "교통안전법/시행규칙/교통안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0001",
             "reference_id": "law:교통안전법시행규칙#JO0031_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/시행규칙/교통안전법 시행규칙.json"
+            "target_git_path_guess": "교통안전법/시행규칙/교통안전법 시행규칙.json",
+            "target_git_path": "교통안전법/시행규칙/교통안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0002",
             "reference_id": "law:교통안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json"
+            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_git_path": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0002",
             "reference_id": "law:교통안전법시행령#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json"
+            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_git_path": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0002",
             "reference_id": "law:교통안전법#JO0056_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/법률/교통안전법.json"
+            "target_git_path_guess": "교통안전법/법률/교통안전법.json",
+            "target_git_path": "교통안전법/법률/교통안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -243,7 +255,8 @@
             "target_local_path": "별표/별표1_교통안전 전문교육의 교육과목 및 이수시간(제5조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교통안전 전문교육 실시 등에 관한 고시/별표/별표1_교통안전 전문교육의 교육과목 및 이수시간(제5조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -343,7 +356,8 @@
             "target_local_path": "별지/별지1_교통안전 전문교육 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교통안전 전문교육 실시 등에 관한 고시/별지/별지1_교통안전 전문교육 신청서.hwp"
           }
         ],
         "images": [],
@@ -385,7 +399,8 @@
             "target_local_path": "별지/별지2_수료증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교통안전 전문교육 실시 등에 관한 고시/별지/별지2_수료증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -415,7 +430,8 @@
             "target_local_path": "별지/별지3_교통안전 전문교육 수료증 발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교통안전 전문교육 실시 등에 관한 고시/별지/별지3_교통안전 전문교육 수료증 발급대장.hwp"
           }
         ],
         "images": [],
@@ -447,7 +463,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0011",
             "reference_id": "law:교통안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json"
+            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_git_path": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -467,7 +485,9 @@
             "source_provision_id": "admrul:교통안전전문교육실시등에관한고시#JO0011",
             "reference_id": "law:교통안전법시행령#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json"
+            "target_git_path_guess": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_git_path": "교통안전법/시행령/교통안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

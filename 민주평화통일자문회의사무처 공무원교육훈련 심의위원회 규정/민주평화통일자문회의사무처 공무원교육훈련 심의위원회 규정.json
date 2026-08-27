@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:민주평화통일자문회의사무처공무원교육훈련심의위원회규정#JO0001",
             "reference_id": "law:공무원인재개발법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:민주평화통일자문회의사무처공무원교육훈련심의위원회규정#JO0001",
             "reference_id": "law:공무원인재개발법시행령#JO0032_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -175,7 +179,8 @@
             "target_local_path": "별지/별지1_국외훈련심의위원회 심의의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "민주평화통일자문회의사무처 공무원교육훈련 심의위원회 규정/별지/별지1_국외훈련심의위원회 심의의결서.hwp"
           }
         ],
         "images": [],

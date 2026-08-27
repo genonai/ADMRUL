@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:비상소화장치의설치및관리기준#JO0002",
             "reference_id": "law:소방기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:비상소화장치의설치및관리기준#JO0002",
             "reference_id": "law:소방기본법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -307,7 +311,9 @@
             "source_provision_id": "admrul:비상소화장치의설치및관리기준#JO0010",
             "reference_id": "law:소방기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json"
+            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_git_path": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -327,7 +333,9 @@
             "source_provision_id": "admrul:비상소화장치의설치및관리기준#JO0010",
             "reference_id": "law:소방기본법시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json"
+            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_git_path": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -357,7 +365,8 @@
             "target_local_path": "별지/별지1_비상소화장치 조사부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "비상소화장치의 설치 및 관리 기준/별지/별지1_비상소화장치 조사부.hwp"
           }
         ],
         "images": [],

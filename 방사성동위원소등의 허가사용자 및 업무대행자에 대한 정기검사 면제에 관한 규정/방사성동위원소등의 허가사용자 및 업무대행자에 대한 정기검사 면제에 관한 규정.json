@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방사성동위원소등의허가사용자및업무대행자에대한정기검사면제에관한규정#JO0001",
             "reference_id": "law:원자력안전법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:방사성동위원소등의허가사용자및업무대행자에대한정기검사면제에관한규정#JO0001",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:방사성동위원소등의허가사용자및업무대행자에대한정기검사면제에관한규정#JO0001",
             "reference_id": "law:원자력안전법시행령#JO0089",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -196,7 +202,8 @@
             "target_local_path": "별표/별표1_허가사용자의 안전관리실적 평가표(제4조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성동위원소등의 허가사용자 및 업무대행자에 대한 정기검사 면제에 관한 규정/별표/별표1_허가사용자의 안전관리실적 평가표(제4조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -226,7 +233,8 @@
             "target_local_path": "별표/별표2_업무대행자의 안전관리실적 평가표(제4조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성동위원소등의 허가사용자 및 업무대행자에 대한 정기검사 면제에 관한 규정/별표/별표2_업무대행자의 안전관리실적 평가표(제4조 관련).hwp"
           }
         ],
         "images": [],

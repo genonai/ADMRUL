@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:농촌진흥청특별승급제도운영지침#JO0002",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -199,7 +201,8 @@
             "target_local_path": "서식/서식1_공무원 특별승급 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 특별승급제도 운영지침/서식/서식1_공무원 특별승급 추천서.hwp"
           }
         ],
         "images": [],
@@ -265,7 +268,8 @@
             "target_local_path": "서식/서식2_특별승급 대상자 다면 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 특별승급제도 운영지침/서식/서식2_특별승급 대상자 다면 평가표.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -355,7 +359,8 @@
             "target_local_path": "서식/서식3_특별승급심사 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 특별승급제도 운영지침/서식/서식3_특별승급심사 평가표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -385,7 +390,8 @@
             "target_local_path": "서식/서식4_특별승급심사 총괄표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 특별승급제도 운영지침/서식/서식4_특별승급심사 총괄표.hwp"
           }
         ],
         "images": [],
@@ -475,7 +481,8 @@
             "target_local_path": "서식/서식5_특별승급 심사결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 특별승급제도 운영지침/서식/서식5_특별승급 심사결정서.hwp"
           }
         ],
         "images": [],
@@ -517,7 +524,8 @@
             "target_local_path": "서식/서식6_특별승급 실시결과 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 특별승급제도 운영지침/서식/서식6_특별승급 실시결과 통보서.hwp"
           }
         ],
         "images": [],

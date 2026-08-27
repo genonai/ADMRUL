@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0002",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0002",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -174,7 +178,9 @@
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0003",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -194,7 +200,9 @@
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0003",
             "reference_id": "law:전파법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -226,7 +234,9 @@
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0004",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -246,7 +256,9 @@
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0004",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -344,7 +356,8 @@
             "target_local_path": "별지/별지2_무선전보 송·수신지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산통신 운영·관리 훈령/별지/별지2_무선전보 송·수신지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -374,7 +387,8 @@
             "target_local_path": "별지/별지4_통신보안일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산통신 운영·관리 훈령/별지/별지4_통신보안일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -404,7 +418,8 @@
             "target_local_path": "별지/별지7_통신 실적보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산통신 운영·관리 훈령/별지/별지7_통신 실적보고.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -434,7 +449,8 @@
             "target_local_path": "별지/별지8_운영 실적보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산통신 운영·관리 훈령/별지/별지8_운영 실적보고.hwp"
           }
         ],
         "images": [],
@@ -531,7 +547,8 @@
             "target_local_path": "별지/별지5_통신장비 이력카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산통신 운영·관리 훈령/별지/별지5_통신장비 이력카드.hwp"
           },
           {
             "relation_type": "citation",
@@ -551,7 +568,9 @@
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0010",
             "reference_id": "law:정보통신공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json"
+            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_git_path": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -592,9 +611,11 @@
             "target_url": "https://www.law.go.kr/법령/어선안전조업법",
             "resolve_method": "html",
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0012",
-            "reference_id": "law:어선안전조업법#DOC",
+            "reference_id": "law:어선안전조업및어선원의안전보건증진등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선안전조업법/법률/어선안전조업법.json"
+            "target_git_path_guess": "어선안전조업법/법률/어선안전조업법.json",
+            "target_git_path": "어선안전조업 및 어선원의 안전ㆍ보건 증진 등에 관한 법률/법률/어선안전조업 및 어선원의 안전ㆍ보건 증진 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -612,9 +633,11 @@
             "target_url": "https://www.law.go.kr/법령/어선안전조업법/제19조",
             "resolve_method": "html",
             "source_provision_id": "admrul:수산통신운영관리훈령#JO0012",
-            "reference_id": "law:어선안전조업법#JO0019",
+            "reference_id": "law:어선안전조업및어선원의안전보건증진등에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선안전조업법/법률/어선안전조업법.json"
+            "target_git_path_guess": "어선안전조업법/법률/어선안전조업법.json",
+            "target_git_path": "어선안전조업 및 어선원의 안전ㆍ보건 증진 등에 관한 법률/법률/어선안전조업 및 어선원의 안전ㆍ보건 증진 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -667,7 +690,8 @@
             "target_local_path": "별지/별지7_통신 실적보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산통신 운영·관리 훈령/별지/별지7_통신 실적보고.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -697,7 +721,8 @@
             "target_local_path": "별지/별지8_운영 실적보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산통신 운영·관리 훈령/별지/별지8_운영 실적보고.hwp"
           }
         ],
         "images": [],

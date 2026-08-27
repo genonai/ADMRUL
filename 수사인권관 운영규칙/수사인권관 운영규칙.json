@@ -256,7 +256,9 @@
             "source_provision_id": "admrul:수사인권관운영규칙#JO0005",
             "reference_id": "law:해양경찰청소속경찰공무원임용에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -309,7 +311,8 @@
             "target_local_path": "별지/별지1_수사인권관 기피신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수사인권관 운영규칙/별지/별지1_수사인권관 기피신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -495,7 +498,8 @@
             "target_local_path": "별지/별지2_수사인권관 회피신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수사인권관 운영규칙/별지/별지2_수사인권관 회피신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -572,7 +576,8 @@
             "target_local_path": "별지/별지3_수사인권관 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수사인권관 운영규칙/별지/별지3_수사인권관 증명서.hwp"
           }
         ],
         "images": [],
@@ -698,7 +703,8 @@
             "target_local_path": "별지/별지4_해양경찰청 수사인권 활동 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수사인권관 운영규칙/별지/별지4_해양경찰청 수사인권 활동 현황.hwp"
           }
         ],
         "images": [],

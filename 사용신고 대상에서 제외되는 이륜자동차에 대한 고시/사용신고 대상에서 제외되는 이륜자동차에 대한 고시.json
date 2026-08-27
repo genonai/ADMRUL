@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:사용신고대상에서제외되는이륜자동차에대한고시#JO0001",
             "reference_id": "law:자동차관리법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:사용신고대상에서제외되는이륜자동차에대한고시#JO0001",
             "reference_id": "law:자동차관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json"
+            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_path": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:사용신고대상에서제외되는이륜자동차에대한고시#JO0001",
             "reference_id": "law:자동차관리법시행규칙#JO0098_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json"
+            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_path": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:사용신고대상에서제외되는이륜자동차에대한고시#JO0002",
             "reference_id": "law:자동차관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json"
+            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_path": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:사용신고대상에서제외되는이륜자동차에대한고시#JO0002",
             "reference_id": "law:자동차관리법시행규칙#JO0098_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json"
+            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_path": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -191,7 +201,9 @@
             "source_provision_id": "admrul:사용신고대상에서제외되는이륜자동차에대한고시#JO0003",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -221,7 +233,8 @@
             "target_local_path": "서식/서식1_소유사실확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사용신고 대상에서 제외되는 이륜자동차에 대한 고시/서식/서식1_소유사실확인서.hwp"
           }
         ],
         "images": [],

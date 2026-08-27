@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:한국산수삼의미국수출검역요령#JO0001",
             "reference_id": "law:식물방역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:한국산수삼의미국수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:한국산수삼의미국수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -242,7 +248,8 @@
             "target_local_path": "별지/별지1_한국산 수삼의 미국 수출검역단지 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지1_한국산 수삼의 미국 수출검역단지 목록.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -368,7 +375,8 @@
             "target_local_path": "별지/별지5_시정조치 이행 확인 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지5_시정조치 이행 확인 결과서.hwp"
           }
         ],
         "images": [],
@@ -529,7 +537,8 @@
             "target_local_path": "별지/별지2_미국 수출 수삼 선과장 반입 확인 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지2_미국 수출 수삼 선과장 반입 확인 대장.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -655,7 +664,8 @@
             "target_local_path": "별지/별지3_미국 수출용 수삼 검역 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지3_미국 수출용 수삼 검역 결과.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -747,7 +757,9 @@
             "source_provision_id": "admrul:한국산수삼의미국수출검역요령#JO0013",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -770,9 +782,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산수삼의미국수출검역요령#JO0013",
             "target_unit": "BJ0026",
-            "reference_id": "law:식물방역법시행규칙#BJ0026",
+            "reference_id": "law:식물방역법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식26_수출식물검역증명서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -898,7 +913,8 @@
             "target_local_path": "별지/별지4_시정조치 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지4_시정조치 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -928,7 +944,8 @@
             "target_local_path": "별지/별지5_시정조치 이행 확인 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지5_시정조치 이행 확인 결과서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -982,7 +999,8 @@
             "target_local_path": "별지/별지4_시정조치 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지4_시정조치 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1012,7 +1030,8 @@
             "target_local_path": "별지/별지5_시정조치 이행 확인 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 수삼의 미국 수출검역요령/별지/별지5_시정조치 이행 확인 결과서.hwp"
           },
           {
             "relation_type": "internal_ref",

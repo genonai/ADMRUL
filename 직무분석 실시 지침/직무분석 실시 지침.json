@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:직무분석실시지침#DOC",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:직무분석실시지침#DOC",
             "reference_id": "law:직무분석규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json"
+            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json",
+            "target_git_path": "직무분석규정/법률/직무분석규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:직무분석실시지침#DOC",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -126,7 +132,9 @@
             "source_provision_id": "admrul:직무분석실시지침#DOC",
             "reference_id": "law:공무원임용령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -156,7 +164,8 @@
             "target_local_path": "붙임/붙임5_직무평가 요소별 기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임5_직무평가 요소별 기준표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -186,7 +195,8 @@
             "target_local_path": "붙임/붙임6_직무값 산정 방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임6_직무값 산정 방법.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -216,7 +226,8 @@
             "target_local_path": "붙임/붙임2_고위직 직무기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임2_고위직 직무기술서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -246,7 +257,8 @@
             "target_local_path": "붙임/붙임7_실ㆍ국장 등 직위 직무평가 근거기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임7_실ㆍ국장 등 직위 직무평가 근거기술서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -276,7 +288,8 @@
             "target_local_path": "붙임/붙임8_상임위원 등 직위 직무평가 근거기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임8_상임위원 등 직위 직무평가 근거기술서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -306,7 +319,8 @@
             "target_local_path": "붙임/붙임2_고위직 직무기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임2_고위직 직무기술서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -336,7 +350,8 @@
             "target_local_path": "붙임/붙임7_실ㆍ국장 등 직위 직무평가 근거기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임7_실ㆍ국장 등 직위 직무평가 근거기술서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -366,7 +381,8 @@
             "target_local_path": "붙임/붙임8_상임위원 등 직위 직무평가 근거기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임8_상임위원 등 직위 직무평가 근거기술서.hwp"
           },
           {
             "relation_type": "citation",
@@ -386,7 +402,9 @@
             "source_provision_id": "admrul:직무분석실시지침#DOC",
             "reference_id": "law:행정기관의조직과정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -416,7 +434,8 @@
             "target_local_path": "붙임/붙임9_고위공무원단 직위의 직무등급 표시 (예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "직무분석 실시 지침/붙임/붙임9_고위공무원단 직위의 직무등급 표시 (예시).hwp"
           },
           {
             "relation_type": "citation",

@@ -305,7 +305,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:공무원임용시험령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -325,7 +327,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:공무원임용시험령#JO0051",
         "target_repo": "LAW",
-        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -369,7 +373,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:장애인고용촉진및직업재활법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -389,7 +395,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:장애인고용촉진및직업재활법#JO0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -409,7 +417,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:장애인고용촉진및직업재활법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -429,7 +439,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:장애인고용촉진및직업재활법#JO0079",
         "target_repo": "LAW",
-        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+        "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -459,7 +471,8 @@
         "target_local_path": "서식/서식1_[별지 제1호 서식] 서류전형 채점표(예시).hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원 공무직 등 근로자 공정채용 관리지침/서식/서식1_[별지 제1호 서식] 서류전형 채점표(예시).hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -489,7 +502,8 @@
         "target_local_path": "서식/서식2_[별지 제2호 서식] 면접시험 채점표(예시).hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원 공무직 등 근로자 공정채용 관리지침/서식/서식2_[별지 제2호 서식] 면접시험 채점표(예시).hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -519,7 +533,8 @@
         "target_local_path": "서식/서식3_[별지 제3호 서식] 서약서.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원 공무직 등 근로자 공정채용 관리지침/서식/서식3_[별지 제3호 서식] 서약서.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -549,7 +564,8 @@
         "target_local_path": "서식/서식4_[별지 제4호 서식] 면접시험위원 회피 신청서.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원 공무직 등 근로자 공정채용 관리지침/서식/서식4_[별지 제4호 서식] 면접시험위원 회피 신청서.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -579,7 +595,8 @@
         "target_local_path": "별표/별표1_[별표 1] 채용시험 가점 기준.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원 공무직 등 근로자 공정채용 관리지침/별표/별표1_[별표 1] 채용시험 가점 기준.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -609,7 +626,8 @@
         "target_local_path": "별표/별표1_[별표 1] 채용시험 가점 기준.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원 공무직 등 근로자 공정채용 관리지침/별표/별표1_[별표 1] 채용시험 가점 기준.hwp"
       },
       {
         "relation_type": "citation",
@@ -629,7 +647,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:공무원임용시험령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -649,7 +669,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:공무원임용시험령#JO0051",
         "target_repo": "LAW",
-        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+        "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -679,7 +701,8 @@
         "target_local_path": "별표/별표2_[별표 2] 채용비리 피해자 구제 기준.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "법원 공무직 등 근로자 공정채용 관리지침/별표/별표2_[별표 2] 채용비리 피해자 구제 기준.hwp"
       },
       {
         "relation_type": "citation",
@@ -699,7 +722,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:공공기록물관리에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+        "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+        "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -719,7 +744,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:공공기록물관리에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+        "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+        "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -739,7 +766,9 @@
         "source_provision_id": "admrul:법원공무직등근로자공정채용관리지침#DOC",
         "reference_id": "law:채용절차의공정화에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "채용절차의 공정화에 관한 법률/법률/채용절차의 공정화에 관한 법률.json"
+        "target_git_path_guess": "채용절차의 공정화에 관한 법률/법률/채용절차의 공정화에 관한 법률.json",
+        "target_git_path": "채용절차의 공정화에 관한 법률/법률/채용절차의 공정화에 관한 법률.json",
+        "target_source_repository": "LAW"
       }
     ]
   },

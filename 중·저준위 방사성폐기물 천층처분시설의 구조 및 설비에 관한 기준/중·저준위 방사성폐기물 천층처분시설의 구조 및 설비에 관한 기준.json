@@ -127,7 +127,9 @@
             "source_provision_id": "admrul:중저준위방사성폐기물천층처분시설의구조및설비에관한기준#JO0002",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,9 +147,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:중저준위방사성폐기물천층처분시설의구조및설비에관한기준#JO0002",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

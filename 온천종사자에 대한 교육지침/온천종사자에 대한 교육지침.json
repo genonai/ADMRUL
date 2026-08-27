@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:온천종사자에대한교육지침#JO0001",
             "reference_id": "law:온천법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "온천법/법률/온천법.json"
+            "target_git_path_guess": "온천법/법률/온천법.json",
+            "target_git_path": "온천법/법률/온천법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:온천종사자에대한교육지침#JO0001",
             "reference_id": "law:온천법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json"
+            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json",
+            "target_git_path": "온천법/시행규칙/온천법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:온천종사자에대한교육지침#JO0001",
             "reference_id": "law:온천법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json"
+            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json",
+            "target_git_path": "온천법/시행규칙/온천법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:온천종사자에대한교육지침#JO0003",
             "reference_id": "law:온천법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json"
+            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json",
+            "target_git_path": "온천법/시행규칙/온천법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "admrul:온천종사자에대한교육지침#JO0003",
             "reference_id": "law:온천법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json"
+            "target_git_path_guess": "온천법/시행규칙/온천법시행규칙.json",
+            "target_git_path": "온천법/시행규칙/온천법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -293,7 +303,9 @@
             "source_provision_id": "admrul:온천종사자에대한교육지침#JO0010",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -313,7 +325,9 @@
             "source_provision_id": "admrul:온천종사자에대한교육지침#JO0010",
             "reference_id": "law:부가가치세법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -343,7 +357,8 @@
             "target_local_path": "별지/별지2_교육연기원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "온천종사자에 대한 교육지침/별지/별지2_교육연기원.hwp"
           }
         ],
         "images": [],
@@ -396,7 +411,8 @@
             "target_local_path": "별지/별지3_수료증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "온천종사자에 대한 교육지침/별지/별지3_수료증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -426,7 +442,8 @@
             "target_local_path": "별지/별지4_교육수료증교부(교육확인)대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "온천종사자에 대한 교육지침/별지/별지4_교육수료증교부(교육확인)대장.hwp"
           }
         ],
         "images": [],
@@ -468,7 +485,8 @@
             "target_local_path": "별지/별지5_공중위생관리 책임자 지정 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "온천종사자에 대한 교육지침/별지/별지5_공중위생관리 책임자 지정 확인서.hwp"
           }
         ],
         "images": [],
@@ -521,7 +539,8 @@
             "target_local_path": "별지/별지6_온천종사자 교육실시 결과보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "온천종사자에 대한 교육지침/별지/별지6_온천종사자 교육실시 결과보고.hwp"
           }
         ],
         "images": [],

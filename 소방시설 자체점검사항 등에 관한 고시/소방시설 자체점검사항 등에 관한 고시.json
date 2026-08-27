@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0001",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0001",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,8 @@
             "target_unit": "BYL0003",
             "reference_id": "law:소방시설설치및관리에관한법률#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -144,7 +149,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0002",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -164,7 +171,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0002",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -194,7 +203,8 @@
             "target_local_path": "별지/별지1_소방시설 점검인력 배치확인신청서(대상물 1개).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지1_소방시설 점검인력 배치확인신청서(대상물 1개).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -224,7 +234,8 @@
             "target_local_path": "별지/별지2_소방시설 점검인력 배치확인신청서(대상물 2개 이상).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지2_소방시설 점검인력 배치확인신청서(대상물 2개 이상).hwp"
           },
           {
             "relation_type": "citation",
@@ -244,7 +255,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0002",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -267,9 +280,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0002",
             "target_unit": "BJ0031",
-            "reference_id": "law:소방시설설치및관리에관한법률시행규칙#BJ0031",
+            "reference_id": "law:소방시설설치및관리에관한법률시행규칙#FORM0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/서식/서식31_소방기술인력 보유 현황.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -299,7 +315,8 @@
             "target_local_path": "별지/별지3_점검인력 배치확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지3_점검인력 배치확인서.hwp"
           }
         ],
         "images": [],
@@ -342,7 +359,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0004",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -362,7 +381,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0004",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -382,7 +403,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0004",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -402,7 +425,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0004",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -468,7 +493,8 @@
             "target_local_path": "별지/별지4_소방시설등(작동점검, 종합점검(최초점검, 그 밖의 점검) 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지4_소방시설등(작동점검, 종합점검(최초점검, 그 밖의 점검) 점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -498,7 +524,8 @@
             "target_local_path": "별지/별지4_소방시설등(작동점검, 종합점검(최초점검, 그 밖의 점검) 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지4_소방시설등(작동점검, 종합점검(최초점검, 그 밖의 점검) 점검표.hwp"
           }
         ],
         "images": [],
@@ -530,7 +557,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0006",
             "reference_id": "law:소방시설공사업법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설공사업법/법률/소방시설공사업법.json"
+            "target_git_path_guess": "소방시설공사업법/법률/소방시설공사업법.json",
+            "target_git_path": "소방시설공사업법/법률/소방시설공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -550,7 +579,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0006",
             "reference_id": "law:소방시설공사업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설공사업법/시행규칙/소방시설공사업법 시행규칙.json"
+            "target_git_path_guess": "소방시설공사업법/시행규칙/소방시설공사업법 시행규칙.json",
+            "target_git_path": "소방시설공사업법/시행규칙/소방시설공사업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -570,7 +601,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0006",
             "reference_id": "law:소방시설공사업법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설공사업법/시행규칙/소방시설공사업법 시행규칙.json"
+            "target_git_path_guess": "소방시설공사업법/시행규칙/소방시설공사업법 시행규칙.json",
+            "target_git_path": "소방시설공사업법/시행규칙/소방시설공사업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -600,7 +633,8 @@
             "target_local_path": "별지/별지5_소방시설 성능시험조사표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지5_소방시설 성능시험조사표.hwp"
           }
         ],
         "images": [],
@@ -632,7 +666,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0007",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -652,7 +688,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0007",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -682,7 +720,8 @@
             "target_local_path": "별지/별지7_소방시설 자체점검 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지7_소방시설 자체점검 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -712,7 +751,8 @@
             "target_local_path": "별지/별지6_소방시설등 외관점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방시설 자체점검사항 등에 관한 고시/별지/별지6_소방시설등 외관점검표.hwp"
           }
         ],
         "images": [],
@@ -744,7 +784,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0008",
             "reference_id": "law:소방시설설치및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -764,7 +806,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0008",
             "reference_id": "law:소방시설설치및관리에관한법률#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -796,7 +840,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0009",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -821,7 +867,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/별표/별표3_소방시설등 자체점검의 구분 및 대상, 점검자의 자격, 점검 장비, 점검 방법 및 횟수 등 자체점검 시 준수해야할 사항(제20조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -841,7 +890,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0009",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -861,7 +912,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0009",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -881,7 +934,9 @@
             "source_provision_id": "admrul:소방시설자체점검사항등에관한고시#JO0009",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -906,7 +961,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:소방시설설치및관리에관한법률시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/소방시설 설치 및 관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "소방시설 설치 및 관리에 관한 법률/시행규칙/별표/별표3_소방시설등 자체점검의 구분 및 대상, 점검자의 자격, 점검 장비, 점검 방법 및 횟수 등 자체점검 시 준수해야할 사항(제20조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

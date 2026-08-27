@@ -461,7 +461,9 @@
         "source_provision_id": "admrul:사법부전산정보보안에관한일반지침#DOC",
         "reference_id": "law:전기통신사업법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+        "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+        "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -481,7 +483,9 @@
         "source_provision_id": "admrul:사법부전산정보보안에관한일반지침#DOC",
         "reference_id": "law:전기통신사업법#JO0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+        "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+        "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -501,7 +505,9 @@
         "source_provision_id": "admrul:사법부전산정보보안에관한일반지침#DOC",
         "reference_id": "law:개인정보보호법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+        "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+        "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -531,7 +537,8 @@
         "target_local_path": "별표/별표1_[별표 1] 보안사고 대응 절차.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "사법부 전산정보 보안에 관한 일반지침/별표/별표1_[별표 1] 보안사고 대응 절차.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -561,7 +568,8 @@
         "target_local_path": "별지/별지1_[별지 제1호] 개인정보보호 서약서.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "사법부 전산정보 보안에 관한 일반지침/별지/별지1_[별지 제1호] 개인정보보호 서약서.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -591,7 +599,8 @@
         "target_local_path": "별지/별지2_[별지 제2호] 보안 서약서.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "사법부 전산정보 보안에 관한 일반지침/별지/별지2_[별지 제2호] 보안 서약서.hwp"
       },
       {
         "relation_type": "internal_ref",
@@ -669,7 +678,8 @@
         "target_local_path": "별표/별표2_[별표 2] 악성코드 관리 절차.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "사법부 전산정보 보안에 관한 일반지침/별표/별표2_[별표 2] 악성코드 관리 절차.hwp"
       }
     ]
   },

@@ -135,7 +135,8 @@
             "target_local_path": "별지/별지1_연구장비 심의의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산과학원 연구장비 관리 규정/별지/별지1_연구장비 심의의결서.hwp"
           }
         ],
         "images": [],
@@ -257,7 +258,8 @@
             "target_local_path": "별지/별지2_연구장비 운영 일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산과학원 연구장비 관리 규정/별지/별지2_연구장비 운영 일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -287,7 +289,8 @@
             "target_local_path": "별지/별지3_연구장비 유지보수·(일일_월간)점검 일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산과학원 연구장비 관리 규정/별지/별지3_연구장비 유지보수·(일일_월간)점검 일지.hwp"
           }
         ],
         "images": [],
@@ -439,7 +442,9 @@
             "source_provision_id": "admrul:국립수산과학원연구장비관리규정#JO0013",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

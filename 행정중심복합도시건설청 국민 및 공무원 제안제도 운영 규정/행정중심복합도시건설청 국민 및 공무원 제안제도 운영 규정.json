@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0001",
             "reference_id": "law:국민제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json"
+            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_git_path": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0001",
             "reference_id": "law:공무원제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -152,7 +156,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0005",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -172,7 +178,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0005",
             "reference_id": "law:국민제안규정#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +200,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0005",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -212,7 +222,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0005",
             "reference_id": "law:공무원제안규정#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -278,7 +290,8 @@
             "target_local_path": "별표/별표1_국민 및 공무원 제안심사 기준(제6조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 국민 및 공무원 제안제도 운영 규정/별표/별표1_국민 및 공무원 제안심사 기준(제6조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -308,7 +321,8 @@
             "target_local_path": "별표/별표2_채택여부 결정기준(제6조관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 국민 및 공무원 제안제도 운영 규정/별표/별표2_채택여부 결정기준(제6조관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -338,7 +352,8 @@
             "target_local_path": "별지/별지1_제안에 대한 관련부서 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 국민 및 공무원 제안제도 운영 규정/별지/별지1_제안에 대한 관련부서 의견서.hwp"
           }
         ],
         "images": [],
@@ -380,7 +395,8 @@
             "target_local_path": "별지/별지2_채택제안 실시계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 국민 및 공무원 제안제도 운영 규정/별지/별지2_채택제안 실시계획서.hwp"
           }
         ],
         "images": [],
@@ -412,7 +428,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -432,7 +450,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:국민제안규정#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -452,7 +472,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -472,7 +494,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:공무원제안규정#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -492,7 +516,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -512,7 +538,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:국민제안규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -532,7 +560,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -552,7 +582,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:공무원제안규정#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -572,7 +604,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -592,7 +626,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:국민제안규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -612,7 +648,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -632,7 +670,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0008",
             "reference_id": "law:공무원제안규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -675,7 +715,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0010",
             "reference_id": "law:공익신고자보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json"
+            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json",
+            "target_git_path": "공익신고자 보호법/법률/공익신고자 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -717,7 +759,8 @@
             "target_local_path": "별표/별표3_제안심사위원회 심의위원 심사표(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 국민 및 공무원 제안제도 운영 규정/별표/별표3_제안심사위원회 심의위원 심사표(제11조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -747,7 +790,8 @@
             "target_local_path": "별표/별표4_채택제안의 창안등급 결정 기준(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 국민 및 공무원 제안제도 운영 규정/별표/별표4_채택제안의 창안등급 결정 기준(제11조 관련).hwp"
           }
         ],
         "images": [],
@@ -803,7 +847,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0012",
             "reference_id": "law:적극행정운영규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json"
+            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_git_path": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -823,7 +869,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0012",
             "reference_id": "law:적극행정운영규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json"
+            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_git_path": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -843,7 +891,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0012",
             "reference_id": "law:적극행정운영규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json"
+            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_git_path": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -875,7 +925,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0013",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -895,7 +947,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0013",
             "reference_id": "law:국민제안규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -915,7 +969,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0013",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -935,7 +991,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0013",
             "reference_id": "law:공무원제안규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -967,7 +1025,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0014",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -987,7 +1047,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0014",
             "reference_id": "law:국민제안규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1007,7 +1069,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0014",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1027,7 +1091,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청국민및공무원제안제도운영규정#JO0014",
             "reference_id": "law:공무원제안규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

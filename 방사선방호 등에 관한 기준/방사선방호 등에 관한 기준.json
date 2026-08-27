@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0001",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,9 +87,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +181,8 @@
             "target_local_path": "별표/별표1_방사선 가중치1(제2조제5호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표1_방사선 가중치1(제2조제5호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -207,7 +212,8 @@
             "target_local_path": "별표/별표2_조직 가중치(제2조제6호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표2_조직 가중치(제2조제6호 관련).hwp"
           }
         ],
         "images": [],
@@ -239,7 +245,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0003",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -259,7 +267,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0003",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -301,7 +311,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0004",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -321,7 +333,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0004",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -351,7 +365,8 @@
             "target_local_path": "별표/별표1_방사선 가중치1(제2조제5호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표1_방사선 가중치1(제2조제5호 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -371,7 +386,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0004",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -396,7 +413,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:원자력안전법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_file_path": "원자력안전법/시행령/별표/별표1_선량한도(제2조제4호 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -452,7 +472,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0005",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -472,7 +494,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0005",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -504,7 +528,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0006",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -524,7 +550,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0006",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -544,7 +572,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0006",
             "reference_id": "law:원자력안전법시행령#JO0136",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -670,7 +700,8 @@
             "target_local_path": "별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -700,7 +731,8 @@
             "target_local_path": "별표/별표4_종류 미상인 방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준(제6조, 제7조 및 제8조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표4_종류 미상인 방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준(제6조, 제7조 및 제8조 관련).hwp"
           }
         ],
         "images": [],
@@ -732,7 +764,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0007",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -752,7 +786,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0007",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -782,7 +818,8 @@
             "target_local_path": "별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -812,7 +849,8 @@
             "target_local_path": "별표/별표4_종류 미상인 방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준(제6조, 제7조 및 제8조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표4_종류 미상인 방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준(제6조, 제7조 및 제8조 관련).hwp"
           }
         ],
         "images": [],
@@ -844,7 +882,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0008",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -864,7 +904,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0008",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -894,7 +936,8 @@
             "target_local_path": "별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -924,7 +967,8 @@
             "target_local_path": "별표/별표4_종류 미상인 방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준(제6조, 제7조 및 제8조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표4_종류 미상인 방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준(제6조, 제7조 및 제8조 관련).hwp"
           }
         ],
         "images": [],
@@ -956,7 +1000,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0009",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -976,7 +1022,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0009",
             "reference_id": "law:원자력안전법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1006,7 +1054,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           }
         ],
         "images": [],
@@ -1036,9 +1085,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0010",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1056,9 +1107,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제65조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0010",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0065",
+            "reference_id": "law:원자력안전법시행규칙#JO0065",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1088,7 +1141,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           }
         ],
         "images": [],
@@ -1118,9 +1172,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0010_02",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1138,9 +1194,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제65조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0010_02",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0065",
+            "reference_id": "law:원자력안전법시행규칙#JO0065",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1170,9 +1228,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0010_03",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1190,9 +1250,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제66조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0010_03",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0066",
+            "reference_id": "law:원자력안전법시행규칙#JO0066",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1282,7 +1344,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1312,7 +1375,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           }
         ],
         "images": [],
@@ -1426,7 +1490,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1456,7 +1521,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           }
         ],
         "images": [],
@@ -1620,7 +1686,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0014",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1640,7 +1708,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0014",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1660,7 +1730,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0014",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1680,7 +1752,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0014",
             "reference_id": "law:원자력안전법시행령#JO0136",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1784,7 +1858,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0015",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1804,7 +1880,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0015",
             "reference_id": "law:원자력안전법#JO0091",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1836,7 +1914,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0016",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1856,7 +1936,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0016",
             "reference_id": "law:원자력안전법시행령#JO0174",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1886,7 +1968,8 @@
             "target_local_path": "별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표3_방사성물질의 연간섭취한도, 유도공기중농도 및 배출관리기준 (제6조, 제7조, 제8조 및 제16조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -1906,7 +1989,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0016",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1926,7 +2011,9 @@
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0016",
             "reference_id": "law:원자력안전법시행령#JO0174",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1956,9 +2043,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1976,9 +2065,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제127조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0127",
+            "reference_id": "law:원자력안전법시행규칙#JO0127",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2008,7 +2099,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2038,7 +2130,8 @@
             "target_local_path": "별지/별지1_밀봉 방사성동위원소 관리현황 보고(제17조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지1_밀봉 방사성동위원소 관리현황 보고(제17조제1항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2068,7 +2161,8 @@
             "target_local_path": "별지/별지2_개봉 방사성동위원소 관리현황 보고(제17조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지2_개봉 방사성동위원소 관리현황 보고(제17조제1항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2098,7 +2192,8 @@
             "target_local_path": "별지/별지3_방사선발생장치 관리현황 보고(제17조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지3_방사선발생장치 관리현황 보고(제17조제1항관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -2116,9 +2211,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2136,9 +2233,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제127조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0127",
+            "reference_id": "law:원자력안전법시행규칙#JO0127",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2168,7 +2267,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2198,7 +2298,8 @@
             "target_local_path": "별지/별지4_방사선작업종사자의 피폭방사선량 보고(제17조제2항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지4_방사선작업종사자의 피폭방사선량 보고(제17조제2항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2228,7 +2329,8 @@
             "target_local_path": "별지/별지4의2_방사선작업종사자의 피폭방사선량 보고(제17조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지4의2_방사선작업종사자의 피폭방사선량 보고(제17조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2258,7 +2360,8 @@
             "target_local_path": "별지/별지4의3_방사선작업종사자 건강진단 결과 보고(제17조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지4의3_방사선작업종사자 건강진단 결과 보고(제17조제2항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -2276,9 +2379,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2296,9 +2401,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제127조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0127",
+            "reference_id": "law:원자력안전법시행규칙#JO0127",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2328,7 +2435,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2358,7 +2466,8 @@
             "target_local_path": "별지/별지5_밀봉 방사성동위원소의 월별 판매현황 보고(제17조제3항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지5_밀봉 방사성동위원소의 월별 판매현황 보고(제17조제3항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2388,7 +2497,8 @@
             "target_local_path": "별지/별지6_개봉 방사성동위원소의 월별 판매현황 보고(제17조제3항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지6_개봉 방사성동위원소의 월별 판매현황 보고(제17조제3항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2418,7 +2528,8 @@
             "target_local_path": "별지/별지7_방사선발생장치의 월별 판매현황 보고(제17조제3항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지7_방사선발생장치의 월별 판매현황 보고(제17조제3항관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -2436,9 +2547,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2456,9 +2569,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제127조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사선방호등에관한기준#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0127",
+            "reference_id": "law:원자력안전법시행규칙#JO0127",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2488,7 +2603,8 @@
             "target_local_path": "별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별표/별표5_핵종별 규제면제 관련 수량 및 농도(제9조부터 제12조까지의 규정 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2518,7 +2634,8 @@
             "target_local_path": "별지/별지8_밀봉 방사성동위원소의 월별 생산현황 보고(제17조제4항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지8_밀봉 방사성동위원소의 월별 생산현황 보고(제17조제4항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2548,7 +2665,8 @@
             "target_local_path": "별지/별지9_개봉 방사성동위원소의 월별 생산현황 보고(제17조제4항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지9_개봉 방사성동위원소의 월별 생산현황 보고(제17조제4항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2578,7 +2696,8 @@
             "target_local_path": "별지/별지10_방사선발생장치의 월별 생산현황 보고(제17조제4항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선방호 등에 관한 기준/별지/별지10_방사선발생장치의 월별 생산현황 보고(제17조제4항관련).hwp"
           }
         ],
         "images": [],

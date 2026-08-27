@@ -151,7 +151,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -171,7 +173,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0002",
             "reference_id": "law:보안업무규정#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -323,7 +327,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0005",
             "reference_id": "law:법제처직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법제처 직제/시행규칙/법제처 직제 시행규칙.json"
+            "target_git_path_guess": "법제처 직제/시행규칙/법제처 직제 시행규칙.json",
+            "target_git_path": "법제처 직제/시행규칙/법제처 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -497,7 +503,8 @@
             "target_local_path": "별지/별지1_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지1_서약서.hwp"
           }
         ],
         "images": [],
@@ -606,7 +613,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0015",
             "reference_id": "law:보안업무규정#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -722,7 +731,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0016_02",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -742,7 +753,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0016_02",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -810,7 +823,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0016_02",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -840,7 +855,8 @@
             "target_local_path": "별지/별지3_대외비 목록표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지3_대외비 목록표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -870,7 +886,8 @@
             "target_local_path": "별지/별지4_대외비 배부표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지4_대외비 배부표.hwp"
           }
         ],
         "images": [],
@@ -924,7 +941,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0019",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -944,7 +963,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0019",
             "reference_id": "law:보안업무규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -964,7 +985,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0019",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -984,7 +1007,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0019",
             "reference_id": "law:보안업무규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1004,7 +1029,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0019",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1024,7 +1051,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0019",
             "reference_id": "law:보안업무규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1056,7 +1085,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0020",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1076,7 +1107,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0020",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1258,7 +1291,8 @@
             "target_local_path": "서식/서식12_접수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식12_접수증.hwp"
           }
         ],
         "images": [],
@@ -1568,7 +1602,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0038",
             "reference_id": "law:보안업무규정#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1691,7 +1727,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0042",
             "reference_id": "law:보안업무규정#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2011,7 +2049,8 @@
             "target_local_path": "별지/별지5_비밀문서 발간승인 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지5_비밀문서 발간승인 신청서.hwp"
           }
         ],
         "images": [],
@@ -2150,7 +2189,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0048",
             "reference_id": "law:보안업무규정#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2230,7 +2271,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0049",
             "reference_id": "law:보안업무규정#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2331,7 +2374,8 @@
             "target_local_path": "별지/별지8_비밀회의 보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지8_비밀회의 보안 서약서.hwp"
           }
         ],
         "images": [],
@@ -2423,7 +2467,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0052",
             "reference_id": "law:보안업무규정#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2491,7 +2537,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0052",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2511,7 +2559,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0052",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2553,7 +2603,8 @@
             "target_local_path": "별지/별지6_제한구역ㆍ통제구역 출입대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지6_제한구역ㆍ통제구역 출입대장.hwp"
           }
         ],
         "images": [],
@@ -2878,7 +2929,8 @@
             "target_local_path": "별지/별지7_신원대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지7_신원대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -2898,7 +2950,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0062",
             "reference_id": "law:공무원인사기록통계및인사사무처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json"
+            "target_git_path_guess": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json",
+            "target_git_path": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2918,7 +2972,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0062",
             "reference_id": "law:공무원인사기록통계및인사사무처리규정#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json"
+            "target_git_path_guess": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json",
+            "target_git_path": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2960,7 +3016,8 @@
             "target_local_path": "별지/별지7_신원대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법제처 보안업무규정 시행세칙/별지/별지7_신원대장.hwp"
           }
         ],
         "images": [],
@@ -3038,7 +3095,9 @@
             "source_provision_id": "admrul:법제처보안업무규정시행세칙#JO0066",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3063,7 +3122,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:공무원징계령시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_file_path": "공무원 징계령/시행규칙/별표/별표1_징계기준(제2조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

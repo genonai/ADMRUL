@@ -127,7 +127,9 @@
             "source_provision_id": "admrul:자동차손해배상보장사업업무관리지침#JO0002",
             "reference_id": "law:자동차손해배상보장법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차손해배상 보장법/시행령/자동차손해배상 보장법 시행령.json"
+            "target_git_path_guess": "자동차손해배상 보장법/시행령/자동차손해배상 보장법 시행령.json",
+            "target_git_path": "자동차손해배상 보장법/시행령/자동차손해배상 보장법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -301,7 +303,8 @@
             "target_local_path": "별지/별지1_보장사업 보험금 및 구상금 현황 통보.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자동차손해배상 보장사업 업무관리지침/별지/별지1_보장사업 보험금 및 구상금 현황 통보.hwp"
           }
         ],
         "images": [],
@@ -491,7 +494,8 @@
             "target_local_path": "별지/별지6_보상사업 처리건 Check list.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자동차손해배상 보장사업 업무관리지침/별지/별지6_보상사업 처리건 Check list.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -521,7 +525,8 @@
             "target_local_path": "별지/별지6의2_구상사업 처리건 Check list.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자동차손해배상 보장사업 업무관리지침/별지/별지6의2_구상사업 처리건 Check list.hwp"
           }
         ],
         "images": [],
@@ -746,7 +751,8 @@
             "target_local_path": "별지/별지7_손해보상금 지급현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자동차손해배상 보장사업 업무관리지침/별지/별지7_손해보상금 지급현황.hwp"
           }
         ],
         "images": [],

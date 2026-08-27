@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:통합집중형오염하천개선지침#JO0002",
             "reference_id": "law:환경정책기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경정책기본법/시행령/환경정책기본법 시행령.json"
+            "target_git_path_guess": "환경정책기본법/시행령/환경정책기본법 시행령.json",
+            "target_git_path": "환경정책기본법/시행령/환경정책기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -103,7 +105,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:환경정책기본법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경정책기본법/시행령/환경정책기본법 시행령.json"
+            "target_git_path_guess": "환경정책기본법/시행령/환경정책기본법 시행령.json",
+            "target_git_path": "환경정책기본법/시행령/환경정책기본법 시행령.json",
+            "target_git_file_path": "환경정책기본법/시행령/별표/별표1_환경기준(제2조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -179,7 +184,9 @@
             "source_provision_id": "admrul:통합집중형오염하천개선지침#JO0007",
             "reference_id": "law:하천법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json"
+            "target_git_path_guess": "하천법/법률/하천법.json",
+            "target_git_path": "하천법/법률/하천법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +206,9 @@
             "source_provision_id": "admrul:통합집중형오염하천개선지침#JO0007",
             "reference_id": "law:하천법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json"
+            "target_git_path_guess": "하천법/법률/하천법.json",
+            "target_git_path": "하천법/법률/하천법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -353,7 +362,8 @@
             "target_local_path": "별지/별지2_통합·집중형 오염하천 선정 신청서 검토결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통합·집중형 오염하천 개선지침/별지/별지2_통합·집중형 오염하천 선정 신청서 검토결과.hwp"
           }
         ],
         "images": [],
@@ -430,7 +440,8 @@
             "target_local_path": "별지/별지3_하천 통합·집중형 개선계획(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통합·집중형 오염하천 개선지침/별지/별지3_하천 통합·집중형 개선계획(예시).hwp"
           }
         ],
         "images": [],
@@ -472,7 +483,8 @@
             "target_local_path": "별지/별지4_오염하천 통합·집중형 투자계획.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통합·집중형 오염하천 개선지침/별지/별지4_오염하천 통합·집중형 투자계획.hwp"
           }
         ],
         "images": [],

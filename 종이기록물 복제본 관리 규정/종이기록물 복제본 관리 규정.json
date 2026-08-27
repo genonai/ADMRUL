@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:종이기록물복제본관리규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -121,7 +123,9 @@
             "source_provision_id": "admrul:종이기록물복제본관리규정#JO0004",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -141,7 +145,9 @@
             "source_provision_id": "admrul:종이기록물복제본관리규정#JO0004",
             "reference_id": "law:공공기록물관리에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -183,7 +189,8 @@
             "target_local_path": "별지/별지1_복제본 제작 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종이기록물 복제본 관리 규정/별지/별지1_복제본 제작 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -213,7 +220,8 @@
             "target_local_path": "별지/별지2_맞춤형 복원·복제 지원 서비스 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종이기록물 복제본 관리 규정/별지/별지2_맞춤형 복원·복제 지원 서비스 신청서.hwp"
           }
         ],
         "images": [],
@@ -266,7 +274,8 @@
             "target_local_path": "별지/별지3_복제본 대여ㆍ연장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종이기록물 복제본 관리 규정/별지/별지3_복제본 대여ㆍ연장 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -296,7 +305,8 @@
             "target_local_path": "별지/별지4_복제본 분실서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종이기록물 복제본 관리 규정/별지/별지4_복제본 분실서.hwp"
           }
         ],
         "images": [],
@@ -349,7 +359,8 @@
             "target_local_path": "별표/별표1_복제본 표기 및 방식(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종이기록물 복제본 관리 규정/별표/별표1_복제본 표기 및 방식(제9조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -379,7 +390,8 @@
             "target_local_path": "별지/별지5_복제본 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종이기록물 복제본 관리 규정/별지/별지5_복제본 관리대장.hwp"
           }
         ],
         "images": [],
@@ -432,7 +444,8 @@
             "target_local_path": "별지/별지6_복제본 폐기서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종이기록물 복제본 관리 규정/별지/별지6_복제본 폐기서.hwp"
           }
         ],
         "images": [],

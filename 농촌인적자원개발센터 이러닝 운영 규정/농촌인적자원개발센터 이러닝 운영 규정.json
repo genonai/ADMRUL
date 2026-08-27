@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:농촌인적자원개발센터이러닝운영규정#JO0002",
             "reference_id": "law:공무원인재개발법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json"
+            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_git_path": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -267,7 +269,8 @@
             "target_local_path": "별첨/별첨1_온라인 실시간 교육 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌인적자원개발센터 이러닝 운영 규정/별첨/별첨1_온라인 실시간 교육 동의서.hwp"
           }
         ],
         "images": [],
@@ -375,7 +378,8 @@
             "target_local_path": "별첨/별첨2_코스웨어 품질분석 세부기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌인적자원개발센터 이러닝 운영 규정/별첨/별첨2_코스웨어 품질분석 세부기준.hwp"
           }
         ],
         "images": [],

@@ -169,7 +169,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0008",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -223,7 +225,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0011",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -243,7 +247,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0011",
             "reference_id": "law:형법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -275,7 +281,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0012",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -295,7 +303,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0012",
             "reference_id": "law:형사소송법#JO0123",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -315,7 +325,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0012",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -335,7 +347,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0012",
             "reference_id": "law:형사소송법#JO0123",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -355,7 +369,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0012",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -375,7 +391,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0012",
             "reference_id": "law:형사소송법#JO0123",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -405,7 +423,8 @@
             "target_local_path": "별지/별지1_참여 의견 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지1_참여 의견 확인서.hwp"
           }
         ],
         "images": [],
@@ -447,7 +466,8 @@
             "target_local_path": "별지/별지2_전자정보 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지2_전자정보 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -477,7 +497,8 @@
             "target_local_path": "별지/별지2_전자정보 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지2_전자정보 확인서.hwp"
           },
           {
             "relation_type": "citation",
@@ -497,7 +518,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0013",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -517,7 +540,9 @@
             "source_provision_id": "admrul:해양경찰청디지털증거의처리등에관한규칙#JO0013",
             "reference_id": "law:형사소송법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -583,7 +608,8 @@
             "target_local_path": "별지/별지3_복제본 반출(획득) 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지3_복제본 반출(획득) 확인서.hwp"
           }
         ],
         "images": [],
@@ -649,7 +675,8 @@
             "target_local_path": "별지/별지4_원본 반출 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지4_원본 반출 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -679,7 +706,8 @@
             "target_local_path": "별지/별지5_원본 반출 확인서(모바일).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지5_원본 반출 확인서(모바일).hwp"
           }
         ],
         "images": [],
@@ -817,7 +845,8 @@
             "target_local_path": "별지/별지6_참여 철회 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지6_참여 철회 확인서.hwp"
           }
         ],
         "images": [],
@@ -859,7 +888,8 @@
             "target_local_path": "별지/별지7_현장 외 압수절차 참여인을 위한 안내서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지7_현장 외 압수절차 참여인을 위한 안내서.hwp"
           }
         ],
         "images": [],
@@ -1021,7 +1051,8 @@
             "target_local_path": "별지/별지8_정보저장매체 인수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 디지털 증거의 처리 등에 관한 규칙/별지/별지8_정보저장매체 인수증.hwp"
           }
         ],
         "images": [],

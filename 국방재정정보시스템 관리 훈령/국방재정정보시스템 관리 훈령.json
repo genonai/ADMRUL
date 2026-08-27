@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0001",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0001",
             "reference_id": "law:국가재정법#JO0097_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -326,7 +332,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0009_02",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -401,7 +409,8 @@
             "target_local_path": "별지/별지1_기준정보관리자 책임에 관한 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방재정정보시스템 관리 훈령/별지/별지1_기준정보관리자 책임에 관한 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -431,7 +440,8 @@
             "target_local_path": "별지/별지1_기준정보관리자 책임에 관한 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방재정정보시스템 관리 훈령/별지/별지1_기준정보관리자 책임에 관한 서약서.hwp"
           }
         ],
         "images": [],
@@ -521,7 +531,8 @@
             "target_local_path": "별표/별표1_기준정보관리자 권한 및 내용(제14조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방재정정보시스템 관리 훈령/별표/별표1_기준정보관리자 권한 및 내용(제14조제2항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -647,7 +658,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0017",
             "reference_id": "law:국고금관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -667,7 +680,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0017",
             "reference_id": "law:국고금관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/시행령/국고금관리법 시행령.json"
+            "target_git_path_guess": "국고금관리법/시행령/국고금관리법 시행령.json",
+            "target_git_path": "국고금 관리법/시행령/국고금 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -687,7 +702,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0017",
             "reference_id": "law:국고금관리법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/시행령/국고금관리법 시행령.json"
+            "target_git_path_guess": "국고금관리법/시행령/국고금관리법 시행령.json",
+            "target_git_path": "국고금 관리법/시행령/국고금 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -707,7 +724,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0017",
             "reference_id": "law:국가채권관리법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가채권 관리법/법률/국가채권 관리법.json"
+            "target_git_path_guess": "국가채권 관리법/법률/국가채권 관리법.json",
+            "target_git_path": "국가채권 관리법/법률/국가채권 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -727,7 +746,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0017",
             "reference_id": "law:국가채권관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가채권 관리법/시행령/국가채권 관리법 시행령.json"
+            "target_git_path_guess": "국가채권 관리법/시행령/국가채권 관리법 시행령.json",
+            "target_git_path": "국가채권 관리법/시행령/국가채권 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -747,7 +768,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0017",
             "reference_id": "law:국가채권관리법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가채권 관리법/시행령/국가채권 관리법 시행령.json"
+            "target_git_path_guess": "국가채권 관리법/시행령/국가채권 관리법 시행령.json",
+            "target_git_path": "국가채권 관리법/시행령/국가채권 관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1327,7 +1350,8 @@
             "target_local_path": "별지/별지2_유지보수 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방재정정보시스템 관리 훈령/별지/별지2_유지보수 요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1357,7 +1381,8 @@
             "target_local_path": "별표/별표2_유지보수 절차도(제40조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방재정정보시스템 관리 훈령/별표/별표2_유지보수 절차도(제40조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -1529,7 +1554,9 @@
             "source_provision_id": "admrul:국방재정정보시스템관리훈령#JO0047",
             "reference_id": "law:국가회계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계법/시행령/국가회계법 시행령.json"
+            "target_git_path_guess": "국가회계법/시행령/국가회계법 시행령.json",
+            "target_git_path": "국가회계법/시행령/국가회계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

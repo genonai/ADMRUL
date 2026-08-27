@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:수입금지식물중미국산감자의수입금지제외기준#JO0001",
             "reference_id": "law:식물방역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:수입금지식물중미국산감자의수입금지제외기준#JO0001",
             "reference_id": "law:식물방역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행령/식물방역법 시행령.json"
+            "target_git_path_guess": "식물방역법/시행령/식물방역법 시행령.json",
+            "target_git_path": "식물방역법/시행령/식물방역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:수입금지식물중미국산감자의수입금지제외기준#JO0001",
             "reference_id": "law:식물방역법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행령/식물방역법 시행령.json"
+            "target_git_path_guess": "식물방역법/시행령/식물방역법 시행령.json",
+            "target_git_path": "식물방역법/시행령/식물방역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:수입금지식물중미국산감자의수입금지제외기준#JO0001",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:수입금지식물중미국산감자의수입금지제외기준#JO0001",
             "reference_id": "law:식물방역법시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -266,7 +276,8 @@
             "target_local_path": "별지/별지1_Shipper Letterhead.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지1_Shipper Letterhead.hwp"
           }
         ],
         "images": [
@@ -384,7 +395,8 @@
             "target_local_path": "별지/별지2_가공처리계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지2_가공처리계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -414,7 +426,8 @@
             "target_local_path": "별지/별지3_가공처리준수서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지3_가공처리준수서.hwp"
           }
         ],
         "images": [],
@@ -456,7 +469,8 @@
             "target_local_path": "별지/별지4_가공처리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지4_가공처리카드.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -609,7 +623,8 @@
             "target_local_path": "별지/별지1_Shipper Letterhead.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지1_Shipper Letterhead.hwp"
           }
         ],
         "images": [
@@ -850,7 +865,8 @@
             "target_local_path": "별지/별지1_Shipper Letterhead.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지1_Shipper Letterhead.hwp"
           }
         ],
         "images": [
@@ -902,7 +918,8 @@
             "target_local_path": "별지/별지1_Shipper Letterhead.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지1_Shipper Letterhead.hwp"
           }
         ],
         "images": [
@@ -999,7 +1016,8 @@
             "target_local_path": "별지/별지2_가공처리계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지2_가공처리계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1029,7 +1047,8 @@
             "target_local_path": "별지/별지3_가공처리준수서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지3_가공처리준수서.hwp"
           }
         ],
         "images": [],
@@ -1071,7 +1090,8 @@
             "target_local_path": "별지/별지4_가공처리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지4_가공처리카드.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1224,7 +1244,8 @@
             "target_local_path": "별지/별지1_Shipper Letterhead.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입금지식물 중 미국산 감자의 수입금지제외기준/별지/별지1_Shipper Letterhead.hwp"
           }
         ],
         "images": [

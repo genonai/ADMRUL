@@ -309,7 +309,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0012",
             "reference_id": "law:선거관리위원회사무관리규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json"
+            "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+            "target_git_path": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -329,7 +331,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0012",
             "reference_id": "law:선거관리위원회사무관리규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json"
+            "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+            "target_git_path": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -451,7 +455,8 @@
             "target_local_path": "별지/별지1_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지1_확인서.hwp"
           }
         ],
         "images": [],
@@ -493,7 +498,8 @@
             "target_local_path": "별지/별지2_문답서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지2_문답서.hwp"
           }
         ],
         "images": [],
@@ -535,7 +541,8 @@
             "target_local_path": "별지/별지3_질문서, 답변서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지3_질문서, 답변서.hwp"
           }
         ],
         "images": [],
@@ -601,7 +608,8 @@
             "target_local_path": "별지/별지4_시재확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지4_시재확인서.hwp"
           }
         ],
         "images": [],
@@ -676,7 +684,8 @@
             "target_local_path": "별표/별표1_인사감사 결과 처분기준(제25조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별표/별표1_인사감사 결과 처분기준(제25조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -696,7 +705,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0025",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -716,7 +727,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0025",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -770,7 +783,8 @@
             "target_local_path": "별지/별지5_범죄혐의사실 고발.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지5_범죄혐의사실 고발.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -800,7 +814,8 @@
             "target_local_path": "별지/별지6_경고장(주의장).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지6_경고장(주의장).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -868,7 +883,8 @@
             "target_local_path": "별지/별지8_범죄등 발생(종결)보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지8_범죄등 발생(종결)보고.hwp"
           },
           {
             "relation_type": "citation",
@@ -888,7 +904,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0026",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -908,7 +926,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0026",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -938,7 +958,8 @@
             "target_local_path": "별표/별표2_수사기관이 통보한 공무원 범죄사건 처분기준(제26조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별표/별표2_수사기관이 통보한 공무원 범죄사건 처분기준(제26조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -968,7 +989,8 @@
             "target_local_path": "별표/별표2_수사기관이 통보한 공무원 범죄사건 처분기준(제26조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별표/별표2_수사기관이 통보한 공무원 범죄사건 처분기준(제26조 관련).hwp"
           }
         ],
         "images": [],
@@ -1118,7 +1140,8 @@
             "target_local_path": "별지/별지9_이의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지9_이의신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1292,7 +1315,8 @@
             "target_local_path": "별지/별지10_감사대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지10_감사대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1322,7 +1346,8 @@
             "target_local_path": "별지/별지11_감사기록카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지11_감사기록카드.hwp"
           }
         ],
         "images": [],
@@ -1463,7 +1488,8 @@
             "target_local_path": "별지/별지12_적극행정면책 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지12_적극행정면책 신청서.hwp"
           }
         ],
         "images": [],
@@ -1529,7 +1555,8 @@
             "target_local_path": "별지/별지13_적극행정면책 검토서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지13_적극행정면책 검토서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1559,7 +1586,8 @@
             "target_local_path": "별지/별지14_면책심사 결과표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 감사규정/별지/별지14_면책심사 결과표.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1639,7 +1667,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0042",
             "reference_id": "law:선거관리위원회공무원규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거관리위원회 공무원규칙/법률/선거관리위원회 공무원규칙.json"
+            "target_git_path_guess": "선거관리위원회 공무원규칙/법률/선거관리위원회 공무원규칙.json",
+            "target_git_path": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1706,7 +1736,9 @@
             "source_provision_id": "admrul:선거관리위원회감사규정#JO0044",
             "reference_id": "law:선거관리위원회공무원평정규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거관리위원회 공무원평정 규칙/법률/선거관리위원회 공무원평정 규칙.json"
+            "target_git_path_guess": "선거관리위원회 공무원평정 규칙/법률/선거관리위원회 공무원평정 규칙.json",
+            "target_git_path": "선거관리위원회 공무원 평정 규칙/법률/선거관리위원회 공무원 평정 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:우정사업조달센터민원조정위원회운영등에관한지침#JO0001",
             "reference_id": "law:민원처리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json"
+            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:우정사업조달센터민원조정위원회운영등에관한지침#JO0001",
             "reference_id": "law:민원처리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/시행령/민원처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원처리에 관한 법률/시행령/민원처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:우정사업조달센터민원조정위원회운영등에관한지침#JO0001",
             "reference_id": "law:민원처리에관한법률시행령#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/시행령/민원처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원처리에 관한 법률/시행령/민원처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -183,7 +189,9 @@
             "source_provision_id": "admrul:우정사업조달센터민원조정위원회운영등에관한지침#JO0006",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -203,7 +211,9 @@
             "source_provision_id": "admrul:우정사업조달센터민원조정위원회운영등에관한지침#JO0006",
             "reference_id": "law:민원처리에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -305,7 +315,8 @@
             "target_local_path": "별지/별지1_민원조정위원회 심의안건 상정 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업조달센터 민원조정위원회 운영 등에 관한 지침/별지/별지1_민원조정위원회 심의안건 상정 요구서.hwp"
           }
         ],
         "images": [],

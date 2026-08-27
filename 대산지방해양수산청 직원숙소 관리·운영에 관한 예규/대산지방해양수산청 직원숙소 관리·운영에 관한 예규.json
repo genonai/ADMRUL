@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:대산지방해양수산청직원숙소관리운영에관한예규#JO0001",
             "reference_id": "law:국유재산법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:대산지방해양수산청직원숙소관리운영에관한예규#JO0001",
             "reference_id": "law:국유재산법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +223,8 @@
             "target_local_path": "별지/별지3_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산지방해양수산청 직원숙소 관리·운영에 관한 예규/별지/별지3_서약서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -273,7 +278,8 @@
             "target_local_path": "별지/별지4_입주연장신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산지방해양수산청 직원숙소 관리·운영에 관한 예규/별지/별지4_입주연장신청서.hwp"
           }
         ],
         "images": [],
@@ -431,7 +437,8 @@
             "target_local_path": "별지/별지6_비품 및 시설물 인계인수서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산지방해양수산청 직원숙소 관리·운영에 관한 예규/별지/별지6_비품 및 시설물 인계인수서.hwp"
           }
         ],
         "images": [],

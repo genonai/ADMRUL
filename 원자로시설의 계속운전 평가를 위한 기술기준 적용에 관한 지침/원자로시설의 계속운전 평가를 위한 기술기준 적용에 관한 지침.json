@@ -65,9 +65,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:원자로시설의계속운전평가를위한기술기준적용에관한지침#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,9 +87,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제21조",
             "resolve_method": "html",
             "source_provision_id": "admrul:원자로시설의계속운전평가를위한기술기준적용에관한지침#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0021",
+            "reference_id": "law:원자력안전법시행규칙#JO0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:원자로시설의계속운전평가를위한기술기준적용에관한지침#JO0003",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -148,9 +154,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:원자로시설의계속운전평가를위한기술기준적용에관한지침#JO0003",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -251,7 +259,8 @@
             "target_local_path": "별표/별표1_경년열화관리 대상선정 평가에 관한 사항(제5조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자로시설의 계속운전 평가를 위한 기술기준 적용에 관한 지침/별표/별표1_경년열화관리 대상선정 평가에 관한 사항(제5조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -317,7 +326,8 @@
             "target_local_path": "별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자로시설의 계속운전 평가를 위한 기술기준 적용에 관한 지침/별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -347,7 +357,8 @@
             "target_local_path": "별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자로시설의 계속운전 평가를 위한 기술기준 적용에 관한 지침/별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -377,7 +388,8 @@
             "target_local_path": "별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자로시설의 계속운전 평가를 위한 기술기준 적용에 관한 지침/별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -407,7 +419,8 @@
             "target_local_path": "별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자로시설의 계속운전 평가를 위한 기술기준 적용에 관한 지침/별표/별표2_경년열화관리계획 평가에 관한 사항(제6조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -473,7 +486,8 @@
             "target_local_path": "별표/별표3_계속운전을 위한 수명평가에 관한 사항(제7조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자로시설의 계속운전 평가를 위한 기술기준 적용에 관한 지침/별표/별표3_계속운전을 위한 수명평가에 관한 사항(제7조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -539,7 +553,8 @@
             "target_local_path": "별표/별표4_운전경험, 연구결과 반영 필요사항(제8조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자로시설의 계속운전 평가를 위한 기술기준 적용에 관한 지침/별표/별표4_운전경험, 연구결과 반영 필요사항(제8조제1항 관련).hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0001",
             "reference_id": "law:국제항해선박및항만시설의보안에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/시행령/국제항해선박 및 항만시설의 보안에 관한 법률 시행령.json"
+            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/시행령/국제항해선박 및 항만시설의 보안에 관한 법률 시행령.json",
+            "target_git_path": "국제항해선박 및 항만시설의 보안에 관한 법률/시행령/국제항해선박 및 항만시설의 보안에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0001",
             "reference_id": "law:국제항해선박및항만시설의보안에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/시행규칙/국제항해선박 및 항만시설의 보안에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/시행규칙/국제항해선박 및 항만시설의 보안에 관한 법률 시행규칙.json",
+            "target_git_path": "국제항해선박 및 항만시설의 보안에 관한 법률/시행규칙/국제항해선박 및 항만시설의 보안에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0002",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -163,7 +169,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0002",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -183,7 +191,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0002",
             "reference_id": "law:항만공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -203,7 +213,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0002",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +235,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0002",
             "reference_id": "law:사회기반시설에대한민간투자법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -407,7 +421,8 @@
             "target_local_path": "별표/별표1_출입증의 규격 및 기재사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/별표/별표1_출입증의 규격 및 기재사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -437,7 +452,8 @@
             "target_local_path": "별표/별표1_출입증의 규격 및 기재사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/별표/별표1_출입증의 규격 및 기재사항.hwp"
           }
         ],
         "images": [],
@@ -503,7 +519,8 @@
             "target_local_path": "서식/서식1_항만, 항만시설 출입업체(기관) 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식1_항만, 항만시설 출입업체(기관) 등록신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -533,7 +550,8 @@
             "target_local_path": "서식/서식2_상시 출입증(인원, 차량) 발급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식2_상시 출입증(인원, 차량) 발급 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -563,7 +581,8 @@
             "target_local_path": "서식/서식1_항만, 항만시설 출입업체(기관) 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식1_항만, 항만시설 출입업체(기관) 등록신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -593,7 +612,8 @@
             "target_local_path": "서식/서식3_임시 출입인원ㆍ차량 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식3_임시 출입인원ㆍ차량 기록부.hwp"
           }
         ],
         "images": [],
@@ -635,7 +655,8 @@
             "target_local_path": "서식/서식8_신원진술서(약식).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식8_신원진술서(약식).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -665,7 +686,8 @@
             "target_local_path": "서식/서식9_PERSONAL QUESTIONNAIRE.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식9_PERSONAL QUESTIONNAIRE.hwp"
           }
         ],
         "images": [],
@@ -708,7 +730,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부규정#JO0009",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -750,7 +774,8 @@
             "target_local_path": "서식/서식11_출입증 분실(훼손) 경위서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식11_출입증 분실(훼손) 경위서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -780,7 +805,8 @@
             "target_local_path": "서식/서식4_상시 출입증(인원, 차량) 수급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식4_상시 출입증(인원, 차량) 수급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -810,7 +836,8 @@
             "target_local_path": "서식/서식12_상시 출입증 유효기간 연장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식12_상시 출입증 유효기간 연장 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -876,7 +903,8 @@
             "target_local_path": "서식/서식6_업무일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식6_업무일지.hwp"
           }
         ],
         "images": [],
@@ -953,7 +981,8 @@
             "target_local_path": "서식/서식7_보호구역 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식7_보호구역 위반행위 적발 보고서.hwp"
           }
         ],
         "images": [],
@@ -995,7 +1024,8 @@
             "target_local_path": "서식/서식1_항만, 항만시설 출입업체(기관) 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식1_항만, 항만시설 출입업체(기관) 등록신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1025,7 +1055,8 @@
             "target_local_path": "서식/서식2_상시 출입증(인원, 차량) 발급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식2_상시 출입증(인원, 차량) 발급 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1055,7 +1086,8 @@
             "target_local_path": "서식/서식3_임시 출입인원ㆍ차량 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식3_임시 출입인원ㆍ차량 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1085,7 +1117,8 @@
             "target_local_path": "서식/서식4_상시 출입증(인원, 차량) 수급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식4_상시 출입증(인원, 차량) 수급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1115,7 +1148,8 @@
             "target_local_path": "서식/서식5_임시 출입증(인원, 차량) 수급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식5_임시 출입증(인원, 차량) 수급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1145,7 +1179,8 @@
             "target_local_path": "서식/서식6_업무일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식6_업무일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1175,7 +1210,8 @@
             "target_local_path": "서식/서식7_보호구역 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식7_보호구역 위반행위 적발 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1205,7 +1241,8 @@
             "target_local_path": "서식/서식8_신원진술서(약식).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식8_신원진술서(약식).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1235,7 +1272,8 @@
             "target_local_path": "서식/서식9_PERSONAL QUESTIONNAIRE.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식9_PERSONAL QUESTIONNAIRE.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1265,7 +1303,8 @@
             "target_local_path": "서식/서식10_인솔자 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식10_인솔자 보안서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1295,7 +1334,8 @@
             "target_local_path": "서식/서식11_출입증 분실(훼손) 경위서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식11_출입증 분실(훼손) 경위서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1325,7 +1365,8 @@
             "target_local_path": "서식/서식12_상시 출입증 유효기간 연장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부규정/서식/서식12_상시 출입증 유효기간 연장 신청서.hwp"
           }
         ],
         "images": [],

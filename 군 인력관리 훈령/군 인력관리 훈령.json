@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0001",
             "reference_id": "law:군인사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json"
+            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json",
+            "target_git_path": "군인사법/시행령/군인사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0001",
             "reference_id": "law:군인사법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json"
+            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_git_path": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0001",
             "reference_id": "law:군가산복무지원금지급대상자규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군 가산복무 지원금 지급 대상자 규정/시행규칙/군 가산복무 지원금 지급 대상자 규정 시행규칙.json"
+            "target_git_path_guess": "군 가산복무 지원금 지급 대상자 규정/시행규칙/군 가산복무 지원금 지급 대상자 규정 시행규칙.json",
+            "target_git_path": "군 가산복무 지원금 지급 대상자 규정/시행규칙/군 가산복무 지원금 지급 대상자 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -161,7 +167,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0004",
             "reference_id": "law:국방조직및정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json"
+            "target_git_path_guess": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json",
+            "target_git_path": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -181,7 +189,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0004",
             "reference_id": "law:국방조직및정원에관한통칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json"
+            "target_git_path_guess": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json",
+            "target_git_path": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -213,7 +223,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0005",
             "reference_id": "law:군인사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -233,7 +245,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0005",
             "reference_id": "law:군인사법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json"
+            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_git_path": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -253,7 +267,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0005",
             "reference_id": "law:군인사법시행규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json"
+            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_git_path": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -317,7 +333,8 @@
             "target_local_path": "별지/별지1_인력운영 중기계획.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군 인력관리 훈령/별지/별지1_인력운영 중기계획.hwp"
           },
           {
             "relation_type": "citation",
@@ -337,7 +354,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0008",
             "reference_id": "law:군인사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -357,7 +376,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0008",
             "reference_id": "law:군인사법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -387,7 +408,8 @@
             "target_local_path": "별표/별표1_손실판단 중 희망전역 및 자연손실 적용 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군 인력관리 훈령/별표/별표1_손실판단 중 희망전역 및 자연손실 적용 기준.hwp"
           }
         ],
         "images": [],
@@ -429,7 +451,8 @@
             "target_local_path": "별지/별지2_인력운영 집행계획.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군 인력관리 훈령/별지/별지2_인력운영 집행계획.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -519,7 +542,8 @@
             "target_local_path": "별지/별지5_초임획득 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군 인력관리 훈령/별지/별지5_초임획득 계획서.hwp"
           }
         ],
         "images": [],
@@ -562,7 +586,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0011",
             "reference_id": "law:군인사법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -582,7 +608,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0011",
             "reference_id": "law:군인사법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -602,7 +630,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0011",
             "reference_id": "law:군인사법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -622,7 +652,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0011",
             "reference_id": "law:군인사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json"
+            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json",
+            "target_git_path": "군인사법/시행령/군인사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -642,7 +674,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0011",
             "reference_id": "law:군인사법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json"
+            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json",
+            "target_git_path": "군인사법/시행령/군인사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -662,7 +696,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0011",
             "reference_id": "law:군인사법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json"
+            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_git_path": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -682,7 +718,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0011",
             "reference_id": "law:군인사법시행규칙#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json"
+            "target_git_path_guess": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_git_path": "군인사법/시행규칙/군인사법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -735,7 +773,8 @@
             "target_local_path": "별지/별지6_초임획득 실적서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군 인력관리 훈령/별지/별지6_초임획득 실적서.hwp"
           }
         ],
         "images": [],
@@ -778,7 +817,9 @@
             "source_provision_id": "admrul:군인력관리훈령#JO0015",
             "reference_id": "law:군가산복무지원금지급대상자규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군가산복무지원금 지급 대상자 규정/법률/군가산복무지원금 지급 대상자 규정.json"
+            "target_git_path_guess": "군가산복무지원금 지급 대상자 규정/법률/군가산복무지원금 지급 대상자 규정.json",
+            "target_git_path": "군 가산복무 지원금 지급 대상자 규정/법률/군 가산복무 지원금 지급 대상자 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -808,7 +849,8 @@
             "target_local_path": "별지/별지3_반부패 청렴 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군 인력관리 훈령/별지/별지3_반부패 청렴 서약서.hwp"
           }
         ],
         "images": [],
@@ -850,7 +892,8 @@
             "target_local_path": "별지/별지4_군 가산복무 지원금 반납 연기(면제) 재심사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군 인력관리 훈령/별지/별지4_군 가산복무 지원금 반납 연기(면제) 재심사 신청서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0001",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0001",
             "reference_id": "law:건축법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0001",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0001",
             "reference_id": "law:건설기술진흥법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0001",
             "reference_id": "law:표준설계도서등의운영에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "표준설계도서등의운영에관한규칙/법률/표준설계도서등의운영에관한규칙.json"
+            "target_git_path_guess": "표준설계도서등의운영에관한규칙/법률/표준설계도서등의운영에관한규칙.json",
+            "target_git_path": "표준설계도서 등의 운영에 관한 규칙/법률/표준설계도서 등의 운영에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0002",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0002",
             "reference_id": "law:건축법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -242,7 +256,9 @@
             "source_provision_id": "admrul:축사표준설계기술자문위원회운영지침#JO0004",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -295,7 +311,8 @@
             "target_local_path": "서식/서식1_설계자문 요청서(제6조제5항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "축사표준설계기술자문위원회 운영지침/서식/서식1_설계자문 요청서(제6조제5항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -325,7 +342,8 @@
             "target_local_path": "서식/서식2_설계 설명서 (제6조제5항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "축사표준설계기술자문위원회 운영지침/서식/서식2_설계 설명서 (제6조제5항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -355,7 +373,8 @@
             "target_local_path": "서식/서식3_자문결과 조치내용 (제6조제8항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "축사표준설계기술자문위원회 운영지침/서식/서식3_자문결과 조치내용 (제6조제8항 관련).hwp"
           }
         ],
         "images": [],

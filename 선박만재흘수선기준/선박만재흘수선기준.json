@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:선박만재흘수선기준#JO0001",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:선박만재흘수선기준#JO0001",
             "reference_id": "law:선박안전법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -491,7 +495,8 @@
             "target_local_path": "별표/별표3_만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시방법(제6조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표3_만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시방법(제6조제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -567,7 +572,8 @@
             "target_local_path": "별표/별표4_A형선박의 표정건현(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표4_A형선박의 표정건현(제7조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -597,7 +603,8 @@
             "target_local_path": "별표/별표5_B형선박의 표정건현(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표5_B형선박의 표정건현(제7조 관련).hwp"
           }
         ],
         "images": [],
@@ -639,7 +646,8 @@
             "target_local_path": "별표/별표6_이동식창구덮개를 설치한 B형선박의 수정표정건현 (제8조제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표6_이동식창구덮개를 설치한 B형선박의 수정표정건현 (제8조제2호 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -787,7 +795,8 @@
             "target_local_path": "별표/별표4_A형선박의 표정건현(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표4_A형선박의 표정건현(제7조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -817,7 +826,8 @@
             "target_local_path": "별표/별표5_B형선박의 표정건현(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표5_B형선박의 표정건현(제7조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1089,7 +1099,8 @@
             "target_local_path": "별표/별표7_목재만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시방법 (제14조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표7_목재만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시방법 (제14조제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1333,7 +1344,8 @@
             "target_local_path": "별표/별표8_만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시방법 (제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표8_만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시방법 (제17조 관련).hwp"
           }
         ],
         "images": [],
@@ -1691,7 +1703,8 @@
             "target_local_path": "별표/별표11_만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시 방법 (제29조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박만재흘수선기준/별표/별표11_만재흘수선 표시 및 이 표시와 함께 사용되는 선과 표시 방법 (제29조 관련).hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:(부산지방항공청)공항안전검사관일상점검업무규정#JO0001",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:(부산지방항공청)공항안전검사관일상점검업무규정#JO0001",
             "reference_id": "law:공항시설법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:(부산지방항공청)공항안전검사관일상점검업무규정#JO0001",
             "reference_id": "law:공항시설법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +225,8 @@
             "target_local_path": "별표/별표1_공항안전검사관 일상점검 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(부산지방항공청) 공항안전검사관 일상점검 업무규정/별표/별표1_공항안전검사관 일상점검 점검표.hwp"
           }
         ],
         "images": [],
@@ -261,7 +268,8 @@
             "target_local_path": "별지/별지1_일상점검 안전관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(부산지방항공청) 공항안전검사관 일상점검 업무규정/별지/별지1_일상점검 안전관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -291,7 +299,8 @@
             "target_local_path": "별지/별지1_일상점검 안전관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(부산지방항공청) 공항안전검사관 일상점검 업무규정/별지/별지1_일상점검 안전관리대장.hwp"
           }
         ],
         "images": [],
@@ -361,7 +370,9 @@
             "source_provision_id": "admrul:(부산지방항공청)공항안전검사관일상점검업무규정#JO0007",
             "reference_id": "law:국토교통부와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -386,7 +397,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:국토교통부와그소속기관직제시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_git_file_path": "국토교통부와 그 소속기관 직제/시행규칙/별표/별표1_지방국토관리청 등의 관할 구역(제16조ㆍ제25조 및 제45조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

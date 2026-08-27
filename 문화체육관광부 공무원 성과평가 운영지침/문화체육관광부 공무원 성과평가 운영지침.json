@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:국가공무원법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:국가공무원법#JO0040_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:국가공무원법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,9 +153,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -215,7 +225,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:연구직및지도직공무원의임용등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json"
+            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_git_path": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -240,7 +252,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:연구직및지도직공무원의임용등에관한규정#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json"
+            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_git_path": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_git_file_path": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/별표/별표2_연구관직위의 종류.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -270,7 +285,8 @@
             "target_local_path": "별표/별표2의2_별표1 및 별표2의 적용 관련.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별표/별표2의2_별표1 및 별표2의 적용 관련.hwp"
           },
           {
             "relation_type": "citation",
@@ -290,7 +306,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:별정직공무원인사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json"
+            "target_git_path_guess": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json",
+            "target_git_path": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -310,7 +328,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:교육공무원승진규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 승진규정/법률/교육공무원 승진규정.json"
+            "target_git_path_guess": "교육공무원 승진규정/법률/교육공무원 승진규정.json",
+            "target_git_path": "교육공무원 승진규정/법률/교육공무원 승진규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -340,7 +360,8 @@
             "target_local_path": "별지/별지1_공무원 성과계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지1_공무원 성과계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -370,7 +391,8 @@
             "target_local_path": "별지/별지2_공무원 성과평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지2_공무원 성과평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -400,7 +422,8 @@
             "target_local_path": "별지/별지2_공무원 성과평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지2_공무원 성과평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -430,7 +453,8 @@
             "target_local_path": "별지/별지4_성과면담결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지4_성과면담결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -460,7 +484,8 @@
             "target_local_path": "별지/별지4_성과면담결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지4_성과면담결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -490,7 +515,8 @@
             "target_local_path": "별지/별지4_성과면담결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지4_성과면담결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -520,7 +546,8 @@
             "target_local_path": "별지/별지2_공무원 성과평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지2_공무원 성과평가서.hwp"
           },
           {
             "relation_type": "citation",
@@ -540,7 +567,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -560,7 +589,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:공무원임용령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -628,7 +659,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -648,7 +681,9 @@
             "source_provision_id": "admrul:문화체육관광부공무원성과평가운영지침#JO0051",
             "reference_id": "law:공무원임용령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -702,7 +737,8 @@
             "target_local_path": "별지/별지2_공무원 성과평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지2_공무원 성과평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -732,7 +768,8 @@
             "target_local_path": "별지/별지5_이의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지5_이의신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -762,7 +799,8 @@
             "target_local_path": "별지/별지5의2_이의신청 심사결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지5의2_이의신청 심사결정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -792,7 +830,8 @@
             "target_local_path": "별지/별지5의2_이의신청 심사결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지5의2_이의신청 심사결정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -822,7 +861,8 @@
             "target_local_path": "별지/별지11_임기제공무원 성과계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지11_임기제공무원 성과계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -852,7 +892,8 @@
             "target_local_path": "별지/별지13_평가자 자가진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지13_평가자 자가진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -882,7 +923,8 @@
             "target_local_path": "별지/별지12_임기제공무원 성과목표평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지12_임기제공무원 성과목표평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -912,7 +954,8 @@
             "target_local_path": "별지/별지12_임기제공무원 성과목표평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지12_임기제공무원 성과목표평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -942,7 +985,8 @@
             "target_local_path": "별지/별지8_경력·가점 평정표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지8_경력·가점 평정표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -972,7 +1016,8 @@
             "target_local_path": "별지/별지10_승진후보자명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "문화체육관광부 공무원 성과평가 운영지침/별지/별지10_승진후보자명부.hwp"
           }
         ],
         "images": [

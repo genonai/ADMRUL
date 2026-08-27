@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양수산사이버안전센터운영규정#JO0001",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양수산사이버안전센터운영규정#JO0001",
             "reference_id": "law:정보통신기반보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:해양수산사이버안전센터운영규정#JO0001",
             "reference_id": "law:사이버안보업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
+            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:해양수산사이버안전센터운영규정#JO0001",
             "reference_id": "law:사이버안보업무규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
+            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +237,9 @@
             "source_provision_id": "admrul:해양수산사이버안전센터운영규정#JO0004",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -249,7 +259,9 @@
             "source_provision_id": "admrul:해양수산사이버안전센터운영규정#JO0004",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -523,7 +535,8 @@
             "target_local_path": "별지/별지1_[가입_탈퇴] 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산 사이버안전센터 운영규정/별지/별지1_[가입_탈퇴] 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -553,7 +566,8 @@
             "target_local_path": "별지/별지2_웹사이트 보안관제(신규_변경_삭제) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산 사이버안전센터 운영규정/별지/별지2_웹사이트 보안관제(신규_변경_삭제) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -583,7 +597,8 @@
             "target_local_path": "별지/별지1_[가입_탈퇴] 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산 사이버안전센터 운영규정/별지/별지1_[가입_탈퇴] 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -649,7 +664,8 @@
             "target_local_path": "별지/별지3_비상연락망.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산 사이버안전센터 운영규정/별지/별지3_비상연락망.hwp"
           }
         ],
         "images": [],
@@ -746,7 +762,8 @@
             "target_local_path": "별지/별지4_비밀준수서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산 사이버안전센터 운영규정/별지/별지4_비밀준수서약서.hwp"
           }
         ],
         "images": [],

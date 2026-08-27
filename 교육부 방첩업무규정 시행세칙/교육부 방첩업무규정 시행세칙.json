@@ -103,7 +103,9 @@
             "source_provision_id": "admrul:교육부방첩업무규정시행세칙#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,10 +194,12 @@
             "target_url": "https://www.law.go.kr/행정규칙/방첩업무 규정/제4조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육부방첩업무규정시행세칙#JO0004",
-            "reference_id": "admrul:방첩업무규정#JO0004_02",
+            "reference_id": "law:방첩업무규정#JO0004_02",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "방첩업무 규정/방첩업무 규정.json",
-            "target_missing_unit": true
+            "target_missing_unit": true,
+            "target_git_path": "방첩업무 규정/법률/방첩업무 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -621,7 +625,8 @@
             "target_local_path": "별지/별지1_외국인 접촉 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교육부 방첩업무규정 시행세칙/별지/별지1_외국인 접촉 신고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -651,7 +656,8 @@
             "target_local_path": "별지/별지2_외국인(외국 정보·수사기관 구성원) 접촉결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교육부 방첩업무규정 시행세칙/별지/별지2_외국인(외국 정보·수사기관 구성원) 접촉결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -693,7 +699,8 @@
             "target_local_path": "별지/별지3_외국인 등 접촉시 특이사항 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교육부 방첩업무규정 시행세칙/별지/별지3_외국인 등 접촉시 특이사항 보고.hwp"
           }
         ],
         "images": [],
@@ -735,7 +742,8 @@
             "target_local_path": "별지/별지5_외국인 근무자 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교육부 방첩업무규정 시행세칙/별지/별지5_외국인 근무자 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -765,7 +773,8 @@
             "target_local_path": "별지/별지2_외국인(외국 정보·수사기관 구성원) 접촉결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교육부 방첩업무규정 시행세칙/별지/별지2_외국인(외국 정보·수사기관 구성원) 접촉결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -926,7 +935,8 @@
             "target_local_path": "별지/별지4_PERSONAL INFORMATION.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교육부 방첩업무규정 시행세칙/별지/별지4_PERSONAL INFORMATION.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -956,7 +966,8 @@
             "target_local_path": "별지/별지5_외국인 근무자 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교육부 방첩업무규정 시행세칙/별지/별지5_외국인 근무자 현황.hwp"
           }
         ],
         "images": [],
@@ -988,7 +999,9 @@
             "source_provision_id": "admrul:교육부방첩업무규정시행세칙#JO0011",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1008,7 +1021,9 @@
             "source_provision_id": "admrul:교육부방첩업무규정시행세칙#JO0011",
             "reference_id": "law:국가공무원법#JO0026_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

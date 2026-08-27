@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:산림청예산심의위원회구성운영규정#JO0001",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:산림청예산심의위원회구성운영규정#JO0001",
             "reference_id": "law:국가재정법시행령#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:산림청예산심의위원회구성운영규정#JO0001",
             "reference_id": "law:예산성과금규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예산성과금 규정/법률/예산성과금 규정.json"
+            "target_git_path_guess": "예산성과금 규정/법률/예산성과금 규정.json",
+            "target_git_path": "예산성과금 규정/법률/예산성과금 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:산림청예산심의위원회구성운영규정#JO0001",
             "reference_id": "law:예산성과금규정#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "예산성과금 규정/법률/예산성과금 규정.json"
+            "target_git_path_guess": "예산성과금 규정/법률/예산성과금 규정.json",
+            "target_git_path": "예산성과금 규정/법률/예산성과금 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -281,7 +289,8 @@
             "target_local_path": "별지/별지1_예산심의요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 예산심의위원회 구성·운영규정/별지/별지1_예산심의요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -311,7 +320,8 @@
             "target_local_path": "별지/별지1_예산심의요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 예산심의위원회 구성·운영규정/별지/별지1_예산심의요구서.hwp"
           }
         ],
         "images": [],
@@ -364,7 +374,8 @@
             "target_local_path": "별지/별지2_회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 예산심의위원회 구성·운영규정/별지/별지2_회의록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -394,7 +405,8 @@
             "target_local_path": "별지/별지3_예산집행심의회 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 예산심의위원회 구성·운영규정/별지/별지3_예산집행심의회 의결서.hwp"
           }
         ],
         "images": [],
@@ -436,7 +448,8 @@
             "target_local_path": "별지/별지3_예산집행심의회 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 예산심의위원회 구성·운영규정/별지/별지3_예산집행심의회 의결서.hwp"
           }
         ],
         "images": [],

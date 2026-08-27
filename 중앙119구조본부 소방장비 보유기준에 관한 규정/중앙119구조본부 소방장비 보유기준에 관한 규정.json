@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:중앙119구조본부소방장비보유기준에관한규정#JO0001",
             "reference_id": "law:소방장비관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방장비관리법/시행규칙/소방장비관리법 시행규칙.json"
+            "target_git_path_guess": "소방장비관리법/시행규칙/소방장비관리법 시행규칙.json",
+            "target_git_path": "소방장비관리법/시행규칙/소방장비관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:중앙119구조본부소방장비보유기준에관한규정#JO0001",
             "reference_id": "law:소방장비관리법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방장비관리법/시행규칙/소방장비관리법 시행규칙.json"
+            "target_git_path_guess": "소방장비관리법/시행규칙/소방장비관리법 시행규칙.json",
+            "target_git_path": "소방장비관리법/시행규칙/소방장비관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -151,7 +155,8 @@
             "target_local_path": "별표/별표1_소방장비 보유기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙119구조본부 소방장비 보유기준에 관한 규정/별표/별표1_소방장비 보유기준.hwp"
           }
         ],
         "images": [],

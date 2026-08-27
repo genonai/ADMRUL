@@ -162,7 +162,9 @@
             "source_provision_id": "admrul:국방(방산)분야시험기관인정을위한추가기술요건#DOC",
             "reference_id": "law:적합성평가관리등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "적합성평가 관리 등에 관한 법률/법률/적합성평가 관리 등에 관한 법률.json"
+            "target_git_path_guess": "적합성평가 관리 등에 관한 법률/법률/적합성평가 관리 등에 관한 법률.json",
+            "target_git_path": "적합성평가 관리 등에 관한 법률/법률/적합성평가 관리 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -216,7 +218,8 @@
             "target_local_path": "별지/별지1_세부인정신청범위.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방(방산)분야 시험기관 인정을 위한 추가기술요건/별지/별지1_세부인정신청범위.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -246,7 +249,8 @@
             "target_local_path": "부속서/부속서2_규정(Normative Reference).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방(방산)분야 시험기관 인정을 위한 추가기술요건/부속서/부속서2_규정(Normative Reference).hwp"
           },
           {
             "relation_type": "citation",

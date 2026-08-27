@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:해양경찰청감찰규칙#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:해양경찰청감찰규칙#JO0002",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "admrul:해양경찰청감찰규칙#JO0002",
             "reference_id": "law:공공감사에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -172,7 +178,9 @@
             "source_provision_id": "admrul:해양경찰청감찰규칙#JO0005",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +200,9 @@
             "source_provision_id": "admrul:해양경찰청감찰규칙#JO0005",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -212,7 +222,9 @@
             "source_provision_id": "admrul:해양경찰청감찰규칙#JO0005",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -232,7 +244,9 @@
             "source_provision_id": "admrul:해양경찰청감찰규칙#JO0005",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -367,7 +381,8 @@
             "target_local_path": "별지/별지1_감찰관 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지1_감찰관 증명서.hwp"
           }
         ],
         "images": [],
@@ -475,7 +490,8 @@
             "target_local_path": "별지/별지2_출석요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지2_출석요구서.hwp"
           }
         ],
         "images": [],
@@ -517,7 +533,8 @@
             "target_local_path": "별지/별지3_심야조사 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지3_심야조사 동의서.hwp"
           }
         ],
         "images": [],
@@ -606,7 +623,8 @@
             "target_local_path": "별지/별지7_가명조서 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지7_가명조서 신청서.hwp"
           }
         ],
         "images": [],
@@ -648,7 +666,8 @@
             "target_local_path": "별지/별지8_영상녹화 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지8_영상녹화 동의서.hwp"
           }
         ],
         "images": [],
@@ -690,7 +709,8 @@
             "target_local_path": "별지/별지4_문답서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지4_문답서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -720,7 +740,8 @@
             "target_local_path": "별지/별지5_진술 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지5_진술 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -750,7 +771,8 @@
             "target_local_path": "별지/별지6_진술과정 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰청 감찰규칙/별지/별지6_진술과정 확인서.hwp"
           }
         ],
         "images": [],

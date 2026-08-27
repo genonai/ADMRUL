@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:행정공공기관RFID표준코드관리지침#DOC",
             "reference_id": "law:전자정부법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:행정공공기관RFID표준코드관리지침#DOC",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:행정공공기관RFID표준코드관리지침#DOC",
             "reference_id": "law:전자정부법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -184,7 +190,8 @@
             "target_local_path": "별지/별지1_KKR 기관코드 사용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정·공공기관 RFID표준코드 관리지침/별지/별지1_KKR 기관코드 사용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -214,7 +221,8 @@
             "target_local_path": "별지/별지1_KKR 기관코드 사용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정·공공기관 RFID표준코드 관리지침/별지/별지1_KKR 기관코드 사용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -244,7 +252,8 @@
             "target_local_path": "별지/별지2_KKR기관코드 신청 심의 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정·공공기관 RFID표준코드 관리지침/별지/별지2_KKR기관코드 신청 심의 결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -274,7 +283,8 @@
             "target_local_path": "별지/별지3_고유식별코드 구조 변경통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정·공공기관 RFID표준코드 관리지침/별지/별지3_고유식별코드 구조 변경통보서.hwp"
           },
           {
             "relation_type": "citation",
@@ -328,7 +338,8 @@
             "target_local_path": "별표/별표1_행정·공공기관용 RFID태그의 인코딩 방법(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정·공공기관 RFID표준코드 관리지침/별표/별표1_행정·공공기관용 RFID태그의 인코딩 방법(예시).hwp"
           }
         ],
         "images": [

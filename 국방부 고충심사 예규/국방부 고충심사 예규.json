@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국방부고충심사예규#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국방부고충심사예규#JO0001",
             "reference_id": "law:국가공무원법#JO0076_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국방부고충심사예규#JO0001",
             "reference_id": "law:국가공무원법#JO0076_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:국방부고충심사예규#JO0001",
             "reference_id": "law:공무원고충처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 고충 처리규정/법률/공무원 고충 처리규정.json"
+            "target_git_path_guess": "공무원 고충 처리규정/법률/공무원 고충 처리규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -213,7 +221,8 @@
             "target_local_path": "서식/서식1_고충심사청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식1_고충심사청구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -243,7 +252,8 @@
             "target_local_path": "서식/서식2_고충심사청구접수대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식2_고충심사청구접수대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -273,7 +283,8 @@
             "target_local_path": "서식/서식3_고충심사청구서처리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식3_고충심사청구서처리기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -303,7 +314,8 @@
             "target_local_path": "서식/서식4_고충심사청구처리점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식4_고충심사청구처리점검표.hwp"
           }
         ],
         "images": [],
@@ -345,7 +357,8 @@
             "target_local_path": "서식/서식5_청구서 보완요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식5_청구서 보완요구서.hwp"
           }
         ],
         "images": [],
@@ -387,7 +400,8 @@
             "target_local_path": "서식/서식6_청구접수통지 및 심사관계자료요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식6_청구접수통지 및 심사관계자료요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -417,7 +431,8 @@
             "target_local_path": "서식/서식7_고충심사청구관계자료처리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식7_고충심사청구관계자료처리기록부.hwp"
           }
         ],
         "images": [],
@@ -459,7 +474,8 @@
             "target_local_path": "서식/서식8_출석통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식8_출석통지서.hwp"
           }
         ],
         "images": [],
@@ -536,7 +552,8 @@
             "target_local_path": "서식/서식10_심사보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식10_심사보고서.hwp"
           }
         ],
         "images": [],
@@ -613,7 +630,8 @@
             "target_local_path": "서식/서식11_고충심사일통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방부 고충심사 예규/서식/서식11_고충심사일통지서.hwp"
           }
         ],
         "images": [],

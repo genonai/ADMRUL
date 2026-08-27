@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:어선해기사승선실습프로그램#JO0004",
             "reference_id": "law:선원법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/시행규칙/선원법 시행규칙.json"
+            "target_git_path_guess": "선원법/시행규칙/선원법 시행규칙.json",
+            "target_git_path": "선원법/시행규칙/선원법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -123,9 +125,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:어선해기사승선실습프로그램#JO0004",
             "target_unit": "BJ0025",
-            "reference_id": "law:선원법시행규칙#BJ0025",
+            "reference_id": "law:선원법시행규칙#FORM0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/시행규칙/선원법 시행규칙.json"
+            "target_git_path_guess": "선원법/시행규칙/선원법 시행규칙.json",
+            "target_git_path": "선원법/시행규칙/선원법 시행규칙.json",
+            "target_git_file_path": "선원법/시행규칙/서식/서식25_표준의료보고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",

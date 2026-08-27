@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:식물별현장검역방법과실험실정밀검역방법#JO0001",
             "reference_id": "law:식물방역법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:식물별현장검역방법과실험실정밀검역방법#JO0001",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:식물별현장검역방법과실험실정밀검역방법#JO0001",
             "reference_id": "law:식물방역법시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -171,7 +177,8 @@
             "target_local_path": "별표/별표1_품목별 현장검역방법 및 실험실정밀검역방법(제4조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별표/별표1_품목별 현장검역방법 및 실험실정밀검역방법(제4조제1항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -191,7 +198,9 @@
             "source_provision_id": "admrul:식물별현장검역방법과실험실정밀검역방법#JO0004",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -216,7 +225,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:식물방역법시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/별표/별표3_품목별 현장검역 수량(제18조제2항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -258,7 +270,8 @@
             "target_local_path": "별표/별표2_실험실정밀검역 시료채취기준(제5조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별표/별표2_실험실정밀검역 시료채취기준(제5조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -288,7 +301,8 @@
             "target_local_path": "별표/별표1_품목별 현장검역방법 및 실험실정밀검역방법(제4조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별표/별표1_품목별 현장검역방법 및 실험실정밀검역방법(제4조제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -342,7 +356,8 @@
             "target_local_path": "별지/별지1_반납시료 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별지/별지1_반납시료 관리대장.hwp"
           }
         ],
         "images": [],
@@ -408,7 +423,8 @@
             "target_local_path": "별지/별지2_가공처리방법 및 가공시설 승인신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별지/별지2_가공처리방법 및 가공시설 승인신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -438,7 +454,8 @@
             "target_local_path": "별지/별지3_가공처리방법 및 가공시설 승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별지/별지3_가공처리방법 및 가공시설 승인서.hwp"
           }
         ],
         "images": [],
@@ -528,7 +545,8 @@
             "target_local_path": "별지/별지4_가공처리 승인신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별지/별지4_가공처리 승인신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -558,7 +576,8 @@
             "target_local_path": "별지/별지5_가공처리 승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별지/별지5_가공처리 승인서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -660,7 +679,8 @@
             "target_local_path": "별표/별표1_품목별 현장검역방법 및 실험실정밀검역방법(제4조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별표/별표1_품목별 현장검역방법 및 실험실정밀검역방법(제4조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -690,7 +710,8 @@
             "target_local_path": "별표/별표3_금지병원체 검사대상 묘목류 목록(제6조제4항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별표/별표3_금지병원체 검사대상 묘목류 목록(제6조제4항 관련).hwp"
           }
         ],
         "images": [],
@@ -732,7 +753,8 @@
             "target_local_path": "별지/별지1_반납시료 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식물별 현장검역방법과 실험실정밀검역방법/별지/별지1_반납시료 관리대장.hwp"
           }
         ],
         "images": [],

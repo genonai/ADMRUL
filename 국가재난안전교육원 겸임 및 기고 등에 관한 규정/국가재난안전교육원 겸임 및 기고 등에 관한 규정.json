@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:국가재난안전교육원겸임및기고등에관한규정#JO0004",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json"
+            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -120,7 +122,9 @@
             "source_provision_id": "admrul:국가재난안전교육원겸임및기고등에관한규정#JO0004",
             "reference_id": "law:국가공무원복무규정#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json"
+            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -140,7 +144,9 @@
             "source_provision_id": "admrul:국가재난안전교육원겸임및기고등에관한규정#JO0004",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json"
+            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -182,7 +188,8 @@
             "target_local_path": "별지/별지1_겸임허가신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가재난안전교육원 겸임 및 기고 등에 관한 규정/별지/별지1_겸임허가신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -212,7 +219,8 @@
             "target_local_path": "별지/별지2_기고허가신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가재난안전교육원 겸임 및 기고 등에 관한 규정/별지/별지2_기고허가신청서.hwp"
           }
         ],
         "images": [],

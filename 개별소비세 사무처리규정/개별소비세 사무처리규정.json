@@ -219,7 +219,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0006_02",
             "reference_id": "law:세무사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "세무사법/법률/세무사법.json"
+            "target_git_path_guess": "세무사법/법률/세무사법.json",
+            "target_git_path": "세무사법/법률/세무사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -239,7 +241,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0006_02",
             "reference_id": "law:세무사법#JO0014_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "세무사법/법률/세무사법.json"
+            "target_git_path_guess": "세무사법/법률/세무사법.json",
+            "target_git_path": "세무사법/법률/세무사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +273,8 @@
             "target_local_path": "별지/별지6_개별소비세 수정신고 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지6_개별소비세 수정신고 안내.hwp"
           },
           {
             "relation_type": "citation",
@@ -289,7 +294,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0006_02",
             "reference_id": "law:국세기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json"
+            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_git_path": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -312,9 +319,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0006_02",
             "target_unit": "BJ0016_02",
-            "reference_id": "law:국세기본법시행규칙#BJ0016_02",
+            "reference_id": "law:국세기본법시행규칙#FORM0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json"
+            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_git_path": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_git_file_path": "국세기본법/시행규칙/서식/서식16의2_과세표준 및 세액의 결정(경정)청구서[「국세기본법」 제45조의2 또는 「소득세법」 제118조의15에 따른 결정(경정) 청구], 과세표준 및 세액의 경정청구서(「국제조세조정에 관한 법률」 제6조에 따른 경정청구).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -344,7 +354,8 @@
             "target_local_path": "별지/별지17_가정용부탄 개별소비세 환급신청내용 검토조사서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지17_가정용부탄 개별소비세 환급신청내용 검토조사서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -374,7 +385,8 @@
             "target_local_path": "별지/별지8_개별소비세 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지8_개별소비세 해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -404,7 +416,8 @@
             "target_local_path": "별지/별지9_납세자 해명자료.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지9_납세자 해명자료.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -434,7 +447,8 @@
             "target_local_path": "별지/별지1_권리보호요청제도에 대한 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지1_권리보호요청제도에 대한 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -464,7 +478,8 @@
             "target_local_path": "별지/별지4_개별소비세 해명자료 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지4_개별소비세 해명자료 검토결과 안내.hwp"
           },
           {
             "relation_type": "citation",
@@ -688,7 +703,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -708,7 +725,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "reference_id": "law:부가가치세법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -728,7 +747,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "reference_id": "law:부가가치세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -751,9 +772,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "target_unit": "BJ0001",
-            "reference_id": "law:부가가치세법시행규칙#BJ0001",
+            "reference_id": "law:부가가치세법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_file_path": "부가가치세법/시행규칙/서식/서식1_하치장 설치 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +797,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -793,7 +819,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "reference_id": "law:부가가치세법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -813,7 +841,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "reference_id": "law:부가가치세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -836,9 +866,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0009",
             "target_unit": "BJ0004",
-            "reference_id": "law:부가가치세법시행규칙#BJ0004",
+            "reference_id": "law:부가가치세법시행규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_file_path": "부가가치세법/시행규칙/서식/서식4_사업자등록 신청서(개인사업자용)(법인이 아닌 단체의 고유번호 신청서), 공동사업자 명세, 서류를 송달받을 장소, 투자조합 세부명세, 사업자 단위 과세 사업자의 종된 사업장 명세서(개인사업자용, 법인사업자용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1085,7 +1118,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0012",
             "reference_id": "law:부가가치세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1108,9 +1143,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0012",
             "target_unit": "BJ0009",
-            "reference_id": "law:부가가치세법시행규칙#BJ0009",
+            "reference_id": "law:부가가치세법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_file_path": "부가가치세법/시행규칙/서식/서식9_(휴업, 폐업) 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1224,7 +1262,8 @@
             "target_local_path": "별지/별지8_개별소비세 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지8_개별소비세 해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1254,7 +1293,8 @@
             "target_local_path": "별지/별지8_개별소비세 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지8_개별소비세 해명자료 제출 안내.hwp"
           }
         ],
         "images": [],
@@ -1369,7 +1409,8 @@
             "target_local_path": "별지/별지6_개별소비세 수정신고 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지6_개별소비세 수정신고 안내.hwp"
           }
         ],
         "images": [],
@@ -1535,7 +1576,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0018",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1555,7 +1598,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0018",
             "reference_id": "law:부가가치세법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1575,7 +1620,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0018",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1595,7 +1642,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0018",
             "reference_id": "law:개별소비세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/법률/개별소비세법.json"
+            "target_git_path_guess": "개별소비세법/법률/개별소비세법.json",
+            "target_git_path": "개별소비세법/법률/개별소비세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1627,7 +1676,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0019",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1647,7 +1698,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0019",
             "reference_id": "law:부가가치세법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1703,7 +1756,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0020",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1723,7 +1778,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0020",
             "reference_id": "law:부가가치세법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1803,7 +1860,8 @@
             "target_local_path": "별지/별지6_개별소비세 수정신고 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지6_개별소비세 수정신고 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1833,7 +1891,8 @@
             "target_local_path": "별지/별지2_개별소비세 신고관련 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지2_개별소비세 신고관련 해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1863,7 +1922,8 @@
             "target_local_path": "별지/별지7_개별소비세 수정신고 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지7_개별소비세 수정신고 검토결과 안내.hwp"
           }
         ],
         "images": [],
@@ -2124,7 +2184,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0030",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2144,7 +2206,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0030",
             "reference_id": "law:국세기본법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2164,7 +2228,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0030",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2184,7 +2250,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0030",
             "reference_id": "law:국세기본법#JO0045_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2204,7 +2272,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0030",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2224,7 +2294,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0030",
             "reference_id": "law:국세기본법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2851,7 +2923,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0047",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2871,7 +2945,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0047",
             "reference_id": "law:부가가치세법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2985,7 +3061,8 @@
             "target_local_path": "별지/별지3_신고내용 확인 처리기한 연장 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지3_신고내용 확인 처리기한 연장 통지.hwp"
           }
         ],
         "images": [],
@@ -3062,7 +3139,8 @@
             "target_local_path": "별지/별지2_개별소비세 신고관련 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지2_개별소비세 신고관련 해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3092,7 +3170,8 @@
             "target_local_path": "별지/별지1_권리보호요청제도에 대한 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지1_권리보호요청제도에 대한 안내.hwp"
           }
         ],
         "images": [],
@@ -3134,7 +3213,8 @@
             "target_local_path": "별지/별지6_개별소비세 수정신고 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지6_개별소비세 수정신고 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3164,7 +3244,8 @@
             "target_local_path": "별지/별지5_해명자료 처리기한 연장 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지5_해명자료 처리기한 연장 통지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3194,7 +3275,8 @@
             "target_local_path": "별지/별지7_개별소비세 수정신고 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지7_개별소비세 수정신고 검토결과 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3224,7 +3306,8 @@
             "target_local_path": "별지/별지4_개별소비세 해명자료 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지4_개별소비세 해명자료 검토결과 안내.hwp"
           }
         ],
         "images": [],
@@ -3338,7 +3421,8 @@
             "target_local_path": "별지/별지2_과세예고 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "과세전적부심사사무처리규정/별지/별지2_과세예고 통지.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -4038,7 +4122,8 @@
             "target_local_path": "별지/별지8_개별소비세 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지8_개별소비세 해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4068,7 +4153,8 @@
             "target_local_path": "별지/별지1_권리보호요청제도에 대한 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지1_권리보호요청제도에 대한 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4098,7 +4184,8 @@
             "target_local_path": "별지/별지9_납세자 해명자료.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지9_납세자 해명자료.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4128,7 +4215,8 @@
             "target_local_path": "별지/별지8_개별소비세 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지8_개별소비세 해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "citation",
@@ -4148,7 +4236,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0062",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4168,7 +4258,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0062",
             "reference_id": "law:국세징수법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4198,7 +4290,8 @@
             "target_local_path": "별지/별지9_납세자 해명자료.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지9_납세자 해명자료.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4228,7 +4321,8 @@
             "target_local_path": "별지/별지4_개별소비세 해명자료 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지4_개별소비세 해명자료 검토결과 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4258,7 +4352,8 @@
             "target_local_path": "별지/별지12_현장확인 결과 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지12_현장확인 결과 통지.hwp"
           },
           {
             "relation_type": "citation",
@@ -4312,7 +4407,8 @@
             "target_local_path": "별지/별지2_과세예고 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "과세전적부심사사무처리규정/별지/별지2_과세예고 통지.hwp"
           },
           {
             "relation_type": "citation",
@@ -4366,7 +4462,8 @@
             "target_local_path": "별지/별지1_세무조사 사전 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조사사무처리규정/별지/별지1_세무조사 사전 통지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4396,7 +4493,8 @@
             "target_local_path": "별지/별지4_개별소비세 해명자료 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지4_개별소비세 해명자료 검토결과 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4426,7 +4524,8 @@
             "target_local_path": "별지/별지5_해명자료 처리기한 연장 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지5_해명자료 처리기한 연장 통지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4456,7 +4555,8 @@
             "target_local_path": "별지/별지4_개별소비세 해명자료 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지4_개별소비세 해명자료 검토결과 안내.hwp"
           }
         ],
         "images": [],
@@ -4556,7 +4656,8 @@
             "target_local_path": "별지/별지10_현장확인 출장증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지10_현장확인 출장증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4586,7 +4687,8 @@
             "target_local_path": "별지/별지11_현장확인 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지11_현장확인 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -4616,7 +4718,8 @@
             "target_local_path": "별지/별지1_권리보호요청제도에 대한 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지1_권리보호요청제도에 대한 안내.hwp"
           }
         ],
         "images": [],
@@ -4728,7 +4831,8 @@
             "target_local_path": "별지/별지40_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조사사무처리규정/별지/별지40_확인서.hwp"
           },
           {
             "relation_type": "citation",
@@ -4782,7 +4886,8 @@
             "target_local_path": "별지/별지41_진술서(서술형).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조사사무처리규정/별지/별지41_진술서(서술형).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -4862,7 +4967,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0070",
             "reference_id": "law:조세범처벌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json"
+            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4988,7 +5095,8 @@
             "target_local_path": "별지/별지17_장부 등 일시보관 안내 확인 및 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조사사무처리규정/별지/별지17_장부 등 일시보관 안내 확인 및 동의서.hwp"
           },
           {
             "relation_type": "citation",
@@ -5008,7 +5116,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0070",
             "reference_id": "law:국세기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/시행령/국세기본법 시행령.json"
+            "target_git_path_guess": "국세기본법/시행령/국세기본법 시행령.json",
+            "target_git_path": "국세기본법/시행령/국세기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5028,7 +5138,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0070",
             "reference_id": "law:국세기본법시행령#JO0063_11",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/시행령/국세기본법 시행령.json"
+            "target_git_path_guess": "국세기본법/시행령/국세기본법 시행령.json",
+            "target_git_path": "국세기본법/시행령/국세기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5118,7 +5230,8 @@
             "target_local_path": "별지/별지13_재고확인대상자 관리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지13_재고확인대상자 관리기록부.hwp"
           }
         ],
         "images": [],
@@ -5184,7 +5297,8 @@
             "target_local_path": "별지/별지14_재고확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지14_재고확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -5214,7 +5328,8 @@
             "target_local_path": "별지/별지15_판매자료 비교표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지15_판매자료 비교표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -5244,7 +5359,8 @@
             "target_local_path": "별지/별지16_미입고 통보자료 일람표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지16_미입고 통보자료 일람표.hwp"
           }
         ],
         "images": [],
@@ -5382,7 +5498,8 @@
             "target_local_path": "별지/별지12_현장확인 결과 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지12_현장확인 결과 통지.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -5628,7 +5745,8 @@
             "target_local_path": "별지/별지9_납세자 해명자료.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지9_납세자 해명자료.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -5778,7 +5896,8 @@
             "target_local_path": "별지/별지12_현장확인 결과 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지12_현장확인 결과 통지.hwp"
           }
         ],
         "images": [],
@@ -5844,7 +5963,8 @@
             "target_local_path": "별지/별지12_현장확인 결과 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지12_현장확인 결과 통지.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -5982,7 +6102,8 @@
             "target_local_path": "별지/별지12_현장확인 결과 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지12_현장확인 결과 통지.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6038,7 +6159,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0082",
             "reference_id": "law:조세특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json"
+            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json",
+            "target_git_path": "조세특례제한법/법률/조세특례제한법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6058,7 +6181,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0082",
             "reference_id": "law:조세특례제한법#JO0113_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json"
+            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json",
+            "target_git_path": "조세특례제한법/법률/조세특례제한법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -6232,7 +6357,8 @@
             "target_local_path": "별지/별지14_재고확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지14_재고확인서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6298,7 +6424,8 @@
             "target_local_path": "별지/별지24_승용차 개별소비세 조건부면세 구입·반출 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지24_승용차 개별소비세 조건부면세 구입·반출 신고서.hwp"
           }
         ],
         "images": [],
@@ -6365,7 +6492,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0087",
             "reference_id": "law:장애인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6385,7 +6514,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0087",
             "reference_id": "law:국가유공자등예우및지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json"
+            "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json",
+            "target_git_path": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6425,7 +6556,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0087",
             "reference_id": "law:고엽제후유의증등환자지원및단체설립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고엽제후유의증 등 환자지원 및 단체설립에 관한 법률/법률/고엽제후유의증 등 환자지원 및 단체설립에 관한 법률.json"
+            "target_git_path_guess": "고엽제후유의증 등 환자지원 및 단체설립에 관한 법률/법률/고엽제후유의증 등 환자지원 및 단체설립에 관한 법률.json",
+            "target_git_path": "고엽제후유의증 등 환자지원 및 단체설립에 관한 법률/법률/고엽제후유의증 등 환자지원 및 단체설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -6733,7 +6866,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0091",
             "reference_id": "law:조세특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json"
+            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json",
+            "target_git_path": "조세특례제한법/법률/조세특례제한법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -6923,7 +7058,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6943,7 +7080,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6963,7 +7102,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6983,7 +7124,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7003,7 +7146,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7023,7 +7168,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7043,7 +7190,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7063,7 +7212,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7083,7 +7234,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7103,7 +7256,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7123,7 +7278,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_08",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7143,7 +7300,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_09",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7163,7 +7322,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_10",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7183,7 +7344,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_11",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7203,7 +7366,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_12",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7223,7 +7388,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_13",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7243,7 +7410,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_14",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7263,7 +7432,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_15",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7283,7 +7454,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0093",
             "reference_id": "law:국세기본법#JO0081_16",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -7395,7 +7568,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0099",
             "reference_id": "law:조세범처벌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json"
+            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7415,7 +7590,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0099",
             "reference_id": "law:조세범처벌법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json"
+            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -7481,7 +7658,8 @@
             "target_local_path": "별지/별지17_장부 등 일시보관 안내 확인 및 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조사사무처리규정/별지/별지17_장부 등 일시보관 안내 확인 및 동의서.hwp"
           }
         ],
         "images": [],
@@ -7524,7 +7702,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0102",
             "reference_id": "law:조세범처벌절차법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌절차법/법률/조세범처벌절차법.json"
+            "target_git_path_guess": "조세범처벌절차법/법률/조세범처벌절차법.json",
+            "target_git_path": "조세범 처벌절차법/법률/조세범 처벌절차법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7544,7 +7724,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0102",
             "reference_id": "law:조세범처벌절차법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌절차법/법률/조세범처벌절차법.json"
+            "target_git_path_guess": "조세범처벌절차법/법률/조세범처벌절차법.json",
+            "target_git_path": "조세범 처벌절차법/법률/조세범 처벌절차법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -7684,7 +7866,8 @@
             "target_local_path": "별지/별지2_개별소비세 신고관련 해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지2_개별소비세 신고관련 해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -7752,7 +7935,8 @@
             "target_local_path": "별지/별지17_가정용부탄 개별소비세 환급신청내용 검토조사서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지17_가정용부탄 개별소비세 환급신청내용 검토조사서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -7782,7 +7966,8 @@
             "target_local_path": "별지/별지18_석유가스충전소 기본사항 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지18_석유가스충전소 기본사항 관리카드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -7812,7 +7997,8 @@
             "target_local_path": "별지/별지19_환급 관련서류 보완요구대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지19_환급 관련서류 보완요구대장.hwp"
           }
         ],
         "images": [],
@@ -7912,7 +8098,8 @@
             "target_local_path": "별지/별지20_가정용부탄 개별소비세 일괄환급 결정결의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지20_가정용부탄 개별소비세 일괄환급 결정결의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -7942,7 +8129,8 @@
             "target_local_path": "별지/별지21_가정용부탄 개별소비세 개별환급 결정결의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지21_가정용부탄 개별소비세 개별환급 결정결의서.hwp"
           }
         ],
         "images": [],
@@ -7995,7 +8183,8 @@
             "target_local_path": "별지/별지22_가정용부탄 개별소비세 환급(공제)관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지22_가정용부탄 개별소비세 환급(공제)관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -8025,7 +8214,8 @@
             "target_local_path": "별지/별지23_가정용부탄 개별소비세 환급(공제)신청 인별 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지23_가정용부탄 개별소비세 환급(공제)신청 인별 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -8055,7 +8245,8 @@
             "target_local_path": "별지/별지18_석유가스충전소 기본사항 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지18_석유가스충전소 기본사항 관리카드.hwp"
           },
           {
             "relation_type": "citation",
@@ -8075,7 +8266,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0112",
             "reference_id": "law:석유및석유대체연료사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "석유 및 석유대체연료사업법/법률/석유 및 석유대체연료사업법.json"
+            "target_git_path_guess": "석유 및 석유대체연료사업법/법률/석유 및 석유대체연료사업법.json",
+            "target_git_path": "석유 및 석유대체연료 사업법/법률/석유 및 석유대체연료 사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -8188,7 +8381,8 @@
             "target_local_path": "별지/별지25_명령서 수령증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개별소비세 사무처리규정/별지/별지25_명령서 수령증.hwp"
           }
         ],
         "images": [],
@@ -8268,7 +8462,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8288,7 +8484,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8308,7 +8506,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8328,7 +8528,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8348,7 +8550,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8368,7 +8572,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8388,7 +8594,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8408,7 +8616,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0116",
             "reference_id": "law:국세징수법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8499,7 +8709,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0118",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8519,7 +8731,9 @@
             "source_provision_id": "admrul:개별소비세사무처리규정#JO0118",
             "reference_id": "law:국세징수법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -8796,7 +9010,9 @@
         "source_provision_id": "admrul:개별소비세사무처리규정#DOC",
         "reference_id": "law:국세기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+        "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+        "target_git_path": "국세기본법/법률/국세기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -8816,7 +9032,9 @@
         "source_provision_id": "admrul:개별소비세사무처리규정#DOC",
         "reference_id": "law:개별소비세법시행령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "개별소비세법/시행령/개별소비세법 시행령.json"
+        "target_git_path_guess": "개별소비세법/시행령/개별소비세법 시행령.json",
+        "target_git_path": "개별소비세법/시행령/개별소비세법 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -8836,7 +9054,9 @@
         "source_provision_id": "admrul:개별소비세사무처리규정#DOC",
         "reference_id": "law:개별소비세법시행규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+        "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+        "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -8856,7 +9076,9 @@
         "source_provision_id": "admrul:개별소비세사무처리규정#DOC",
         "reference_id": "law:조세특례제한법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json"
+        "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json",
+        "target_git_path": "조세특례제한법/법률/조세특례제한법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",

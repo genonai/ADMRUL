@@ -217,7 +217,8 @@
             "target_local_path": "별지/별지1_수령증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰 외사장비 관리규칙/별지/별지1_수령증.hwp"
           }
         ],
         "images": [],
@@ -293,7 +294,9 @@
             "source_provision_id": "admrul:해양경찰외사장비관리규칙#JO0010",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -357,7 +360,8 @@
             "target_local_path": "별지/별지2_외사장비 보유 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰 외사장비 관리규칙/별지/별지2_외사장비 보유 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -387,7 +391,8 @@
             "target_local_path": "별지/별지3_외사장비 소요내용.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰 외사장비 관리규칙/별지/별지3_외사장비 소요내용.hwp"
           }
         ],
         "images": [],

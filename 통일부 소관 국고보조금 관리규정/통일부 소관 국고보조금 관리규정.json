@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0001",
             "reference_id": "law:보조금관리에관한법률#JO0026_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0001",
             "reference_id": "law:보조금관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_git_path": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0003",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0003",
             "reference_id": "law:보조금관리에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -194,7 +202,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0003",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -226,7 +236,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0004",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -268,7 +280,8 @@
             "target_local_path": "별표/별표1_내역사업 단계별 분류기준 (제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별표/별표1_내역사업 단계별 분류기준 (제5조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -298,7 +311,8 @@
             "target_local_path": "별표/별표3_내역사업 관리속성 구성 (제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별표/별표3_내역사업 관리속성 구성 (제5조 관련).hwp"
           }
         ],
         "images": [],
@@ -351,7 +365,8 @@
             "target_local_path": "별표/별표4_보조사업 선정 기준(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별표/별표4_보조사업 선정 기준(제7조 관련).hwp"
           }
         ],
         "images": [],
@@ -392,9 +407,11 @@
             "target_url": "https://www.law.go.kr/법령/보조금법/제2조",
             "resolve_method": "text_supplement",
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0009",
-            "reference_id": "law:보조금법#JO0002",
+            "reference_id": "law:보조금관리에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금법/법률/보조금법.json"
+            "target_git_path_guess": "보조금법/법률/보조금법.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -436,7 +453,8 @@
             "target_local_path": "별지/별지1_보조사업 총괄표 (제10조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지1_보조사업 총괄표 (제10조 관련).hwp"
           }
         ],
         "images": [],
@@ -478,7 +496,8 @@
             "target_local_path": "별표/별표5_보조사업자 선정 기준(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별표/별표5_보조사업자 선정 기준(제11조 관련).hwp"
           }
         ],
         "images": [],
@@ -557,7 +576,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0014",
             "reference_id": "law:사회보장기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회보장기본법/법률/사회보장기본법.json"
+            "target_git_path_guess": "사회보장기본법/법률/사회보장기본법.json",
+            "target_git_path": "사회보장기본법/법률/사회보장기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -577,7 +598,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0014",
             "reference_id": "law:사회보장기본법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회보장기본법/법률/사회보장기본법.json"
+            "target_git_path_guess": "사회보장기본법/법률/사회보장기본법.json",
+            "target_git_path": "사회보장기본법/법률/사회보장기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -641,7 +664,8 @@
             "target_local_path": "별지/별지2_국고보조금 교부결정통지서 (제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지2_국고보조금 교부결정통지서 (제17조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -661,7 +685,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -681,7 +707,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#JO0031_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -701,7 +729,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -721,7 +751,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#JO0033_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -741,7 +773,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -761,7 +795,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#JO0036_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -781,7 +817,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -801,7 +839,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -821,7 +861,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -841,7 +883,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0017",
             "reference_id": "law:보조금관리에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -895,7 +939,8 @@
             "target_local_path": "별지/별지2_국고보조금 교부결정통지서 (제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지2_국고보조금 교부결정통지서 (제17조 관련).hwp"
           }
         ],
         "images": [],
@@ -927,7 +972,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0018",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -947,7 +994,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0018",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -967,7 +1016,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0018",
             "reference_id": "law:보조금관리에관한법률#JO0026_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1020,7 +1071,8 @@
             "target_local_path": "별표/별표6_보조사업비 카드 사용제한 업종 (제20조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별표/별표6_보조사업비 카드 사용제한 업종 (제20조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1050,7 +1102,8 @@
             "target_local_path": "별표/별표6_보조사업비 카드 사용제한 업종 (제20조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별표/별표6_보조사업비 카드 사용제한 업종 (제20조 관련).hwp"
           }
         ],
         "images": [],
@@ -1128,7 +1181,8 @@
             "target_local_path": "별지/별지3_보조금시스템 업무처리 위임장 및 개인정보 수집ㆍ이용ㆍ제3자 제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지3_보조금시스템 업무처리 위임장 및 개인정보 수집ㆍ이용ㆍ제3자 제공 동의서.hwp"
           }
         ],
         "images": [],
@@ -1160,7 +1214,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0022_02",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1180,7 +1236,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0022_02",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1212,7 +1270,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0023",
             "reference_id": "law:전자조달의이용및촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1232,7 +1292,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0023",
             "reference_id": "law:전자조달의이용및촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1252,7 +1314,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0023",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1272,7 +1336,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0023",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1292,7 +1358,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0023",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1312,7 +1380,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0023",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1332,7 +1402,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0023",
             "reference_id": "law:공직자의이해충돌방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1516,7 +1588,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0028",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1536,7 +1610,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0028",
             "reference_id": "law:보조금관리에관한법률#JO0026_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1556,7 +1632,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0028",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1576,7 +1654,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0028",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1700,7 +1780,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0031",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1720,7 +1802,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0031",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1740,7 +1824,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0031",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1760,7 +1846,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0031",
             "reference_id": "law:지방공기업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1780,7 +1868,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0031",
             "reference_id": "law:지방공기업법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1930,7 +2020,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0036",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1950,7 +2042,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0036",
             "reference_id": "law:형사소송법#JO0234",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2018,7 +2112,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0038",
             "reference_id": "law:국고금관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법 시행규칙.json"
+            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법 시행규칙.json",
+            "target_git_path": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2041,9 +2137,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0038",
             "target_unit": "BJ0005",
-            "reference_id": "law:국고금관리법시행규칙#BJ0005",
+            "reference_id": "law:국고금관리법시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법 시행규칙.json"
+            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법 시행규칙.json",
+            "target_git_path": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_git_file_path": "국고금 관리법/시행규칙/서식/서식5_납입고지서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2075,7 +2174,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0039",
             "reference_id": "law:국세기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json"
+            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_git_path": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2095,7 +2196,9 @@
             "source_provision_id": "admrul:통일부소관국고보조금관리규정#JO0039",
             "reference_id": "law:국세기본법시행규칙#JO0019_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json"
+            "target_git_path_guess": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_git_path": "국세기본법/시행규칙/국세기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2252,7 +2355,8 @@
             "target_local_path": "별지/별지6_중요재산 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지6_중요재산 현황.hwp"
           }
         ],
         "images": [],
@@ -2305,7 +2409,8 @@
             "target_local_path": "별지/별지7_보조금이 지원된 부동산 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지7_보조금이 지원된 부동산 증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2335,7 +2440,8 @@
             "target_local_path": "별지/별지8_부기등기 말소 대상 부동산 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지8_부기등기 말소 대상 부동산 증명서.hwp"
           }
         ],
         "images": [],
@@ -2377,7 +2483,8 @@
             "target_local_path": "별지/별지9_포상금 지급신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 소관 국고보조금 관리규정/별지/별지9_포상금 지급신청서.hwp"
           }
         ],
         "images": [],

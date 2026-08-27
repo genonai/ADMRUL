@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0001",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -99,7 +101,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0002",
             "reference_id": "law:검찰사건사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json"
+            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_git_path": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -131,7 +135,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0003",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -151,7 +157,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0003",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -171,7 +179,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0003",
             "reference_id": "law:검찰사건사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json"
+            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_git_path": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -194,9 +204,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0003",
             "target_unit": "BJ0384",
-            "reference_id": "law:검찰사건사무규칙#BJ0384",
+            "reference_id": "law:검찰사건사무규칙#FORM0384",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json"
+            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_git_path": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_git_file_path": "검찰사건사무규칙/법률/서식/서식384_신상정보 공개결정서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -226,7 +239,8 @@
             "target_local_path": "별지/별지4_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "특정중대범죄 피의자 등의 신상정보 공개에 관한 처리 지침/별지/별지4_서약서.hwp"
           }
         ],
         "images": [],
@@ -258,7 +272,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0004",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -278,7 +294,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0004",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -298,7 +316,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0004",
             "reference_id": "law:검찰사건사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json"
+            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_git_path": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -321,9 +341,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0004",
             "target_unit": "BJ0385",
-            "reference_id": "law:검찰사건사무규칙#BJ0385",
+            "reference_id": "law:검찰사건사무규칙#FORM0385",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json"
+            "target_git_path_guess": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_git_path": "검찰사건사무규칙/법률/검찰사건사무규칙.json",
+            "target_git_file_path": "검찰사건사무규칙/법률/서식/서식385_피고인 신상정보 공개청구.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -343,7 +366,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0004",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -363,7 +388,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0004",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -432,7 +459,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0006",
             "reference_id": "law:국민의형사재판참여에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json"
+            "target_git_path_guess": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json",
+            "target_git_path": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -452,7 +481,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0006",
             "reference_id": "law:국민의형사재판참여에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json"
+            "target_git_path_guess": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json",
+            "target_git_path": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -484,7 +515,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0007",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -504,7 +537,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0007",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -590,7 +625,8 @@
             "target_local_path": "별지/별지1_사건설명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "특정중대범죄 피의자 등의 신상정보 공개에 관한 처리 지침/별지/별지1_사건설명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -620,7 +656,8 @@
             "target_local_path": "별지/별지3_검사 결정 이유 고지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "특정중대범죄 피의자 등의 신상정보 공개에 관한 처리 지침/별지/별지3_검사 결정 이유 고지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -650,7 +687,8 @@
             "target_local_path": "별지/별지2_신상정보공개심의위원회 심의의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "특정중대범죄 피의자 등의 신상정보 공개에 관한 처리 지침/별지/별지2_신상정보공개심의위원회 심의의견서.hwp"
           }
         ],
         "images": [],
@@ -714,7 +752,8 @@
             "target_local_path": "별지/별지3_검사 결정 이유 고지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "특정중대범죄 피의자 등의 신상정보 공개에 관한 처리 지침/별지/별지3_검사 결정 이유 고지.hwp"
           }
         ],
         "images": [],
@@ -756,7 +795,8 @@
             "target_local_path": "별지/별지4_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "특정중대범죄 피의자 등의 신상정보 공개에 관한 처리 지침/별지/별지4_서약서.hwp"
           }
         ],
         "images": [],
@@ -810,7 +850,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0019",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -830,7 +872,9 @@
             "source_provision_id": "admrul:특정중대범죄피의자등의신상정보공개에관한처리지침#JO0019",
             "reference_id": "law:특정중대범죄피의자등신상정보공개에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
+            "target_git_path_guess": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

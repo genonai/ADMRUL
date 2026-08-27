@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0001",
             "reference_id": "law:국제항해선박및항만시설의보안에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/법률/국제항해선박 및 항만시설의 보안에 관한 법률.json"
+            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/법률/국제항해선박 및 항만시설의 보안에 관한 법률.json",
+            "target_git_path": "국제항해선박 및 항만시설의 보안에 관한 법률/법률/국제항해선박 및 항만시설의 보안에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0001",
             "reference_id": "law:국민보호와공공안전을위한테러방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json"
+            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
+            "target_git_path": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +171,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0002",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +193,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0002",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -219,7 +227,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0003",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -239,7 +249,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0003",
             "reference_id": "law:보안업무규정#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -281,7 +293,8 @@
             "target_local_path": "별지/별지1_출입증의 규격 및 기재사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지1_출입증의 규격 및 기재사항.hwp"
           }
         ],
         "images": [],
@@ -323,7 +336,8 @@
             "target_local_path": "별지/별지2_항만시설 출입업체(기관) 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지2_항만시설 출입업체(기관) 등록신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -353,7 +367,8 @@
             "target_local_path": "별지/별지3_상시 출입증(인원ㆍ차량) 발급 신청서(출입자용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지3_상시 출입증(인원ㆍ차량) 발급 신청서(출입자용).hwp"
           },
           {
             "relation_type": "citation",
@@ -373,7 +388,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0005",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -393,7 +410,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0005",
             "reference_id": "law:보안업무규정#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -423,7 +442,8 @@
             "target_local_path": "별지/별지4_상시 출입증(인원ㆍ차량) (재)발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지4_상시 출입증(인원ㆍ차량) (재)발급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -453,7 +473,8 @@
             "target_local_path": "별지/별지5_임시 출입 기록부(인원ㆍ차량).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지5_임시 출입 기록부(인원ㆍ차량).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -483,7 +504,8 @@
             "target_local_path": "별지/별지5_임시 출입 기록부(인원ㆍ차량).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지5_임시 출입 기록부(인원ㆍ차량).hwp"
           }
         ],
         "images": [],
@@ -515,7 +537,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0006",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -535,7 +559,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0006",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -555,7 +581,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0006",
             "reference_id": "law:외국환거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json"
+            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json",
+            "target_git_path": "외국환거래법/법률/외국환거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -575,7 +603,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0006",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -595,7 +625,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0006",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -615,7 +647,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0006",
             "reference_id": "law:형의실효등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -647,7 +681,9 @@
             "source_provision_id": "admrul:대산항출입절차예규#JO0007",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -689,7 +725,8 @@
             "target_local_path": "별지/별지6_출입증 분실(훼손) 경위서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지6_출입증 분실(훼손) 경위서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -719,7 +756,8 @@
             "target_local_path": "별지/별지7_상시 출입증(인원ㆍ차량) 수급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지7_상시 출입증(인원ㆍ차량) 수급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -749,7 +787,8 @@
             "target_local_path": "별지/별지8_임시 출입증(인원ㆍ차량) 수급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지8_임시 출입증(인원ㆍ차량) 수급대장.hwp"
           }
         ],
         "images": [],
@@ -791,7 +830,8 @@
             "target_local_path": "별지/별지9_상시 출입증(인원ㆍ차량) 처리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지9_상시 출입증(인원ㆍ차량) 처리대장.hwp"
           }
         ],
         "images": [],
@@ -833,7 +873,8 @@
             "target_local_path": "별지/별지10_항만견학 신청서_허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지10_항만견학 신청서_허가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -863,7 +904,8 @@
             "target_local_path": "별지/별지10_항만견학 신청서_허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지10_항만견학 신청서_허가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -893,7 +935,8 @@
             "target_local_path": "별지/별지11_항만견학 허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지11_항만견학 허가대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -923,7 +966,8 @@
             "target_local_path": "별지/별지10_항만견학 신청서_허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지10_항만견학 신청서_허가서.hwp"
           }
         ],
         "images": [],
@@ -965,7 +1009,8 @@
             "target_local_path": "별지/별지12_항만촬영 신청서_허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지12_항만촬영 신청서_허가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -995,7 +1040,8 @@
             "target_local_path": "별지/별지12_항만촬영 신청서_허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지12_항만촬영 신청서_허가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1025,7 +1071,8 @@
             "target_local_path": "별지/별지13_항만촬영 허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지13_항만촬영 허가대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1055,7 +1102,8 @@
             "target_local_path": "별지/별지12_항만촬영 신청서_허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지12_항만촬영 신청서_허가서.hwp"
           }
         ],
         "images": [],
@@ -1108,7 +1156,8 @@
             "target_local_path": "별지/별지14_항만내 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대산항 출입절차 예규/별지/별지14_항만내 위반행위 적발 보고서.hwp"
           }
         ],
         "images": [],

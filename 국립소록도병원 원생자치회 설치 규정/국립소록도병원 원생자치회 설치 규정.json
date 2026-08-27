@@ -127,7 +127,9 @@
             "source_provision_id": "admrul:국립소록도병원원생자치회설치규정#JO0002",
             "reference_id": "law:국립소록도병원운영규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립소록도병원 운영규칙/법률/국립소록도병원 운영규칙.json"
+            "target_git_path_guess": "국립소록도병원 운영규칙/법률/국립소록도병원 운영규칙.json",
+            "target_git_path": "국립소록도병원 운영규칙/법률/국립소록도병원 운영규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +149,9 @@
             "source_provision_id": "admrul:국립소록도병원원생자치회설치규정#JO0002",
             "reference_id": "law:국립소록도병원운영규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립소록도병원 운영규칙/법률/국립소록도병원 운영규칙.json"
+            "target_git_path_guess": "국립소록도병원 운영규칙/법률/국립소록도병원 운영규칙.json",
+            "target_git_path": "국립소록도병원 운영규칙/법률/국립소록도병원 운영규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -296,7 +300,8 @@
             "target_local_path": "별지/별지4_청렴이행서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 원생자치회 설치 규정/별지/별지4_청렴이행서약서.hwp"
           }
         ],
         "images": [],
@@ -793,7 +798,8 @@
             "target_local_path": "별지/별지1_후보자 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 원생자치회 설치 규정/별지/별지1_후보자 등록 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -823,7 +829,8 @@
             "target_local_path": "별지/별지2_후보자 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 원생자치회 설치 규정/별지/별지2_후보자 추천서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -853,7 +860,8 @@
             "target_local_path": "별지/별지3_선거운동원 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 원생자치회 설치 규정/별지/별지3_선거운동원 추천서.hwp"
           }
         ],
         "images": [],

@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:내용연수#DOC",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:내용연수#DOC",
             "reference_id": "law:물품관리법#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:내용연수#DOC",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -126,7 +132,9 @@
             "source_provision_id": "admrul:내용연수#DOC",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -146,7 +154,9 @@
             "source_provision_id": "admrul:내용연수#DOC",
             "reference_id": "law:물품관리법#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -176,7 +186,8 @@
             "target_local_path": "별표/별표1_내용연수표(차량 제외).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "내용연수/별표/별표1_내용연수표(차량 제외).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -206,7 +217,8 @@
             "target_local_path": "별표/별표2_내용연수표(차량).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "내용연수/별표/별표2_내용연수표(차량).hwp"
           },
           {
             "relation_type": "citation",

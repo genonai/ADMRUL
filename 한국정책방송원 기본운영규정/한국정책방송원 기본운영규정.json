@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:한국정책방송원기본운영규정#JO0001",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -142,7 +144,8 @@
             "target_local_path": "별표/별표1_업무분장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국정책방송원 기본운영규정/별표/별표1_업무분장.hwp"
           }
         ],
         "images": [],
@@ -206,7 +209,8 @@
             "target_local_path": "별표/별표2_한국정책방송원 공무원 정원표 (기준정원).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국정책방송원 기본운영규정/별표/별표2_한국정책방송원 공무원 정원표 (기준정원).hwp"
           },
           {
             "relation_type": "citation",
@@ -226,7 +230,9 @@
             "source_provision_id": "admrul:한국정책방송원기본운영규정#JO0007",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -246,7 +252,9 @@
             "source_provision_id": "admrul:한국정책방송원기본운영규정#JO0007",
             "reference_id": "law:국가공무원법#JO0026_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -266,7 +274,9 @@
             "source_provision_id": "admrul:한국정책방송원기본운영규정#JO0007",
             "reference_id": "law:행정기관의조직과정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -286,7 +296,9 @@
             "source_provision_id": "admrul:한국정책방송원기본운영규정#JO0007",
             "reference_id": "law:행정기관의조직과정원에관한통칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -316,7 +328,8 @@
             "target_local_path": "별표/별표3_한국정책방송원 공무원 한시정원표(제7조제4항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국정책방송원 기본운영규정/별표/별표3_한국정책방송원 공무원 한시정원표(제7조제4항 관련).hwp"
           }
         ],
         "images": [],
@@ -546,7 +559,9 @@
             "source_provision_id": "admrul:한국정책방송원기본운영규정#JO0026",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

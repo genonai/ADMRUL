@@ -88,7 +88,8 @@
             "target_local_path": "별표/별표1_정의(제2조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방동원정보체계 구축 및 운영에 관한 훈령/별표/별표1_정의(제2조 관련).hwp"
           }
         ],
         "images": [],
@@ -165,7 +166,8 @@
             "target_local_path": "별표/별표3_국방정보화사업 관련 기관별 업무분장(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 정보화업무 훈령/별표/별표3_국방정보화사업 관련 기관별 업무분장(제11조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -291,7 +293,9 @@
             "source_provision_id": "admrul:국방동원정보체계구축및운영에관한훈령#JO0007",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -311,7 +315,9 @@
             "source_provision_id": "admrul:국방동원정보체계구축및운영에관한훈령#JO0007",
             "reference_id": "law:공공데이터의제공및이용활성화에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공데이터의 제공 및 이용 활성화에 관한 법률/법률/공공데이터의 제공 및 이용 활성화에 관한 법률.json"
+            "target_git_path_guess": "공공데이터의 제공 및 이용 활성화에 관한 법률/법률/공공데이터의 제공 및 이용 활성화에 관한 법률.json",
+            "target_git_path": "공공데이터의 제공 및 이용 활성화에 관한 법률/법률/공공데이터의 제공 및 이용 활성화에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -363,7 +369,9 @@
             "source_provision_id": "admrul:국방동원정보체계구축및운영에관한훈령#JO0008",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/시행규칙/지속가능한 기반시설 관리 기본법 시행규칙.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/시행규칙/지속가능한 기반시설 관리 기본법 시행규칙.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/시행규칙/지속가능한 기반시설 관리 기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법시행규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/시행규칙/지속가능한 기반시설 관리 기본법 시행규칙.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/시행규칙/지속가능한 기반시설 관리 기본법 시행규칙.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/시행규칙/지속가능한 기반시설 관리 기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -192,7 +200,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0005",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -212,7 +222,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0005",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -242,7 +254,8 @@
             "target_local_path": "별지/별지1_의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기반시설관리위원회 운영세칙/별지/별지1_의견서.hwp"
           }
         ],
         "images": [],
@@ -409,7 +422,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -429,7 +444,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -449,7 +466,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -469,7 +488,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -489,7 +510,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -509,7 +532,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -529,7 +554,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -549,7 +576,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -569,7 +598,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -589,7 +620,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -609,7 +642,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -629,7 +664,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -649,7 +686,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -669,7 +708,9 @@
             "source_provision_id": "admrul:기반시설관리위원회운영세칙#JO0016",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

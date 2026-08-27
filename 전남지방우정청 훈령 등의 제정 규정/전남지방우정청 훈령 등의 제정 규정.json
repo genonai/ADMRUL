@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:전남지방우정청훈령등의제정규정#JO0004",
             "reference_id": "law:법제업무운영규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법제업무운영규정/법률/법제업무운영규정.json"
+            "target_git_path_guess": "법제업무운영규정/법률/법제업무운영규정.json",
+            "target_git_path": "법제업무 운영규정/법률/법제업무 운영규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,9 +120,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:전남지방우정청훈령등의제정규정#JO0004",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           },
           {
             "relation_type": "citation",

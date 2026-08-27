@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:상호운용성관리지침#JO0002",
             "reference_id": "law:방위사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json"
+            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_git_path": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:상호운용성관리지침#JO0002",
             "reference_id": "law:방위사업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/시행규칙/방위사업법 시행규칙.json"
+            "target_git_path_guess": "방위사업법/시행규칙/방위사업법 시행규칙.json",
+            "target_git_path": "방위사업법/시행규칙/방위사업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +227,8 @@
             "target_local_path": "별표/별표1_용어 정의.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표1_용어 정의.hwp"
           }
         ],
         "images": [],
@@ -298,7 +303,8 @@
             "target_local_path": "별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp"
           }
         ],
         "images": [
@@ -383,7 +389,8 @@
             "target_local_path": "별표/별표16_상호운용성 적용항목별 평가항목.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표16_상호운용성 적용항목별 평가항목.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -413,7 +420,8 @@
             "target_local_path": "별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -479,7 +487,8 @@
             "target_local_path": "별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp"
           }
         ],
         "images": [
@@ -531,7 +540,8 @@
             "target_local_path": "별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp"
           }
         ],
         "images": [
@@ -605,7 +615,8 @@
             "target_local_path": "별표/별표16_상호운용성 적용항목별 평가항목.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표16_상호운용성 적용항목별 평가항목.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -635,7 +646,8 @@
             "target_local_path": "별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -689,7 +701,8 @@
             "target_local_path": "별표/별표10_국방정보시스템 보호대책서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표10_국방정보시스템 보호대책서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -755,7 +768,8 @@
             "target_local_path": "별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp"
           }
         ],
         "images": [],
@@ -797,7 +811,8 @@
             "target_local_path": "별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp"
           }
         ],
         "images": [
@@ -895,7 +910,8 @@
             "target_local_path": "별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -961,7 +977,8 @@
             "target_local_path": "별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp"
           }
         ],
         "images": [],
@@ -1003,7 +1020,8 @@
             "target_local_path": "별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표2_[무기체계명] 상호운용성 확보계획(연구개발).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1069,7 +1087,8 @@
             "target_local_path": "별표/별표3_[무기체계명] 상호운용성 확보계획(구매).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표3_[무기체계명] 상호운용성 확보계획(구매).hwp"
           }
         ],
         "images": [
@@ -1179,7 +1198,8 @@
             "target_local_path": "별표/별표3_[무기체계명] 상호운용성 확보계획(구매).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표3_[무기체계명] 상호운용성 확보계획(구매).hwp"
           }
         ],
         "images": [],
@@ -1268,7 +1288,8 @@
             "target_local_path": "별표/별표4_연동합의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표4_연동합의서.hwp"
           }
         ],
         "images": [],
@@ -1310,7 +1331,8 @@
             "target_local_path": "별표/별표5_연동통제문서(ICD).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표5_연동통제문서(ICD).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1340,7 +1362,8 @@
             "target_local_path": "별표/별표6_연동통제문서(ICD) 업무 절차도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표6_연동통제문서(ICD) 업무 절차도.hwp"
           }
         ],
         "images": [],
@@ -1382,7 +1405,8 @@
             "target_local_path": "별표/별표7_상호운용성 지원시스템.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표7_상호운용성 지원시스템.hwp"
           }
         ],
         "images": [],
@@ -1468,7 +1492,8 @@
             "target_local_path": "별표/별표7_상호운용성 지원시스템.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표7_상호운용성 지원시스템.hwp"
           }
         ],
         "images": [],
@@ -1521,7 +1546,8 @@
             "target_local_path": "별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표8_국방정보기술아키텍처 필수 작성 산출물.hwp"
           }
         ],
         "images": [],
@@ -1654,7 +1680,8 @@
             "target_local_path": "별표/별표11_외국산(연합) 암호장비 획득 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표11_외국산(연합) 암호장비 획득 절차.hwp"
           }
         ],
         "images": [],
@@ -1746,7 +1773,9 @@
             "source_provision_id": "admrul:상호운용성관리지침#JO0050",
             "reference_id": "law:전파법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json"
+            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_git_path": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1769,9 +1798,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:상호운용성관리지침#JO0050",
             "target_unit": "BJ0006_02",
-            "reference_id": "law:전파법시행규칙#BJ0006_02",
+            "reference_id": "law:전파법시행규칙#FORM0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json"
+            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_git_path": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_git_file_path": "전파법/시행규칙/서식/서식6의2_주파수 사용승인(신규, 변경, 재승인)신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1791,7 +1823,9 @@
             "source_provision_id": "admrul:상호운용성관리지침#JO0050",
             "reference_id": "law:전파법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json"
+            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_git_path": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1814,9 +1848,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:상호운용성관리지침#JO0050",
             "target_unit": "BJ0006_02",
-            "reference_id": "law:전파법시행규칙#BJ0006_02",
+            "reference_id": "law:전파법시행규칙#FORM0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json"
+            "target_git_path_guess": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_git_path": "전파법/시행규칙/전파법 시행규칙.json",
+            "target_git_file_path": "전파법/시행규칙/서식/서식6의2_주파수 사용승인(신규, 변경, 재승인)신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1993,7 +2030,8 @@
             "target_local_path": "별표/별표13_상호운용성 수준측정 절차도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표13_상호운용성 수준측정 절차도.hwp"
           }
         ],
         "images": [],
@@ -2057,7 +2095,8 @@
             "target_local_path": "별표/별표14_표준적합성시험 세부 판정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상호운용성 관리지침/별표/별표14_표준적합성시험 세부 판정기준.hwp"
           }
         ],
         "images": [],

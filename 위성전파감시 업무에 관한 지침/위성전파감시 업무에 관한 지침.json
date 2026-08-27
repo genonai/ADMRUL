@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:위성전파감시업무에관한지침#JO0001",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:위성전파감시업무에관한지침#JO0001",
             "reference_id": "law:전파법#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:위성전파감시업무에관한지침#JO0001",
             "reference_id": "law:전파법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:위성전파감시업무에관한지침#JO0001",
             "reference_id": "law:전파법#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -307,7 +315,8 @@
             "target_local_path": "별지/별지1_혼신조사 처리결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위성전파감시 업무에 관한 지침/별지/별지1_혼신조사 처리결과 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -337,7 +346,8 @@
             "target_local_path": "별지/별지2_혼신보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위성전파감시 업무에 관한 지침/별지/별지2_혼신보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -367,7 +377,8 @@
             "target_local_path": "별지/별지3_긴급보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위성전파감시 업무에 관한 지침/별지/별지3_긴급보고서.hwp"
           }
         ],
         "images": [],

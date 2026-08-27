@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:원자력안전위원회수입금체납정리위원회규정#JO0001",
             "reference_id": "law:국고금관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json"
+            "target_git_path_guess": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_git_path": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:원자력안전위원회수입금체납정리위원회규정#JO0001",
             "reference_id": "law:국고금관리법시행규칙#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json"
+            "target_git_path_guess": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_git_path": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -187,7 +191,8 @@
             "target_local_path": "별지/별지1_수입금체납정리위원회 심의안.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자력안전위원회 수입금체납정리위원회 규정/별지/별지1_수입금체납정리위원회 심의안.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -217,7 +222,8 @@
             "target_local_path": "별지/별지2_수입금체납정리위원회 심의의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자력안전위원회 수입금체납정리위원회 규정/별지/별지2_수입금체납정리위원회 심의의결서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -247,7 +253,8 @@
             "target_local_path": "별지/별지3_의안가결 및 부결조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자력안전위원회 수입금체납정리위원회 규정/별지/별지3_의안가결 및 부결조서.hwp"
           }
         ],
         "images": [],
@@ -346,7 +353,8 @@
             "target_local_path": "별지/별지4_결손처분 사후관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원자력안전위원회 수입금체납정리위원회 규정/별지/별지4_결손처분 사후관리대장.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:소비자종합지원시스템운영등에관한고시#JO0001",
             "reference_id": "law:소비자기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json"
+            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json",
+            "target_git_path": "소비자기본법/법률/소비자기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:소비자종합지원시스템운영등에관한고시#JO0001",
             "reference_id": "law:소비자기본법#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json"
+            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json",
+            "target_git_path": "소비자기본법/법률/소비자기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -166,7 +170,9 @@
             "source_provision_id": "admrul:소비자종합지원시스템운영등에관한고시#JO0004",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -186,7 +192,9 @@
             "source_provision_id": "admrul:소비자종합지원시스템운영등에관한고시#JO0004",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +214,9 @@
             "source_provision_id": "admrul:소비자종합지원시스템운영등에관한고시#JO0004",
             "reference_id": "law:소비자기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json"
+            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json",
+            "target_git_path": "소비자기본법/법률/소비자기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -226,7 +236,9 @@
             "source_provision_id": "admrul:소비자종합지원시스템운영등에관한고시#JO0004",
             "reference_id": "law:소비자기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json"
+            "target_git_path_guess": "소비자기본법/법률/소비자기본법.json",
+            "target_git_path": "소비자기본법/법률/소비자기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -268,7 +280,8 @@
             "target_local_path": "별표/별표1_소비자종합지원시스템 연계 제공 자료ㆍ정보 목록(제5조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소비자종합지원시스템 운영 등에 관한 고시/별표/별표1_소비자종합지원시스템 연계 제공 자료ㆍ정보 목록(제5조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -298,7 +311,8 @@
             "target_local_path": "별표/별표2_소비자종합지원시스템 연계 피해구제 창구 목록(제5조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소비자종합지원시스템 운영 등에 관한 고시/별표/별표2_소비자종합지원시스템 연계 피해구제 창구 목록(제5조제2항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -411,7 +425,8 @@
             "target_local_path": "별표/별표3_소비자종합지원시스템 등록정보(제8조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소비자종합지원시스템 운영 등에 관한 고시/별표/별표3_소비자종합지원시스템 등록정보(제8조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -477,7 +492,8 @@
             "target_local_path": "별표/별표4_소비자종합지원시스템 등록표지 도안(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소비자종합지원시스템 운영 등에 관한 고시/별표/별표4_소비자종합지원시스템 등록표지 도안(제9조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -507,7 +523,8 @@
             "target_local_path": "별표/별표4_소비자종합지원시스템 등록표지 도안(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소비자종합지원시스템 운영 등에 관한 고시/별표/별표4_소비자종합지원시스템 등록표지 도안(제9조제1항 관련).hwp"
           }
         ],
         "images": [],

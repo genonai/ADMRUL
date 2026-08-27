@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:책이음서비스운영규정#JO0001",
             "reference_id": "law:도서관법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:책이음서비스운영규정#JO0001",
             "reference_id": "law:도서관법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -164,7 +168,8 @@
             "target_local_path": "별지/별지1_책이음서비스 참여도서관 가입 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "책이음서비스 운영규정/별지/별지1_책이음서비스 참여도서관 가입 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -218,7 +223,8 @@
             "target_local_path": "별지/별지2_책이음서비스 참여도서관 탈퇴 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "책이음서비스 운영규정/별지/별지2_책이음서비스 참여도서관 탈퇴 신청서.hwp"
           }
         ],
         "images": [],
@@ -393,7 +399,9 @@
             "source_provision_id": "admrul:책이음서비스운영규정#JO0017",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -436,7 +444,9 @@
             "source_provision_id": "admrul:책이음서비스운영규정#JO0019",
             "reference_id": "law:공공데이터의제공및이용활성화에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공데이터의 제공 및 이용 활성화에 관한 법률/법률/공공데이터의 제공 및 이용 활성화에 관한 법률.json"
+            "target_git_path_guess": "공공데이터의 제공 및 이용 활성화에 관한 법률/법률/공공데이터의 제공 및 이용 활성화에 관한 법률.json",
+            "target_git_path": "공공데이터의 제공 및 이용 활성화에 관한 법률/법률/공공데이터의 제공 및 이용 활성화에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

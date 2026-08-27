@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0001",
             "reference_id": "law:민방위기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민방위기본법/법률/민방위기본법.json"
+            "target_git_path_guess": "민방위기본법/법률/민방위기본법.json",
+            "target_git_path": "민방위기본법/법률/민방위기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0001",
             "reference_id": "law:민방위기본법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "민방위기본법/법률/민방위기본법.json"
+            "target_git_path_guess": "민방위기본법/법률/민방위기본법.json",
+            "target_git_path": "민방위기본법/법률/민방위기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -173,7 +177,8 @@
             "target_local_path": "서식/서식11_일일 근무상황표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식11_일일 근무상황표.hwp"
           }
         ],
         "images": [],
@@ -205,7 +210,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0007",
             "reference_id": "admrul:민방위경보발령전달규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -225,7 +235,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0007",
             "reference_id": "admrul:민방위경보발령전달규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -245,7 +260,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0007",
             "reference_id": "admrul:민방위경보발령전달규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -270,7 +290,13 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:민방위경보발령전달규정#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표3_중앙 민방위 경보 방송문안.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -300,7 +326,8 @@
             "target_local_path": "서식/서식5_주요기관 경보장비(신형) 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식5_주요기관 경보장비(신형) 점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -330,7 +357,8 @@
             "target_local_path": "서식/서식7_일일 경보시험 점검기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식7_일일 경보시험 점검기록부.hwp"
           }
         ],
         "images": [],
@@ -395,7 +423,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0011",
             "reference_id": "admrul:민방위경보발령전달규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -415,7 +448,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0011",
             "reference_id": "admrul:민방위경보발령전달규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -447,7 +485,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0012",
             "reference_id": "admrul:민방위경보발령전달규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -472,7 +515,13 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:민방위경보발령전달규정#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표3_중앙 민방위 경보 방송문안.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -504,7 +553,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0013",
             "reference_id": "admrul:민방위경보발령전달규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -529,7 +583,13 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:민방위경보발령전달규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표5_지역 민방위 경보 방송문안.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -571,7 +631,8 @@
             "target_local_path": "서식/서식1_근무상황 인계·인수부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식1_근무상황 인계·인수부.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -648,7 +709,8 @@
             "target_local_path": "서식/서식1_근무상황 인계·인수부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식1_근무상황 인계·인수부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -678,7 +740,8 @@
             "target_local_path": "서식/서식10_상황팀 근무변경〔대직·교대〕신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식10_상황팀 근무변경〔대직·교대〕신청서.hwp"
           }
         ],
         "images": [],
@@ -720,7 +783,8 @@
             "target_local_path": "서식/서식2_[제한·통제구역] 출입자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식2_[제한·통제구역] 출입자 명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -750,7 +814,8 @@
             "target_local_path": "서식/서식3_보안교육 일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식3_보안교육 일지.hwp"
           }
         ],
         "images": [],
@@ -782,7 +847,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0018",
             "reference_id": "admrul:민방위경보발령전달규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -802,7 +872,12 @@
             "source_provision_id": "admrul:중앙민방위경보통제센터운영규정#JO0018",
             "reference_id": "admrul:민방위경보발령전달규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json"
+            "target_git_path_guess": "민방위 경보 발령·전달규정/민방위 경보 발령·전달규정.json",
+            "target_candidates": 2,
+            "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -832,7 +907,8 @@
             "target_local_path": "서식/서식4_발전기(시험·가동), UPS 및 직통전화 점검.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식4_발전기(시험·가동), UPS 및 직통전화 점검.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -862,7 +938,8 @@
             "target_local_path": "서식/서식9_화생방 방호시설 가동 및 시설 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식9_화생방 방호시설 가동 및 시설 점검표.hwp"
           }
         ],
         "images": [],
@@ -904,7 +981,8 @@
             "target_local_path": "서식/서식5_주요기관 경보장비(신형) 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식5_주요기관 경보장비(신형) 점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -934,7 +1012,8 @@
             "target_local_path": "서식/서식6_방송사 경보장비 점검.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식6_방송사 경보장비 점검.hwp"
           }
         ],
         "images": [],
@@ -976,7 +1055,8 @@
             "target_local_path": "서식/서식7_일일 경보시험 점검기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식7_일일 경보시험 점검기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1006,7 +1086,8 @@
             "target_local_path": "서식/서식8_경보장비 관리부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙민방위경보통제센터 운영규정/서식/서식8_경보장비 관리부.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0001",
             "reference_id": "law:형사보상및명예회복에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사보상 및 명예회복에 관한 법률/시행령/형사보상 및 명예회복에 관한 법률 시행령.json"
+            "target_git_path_guess": "형사보상 및 명예회복에 관한 법률/시행령/형사보상 및 명예회복에 관한 법률 시행령.json",
+            "target_git_path": "형사보상 및 명예회복에 관한 법률/시행령/형사보상 및 명예회복에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -99,7 +101,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0002",
             "reference_id": "law:검찰청법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰청법/법률/검찰청법.json"
+            "target_git_path_guess": "검찰청법/법률/검찰청법.json",
+            "target_git_path": "검찰청법/법률/검찰청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0002",
             "reference_id": "law:검찰청법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰청법/법률/검찰청법.json"
+            "target_git_path_guess": "검찰청법/법률/검찰청법.json",
+            "target_git_path": "검찰청법/법률/검찰청법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -207,7 +213,8 @@
             "target_local_path": "별지/별지1_피의자보상청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지1_피의자보상청구서.hwp"
           }
         ],
         "images": [],
@@ -249,7 +256,8 @@
             "target_local_path": "별지/별지2_피의자 보상심의회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지2_피의자 보상심의회 회의록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -279,7 +287,8 @@
             "target_local_path": "별지/별지3_피의자 보상에 관한 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지3_피의자 보상에 관한 결정서.hwp"
           }
         ],
         "images": [],
@@ -345,7 +354,8 @@
             "target_local_path": "별지/별지4_보상결정통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지4_보상결정통지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -375,7 +385,8 @@
             "target_local_path": "별지/별지5_보상청구 기각결정 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지5_보상청구 기각결정 통지.hwp"
           }
         ],
         "images": [],
@@ -441,7 +452,8 @@
             "target_local_path": "별지/별지6_피의자 보상금 지급 청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지6_피의자 보상금 지급 청구서.hwp"
           }
         ],
         "images": [],
@@ -494,7 +506,8 @@
             "target_local_path": "별지/별지7_피의자보상처리부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지7_피의자보상처리부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -524,7 +537,8 @@
             "target_local_path": "별지/별지8_보상금 지급 통계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지8_보상금 지급 통계.hwp"
           }
         ],
         "images": [],
@@ -592,7 +606,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0012",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -612,7 +628,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0012",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -632,7 +650,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0012",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -652,7 +672,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0012",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -694,7 +716,8 @@
             "target_local_path": "별지/별지14_무죄 등 재판서 게재 처리부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지14_무죄 등 재판서 게재 처리부.hwp"
           }
         ],
         "images": [],
@@ -726,7 +749,9 @@
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0014",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -744,9 +769,11 @@
             "target_url": "https://www.law.go.kr/법령/치료감호법",
             "resolve_method": "html",
             "source_provision_id": "admrul:형사보상및명예회복에관한법률시행지침#JO0014",
-            "reference_id": "law:치료감호법#DOC",
+            "reference_id": "law:치료감호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "치료감호법/법률/치료감호법.json"
+            "target_git_path_guess": "치료감호법/법률/치료감호법.json",
+            "target_git_path": "치료감호 등에 관한 법률/법률/치료감호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -788,7 +815,8 @@
             "target_local_path": "별지/별지12_무죄 등 재판서 게재 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지12_무죄 등 재판서 게재 통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -818,7 +846,8 @@
             "target_local_path": "별지/별지13_재판서 게재 불허가 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지13_재판서 게재 불허가 통지서.hwp"
           }
         ],
         "images": [],
@@ -860,7 +889,8 @@
             "target_local_path": "별지/별지15_무죄 등 재판서 게재청구 처리현황 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "형사보상 및 명예회복에 관한 법률 시행 지침/별지/별지15_무죄 등 재판서 게재청구 처리현황 보고.hwp"
           }
         ],
         "images": [],

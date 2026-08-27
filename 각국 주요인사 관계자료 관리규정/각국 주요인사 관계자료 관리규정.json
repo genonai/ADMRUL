@@ -131,9 +131,13 @@
             "target_url": "https://www.law.go.kr/법령/공무국외여행규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:각국주요인사관계자료관리규정#JO0007",
-            "reference_id": "law:공무국외여행규정#DOC",
+            "reference_id": "SchlPubRul:공무국외여행규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무국외여행규정/법률/공무국외여행규정.json"
+            "target_git_path_guess": "공무국외여행규정/법률/공무국외여행규정.json",
+            "target_git_path": "공무국외여행규정/공무국외여행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -151,9 +155,13 @@
             "target_url": "https://www.law.go.kr/법령/공무국외여행규정/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:각국주요인사관계자료관리규정#JO0007",
-            "reference_id": "law:공무국외여행규정#JO0008",
+            "reference_id": "SchlPubRul:공무국외여행규정#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무국외여행규정/법률/공무국외여행규정.json"
+            "target_git_path_guess": "공무국외여행규정/법률/공무국외여행규정.json",
+            "target_git_path": "공무국외여행규정/공무국외여행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

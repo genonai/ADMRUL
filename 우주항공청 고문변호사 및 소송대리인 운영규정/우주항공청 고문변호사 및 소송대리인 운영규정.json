@@ -339,7 +339,9 @@
             "source_provision_id": "admrul:우주항공청고문변호사및소송대리인운영규정#JO0008",
             "reference_id": "law:변호사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "변호사법/법률/변호사법.json"
+            "target_git_path_guess": "변호사법/법률/변호사법.json",
+            "target_git_path": "변호사법/법률/변호사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -359,7 +361,9 @@
             "source_provision_id": "admrul:우주항공청고문변호사및소송대리인운영규정#JO0008",
             "reference_id": "law:변호사법#JO0090",
             "target_repo": "LAW",
-            "target_git_path_guess": "변호사법/법률/변호사법.json"
+            "target_git_path_guess": "변호사법/법률/변호사법.json",
+            "target_git_path": "변호사법/법률/변호사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -379,7 +383,9 @@
             "source_provision_id": "admrul:우주항공청고문변호사및소송대리인운영규정#JO0008",
             "reference_id": "law:정부법무공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json"
+            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json",
+            "target_git_path": "정부법무공단법/법률/정부법무공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -432,7 +438,8 @@
             "target_local_path": "별지/별지1_우주항공청 고문변호사 및 소송대리인 청렴서약.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 고문변호사 및 소송대리인 운영규정/별지/별지1_우주항공청 고문변호사 및 소송대리인 청렴서약.hwp"
           }
         ],
         "images": [],
@@ -485,7 +492,8 @@
             "target_local_path": "별지/별지2_법률자문·소송수행 결과 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 고문변호사 및 소송대리인 운영규정/별지/별지2_법률자문·소송수행 결과 평가표.hwp"
           }
         ],
         "images": [],

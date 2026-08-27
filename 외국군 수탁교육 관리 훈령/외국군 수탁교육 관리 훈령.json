@@ -132,7 +132,8 @@
             "target_local_path": "별지/별지1_교육신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국군 수탁교육 관리 훈령/별지/별지1_교육신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -162,7 +163,8 @@
             "target_local_path": "별지/별지2_건강검진증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국군 수탁교육 관리 훈령/별지/별지2_건강검진증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -192,7 +194,8 @@
             "target_local_path": "별지/별지2_건강검진증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국군 수탁교육 관리 훈령/별지/별지2_건강검진증명서.hwp"
           }
         ],
         "images": [],
@@ -280,7 +283,8 @@
             "target_local_path": "별지/별지3_수탁교육 안내(안).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국군 수탁교육 관리 훈령/별지/별지3_수탁교육 안내(안).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -429,7 +433,9 @@
             "source_provision_id": "admrul:외국군수탁교육관리훈령#JO0013",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -485,7 +491,9 @@
             "source_provision_id": "admrul:외국군수탁교육관리훈령#JO0014",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -505,7 +513,9 @@
             "source_provision_id": "admrul:외국군수탁교육관리훈령#JO0014",
             "reference_id": "law:출입국관리법#JO0019_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -569,7 +579,8 @@
             "target_local_path": "별지/별지4_수탁교육 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국군 수탁교육 관리 훈령/별지/별지4_수탁교육 결과보고서.hwp"
           }
         ],
         "images": [],
@@ -688,7 +699,9 @@
             "source_provision_id": "admrul:외국군수탁교육관리훈령#JO0024",
             "reference_id": "law:군보건의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군보건의료에 관한 법률/법률/군보건의료에 관한 법률.json"
+            "target_git_path_guess": "군보건의료에 관한 법률/법률/군보건의료에 관한 법률.json",
+            "target_git_path": "군보건의료에 관한 법률/법률/군보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -708,7 +721,9 @@
             "source_provision_id": "admrul:외국군수탁교육관리훈령#JO0024",
             "reference_id": "law:군보건의료에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "군보건의료에 관한 법률/법률/군보건의료에 관한 법률.json"
+            "target_git_path_guess": "군보건의료에 관한 법률/법률/군보건의료에 관한 법률.json",
+            "target_git_path": "군보건의료에 관한 법률/법률/군보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

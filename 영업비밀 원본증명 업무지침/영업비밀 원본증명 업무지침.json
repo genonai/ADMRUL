@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0001",
             "reference_id": "law:부정경쟁방지및영업비밀보호에관한법률#JO0009_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json"
+            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_git_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0001",
             "reference_id": "law:부정경쟁방지및영업비밀보호에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/시행령/부정경쟁방지 및 영업비밀보호에 관한 법률 시행령.json"
+            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/시행령/부정경쟁방지 및 영업비밀보호에 관한 법률 시행령.json",
+            "target_git_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/시행령/부정경쟁방지 및 영업비밀보호에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:부정경쟁방지및영업비밀보호에관한법률시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/시행령/부정경쟁방지 및 영업비밀보호에 관한 법률 시행령.json"
+            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/시행령/부정경쟁방지 및 영업비밀보호에 관한 법률 시행령.json",
+            "target_git_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/시행령/부정경쟁방지 및 영업비밀보호에 관한 법률 시행령.json",
+            "target_git_file_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/시행령/별표/별표1_원본증명기관의 안전성 및 신뢰성 확보 조치(제3조의4 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -257,7 +264,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0010",
             "reference_id": "law:부정경쟁방지및영업비밀보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json"
+            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_git_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -277,7 +286,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0010",
             "reference_id": "law:부정경쟁방지및영업비밀보호에관한법률#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json"
+            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_git_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -307,7 +318,8 @@
             "target_local_path": "별지/별지1_영업비밀 원본증명 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "영업비밀 원본증명 업무지침/별지/별지1_영업비밀 원본증명 신청서.hwp"
           }
         ],
         "images": [],
@@ -349,7 +361,8 @@
             "target_local_path": "별지/별지2_위임장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "영업비밀 원본증명 업무지침/별지/별지2_위임장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -379,7 +392,8 @@
             "target_local_path": "별지/별지3_원본증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "영업비밀 원본증명 업무지침/별지/별지3_원본증명서.hwp"
           }
         ],
         "images": [],
@@ -411,7 +425,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0012",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -431,7 +447,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0012",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -511,7 +529,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0013",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -531,7 +551,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0013",
             "reference_id": "law:상업등기법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상업등기법/법률/상업등기법.json"
+            "target_git_path_guess": "상업등기법/법률/상업등기법.json",
+            "target_git_path": "상업등기법/법률/상업등기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -551,7 +573,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0013",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -571,7 +595,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0013",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -591,7 +617,9 @@
             "source_provision_id": "admrul:영업비밀원본증명업무지침#JO0013",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

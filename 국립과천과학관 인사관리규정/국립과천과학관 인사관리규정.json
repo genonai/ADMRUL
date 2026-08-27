@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립과천과학관인사관리규정#JO0001",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의설치ㆍ운영에관한법률/시행령/책임운영기관의설치ㆍ운영에관한법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의설치ㆍ운영에관한법률/시행령/책임운영기관의설치ㆍ운영에관한법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -502,7 +504,9 @@
             "source_provision_id": "admrul:국립과천과학관인사관리규정#JO0022",
             "reference_id": "law:모범공무원규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "모범공무원 규정/법률/모범공무원 규정.json"
+            "target_git_path_guess": "모범공무원 규정/법률/모범공무원 규정.json",
+            "target_git_path": "모범공무원 규정/법률/모범공무원 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -588,7 +592,8 @@
             "target_local_path": "별표/별표1_총 근무기간 5년을 초과하여 추가로 5년 범위 근무기간 연장요건, 근무성적평가 등급에 관한 일반직 환산기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과천과학관 인사관리규정/별표/별표1_총 근무기간 5년을 초과하여 추가로 5년 범위 근무기간 연장요건, 근무성적평가 등급에 관한 일반직 환산기준표.hwp"
           },
           {
             "relation_type": "internal_ref",

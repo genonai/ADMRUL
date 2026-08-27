@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:자동차성능상태점검자의보증범위#JO0001",
             "reference_id": "law:자동차관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행령/자동차관리법 시행령.json"
+            "target_git_path_guess": "자동차관리법/시행령/자동차관리법 시행령.json",
+            "target_git_path": "자동차관리법/시행령/자동차관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:자동차성능상태점검자의보증범위#JO0001",
             "reference_id": "law:자동차관리법시행령#JO0013_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행령/자동차관리법 시행령.json"
+            "target_git_path_guess": "자동차관리법/시행령/자동차관리법 시행령.json",
+            "target_git_path": "자동차관리법/시행령/자동차관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -122,9 +126,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:자동차성능상태점검자의보증범위#JO0002",
             "target_unit": "BJ0082",
-            "reference_id": "law:자동차관리법시행규칙#BJ0082",
+            "reference_id": "law:자동차관리법시행규칙#FORM0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json"
+            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_path": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_file_path": "자동차관리법/시행규칙/서식/서식82_자동차성능ㆍ상태점검기록부(자동차가격조사ㆍ산정 선택).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -166,7 +173,8 @@
             "target_local_path": "별표/별표1_중고자동차 성능·상태점검 보증범위(제3조관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자동차성능·상태점검자의 보증범위/별표/별표1_중고자동차 성능·상태점검 보증범위(제3조관련).hwp"
           }
         ],
         "images": [],

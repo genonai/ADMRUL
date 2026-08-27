@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0001",
             "reference_id": "law:국가공무원법#JO0076_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0001",
             "reference_id": "law:소방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0001",
             "reference_id": "law:소방공무원법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0001",
             "reference_id": "law:공무원고충처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0001",
             "reference_id": "law:공무원고충처리규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +199,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0001",
             "reference_id": "law:공무원고충처리규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -273,7 +287,8 @@
             "target_local_path": "서식/서식1_고충심사 청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식1_고충심사 청구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -303,7 +318,8 @@
             "target_local_path": "서식/서식2_고충심사청구 접수부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식2_고충심사청구 접수부.hwp"
           }
         ],
         "images": [],
@@ -345,7 +361,8 @@
             "target_local_path": "서식/서식3_고충심사청구서 보완요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식3_고충심사청구서 보완요구서.hwp"
           }
         ],
         "images": [],
@@ -387,7 +404,8 @@
             "target_local_path": "서식/서식4_고충심사청구 접수통지 및 심사관계자료 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식4_고충심사청구 접수통지 및 심사관계자료 요구서.hwp"
           }
         ],
         "images": [],
@@ -429,7 +447,8 @@
             "target_local_path": "서식/서식5_청취·문답서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식5_청취·문답서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -459,7 +478,8 @@
             "target_local_path": "서식/서식6_출석 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식6_출석 통지서.hwp"
           }
         ],
         "images": [],
@@ -501,7 +521,8 @@
             "target_local_path": "서식/서식7_심사기일통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식7_심사기일통지서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -555,7 +576,8 @@
             "target_local_path": "서식/서식8_대리인 지정서 제출.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식8_대리인 지정서 제출.hwp"
           }
         ],
         "images": [],
@@ -608,7 +630,8 @@
             "target_local_path": "서식/서식9_고충청구 취하서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식9_고충청구 취하서.hwp"
           }
         ],
         "images": [],
@@ -650,7 +673,8 @@
             "target_local_path": "서식/서식10_심사조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식10_심사조서.hwp"
           }
         ],
         "images": [],
@@ -692,7 +716,8 @@
             "target_local_path": "서식/서식11_고충심사결정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식11_고충심사결정.hwp"
           }
         ],
         "images": [],
@@ -756,7 +781,8 @@
             "target_local_path": "서식/서식12_심사자료 (열람_복사) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식12_심사자료 (열람_복사) 신청서.hwp"
           }
         ],
         "images": [],
@@ -798,7 +824,8 @@
             "target_local_path": "서식/서식13_처리결과 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 공무원 고충처리 운영규정/서식/서식13_처리결과 통보서.hwp"
           }
         ],
         "images": [],
@@ -830,7 +857,9 @@
             "source_provision_id": "admrul:소방청공무원고충처리운영규정#JO0019",
             "reference_id": "law:공무원고충처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

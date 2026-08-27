@@ -223,7 +223,8 @@
             "target_local_path": "별지/별지1_신원확인용 시료채혈·보관·신원확인검사 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신원확인용 인체유래물 보관사업 운영 훈령/별지/별지1_신원확인용 시료채혈·보관·신원확인검사 동의서.hwp"
           }
         ],
         "images": [],
@@ -276,7 +277,8 @@
             "target_local_path": "별지/별지2_신원확인용 인체유래물 폐기 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신원확인용 인체유래물 보관사업 운영 훈령/별지/별지2_신원확인용 인체유래물 폐기 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -306,7 +308,8 @@
             "target_local_path": "별지/별지3_신원확인용 인체유래물 폐기 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신원확인용 인체유래물 보관사업 운영 훈령/별지/별지3_신원확인용 인체유래물 폐기 대장.hwp"
           }
         ],
         "images": [],
@@ -455,7 +458,9 @@
             "source_provision_id": "admrul:신원확인용인체유래물보관사업운영훈령#JO0019",
             "reference_id": "law:생명윤리및안전에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,7 +480,9 @@
             "source_provision_id": "admrul:신원확인용인체유래물보관사업운영훈령#JO0019",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -495,7 +502,9 @@
             "source_provision_id": "admrul:신원확인용인체유래물보관사업운영훈령#JO0019",
             "reference_id": "law:폐기물관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/시행령/폐기물관리법 시행령.json"
+            "target_git_path_guess": "폐기물관리법/시행령/폐기물관리법 시행령.json",
+            "target_git_path": "폐기물관리법/시행령/폐기물관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

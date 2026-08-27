@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국가기록원기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국가기록원기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국가기록원기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -265,7 +271,8 @@
             "target_local_path": "별지/별지2_기록물평가심의회 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 기록관 운영 규정/별지/별지2_기록물평가심의회 의결서.hwp"
           }
         ],
         "images": [],

@@ -298,7 +298,9 @@
             "source_provision_id": "admrul:국립공주병원도서실운영규정#JO0022",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json"
+            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -387,7 +389,8 @@
             "target_local_path": "별지/별지1_도서대출신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립공주병원 도서실운영 규정/별지/별지1_도서대출신청서.hwp"
           }
         ],
         "images": [],

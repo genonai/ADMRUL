@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립농업과학원예산집행심의회운영규정#JO0001",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립농업과학원예산집행심의회운영규정#JO0001",
             "reference_id": "law:국가재정법시행령#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -242,7 +246,8 @@
             "target_local_path": "별지/별지1_예산집행심의요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립농업과학원 예산집행심의회 운영규정/별지/별지1_예산집행심의요구서.hwp"
           }
         ],
         "images": [],
@@ -308,7 +313,8 @@
             "target_local_path": "별지/별지2_예산집행심의통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립농업과학원 예산집행심의회 운영규정/별지/별지2_예산집행심의통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -338,7 +344,8 @@
             "target_local_path": "별지/별지3_예산집행 심의안건처리부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립농업과학원 예산집행심의회 운영규정/별지/별지3_예산집행 심의안건처리부.hwp"
           }
         ],
         "images": [],

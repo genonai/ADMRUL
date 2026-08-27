@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:외국인계절근로자상해보험의사망장해보험금액고시:admrul_2119073#DOC",
             "reference_id": "law:농어업고용인력지원특별법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "농어업고용인력 지원 특별법/법률/농어업고용인력 지원 특별법.json"
+            "target_git_path_guess": "농어업고용인력 지원 특별법/법률/농어업고용인력 지원 특별법.json",
+            "target_git_path": "농어업고용인력 지원 특별법/법률/농어업고용인력 지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:외국인계절근로자상해보험의사망장해보험금액고시:admrul_2119073#DOC",
             "reference_id": "law:농어업고용인력지원특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json"
+            "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json",
+            "target_git_path": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:외국인계절근로자상해보험의사망장해보험금액고시:admrul_2119073#DOC",
             "reference_id": "law:농어업고용인력지원특별법시행령#JO0008_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json"
+            "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json",
+            "target_git_path": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -126,7 +132,11 @@
             "source_provision_id": "admrul:외국인계절근로자상해보험의사망장해보험금액고시:admrul_2119073#DOC",
             "reference_id": "admrul:보험업감독업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보험업감독업무시행세칙/보험업감독업무시행세칙.json"
+            "target_git_path_guess": "보험업감독업무시행세칙/보험업감독업무시행세칙.json",
+            "target_git_path": "보험업감독업무시행세칙/보험업감독업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -151,7 +161,12 @@
             "target_unit": "BYL0015",
             "reference_id": "admrul:보험업감독업무시행세칙#BYL0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보험업감독업무시행세칙/보험업감독업무시행세칙.json"
+            "target_git_path_guess": "보험업감독업무시행세칙/보험업감독업무시행세칙.json",
+            "target_git_path": "보험업감독업무시행세칙/보험업감독업무시행세칙.json",
+            "target_git_file_path": "보험업감독업무시행세칙/별표/별표15_표준약관(제5-13조제1항관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -176,7 +191,8 @@
             "target_unit": "BT0009",
             "reference_id": "admrul:외국인계절근로자상해보험의사망장해보험금액고시:admrul_2119073#BT0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시/외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시.json"
+            "target_git_path_guess": "외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시/외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -196,7 +212,11 @@
             "source_provision_id": "admrul:외국인계절근로자상해보험의사망장해보험금액고시:admrul_2119073#DOC",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -276,5 +296,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시/admrul_2119073/외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시.json"
+  "git_path": "외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시/admrul_2119073/외국인 계절근로자 상해보험의 사망ㆍ장해 보험금액 고시.json",
+  "_schlpub_id_suffix": "admrul_2119073"
 }

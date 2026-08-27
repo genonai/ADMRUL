@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:안전확인대상어린이제품의안전기준#JO0001",
             "reference_id": "law:어린이제품안전특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어린이제품 안전 특별법/법률/어린이제품 안전 특별법.json"
+            "target_git_path_guess": "어린이제품 안전 특별법/법률/어린이제품 안전 특별법.json",
+            "target_git_path": "어린이제품 안전 특별법/법률/어린이제품 안전 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:안전확인대상어린이제품의안전기준#JO0001",
             "reference_id": "law:어린이제품안전특별법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "어린이제품 안전 특별법/법률/어린이제품 안전 특별법.json"
+            "target_git_path_guess": "어린이제품 안전 특별법/법률/어린이제품 안전 특별법.json",
+            "target_git_path": "어린이제품 안전 특별법/법률/어린이제품 안전 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:안전확인대상어린이제품의안전기준#JO0002",
             "reference_id": "law:어린이제품안전특별법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어린이제품 안전 특별법/시행규칙/어린이제품 안전 특별법 시행규칙.json"
+            "target_git_path_guess": "어린이제품 안전 특별법/시행규칙/어린이제품 안전 특별법 시행규칙.json",
+            "target_git_path": "어린이제품 안전 특별법/시행규칙/어린이제품 안전 특별법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -168,7 +174,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:어린이제품안전특별법시행규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "어린이제품 안전 특별법/시행규칙/어린이제품 안전 특별법 시행규칙.json"
+            "target_git_path_guess": "어린이제품 안전 특별법/시행규칙/어린이제품 안전 특별법 시행규칙.json",
+            "target_git_path": "어린이제품 안전 특별법/시행규칙/어린이제품 안전 특별법 시행규칙.json",
+            "target_git_file_path": "어린이제품 안전 특별법/시행규칙/별표/별표2_안전확인대상어린이제품의 종류 및 적용 안전기준(제2조제2항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -198,7 +207,8 @@
             "target_local_path": "부속서/부속서1_유아용 섬유제품.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서1_유아용 섬유제품.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -228,7 +238,8 @@
             "target_local_path": "부속서/부속서2_합성수지제 어린이용품.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서2_합성수지제 어린이용품.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -258,7 +269,8 @@
             "target_local_path": "부속서/부속서3_어린이용 스포츠 보호용품(보호장구 및 안전모).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서3_어린이용 스포츠 보호용품(보호장구 및 안전모).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -288,7 +300,8 @@
             "target_local_path": "부속서/부속서4_어린이용 스케이트보드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서4_어린이용 스케이트보드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -318,7 +331,8 @@
             "target_local_path": "부속서/부속서5_어린이용 이단침대.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서5_어린이용 이단침대.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -348,7 +362,8 @@
             "target_local_path": "부속서/부속서6_완구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서6_완구.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -378,7 +393,8 @@
             "target_local_path": "부속서/부속서7_유아용 삼륜차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서7_유아용 삼륜차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -408,7 +424,8 @@
             "target_local_path": "부속서/부속서8_유아용 의자.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서8_유아용 의자.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -438,7 +455,8 @@
             "target_local_path": "부속서/부속서9_어린이용 자전거.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서9_어린이용 자전거.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -468,7 +486,8 @@
             "target_local_path": "부속서/부속서11_학용품.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서11_학용품.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -498,7 +517,8 @@
             "target_local_path": "부속서/부속서12_보행기.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서12_보행기.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +548,8 @@
             "target_local_path": "부속서/부속서13_유모차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서13_유모차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -558,7 +579,8 @@
             "target_local_path": "부속서/부속서14_유아용 침대.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서14_유아용 침대.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -588,7 +610,8 @@
             "target_local_path": "부속서/부속서15_어린이용 온열팩.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서15_어린이용 온열팩.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -618,7 +641,8 @@
             "target_local_path": "부속서/부속서16_유아용 캐리어.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서16_유아용 캐리어.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -648,7 +672,8 @@
             "target_local_path": "부속서/부속서17_어린이용 스포츠 구명복.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상 어린이제품의 안전기준/부속서/부속서17_어린이용 스포츠 구명복.hwp"
           }
         ],
         "images": [],
@@ -680,7 +705,9 @@
             "source_provision_id": "admrul:안전확인대상어린이제품의안전기준#JO0003",
             "reference_id": "law:전기용품및생활용품안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -700,7 +727,9 @@
             "source_provision_id": "admrul:안전확인대상어린이제품의안전기준#JO0003",
             "reference_id": "law:전기용품및생활용품안전관리법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

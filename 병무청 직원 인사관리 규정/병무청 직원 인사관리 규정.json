@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0001",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0001",
             "reference_id": "law:공무원인재개발법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,9 +131,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0001",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0002",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0002",
             "reference_id": "law:공무원인재개발법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -217,9 +231,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0002",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -296,7 +312,8 @@
             "target_local_path": "별표/별표1_병무인사방 구성ㆍ운영.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표1_병무인사방 구성ㆍ운영.hwp"
           }
         ],
         "images": [],
@@ -472,7 +489,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0007",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -492,7 +511,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0007",
             "reference_id": "law:보안업무규정#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -512,7 +533,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0007",
             "reference_id": "law:공무원채용신체검사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 채용 신체검사 규정/법률/공무원 채용 신체검사 규정.json"
+            "target_git_path_guess": "공무원 채용 신체검사 규정/법률/공무원 채용 신체검사 규정.json",
+            "target_git_path": "공무원 채용 신체검사 규정/법률/공무원 채용 신체검사 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -602,7 +625,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0009_03",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -622,7 +647,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0009_03",
             "reference_id": "law:공무원보수규정#JO0037_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -725,7 +752,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0012",
             "reference_id": "law:연구직및지도직공무원의임용등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json"
+            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_git_path": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -788,7 +817,8 @@
             "target_local_path": "별지/별지1_공무원 근무성적평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지1_공무원 근무성적평가서.hwp"
           }
         ],
         "images": [],
@@ -830,7 +860,8 @@
             "target_local_path": "별지/별지2_공무원 성과계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지2_공무원 성과계획서.hwp"
           }
         ],
         "images": [],
@@ -872,7 +903,8 @@
             "target_local_path": "별지/별지3_성과기록 및 성과면담결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지3_성과기록 및 성과면담결과서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -902,7 +934,8 @@
             "target_local_path": "별지/별지1_공무원 근무성적평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지1_공무원 근무성적평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -932,7 +965,8 @@
             "target_local_path": "별지/별지24_평가자 자가진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지24_평가자 자가진단서.hwp"
           }
         ],
         "images": [
@@ -984,7 +1018,8 @@
             "target_local_path": "별지/별지4_평가단위별 평가결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지4_평가단위별 평가결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1014,7 +1049,8 @@
             "target_local_path": "별지/별지5_개인별 상향평가 기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지5_개인별 상향평가 기술서.hwp"
           }
         ],
         "images": [],
@@ -1056,7 +1092,8 @@
             "target_local_path": "별표/별표3_위원회 구성ㆍ운영 등.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표3_위원회 구성ㆍ운영 등.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1086,7 +1123,8 @@
             "target_local_path": "별지/별지6_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지6_서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1116,7 +1154,8 @@
             "target_local_path": "별지/별지7_근무성적평가위원회 평가결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지7_근무성적평가위원회 평가결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1146,7 +1185,8 @@
             "target_local_path": "별표/별표7의2_직무수행능력관련 가등급 부여 시 판단기준 및 처리절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표7의2_직무수행능력관련 가등급 부여 시 판단기준 및 처리절차.hwp"
           }
         ],
         "images": [
@@ -1207,7 +1247,8 @@
             "target_local_path": "별지/별지8_이의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지8_이의신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1237,7 +1278,8 @@
             "target_local_path": "별지/별지8의2_이의신청 심사결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지8의2_이의신청 심사결정서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1304,7 +1346,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0021",
             "reference_id": "law:연구직및지도직공무원의임용등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json"
+            "target_git_path_guess": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_git_path": "연구직 및 지도직공무원의 임용 등에 관한 규정/법률/연구직 및 지도직공무원의 임용 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1396,7 +1440,8 @@
             "target_local_path": "별지/별지9_경력·가점평정표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지9_경력·가점평정표.hwp"
           }
         ],
         "images": [
@@ -1480,7 +1525,8 @@
             "target_local_path": "별표/별표5_5급 공무원의 단계별 보직경로.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표5_5급 공무원의 단계별 보직경로.hwp"
           }
         ],
         "images": [
@@ -1553,7 +1599,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0028",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json"
+            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1662,7 +1710,8 @@
             "target_local_path": "별표/별표3_위원회 구성ㆍ운영 등.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표3_위원회 구성ㆍ운영 등.hwp"
           }
         ],
         "images": [],
@@ -1704,7 +1753,8 @@
             "target_local_path": "별표/별표3_위원회 구성ㆍ운영 등.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표3_위원회 구성ㆍ운영 등.hwp"
           }
         ],
         "images": [],
@@ -1768,7 +1818,8 @@
             "target_local_path": "별지/별지6_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지6_서약서.hwp"
           }
         ],
         "images": [],
@@ -1950,7 +2001,8 @@
             "target_local_path": "별표/별표4_3, 4급 공무원의 단계별 보직경로.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표4_3, 4급 공무원의 단계별 보직경로.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1980,7 +2032,8 @@
             "target_local_path": "별표/별표5_5급 공무원의 단계별 보직경로.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표5_5급 공무원의 단계별 보직경로.hwp"
           }
         ],
         "images": [],
@@ -2175,7 +2228,8 @@
             "target_local_path": "별표/별표6_소속기관별 근거리 청 순위.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표6_소속기관별 근거리 청 순위.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2229,7 +2283,8 @@
             "target_local_path": "별지/별지11_전출순서명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지11_전출순서명부.hwp"
           }
         ],
         "images": [],
@@ -2293,7 +2348,8 @@
             "target_local_path": "별지/별지11의2_연고지청 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지11의2_연고지청 변경 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2431,7 +2487,8 @@
             "target_local_path": "별표/별표3_위원회 구성ㆍ운영 등.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표3_위원회 구성ㆍ운영 등.hwp"
           }
         ],
         "images": [],
@@ -2666,7 +2723,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0053",
             "reference_id": "law:장애인복지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2686,7 +2745,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0053",
             "reference_id": "law:장애인복지법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2706,7 +2767,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0053",
             "reference_id": "law:장애인복지법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/시행령/장애인복지법 시행령.json"
+            "target_git_path_guess": "장애인복지법/시행령/장애인복지법 시행령.json",
+            "target_git_path": "장애인복지법/시행령/장애인복지법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2726,7 +2789,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0053",
             "reference_id": "law:장애인복지법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/시행령/장애인복지법 시행령.json"
+            "target_git_path_guess": "장애인복지법/시행령/장애인복지법 시행령.json",
+            "target_git_path": "장애인복지법/시행령/장애인복지법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2746,7 +2811,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0053",
             "reference_id": "law:장애인복지법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/시행규칙/장애인복지법 시행규칙.json"
+            "target_git_path_guess": "장애인복지법/시행규칙/장애인복지법 시행규칙.json",
+            "target_git_path": "장애인복지법/시행규칙/장애인복지법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2771,7 +2838,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:장애인복지법시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/시행규칙/장애인복지법 시행규칙.json"
+            "target_git_path_guess": "장애인복지법/시행규칙/장애인복지법 시행규칙.json",
+            "target_git_path": "장애인복지법/시행규칙/장애인복지법 시행규칙.json",
+            "target_git_file_path": "장애인복지법/시행규칙/별표/별표1_장애인의 장애 정도(제2조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2825,7 +2895,8 @@
             "target_local_path": "별지/별지12_연고지청 복귀 전보보류 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지12_연고지청 복귀 전보보류 신청서.hwp"
           }
         ],
         "images": [],
@@ -2857,7 +2928,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0054",
             "reference_id": "law:병무청과그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병무청과 그 소속기관 직제/법률/병무청과 그 소속기관 직제.json"
+            "target_git_path_guess": "병무청과 그 소속기관 직제/법률/병무청과 그 소속기관 직제.json",
+            "target_git_path": "병무청과 그 소속기관 직제/법률/병무청과 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2877,7 +2950,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0054",
             "reference_id": "law:병무청과그소속기관직제#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "병무청과 그 소속기관 직제/법률/병무청과 그 소속기관 직제.json"
+            "target_git_path_guess": "병무청과 그 소속기관 직제/법률/병무청과 그 소속기관 직제.json",
+            "target_git_path": "병무청과 그 소속기관 직제/법률/병무청과 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2897,7 +2972,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0054",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2917,7 +2994,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0054",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3017,7 +3096,8 @@
             "target_local_path": "별지/별지13_정년퇴직예정자 퇴직준비교육 희망원서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지13_정년퇴직예정자 퇴직준비교육 희망원서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3047,7 +3127,8 @@
             "target_local_path": "별지/별지14_개인별 퇴직준비교육 일정 계획.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지14_개인별 퇴직준비교육 일정 계획.hwp"
           }
         ],
         "images": [],
@@ -3089,7 +3170,8 @@
             "target_local_path": "별지/별지15_고충심사 청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지15_고충심사 청구서.hwp"
           }
         ],
         "images": [],
@@ -3131,7 +3213,8 @@
             "target_local_path": "별지/별지16_고충상담 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지16_고충상담 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3161,7 +3244,8 @@
             "target_local_path": "별지/별지17_고충상담 처리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지17_고충상담 처리대장.hwp"
           }
         ],
         "images": [],
@@ -3193,7 +3277,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0060",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3236,7 +3322,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0062",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3256,7 +3344,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0062",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3298,7 +3388,8 @@
             "target_local_path": "별지/별지15_고충심사 청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지15_고충심사 청구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3328,7 +3419,8 @@
             "target_local_path": "별지/별지18_청구서 보완 요구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지18_청구서 보완 요구.hwp"
           }
         ],
         "images": [],
@@ -3370,7 +3462,8 @@
             "target_local_path": "별지/별지19_고충심사일자 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지19_고충심사일자 통지.hwp"
           }
         ],
         "images": [],
@@ -3412,7 +3505,8 @@
             "target_local_path": "별지/별지20_고충청구 취하서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지20_고충청구 취하서.hwp"
           }
         ],
         "images": [],
@@ -3454,7 +3548,8 @@
             "target_local_path": "별지/별지21_문답서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지21_문답서.hwp"
           }
         ],
         "images": [],
@@ -3520,7 +3615,8 @@
             "target_local_path": "별지/별지22_결정문.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지22_결정문.hwp"
           }
         ],
         "images": [],
@@ -3584,7 +3680,8 @@
             "target_local_path": "별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3614,7 +3711,8 @@
             "target_local_path": "별표/별표8_하위평정자 평가단위별 서열 조견표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표8_하위평정자 평가단위별 서열 조견표.hwp"
           },
           {
             "relation_type": "citation",
@@ -3658,7 +3756,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0070",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3678,7 +3778,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0070",
             "reference_id": "law:공무원징계령시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3708,7 +3810,8 @@
             "target_local_path": "별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3738,7 +3841,8 @@
             "target_local_path": "별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp"
           },
           {
             "relation_type": "citation",
@@ -3794,7 +3898,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0071",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3814,7 +3920,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0071",
             "reference_id": "law:공공감사에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3834,7 +3942,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0071",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3854,7 +3964,9 @@
             "source_provision_id": "admrul:병무청직원인사관리규정#JO0071",
             "reference_id": "law:공무원징계령시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3907,7 +4019,8 @@
             "target_local_path": "별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별표/별표7_징계처분·포상자 등에 대한 인사반영 기준.hwp"
           }
         ],
         "images": [],
@@ -3960,7 +4073,8 @@
             "target_local_path": "별지/별지23_인력운영 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 직원 인사관리 규정/별지/별지23_인력운영 현황.hwp"
           }
         ],
         "images": [],

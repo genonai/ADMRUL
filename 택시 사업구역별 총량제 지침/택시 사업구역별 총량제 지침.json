@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:택시사업구역별총량제지침#DOC",
             "reference_id": "law:택시운송사업의발전에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "택시운송사업의 발전에 관한 법률/법률/택시운송사업의 발전에 관한 법률.json"
+            "target_git_path_guess": "택시운송사업의 발전에 관한 법률/법률/택시운송사업의 발전에 관한 법률.json",
+            "target_git_path": "택시운송사업의 발전에 관한 법률/법률/택시운송사업의 발전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:택시사업구역별총량제지침#DOC",
             "reference_id": "law:택시운송사업의발전에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "택시운송사업의 발전에 관한 법률/시행령/택시운송사업의 발전에 관한 법률 시행령.json"
+            "target_git_path_guess": "택시운송사업의 발전에 관한 법률/시행령/택시운송사업의 발전에 관한 법률 시행령.json",
+            "target_git_path": "택시운송사업의 발전에 관한 법률/시행령/택시운송사업의 발전에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:택시사업구역별총량제지침#DOC",
             "reference_id": "law:택시운송사업의발전에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "택시운송사업의 발전에 관한 법률/시행령/택시운송사업의 발전에 관한 법률 시행령.json"
+            "target_git_path_guess": "택시운송사업의 발전에 관한 법률/시행령/택시운송사업의 발전에 관한 법률 시행령.json",
+            "target_git_path": "택시운송사업의 발전에 관한 법률/시행령/택시운송사업의 발전에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -160,7 +166,8 @@
             "target_local_path": "별표/별표1_심의편람표(예시)(제5호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "택시 사업구역별 총량제 지침/별표/별표1_심의편람표(예시)(제5호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -190,7 +197,8 @@
             "target_local_path": "별표/별표2_총량제 조사보고서 작성양식(제6호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "택시 사업구역별 총량제 지침/별표/별표2_총량제 조사보고서 작성양식(제6호 관련).hwp"
           }
         ],
         "images": [

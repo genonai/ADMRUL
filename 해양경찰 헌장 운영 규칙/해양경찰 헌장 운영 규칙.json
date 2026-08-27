@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:해양경찰헌장운영규칙#JO0003",
             "reference_id": "law:해양경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
+            "target_git_path": "해양경찰법/법률/해양경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:해양경찰헌장운영규칙#JO0003",
             "reference_id": "law:해양경찰법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
+            "target_git_path": "해양경찰법/법률/해양경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +133,9 @@
             "source_provision_id": "admrul:해양경찰헌장운영규칙#JO0003",
             "reference_id": "law:해양경찰법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
+            "target_git_path": "해양경찰법/법률/해양경찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -171,7 +177,8 @@
             "target_local_path": "별표/별표1_해양경찰 헌장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰 헌장 운영 규칙/별표/별표1_해양경찰 헌장.hwp"
           }
         ],
         "images": [],
@@ -224,7 +231,8 @@
             "target_local_path": "별표/별표2_해양경찰 헌장 활용행사 (제6조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰 헌장 운영 규칙/별표/별표2_해양경찰 헌장 활용행사 (제6조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -254,7 +262,8 @@
             "target_local_path": "별표/별표3_해양경찰 헌장 게시장소(제6조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰 헌장 운영 규칙/별표/별표3_해양경찰 헌장 게시장소(제6조제2항 관련).hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:질병관리청보조사업자선정위원회규정#JO0001",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:질병관리청보조사업자선정위원회규정#JO0001",
             "reference_id": "law:보조금관리에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -210,7 +214,8 @@
             "target_local_path": "별지/별지1_보조사업자 선정심의 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "질병관리청 보조사업자선정위원회 규정/별지/별지1_보조사업자 선정심의 요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -240,7 +245,8 @@
             "target_local_path": "별지/별지2_사업별 보조사업자 선정 심의결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "질병관리청 보조사업자선정위원회 규정/별지/별지2_사업별 보조사업자 선정 심의결과.hwp"
           },
           {
             "relation_type": "internal_ref",

@@ -65,9 +65,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립기상과학원성과평가규정#JO0001",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -357,7 +359,8 @@
             "target_local_path": "별지/별지1_부서성과평가 결과에 대한 이의 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 성과평가 규정/별지/별지1_부서성과평가 결과에 대한 이의 신청서.hwp"
           }
         ],
         "images": [],
@@ -399,7 +402,8 @@
             "target_local_path": "별지/별지2_개인성과평가 평가단위 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 성과평가 규정/별지/별지2_개인성과평가 평가단위 변경 신청서.hwp"
           }
         ],
         "images": [],
@@ -452,7 +456,8 @@
             "target_local_path": "별지/별지3_개인성과평가 결과에 대한 이의 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 성과평가 규정/별지/별지3_개인성과평가 결과에 대한 이의 신청서.hwp"
           }
         ],
         "images": [],

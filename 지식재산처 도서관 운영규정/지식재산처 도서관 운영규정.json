@@ -146,7 +146,9 @@
             "source_provision_id": "admrul:지식재산처도서관운영규정#JO0006",
             "reference_id": "law:도서관법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -166,7 +168,9 @@
             "source_provision_id": "admrul:지식재산처도서관운영규정#JO0006",
             "reference_id": "law:도서관법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -186,7 +190,9 @@
             "source_provision_id": "admrul:지식재산처도서관운영규정#JO0006",
             "reference_id": "law:국회도서관법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회도서관법/법률/국회도서관법.json"
+            "target_git_path_guess": "국회도서관법/법률/국회도서관법.json",
+            "target_git_path": "국회도서관법/법률/국회도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +212,9 @@
             "source_provision_id": "admrul:지식재산처도서관운영규정#JO0006",
             "reference_id": "law:국회도서관법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회도서관법/법률/국회도서관법.json"
+            "target_git_path_guess": "국회도서관법/법률/국회도서관법.json",
+            "target_git_path": "국회도서관법/법률/국회도서관법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -293,7 +301,9 @@
             "source_provision_id": "admrul:지식재산처도서관운영규정#JO0012",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
+            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -313,7 +323,9 @@
             "source_provision_id": "admrul:지식재산처도서관운영규정#JO0012",
             "reference_id": "law:특허료등의징수규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
+            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -355,7 +367,8 @@
             "target_local_path": "별지/별지1_지식재산처 도서관 자료 신청서(열람, 복사).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 도서관 운영규정/별지/별지1_지식재산처 도서관 자료 신청서(열람, 복사).hwp"
           }
         ],
         "images": [],

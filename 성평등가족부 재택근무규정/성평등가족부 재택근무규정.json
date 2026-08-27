@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0001",
             "reference_id": "law:전자정부법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0001",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0001",
             "reference_id": "law:전자정부법시행령#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0001",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0001",
             "reference_id": "law:국가공무원복무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0002",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0002",
             "reference_id": "law:국가공무원복무규정#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -241,7 +255,8 @@
             "target_local_path": "서식/서식1_원격근무 계획서(신규, 변경).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "성평등가족부 재택근무규정/서식/서식1_원격근무 계획서(신규, 변경).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -271,7 +286,8 @@
             "target_local_path": "서식/서식2_재택근무 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "성평등가족부 재택근무규정/서식/서식2_재택근무 보안서약서.hwp"
           }
         ],
         "images": [],
@@ -324,7 +340,8 @@
             "target_local_path": "서식/서식3_유연근무 재심의 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "성평등가족부 재택근무규정/서식/서식3_유연근무 재심의 신청서.hwp"
           }
         ],
         "images": [],
@@ -356,7 +373,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0006",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -376,7 +395,9 @@
             "source_provision_id": "admrul:성평등가족부재택근무규정#JO0006",
             "reference_id": "law:국가공무원복무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -429,7 +450,8 @@
             "target_local_path": "서식/서식4_긴급초과근무 명령서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "성평등가족부 재택근무규정/서식/서식4_긴급초과근무 명령서.hwp"
           }
         ],
         "images": [],
@@ -482,7 +504,8 @@
             "target_local_path": "서식/서식5_일일 원격근무 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "성평등가족부 재택근무규정/서식/서식5_일일 원격근무 계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -512,7 +535,8 @@
             "target_local_path": "서식/서식6_일일 원격근무 실적보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "성평등가족부 재택근무규정/서식/서식6_일일 원격근무 실적보고서.hwp"
           }
         ],
         "images": [],

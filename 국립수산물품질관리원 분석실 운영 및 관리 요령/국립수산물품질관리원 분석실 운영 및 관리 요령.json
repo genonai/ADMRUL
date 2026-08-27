@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립수산물품질관리원분석실운영및관리요령#JO0001",
             "reference_id": "law:농수산물품질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
+            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립수산물품질관리원분석실운영및관리요령#JO0001",
             "reference_id": "law:수산생물질병관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병 관리법/법률/수산생물질병 관리법.json"
+            "target_git_path_guess": "수산생물질병 관리법/법률/수산생물질병 관리법.json",
+            "target_git_path": "수산생물질병 관리법/법률/수산생물질병 관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별표/별표1_분석실별 관할지원(제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 분석실 운영 및 관리 요령/별표/별표1_분석실별 관할지원(제5조 관련).hwp"
           }
         ],
         "images": [],
@@ -251,7 +256,8 @@
             "target_local_path": "별표/별표2_분석장비 관리에 관한 세부사항(제8조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 분석실 운영 및 관리 요령/별표/별표2_분석장비 관리에 관한 세부사항(제8조 관련).hwp"
           }
         ],
         "images": [],
@@ -293,7 +299,8 @@
             "target_local_path": "별표/별표5_소모품 관리에 관한 세부사항(제9조2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 분석실 운영 및 관리 요령/별표/별표5_소모품 관리에 관한 세부사항(제9조2항 관련).hwp"
           }
         ],
         "images": [],
@@ -335,7 +342,8 @@
             "target_local_path": "별지/별지3_시료 인수_인계대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 분석실 운영 및 관리 요령/별지/별지3_시료 인수_인계대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -365,7 +373,8 @@
             "target_local_path": "별지/별지4_시료관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 분석실 운영 및 관리 요령/별지/별지4_시료관리대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -419,7 +428,8 @@
             "target_local_path": "별지/별지11_분석표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수산물 검사 예규/별지/별지11_분석표.hwp"
           },
           {
             "relation_type": "citation",
@@ -439,7 +449,9 @@
             "source_provision_id": "admrul:국립수산물품질관리원분석실운영및관리요령#JO0010",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -469,7 +481,8 @@
             "target_local_path": "별지/별지4_시료관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 분석실 운영 및 관리 요령/별지/별지4_시료관리대장.hwp"
           }
         ],
         "images": [],

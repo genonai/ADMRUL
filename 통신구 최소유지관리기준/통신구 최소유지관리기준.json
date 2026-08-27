@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0002",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0002",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0002",
             "reference_id": "law:방송통신발전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json"
+            "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+            "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0002",
             "reference_id": "law:방송통신발전기본법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json"
+            "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+            "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -233,7 +245,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0005",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -253,7 +267,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0005",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -367,7 +383,8 @@
             "target_local_path": "별표/별표1_통신구의 정기안전점검 항목.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통신구 최소유지관리기준/별표/별표1_통신구의 정기안전점검 항목.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -397,7 +414,8 @@
             "target_local_path": "별표/별표2_통신구의 정밀안전점검 점검항목 및 관리등급 지정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통신구 최소유지관리기준/별표/별표2_통신구의 정밀안전점검 점검항목 및 관리등급 지정기준.hwp"
           }
         ],
         "images": [
@@ -473,7 +491,8 @@
             "target_local_path": "별표/별표3_점검진단등을 실시할 수 있는 책임기술자의 자격(제7조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통신구 최소유지관리기준/별표/별표3_점검진단등을 실시할 수 있는 책임기술자의 자격(제7조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -515,7 +534,8 @@
             "target_local_path": "별표/별표2_통신구의 정밀안전점검 점검항목 및 관리등급 지정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통신구 최소유지관리기준/별표/별표2_통신구의 정밀안전점검 점검항목 및 관리등급 지정기준.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -581,7 +601,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0009",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -601,7 +623,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0009",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -621,7 +645,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0009",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -641,7 +667,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0009",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -697,7 +725,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0010",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -717,7 +747,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0010",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -737,7 +769,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0010",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -757,7 +791,9 @@
             "source_provision_id": "admrul:통신구최소유지관리기준#JO0010",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

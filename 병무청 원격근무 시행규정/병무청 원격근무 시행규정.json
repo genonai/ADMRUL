@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0001",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0001",
             "reference_id": "law:전자정부법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0001",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0001",
             "reference_id": "law:국가공무원복무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -170,7 +178,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0003",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -247,7 +257,8 @@
             "target_local_path": "별지/별지1_원격근무 계획서(신규, 변경).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지1_원격근무 계획서(신규, 변경).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -277,7 +288,8 @@
             "target_local_path": "별지/별지2_원격근무 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지2_원격근무 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -307,7 +319,8 @@
             "target_local_path": "별지/별지3_원격근무 보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지3_원격근무 보안 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -337,7 +350,8 @@
             "target_local_path": "별지/별지4_원격근무 계획서(취소).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지4_원격근무 계획서(취소).hwp"
           }
         ],
         "images": [],
@@ -379,7 +393,8 @@
             "target_local_path": "별지/별지5_원격근무 해제 명령서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지5_원격근무 해제 명령서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -409,7 +424,8 @@
             "target_local_path": "별지/별지2_원격근무 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지2_원격근무 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -439,7 +455,8 @@
             "target_local_path": "별지/별지3_원격근무 보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지3_원격근무 보안 서약서.hwp"
           }
         ],
         "images": [],
@@ -481,7 +498,8 @@
             "target_local_path": "별지/별지6_원격근무 재심의 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지6_원격근무 재심의 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -511,7 +529,8 @@
             "target_local_path": "별지/별지7_원격근무 재심의 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지7_원격근무 재심의 결정서.hwp"
           }
         ],
         "images": [],
@@ -554,7 +573,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0009",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -574,7 +595,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0009",
             "reference_id": "law:국가공무원복무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -627,7 +650,8 @@
             "target_local_path": "별지/별지8_일일 원격근무 실적보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지8_일일 원격근무 실적보고서.hwp"
           }
         ],
         "images": [],
@@ -659,7 +683,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0012",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -701,7 +727,8 @@
             "target_local_path": "별지/별지9_긴급 초과근무 명령서(원격근무형).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지9_긴급 초과근무 명령서(원격근무형).hwp"
           },
           {
             "relation_type": "citation",
@@ -721,7 +748,9 @@
             "source_provision_id": "admrul:병무청원격근무시행규정#JO0013",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -774,7 +803,8 @@
             "target_local_path": "별지/별지10_원격근무 장비지원 내역.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청 원격근무 시행규정/별지/별지10_원격근무 장비지원 내역.hwp"
           }
         ],
         "images": [],

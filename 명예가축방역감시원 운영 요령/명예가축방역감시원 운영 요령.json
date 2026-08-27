@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0001",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0001",
             "reference_id": "law:가축전염병예방법시행규칙#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0002",
             "reference_id": "law:가축전염병예방법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0002",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0002",
             "reference_id": "law:가축전염병예방법시행규칙#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -189,7 +199,8 @@
             "target_local_path": "서식/서식1_명예가축방역감시원 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식1_명예가축방역감시원 추천서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -219,7 +230,8 @@
             "target_local_path": "서식/서식2_명예가축방역감시원 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식2_명예가축방역감시원 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -249,7 +261,8 @@
             "target_local_path": "서식/서식4_명예가축방역감시원 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식4_명예가축방역감시원 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -279,7 +292,8 @@
             "target_local_path": "서식/서식5_명예가축방역감시원 위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식5_명예가축방역감시원 위촉장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -309,7 +323,8 @@
             "target_local_path": "서식/서식6_명예가축방역감시원증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식6_명예가축방역감시원증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -339,7 +354,8 @@
             "target_local_path": "서식/서식3_명예가축방역감시원증 재발급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식3_명예가축방역감시원증 재발급 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -369,7 +385,8 @@
             "target_local_path": "서식/서식4_명예가축방역감시원 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식4_명예가축방역감시원 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -399,7 +416,8 @@
             "target_local_path": "서식/서식4_명예가축방역감시원 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식4_명예가축방역감시원 관리대장.hwp"
           }
         ],
         "images": [],
@@ -453,7 +471,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0005",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -473,7 +493,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0005",
             "reference_id": "law:가축전염병예방법시행규칙#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -515,7 +537,8 @@
             "target_local_path": "서식/서식7_명예가축방역감시원 업무수행실적 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식7_명예가축방역감시원 업무수행실적 대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,7 +568,8 @@
             "target_local_path": "서식/서식8_명예가축방역감시원 활동수당 지급(신청) 내역.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "명예가축방역감시원 운영 요령/서식/서식8_명예가축방역감시원 활동수당 지급(신청) 내역.hwp"
           }
         ],
         "images": [],
@@ -577,7 +601,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0007",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -597,7 +623,9 @@
             "source_provision_id": "admrul:명예가축방역감시원운영요령#JO0007",
             "reference_id": "law:가축전염병예방법시행규칙#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

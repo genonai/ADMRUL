@@ -142,7 +142,8 @@
             "target_local_path": "별지/별지1_공무원제안서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지1_공무원제안서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -172,7 +173,8 @@
             "target_local_path": "별지/별지2_윤리서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지2_윤리서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -202,7 +204,8 @@
             "target_local_path": "별지/별지3_공동제안 업무분담내용 기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지3_공동제안 업무분담내용 기술서.hwp"
           }
         ],
         "images": [],
@@ -362,7 +365,8 @@
             "target_local_path": "별표/별표1_공무원제안 심사 기준표(제9조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별표/별표1_공무원제안 심사 기준표(제9조 제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -452,7 +456,8 @@
             "target_local_path": "별지/별지4_공무원제안 실시계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지4_공무원제안 실시계획서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -542,7 +547,8 @@
             "target_local_path": "별지/별지5_재심사 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지5_재심사 요청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -752,7 +758,8 @@
             "target_local_path": "별표/별표2_채택제안의 창안등급 결정 기준(제12조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별표/별표2_채택제안의 창안등급 결정 기준(제12조 제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -782,7 +789,8 @@
             "target_local_path": "별지/별지6_자체우수제안 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지6_자체우수제안 추천서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -836,7 +844,8 @@
             "target_local_path": "별지/별지7_자체우수제안 접수대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지7_자체우수제안 접수대장.hwp"
           }
         ],
         "images": [],
@@ -1055,7 +1064,9 @@
             "source_provision_id": "admrul:국방군사공무원제안훈령#JO0021",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1075,7 +1086,9 @@
             "source_provision_id": "admrul:국방군사공무원제안훈령#JO0021",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1095,7 +1108,9 @@
             "source_provision_id": "admrul:국방군사공무원제안훈령#JO0021",
             "reference_id": "law:정부표창규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1115,7 +1130,9 @@
             "source_provision_id": "admrul:국방군사공무원제안훈령#JO0021",
             "reference_id": "law:모범공무원규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "모범공무원 규정/법률/모범공무원 규정.json"
+            "target_git_path_guess": "모범공무원 규정/법률/모범공무원 규정.json",
+            "target_git_path": "모범공무원 규정/법률/모범공무원 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1205,7 +1222,8 @@
             "target_local_path": "별표/별표3_인사특전 부여 기준표(제22조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별표/별표3_인사특전 부여 기준표(제22조 제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1235,7 +1253,8 @@
             "target_local_path": "별지/별지8_인사특전 부여 협의 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지8_인사특전 부여 협의 요청서.hwp"
           }
         ],
         "images": [],
@@ -1325,7 +1344,8 @@
             "target_local_path": "별지/별지9_공무원제안 실시 성과 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지9_공무원제안 실시 성과 평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1355,7 +1375,8 @@
             "target_local_path": "별지/별지10_효과산출 명세서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지10_효과산출 명세서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1385,7 +1406,8 @@
             "target_local_path": "별지/별지11_상여금 지급 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지11_상여금 지급 추천서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1487,7 +1509,8 @@
             "target_local_path": "별표/별표4_상여금 지급액 기준표(제23조 제4항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별표/별표4_상여금 지급액 기준표(제23조 제4항 관련).hwp"
           }
         ],
         "images": [],
@@ -1530,7 +1553,9 @@
             "source_provision_id": "admrul:국방군사공무원제안훈령#JO0025",
             "reference_id": "law:적극행정운영규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json"
+            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_git_path": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1550,7 +1575,9 @@
             "source_provision_id": "admrul:국방군사공무원제안훈령#JO0025",
             "reference_id": "law:적극행정운영규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json"
+            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_git_path": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1570,7 +1597,9 @@
             "source_provision_id": "admrul:국방군사공무원제안훈령#JO0025",
             "reference_id": "law:적극행정운영규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json"
+            "target_git_path_guess": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_git_path": "적극행정 운영규정/법률/적극행정 운영규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1647,7 +1676,8 @@
             "target_local_path": "별지/별지12_공무원제안 관리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별지/별지12_공무원제안 관리기록부.hwp"
           }
         ],
         "images": [],
@@ -1689,7 +1719,8 @@
             "target_local_path": "별표/별표4_상여금 지급액 기준표(제23조 제4항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방·군사 공무원제안 훈령/별표/별표4_상여금 지급액 기준표(제23조 제4항 관련).hwp"
           }
         ],
         "images": [],

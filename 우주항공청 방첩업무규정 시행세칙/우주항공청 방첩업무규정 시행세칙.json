@@ -147,10 +147,12 @@
             "target_url": "https://www.law.go.kr/행정규칙/방첩업무 규정/제4조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:우주항공청방첩업무규정시행세칙#JO0004",
-            "reference_id": "admrul:방첩업무규정#JO0004_02",
+            "reference_id": "law:방첩업무규정#JO0004_02",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "방첩업무 규정/방첩업무 규정.json",
-            "target_missing_unit": true
+            "target_missing_unit": true,
+            "target_git_path": "방첩업무 규정/법률/방첩업무 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -515,7 +517,8 @@
             "target_local_path": "별지/별지1_외국인 접촉 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 방첩업무규정 시행세칙/별지/별지1_외국인 접촉 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,7 +548,8 @@
             "target_local_path": "별지/별지2_외국인 접촉결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 방첩업무규정 시행세칙/별지/별지2_외국인 접촉결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -587,7 +591,8 @@
             "target_local_path": "별지/별지3_외국인 등 접촉 시 특이사항 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 방첩업무규정 시행세칙/별지/별지3_외국인 등 접촉 시 특이사항 보고서.hwp"
           }
         ],
         "images": [],
@@ -629,7 +634,8 @@
             "target_local_path": "별지/별지4_외국 정보ㆍ수사요원 접촉 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 방첩업무규정 시행세칙/별지/별지4_외국 정보ㆍ수사요원 접촉 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -659,7 +665,8 @@
             "target_local_path": "별지/별지2_외국인 접촉결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 방첩업무규정 시행세칙/별지/별지2_외국인 접촉결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -820,7 +827,8 @@
             "target_local_path": "별지/별지5_PERSONAL INFORMATION.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 방첩업무규정 시행세칙/별지/별지5_PERSONAL INFORMATION.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -850,7 +858,8 @@
             "target_local_path": "별지/별지6_외국인 근무자 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우주항공청 방첩업무규정 시행세칙/별지/별지6_외국인 근무자 현황.hwp"
           }
         ],
         "images": [],
@@ -882,7 +891,9 @@
             "source_provision_id": "admrul:우주항공청방첩업무규정시행세칙#JO0012",
             "reference_id": "law:우주항공청의설치및운영에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우주항공청의 설치 및 운영에 관한 특별법/법률/우주항공청의 설치 및 운영에 관한 특별법.json"
+            "target_git_path_guess": "우주항공청의 설치 및 운영에 관한 특별법/법률/우주항공청의 설치 및 운영에 관한 특별법.json",
+            "target_git_path": "우주항공청의 설치 및 운영에 관한 특별법/법률/우주항공청의 설치 및 운영에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -902,7 +913,9 @@
             "source_provision_id": "admrul:우주항공청방첩업무규정시행세칙#JO0012",
             "reference_id": "law:우주항공청의설치및운영에관한특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "우주항공청의 설치 및 운영에 관한 특별법/법률/우주항공청의 설치 및 운영에 관한 특별법.json"
+            "target_git_path_guess": "우주항공청의 설치 및 운영에 관한 특별법/법률/우주항공청의 설치 및 운영에 관한 특별법.json",
+            "target_git_path": "우주항공청의 설치 및 운영에 관한 특별법/법률/우주항공청의 설치 및 운영에 관한 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -945,7 +958,9 @@
             "source_provision_id": "admrul:우주항공청방첩업무규정시행세칙#JO0014",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -965,7 +980,9 @@
             "source_provision_id": "admrul:우주항공청방첩업무규정시행세칙#JO0014",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -990,7 +1007,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_file_path": "공공기록물 관리에 관한 법률/시행령/별표/별표1_기록물 보존기간의 책정기준(제26조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

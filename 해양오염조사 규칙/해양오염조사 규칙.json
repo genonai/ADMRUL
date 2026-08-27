@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0001",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0001",
             "reference_id": "law:해양환경관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0002",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -151,7 +157,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0003",
             "reference_id": "law:해양환경관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -171,7 +179,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0003",
             "reference_id": "law:해양환경관리법시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -196,7 +206,10 @@
             "target_unit": "BYL0006",
             "reference_id": "law:해양환경관리법시행령#BYL0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_file_path": "해양환경관리법/시행령/별표/별표6_오염물질 배출 시 신고기준(제47조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -238,7 +251,8 @@
             "target_local_path": "별지/별지1_해양오염신고접수부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별지/별지1_해양오염신고접수부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -268,7 +282,8 @@
             "target_local_path": "별지/별지2_불명오염 발생 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별지/별지2_불명오염 발생 보고.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -298,7 +313,8 @@
             "target_local_path": "별지/별지3_불명오염 색출활동 진행사항 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별지/별지3_불명오염 색출활동 진행사항 보고.hwp"
           }
         ],
         "images": [],
@@ -439,7 +455,8 @@
             "target_local_path": "별표/별표1_시료채취 요령(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별표/별표1_시료채취 요령(제7조 관련).hwp"
           }
         ],
         "images": [],
@@ -471,7 +488,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0008",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -491,7 +510,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0008",
             "reference_id": "law:해양환경관리법#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -511,7 +532,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0008",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -531,7 +554,9 @@
             "source_provision_id": "admrul:해양오염조사규칙#JO0008",
             "reference_id": "law:해양환경관리법#JO0117",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -621,7 +646,8 @@
             "target_local_path": "별표/별표1_해양오염물질 분석기관(제2조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염물질 분석 및 분석실 운영 규칙/별표/별표1_해양오염물질 분석기관(제2조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -675,7 +701,8 @@
             "target_local_path": "별지/별지5_시료보관대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별지/별지5_시료보관대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -824,7 +851,8 @@
             "target_local_path": "별지/별지1_해양오염신고접수부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별지/별지1_해양오염신고접수부.hwp"
           }
         ],
         "images": [],
@@ -866,7 +894,8 @@
             "target_local_path": "별지/별지4_불명오염 적발 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별지/별지4_불명오염 적발 보고.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -896,7 +925,8 @@
             "target_local_path": "별지/별지6_불명오염처리 결과보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염조사 규칙/별지/별지6_불명오염처리 결과보고.hwp"
           }
         ],
         "images": [],

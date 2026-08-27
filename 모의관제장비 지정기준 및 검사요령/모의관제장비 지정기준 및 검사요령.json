@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0104",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -209,7 +221,8 @@
             "target_local_path": "별표/별표1_모의관제장비의 최소구비요건(제2조 관련)(The ATC Simulator Minimum Requirements for Qualifications).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표1_모의관제장비의 최소구비요건(제2조 관련)(The ATC Simulator Minimum Requirements for Qualifications).hwp"
           }
         ],
         "images": [],
@@ -251,7 +264,8 @@
             "target_local_path": "별표/별표2_비행장 모의관제장비의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for TWR ATC simulator).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표2_비행장 모의관제장비의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for TWR ATC simulator).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -281,7 +295,8 @@
             "target_local_path": "별표/별표3_레이더 모의관제장비(접근관제용_지역관제용)의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for RADAR(APP_ACC) ATC simulator).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표3_레이더 모의관제장비(접근관제용_지역관제용)의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for RADAR(APP_ACC) ATC simulator).hwp"
           }
         ],
         "images": [],
@@ -334,7 +349,8 @@
             "target_local_path": "별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -364,7 +380,8 @@
             "target_local_path": "별표/별표1_모의관제장비의 최소구비요건(제2조 관련)(The ATC Simulator Minimum Requirements for Qualifications).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표1_모의관제장비의 최소구비요건(제2조 관련)(The ATC Simulator Minimum Requirements for Qualifications).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -394,7 +411,8 @@
             "target_local_path": "별표/별표2_비행장 모의관제장비의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for TWR ATC simulator).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표2_비행장 모의관제장비의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for TWR ATC simulator).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -424,7 +442,8 @@
             "target_local_path": "별표/별표3_레이더 모의관제장비(접근관제용_지역관제용)의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for RADAR(APP_ACC) ATC simulator).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표3_레이더 모의관제장비(접근관제용_지역관제용)의 등급별 세부구비사항(제3조 관련)(The list of detailed requirements for RADAR(APP_ACC) ATC simulator).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -454,7 +473,8 @@
             "target_local_path": "별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -484,7 +504,8 @@
             "target_local_path": "별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp"
           }
         ],
         "images": [],
@@ -550,7 +571,8 @@
             "target_local_path": "별지/별지2_모의관제장비 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지2_모의관제장비 지정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -580,7 +602,8 @@
             "target_local_path": "별표/별표6_모의관제장비의 지정허용범위(제6조 관련)(The table of training permitted depends on the ATC Simulator's level).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표6_모의관제장비의 지정허용범위(제6조 관련)(The table of training permitted depends on the ATC Simulator's level).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -610,7 +633,8 @@
             "target_local_path": "별표/별표6_모의관제장비의 지정허용범위(제6조 관련)(The table of training permitted depends on the ATC Simulator's level).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표6_모의관제장비의 지정허용범위(제6조 관련)(The table of training permitted depends on the ATC Simulator's level).hwp"
           }
         ],
         "images": [],
@@ -699,7 +723,8 @@
             "target_local_path": "별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -729,7 +754,8 @@
             "target_local_path": "별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -759,7 +785,8 @@
             "target_local_path": "별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -789,7 +816,8 @@
             "target_local_path": "별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp"
           }
         ],
         "images": [],
@@ -879,7 +907,8 @@
             "target_local_path": "별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -909,7 +938,8 @@
             "target_local_path": "별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지1_모의관제장비 (지정_정기_특별)검사 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -939,7 +969,8 @@
             "target_local_path": "별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -969,7 +1000,8 @@
             "target_local_path": "별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp"
           }
         ],
         "images": [],
@@ -1011,7 +1043,8 @@
             "target_local_path": "별지/별지2_모의관제장비 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지2_모의관제장비 지정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1041,7 +1074,8 @@
             "target_local_path": "별지/별지3_검사결과통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지3_검사결과통보서.hwp"
           }
         ],
         "images": [],
@@ -1119,7 +1153,8 @@
             "target_local_path": "별표/별표7_모의관제장비감독관 교육훈련(제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표7_모의관제장비감독관 교육훈련(제17조 관련).hwp"
           }
         ],
         "images": [],
@@ -1161,7 +1196,8 @@
             "target_local_path": "별표/별표7_모의관제장비감독관 교육훈련(제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표7_모의관제장비감독관 교육훈련(제17조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1191,7 +1227,8 @@
             "target_local_path": "별표/별표7_모의관제장비감독관 교육훈련(제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표7_모의관제장비감독관 교육훈련(제17조 관련).hwp"
           }
         ],
         "images": [],
@@ -1269,7 +1306,8 @@
             "target_local_path": "별지/별지3_검사결과통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지3_검사결과통보서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1299,7 +1337,8 @@
             "target_local_path": "별지/별지4_모의관제장비 검사 신청에 대한 보완요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지4_모의관제장비 검사 신청에 대한 보완요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1329,7 +1368,8 @@
             "target_local_path": "별지/별지5_모의관제장비 검사 신청 보완조치결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별지/별지5_모의관제장비 검사 신청 보완조치결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1359,7 +1399,8 @@
             "target_local_path": "별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표4_비행장 모의관제장비 점검항목(Table of functional check item).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1389,7 +1430,8 @@
             "target_local_path": "별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의관제장비 지정기준 및 검사요령/별표/별표5_레이더 모의관제장비(접근관제용_지역관제용) 점검항목(제5조 관련)(Table of functional check item).hwp"
           }
         ],
         "images": [],
@@ -1514,7 +1556,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0018",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1534,7 +1578,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0018",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품 등 수수의 금지에 관한 법률/법률/부정청탁 및 금품 등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품 등 수수의 금지에 관한 법률/법률/부정청탁 및 금품 등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1554,7 +1600,9 @@
             "source_provision_id": "admrul:모의관제장비지정기준및검사요령#JO0018",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

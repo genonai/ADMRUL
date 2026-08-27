@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:폐슬레이트포장재기준및포장방법#JO0001",
             "reference_id": "law:석면안전관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json"
+            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_path": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:폐슬레이트포장재기준및포장방법#JO0001",
             "reference_id": "law:석면안전관리법시행령#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json"
+            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_path": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:석면안전관리법시행령#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json"
+            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_path": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_file_path": "석면안전관리법/시행령/별표/별표3_슬레이트 처리등의 기준 및 방법(제37조제2항제2호 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -165,7 +172,8 @@
             "target_local_path": "별표/별표1_폐슬레이트 포장재 품질 및 기재사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "폐슬레이트 포장재 기준 및 포장방법/별표/별표1_폐슬레이트 포장재 품질 및 기재사항.hwp"
           }
         ],
         "images": [],
@@ -207,7 +215,8 @@
             "target_local_path": "별표/별표2_폐슬레이트 포장재 품질기준별 시험방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "폐슬레이트 포장재 기준 및 포장방법/별표/별표2_폐슬레이트 포장재 품질기준별 시험방법.hwp"
           }
         ],
         "images": [],
@@ -249,7 +258,8 @@
             "target_local_path": "별표/별표2_폐슬레이트 포장재 품질기준별 시험방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "폐슬레이트 포장재 기준 및 포장방법/별표/별표2_폐슬레이트 포장재 품질기준별 시험방법.hwp"
           }
         ],
         "images": [],

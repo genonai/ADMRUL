@@ -180,7 +180,9 @@
             "source_provision_id": "admrul:자동차제작자도장시설의탄화수소배출허용기준준수여부확인을위한배출량산정방법등#JO0007",
             "reference_id": "law:대기환경보전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -200,7 +202,9 @@
             "source_provision_id": "admrul:자동차제작자도장시설의탄화수소배출허용기준준수여부확인을위한배출량산정방법등#JO0007",
             "reference_id": "law:대기환경보전법시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -225,7 +229,10 @@
             "target_unit": "BYL0008",
             "reference_id": "law:대기환경보전법시행규칙#BYL0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_file_path": "대기환경보전법/시행규칙/별표/별표8_대기오염물질의 배출허용기준(제15조 및 제33조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -255,7 +262,8 @@
             "target_local_path": "서식/서식1_(상반기, 하반기) 탄화수소 배출량 산정결과서 (자체보관용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자동차제작자 도장시설의 탄화수소 배출허용기준 준수여부 확인을 위한 배출량 산정방법 등/서식/서식1_(상반기, 하반기) 탄화수소 배출량 산정결과서 (자체보관용).hwp"
           }
         ],
         "images": [],

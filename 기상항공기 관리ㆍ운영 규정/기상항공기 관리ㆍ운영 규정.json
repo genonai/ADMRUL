@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0001",
             "reference_id": "law:기상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/법률/기상법.json"
+            "target_git_path_guess": "기상법/법률/기상법.json",
+            "target_git_path": "기상법/법률/기상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0001",
             "reference_id": "law:기상법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/법률/기상법.json"
+            "target_git_path_guess": "기상법/법률/기상법.json",
+            "target_git_path": "기상법/법률/기상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -261,7 +265,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0004",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -281,7 +287,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0004",
             "reference_id": "law:항공안전법#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -477,7 +485,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0011",
             "reference_id": "law:항공안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -497,7 +507,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0011",
             "reference_id": "law:항공안전법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -529,7 +541,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0012",
             "reference_id": "law:기상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/법률/기상법.json"
+            "target_git_path_guess": "기상법/법률/기상법.json",
+            "target_git_path": "기상법/법률/기상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -549,7 +563,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0012",
             "reference_id": "law:기상법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/법률/기상법.json"
+            "target_git_path_guess": "기상법/법률/기상법.json",
+            "target_git_path": "기상법/법률/기상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -649,7 +665,8 @@
             "target_local_path": "별지/별지1_기상항공기 운영위원회 청렴서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지1_기상항공기 운영위원회 청렴서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -679,7 +696,8 @@
             "target_local_path": "별지/별지2_기상항공기 운영위원회 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지2_기상항공기 운영위원회 보안서약서.hwp"
           }
         ],
         "images": [],
@@ -754,7 +772,8 @@
             "target_local_path": "별지/별지3_기상항공기 연간운항요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지3_기상항공기 연간운항요청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -832,7 +851,8 @@
             "target_local_path": "별지/별지4_기상항공기 연간운항계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지4_기상항공기 연간운항계획서.hwp"
           }
         ],
         "images": [],
@@ -898,7 +918,8 @@
             "target_local_path": "별지/별지5_기상항공기 월간운항요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지5_기상항공기 월간운항요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -928,7 +949,8 @@
             "target_local_path": "별지/별지6_기상항공기 월간운항계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지6_기상항공기 월간운항계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -958,7 +980,8 @@
             "target_local_path": "별지/별지7_기상항공기 운항취소요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지7_기상항공기 운항취소요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -988,7 +1011,8 @@
             "target_local_path": "별지/별지7_기상항공기 운항취소요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지7_기상항공기 운항취소요청서.hwp"
           }
         ],
         "images": [],
@@ -1020,7 +1044,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0022",
             "reference_id": "law:국유재산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json"
+            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_git_path": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1043,9 +1069,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0022",
             "target_unit": "BJ0001",
-            "reference_id": "law:국유재산법시행규칙#BJ0001",
+            "reference_id": "law:국유재산법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json"
+            "target_git_path_guess": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_git_path": "국유재산법/시행규칙/국유재산법 시행규칙.json",
+            "target_git_file_path": "국유재산법/시행규칙/서식/서식1_국유재산(사용허가, 대부, 매수)신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1065,7 +1094,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0022",
             "reference_id": "law:국유재산법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1085,7 +1116,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0022",
             "reference_id": "law:국유재산특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산특례제한법/법률/국유재산특례제한법.json"
+            "target_git_path_guess": "국유재산특례제한법/법률/국유재산특례제한법.json",
+            "target_git_path": "국유재산특례제한법/법률/국유재산특례제한법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1127,7 +1160,8 @@
             "target_local_path": "별지/별지8_기상항공기 월간운항결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지8_기상항공기 월간운항결과보고서.hwp"
           }
         ],
         "images": [],
@@ -1241,7 +1275,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0027",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1261,7 +1297,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0027",
             "reference_id": "law:항공안전법시행규칙#JO0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1304,7 +1342,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0029",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1324,7 +1364,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0029",
             "reference_id": "law:항공안전법시행규칙#JO0199",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1388,7 +1430,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0032",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1408,7 +1452,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0032",
             "reference_id": "law:항공안전법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1428,7 +1474,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0032",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1448,7 +1496,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0032",
             "reference_id": "law:항공안전법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1480,7 +1530,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0033",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1500,7 +1552,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0033",
             "reference_id": "law:항공안전법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1724,7 +1778,8 @@
             "target_local_path": "별지/별지10_방문자 출입 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지10_방문자 출입 기록부.hwp"
           }
         ],
         "images": [],
@@ -1801,7 +1856,8 @@
             "target_local_path": "별지/별지9_기상항공기 탑승자 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "기상항공기 관리ㆍ운영 규정/별지/별지9_기상항공기 탑승자 서약서.hwp"
           }
         ],
         "images": [],
@@ -1857,7 +1913,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0049",
             "reference_id": "law:주세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주세법/법률/주세법.json"
+            "target_git_path_guess": "주세법/법률/주세법.json",
+            "target_git_path": "주세법/법률/주세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1877,7 +1935,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0049",
             "reference_id": "law:주세법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "주세법/법률/주세법.json"
+            "target_git_path_guess": "주세법/법률/주세법.json",
+            "target_git_path": "주세법/법률/주세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1897,7 +1957,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0049",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1917,7 +1979,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0049",
             "reference_id": "law:마약류관리에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1937,7 +2001,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0049",
             "reference_id": "law:화학물질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
+            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1957,7 +2023,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0049",
             "reference_id": "law:화학물질관리법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
+            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2013,7 +2081,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:기상산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json"
+            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_git_path": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2033,7 +2103,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:기상산업진흥법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json"
+            "target_git_path_guess": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_git_path": "기상산업진흥법/법률/기상산업진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2053,7 +2125,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:항공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공사업법/법률/항공사업법.json"
+            "target_git_path_guess": "항공사업법/법률/항공사업법.json",
+            "target_git_path": "항공사업법/법률/항공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2073,7 +2147,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:항공사업법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공사업법/법률/항공사업법.json"
+            "target_git_path_guess": "항공사업법/법률/항공사업법.json",
+            "target_git_path": "항공사업법/법률/항공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2093,7 +2169,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:항공사업법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공사업법/법률/항공사업법.json"
+            "target_git_path_guess": "항공사업법/법률/항공사업법.json",
+            "target_git_path": "항공사업법/법률/항공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2113,7 +2191,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:항공사업법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공사업법/법률/항공사업법.json"
+            "target_git_path_guess": "항공사업법/법률/항공사업법.json",
+            "target_git_path": "항공사업법/법률/항공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2133,7 +2213,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2153,7 +2235,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0050",
             "reference_id": "law:항공안전법#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2185,7 +2269,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0051",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2239,7 +2325,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0054",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2259,7 +2347,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0054",
             "reference_id": "law:공무원임용령#JO0022_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2279,7 +2369,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0054",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2299,7 +2391,9 @@
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0054",
             "reference_id": "law:공무원임용령#JO0022_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2329,9 +2423,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0055",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2349,9 +2445,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제22조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0055",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0022_02",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0022_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2369,9 +2467,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제22조의3",
             "resolve_method": "html",
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0055",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0022_03",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0022_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2389,9 +2489,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제22조의4",
             "resolve_method": "html",
             "source_provision_id": "admrul:기상항공기관리운영규정#JO0055",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0022_04",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0022_04",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:민방위경보전파대상건축물에서의경보전달방법및관리기준#JO0001",
             "reference_id": "law:민방위기본법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "민방위기본법/법률/민방위기본법.json"
+            "target_git_path_guess": "민방위기본법/법률/민방위기본법.json",
+            "target_git_path": "민방위기본법/법률/민방위기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:민방위경보전파대상건축물에서의경보전달방법및관리기준#JO0001",
             "reference_id": "law:민방위기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json"
+            "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json",
+            "target_git_path": "민방위기본법/시행령/민방위기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:민방위경보전파대상건축물에서의경보전달방법및관리기준#JO0001",
             "reference_id": "law:민방위기본법시행령#JO0055_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json"
+            "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json",
+            "target_git_path": "민방위기본법/시행령/민방위기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -149,7 +155,8 @@
             "target_local_path": "별지/별지1_민방위 경보 전파 책임자의(지정, 변경) 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "민방위 경보 전파 대상 건축물에서의 경보 전달 방법 및 관리기준/별지/별지1_민방위 경보 전파 책임자의(지정, 변경) 신고서.hwp"
           }
         ],
         "images": [],
@@ -191,7 +198,8 @@
             "target_local_path": "별지/별지2_민방위 경보단말장비 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "민방위 경보 전파 대상 건축물에서의 경보 전달 방법 및 관리기준/별지/별지2_민방위 경보단말장비 등록 신청서.hwp"
           }
         ],
         "images": [],

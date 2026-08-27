@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -110,7 +112,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0003",
             "reference_id": "law:공공감사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0003",
             "reference_id": "law:중앙행정기관및지방자치단체자체감사기준#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json"
+            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_git_path": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +203,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0005",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -217,7 +225,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0005",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -237,7 +247,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0005",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -257,7 +269,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0005",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -289,7 +303,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0006",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -319,7 +335,8 @@
             "target_local_path": "별지/별지1_회피신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 감찰에 관한 훈령/별지/별지1_회피신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -349,7 +366,8 @@
             "target_local_path": "별지/별지1의2_기피신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 감찰에 관한 훈령/별지/별지1의2_기피신청서.hwp"
           }
         ],
         "images": [],
@@ -392,7 +410,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0008",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -412,7 +432,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0008",
             "reference_id": "law:공직자의이해충돌방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -454,7 +476,8 @@
             "target_local_path": "별지/별지4_비위발생 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 감찰에 관한 훈령/별지/별지4_비위발생 보고.hwp"
           }
         ],
         "images": [],
@@ -552,7 +575,9 @@
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0013",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -640,7 +665,8 @@
             "target_local_path": "별지/별지2_출석요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 감찰에 관한 훈령/별지/별지2_출석요구서.hwp"
           }
         ],
         "images": [],
@@ -742,7 +768,8 @@
             "target_local_path": "별지/별지3_(근무시간외, 심야) 조사 동의(요청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 감찰에 관한 훈령/별지/별지3_(근무시간외, 심야) 조사 동의(요청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -772,7 +799,8 @@
             "target_local_path": "별지/별지3_(근무시간외, 심야) 조사 동의(요청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 감찰에 관한 훈령/별지/별지3_(근무시간외, 심야) 조사 동의(요청)서.hwp"
           }
         ],
         "images": [],

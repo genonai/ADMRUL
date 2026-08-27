@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:공급자적합성확인대상생활용품의안전기준#JO0001",
             "reference_id": "law:전기용품및생활용품안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:공급자적합성확인대상생활용품의안전기준#JO0001",
             "reference_id": "law:전기용품및생활용품안전관리법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:공급자적합성확인대상생활용품의안전기준#JO0002",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -168,7 +174,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_file_path": "전기용품 및 생활용품 안전관리법/시행규칙/별표/별표5_공급자적합성확인대상제품(제3조제5항 및 제6항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -198,7 +207,8 @@
             "target_local_path": "부속서/부속서1_폴리염화비닐관(연질염화비닐호스를 포함한다).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서1_폴리염화비닐관(연질염화비닐호스를 포함한다).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -228,7 +238,8 @@
             "target_local_path": "부속서/부속서2_물탱크.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서2_물탱크.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -258,7 +269,8 @@
             "target_local_path": "부속서/부속서3_가구(높이 762mm 이상의 가정용 서랍장 및 사무용 파일링 캐비넷에 한정한다.).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서3_가구(높이 762mm 이상의 가정용 서랍장 및 사무용 파일링 캐비넷에 한정한다.).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -288,7 +300,8 @@
             "target_local_path": "부속서/부속서4_롤러스케이트.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서4_롤러스케이트.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -318,7 +331,8 @@
             "target_local_path": "부속서/부속서5_바퀴 달린 운동화.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서5_바퀴 달린 운동화.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -348,7 +362,8 @@
             "target_local_path": "부속서/부속서7_창문블라인드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서7_창문블라인드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -378,7 +393,8 @@
             "target_local_path": "부속서/부속서8_쌍꺼풀용 테이프.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서8_쌍꺼풀용 테이프.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -408,7 +424,8 @@
             "target_local_path": "부속서/부속서9_속눈썹 열 성형기.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서9_속눈썹 열 성형기.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -438,7 +455,8 @@
             "target_local_path": "부속서/부속서10_자동차용 휴대용잭.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서10_자동차용 휴대용잭.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -468,7 +486,8 @@
             "target_local_path": "부속서/부속서11_가(假)속눈썹.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서11_가(假)속눈썹.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -498,7 +517,8 @@
             "target_local_path": "부속서/부속서12_쇼핑카트.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서12_쇼핑카트.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +548,8 @@
             "target_local_path": "부속서/부속서13_휴대용 사다리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서13_휴대용 사다리.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -558,7 +579,8 @@
             "target_local_path": "부속서/부속서14_인라인롤러스케이트.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서14_인라인롤러스케이트.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -588,7 +610,8 @@
             "target_local_path": "부속서/부속서15_킥보드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서15_킥보드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -618,7 +641,8 @@
             "target_local_path": "부속서/부속서16_빙삭기.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서16_빙삭기.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -648,7 +672,8 @@
             "target_local_path": "부속서/부속서17_방한용·패션용·스포츠용 마스크.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공급자적합성확인대상 생활용품의 안전기준/부속서/부속서17_방한용·패션용·스포츠용 마스크.hwp"
           }
         ],
         "images": [],

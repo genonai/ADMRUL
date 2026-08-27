@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립소록도병원환자급식관리규정#JO0001",
             "reference_id": "law:의료법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json"
+            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_git_path": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립소록도병원환자급식관리규정#JO0001",
             "reference_id": "law:의료법시행규칙#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json"
+            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_git_path": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -195,7 +199,8 @@
             "target_local_path": "서식/서식1_식사 처방 지침서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식1_식사 처방 지침서.hwp"
           }
         ],
         "images": [],
@@ -248,7 +253,8 @@
             "target_local_path": "서식/서식2_식사 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식2_식사 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -278,7 +284,8 @@
             "target_local_path": "서식/서식3_급식인원통계현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식3_급식인원통계현황.hwp"
           }
         ],
         "images": [],
@@ -320,7 +327,8 @@
             "target_local_path": "서식/서식5_월 식단표(공동취사장).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식5_월 식단표(공동취사장).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -350,7 +358,8 @@
             "target_local_path": "서식/서식6_메뉴 재료량 산출표(공동취사장).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식6_메뉴 재료량 산출표(공동취사장).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -380,7 +389,8 @@
             "target_local_path": "서식/서식7_영양 산출 평가표(공동취사장).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식7_영양 산출 평가표(공동취사장).hwp"
           }
         ],
         "images": [],
@@ -433,7 +443,8 @@
             "target_local_path": "서식/서식8_검식 일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식8_검식 일지.hwp"
           }
         ],
         "images": [],
@@ -519,7 +530,8 @@
             "target_local_path": "서식/서식9_급식시설 및 설비 점검기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식9_급식시설 및 설비 점검기록부.hwp"
           }
         ],
         "images": [],
@@ -572,7 +584,8 @@
             "target_local_path": "서식/서식10_조리실 위생 점검기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 환자 급식관리 규정/서식/서식10_조리실 위생 점검기록부.hwp"
           }
         ],
         "images": [],
@@ -604,7 +617,9 @@
             "source_provision_id": "admrul:국립소록도병원환자급식관리규정#JO0021",
             "reference_id": "law:식품위생분야종사자의건강진단규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생분야 종사자의 건강진단 규칙/법률/식품위생분야 종사자의 건강진단 규칙.json"
+            "target_git_path_guess": "식품위생분야 종사자의 건강진단 규칙/법률/식품위생분야 종사자의 건강진단 규칙.json",
+            "target_git_path": "식품위생 분야 종사자의 건강진단 규칙/법률/식품위생 분야 종사자의 건강진단 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -624,7 +639,9 @@
             "source_provision_id": "admrul:국립소록도병원환자급식관리규정#JO0021",
             "reference_id": "law:식품위생분야종사자의건강진단규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생분야 종사자의 건강진단 규칙/법률/식품위생분야 종사자의 건강진단 규칙.json"
+            "target_git_path_guess": "식품위생분야 종사자의 건강진단 규칙/법률/식품위생분야 종사자의 건강진단 규칙.json",
+            "target_git_path": "식품위생 분야 종사자의 건강진단 규칙/법률/식품위생 분야 종사자의 건강진단 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -667,7 +684,9 @@
             "source_provision_id": "admrul:국립소록도병원환자급식관리규정#JO0023",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

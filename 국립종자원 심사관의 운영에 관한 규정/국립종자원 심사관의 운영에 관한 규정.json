@@ -138,7 +138,9 @@
             "source_provision_id": "admrul:국립종자원심사관의운영에관한규정#DOC",
             "reference_id": "law:식물신품종보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물신품종 보호법/법률/식물신품종 보호법.json"
+            "target_git_path_guess": "식물신품종 보호법/법률/식물신품종 보호법.json",
+            "target_git_path": "식물신품종 보호법/법률/식물신품종 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -264,7 +266,8 @@
             "target_local_path": "별표/별표1_심사관 관리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립종자원 심사관의 운영에 관한 규정/별표/별표1_심사관 관리기록부.hwp"
           }
         ],
         "images": [],

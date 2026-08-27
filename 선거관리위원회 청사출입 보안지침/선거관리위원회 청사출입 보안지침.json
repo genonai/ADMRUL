@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:선거관리위원회청사출입보안지침#JO0001",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:선거관리위원회청사출입보안지침#JO0001",
             "reference_id": "law:보안업무규정#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -167,7 +171,9 @@
             "source_provision_id": "admrul:선거관리위원회청사출입보안지침#JO0002",
             "reference_id": "law:선거관리위원회공무원규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json"
+            "target_git_path_guess": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json",
+            "target_git_path": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -253,7 +259,8 @@
             "target_local_path": "별지/별지1_일반출입증 규격 등.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지1_일반출입증 규격 등.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -283,7 +290,8 @@
             "target_local_path": "별지/별지2_차량출입증 규격 등.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지2_차량출입증 규격 등.hwp"
           }
         ],
         "images": [],
@@ -360,7 +368,8 @@
             "target_local_path": "별표/별표1_인원출입증 발급기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별표/별표1_인원출입증 발급기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -390,7 +399,8 @@
             "target_local_path": "별지/별지3_일반출입증 발급(재발급) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지3_일반출입증 발급(재발급) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -420,7 +430,8 @@
             "target_local_path": "별지/별지3_일반출입증 발급(재발급) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지3_일반출입증 발급(재발급) 신청서.hwp"
           }
         ],
         "images": [],
@@ -473,7 +484,8 @@
             "target_local_path": "별지/별지3_일반출입증 발급(재발급) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지3_일반출입증 발급(재발급) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -503,7 +515,8 @@
             "target_local_path": "별지/별지4_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지4_서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -533,7 +546,8 @@
             "target_local_path": "별지/별지5_개인정보 수집 및 이용 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지5_개인정보 수집 및 이용 동의서.hwp"
           }
         ],
         "images": [],
@@ -575,7 +589,8 @@
             "target_local_path": "별지/별지6_차량출입증 발급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지6_차량출입증 발급 신청서.hwp"
           }
         ],
         "images": [],
@@ -675,7 +690,8 @@
             "target_local_path": "별지/별지9_분실신고 및 각서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지9_분실신고 및 각서.hwp"
           }
         ],
         "images": [],
@@ -728,7 +744,8 @@
             "target_local_path": "별지/별지8_청사출입대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지8_청사출입대장.hwp"
           }
         ],
         "images": [],
@@ -792,7 +809,8 @@
             "target_local_path": "별지/별지7_단체방문 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지7_단체방문 신청서.hwp"
           }
         ],
         "images": [],
@@ -834,7 +852,8 @@
             "target_local_path": "별지/별지8_청사출입대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지8_청사출입대장.hwp"
           }
         ],
         "images": [],
@@ -1028,7 +1047,8 @@
             "target_local_path": "별지/별지5_개인정보 수집 및 이용 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지5_개인정보 수집 및 이용 동의서.hwp"
           }
         ],
         "images": [],
@@ -1060,7 +1080,9 @@
             "source_provision_id": "admrul:선거관리위원회청사출입보안지침#JO0029",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1102,7 +1124,8 @@
             "target_local_path": "별표/별표2_청사 반입금지 물품.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별표/별표2_청사 반입금지 물품.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1132,7 +1155,8 @@
             "target_local_path": "별지/별지10_물품반입반출확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지10_물품반입반출확인서.hwp"
           }
         ],
         "images": [],
@@ -1251,7 +1275,8 @@
             "target_local_path": "별지/별지11_위반사실확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 청사출입 보안지침/별지/별지11_위반사실확인서.hwp"
           }
         ],
         "images": [],

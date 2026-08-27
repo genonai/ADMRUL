@@ -132,7 +132,8 @@
             "target_local_path": "서식/서식1_당직근무교체 승인원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경인지방식품의약품안전청 당직근무규정/서식/서식1_당직근무교체 승인원.hwp"
           }
         ],
         "images": [],
@@ -186,7 +187,9 @@
             "source_provision_id": "admrul:경인지방식품의약품안전청당직근무규정#JO0009",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

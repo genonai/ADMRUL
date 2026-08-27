@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:어선기관기준#JO0001",
             "reference_id": "law:어선법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:어선기관기준#JO0001",
             "reference_id": "law:어선법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -167,7 +171,9 @@
             "source_provision_id": "admrul:어선기관기준#JO0002",
             "reference_id": "law:어선법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +193,9 @@
             "source_provision_id": "admrul:어선기관기준#JO0002",
             "reference_id": "law:어선법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -281,7 +289,8 @@
             "target_local_path": "별표/별표1_재료의 기준(제6조제2항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표1_재료의 기준(제6조제2항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -311,7 +320,8 @@
             "target_local_path": "별표/별표1_재료의 기준(제6조제2항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표1_재료의 기준(제6조제2항관련).hwp"
           }
         ],
         "images": [],
@@ -353,7 +363,8 @@
             "target_local_path": "별표/별표2_압력시험 기준(제6조의1 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표2_압력시험 기준(제6조의1 관련).hwp"
           }
         ],
         "images": [],
@@ -477,7 +488,8 @@
             "target_local_path": "별표/별표3_크랭크암의 개폐량 허용한도(제11조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표3_크랭크암의 개폐량 허용한도(제11조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -739,7 +751,8 @@
             "target_local_path": "별표/별표4_내연기관의 시동횟수(제23조제2항제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표4_내연기관의 시동횟수(제23조제2항제2호 관련).hwp"
           }
         ],
         "images": [],
@@ -917,7 +930,8 @@
             "target_local_path": "별표/별표5_크랭크축의 승인시험 방법(제31조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표5_크랭크축의 승인시험 방법(제31조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -947,7 +961,8 @@
             "target_local_path": "별표/별표6_크랭크축의 지름과 암의 치수(제31조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표6_크랭크축의 지름과 암의 치수(제31조제3항 관련).hwp"
           }
         ],
         "images": [
@@ -2448,7 +2463,8 @@
             "target_local_path": "별표/별표7_가변피치 프로펠러 블레이드의 부착용 볼트 지름 및 하일리스큐드 프로펠러 블레이드의 두께(제68조제6항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표7_가변피치 프로펠러 블레이드의 부착용 볼트 지름 및 하일리스큐드 프로펠러 블레이드의 두께(제68조제6항 관련).hwp"
           }
         ],
         "images": [
@@ -3105,7 +3121,8 @@
             "target_local_path": "별표/별표7의2_크랭크축 응력의 상세 계산법 (제80조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표7의2_크랭크축 응력의 상세 계산법 (제80조 관련).hwp"
           }
         ],
         "images": [],
@@ -3874,7 +3891,8 @@
             "target_local_path": "별표/별표8_구멍의 보강을 하지 아니한 보일러 경판의 두께 (제87조제2항제3호 및 제90조제1항제3호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표8_구멍의 보강을 하지 아니한 보일러 경판의 두께 (제87조제2항제3호 및 제90조제1항제3호 관련).hwp"
           }
         ],
         "images": [
@@ -4031,7 +4049,8 @@
             "target_local_path": "별표/별표8_구멍의 보강을 하지 아니한 보일러 경판의 두께 (제87조제2항제3호 및 제90조제1항제3호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표8_구멍의 보강을 하지 아니한 보일러 경판의 두께 (제87조제2항제3호 및 제90조제1항제3호 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -5073,7 +5092,9 @@
             "source_provision_id": "admrul:어선기관기준#JO0117",
             "reference_id": "law:선박에서의오염방지에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박에서의 오염방지에 관한 규칙/법률/선박에서의 오염방지에 관한 규칙.json"
+            "target_git_path_guess": "선박에서의 오염방지에 관한 규칙/법률/선박에서의 오염방지에 관한 규칙.json",
+            "target_git_path": "선박에서의 오염방지에 관한 규칙/법률/선박에서의 오염방지에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5093,7 +5114,9 @@
             "source_provision_id": "admrul:어선기관기준#JO0117",
             "reference_id": "law:선박에서의오염방지에관한규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박에서의 오염방지에 관한 규칙/법률/선박에서의 오염방지에 관한 규칙.json"
+            "target_git_path_guess": "선박에서의 오염방지에 관한 규칙/법률/선박에서의 오염방지에 관한 규칙.json",
+            "target_git_path": "선박에서의 오염방지에 관한 규칙/법률/선박에서의 오염방지에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -6244,7 +6267,8 @@
             "target_local_path": "별표/별표9_냉동·냉장 장치(제160조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선기관기준/별표/별표9_냉동·냉장 장치(제160조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -6798,7 +6822,9 @@
             "source_provision_id": "admrul:어선기관기준#JO0170",
             "reference_id": "law:선박직원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박직원법/법률/선박직원법.json"
+            "target_git_path_guess": "선박직원법/법률/선박직원법.json",
+            "target_git_path": "선박직원법/법률/선박직원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [

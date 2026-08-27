@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:도로정책심의위원회운영세칙#JO0001",
             "reference_id": "law:도로법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/시행령/도로법시행령.json"
+            "target_git_path_guess": "도로법/시행령/도로법시행령.json",
+            "target_git_path": "도로법/시행령/도로법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:도로정책심의위원회운영세칙#JO0001",
             "reference_id": "law:도로법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/시행령/도로법시행령.json"
+            "target_git_path_guess": "도로법/시행령/도로법시행령.json",
+            "target_git_path": "도로법/시행령/도로법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -186,7 +190,8 @@
             "target_local_path": "별지/별지1_안건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "도로정책심의위원회 운영세칙/별지/별지1_안건.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -216,7 +221,8 @@
             "target_local_path": "별지/별지2_위원 의견.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "도로정책심의위원회 운영세칙/별지/별지2_위원 의견.hwp"
           }
         ],
         "images": [],
@@ -258,7 +264,8 @@
             "target_local_path": "별지/별지2_위원 의견.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "도로정책심의위원회 운영세칙/별지/별지2_위원 의견.hwp"
           }
         ],
         "images": [],

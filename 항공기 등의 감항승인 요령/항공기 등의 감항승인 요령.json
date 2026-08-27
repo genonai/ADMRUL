@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0001",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0001",
             "reference_id": "law:항공안전법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -258,7 +262,8 @@
             "target_local_path": "서식/서식1_항공기 감항승인(수출) 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공기 등의 감항승인 요령/서식/서식1_항공기 감항승인(수출) 점검표.hwp"
           }
         ],
         "images": [],
@@ -376,7 +381,9 @@
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0009",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -399,9 +406,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0009",
             "target_unit": "BJ0021",
-            "reference_id": "law:항공안전법시행규칙#BJ0021",
+            "reference_id": "law:항공안전법시행규칙#FORM0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/서식/서식21_항공기 감항승인서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -457,7 +467,9 @@
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0010",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -480,9 +492,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0010",
             "target_unit": "BJ0021",
-            "reference_id": "law:항공안전법시행규칙#BJ0021",
+            "reference_id": "law:항공안전법시행규칙#FORM0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/서식/서식21_항공기 감항승인서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -548,7 +563,8 @@
             "target_local_path": "서식/서식2_합치성 검사기록서(Conformity Inspection Record).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공기 등의 감항승인 요령/서식/서식2_합치성 검사기록서(Conformity Inspection Record).hwp"
           }
         ],
         "images": [],
@@ -666,7 +682,9 @@
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0013",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -689,9 +707,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공기등의감항승인요령#JO0013",
             "target_unit": "BJ0022",
-            "reference_id": "law:항공안전법시행규칙#BJ0022",
+            "reference_id": "law:항공안전법시행규칙#FORM0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/서식/서식22_부품 등 감항승인서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

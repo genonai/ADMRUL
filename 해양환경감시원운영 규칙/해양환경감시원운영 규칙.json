@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0001",
             "reference_id": "law:해양환경관리법#JO0116",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0001",
             "reference_id": "law:해양환경관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0001",
             "reference_id": "law:해양환경관리법시행령#JO0090",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0002",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0002",
             "reference_id": "law:항만지역등대기질개선에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만지역등 대기질 개선에 관한 특별법/법률/항만지역등 대기질 개선에 관한 특별법.json"
+            "target_git_path_guess": "항만지역등 대기질 개선에 관한 특별법/법률/항만지역등 대기질 개선에 관한 특별법.json",
+            "target_git_path": "항만지역등 대기질 개선에 관한 특별법/법률/항만지역등 대기질 개선에 관한 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -191,7 +201,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0003",
             "reference_id": "law:해양환경관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -211,7 +223,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0003",
             "reference_id": "law:해양환경관리법시행령#JO0090",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -231,7 +245,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0003",
             "reference_id": "law:해양환경관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json"
+            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_git_path": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -254,9 +270,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0003",
             "target_unit": "BJ0074",
-            "reference_id": "law:해양환경관리법시행규칙#BJ0074",
+            "reference_id": "law:해양환경관리법시행규칙#FORM0074",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json"
+            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_git_path": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_git_file_path": "해양환경관리법/시행규칙/서식/서식74_해양환경감시원증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -286,7 +305,8 @@
             "target_local_path": "별지/별지1_해양환경감시원 임명증 발급 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경감시원운영 규칙/별지/별지1_해양환경감시원 임명증 발급 대장.hwp"
           }
         ],
         "images": [],
@@ -329,7 +349,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0005",
             "reference_id": "law:해양환경관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -349,7 +371,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0005",
             "reference_id": "law:해양환경관리법시행령#JO0090",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -369,7 +393,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0005",
             "reference_id": "law:항만지역등대기질개선에관한특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만지역등 대기질 개선에 관한 특별법/시행령/항만지역등 대기질 개선에 관한 특별법 시행령.json"
+            "target_git_path_guess": "항만지역등 대기질 개선에 관한 특별법/시행령/항만지역등 대기질 개선에 관한 특별법 시행령.json",
+            "target_git_path": "항만지역등 대기질 개선에 관한 특별법/시행령/항만지역등 대기질 개선에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -389,7 +415,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0005",
             "reference_id": "law:항만지역등대기질개선에관한특별법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만지역등 대기질 개선에 관한 특별법/시행령/항만지역등 대기질 개선에 관한 특별법 시행령.json"
+            "target_git_path_guess": "항만지역등 대기질 개선에 관한 특별법/시행령/항만지역등 대기질 개선에 관한 특별법 시행령.json",
+            "target_git_path": "항만지역등 대기질 개선에 관한 특별법/시행령/항만지역등 대기질 개선에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -443,7 +471,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0008",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -463,7 +493,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0008",
             "reference_id": "law:해양환경관리법#JO0117",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -601,7 +633,8 @@
             "target_local_path": "별표/별표2_선박ㆍ시설등 정기점검 기준(제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염 지도점검 규칙/별표/별표2_선박ㆍ시설등 정기점검 기준(제5조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -811,7 +844,8 @@
             "target_local_path": "별지/별지4_선박지도점검보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염 지도점검 규칙/별지/별지4_선박지도점검보고서.hwp"
           }
         ],
         "images": [],
@@ -927,7 +961,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0012",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -947,7 +983,9 @@
             "source_provision_id": "admrul:해양환경감시원운영규칙#JO0012",
             "reference_id": "law:해양환경관리법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -977,7 +1015,8 @@
             "target_local_path": "별지/별지2_유류에 의한 해양오염 입증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경감시원운영 규칙/별지/별지2_유류에 의한 해양오염 입증서.hwp"
           }
         ],
         "images": [],

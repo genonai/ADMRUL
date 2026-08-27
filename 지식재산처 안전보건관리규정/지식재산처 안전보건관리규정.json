@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0001",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -194,7 +200,8 @@
             "target_local_path": "별표/별표1_지식재산처 안전보건관리 조직.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별표/별표1_지식재산처 안전보건관리 조직.hwp"
           }
         ],
         "images": [],
@@ -436,7 +443,8 @@
             "target_local_path": "별지/별지1_위험성 평가서 및 개선 실행 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지1_위험성 평가서 및 개선 실행 계획서.hwp"
           }
         ],
         "images": [],
@@ -511,7 +519,8 @@
             "target_local_path": "별지/별지2_지식재산처 작업장 안전점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지2_지식재산처 작업장 안전점검표.hwp"
           }
         ],
         "images": [],
@@ -543,7 +552,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0019",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -568,7 +579,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:산업안전보건기준에관한규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_file_path": "산업안전보건기준에 관한 규칙/법률/별표/별표1_위험물질의 종류(제16조ㆍ제17조 및 제225조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -598,7 +612,8 @@
             "target_local_path": "별지/별지6_안전보건관리체계 점검 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지6_안전보건관리체계 점검 결과보고서.hwp"
           }
         ],
         "images": [],
@@ -651,7 +666,8 @@
             "target_local_path": "별지/별지3_안전작업 허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지3_안전작업 허가서.hwp"
           }
         ],
         "images": [],
@@ -693,7 +709,8 @@
             "target_local_path": "별지/별지6_안전보건관리체계 점검 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지6_안전보건관리체계 점검 결과보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -723,7 +740,8 @@
             "target_local_path": "별지/별지7_시정조치 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지7_시정조치 요구서.hwp"
           }
         ],
         "images": [],
@@ -755,7 +773,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -780,7 +800,10 @@
             "target_unit": "BYL0012",
             "reference_id": "law:산업안전보건기준에관한규칙#BYL0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_file_path": "산업안전보건기준에 관한 규칙/법률/별표/별표12_관리대상 유해물질의 종류(제420조, 제439조 및 제440조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -800,7 +823,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -825,7 +850,10 @@
             "target_unit": "BYL0012",
             "reference_id": "law:산업안전보건기준에관한규칙#BYL0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_file_path": "산업안전보건기준에 관한 규칙/법률/별표/별표12_관리대상 유해물질의 종류(제420조, 제439조 및 제440조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -905,7 +933,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -930,7 +960,10 @@
             "target_unit": "BYL0012",
             "reference_id": "law:산업안전보건기준에관한규칙#BYL0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_file_path": "산업안전보건기준에 관한 규칙/법률/별표/별표12_관리대상 유해물질의 종류(제420조, 제439조 및 제440조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -973,7 +1006,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0028",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1062,7 +1097,8 @@
             "target_local_path": "별표/별표3_직무스트레스 요인 측정표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별표/별표3_직무스트레스 요인 측정표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1092,7 +1128,8 @@
             "target_local_path": "별표/별표4_직무스트레스 요인 환산점수에 대한 참고값 및 점수의 의미.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별표/별표4_직무스트레스 요인 환산점수에 대한 참고값 및 점수의 의미.hwp"
           }
         ],
         "images": [],
@@ -1167,7 +1204,8 @@
             "target_local_path": "별지/별지4_재해조사 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지4_재해조사 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1291,7 +1329,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0042",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1311,7 +1351,9 @@
             "source_provision_id": "admrul:지식재산처안전보건관리규정#JO0042",
             "reference_id": "law:중대재해처벌등에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1433,7 +1475,8 @@
             "target_local_path": "별지/별지5_안전보건관리체계 점검 수행계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지5_안전보건관리체계 점검 수행계획서.hwp"
           }
         ],
         "images": [],
@@ -1475,7 +1518,8 @@
             "target_local_path": "별표/별표5_안전보건관리체계 점검 체크리스트.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별표/별표5_안전보건관리체계 점검 체크리스트.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1577,7 +1621,8 @@
             "target_local_path": "별지/별지6_안전보건관리체계 점검 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지6_안전보건관리체계 점검 결과보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1607,7 +1652,8 @@
             "target_local_path": "별지/별지7_시정조치 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지식재산처 안전보건관리규정/별지/별지7_시정조치 요구서.hwp"
           }
         ],
         "images": [],

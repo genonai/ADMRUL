@@ -110,7 +110,8 @@
             "target_local_path": "별표/별표1_차량운행 및 점검부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소년원 및 소년분류심사원 차량관리 규칙/별표/별표1_차량운행 및 점검부.hwp"
           }
         ],
         "images": [],
@@ -163,7 +164,8 @@
             "target_local_path": "별표/별표2_차량의 색상 및 표지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소년원 및 소년분류심사원 차량관리 규칙/별표/별표2_차량의 색상 및 표지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -193,7 +195,8 @@
             "target_local_path": "별표/별표2_차량의 색상 및 표지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소년원 및 소년분류심사원 차량관리 규칙/별표/별표2_차량의 색상 및 표지.hwp"
           }
         ],
         "images": [],
@@ -235,7 +238,8 @@
             "target_local_path": "별표/별표3_승합차량의 특수장치.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소년원 및 소년분류심사원 차량관리 규칙/별표/별표3_승합차량의 특수장치.hwp"
           }
         ],
         "images": [],
@@ -276,9 +280,13 @@
             "target_url": "https://www.law.go.kr/법령/공용차량관리규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:소년원및소년분류심사원차량관리규칙#JO0009",
-            "reference_id": "law:공용차량관리규정#DOC",
+            "reference_id": "SchlPubRul:공용차량관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공용차량관리규정/법률/공용차량관리규정.json"
+            "target_git_path_guess": "공용차량관리규정/법률/공용차량관리규정.json",
+            "target_git_path": "공용차량 관리규정/공용차량 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

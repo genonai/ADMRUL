@@ -144,7 +144,9 @@
             "source_provision_id": "admrul:검문소운영규칙#JO0008",
             "reference_id": "law:경찰관직무집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json"
+            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_git_path": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -164,7 +166,9 @@
             "source_provision_id": "admrul:검문소운영규칙#JO0008",
             "reference_id": "law:경찰관직무집행법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json"
+            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_git_path": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -206,7 +210,8 @@
             "target_local_path": "별표/별표2_근무일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검문소 운영 규칙/별표/별표2_근무일지.hwp"
           }
         ],
         "images": [],
@@ -375,7 +380,8 @@
             "target_local_path": "별표/별표2_근무일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검문소 운영 규칙/별표/별표2_근무일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -405,7 +411,8 @@
             "target_local_path": "별표/별표3_범인검거대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검문소 운영 규칙/별표/별표3_범인검거대장.hwp"
           }
         ],
         "images": [],

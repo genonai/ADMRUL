@@ -411,7 +411,9 @@
             "source_provision_id": "admrul:국가정보자원관리원GT추진지침#JO0030",
             "reference_id": "law:전력기술관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json"
+            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json",
+            "target_git_path": "전력기술관리법/법률/전력기술관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -431,7 +433,9 @@
             "source_provision_id": "admrul:국가정보자원관리원GT추진지침#JO0030",
             "reference_id": "law:전력기술관리법#JO0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json"
+            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json",
+            "target_git_path": "전력기술관리법/법률/전력기술관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -463,7 +467,9 @@
             "source_provision_id": "admrul:국가정보자원관리원GT추진지침#JO0031",
             "reference_id": "law:수도법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -483,7 +489,8 @@
             "source_provision_id": "admrul:국가정보자원관리원GT추진지침#JO0031",
             "reference_id": "law:수도법시행규칙#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법시행규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

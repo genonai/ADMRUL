@@ -145,7 +145,8 @@
             "target_local_path": "별표/별표1_연고지 전보 포인트 부여기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "충청지방우정청 연고지 전보 운영지침/별표/별표1_연고지 전보 포인트 부여기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -175,7 +176,8 @@
             "target_local_path": "별표/별표2_소속관서 권역별 지역 구분표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "충청지방우정청 연고지 전보 운영지침/별표/별표2_소속관서 권역별 지역 구분표.hwp"
           }
         ],
         "images": [],
@@ -207,7 +209,9 @@
             "source_provision_id": "admrul:충청지방우정청연고지전보운영지침#JO0006",
             "reference_id": "law:장애인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

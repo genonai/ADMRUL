@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:조류제거시설설치운영및살포용조류제거물질사용지침#JO0001",
             "reference_id": "law:물환경보전법#JO0021_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "물환경보전법/법률/물환경보전법.json"
+            "target_git_path_guess": "물환경보전법/법률/물환경보전법.json",
+            "target_git_path": "물환경보전법/법률/물환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:조류제거시설설치운영및살포용조류제거물질사용지침#JO0001",
             "reference_id": "law:물환경보전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물환경보전법/시행령/물환경보전법 시행령.json"
+            "target_git_path_guess": "물환경보전법/시행령/물환경보전법 시행령.json",
+            "target_git_path": "물환경보전법/시행령/물환경보전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:조류제거시설설치운영및살포용조류제거물질사용지침#JO0001",
             "reference_id": "law:물환경보전법시행령#JO0029_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "물환경보전법/시행령/물환경보전법 시행령.json"
+            "target_git_path_guess": "물환경보전법/시행령/물환경보전법 시행령.json",
+            "target_git_path": "물환경보전법/시행령/물환경보전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:조류제거시설설치운영및살포용조류제거물질사용지침#JO0002",
             "reference_id": "law:물환경보전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물환경보전법/법률/물환경보전법.json"
+            "target_git_path_guess": "물환경보전법/법률/물환경보전법.json",
+            "target_git_path": "물환경보전법/법률/물환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:조류제거시설설치운영및살포용조류제거물질사용지침#JO0002",
             "reference_id": "law:물환경보전법#JO0021_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "물환경보전법/법률/물환경보전법.json"
+            "target_git_path_guess": "물환경보전법/법률/물환경보전법.json",
+            "target_git_path": "물환경보전법/법률/물환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:조류제거시설설치운영및살포용조류제거물질사용지침#JO0002",
             "reference_id": "law:하천법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json"
+            "target_git_path_guess": "하천법/법률/하천법.json",
+            "target_git_path": "하천법/법률/하천법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:조류제거시설설치운영및살포용조류제거물질사용지침#JO0002",
             "reference_id": "law:하천법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json"
+            "target_git_path_guess": "하천법/법률/하천법.json",
+            "target_git_path": "하천법/법률/하천법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -263,7 +277,8 @@
             "target_local_path": "별지/별지1_조류제거시설 설치 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침/별지/별지1_조류제거시설 설치 계획서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -532,7 +547,8 @@
             "target_local_path": "별지/별지2_조류제거물질 기본조사평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침/별지/별지2_조류제거물질 기본조사평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -562,7 +578,8 @@
             "target_local_path": "별표/별표1_조류제거효율 및 생태독성평가 방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침/별표/별표1_조류제거효율 및 생태독성평가 방법.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -748,7 +765,8 @@
             "target_local_path": "별지/별지2의2_조류제거물질 검토서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침/별지/별지2의2_조류제거물질 검토서.hwp"
           }
         ],
         "images": [],
@@ -801,7 +819,8 @@
             "target_local_path": "별지/별지3_조류제거물질 사용계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침/별지/별지3_조류제거물질 사용계획서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -878,7 +897,8 @@
             "target_local_path": "별지/별지5_조류제거물질 사후영향조사 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침/별지/별지5_조류제거물질 사후영향조사 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -908,7 +928,8 @@
             "target_local_path": "별지/별지4_조류제거물질 사용결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침/별지/별지4_조류제거물질 사용결과보고서.hwp"
           }
         ],
         "images": [],

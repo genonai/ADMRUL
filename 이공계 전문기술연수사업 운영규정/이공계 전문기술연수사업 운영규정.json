@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:이공계전문기술연수사업운영규정#JO0001",
             "reference_id": "law:과학기술기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:이공계전문기술연수사업운영규정#JO0001",
             "reference_id": "law:과학기술기본법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -386,7 +390,8 @@
             "target_local_path": "별표/별표1_사업비 비목 및 계상기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "이공계 전문기술연수사업 운영규정/별표/별표1_사업비 비목 및 계상기준.hwp"
           }
         ],
         "images": [],
@@ -522,7 +527,9 @@
             "source_provision_id": "admrul:이공계전문기술연수사업운영규정#JO0018",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -542,7 +549,9 @@
             "source_provision_id": "admrul:이공계전문기술연수사업운영규정#JO0018",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

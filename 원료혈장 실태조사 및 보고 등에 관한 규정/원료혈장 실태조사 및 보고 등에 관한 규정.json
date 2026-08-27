@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:원료혈장실태조사및보고등에관한규정#JO0001",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:원료혈장실태조사및보고등에관한규정#JO0001",
             "reference_id": "law:약사법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:원료혈장실태조사및보고등에관한규정#JO0001",
             "reference_id": "law:약사법#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:원료혈장실태조사및보고등에관한규정#JO0001",
             "reference_id": "law:의약품등의안전에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:원료혈장실태조사및보고등에관한규정#JO0001",
             "reference_id": "law:의약품등의안전에관한규칙#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:원료혈장실태조사및보고등에관한규정#JO0001",
             "reference_id": "law:의약품등의안전에관한규칙#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -192,7 +204,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:의약품등의안전에관한규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_file_path": "의약품 등의 안전에 관한 규칙/법률/별표/별표5_원료혈장관리기준(제48조제11호 및 제60조제2항제8호 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -234,7 +249,8 @@
             "target_local_path": "별표/별표1_혈장제조업소 등 실태조사 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원료혈장 실태조사 및 보고 등에 관한 규정/별표/별표1_혈장제조업소 등 실태조사 평가표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -290,7 +306,8 @@
             "target_local_path": "별표/별표1_혈장제조업소 등 실태조사 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원료혈장 실태조사 및 보고 등에 관한 규정/별표/별표1_혈장제조업소 등 실태조사 평가표.hwp"
           }
         ],
         "images": [],
@@ -332,7 +349,8 @@
             "target_local_path": "별지/별지1_원료혈장 마스터 파일 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원료혈장 실태조사 및 보고 등에 관한 규정/별지/별지1_원료혈장 마스터 파일 보고.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -386,7 +404,8 @@
             "target_local_path": "별표/별표2_원료혈장 마스터 파일 변경사항 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원료혈장 실태조사 및 보고 등에 관한 규정/별표/별표2_원료혈장 마스터 파일 변경사항 점검표.hwp"
           }
         ],
         "images": [],
@@ -428,7 +447,8 @@
             "target_local_path": "별지/별지2_혈액매개 바이러스 오염혈장에 대한 처리, vCJD 등 오염우려 혈장 등에 대한 처리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "원료혈장 실태조사 및 보고 등에 관한 규정/별지/별지2_혈액매개 바이러스 오염혈장에 대한 처리, vCJD 등 오염우려 혈장 등에 대한 처리.hwp"
           }
         ],
         "images": [],

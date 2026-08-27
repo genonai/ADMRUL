@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:방음시설의성능및설치기준#JO0004",
             "reference_id": "law:환경정책기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json"
+            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json",
+            "target_git_path": "환경정책기본법/법률/환경정책기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -154,7 +156,8 @@
             "target_local_path": "별지/별지1_방음시설의 성능평가서(시공 전).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방음시설의 성능 및 설치기준/별지/별지1_방음시설의 성능평가서(시공 전).hwp"
           },
           {
             "relation_type": "citation",
@@ -174,7 +177,9 @@
             "source_provision_id": "admrul:방음시설의성능및설치기준#JO0004",
             "reference_id": "law:소음진동관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소음ㆍ진동관리법/법률/소음ㆍ진동관리법.json"
+            "target_git_path_guess": "소음ㆍ진동관리법/법률/소음ㆍ진동관리법.json",
+            "target_git_path": "소음ㆍ진동관리법/법률/소음ㆍ진동관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -298,7 +303,9 @@
             "source_provision_id": "admrul:방음시설의성능및설치기준#JO0011",
             "reference_id": "law:소음진동관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소음ㆍ진동관리법/법률/소음ㆍ진동관리법.json"
+            "target_git_path_guess": "소음ㆍ진동관리법/법률/소음ㆍ진동관리법.json",
+            "target_git_path": "소음ㆍ진동관리법/법률/소음ㆍ진동관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -395,7 +402,8 @@
             "target_local_path": "별지/별지1_방음시설의 성능평가서(시공 전).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방음시설의 성능 및 설치기준/별지/별지1_방음시설의 성능평가서(시공 전).hwp"
           }
         ],
         "images": [],
@@ -461,7 +469,8 @@
             "target_local_path": "별지/별지3_방음시설 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방음시설의 성능 및 설치기준/별지/별지3_방음시설 관리카드.hwp"
           }
         ],
         "images": [],

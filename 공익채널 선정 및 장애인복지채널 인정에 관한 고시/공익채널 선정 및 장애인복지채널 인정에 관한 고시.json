@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:공익채널선정및장애인복지채널인정에관한고시#JO0001",
             "reference_id": "law:방송법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/법률/방송법.json"
+            "target_git_path_guess": "방송법/법률/방송법.json",
+            "target_git_path": "방송법/법률/방송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:공익채널선정및장애인복지채널인정에관한고시#JO0001",
             "reference_id": "law:방송법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/시행령/방송법 시행령.json"
+            "target_git_path_guess": "방송법/시행령/방송법 시행령.json",
+            "target_git_path": "방송법/시행령/방송법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:공익채널선정및장애인복지채널인정에관한고시#JO0001",
             "reference_id": "law:방송법시행령#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/시행령/방송법 시행령.json"
+            "target_git_path_guess": "방송법/시행령/방송법 시행령.json",
+            "target_git_path": "방송법/시행령/방송법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:공익채널선정및장애인복지채널인정에관한고시#JO0001",
             "reference_id": "law:방송법시행령#JO0056_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/시행령/방송법 시행령.json"
+            "target_git_path_guess": "방송법/시행령/방송법 시행령.json",
+            "target_git_path": "방송법/시행령/방송법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:공익채널선정및장애인복지채널인정에관한고시#JO0002",
             "reference_id": "law:방송법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/시행령/방송법 시행령.json"
+            "target_git_path_guess": "방송법/시행령/방송법 시행령.json",
+            "target_git_path": "방송법/시행령/방송법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:공익채널선정및장애인복지채널인정에관한고시#JO0002",
             "reference_id": "law:방송법시행령#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/시행령/방송법 시행령.json"
+            "target_git_path_guess": "방송법/시행령/방송법 시행령.json",
+            "target_git_path": "방송법/시행령/방송법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:공익채널선정및장애인복지채널인정에관한고시#JO0002",
             "reference_id": "law:방송법시행령#JO0056_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/시행령/방송법 시행령.json"
+            "target_git_path_guess": "방송법/시행령/방송법 시행령.json",
+            "target_git_path": "방송법/시행령/방송법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -336,7 +350,8 @@
             "target_local_path": "별지/별지1_공익채널 선정 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별지/별지1_공익채널 선정 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -366,7 +381,8 @@
             "target_local_path": "별표/별표1_공익채널 선정 및 장애인복지채널 인정 신청 서류 작성요령.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표1_공익채널 선정 및 장애인복지채널 인정 신청 서류 작성요령.hwp"
           }
         ],
         "images": [],
@@ -432,7 +448,8 @@
             "target_local_path": "별표/별표2_공익채널 전문편성 세부영역.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표2_공익채널 전문편성 세부영역.hwp"
           }
         ],
         "images": [],
@@ -485,7 +502,8 @@
             "target_local_path": "별표/별표3_공익채널 선정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표3_공익채널 선정 심사기준.hwp"
           }
         ],
         "images": [],
@@ -527,7 +545,8 @@
             "target_local_path": "별표/별표3_공익채널 선정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표3_공익채널 선정 심사기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -557,7 +576,8 @@
             "target_local_path": "별표/별표3_공익채널 선정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표3_공익채널 선정 심사기준.hwp"
           }
         ],
         "images": [],
@@ -683,7 +703,8 @@
             "target_local_path": "별지/별지3_공익채널 선정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별지/별지3_공익채널 선정서.hwp"
           }
         ],
         "images": [],
@@ -1166,7 +1187,8 @@
             "target_local_path": "별지/별지1_공익채널 선정 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별지/별지1_공익채널 선정 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1196,7 +1218,8 @@
             "target_local_path": "별지/별지2_장애인복지채널 인정 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별지/별지2_장애인복지채널 인정 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1274,7 +1297,8 @@
             "target_local_path": "별표/별표3_공익채널 선정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표3_공익채널 선정 심사기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1304,7 +1328,8 @@
             "target_local_path": "별표/별표4_장애인복지채널 인정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표4_장애인복지채널 인정 심사기준.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1358,7 +1383,8 @@
             "target_local_path": "별표/별표4_장애인복지채널 인정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표4_장애인복지채널 인정 심사기준.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1436,7 +1462,8 @@
             "target_local_path": "별표/별표3_공익채널 선정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표3_공익채널 선정 심사기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1466,7 +1493,8 @@
             "target_local_path": "별표/별표4_장애인복지채널 인정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별표/별표4_장애인복지채널 인정 심사기준.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1520,7 +1548,8 @@
             "target_local_path": "별지/별지3_공익채널 선정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별지/별지3_공익채널 선정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1550,7 +1579,8 @@
             "target_local_path": "별지/별지4_장애인복지채널 인정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공익채널 선정 및 장애인복지채널 인정에 관한 고시/별지/별지4_장애인복지채널 인정서.hwp"
           }
         ],
         "images": [],

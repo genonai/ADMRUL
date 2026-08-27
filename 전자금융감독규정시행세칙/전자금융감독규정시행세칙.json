@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0001",
             "reference_id": "law:전자금융거래법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/시행령/전자금융거래법 시행령.json"
+            "target_git_path_guess": "전자금융거래법/시행령/전자금융거래법 시행령.json",
+            "target_git_path": "전자금융거래법/시행령/전자금융거래법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -290,7 +292,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0002_03",
             "reference_id": "law:클라우드컴퓨팅발전및이용자보호에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률/시행령/클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령.json"
+            "target_git_path_guess": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률/시행령/클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령.json",
+            "target_git_path": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률/시행령/클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -310,7 +314,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0002_03",
             "reference_id": "law:클라우드컴퓨팅발전및이용자보호에관한법률시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률/시행령/클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령.json"
+            "target_git_path_guess": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률/시행령/클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령.json",
+            "target_git_path": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률/시행령/클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -556,7 +562,8 @@
             "target_local_path": "별표/별표7_망분리 대체 정보보호통제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표7_망분리 대체 정보보호통제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -586,7 +593,8 @@
             "target_local_path": "별표/별표7_망분리 대체 정보보호통제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표7_망분리 대체 정보보호통제.hwp"
           }
         ],
         "images": [],
@@ -676,7 +684,8 @@
             "target_local_path": "별지/별지6_클라우드컴퓨팅서비스 이용업무 지정_변경 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지6_클라우드컴퓨팅서비스 이용업무 지정_변경 보고.hwp"
           },
           {
             "relation_type": "citation",
@@ -1018,7 +1027,8 @@
             "target_local_path": "별표/별표2의5_클라우드컴퓨팅서비스 위수탁 계약서 주요 기재사항(제14조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정/별표/별표2의5_클라우드컴퓨팅서비스 위수탁 계약서 주요 기재사항(제14조의2 관련).hwp"
           }
         ],
         "images": [],
@@ -1288,7 +1298,8 @@
             "target_local_path": "별표/별표1_자체 보안성심의 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표1_자체 보안성심의 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1318,7 +1329,8 @@
             "target_local_path": "별표/별표1의2_자체 보안성 심의 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표1의2_자체 보안성 심의 기준.hwp"
           },
           {
             "relation_type": "citation",
@@ -1444,7 +1456,8 @@
             "target_local_path": "별지/별지3_자체 보안성심의 결과보고서(신규 전자금융서비스).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지3_자체 보안성심의 결과보고서(신규 전자금융서비스).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1474,7 +1487,8 @@
             "target_local_path": "별지/별지4_자체 보안성심의 결과보고서(공동 표준안).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지4_자체 보안성심의 결과보고서(공동 표준안).hwp"
           },
           {
             "relation_type": "citation",
@@ -1542,7 +1556,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0003",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반보호법/법률/정보통신기반보호법.json"
+            "target_git_path_guess": "정보통신기반보호법/법률/정보통신기반보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1562,7 +1578,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0003",
             "reference_id": "law:정보통신기반보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반보호법/법률/정보통신기반보호법.json"
+            "target_git_path_guess": "정보통신기반보호법/법률/정보통신기반보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1630,7 +1648,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0003",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1650,7 +1670,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0003",
             "reference_id": "law:전자금융거래법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1740,7 +1762,8 @@
             "target_local_path": "별지/별지8_정보기술부문 연간 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지8_정보기술부문 연간 계획서.hwp"
           }
         ],
         "images": [],
@@ -1874,7 +1897,8 @@
             "target_local_path": "별표/별표3_전자금융기반시설의 취약점 분석·평가의 내용.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표3_전자금융기반시설의 취약점 분석·평가의 내용.hwp"
           }
         ],
         "images": [],
@@ -1965,7 +1989,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0007_04",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1985,7 +2011,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0007_04",
             "reference_id": "law:전자금융거래법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2005,7 +2033,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0007_04",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2025,7 +2055,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0007_04",
             "reference_id": "law:전자금융거래법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2055,7 +2087,8 @@
             "target_local_path": "별지/별지2_정보기술부문 및 전자금융 사고보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지2_정보기술부문 및 전자금융 사고보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2101,7 +2134,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0007_04",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2121,7 +2156,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0007_04",
             "reference_id": "law:전자금융거래법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2151,7 +2188,8 @@
             "target_local_path": "별지/별지2_정보기술부문 및 전자금융 사고보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지2_정보기술부문 및 전자금융 사고보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2315,7 +2353,8 @@
             "target_local_path": "별지/별지7_약관 제정(변경)보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지7_약관 제정(변경)보고.hwp"
           },
           {
             "relation_type": "citation",
@@ -2335,7 +2374,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0008",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2355,7 +2396,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0008",
             "reference_id": "law:전자금융거래법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2495,7 +2538,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0008_03",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2515,7 +2560,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0008_03",
             "reference_id": "law:전자금융거래법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2593,7 +2640,8 @@
             "target_local_path": "별지/별지5_전자금융 거래금액 기준 초과 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지5_전자금융 거래금액 기준 초과 신고서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2613,7 +2661,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0008_03",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2633,7 +2683,9 @@
             "source_provision_id": "admrul:전자금융감독규정시행세칙#JO0008_03",
             "reference_id": "law:전자금융거래법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2723,7 +2775,8 @@
             "target_local_path": "별표/별표4_정보기술부문 실태평가 부문별 평가항목.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표4_정보기술부문 실태평가 부문별 평가항목.hwp"
           },
           {
             "relation_type": "citation",
@@ -2801,7 +2854,8 @@
             "target_local_path": "별표/별표5_평가등급별 정의.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표5_평가등급별 정의.hwp"
           }
         ],
         "images": [],
@@ -2891,7 +2945,8 @@
             "target_local_path": "별표/별표5_평가등급별 정의.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표5_평가등급별 정의.hwp"
           },
           {
             "relation_type": "citation",
@@ -2969,7 +3024,8 @@
             "target_local_path": "별표/별표5_평가등급별 정의.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표5_평가등급별 정의.hwp"
           }
         ],
         "images": [],
@@ -3059,7 +3115,8 @@
             "target_local_path": "별지/별지1_업무보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별지/별지1_업무보고서.hwp"
           }
         ],
         "images": [],
@@ -3149,7 +3206,8 @@
             "target_local_path": "별표/별표6_경영지도비율 산정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자금융감독규정시행세칙/별표/별표6_경영지도비율 산정기준.hwp"
           }
         ],
         "images": [],

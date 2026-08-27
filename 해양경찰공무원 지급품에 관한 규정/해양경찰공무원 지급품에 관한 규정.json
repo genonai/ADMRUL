@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양경찰공무원지급품에관한규정#JO0001",
             "reference_id": "law:경찰공무원지급품에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원 지급품에 관한 규칙/법률/경찰공무원 지급품에 관한 규칙.json"
+            "target_git_path_guess": "경찰공무원 지급품에 관한 규칙/법률/경찰공무원 지급품에 관한 규칙.json",
+            "target_git_path": "경찰공무원 지급품에 관한 규칙/법률/경찰공무원 지급품에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -164,7 +166,8 @@
             "target_local_path": "별지/별지2_대여품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰공무원 지급품에 관한 규정/별지/별지2_대여품 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -194,7 +197,8 @@
             "target_local_path": "별지/별지3_대여품 개인별 지급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰공무원 지급품에 관한 규정/별지/별지3_대여품 개인별 지급대장.hwp"
           }
         ],
         "images": [],
@@ -303,7 +307,9 @@
             "source_provision_id": "admrul:해양경찰공무원지급품에관한규정#JO0015",
             "reference_id": "law:물품관리법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품 관리법/법률/물품 관리법.json"
+            "target_git_path_guess": "물품 관리법/법률/물품 관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -323,7 +329,9 @@
             "source_provision_id": "admrul:해양경찰공무원지급품에관한규정#JO0015",
             "reference_id": "law:물품관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품 관리법/시행령/물품 관리법 시행령.json"
+            "target_git_path_guess": "물품 관리법/시행령/물품 관리법 시행령.json",
+            "target_git_path": "물품관리법/시행령/물품관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -343,7 +351,9 @@
             "source_provision_id": "admrul:해양경찰공무원지급품에관한규정#JO0015",
             "reference_id": "law:물품관리법시행령#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품 관리법/시행령/물품 관리법 시행령.json"
+            "target_git_path_guess": "물품 관리법/시행령/물품 관리법 시행령.json",
+            "target_git_path": "물품관리법/시행령/물품관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

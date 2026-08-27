@@ -125,7 +125,9 @@
             "source_provision_id": "admrul:국방통계훈령#JO0004",
             "reference_id": "law:통계법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,7 +147,9 @@
             "source_provision_id": "admrul:국방통계훈령#JO0004",
             "reference_id": "law:통계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -165,7 +169,9 @@
             "source_provision_id": "admrul:국방통계훈령#JO0004",
             "reference_id": "law:통계법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -284,7 +290,8 @@
             "target_local_path": "서식/서식1_자체통계품질진단표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방통계훈령/서식/서식1_자체통계품질진단표.hwp"
           }
         ],
         "images": [],
@@ -373,7 +380,8 @@
             "target_local_path": "서식/서식2_통계지표 추가(삭제) 건의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방통계훈령/서식/서식2_통계지표 추가(삭제) 건의서.hwp"
           }
         ],
         "images": [],
@@ -473,7 +481,8 @@
             "target_local_path": "서식/서식1_자체통계품질진단표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방통계훈령/서식/서식1_자체통계품질진단표.hwp"
           }
         ],
         "images": [],
@@ -551,7 +560,8 @@
             "target_local_path": "서식/서식4_통계간행물 발간승인 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방통계훈령/서식/서식4_통계간행물 발간승인 신청서.hwp"
           }
         ],
         "images": [],
@@ -583,7 +593,9 @@
             "source_provision_id": "admrul:국방통계훈령#JO0022",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -603,7 +615,9 @@
             "source_provision_id": "admrul:국방통계훈령#JO0022",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -633,7 +647,8 @@
             "target_local_path": "서식/서식5_국방통계 대외제공 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방통계훈령/서식/서식5_국방통계 대외제공 신청서.hwp"
           }
         ],
         "images": [],
@@ -687,7 +702,9 @@
             "source_provision_id": "admrul:국방통계훈령#JO0023_03",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -820,7 +837,8 @@
             "target_local_path": "서식/서식6_국방통계위원회 심의 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방통계훈령/서식/서식6_국방통계위원회 심의 의결서.hwp"
           }
         ],
         "images": [],

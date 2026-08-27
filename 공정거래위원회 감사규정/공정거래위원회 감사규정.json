@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0001",
             "reference_id": "law:중앙행정기관및지방자치단체자체감사기준#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json"
+            "target_git_path_guess": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_git_path": "중앙행정기관 및 지방자치단체 자체감사기준/법률/중앙행정기관 및 지방자치단체 자체감사기준.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -166,7 +170,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0004",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -242,7 +248,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0009",
             "reference_id": "law:자체감사활동의지원및대행위탁감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙/법률/자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙.json"
+            "target_git_path_guess": "자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙/법률/자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙.json",
+            "target_git_path": "자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙/법률/자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -262,7 +270,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -282,7 +292,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -348,7 +360,8 @@
             "target_local_path": "별지/별지1_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지1_서약서.hwp"
           }
         ],
         "images": [],
@@ -536,7 +549,8 @@
             "target_local_path": "별지/별지2_감사통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지2_감사통지서.hwp"
           }
         ],
         "images": [],
@@ -578,7 +592,8 @@
             "target_local_path": "별지/별지1_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지1_서약서.hwp"
           }
         ],
         "images": [],
@@ -631,7 +646,8 @@
             "target_local_path": "별지/별지3_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지3_확인서.hwp"
           }
         ],
         "images": [],
@@ -827,7 +843,8 @@
             "target_local_path": "별지/별지12_현지조치 지시사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지12_현지조치 지시사항.hwp"
           }
         ],
         "images": [],
@@ -952,7 +969,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0031",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -972,7 +991,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0031",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -992,7 +1013,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0031",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/시행규칙/공무원징계령 시행규칙.json"
+            "target_git_path_guess": "공무원징계령/시행규칙/공무원징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1017,7 +1040,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:공무원징계령시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/시행규칙/공무원징계령 시행규칙.json"
+            "target_git_path_guess": "공무원징계령/시행규칙/공무원징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_file_path": "공무원 징계령/시행규칙/별표/별표1_징계기준(제2조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1073,7 +1099,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0032",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1093,7 +1121,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0032",
             "reference_id": "law:공공감사에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1159,7 +1189,8 @@
             "target_local_path": "별지/별지7_감사결과 처분요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지7_감사결과 처분요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1189,7 +1220,8 @@
             "target_local_path": "별지/별지11_감사지적사항 처리내역.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지11_감사지적사항 처리내역.hwp"
           },
           {
             "relation_type": "citation",
@@ -1209,7 +1241,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0033",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1229,7 +1263,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0033",
             "reference_id": "law:공공감사에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1309,7 +1345,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0034",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1329,7 +1367,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0034",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1383,7 +1423,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0037",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1403,7 +1445,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0037",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1423,7 +1467,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0037",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1443,7 +1489,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0037",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1485,7 +1533,8 @@
             "target_local_path": "별지/별지8_적극행정면책 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지8_적극행정면책 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1515,7 +1564,8 @@
             "target_local_path": "별지/별지9_적극행정면책 검토서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지9_적극행정면책 검토서.hwp"
           }
         ],
         "images": [],
@@ -1581,7 +1631,8 @@
             "target_local_path": "별지/별지17_사전컨설팅 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지17_사전컨설팅 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1755,7 +1806,8 @@
             "target_local_path": "별지/별지10_재심의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지10_재심의신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1775,7 +1827,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0040",
             "reference_id": "law:행정심판법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1795,7 +1849,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0040",
             "reference_id": "law:감사원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json"
+            "target_git_path_guess": "감사원법/법률/감사원법.json",
+            "target_git_path": "감사원법/법률/감사원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1895,7 +1951,8 @@
             "target_local_path": "별지/별지13_청렴시민감사관 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지13_청렴시민감사관 추천서.hwp"
           }
         ],
         "images": [],
@@ -1937,7 +1994,8 @@
             "target_local_path": "별지/별지14_청렴시민감사관 감사실시 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지14_청렴시민감사관 감사실시 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1967,7 +2025,8 @@
             "target_local_path": "별지/별지15_청렴시민감사관 감사실시 요구내용.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지15_청렴시민감사관 감사실시 요구내용.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1997,7 +2056,8 @@
             "target_local_path": "별지/별지16_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공정거래위원회 감사규정/별지/별지16_서약서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2017,7 +2077,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0045",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2037,7 +2099,9 @@
             "source_provision_id": "admrul:공정거래위원회감사규정#JO0045",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

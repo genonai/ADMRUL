@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:보건복지사이버안전센터운영규정#JO0001",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -134,7 +136,9 @@
             "source_provision_id": "admrul:보건복지사이버안전센터운영규정#JO0003",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -154,7 +158,9 @@
             "source_provision_id": "admrul:보건복지사이버안전센터운영규정#JO0003",
             "reference_id": "law:정보통신기반보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -174,7 +180,9 @@
             "source_provision_id": "admrul:보건복지사이버안전센터운영규정#JO0003",
             "reference_id": "law:전기통신기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -194,7 +202,9 @@
             "source_provision_id": "admrul:보건복지사이버안전센터운영규정#JO0003",
             "reference_id": "law:전기통신기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -326,7 +336,8 @@
             "target_local_path": "별지/별지5_단위 보안관제센터 운영현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지사이버안전센터 운영규정/별지/별지5_단위 보안관제센터 운영현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -356,7 +367,8 @@
             "target_local_path": "별지/별지6_단위 보안관제센터 비상연락망.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지사이버안전센터 운영규정/별지/별지6_단위 보안관제센터 비상연락망.hwp"
           }
         ],
         "images": [],
@@ -398,7 +410,8 @@
             "target_local_path": "별지/별지5_단위 보안관제센터 운영현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지사이버안전센터 운영규정/별지/별지5_단위 보안관제센터 운영현황.hwp"
           }
         ],
         "images": [],
@@ -523,7 +536,8 @@
             "target_local_path": "별지/별지1_보건복지사이버안전센터 가입신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지사이버안전센터 운영규정/별지/별지1_보건복지사이버안전센터 가입신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -553,7 +567,8 @@
             "target_local_path": "별지/별지2_보건복지사이버안전센터 탈퇴신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지사이버안전센터 운영규정/별지/별지2_보건복지사이버안전센터 탈퇴신청서.hwp"
           }
         ],
         "images": [],
@@ -724,7 +739,8 @@
             "target_local_path": "별지/별지3_사고 신고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지사이버안전센터 운영규정/별지/별지3_사고 신고.hwp"
           }
         ],
         "images": [],
@@ -788,7 +804,8 @@
             "target_local_path": "별지/별지4_비밀유지 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지사이버안전센터 운영규정/별지/별지4_비밀유지 서약서.hwp"
           }
         ],
         "images": [],

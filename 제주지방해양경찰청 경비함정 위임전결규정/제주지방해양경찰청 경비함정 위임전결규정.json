@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:제주지방해양경찰청경비함정위임전결규정#JO0001",
             "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -276,7 +278,8 @@
             "target_local_path": "별표/별표1_중ㆍ대형 경비함정 위임전결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "제주지방해양경찰청 경비함정 위임전결규정/별표/별표1_중ㆍ대형 경비함정 위임전결사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -306,7 +309,8 @@
             "target_local_path": "별표/별표2_소형 경비정 및 특수함정 위임전결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "제주지방해양경찰청 경비함정 위임전결규정/별표/별표2_소형 경비정 및 특수함정 위임전결사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -336,7 +340,8 @@
             "target_local_path": "별표/별표1_중ㆍ대형 경비함정 위임전결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "제주지방해양경찰청 경비함정 위임전결규정/별표/별표1_중ㆍ대형 경비함정 위임전결사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -366,7 +371,8 @@
             "target_local_path": "별표/별표2_소형 경비정 및 특수함정 위임전결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "제주지방해양경찰청 경비함정 위임전결규정/별표/별표2_소형 경비정 및 특수함정 위임전결사항.hwp"
           }
         ],
         "images": [],

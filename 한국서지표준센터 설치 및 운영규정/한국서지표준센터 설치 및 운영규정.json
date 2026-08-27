@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:한국서지표준센터설치및운영규정#JO0001",
             "reference_id": "law:도서관법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:한국서지표준센터설치및운영규정#JO0001",
             "reference_id": "law:도서관법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/시행령/도서관법 시행령.json"
+            "target_git_path_guess": "도서관법/시행령/도서관법 시행령.json",
+            "target_git_path": "도서관법/시행령/도서관법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:한국서지표준센터설치및운영규정#JO0001",
             "reference_id": "law:도서관법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/시행령/도서관법 시행령.json"
+            "target_git_path_guess": "도서관법/시행령/도서관법 시행령.json",
+            "target_git_path": "도서관법/시행령/도서관법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -228,7 +234,8 @@
             "target_local_path": "별지/별지1_향후 1년간 출판예정인 도서 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지1_향후 1년간 출판예정인 도서 목록.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -305,7 +312,8 @@
             "target_local_path": "별지/별지2_한국도서번호 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지2_한국도서번호 통보서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -335,7 +343,8 @@
             "target_local_path": "별지/별지3_한국도서번호 정정 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지3_한국도서번호 정정 통보서.hwp"
           }
         ],
         "images": [],
@@ -377,7 +386,8 @@
             "target_local_path": "별지/별지1_향후 1년간 출판예정인 도서 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지1_향후 1년간 출판예정인 도서 목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -407,7 +417,8 @@
             "target_local_path": "별지/별지2_한국도서번호 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지2_한국도서번호 통보서.hwp"
           }
         ],
         "images": [],
@@ -449,7 +460,8 @@
             "target_local_path": "별지/별지4_발행자정보 정정 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지4_발행자정보 정정 통보서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -479,7 +491,8 @@
             "target_local_path": "별지/별지5_한국연속간행물번호 변경통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지5_한국연속간행물번호 변경통보서.hwp"
           }
         ],
         "images": [],
@@ -521,7 +534,8 @@
             "target_local_path": "별지/별지6_한국도서번호등재부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국서지표준센터 설치 및 운영규정/별지/별지6_한국도서번호등재부.hwp"
           }
         ],
         "images": [],

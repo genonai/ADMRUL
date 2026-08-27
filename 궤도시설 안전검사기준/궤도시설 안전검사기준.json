@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:궤도시설안전검사기준#JO0001",
             "reference_id": "law:궤도운송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json"
+            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json",
+            "target_git_path": "궤도운송법/법률/궤도운송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:궤도시설안전검사기준#JO0001",
             "reference_id": "law:궤도운송법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json"
+            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json",
+            "target_git_path": "궤도운송법/법률/궤도운송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:궤도시설안전검사기준#JO0003",
             "reference_id": "law:궤도운송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json"
+            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json",
+            "target_git_path": "궤도운송법/법률/궤도운송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:궤도시설안전검사기준#JO0003",
             "reference_id": "law:궤도운송법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json"
+            "target_git_path_guess": "궤도운송법/법률/궤도운송법.json",
+            "target_git_path": "궤도운송법/법률/궤도운송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -180,7 +188,8 @@
             "target_local_path": "별표/별표1_정기검사 기준 및 요령 (제3조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별표/별표1_정기검사 기준 및 요령 (제3조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -210,7 +219,8 @@
             "target_local_path": "별표/별표2_정밀안전검사 기준 및 요령(제3조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별표/별표2_정밀안전검사 기준 및 요령(제3조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -266,7 +276,8 @@
             "target_local_path": "별지/별지1_삭도시설 안전검사 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별지/별지1_삭도시설 안전검사 결과보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -296,7 +307,8 @@
             "target_local_path": "별표/별표3_삭도시설 수삭장치검사표(제3조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별표/별표3_삭도시설 수삭장치검사표(제3조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -326,7 +338,8 @@
             "target_local_path": "별표/별표7_삭도시설 시운전결과검사표(제3조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별표/별표7_삭도시설 시운전결과검사표(제3조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -356,7 +369,8 @@
             "target_local_path": "별지/별지2_궤도시설 안전검사 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별지/별지2_궤도시설 안전검사 결과보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -386,7 +400,8 @@
             "target_local_path": "별표/별표8_궤도시설 와이어로프검사표(제3조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별표/별표8_궤도시설 와이어로프검사표(제3조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -416,7 +431,8 @@
             "target_local_path": "별표/별표11_궤도시설 시운전결과검사표(제3조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별표/별표11_궤도시설 시운전결과검사표(제3조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -446,7 +462,8 @@
             "target_local_path": "별표/별표13_정밀안전검사보고서에 포함되어야할 사항(제3조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궤도시설 안전검사기준/별표/별표13_정밀안전검사보고서에 포함되어야할 사항(제3조제2항 관련).hwp"
           }
         ],
         "images": [],

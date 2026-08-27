@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립보건연구원연구시설장비의관리등에관한규정#JO0001",
             "reference_id": "law:과학기술기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json"
+            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_git_path": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -134,7 +136,9 @@
             "source_provision_id": "admrul:국립보건연구원연구시설장비의관리등에관한규정#JO0003",
             "reference_id": "law:과학기술기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -483,7 +487,8 @@
             "target_local_path": "별표/별표12_연구시설장비 이용료 산정 기본원칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가연구개발 시설·장비의 관리 등에 관한 표준지침/별표/별표12_연구시설장비 이용료 산정 기본원칙.hwp"
           }
         ],
         "images": [],

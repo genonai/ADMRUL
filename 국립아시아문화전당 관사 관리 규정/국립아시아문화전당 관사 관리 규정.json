@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:국립아시아문화전당관사관리규정#JO0003",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +179,8 @@
             "target_local_path": "별지/별지1_관사 사용신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립아시아문화전당 관사 관리 규정/별지/별지1_관사 사용신청서.hwp"
           }
         ],
         "images": [],
@@ -277,7 +280,8 @@
             "target_local_path": "별지/별지3_관사 퇴거신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립아시아문화전당 관사 관리 규정/별지/별지3_관사 퇴거신청서.hwp"
           },
           {
             "relation_type": "internal_ref",

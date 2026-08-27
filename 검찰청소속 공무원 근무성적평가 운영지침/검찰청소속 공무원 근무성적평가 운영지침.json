@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:검찰청소속공무원근무성적평가운영지침#DOC",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -84,9 +86,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:검찰청소속공무원근무성적평가운영지침#DOC",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:검찰청소속공무원근무성적평가운영지침#DOC",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:검찰청소속공무원근무성적평가운영지침#DOC",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -180,7 +188,8 @@
             "target_local_path": "별지/별지8의2_이의신청 심사결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검찰청소속 공무원 근무성적평가 운영지침/별지/별지8의2_이의신청 심사결정서.hwp"
           },
           {
             "relation_type": "citation",
@@ -200,7 +209,9 @@
             "source_provision_id": "admrul:검찰청소속공무원근무성적평가운영지침#DOC",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -220,7 +231,9 @@
             "source_provision_id": "admrul:검찰청소속공무원근무성적평가운영지침#DOC",
             "reference_id": "law:공무원임용령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -250,7 +263,8 @@
             "target_local_path": "별지/별지9_경력·가점평정표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검찰청소속 공무원 근무성적평가 운영지침/별지/별지9_경력·가점평정표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -280,7 +294,8 @@
             "target_local_path": "별표/별표7_가점사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검찰청소속 공무원 근무성적평가 운영지침/별표/별표7_가점사항.hwp"
           }
         ],
         "images": [

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체실험및취급규정#JO0001",
             "reference_id": "law:유전자변형생물체의국가간이동등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/법률/유전자변형생물체의 국가간 이동 등에 관한 법률.json"
+            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/법률/유전자변형생물체의 국가간 이동 등에 관한 법률.json",
+            "target_git_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/법률/유전자변형생물체의 국가간 이동 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -405,7 +407,8 @@
             "target_local_path": "별표/별표1_농림축산업용 유전자변형생물체 관리항목별 조치사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체 실험 및 취급 규정/별표/별표1_농림축산업용 유전자변형생물체 관리항목별 조치사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -435,7 +438,8 @@
             "target_local_path": "별표/별표2_유전자변형생물체 운반용기 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체 실험 및 취급 규정/별표/별표2_유전자변형생물체 운반용기 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -619,7 +623,8 @@
             "target_local_path": "별표/별표2_생물체의 위험군 분류(제5조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "유전자재조합실험지침/별표/별표2_생물체의 위험군 분류(제5조 제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -687,7 +692,8 @@
             "target_local_path": "별표/별표3_유전자변형작물 격리포장시설 시험재배 격리거리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체 실험 및 취급 규정/별표/별표3_유전자변형작물 격리포장시설 시험재배 격리거리.hwp"
           }
         ],
         "images": [],

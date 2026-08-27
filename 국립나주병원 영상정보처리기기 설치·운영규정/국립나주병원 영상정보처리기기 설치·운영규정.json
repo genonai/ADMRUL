@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:국립나주병원영상정보처리기기설치운영규정#JO0002",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:국립나주병원영상정보처리기기설치운영규정#JO0002",
             "reference_id": "law:통신비밀보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
+            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "admrul:국립나주병원영상정보처리기기설치운영규정#JO0002",
             "reference_id": "law:행정절차법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/법률/행정절차법.json"
+            "target_git_path_guess": "행정절차법/법률/행정절차법.json",
+            "target_git_path": "행정절차법/법률/행정절차법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -239,7 +245,8 @@
             "target_local_path": "서식/서식1_영상정보처리기기 운영·관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식1_영상정보처리기기 운영·관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +276,8 @@
             "target_local_path": "서식/서식2_CCTV 카메라 점검 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식2_CCTV 카메라 점검 관리대장.hwp"
           }
         ],
         "images": [],
@@ -360,7 +368,9 @@
             "source_provision_id": "admrul:국립나주병원영상정보처리기기설치운영규정#JO0010",
             "reference_id": "law:통신비밀보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
+            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -449,7 +459,8 @@
             "target_local_path": "서식/서식5_개인(영상)정보(열람·존재확인, 정정ㆍ삭제, 처리정지) 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식5_개인(영상)정보(열람·존재확인, 정정ㆍ삭제, 처리정지) 요구서.hwp"
           }
         ],
         "images": [],
@@ -491,7 +502,8 @@
             "target_local_path": "서식/서식4_개인(영상)정보파일 (이용, 등록, 변경등록) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식4_개인(영상)정보파일 (이용, 등록, 변경등록) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -521,7 +533,8 @@
             "target_local_path": "서식/서식3_개인(영상)정보 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식3_개인(영상)정보 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -551,7 +564,8 @@
             "target_local_path": "서식/서식6_개인(영상)정보 (열람, 일부열람 ,열람연기, 열람거절) 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식6_개인(영상)정보 (열람, 일부열람 ,열람연기, 열람거절) 통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -581,7 +595,8 @@
             "target_local_path": "서식/서식6_개인(영상)정보 (열람, 일부열람 ,열람연기, 열람거절) 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식6_개인(영상)정보 (열람, 일부열람 ,열람연기, 열람거절) 통지서.hwp"
           }
         ],
         "images": [],
@@ -623,7 +638,8 @@
             "target_local_path": "서식/서식8_개인(영상)정보의 목적 외 이용 및 제3자 제공대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식8_개인(영상)정보의 목적 외 이용 및 제3자 제공대장.hwp"
           }
         ],
         "images": [],
@@ -665,7 +681,8 @@
             "target_local_path": "서식/서식5_개인(영상)정보(열람·존재확인, 정정ㆍ삭제, 처리정지) 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식5_개인(영상)정보(열람·존재확인, 정정ㆍ삭제, 처리정지) 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -695,7 +712,8 @@
             "target_local_path": "서식/서식7_개인(영상)정보 (열람, 정정ㆍ삭제, 처리정지) 요구에 대한 결과 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식7_개인(영상)정보 (열람, 정정ㆍ삭제, 처리정지) 요구에 대한 결과 통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -725,7 +743,8 @@
             "target_local_path": "서식/서식3_개인(영상)정보 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 영상정보처리기기 설치·운영규정/서식/서식3_개인(영상)정보 관리대장.hwp"
           }
         ],
         "images": [],

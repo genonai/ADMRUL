@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0001",
             "reference_id": "law:국가회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계법/법률/국가회계법.json"
+            "target_git_path_guess": "국가회계법/법률/국가회계법.json",
+            "target_git_path": "국가회계법/법률/국가회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0001",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json"
+            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0001",
             "reference_id": "law:국가채권관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가채권 관리법/법률/국가채권 관리법.json"
+            "target_git_path_guess": "국가채권 관리법/법률/국가채권 관리법.json",
+            "target_git_path": "국가채권 관리법/법률/국가채권 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0001",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0001",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0001",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0002",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +233,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0002",
             "reference_id": "law:수출용원재료에대한관세등환급에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수출용 원재료에 대한 관세 등 환급에 관한 특례법/법률/수출용 원재료에 대한 관세 등 환급에 관한 특례법.json"
+            "target_git_path_guess": "수출용 원재료에 대한 관세 등 환급에 관한 특례법/법률/수출용 원재료에 대한 관세 등 환급에 관한 특례법.json",
+            "target_git_path": "수출용 원재료에 대한 관세 등 환급에 관한 특례법/법률/수출용 원재료에 대한 관세 등 환급에 관한 특례법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -261,7 +277,8 @@
             "target_local_path": "별표/별표1_관세청 소관 회계직공무원 지정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 회계직공무원 지정 및 재정보증에 관한 훈령/별표/별표1_관세청 소관 회계직공무원 지정.hwp"
           }
         ],
         "images": [],
@@ -303,7 +320,8 @@
             "target_local_path": "별표/별표2_대리회계직공무원 임명 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 회계직공무원 지정 및 재정보증에 관한 훈령/별표/별표2_대리회계직공무원 임명 기준.hwp"
           }
         ],
         "images": [],
@@ -335,7 +353,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0005",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json"
+            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -578,7 +598,8 @@
             "target_local_path": "별지/별지1_재정보증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 회계직공무원 지정 및 재정보증에 관한 훈령/별지/별지1_재정보증서.hwp"
           }
         ],
         "images": [],
@@ -668,7 +689,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0015",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -688,7 +711,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0015",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -708,7 +733,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0015",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -728,7 +755,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0015",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -760,7 +789,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0016",
             "reference_id": "law:정부유가증권취급규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부유가증권취급규칙/법률/정부유가증권취급규칙.json"
+            "target_git_path_guess": "정부유가증권취급규칙/법률/정부유가증권취급규칙.json",
+            "target_git_path": "정부유가증권취급규칙/법률/정부유가증권취급규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -780,7 +811,9 @@
             "source_provision_id": "admrul:관세청회계직공무원지정및재정보증에관한훈령#JO0016",
             "reference_id": "law:정부유가증권취급규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부유가증권취급규칙/법률/정부유가증권취급규칙.json"
+            "target_git_path_guess": "정부유가증권취급규칙/법률/정부유가증권취급규칙.json",
+            "target_git_path": "정부유가증권취급규칙/법률/정부유가증권취급규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

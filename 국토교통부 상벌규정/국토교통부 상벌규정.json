@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:국토교통부상벌규정#JO0003",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -186,7 +188,8 @@
             "target_local_path": "별표/별표1_포상자 수혜기준(제5조 규정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 상벌규정/별표/별표1_포상자 수혜기준(제5조 규정).hwp"
           }
         ],
         "images": [],
@@ -263,7 +266,8 @@
             "target_local_path": "별표/별표2_처벌기준(제7조 규정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 상벌규정/별표/별표2_처벌기준(제7조 규정).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -293,7 +297,8 @@
             "target_local_path": "별표/별표2_처벌기준(제7조 규정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 상벌규정/별표/별표2_처벌기준(제7조 규정).hwp"
           },
           {
             "relation_type": "citation",
@@ -370,7 +375,8 @@
             "target_local_path": "별표/별표3_처벌의 가중(제9조 규정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 상벌규정/별표/별표3_처벌의 가중(제9조 규정).hwp"
           }
         ],
         "images": [],
@@ -472,7 +478,8 @@
             "target_local_path": "별표/별표4_상벌관리대장(제11조 규정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 상벌규정/별표/별표4_상벌관리대장(제11조 규정).hwp"
           }
         ],
         "images": [],

@@ -151,7 +151,9 @@
             "source_provision_id": "admrul:영산강홍수통제소당직및비상근무시행세칙#JO0002",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -363,7 +365,8 @@
             "target_local_path": "붙임/붙임1_긴급사태 발생시 조치요령.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "영산강홍수통제소 당직 및 비상근무 시행세칙/붙임/붙임1_긴급사태 발생시 조치요령.hwp"
           }
         ],
         "images": [],
@@ -482,7 +485,8 @@
             "target_local_path": "붙임/붙임4_비상소집결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "영산강홍수통제소 당직 및 비상근무 시행세칙/붙임/붙임4_비상소집결과보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",

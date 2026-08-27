@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0001",
             "reference_id": "law:유전자변형생물체의국가간이동등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json",
+            "target_git_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0001",
             "reference_id": "law:유전자변형생물체의국가간이동등에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json",
+            "target_git_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +223,8 @@
             "target_local_path": "별지/별지3_농림축산업용 유전자변형생물체 검사결과 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지3_농림축산업용 유전자변형생물체 검사결과 보고.hwp"
           },
           {
             "relation_type": "citation",
@@ -239,7 +244,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0002",
             "reference_id": "law:유전자변형생물체의국가간이동등에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json",
+            "target_git_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -262,9 +269,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0002",
             "target_unit": "BJ0006",
-            "reference_id": "law:유전자변형생물체의국가간이동등에관한법률시행규칙#BJ0006",
+            "reference_id": "law:유전자변형생물체의국가간이동등에관한법률시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json",
+            "target_git_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/유전자변형생물체의 국가간 이동 등에 관한 법률 시행규칙.json",
+            "target_git_file_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행규칙/서식/서식6_유전자변형생물체[수입승인서, 수입승인사항 변경승인서(농림ㆍ축산용, 산업용, 보건의료용, 환경정화용, 해양수산용, 식품ㆍ의료기기용)].hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -306,7 +316,8 @@
             "target_local_path": "별표/별표3_발아 또는 번식력을 제거하는 폐기방법(제9조제5호 및 제14조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별표/별표3_발아 또는 번식력을 제거하는 폐기방법(제9조제5호 및 제14조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -336,7 +347,8 @@
             "target_local_path": "별표/별표1_농림축산업용 유전자변형생물체의 국경검사 대상목록(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별표/별표1_농림축산업용 유전자변형생물체의 국경검사 대상목록(제3조 관련).hwp"
           }
         ],
         "images": [],
@@ -402,7 +414,8 @@
             "target_local_path": "별표/별표4_우편으로 수입되는 식물검역대상물품의 검역방법(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입식물 등의 검역요령/별표/별표4_우편으로 수입되는 식물검역대상물품의 검역방법(제9조 관련).hwp"
           }
         ],
         "images": [],
@@ -466,7 +479,8 @@
             "target_local_path": "별표/별표2_검사단위 구성 및 시료채취·관리방법(제7조제1항 및 제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별표/별표2_검사단위 구성 및 시료채취·관리방법(제7조제1항 및 제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -496,7 +510,8 @@
             "target_local_path": "별표/별표2_검사단위 구성 및 시료채취·관리방법(제7조제1항 및 제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별표/별표2_검사단위 구성 및 시료채취·관리방법(제7조제1항 및 제2항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -552,7 +567,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0008",
             "reference_id": "law:유전자변형생물체의국가간이동등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json",
+            "target_git_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -572,7 +589,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0008",
             "reference_id": "law:유전자변형생물체의국가간이동등에관한법률시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json",
+            "target_git_path": "유전자변형생물체의 국가간 이동 등에 관한 법률/시행령/유전자변형생물체의 국가간 이동 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -602,7 +621,8 @@
             "target_local_path": "별지/별지6_농림축산업용 유전자변형생물체 표시보완 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지6_농림축산업용 유전자변형생물체 표시보완 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -632,7 +652,8 @@
             "target_local_path": "별지/별지1_농림축산업용 유전자변형생물체 미표시 사항 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지1_농림축산업용 유전자변형생물체 미표시 사항 확인서.hwp"
           }
         ],
         "images": [],
@@ -724,7 +745,8 @@
             "target_local_path": "별표/별표3_발아 또는 번식력을 제거하는 폐기방법(제9조제5호 및 제14조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별표/별표3_발아 또는 번식력을 제거하는 폐기방법(제9조제5호 및 제14조제3항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -744,7 +766,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0009",
             "reference_id": "law:농업생명자원의보존관리및이용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업생명자원의 보존ㆍ관리 및 이용에 관한 법률/법률/농업생명자원의 보존ㆍ관리 및 이용에 관한 법률.json"
+            "target_git_path_guess": "농업생명자원의 보존ㆍ관리 및 이용에 관한 법률/법률/농업생명자원의 보존ㆍ관리 및 이용에 관한 법률.json",
+            "target_git_path": "농업생명자원의 보존ㆍ관리 및 이용에 관한 법률/법률/농업생명자원의 보존ㆍ관리 및 이용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -764,7 +788,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0009",
             "reference_id": "law:농업생명자원의보존관리및이용에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업생명자원의 보존ㆍ관리 및 이용에 관한 법률/법률/농업생명자원의 보존ㆍ관리 및 이용에 관한 법률.json"
+            "target_git_path_guess": "농업생명자원의 보존ㆍ관리 및 이용에 관한 법률/법률/농업생명자원의 보존ㆍ관리 및 이용에 관한 법률.json",
+            "target_git_path": "농업생명자원의 보존ㆍ관리 및 이용에 관한 법률/법률/농업생명자원의 보존ㆍ관리 및 이용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -854,7 +880,8 @@
             "target_local_path": "별지/별지2_농림축산업용 유전자변형생물체 정량검사 의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지2_농림축산업용 유전자변형생물체 정량검사 의뢰서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -884,7 +911,8 @@
             "target_local_path": "별지/별지8_농림축산업용 유전자변형생물체 정량검사 결과 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지8_농림축산업용 유전자변형생물체 정량검사 결과 통지서.hwp"
           }
         ],
         "images": [],
@@ -973,7 +1001,8 @@
             "target_local_path": "별지/별지4_농림축산업용 유전자변형생물체의 수입검사 결과통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지4_농림축산업용 유전자변형생물체의 수입검사 결과통보서.hwp"
           }
         ],
         "images": [],
@@ -1015,7 +1044,8 @@
             "target_local_path": "별표/별표3_발아 또는 번식력을 제거하는 폐기방법(제9조제5호 및 제14조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별표/별표3_발아 또는 번식력을 제거하는 폐기방법(제9조제5호 및 제14조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -1117,7 +1147,8 @@
             "target_local_path": "별지/별지3_농림축산업용 유전자변형생물체 검사결과 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지3_농림축산업용 유전자변형생물체 검사결과 보고.hwp"
           }
         ],
         "images": [],
@@ -1159,7 +1190,8 @@
             "target_local_path": "별지/별지7_농림축산업용 유전자변형생물체 반납시료 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농림축산업용 유전자변형생물체의 국경검사 세부실시요령/별지/별지7_농림축산업용 유전자변형생물체 반납시료 관리대장.hwp"
           }
         ],
         "images": [],
@@ -1191,7 +1223,9 @@
             "source_provision_id": "admrul:농림축산업용유전자변형생물체의국경검사세부실시요령#JO0018",
             "reference_id": "law:식물방역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

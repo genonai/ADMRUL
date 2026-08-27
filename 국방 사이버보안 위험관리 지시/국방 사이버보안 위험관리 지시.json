@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0001",
             "reference_id": "law:국방정보화기반조성및국방정보자원관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json"
+            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_git_path": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0001",
             "reference_id": "law:국방정보화기반조성및국방정보자원관리에관한법률#JO0021_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json"
+            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_git_path": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -201,7 +205,8 @@
             "target_local_path": "별표/별표4_무기체계 세부분류.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방전력발전업무훈령/별표/별표4_무기체계 세부분류.hwp"
           },
           {
             "relation_type": "citation",
@@ -255,7 +260,8 @@
             "target_local_path": "별표/별표5_전력지원체계 세부분류.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방전력발전업무훈령/별표/별표5_전력지원체계 세부분류.hwp"
           },
           {
             "relation_type": "citation",
@@ -664,7 +670,8 @@
             "target_local_path": "별표/별표1_시스템 보안분류 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp"
           },
           {
             "relation_type": "citation",
@@ -718,7 +725,8 @@
             "target_local_path": "별표/별표4_무기체계 세부분류.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방전력발전업무훈령/별표/별표4_무기체계 세부분류.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -748,7 +756,8 @@
             "target_local_path": "별지/별지1_시스템 보안분류 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지1_시스템 보안분류 결과서.hwp"
           }
         ],
         "images": [],
@@ -921,7 +930,8 @@
             "target_local_path": "별지/별지2_보안계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -951,7 +961,8 @@
             "target_local_path": "별지/별지2_보안계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp"
           }
         ],
         "images": [],
@@ -1064,7 +1075,8 @@
             "target_local_path": "별지/별지3_보안평가 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지3_보안평가 계획서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1178,7 +1190,8 @@
             "target_local_path": "별지/별지4_후속조치 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지4_후속조치 계획서.hwp"
           }
         ],
         "images": [],
@@ -1244,7 +1257,8 @@
             "target_local_path": "별지/별지5_운용인가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지5_운용인가서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1298,7 +1312,8 @@
             "target_local_path": "별표/별표2_인가 등급별 기간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표2_인가 등급별 기간.hwp"
           }
         ],
         "images": [],
@@ -1460,7 +1475,8 @@
             "target_local_path": "별표/별표1_시스템 보안분류 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp"
           }
         ],
         "images": [],
@@ -1513,7 +1529,8 @@
             "target_local_path": "별표/별표1_시스템 보안분류 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1543,7 +1560,8 @@
             "target_local_path": "별지/별지1_시스템 보안분류 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지1_시스템 보안분류 결과서.hwp"
           }
         ],
         "images": [],
@@ -1667,7 +1685,8 @@
             "target_local_path": "별지/별지2_보안계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1721,7 +1740,8 @@
             "target_local_path": "별지/별지2_보안계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp"
           }
         ],
         "images": [],
@@ -1823,7 +1843,8 @@
             "target_local_path": "별지/별지3_보안평가 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지3_보안평가 계획서.hwp"
           }
         ],
         "images": [],
@@ -1889,7 +1910,8 @@
             "target_local_path": "별지/별지4_후속조치 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지4_후속조치 계획서.hwp"
           }
         ],
         "images": [],
@@ -1955,7 +1977,8 @@
             "target_local_path": "별지/별지5_운용인가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지5_운용인가서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2009,7 +2032,8 @@
             "target_local_path": "별표/별표2_인가 등급별 기간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표2_인가 등급별 기간.hwp"
           }
         ],
         "images": [],
@@ -2135,7 +2159,8 @@
             "target_local_path": "별표/별표1_시스템 보안분류 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp"
           }
         ],
         "images": [],

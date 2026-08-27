@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0001",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0001",
             "reference_id": "law:관세법#JO0241",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0001",
             "reference_id": "law:관세법#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -187,7 +193,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0002",
             "reference_id": "law:관세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -210,9 +218,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0002",
             "target_unit": "BJ0042",
-            "reference_id": "law:관세법시행규칙#BJ0042",
+            "reference_id": "law:관세법시행규칙#FORM0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_file_path": "관세법/시행규칙/서식/서식42_여행자 휴대품 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -232,7 +243,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0002",
             "reference_id": "law:관세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -255,9 +268,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0002",
             "target_unit": "BJ0043",
-            "reference_id": "law:관세법시행규칙#BJ0043",
+            "reference_id": "law:관세법시행규칙#FORM0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_file_path": "관세법/시행규칙/서식/서식43_여행자 휴대품 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -277,7 +293,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0002",
             "reference_id": "law:관세법#JO0196",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -391,7 +409,8 @@
             "target_local_path": "별지/별지3_휴대품유치증(세금계산서).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지3_휴대품유치증(세금계산서).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -421,7 +440,8 @@
             "target_local_path": "별지/별지4_휴대품 예치증(Bill of Deposit).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지4_휴대품 예치증(Bill of Deposit).hwp"
           },
           {
             "relation_type": "citation",
@@ -525,7 +545,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0004",
             "reference_id": "law:대외무역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -545,7 +567,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0004",
             "reference_id": "law:대외무역법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -623,7 +647,8 @@
             "target_local_path": "별지/별지3_휴대품유치증(세금계산서).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지3_휴대품유치증(세금계산서).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -653,7 +678,8 @@
             "target_local_path": "별지/별지4_휴대품 예치증(Bill of Deposit).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지4_휴대품 예치증(Bill of Deposit).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -757,7 +783,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0005",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -777,7 +805,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0005",
             "reference_id": "law:관세법#JO0241",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -797,7 +827,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0005",
             "reference_id": "law:관세법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -817,7 +849,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0005",
             "reference_id": "law:관세법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1065,7 +1099,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0006",
             "reference_id": "law:관세법#JO0241",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1085,7 +1121,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0006",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1105,7 +1143,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0006",
             "reference_id": "law:관세법시행령#JO0247",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1245,7 +1285,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0008",
             "reference_id": "law:외국환거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json"
+            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json",
+            "target_git_path": "외국환거래법/법률/외국환거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1265,7 +1307,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0008",
             "reference_id": "law:총포도검화약류등의안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json"
+            "target_git_path_guess": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json",
+            "target_git_path": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1285,7 +1329,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0008",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1521,7 +1567,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0010",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1541,7 +1589,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0010",
             "reference_id": "law:관세법시행령#JO0168",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1571,7 +1621,8 @@
             "target_local_path": "별지/별지1_단체여행자 일괄신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지1_단체여행자 일괄신고서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1615,7 +1666,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0010",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1635,7 +1688,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0010",
             "reference_id": "law:관세법시행령#JO0168",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1724,7 +1779,8 @@
             "target_local_path": "별지/별지2_크루즈여행자 일괄신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지2_크루즈여행자 일괄신고서.hwp"
           }
         ],
         "images": [],
@@ -1792,7 +1848,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0015",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1812,7 +1870,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0015",
             "reference_id": "law:관세법#JO0265",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1868,7 +1928,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:총포도검화약류등의안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json"
+            "target_git_path_guess": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json",
+            "target_git_path": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1888,7 +1950,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:방위사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/법률/방위사업법.json"
+            "target_git_path_guess": "방위사업법/법률/방위사업법.json",
+            "target_git_path": "방위사업법/법률/방위사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1908,7 +1972,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1928,7 +1994,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json"
+            "target_git_path_guess": "검역법/법률/검역법.json",
+            "target_git_path": "검역법/법률/검역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1948,7 +2016,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1968,7 +2038,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:식물방역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1988,7 +2060,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:수산생물질병관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병 관리법/법률/수산생물질병 관리법.json"
+            "target_git_path_guess": "수산생물질병 관리법/법률/수산생물질병 관리법.json",
+            "target_git_path": "수산생물질병 관리법/법률/수산생물질병 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2008,7 +2082,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:야생생물보호및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/법률/야생생물 보호 및 관리에 관한 법률.json"
+            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/법률/야생생물 보호 및 관리에 관한 법률.json",
+            "target_git_path": "야생생물 보호 및 관리에 관한 법률/법률/야생생물 보호 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2028,7 +2104,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0016",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2082,7 +2160,8 @@
             "target_local_path": "별표/별표1_세관장확인대상 수출물품.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세법 제226조에 따른 세관장확인물품 및 확인방법 지정고시/별표/별표1_세관장확인대상 수출물품.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2112,7 +2191,8 @@
             "target_local_path": "별표/별표2_세관장확인대상 수입물품.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세법 제226조에 따른 세관장확인물품 및 확인방법 지정고시/별표/별표2_세관장확인대상 수입물품.hwp"
           },
           {
             "relation_type": "citation",
@@ -2202,7 +2282,8 @@
             "target_local_path": "별지/별지3_휴대품유치증(세금계산서).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지3_휴대품유치증(세금계산서).hwp"
           },
           {
             "relation_type": "citation",
@@ -2222,7 +2303,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0017",
             "reference_id": "law:관세법#JO0206",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2242,7 +2325,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0017",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2262,7 +2347,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0017",
             "reference_id": "law:관세법시행령#JO0219",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2282,7 +2369,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0017",
             "reference_id": "law:관세법#JO0206",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2312,7 +2401,8 @@
             "target_local_path": "별지/별지4_휴대품 예치증(Bill of Deposit).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지4_휴대품 예치증(Bill of Deposit).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2342,7 +2432,8 @@
             "target_local_path": "별지/별지5_유치물품 장치기간연장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지5_유치물품 장치기간연장 신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2362,7 +2453,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0017",
             "reference_id": "law:관세법#JO0207",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2394,7 +2487,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0018",
             "reference_id": "law:관세법#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2414,7 +2509,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0018",
             "reference_id": "law:관세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2434,7 +2531,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0018",
             "reference_id": "law:관세법시행규칙#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2512,7 +2611,8 @@
             "target_local_path": "별표/별표11_관세법시행규칙 제45조제2항제1호에 따른 자가사용 인정기준(제67조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입통관 사무처리에 관한 고시/별표/별표11_관세법시행규칙 제45조제2항제1호에 따른 자가사용 인정기준(제67조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2580,7 +2680,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0018",
             "reference_id": "law:관세법#JO0196",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2612,7 +2714,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0019",
             "reference_id": "law:관세법#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2632,7 +2736,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0019",
             "reference_id": "law:관세법#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2652,7 +2758,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0019",
             "reference_id": "law:관세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2672,7 +2780,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0019",
             "reference_id": "law:관세법시행규칙#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2716,7 +2826,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0019",
             "reference_id": "law:관세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2736,7 +2848,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0019",
             "reference_id": "law:관세법시행규칙#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2780,7 +2894,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0019",
             "reference_id": "law:관세법#JO0196",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -2822,7 +2938,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0020",
             "reference_id": "law:식물방역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2842,7 +2960,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0020",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2862,7 +2982,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0020",
             "reference_id": "law:수산생물질병관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병 관리법/법률/수산생물질병 관리법.json"
+            "target_git_path_guess": "수산생물질병 관리법/법률/수산생물질병 관리법.json",
+            "target_git_path": "수산생물질병 관리법/법률/수산생물질병 관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -3196,7 +3318,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0026",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3216,7 +3340,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0026",
             "reference_id": "law:관세법시행령#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3241,7 +3367,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:관세법시행령#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_git_file_path": "관세법/시행령/별표/별표2_간이세율(제96조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3261,7 +3390,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0026",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3281,7 +3412,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0026",
             "reference_id": "law:관세법시행령#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3409,7 +3542,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0027",
             "reference_id": "law:자유무역협정의이행을위한관세법의특례에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률/시행령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령.json"
+            "target_git_path_guess": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률/시행령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령.json",
+            "target_git_path": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률/시행령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3429,7 +3564,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0027",
             "reference_id": "law:자유무역협정의이행을위한관세법의특례에관한법률시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률/시행령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령.json"
+            "target_git_path_guess": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률/시행령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령.json",
+            "target_git_path": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률/시행령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3485,7 +3622,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0027_02",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3505,7 +3644,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0027_02",
             "reference_id": "law:관세법#JO0327",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3525,7 +3666,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0027_02",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3545,7 +3688,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0027_02",
             "reference_id": "law:관세법#JO0327",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3613,7 +3758,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0029",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3633,7 +3780,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0029",
             "reference_id": "law:관세법#JO0234",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3723,7 +3872,8 @@
             "target_local_path": "별표/별표1_원격지통관신청물품 고무인.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별표/별표1_원격지통관신청물품 고무인.hwp"
           }
         ],
         "images": [],
@@ -3868,7 +4018,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0039",
             "reference_id": "law:대외무역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3888,7 +4040,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0039",
             "reference_id": "law:대외무역법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3966,7 +4120,8 @@
             "target_local_path": "별지/별지3_휴대품유치증(세금계산서).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지3_휴대품유치증(세금계산서).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3996,7 +4151,8 @@
             "target_local_path": "별지/별지4_휴대품 예치증(Bill of Deposit).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지4_휴대품 예치증(Bill of Deposit).hwp"
           }
         ],
         "images": [],
@@ -4148,7 +4304,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0042",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4168,7 +4326,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0042",
             "reference_id": "law:관세법#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4188,7 +4348,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0042",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4208,7 +4370,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0042",
             "reference_id": "law:관세법#JO0196",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4559,7 +4723,8 @@
             "target_local_path": "별지/별지7_반송위임장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지7_반송위임장.hwp"
           },
           {
             "relation_type": "citation",
@@ -4579,7 +4744,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0047",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4599,7 +4766,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0047",
             "reference_id": "law:관세법#JO0243",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4619,7 +4788,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0047",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4639,7 +4810,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0047",
             "reference_id": "law:관세법#JO0241",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4863,7 +5036,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0048",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4883,7 +5058,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0048",
             "reference_id": "law:관세법#JO0196",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5073,7 +5250,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0053",
             "reference_id": "law:외국인관광객등에대한부가가치세및개별소비세특례규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json"
+            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_git_path": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5093,7 +5272,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0053",
             "reference_id": "law:외국인관광객등에대한부가가치세및개별소비세특례규정#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json"
+            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_git_path": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5137,7 +5318,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0053",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5157,7 +5340,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0053",
             "reference_id": "law:관세법#JO0248",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5177,7 +5362,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0053",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5197,7 +5384,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0053",
             "reference_id": "law:관세법#JO0226",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5263,7 +5452,8 @@
             "target_local_path": "별지/별지8_휴대물품 반출신고(확인)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지8_휴대물품 반출신고(확인)서.hwp"
           }
         ],
         "images": [],
@@ -5319,7 +5509,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0055",
             "reference_id": "law:외국인관광객등에대한부가가치세및개별소비세특례규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json"
+            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_git_path": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5339,7 +5531,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0055",
             "reference_id": "law:외국인관광객등에대한부가가치세및개별소비세특례규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json"
+            "target_git_path_guess": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_git_path": "외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정/법률/외국인관광객 등에 대한 부가가치세 및 개별소비세 특례규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5417,7 +5611,8 @@
             "target_local_path": "별지/별지13_출국취소 여행자 발생보고 및 휴대품 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지13_출국취소 여행자 발생보고 및 휴대품 신고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -5447,7 +5642,8 @@
             "target_local_path": "별지/별지13_출국취소 여행자 발생보고 및 휴대품 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지13_출국취소 여행자 발생보고 및 휴대품 신고서.hwp"
           },
           {
             "relation_type": "citation",
@@ -5467,7 +5663,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0056_02",
             "reference_id": "law:관세법#JO0196",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5583,7 +5781,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0056_02",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5603,7 +5803,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0056_02",
             "reference_id": "law:관세법시행령#JO0213",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5623,7 +5825,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0056_02",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5643,7 +5847,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0056_02",
             "reference_id": "law:관세법시행령#JO0213",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5803,7 +6009,8 @@
             "target_local_path": "별지/별지9_재수출조건 일시반입물품 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지9_재수출조건 일시반입물품 확인서.hwp"
           }
         ],
         "images": [],
@@ -5869,7 +6076,8 @@
             "target_local_path": "별지/별지10_재수출조건 일시반입물품의 반출기간연장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지10_재수출조건 일시반입물품의 반출기간연장 신청서.hwp"
           }
         ],
         "images": [],
@@ -5959,7 +6167,8 @@
             "target_local_path": "별지/별지10_재수출조건 일시반입물품의 반출기간연장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지10_재수출조건 일시반입물품의 반출기간연장 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6151,7 +6360,8 @@
             "target_local_path": "별지/별지11_외국환신고(확인)필증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지11_외국환신고(확인)필증.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6205,7 +6415,8 @@
             "target_local_path": "별지/별지12_지급수단 등의 수출입(변경) 신고서(필증).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별지/별지12_지급수단 등의 수출입(변경) 신고서(필증).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6235,7 +6446,8 @@
             "target_local_path": "별표/별표2_증명인, 처리담당자 인장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "여행자 및 승무원 휴대품 통관에 관한 고시/별표/별표2_증명인, 처리담당자 인장.hwp"
           },
           {
             "relation_type": "citation",
@@ -6321,7 +6533,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0065",
             "reference_id": "law:특정금융거래정보의보고및이용등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정 금융거래정보의 보고 및 이용 등에 관한 법률/시행령/특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "특정 금융거래정보의 보고 및 이용 등에 관한 법률/시행령/특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령.json",
+            "target_git_path": "특정 금융거래정보의 보고 및 이용 등에 관한 법률/시행령/특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6341,7 +6555,8 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0065",
             "reference_id": "law:특정금융거래정보의보고및이용등에관한법률시행령#JO0011-02",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정 금융거래정보의 보고 및 이용 등에 관한 법률/시행령/특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "특정 금융거래정보의 보고 및 이용 등에 관한 법률/시행령/특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -6445,7 +6660,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0068",
             "reference_id": "law:행정규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6465,7 +6682,9 @@
             "source_provision_id": "admrul:여행자및승무원휴대품통관에관한고시#JO0068",
             "reference_id": "law:행정규제기본법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

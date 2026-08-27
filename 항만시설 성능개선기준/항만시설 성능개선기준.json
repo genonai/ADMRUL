@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0001",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0002",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -163,7 +169,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0002",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -183,7 +191,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0002",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -203,7 +213,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0002",
             "reference_id": "law:지속가능한기반시설관리기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -270,7 +282,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0004",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -290,7 +304,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0004",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -367,7 +383,8 @@
             "target_local_path": "별표/별표1_검토 대상 유형별 구분(제6조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만시설 성능개선기준/별표/별표1_검토 대상 유형별 구분(제6조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -505,7 +522,8 @@
             "target_local_path": "별표/별표2_유형별 평가항목 및 배점 기준(제7조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만시설 성능개선기준/별표/별표2_유형별 평가항목 및 배점 기준(제7조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -535,7 +553,8 @@
             "target_local_path": "별표/별표3_노후화 성능개선 평가항목 및 배점 기준(제7조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만시설 성능개선기준/별표/별표3_노후화 성능개선 평가항목 및 배점 기준(제7조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -565,7 +584,8 @@
             "target_local_path": "별표/별표5_사용성변화 성능개선(계류시설) 평가항목 및 배점 기준(제7조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만시설 성능개선기준/별표/별표5_사용성변화 성능개선(계류시설) 평가항목 및 배점 기준(제7조제3항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -585,7 +605,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0007",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -605,7 +627,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0007",
             "reference_id": "law:국가재정법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -673,7 +697,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0007",
             "reference_id": "law:국가통합교통체계효율화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가통합교통체계효율화법/법률/국가통합교통체계효율화법.json"
+            "target_git_path_guess": "국가통합교통체계효율화법/법률/국가통합교통체계효율화법.json",
+            "target_git_path": "국가통합교통체계효율화법/법률/국가통합교통체계효율화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -693,7 +719,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0007",
             "reference_id": "law:국가통합교통체계효율화법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가통합교통체계효율화법/법률/국가통합교통체계효율화법.json"
+            "target_git_path_guess": "국가통합교통체계효율화법/법률/국가통합교통체계효율화법.json",
+            "target_git_path": "국가통합교통체계효율화법/법률/국가통합교통체계효율화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -725,7 +753,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0008",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -745,7 +775,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0008",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -765,7 +797,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0008",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -785,7 +819,9 @@
             "source_provision_id": "admrul:항만시설성능개선기준#JO0008",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:나라통계시스템운영규정#JO0001",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:나라통계시스템운영규정#JO0001",
             "reference_id": "law:통계법#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -223,7 +227,8 @@
             "target_local_path": "별지/별지1_나라통계시스템 구축 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별지/별지1_나라통계시스템 구축 신청서.hwp"
           }
         ],
         "images": [],
@@ -298,7 +303,8 @@
             "target_local_path": "별지/별지1_나라통계시스템 구축 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별지/별지1_나라통계시스템 구축 신청서.hwp"
           }
         ],
         "images": [],
@@ -411,7 +417,8 @@
             "target_local_path": "별지/별지2_운영 지원 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별지/별지2_운영 지원 요청서.hwp"
           }
         ],
         "images": [],
@@ -606,7 +613,8 @@
             "target_local_path": "별표/별표1_통계작성 주기별 자료 보관기간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별표/별표1_통계작성 주기별 자료 보관기간.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -636,7 +644,8 @@
             "target_local_path": "별표/별표2_시스템 운영 중단 후 시스템 및 자료 관리 기간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별표/별표2_시스템 운영 중단 후 시스템 및 자료 관리 기간.hwp"
           }
         ],
         "images": [],
@@ -678,7 +687,8 @@
             "target_local_path": "별지/별지3_통계자료 보관신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별지/별지3_통계자료 보관신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -708,7 +718,8 @@
             "target_local_path": "별지/별지5_통계자료 삭제신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별지/별지5_통계자료 삭제신청서.hwp"
           }
         ],
         "images": [],
@@ -750,7 +761,8 @@
             "target_local_path": "별지/별지6_시스템 운영 중단 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별지/별지6_시스템 운영 중단 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -804,7 +816,8 @@
             "target_local_path": "별지/별지7_시스템 운영 유지 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별지/별지7_시스템 운영 유지 신청서.hwp"
           }
         ],
         "images": [],
@@ -870,7 +883,8 @@
             "target_local_path": "별표/별표2_시스템 운영 중단 후 시스템 및 자료 관리 기간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "나라통계시스템 운영 규정/별표/별표2_시스템 운영 중단 후 시스템 및 자료 관리 기간.hwp"
           }
         ],
         "images": [],

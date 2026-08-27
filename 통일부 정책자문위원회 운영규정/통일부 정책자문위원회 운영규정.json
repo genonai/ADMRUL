@@ -65,9 +65,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/정책자문위원회규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부정책자문위원회운영규정#JO0001",
-            "reference_id": "admrul:정책자문위원회규정#DOC",
+            "reference_id": "law:정책자문위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정책자문위원회규정/정책자문위원회규정.json"
+            "target_git_path_guess": "정책자문위원회규정/정책자문위원회규정.json",
+            "target_git_path": "정책자문위원회 규정/법률/정책자문위원회 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,9 +87,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/정책자문위원회규정/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부정책자문위원회운영규정#JO0001",
-            "reference_id": "admrul:정책자문위원회규정#JO0002",
+            "reference_id": "law:정책자문위원회규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정책자문위원회규정/정책자문위원회규정.json"
+            "target_git_path_guess": "정책자문위원회규정/정책자문위원회규정.json",
+            "target_git_path": "정책자문위원회 규정/법률/정책자문위원회 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -141,7 +145,9 @@
             "source_provision_id": "admrul:통일부정책자문위원회운영규정#JO0004",
             "reference_id": "law:통일부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json"
+            "target_git_path_guess": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json",
+            "target_git_path": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

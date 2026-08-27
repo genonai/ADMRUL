@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항행안전시설관리및운영규정#JO0001",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항행안전시설관리및운영규정#JO0001",
             "reference_id": "law:공항시설법시행규칙#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:항행안전시설관리및운영규정#JO0002",
             "reference_id": "law:공항시설법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:항행안전시설관리및운영규정#JO0002",
             "reference_id": "law:공항시설법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:항행안전시설관리및운영규정#JO0002",
             "reference_id": "law:공항시설법시행령#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -579,7 +589,8 @@
             "target_local_path": "별지/별지1_시설 운용중지 및 항공고시보 발행 기록일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지1_시설 운용중지 및 항공고시보 발행 기록일지.hwp"
           }
         ],
         "images": [],
@@ -656,7 +667,8 @@
             "target_local_path": "별지/별지9_항행안전시설 운용현황 분석표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지9_항행안전시설 운용현황 분석표.hwp"
           }
         ],
         "images": [],
@@ -698,7 +710,8 @@
             "target_local_path": "별지/별지2_장애기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지2_장애기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -728,7 +741,8 @@
             "target_local_path": "별지/별지3_장애원인 분석보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지3_장애원인 분석보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -758,7 +772,8 @@
             "target_local_path": "별지/별지1_시설 운용중지 및 항공고시보 발행 기록일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지1_시설 운용중지 및 항공고시보 발행 기록일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -788,7 +803,8 @@
             "target_local_path": "별지/별지2_장애기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지2_장애기록부.hwp"
           }
         ],
         "images": [],
@@ -874,7 +890,8 @@
             "target_local_path": "별지/별지4_기술성능기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지4_기술성능기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -904,7 +921,8 @@
             "target_local_path": "별지/별지10_비행검사 대상 항행시설 제원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지10_비행검사 대상 항행시설 제원.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -934,7 +952,8 @@
             "target_local_path": "별지/별지10_비행검사 대상 항행시설 제원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지10_비행검사 대상 항행시설 제원.hwp"
           }
         ],
         "images": [],
@@ -976,7 +995,8 @@
             "target_local_path": "별지/별지5_유지보수교범 변경ㆍ보완 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지5_유지보수교범 변경ㆍ보완 보고서.hwp"
           }
         ],
         "images": [],
@@ -1018,7 +1038,8 @@
             "target_local_path": "별지/별지5_유지보수교범 변경ㆍ보완 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지5_유지보수교범 변경ㆍ보완 보고서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1108,7 +1129,8 @@
             "target_local_path": "별지/별지6_유지보수일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지6_유지보수일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1138,7 +1160,8 @@
             "target_local_path": "별지/별지6_유지보수일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지6_유지보수일지.hwp"
           }
         ],
         "images": [],
@@ -1363,7 +1386,8 @@
             "target_local_path": "별지/별지7_예방점검계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지7_예방점검계획서.hwp"
           }
         ],
         "images": [],
@@ -1470,7 +1494,8 @@
             "target_local_path": "별지/별지8_비행검사 수검일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지8_비행검사 수검일지.hwp"
           }
         ],
         "images": [],
@@ -1881,7 +1906,8 @@
             "target_local_path": "별지/별지11_경고비닐표시시트.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지11_경고비닐표시시트.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1911,7 +1937,8 @@
             "target_local_path": "별지/별지11_경고비닐표시시트.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지11_경고비닐표시시트.hwp"
           }
         ],
         "images": [],
@@ -2390,7 +2417,8 @@
             "target_local_path": "별지/별지19_항행안전시설 공공데이터 제공(공유) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지19_항행안전시설 공공데이터 제공(공유) 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2504,7 +2532,8 @@
             "target_local_path": "별지/별지20_항행안전시설 공공데이터 제공중단 취소 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지20_항행안전시설 공공데이터 제공중단 취소 요청서.hwp"
           }
         ],
         "images": [],
@@ -2698,7 +2727,8 @@
             "target_local_path": "별지/별지14_교육훈련 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지14_교육훈련 평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2728,7 +2758,8 @@
             "target_local_path": "별지/별지12_교육수료증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지12_교육수료증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2758,7 +2789,8 @@
             "target_local_path": "별지/별지13_자격인증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지13_자격인증서.hwp"
           }
         ],
         "images": [],
@@ -3040,7 +3072,8 @@
             "target_local_path": "별지/별지15_직무교육훈련 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지15_직무교육훈련 계획서.hwp"
           }
         ],
         "images": [],
@@ -3142,7 +3175,8 @@
             "target_local_path": "별지/별지16_직무교육훈련 평가 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지16_직무교육훈련 평가 보고서.hwp"
           }
         ],
         "images": [],
@@ -3184,7 +3218,8 @@
             "target_local_path": "별지/별지17_교육훈련실적기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지17_교육훈련실적기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3214,7 +3249,8 @@
             "target_local_path": "별지/별지18_항행안전시설 유지보수자 이력 및 교육훈련기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 관리 및 운영규정/별지/별지18_항행안전시설 유지보수자 이력 및 교육훈련기록부.hwp"
           }
         ],
         "images": [],

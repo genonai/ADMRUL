@@ -99,7 +99,8 @@
             "target_local_path": "별지/별지1_중국 수출용 심비디움 재배포장 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지1_중국 수출용 심비디움 재배포장 등록 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -153,7 +154,8 @@
             "target_local_path": "별지/별지2_중국 수출용 심비디움 재배포장 등록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지2_중국 수출용 심비디움 재배포장 등록대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -183,7 +185,8 @@
             "target_local_path": "별지/별지3_중국 수출용 심비디움 재배포장 등록증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지3_중국 수출용 심비디움 재배포장 등록증.hwp"
           }
         ],
         "images": [],
@@ -236,7 +239,8 @@
             "target_local_path": "별지/별지4_중국 수출 심비디움 재배포장 병해충 예찰 및 방제 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지4_중국 수출 심비디움 재배포장 병해충 예찰 및 방제 기록부.hwp"
           }
         ],
         "images": [],
@@ -278,7 +282,8 @@
             "target_local_path": "별지/별지5_중국 수출용 심비디움 재배지검역 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지5_중국 수출용 심비디움 재배지검역 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -308,7 +313,8 @@
             "target_local_path": "별지/별지6_중국 수출용 심비디움 재배지검역 결과 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지6_중국 수출용 심비디움 재배지검역 결과 통보서.hwp"
           }
         ],
         "images": [],
@@ -350,7 +356,8 @@
             "target_local_path": "별지/별지7_중국 수출용 심비디움 수출업체 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지7_중국 수출용 심비디움 수출업체 등록신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -380,7 +387,8 @@
             "target_local_path": "별지/별지8_중국 수출용 심비디움 수출업체 등록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지8_중국 수출용 심비디움 수출업체 등록대장.hwp"
           }
         ],
         "images": [],
@@ -457,7 +465,9 @@
             "source_provision_id": "admrul:한국산심비디움의중국수출검역요령#JO0009",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -480,9 +490,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산심비디움의중국수출검역요령#JO0009",
             "target_unit": "BJ0025",
-            "reference_id": "law:식물방역법시행규칙#BJ0025",
+            "reference_id": "law:식물방역법시행규칙#FORM0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식25_수출식물 검역신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -512,7 +525,8 @@
             "target_local_path": "별지/별지6_중국 수출용 심비디움 재배지검역 결과 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 심비디움의 중국 수출검역요령/별지/별지6_중국 수출용 심비디움 재배지검역 결과 통보서.hwp"
           },
           {
             "relation_type": "citation",
@@ -556,7 +570,9 @@
             "source_provision_id": "admrul:한국산심비디움의중국수출검역요령#JO0009",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -579,9 +595,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산심비디움의중국수출검역요령#JO0009",
             "target_unit": "BJ0026",
-            "reference_id": "law:식물방역법시행규칙#BJ0026",
+            "reference_id": "law:식물방역법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식26_수출식물검역증명서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

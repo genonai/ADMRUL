@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:개인정보보호위원회일상감사실시지침#JO0001",
             "reference_id": "law:공공감사에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:개인정보보호위원회일상감사실시지침#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:개인정보보호위원회일상감사실시지침#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -215,7 +221,8 @@
             "target_local_path": "별지/별지1_일상감사 의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개인정보보호위원회 일상감사 실시지침/별지/별지1_일상감사 의뢰서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -245,7 +252,8 @@
             "target_local_path": "별지/별지2_일상감사 요청업무에 대한 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개인정보보호위원회 일상감사 실시지침/별지/별지2_일상감사 요청업무에 대한 의견서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -379,7 +387,8 @@
             "target_local_path": "별지/별지3_일상감사 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "개인정보보호위원회 일상감사 실시지침/별지/별지3_일상감사 의견서.hwp"
           }
         ],
         "images": [],

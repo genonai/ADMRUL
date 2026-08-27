@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:한국산파프리카생과실의필리핀수출검역요령#JO0001",
             "reference_id": "law:식물방역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:한국산파프리카생과실의필리핀수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:한국산파프리카생과실의필리핀수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -255,7 +261,8 @@
             "target_local_path": "별지/별지1_필리핀 수출용 파프리카 수출선과장 등록대장(제5조제5항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 파프리카 생과실의 필리핀 수출검역요령/별지/별지1_필리핀 수출용 파프리카 수출선과장 등록대장(제5조제5항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -431,7 +438,8 @@
             "target_local_path": "별지/별지2_파프리카 필리핀 수출업체 등록신청서(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 파프리카 생과실의 필리핀 수출검역요령/별지/별지2_파프리카 필리핀 수출업체 등록신청서(제9조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -461,7 +469,8 @@
             "target_local_path": "별지/별지3_파프리카 필리핀 수출업체 등록대장(제9조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 파프리카 생과실의 필리핀 수출검역요령/별지/별지3_파프리카 필리핀 수출업체 등록대장(제9조제2항 관련).hwp"
           }
         ],
         "images": [],

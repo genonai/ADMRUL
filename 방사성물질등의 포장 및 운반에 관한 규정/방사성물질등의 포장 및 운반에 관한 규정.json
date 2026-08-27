@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0001",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,9 +87,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +183,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0003",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +205,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0003",
             "reference_id": "law:원자력안전법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -781,7 +789,8 @@
             "target_local_path": "별표/별표1_기본 방사성 핵종에 대한 A1 및 A2 값(제5조제1항제1호라목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별표/별표1_기본 방사성 핵종에 대한 A1 및 A2 값(제5조제1항제1호라목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -811,7 +820,8 @@
             "target_local_path": "별표/별표2_불명확한 핵종 또는 혼합물에 대한 A1 및 A2 값(제5조제1항라호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별표/별표2_불명확한 핵종 또는 혼합물에 대한 A1 및 A2 값(제5조제1항라호 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1033,9 +1043,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0008",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1053,9 +1065,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0008",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0002",
+            "reference_id": "law:원자력안전법시행규칙#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1085,7 +1099,8 @@
             "target_local_path": "별표/별표1_기본 방사성 핵종에 대한 A1 및 A2 값(제5조제1항제1호라목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별표/별표1_기본 방사성 핵종에 대한 A1 및 A2 값(제5조제1항제1호라목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1115,7 +1130,8 @@
             "target_local_path": "별표/별표2_불명확한 핵종 또는 혼합물에 대한 A1 및 A2 값(제5조제1항라호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별표/별표2_불명확한 핵종 또는 혼합물에 대한 A1 및 A2 값(제5조제1항라호 관련).hwp"
           }
         ],
         "images": [
@@ -1501,7 +1517,8 @@
             "target_local_path": "별표/별표6_방사성운반물의 국제연합기준 표시(제105조제1항제2호관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선 안전관리 등의 기술기준에 관한 규칙/별표/별표6_방사성운반물의 국제연합기준 표시(제105조제1항제2호관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -1555,7 +1572,8 @@
             "target_local_path": "별표/별표6_방사성운반물의 국제연합기준 표시(제105조제1항제2호관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선 안전관리 등의 기술기준에 관한 규칙/별표/별표6_방사성운반물의 국제연합기준 표시(제105조제1항제2호관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1671,7 +1689,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0014",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1691,7 +1711,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0014",
             "reference_id": "law:원자력안전법시행령#JO0111",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1711,7 +1733,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0014",
             "reference_id": "law:원자력안전법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1945,7 +1969,8 @@
             "target_local_path": "별지/별지1_방사성물질등의 운반승인 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별지/별지1_방사성물질등의 운반승인 신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2143,7 +2168,8 @@
             "target_local_path": "별지/별지2_방사성물질등의 특별승인조치에 관한 승인신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별지/별지2_방사성물질등의 특별승인조치에 관한 승인신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2247,7 +2273,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0016",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2267,7 +2295,9 @@
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0016",
             "reference_id": "law:원자력안전법시행령#JO0112",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2513,9 +2543,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2533,9 +2565,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제105조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0017",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0105",
+            "reference_id": "law:원자력안전법시행규칙#JO0105",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2685,9 +2719,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0018",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2705,9 +2741,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제106조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0018",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0106",
+            "reference_id": "law:원자력안전법시행규칙#JO0106",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3298,7 +3336,8 @@
             "target_local_path": "별표/별표9_저준위 비방사능물질 및 표면오염물체에 대한 IP형운반물 기준(제116조제1항 및 제117조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선 안전관리 등의 기술기준에 관한 규칙/별표/별표9_저준위 비방사능물질 및 표면오염물체에 대한 IP형운반물 기준(제116조제1항 및 제117조제1항관련).hwp"
           }
         ],
         "images": [],
@@ -4202,7 +4241,8 @@
             "target_local_path": "별표/별표1_기본 방사성 핵종에 대한 A1 및 A2 값(제5조제1항제1호라목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별표/별표1_기본 방사성 핵종에 대한 A1 및 A2 값(제5조제1항제1호라목 관련).hwp"
           }
         ],
         "images": [],
@@ -5624,7 +5664,8 @@
             "target_local_path": "별표/별표6_방사성운반물의 국제연합기준 표시(제105조제1항제2호관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사선 안전관리 등의 기술기준에 관한 규칙/별표/별표6_방사성운반물의 국제연합기준 표시(제105조제1항제2호관련).hwp"
           }
         ],
         "images": [
@@ -8087,7 +8128,8 @@
             "target_local_path": "별지/별지3_CERTIFICATE OF COMPETENT AUTHORITY FOR SPECIAL FORM RADIOACTIVE MATERIAL.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별지/별지3_CERTIFICATE OF COMPETENT AUTHORITY FOR SPECIAL FORM RADIOACTIVE MATERIAL.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -8117,7 +8159,8 @@
             "target_local_path": "별지/별지4_CERTIFICATE OF COMPETENT AUTHORITY FOR RADIOACTIVE MATERIAL PACKAGE DESIGN.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별지/별지4_CERTIFICATE OF COMPETENT AUTHORITY FOR RADIOACTIVE MATERIAL PACKAGE DESIGN.hwp"
           }
         ],
         "images": [],
@@ -8147,9 +8190,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0066",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8167,9 +8212,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제127조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0066",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0127",
+            "reference_id": "law:원자력안전법시행규칙#JO0127",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -8199,7 +8246,8 @@
             "target_local_path": "별지/별지5_방사성물질등 운반현황 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별지/별지5_방사성물질등 운반현황 보고.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -8229,7 +8277,8 @@
             "target_local_path": "별지/별지5_방사성물질등 운반현황 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별지/별지5_방사성물질등 운반현황 보고.hwp"
           },
           {
             "relation_type": "citation",
@@ -8283,7 +8332,8 @@
             "target_local_path": "별지/별지5_방사성물질등 운반현황 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방사성물질등의 포장 및 운반에 관한 규정/별지/별지5_방사성물질등 운반현황 보고.hwp"
           }
         ],
         "images": [],
@@ -8313,9 +8363,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0067",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8333,9 +8385,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제99조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0067",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0099",
+            "reference_id": "law:원자력안전법시행규칙#JO0099",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8353,9 +8407,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0067",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8373,9 +8429,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제99조",
             "resolve_method": "html",
             "source_provision_id": "admrul:방사성물질등의포장및운반에관한규정#JO0067",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0099",
+            "reference_id": "law:원자력안전법시행규칙#JO0099",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

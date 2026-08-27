@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0001",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0001",
             "reference_id": "law:지능정보화기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지능정보화 기본법/시행령/지능정보화 기본법 시행령.json"
+            "target_git_path_guess": "지능정보화 기본법/시행령/지능정보화 기본법 시행령.json",
+            "target_git_path": "지능정보화 기본법/시행령/지능정보화 기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -141,7 +145,9 @@
             "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0004",
             "reference_id": "law:지능정보화기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json"
+            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_git_path": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -161,7 +167,9 @@
             "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0004",
             "reference_id": "law:지능정보화기본법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json"
+            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_git_path": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -308,7 +316,8 @@
             "target_local_path": "별지/별지1_국토교통 지능정보화책임관 협의회 협의안건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별지/별지1_국토교통 지능정보화책임관 협의회 협의안건.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -338,7 +347,8 @@
             "target_local_path": "별지/별지2_국토교통 지능정보화책임관 협의회.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별지/별지2_국토교통 지능정보화책임관 협의회.hwp"
           }
         ],
         "images": [],
@@ -427,7 +437,8 @@
             "target_local_path": "별표/별표1_국토교통 정보화사업 분야별 총괄부서 및 역할·기능(제13조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별표/별표1_국토교통 정보화사업 분야별 총괄부서 및 역할·기능(제13조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -670,7 +681,8 @@
             "target_local_path": "별표/별표2_국토교통정보화 분야별 정보화사업 예시 (제21조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별표/별표2_국토교통정보화 분야별 정보화사업 예시 (제21조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -700,7 +712,8 @@
             "target_local_path": "별지/별지3_정보화사업 사전협의 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별지/별지3_정보화사업 사전협의 신청서.hwp"
           }
         ],
         "images": [],
@@ -1521,7 +1534,8 @@
             "target_local_path": "별지/별지4_국토교통정보망(솔넷·온-나라) 사용신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별지/별지4_국토교통정보망(솔넷·온-나라) 사용신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1551,7 +1565,8 @@
             "target_local_path": "별지/별지5_국토교통정보망(솔넷·온-나라) 사용신청서(파견자).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별지/별지5_국토교통정보망(솔넷·온-나라) 사용신청서(파견자).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1581,7 +1596,8 @@
             "target_local_path": "별지/별지6_행정전자서명 신청서(개인용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별지/별지6_행정전자서명 신청서(개인용).hwp"
           }
         ],
         "images": [],
@@ -1623,7 +1639,8 @@
             "target_local_path": "별지/별지9_솔넷 콘텐츠 신설(변경) 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토교통부 전자정부 구현에 관한 규정/별지/별지9_솔넷 콘텐츠 신설(변경) 요청서.hwp"
           }
         ],
         "images": [],

@@ -110,7 +110,8 @@
             "target_local_path": "서식/서식1_징계의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(방위사업청) 공무원 징계규정/서식/서식1_징계의결서.hwp"
           }
         ],
         "images": [],
@@ -248,7 +249,8 @@
             "target_local_path": "서식/서식3_공무원징계의결요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(방위사업청) 공무원 징계규정/서식/서식3_공무원징계의결요구서.hwp"
           }
         ],
         "images": [],
@@ -312,7 +314,8 @@
             "target_local_path": "서식/서식4_출석통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(방위사업청) 공무원 징계규정/서식/서식4_출석통지서.hwp"
           }
         ],
         "images": [],
@@ -365,7 +368,8 @@
             "target_local_path": "서식/서식5_징계처분사유설명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(방위사업청) 공무원 징계규정/서식/서식5_징계처분사유설명서.hwp"
           }
         ],
         "images": [],
@@ -397,7 +401,9 @@
             "source_provision_id": "admrul:(방위사업청)공무원징계규정#JO0015",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -417,7 +423,9 @@
             "source_provision_id": "admrul:(방위사업청)공무원징계규정#JO0015",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

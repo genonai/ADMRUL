@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국내생산물품등의원산지증명서발급규정#JO0001",
             "reference_id": "law:대외무역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국내생산물품등의원산지증명서발급규정#JO0001",
             "reference_id": "law:대외무역법시행령#JO0066",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별지/별지1_국내생산물품등 원산지증명서 발급신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국내생산물품등의 원산지증명서 발급규정/별지/별지1_국내생산물품등 원산지증명서 발급신청서.hwp"
           }
         ],
         "images": [],
@@ -215,7 +220,8 @@
             "target_local_path": "별지/별지2_국내 생산품 원산지증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국내생산물품등의 원산지증명서 발급규정/별지/별지2_국내 생산품 원산지증명서.hwp"
           }
         ],
         "images": [],

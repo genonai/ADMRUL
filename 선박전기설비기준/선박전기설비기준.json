@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:선박전기설비기준#JO0001",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:선박전기설비기준#JO0001",
             "reference_id": "law:선박안전법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -258,7 +262,8 @@
             "target_local_path": "별표/별표1_전기기계 및 전기기구의 절연거리 (제12조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표1_전기기계 및 전기기구의 절연거리 (제12조 관련).hwp"
           }
         ],
         "images": [],
@@ -753,7 +758,8 @@
             "target_local_path": "별표/별표2_발전기 등의 온도상승한도표 (제25조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표2_발전기 등의 온도상승한도표 (제25조 관련).hwp"
           }
         ],
         "images": [],
@@ -859,7 +865,8 @@
             "target_local_path": "별표/별표3_절연내력시험전압표 (제30조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표3_절연내력시험전압표 (제30조 관련).hwp"
           }
         ],
         "images": [],
@@ -1239,7 +1246,8 @@
             "target_local_path": "별표/별표4_배전반기구의 비치기준 (제59조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표4_배전반기구의 비치기준 (제59조 관련).hwp"
           }
         ],
         "images": [],
@@ -1292,7 +1300,8 @@
             "target_local_path": "별표/별표5_배전반용기구의 온도상승한도표 (제61조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표5_배전반용기구의 온도상승한도표 (제61조 관련).hwp"
           }
         ],
         "images": [],
@@ -1400,7 +1409,8 @@
             "target_local_path": "별표/별표6_전동기용제어기의 온도상승한도표 (제68조관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표6_전동기용제어기의 온도상승한도표 (제68조관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1721,7 +1731,8 @@
             "target_local_path": "별표/별표7_케이블의 내연소성시험 (제89조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표7_케이블의 내연소성시험 (제89조 관련).hwp"
           }
         ],
         "images": [],
@@ -2292,7 +2303,8 @@
             "target_local_path": "별표/별표3_절연내력시험전압표 (제30조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표3_절연내력시험전압표 (제30조 관련).hwp"
           }
         ],
         "images": [],
@@ -4545,7 +4557,9 @@
             "source_provision_id": "admrul:선박전기설비기준#JO0138",
             "reference_id": "law:전파법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행령/전파법 시행령.json"
+            "target_git_path_guess": "전파법/시행령/전파법 시행령.json",
+            "target_git_path": "전파법/시행령/전파법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4565,7 +4579,8 @@
             "source_provision_id": "admrul:선박전기설비기준#JO0138",
             "reference_id": "law:전파법시행령#JO0059_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행령/전파법 시행령.json"
+            "target_git_path_guess": "전파법/시행령/전파법 시행령.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -5275,7 +5290,8 @@
             "target_local_path": "별표/별표8_위험장소 (제147조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표8_위험장소 (제147조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -5353,7 +5369,8 @@
             "target_local_path": "별표/별표8_위험장소 (제147조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표8_위험장소 (제147조 관련).hwp"
           }
         ],
         "images": [],
@@ -5575,7 +5592,8 @@
             "target_local_path": "별표/별표9_외피보호 등급(제158조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박전기설비기준/별표/별표9_외피보호 등급(제158조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",

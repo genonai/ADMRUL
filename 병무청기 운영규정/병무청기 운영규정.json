@@ -88,7 +88,8 @@
             "target_local_path": "별표/별표1_병무청기의 규격 및 모형(제2조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병무청기 운영규정/별표/별표1_병무청기의 규격 및 모형(제2조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -108,7 +109,9 @@
             "source_provision_id": "admrul:병무청기운영규정#JO0002",
             "reference_id": "law:대한민국국기법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국국기법/법률/대한민국국기법.json"
+            "target_git_path_guess": "대한민국국기법/법률/대한민국국기법.json",
+            "target_git_path": "대한민국국기법/법률/대한민국국기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -128,7 +131,9 @@
             "source_provision_id": "admrul:병무청기운영규정#JO0002",
             "reference_id": "law:대한민국국기법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국국기법/법률/대한민국국기법.json"
+            "target_git_path_guess": "대한민국국기법/법률/대한민국국기법.json",
+            "target_git_path": "대한민국국기법/법률/대한민국국기법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

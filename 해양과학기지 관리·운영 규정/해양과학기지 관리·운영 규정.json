@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양과학기지관리운영규정#JO0001",
             "reference_id": "law:해양수산발전기본법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양수산발전 기본법/법률/해양수산발전 기본법.json"
+            "target_git_path_guess": "해양수산발전 기본법/법률/해양수산발전 기본법.json",
+            "target_git_path": "해양수산발전 기본법/법률/해양수산발전 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양과학기지관리운영규정#JO0001",
             "reference_id": "law:해양수산발전기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양수산발전 기본법/시행령/해양수산발전 기본법 시행령.json"
+            "target_git_path_guess": "해양수산발전 기본법/시행령/해양수산발전 기본법 시행령.json",
+            "target_git_path": "해양수산발전 기본법/시행령/해양수산발전 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:해양과학기지관리운영규정#JO0001",
             "reference_id": "law:해양수산발전기본법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양수산발전 기본법/시행령/해양수산발전 기본법 시행령.json"
+            "target_git_path_guess": "해양수산발전 기본법/시행령/해양수산발전 기본법 시행령.json",
+            "target_git_path": "해양수산발전 기본법/시행령/해양수산발전 기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -193,7 +199,8 @@
             "target_local_path": "별지/별지1_해양과학기지 체류일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양과학기지 관리·운영 규정/별지/별지1_해양과학기지 체류일지.hwp"
           }
         ],
         "images": [],
@@ -246,7 +253,8 @@
             "target_local_path": "별표/별표1_체류자 안전수칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양과학기지 관리·운영 규정/별표/별표1_체류자 안전수칙.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -276,7 +284,8 @@
             "target_local_path": "별지/별지2_해양과학기지 안전사고 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양과학기지 관리·운영 규정/별지/별지2_해양과학기지 안전사고 보고서.hwp"
           }
         ],
         "images": [],

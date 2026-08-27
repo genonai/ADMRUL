@@ -234,7 +234,9 @@
             "source_provision_id": "admrul:정훈문화활동훈령#JO0014",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -254,7 +256,9 @@
             "source_provision_id": "admrul:정훈문화활동훈령#JO0014",
             "reference_id": "law:저작권법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -550,7 +554,8 @@
             "target_local_path": "별지/별지1_정훈·문화자료 심의위원회 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정훈·문화활동 훈령/별지/별지1_정훈·문화자료 심의위원회 의결서.hwp"
           }
         ],
         "images": [],
@@ -827,7 +832,9 @@
             "source_provision_id": "admrul:정훈문화활동훈령#JO0038",
             "reference_id": "law:군수품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군수품관리법/법률/군수품관리법.json"
+            "target_git_path_guess": "군수품관리법/법률/군수품관리법.json",
+            "target_git_path": "군수품관리법/법률/군수품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

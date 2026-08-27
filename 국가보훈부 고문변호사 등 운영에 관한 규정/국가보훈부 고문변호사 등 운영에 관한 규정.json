@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:국가보훈부고문변호사등운영에관한규정#JO0004",
             "reference_id": "law:변호사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "변호사법/법률/변호사법.json"
+            "target_git_path_guess": "변호사법/법률/변호사법.json",
+            "target_git_path": "변호사법/법률/변호사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -120,7 +122,9 @@
             "source_provision_id": "admrul:국가보훈부고문변호사등운영에관한규정#JO0004",
             "reference_id": "law:정부법무공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json"
+            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json",
+            "target_git_path": "정부법무공단법/법률/정부법무공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -150,7 +154,8 @@
             "target_local_path": "별지/별지1_지원서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가보훈부 고문변호사 등 운영에 관한 규정/별지/별지1_지원서.hwp"
           }
         ],
         "images": [],
@@ -192,7 +197,8 @@
             "target_local_path": "별지/별지2_고문변호사 선정 심사표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가보훈부 고문변호사 등 운영에 관한 규정/별지/별지2_고문변호사 선정 심사표.hwp"
           }
         ],
         "images": [],

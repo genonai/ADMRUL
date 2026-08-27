@@ -125,7 +125,9 @@
             "source_provision_id": "admrul:소방청비상근무자주거용재산관리규정#JO0004",
             "reference_id": "law:국유재산법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,7 +147,9 @@
             "source_provision_id": "admrul:소방청비상근무자주거용재산관리규정#JO0004",
             "reference_id": "law:국유재산법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -198,7 +202,8 @@
             "target_local_path": "서식/서식1_주거용 재산 입주신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 비상근무자 주거용 재산 관리규정/서식/서식1_주거용 재산 입주신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -228,7 +233,8 @@
             "target_local_path": "서식/서식2_주거용 재산 사용허가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 비상근무자 주거용 재산 관리규정/서식/서식2_주거용 재산 사용허가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -258,7 +264,8 @@
             "target_local_path": "서식/서식3_주거용 재산 입주신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 비상근무자 주거용 재산 관리규정/서식/서식3_주거용 재산 입주신고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -288,7 +295,8 @@
             "target_local_path": "서식/서식4_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 비상근무자 주거용 재산 관리규정/서식/서식4_서약서.hwp"
           }
         ],
         "images": [],
@@ -413,7 +421,8 @@
             "target_local_path": "서식/서식5_주거용 재산 사용허가 취소통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 비상근무자 주거용 재산 관리규정/서식/서식5_주거용 재산 사용허가 취소통지서.hwp"
           }
         ],
         "images": [],
@@ -456,7 +465,9 @@
             "source_provision_id": "admrul:소방청비상근무자주거용재산관리규정#JO0009",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -509,7 +520,8 @@
             "target_local_path": "서식/서식6_인계인수서(입주·퇴거).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 비상근무자 주거용 재산 관리규정/서식/서식6_인계인수서(입주·퇴거).hwp"
           }
         ],
         "images": [],

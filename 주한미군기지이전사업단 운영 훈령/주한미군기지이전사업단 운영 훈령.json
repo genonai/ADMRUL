@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:주한미군기지이전사업단운영훈령#JO0001",
             "reference_id": "law:주한미군기지이전에따른평택시등의지원등에관한특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법/시행령/주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 시행령.json"
+            "target_git_path_guess": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법/시행령/주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 시행령.json",
+            "target_git_path": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법/시행령/주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:주한미군기지이전사업단운영훈령#JO0001",
             "reference_id": "law:주한미군기지이전에따른평택시등의지원등에관한특별법시행령#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법/시행령/주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 시행령.json"
+            "target_git_path_guess": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법/시행령/주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 시행령.json",
+            "target_git_path": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법/시행령/주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -141,7 +145,9 @@
             "source_provision_id": "admrul:주한미군기지이전사업단운영훈령#JO0004",
             "reference_id": "law:주한미군기지이전에따른평택시등의지원등에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주한미군기지이전에 따른 평택시 등의 지원 등에 관한 특별법/법률/주한미군기지이전에 따른 평택시 등의 지원 등에 관한 특별법.json"
+            "target_git_path_guess": "주한미군기지이전에 따른 평택시 등의 지원 등에 관한 특별법/법률/주한미군기지이전에 따른 평택시 등의 지원 등에 관한 특별법.json",
+            "target_git_path": "주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법/법률/주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -237,9 +243,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:주한미군기지이전사업단운영훈령#JO0011",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -281,7 +289,8 @@
             "target_local_path": "별표/별표3_주한미군기지이전사업단 정원표(제12조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주한미군기지이전사업단 운영 훈령/별표/별표3_주한미군기지이전사업단 정원표(제12조 제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",

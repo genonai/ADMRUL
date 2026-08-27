@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:선박소방설비기준#JO0001",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:선박소방설비기준#JO0001",
             "reference_id": "law:선박안전법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -604,7 +608,8 @@
             "target_local_path": "별표/별표1_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제16조제9호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표1_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제16조제9호가목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -634,7 +639,8 @@
             "target_local_path": "별표/별표2_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내알콜)의 요건(제16조제9호나목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표2_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내알콜)의 요건(제16조제9호나목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -664,7 +670,8 @@
             "target_local_path": "별표/별표3_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(양용)의 요건(제16조제9호다목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표3_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(양용)의 요건(제16조제9호다목 관련).hwp"
           }
         ],
         "images": [],
@@ -706,7 +713,8 @@
             "target_local_path": "별표/별표4_고정식고팽창포말소화장치에 사용하는 포말원액의 요건(제17조제9호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표4_고정식고팽창포말소화장치에 사용하는 포말원액의 요건(제17조제9호 관련).hwp"
           }
         ],
         "images": [],
@@ -748,7 +756,8 @@
             "target_local_path": "별표/별표5_차량구역등에 있어서의 고정식가압수분무소화장치의 설치기준 (제18조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표5_차량구역등에 있어서의 고정식가압수분무소화장치의 설치기준 (제18조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -811,7 +820,8 @@
             "target_local_path": "별표/별표7_수동스프링클러장치의 기준(제19조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표7_수동스프링클러장치의 기준(제19조의2 관련).hwp"
           }
         ],
         "images": [],
@@ -913,7 +923,8 @@
             "target_local_path": "별표/별표13_고정식불활성가스장치의 설비요건(제21조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표13_고정식불활성가스장치의 설비요건(제21조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -1047,7 +1058,8 @@
             "target_local_path": "별표/별표8_소화시험 방법 및 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표8_소화시험 방법 및 절차.hwp"
           }
         ],
         "images": [],
@@ -1532,7 +1544,8 @@
             "target_local_path": "별표/별표6_연관식화재탐지장치의 기준 (제35조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표6_연관식화재탐지장치의 기준 (제35조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -2706,7 +2719,8 @@
             "target_local_path": "별표/별표1_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제16조제9호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표1_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제16조제9호가목 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2783,7 +2797,8 @@
             "target_local_path": "별표/별표1_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제16조제9호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표1_고정식포말소화장치 또는 고정식갑판포말장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제16조제9호가목 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -3680,7 +3695,8 @@
             "target_local_path": "별표/별표9_화재의 위험성이 적다고 인정되는 액상화 화물(제65조제1항제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표9_화재의 위험성이 적다고 인정되는 액상화 화물(제65조제1항제2호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3710,7 +3726,8 @@
             "target_local_path": "별표/별표11_액화하기 어렵고 화학적 위험성이 없는 산적물질 목록(제65조제1항제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표11_액화하기 어렵고 화학적 위험성이 없는 산적물질 목록(제65조제1항제2호 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6102,7 +6119,8 @@
             "target_local_path": "별표/별표12_고정식 탄화수소가스검지장치의 기준(제88조제6항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표12_고정식 탄화수소가스검지장치의 기준(제88조제6항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -6643,7 +6661,9 @@
             "source_provision_id": "admrul:선박소방설비기준#JO0097",
             "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json"
+            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_git_path": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6663,7 +6683,9 @@
             "source_provision_id": "admrul:선박소방설비기준#JO0097",
             "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json"
+            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_git_path": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6741,7 +6763,8 @@
             "target_local_path": "별표/별표14_전기자동차 운송선박의 소방설비 성능 요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박소방설비기준/별표/별표14_전기자동차 운송선박의 소방설비 성능 요건.hwp"
           },
           {
             "relation_type": "citation",
@@ -6761,7 +6784,9 @@
             "source_provision_id": "admrul:선박소방설비기준#JO0097",
             "reference_id": "law:선박안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json"
+            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_git_path": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6781,7 +6806,9 @@
             "source_provision_id": "admrul:선박소방설비기준#JO0097",
             "reference_id": "law:선박안전법시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json"
+            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_git_path": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

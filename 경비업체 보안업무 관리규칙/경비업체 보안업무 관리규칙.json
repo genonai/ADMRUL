@@ -151,7 +151,9 @@
             "source_provision_id": "admrul:경비업체보안업무관리규칙#JO0002",
             "reference_id": "law:경비업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경비업법/법률/경비업법.json"
+            "target_git_path_guess": "경비업법/법률/경비업법.json",
+            "target_git_path": "경비업법/법률/경비업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -171,7 +173,9 @@
             "source_provision_id": "admrul:경비업체보안업무관리규칙#JO0002",
             "reference_id": "law:경비업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "경비업법/법률/경비업법.json"
+            "target_git_path_guess": "경비업법/법률/경비업법.json",
+            "target_git_path": "경비업법/법률/경비업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -191,7 +195,9 @@
             "source_provision_id": "admrul:경비업체보안업무관리규칙#JO0002",
             "reference_id": "law:경비업법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "경비업법/법률/경비업법.json"
+            "target_git_path_guess": "경비업법/법률/경비업법.json",
+            "target_git_path": "경비업법/법률/경비업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -312,7 +318,8 @@
             "target_local_path": "별지/별지1_신원대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지1_신원대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -342,7 +349,8 @@
             "target_local_path": "별지/별지2_신원조사연명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지2_신원조사연명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -372,7 +380,8 @@
             "target_local_path": "별지/별지3_신원진술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지3_신원진술서.hwp"
           }
         ],
         "images": [],
@@ -498,7 +507,8 @@
             "target_local_path": "별지/별지4_종사원등록증(인가·해제, 등급변경) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지4_종사원등록증(인가·해제, 등급변경) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +538,8 @@
             "target_local_path": "별지/별지5_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지5_서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -558,7 +569,8 @@
             "target_local_path": "별지/별지6_종사원등록증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지6_종사원등록증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -588,7 +600,8 @@
             "target_local_path": "별지/별지7_비밀취급 종사원 등록증 발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지7_비밀취급 종사원 등록증 발급대장.hwp"
           }
         ],
         "images": [],
@@ -641,7 +654,8 @@
             "target_local_path": "별지/별지8_비밀관리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지8_비밀관리기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -671,7 +685,8 @@
             "target_local_path": "별지/별지9_비밀열람기록전.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지9_비밀열람기록전.hwp"
           }
         ],
         "images": [],
@@ -746,7 +761,8 @@
             "target_local_path": "별지/별지10_(제한구역, 통제구역) 출입자명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지10_(제한구역, 통제구역) 출입자명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -776,7 +792,8 @@
             "target_local_path": "별지/별지11_비밀작업일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지11_비밀작업일지.hwp"
           }
         ],
         "images": [],
@@ -829,7 +846,8 @@
             "target_local_path": "별지/별지12_숙직일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "경비업체 보안업무 관리규칙/별지/별지12_숙직일지.hwp"
           }
         ],
         "images": [],

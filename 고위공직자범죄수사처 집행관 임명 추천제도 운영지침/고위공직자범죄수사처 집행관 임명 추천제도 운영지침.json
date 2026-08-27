@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:고위공직자범죄수사처집행관임명추천제도운영지침#JO0002",
             "reference_id": "law:집행관법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json"
+            "target_git_path_guess": "집행관법/법률/집행관법.json",
+            "target_git_path": "집행관법/법률/집행관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:고위공직자범죄수사처집행관임명추천제도운영지침#JO0002",
             "reference_id": "law:집행관법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json"
+            "target_git_path_guess": "집행관법/법률/집행관법.json",
+            "target_git_path": "집행관법/법률/집행관법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -140,7 +144,8 @@
             "target_local_path": "별지/별지1_집행관 임명 추천 희망원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 집행관 임명 추천제도 운영지침/별지/별지1_집행관 임명 추천 희망원.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +175,8 @@
             "target_local_path": "별지/별지2_집행관 임명 추천 희망원 접수 처리부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 집행관 임명 추천제도 운영지침/별지/별지2_집행관 임명 추천 희망원 접수 처리부.hwp"
           }
         ],
         "images": [],

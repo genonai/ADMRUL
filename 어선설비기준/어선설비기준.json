@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0001",
             "reference_id": "law:어선법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0001",
             "reference_id": "law:어선법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0001",
             "reference_id": "law:어선법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0001",
             "reference_id": "law:어선법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json"
+            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_git_path": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0001",
             "reference_id": "law:어선법시행규칙#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json"
+            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_git_path": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -311,7 +321,8 @@
             "target_local_path": "별표/별표1_형식승인을 받을 수 있는 어선용품, 품목별 시험항목, 시험방법 및 판정기준(제2조 및 제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선용품의 형식승인 시험 및 검정 등에 관한 기준/별표/별표1_형식승인을 받을 수 있는 어선용품, 품목별 시험항목, 시험방법 및 판정기준(제2조 및 제7조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -720,7 +731,8 @@
             "target_local_path": "별표/별표1_구명정에 비치하는 의장품(제15조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표1_구명정에 비치하는 의장품(제15조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -1180,7 +1192,8 @@
             "target_local_path": "별표/별표2_구명뗏목에 비치하는 의장품(제21조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표2_구명뗏목에 비치하는 의장품(제21조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -1461,7 +1474,8 @@
             "target_local_path": "별표/별표2의2_팽창식의 구명조끼 정비기준(제26조제4항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표2의2_팽창식의 구명조끼 정비기준(제26조제4항 관련).hwp"
           }
         ],
         "images": [
@@ -1537,7 +1551,8 @@
             "target_local_path": "별표/별표1_형식승인을 받을 수 있는 어선용품, 품목별 시험항목, 시험방법 및 판정기준(제2조 및 제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선용품의 형식승인 시험 및 검정 등에 관한 기준/별표/별표1_형식승인을 받을 수 있는 어선용품, 품목별 시험항목, 시험방법 및 판정기준(제2조 및 제7조 관련).hwp"
           }
         ],
         "images": [],
@@ -2352,7 +2367,8 @@
             "target_local_path": "별표/별표1_선박용물건 품목별 시험항목, 시험방법 및 판정기준(제2조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박용물건의 형식승인 시험 및 검정에 관한 기준/별표/별표1_선박용물건 품목별 시험항목, 시험방법 및 판정기준(제2조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -2372,7 +2388,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0045",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2392,7 +2410,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0045",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2412,7 +2432,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0045",
             "reference_id": "law:낚시관리및육성법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "낚시 관리 및 육성법/법률/낚시 관리 및 육성법.json"
+            "target_git_path_guess": "낚시 관리 및 육성법/법률/낚시 관리 및 육성법.json",
+            "target_git_path": "낚시 관리 및 육성법/법률/낚시 관리 및 육성법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2432,7 +2454,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0045",
             "reference_id": "law:낚시관리및육성법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "낚시 관리 및 육성법/법률/낚시 관리 및 육성법.json"
+            "target_git_path_guess": "낚시 관리 및 육성법/법률/낚시 관리 및 육성법.json",
+            "target_git_path": "낚시 관리 및 육성법/법률/낚시 관리 및 육성법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2464,7 +2488,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0045_02",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2484,7 +2510,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0045_02",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2583,7 +2611,8 @@
             "target_local_path": "별표/별표3_역반사재의 부착방법(제49조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표3_역반사재의 부착방법(제49조 관련).hwp"
           }
         ],
         "images": [],
@@ -2845,7 +2874,8 @@
             "target_local_path": "별표/별표4_구명기구 및 신호장치의 표시사항(제63조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표4_구명기구 및 신호장치의 표시사항(제63조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -2933,7 +2963,8 @@
             "target_local_path": "별표/별표5_팽창식 구명뗏목 등의 정비기준(제66조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표5_팽창식 구명뗏목 등의 정비기준(제66조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2963,7 +2994,8 @@
             "target_local_path": "별표/별표5_팽창식 구명뗏목 등의 정비기준(제66조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표5_팽창식 구명뗏목 등의 정비기준(제66조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -3027,7 +3059,8 @@
             "target_local_path": "별표/별표6_진수장치 및 구명정이탈기의 시험 및 점검항목과 방법(제68조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표6_진수장치 및 구명정이탈기의 시험 및 점검항목과 방법(제68조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -3374,7 +3407,8 @@
             "target_local_path": "별표/별표7_고정식 포말 소화장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제79조제9호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표7_고정식 포말 소화장치에 사용하는 포말원액(내탄화수소계 가연성액체)의 요건 (제79조제9호가목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3404,7 +3438,8 @@
             "target_local_path": "별표/별표8_고정식포말소화장치에 사용하는 포말원액(내알콜)의 요건(제79조제9호나목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표8_고정식포말소화장치에 사용하는 포말원액(내알콜)의 요건(제79조제9호나목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3434,7 +3469,8 @@
             "target_local_path": "별표/별표9_고정식 포말 소화장치에 사용하는 포말원액(양용)의 요건(제79조제9호다목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표9_고정식 포말 소화장치에 사용하는 포말원액(양용)의 요건(제79조제9호다목 관련).hwp"
           }
         ],
         "images": [],
@@ -3476,7 +3512,8 @@
             "target_local_path": "별표/별표10_고정식 고팽창 포말 소화장치에 사용하는 포말원액의 요건(제80조제9호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표10_고정식 고팽창 포말 소화장치에 사용하는 포말원액의 요건(제80조제9호 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -3553,7 +3590,8 @@
             "target_local_path": "별표/별표11_수동스프링클러장치의 기준(제82조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표11_수동스프링클러장치의 기준(제82조 관련).hwp"
           }
         ],
         "images": [],
@@ -4129,7 +4167,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0103",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4149,7 +4189,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0103",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4169,7 +4211,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0103",
             "reference_id": "law:어선법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4189,7 +4233,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0103",
             "reference_id": "law:어선법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4233,7 +4279,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0103",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4253,7 +4301,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0103",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4376,7 +4426,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0104",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4396,7 +4448,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0104",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -5194,7 +5248,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0125",
             "reference_id": "law:내수면어업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5214,7 +5270,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0125",
             "reference_id": "law:내수면어업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5234,7 +5292,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0125",
             "reference_id": "law:내수면어업법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5254,7 +5314,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0125",
             "reference_id": "law:내수면어업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -5469,7 +5531,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0139",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json"
+            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5489,7 +5553,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0139",
             "reference_id": "law:액화석유가스의안전관리및사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "액화석유가스의 안전관리 및 사업법/법률/액화석유가스의 안전관리 및 사업법.json"
+            "target_git_path_guess": "액화석유가스의 안전관리 및 사업법/법률/액화석유가스의 안전관리 및 사업법.json",
+            "target_git_path": "액화석유가스의 안전관리 및 사업법/법률/액화석유가스의 안전관리 및 사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5521,7 +5587,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0140",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5541,7 +5609,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0140",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5669,7 +5739,8 @@
             "target_local_path": "별표/별표13_형배수량의 산정 기준 및 선루 또는 갑판실 등의 높이 및 너비측정방법 등(제144조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표13_형배수량의 산정 기준 및 선루 또는 갑판실 등의 높이 및 너비측정방법 등(제144조제3항 관련).hwp"
           }
         ],
         "images": [
@@ -5772,7 +5843,8 @@
             "target_local_path": "별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -5826,7 +5898,8 @@
             "target_local_path": "별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -5846,7 +5919,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0145",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5866,7 +5941,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0145",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5896,7 +5973,8 @@
             "target_local_path": "별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -5926,7 +6004,8 @@
             "target_local_path": "별표/별표16_의장수별 덴포스형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표16_의장수별 덴포스형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -5956,7 +6035,8 @@
             "target_local_path": "별표/별표17_덴포스형 닻의 치수(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표17_덴포스형 닻의 치수(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -5976,7 +6056,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0145",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5996,7 +6078,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0145",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6026,7 +6110,8 @@
             "target_local_path": "별표/별표16_의장수별 덴포스형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표16_의장수별 덴포스형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6056,7 +6141,8 @@
             "target_local_path": "별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6086,7 +6172,8 @@
             "target_local_path": "별표/별표16_의장수별 덴포스형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표16_의장수별 덴포스형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6116,7 +6203,8 @@
             "target_local_path": "별표/별표18_마닐라로프의 대용(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표18_마닐라로프의 대용(제145조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -6206,7 +6294,8 @@
             "target_local_path": "별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6236,7 +6325,8 @@
             "target_local_path": "별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6290,7 +6380,8 @@
             "target_local_path": "별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6320,7 +6411,8 @@
             "target_local_path": "별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표15_의장수별 한국형 닻ㆍ닻 로프 등의 규격 및 비치기준(제145조제2항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6398,7 +6490,8 @@
             "target_local_path": "별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6428,7 +6521,8 @@
             "target_local_path": "별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6458,7 +6552,8 @@
             "target_local_path": "별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6488,7 +6583,8 @@
             "target_local_path": "별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표14_의장수별 닻ㆍ닻 쇠사슬 및 로프 등의 규격 및 비치기준(제145조제1항 관련).hwp"
           }
         ],
         "images": [
@@ -6561,7 +6657,8 @@
             "target_local_path": "별표/별표19_쇠사슬의 마모한도(제148조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표19_쇠사슬의 마모한도(제148조 관련).hwp"
           }
         ],
         "images": [],
@@ -6625,7 +6722,8 @@
             "target_local_path": "별표/별표20_계류설비 등의 요건(제151조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표20_계류설비 등의 요건(제151조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -6727,7 +6825,8 @@
             "target_local_path": "별표/별표21_조타장치의 기준(제153조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표21_조타장치의 기준(제153조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6865,7 +6964,8 @@
             "target_local_path": "별표/별표21_조타장치의 기준(제153조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표21_조타장치의 기준(제153조 관련).hwp"
           }
         ],
         "images": [],
@@ -7107,7 +7207,8 @@
             "target_local_path": "별표/별표22_속구(제162조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표22_속구(제162조 관련).hwp"
           }
         ],
         "images": [],
@@ -7149,7 +7250,8 @@
             "target_local_path": "별표/별표23_선등시험기준(제163조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표23_선등시험기준(제163조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -7191,7 +7293,8 @@
             "target_local_path": "별표/별표22_속구(제162조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표22_속구(제162조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -7211,7 +7314,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0164",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7231,7 +7336,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0164",
             "reference_id": "law:원양산업발전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7251,7 +7358,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0164",
             "reference_id": "law:어선법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json"
+            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_git_path": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7271,7 +7380,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0164",
             "reference_id": "law:어선법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json"
+            "target_git_path_guess": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_git_path": "어선법/시행규칙/어선법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -7332,7 +7443,8 @@
             "target_local_path": "별표/별표24_현등격판의 형상 및 치수(제165조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표24_현등격판의 형상 및 치수(제165조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -7745,7 +7857,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0170",
             "reference_id": "law:해상교통안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해상교통안전법/법률/해상교통안전법.json"
+            "target_git_path_guess": "해상교통안전법/법률/해상교통안전법.json",
+            "target_git_path": "해상교통안전법/법률/해상교통안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7765,7 +7879,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0170",
             "reference_id": "law:내수면어업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7785,7 +7901,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0170",
             "reference_id": "law:내수면어업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7805,7 +7923,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0170",
             "reference_id": "law:내수면어업법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7825,7 +7945,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0170",
             "reference_id": "law:내수면어업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -7868,7 +7990,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0172",
             "reference_id": "law:내수면어업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7888,7 +8012,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0172",
             "reference_id": "law:내수면어업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7908,7 +8034,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0172",
             "reference_id": "law:내수면어업법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7928,7 +8056,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0172",
             "reference_id": "law:내수면어업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -8105,7 +8235,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0177",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -8172,7 +8304,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0179",
             "reference_id": "law:내수면어업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8192,7 +8326,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0179",
             "reference_id": "law:내수면어업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8212,7 +8348,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0179",
             "reference_id": "law:내수면어업법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8232,7 +8370,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0179",
             "reference_id": "law:내수면어업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -8476,7 +8616,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0185",
             "reference_id": "law:어선법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8496,7 +8638,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0185",
             "reference_id": "law:어선법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -8646,7 +8790,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0190",
             "reference_id": "law:내수면어업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8666,7 +8812,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0190",
             "reference_id": "law:내수면어업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8686,7 +8834,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0190",
             "reference_id": "law:내수면어업법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8706,7 +8856,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0190",
             "reference_id": "law:내수면어업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -8762,7 +8914,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0191",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8782,7 +8936,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0191",
             "reference_id": "law:어선법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8802,7 +8958,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0191",
             "reference_id": "law:어선법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -8916,7 +9074,8 @@
             "target_local_path": "별표/별표1_형식승인을 받을 수 있는 어선용품, 품목별 시험항목, 시험방법 및 판정기준(제2조 및 제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선용품의 형식승인 시험 및 검정 등에 관한 기준/별표/별표1_형식승인을 받을 수 있는 어선용품, 품목별 시험항목, 시험방법 및 판정기준(제2조 및 제7조 관련).hwp"
           }
         ],
         "images": [],
@@ -9005,7 +9164,8 @@
             "target_local_path": "별표/별표25_하역장치의 구조 및 강도계산(제194조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표25_하역장치의 구조 및 강도계산(제194조제2항 관련).hwp"
           }
         ],
         "images": [
@@ -9349,7 +9509,8 @@
             "target_local_path": "별표/별표26_전기기계 및 전기기구의 절연거리 (제214조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표26_전기기계 및 전기기구의 절연거리 (제214조 관련).hwp"
           }
         ],
         "images": [],
@@ -9812,7 +9973,8 @@
             "target_local_path": "별표/별표27_발전기 등의 온도 상승 한도표 (제227조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표27_발전기 등의 온도 상승 한도표 (제227조 관련).hwp"
           }
         ],
         "images": [],
@@ -9918,7 +10080,8 @@
             "target_local_path": "별표/별표28_절연내력시험 전압표(제232조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표28_절연내력시험 전압표(제232조 관련).hwp"
           }
         ],
         "images": [],
@@ -10298,7 +10461,8 @@
             "target_local_path": "별표/별표29_배전반 기구의 비치기준 (제262조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표29_배전반 기구의 비치기준 (제262조 관련).hwp"
           }
         ],
         "images": [],
@@ -10351,7 +10515,8 @@
             "target_local_path": "별표/별표30_배전반용 기구의 온도 상승 한도표(제264조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표30_배전반용 기구의 온도 상승 한도표(제264조 관련).hwp"
           }
         ],
         "images": [],
@@ -10459,7 +10624,8 @@
             "target_local_path": "별표/별표31_전동기용 제어기의 온도 상승 한도표 (제271조관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표31_전동기용 제어기의 온도 상승 한도표 (제271조관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -11262,7 +11428,8 @@
             "target_local_path": "별표/별표28_절연내력시험 전압표(제232조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표28_절연내력시험 전압표(제232조 관련).hwp"
           }
         ],
         "images": [],
@@ -11696,7 +11863,8 @@
             "target_local_path": "별표/별표32_외피보호 등급(제336조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표32_외피보호 등급(제336조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -11956,7 +12124,8 @@
             "target_local_path": "별표/별표33_무선설비의 설치기준(제349조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "어선설비기준/별표/별표33_무선설비의 설치기준(제349조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -11976,7 +12145,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0349",
             "reference_id": "law:내수면어업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -11996,7 +12167,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0349",
             "reference_id": "law:내수면어업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -12016,7 +12189,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0349",
             "reference_id": "law:내수면어업법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -12036,7 +12211,9 @@
             "source_provision_id": "admrul:어선설비기준#JO0349",
             "reference_id": "law:내수면어업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json"
+            "target_git_path_guess": "내수면어업법/법률/내수면어업법.json",
+            "target_git_path": "내수면어업법/법률/내수면어업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

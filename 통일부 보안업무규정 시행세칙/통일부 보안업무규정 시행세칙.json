@@ -103,7 +103,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0002",
             "reference_id": "law:통일부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json"
+            "target_git_path_guess": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json",
+            "target_git_path": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -123,7 +125,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0002",
             "reference_id": "law:통일부와그소속기관직제#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json"
+            "target_git_path_guess": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json",
+            "target_git_path": "통일부와 그 소속기관 직제/법률/통일부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0002",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -163,7 +169,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0002",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -263,7 +271,8 @@
             "target_local_path": "별지/별지1_보안심사위원회 심의요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지1_보안심사위원회 심의요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -293,7 +302,8 @@
             "target_local_path": "별지/별지2_보안심사위원회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지2_보안심사위원회 회의록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -323,7 +333,8 @@
             "target_local_path": "별지/별지3_보안심사위원회 심의결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지3_보안심사위원회 심의결정서.hwp"
           }
         ],
         "images": [],
@@ -568,7 +579,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0013",
             "reference_id": "law:보안업무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -694,7 +707,8 @@
             "target_local_path": "별지/별지5_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지5_보안서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -724,7 +738,8 @@
             "target_local_path": "별지/별지8_외부위원 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지8_외부위원 보안서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -754,7 +769,8 @@
             "target_local_path": "별지/별지9_특수연구과제용역 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지9_특수연구과제용역 보안서약서.hwp"
           }
         ],
         "images": [],
@@ -820,7 +836,8 @@
             "target_local_path": "별지/별지4_비밀·암호자재 취급인가 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지4_비밀·암호자재 취급인가 신청서.hwp"
           }
         ],
         "images": [],
@@ -873,7 +890,8 @@
             "target_local_path": "별지/별지6_비밀·암호자재 취급인가증 분실사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지6_비밀·암호자재 취급인가증 분실사유서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -903,7 +921,8 @@
             "target_local_path": "별지/별지7_비밀·암호자재 취급인가증 발급 및 회수대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지7_비밀·암호자재 취급인가증 발급 및 회수대장.hwp"
           }
         ],
         "images": [],
@@ -978,7 +997,8 @@
             "target_local_path": "별지/별지8_외부위원 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지8_외부위원 보안서약서.hwp"
           }
         ],
         "images": [],
@@ -1068,7 +1088,8 @@
             "target_local_path": "별지/별지9_특수연구과제용역 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지9_특수연구과제용역 보안서약서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1194,7 +1215,8 @@
             "target_local_path": "별지/별지10_특수연구과제용역 종료 비밀엄수 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지10_특수연구과제용역 종료 비밀엄수 보안서약서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1248,7 +1270,8 @@
             "target_local_path": "별지/별지6_비밀·암호자재 취급인가증 분실사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지6_비밀·암호자재 취급인가증 분실사유서.hwp"
           }
         ],
         "images": [],
@@ -1398,7 +1421,8 @@
             "target_local_path": "별지/별지5_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지5_보안서약서.hwp"
           }
         ],
         "images": [],
@@ -1441,7 +1465,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0027",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1461,7 +1487,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0027",
             "reference_id": "law:보안업무규정#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1527,7 +1555,8 @@
             "target_local_path": "서식/서식8_비밀표지(Ⅰ급비밀).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식8_비밀표지(Ⅰ급비밀).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1557,7 +1586,8 @@
             "target_local_path": "서식/서식10_비밀표지(Ⅲ급비밀).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식10_비밀표지(Ⅲ급비밀).hwp"
           },
           {
             "relation_type": "citation",
@@ -1861,7 +1891,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0030",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1881,7 +1913,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0030",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1923,7 +1957,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0031",
             "reference_id": "law:공공기록물관리에관한법률#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1943,7 +1979,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0031",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -2006,7 +2044,8 @@
             "target_local_path": "별지/별지11_비밀열람기록전.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지11_비밀열람기록전.hwp"
           }
         ],
         "images": [],
@@ -2048,7 +2087,8 @@
             "target_local_path": "별지/별지12_비밀발간결의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지12_비밀발간결의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2078,7 +2118,8 @@
             "target_local_path": "별지/별지13_비밀발간통제부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지13_비밀발간통제부.hwp"
           }
         ],
         "images": [
@@ -2139,7 +2180,8 @@
             "target_local_path": "별지/별지14_비밀발간입회서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지14_비밀발간입회서약서.hwp"
           }
         ],
         "images": [],
@@ -2181,7 +2223,8 @@
             "target_local_path": "별지/별지15_배부처.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지15_배부처.hwp"
           }
         ],
         "images": [
@@ -2242,7 +2285,8 @@
             "target_local_path": "별지/별지16_이중봉투 양식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지16_이중봉투 양식.hwp"
           }
         ],
         "images": [],
@@ -2274,7 +2318,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0038",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2294,7 +2340,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0038",
             "reference_id": "law:보안업무규정#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2324,7 +2372,8 @@
             "target_local_path": "별지/별지17_접수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지17_접수증.hwp"
           }
         ],
         "images": [],
@@ -2547,7 +2596,8 @@
             "target_local_path": "별지/별지18_비밀분리처리결의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지18_비밀분리처리결의서.hwp"
           }
         ],
         "images": [],
@@ -2625,7 +2675,8 @@
             "target_local_path": "별지/별지19_비밀열람서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지19_비밀열람서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2655,7 +2706,8 @@
             "target_local_path": "별지/별지20_비밀대출부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지20_비밀대출부.hwp"
           }
         ],
         "images": [],
@@ -2697,7 +2749,8 @@
             "target_local_path": "별지/별지21_비인가자 비밀열람확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지21_비인가자 비밀열람확인서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2763,7 +2816,8 @@
             "target_local_path": "별지/별지22_비밀반출승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지22_비밀반출승인서.hwp"
           }
         ],
         "images": [],
@@ -2795,7 +2849,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0049",
             "reference_id": "law:보안업무규정#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2885,7 +2941,8 @@
             "target_local_path": "별지/별지23_보안성검토확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지23_보안성검토확인서.hwp"
           }
         ],
         "images": [],
@@ -2962,7 +3019,8 @@
             "target_local_path": "서식/서식2_암호자재 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식2_암호자재 증명서.hwp"
           }
         ],
         "images": [],
@@ -3028,7 +3086,8 @@
             "target_local_path": "서식/서식3_암호자재 관리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식3_암호자재 관리기록부.hwp"
           },
           {
             "relation_type": "citation",
@@ -3082,7 +3141,8 @@
             "target_local_path": "서식/서식4_암호자재 점검기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식4_암호자재 점검기록부.hwp"
           }
         ],
         "images": [],
@@ -3183,7 +3243,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0058",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3203,7 +3265,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0058",
             "reference_id": "law:보안업무규정#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3235,7 +3299,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0059",
             "reference_id": "law:보안업무규정#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3349,7 +3415,8 @@
             "target_local_path": "별지/별지24_보호지역 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지24_보호지역 관리대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -3427,7 +3494,8 @@
             "target_local_path": "별지/별지25_보호지역 표지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지25_보호지역 표지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3457,7 +3525,8 @@
             "target_local_path": "별지/별지26_상시출입자 명단.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지26_상시출입자 명단.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3487,7 +3556,8 @@
             "target_local_path": "별지/별지27_출입통제대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지27_출입통제대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -3934,7 +4004,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0070",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3954,7 +4026,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0070",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4032,7 +4106,8 @@
             "target_local_path": "별지/별지28_공개정보 보안점검확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통일부 보안업무규정 시행세칙/별지/별지28_공개정보 보안점검확인서.hwp"
           }
         ],
         "images": [],
@@ -4100,7 +4175,9 @@
             "source_provision_id": "admrul:통일부보안업무규정시행세칙#JO0072",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

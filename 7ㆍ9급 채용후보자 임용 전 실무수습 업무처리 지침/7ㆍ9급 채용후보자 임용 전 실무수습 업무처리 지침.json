@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:79급채용후보자임용전실무수습업무처리지침#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:79급채용후보자임용전실무수습업무처리지침#JO0002",
             "reference_id": "law:국가공무원법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "admrul:79급채용후보자임용전실무수습업무처리지침#JO0002",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -138,7 +144,9 @@
             "source_provision_id": "admrul:79급채용후보자임용전실무수습업무처리지침#JO0002",
             "reference_id": "law:공무원임용령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -305,7 +313,8 @@
             "target_local_path": "서식/서식1_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "7ㆍ9급 채용후보자 임용 전 실무수습 업무처리 지침/서식/서식1_서약서.hwp"
           }
         ],
         "images": [],
@@ -347,7 +356,8 @@
             "target_local_path": "서식/서식2_실무수습평가일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "7ㆍ9급 채용후보자 임용 전 실무수습 업무처리 지침/서식/서식2_실무수습평가일지.hwp"
           }
         ],
         "images": [],

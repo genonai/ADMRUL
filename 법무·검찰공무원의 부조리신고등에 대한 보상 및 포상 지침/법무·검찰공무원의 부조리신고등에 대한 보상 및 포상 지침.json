@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:법무검찰공무원의부조리신고등에대한보상및포상지침#JO0001",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -131,7 +133,8 @@
             "target_local_path": "별지/별지1_부조리관련신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무·검찰공무원의 부조리신고등에 대한 보상 및 포상 지침/별지/별지1_부조리관련신고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -161,7 +164,8 @@
             "target_local_path": "별지/별지2_부조리관련신고관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무·검찰공무원의 부조리신고등에 대한 보상 및 포상 지침/별지/별지2_부조리관련신고관리대장.hwp"
           }
         ],
         "images": [],
@@ -304,7 +308,8 @@
             "target_local_path": "별표/별표1_보상금등 지급 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무·검찰공무원의 부조리신고등에 대한 보상 및 포상 지침/별표/별표1_보상금등 지급 기준.hwp"
           }
         ],
         "images": [],

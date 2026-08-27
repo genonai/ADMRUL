@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:위험물의분류및표지에관한기준#JO0001",
             "reference_id": "law:위험물안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행규칙/위험물안전관리법 시행규칙.json"
+            "target_git_path_guess": "위험물안전관리법/시행규칙/위험물안전관리법 시행규칙.json",
+            "target_git_path": "위험물안전관리법/시행규칙/위험물안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -92,7 +94,10 @@
             "target_unit": "BYL0019",
             "reference_id": "law:위험물안전관리법시행규칙#BYL0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행규칙/위험물안전관리법 시행규칙.json"
+            "target_git_path_guess": "위험물안전관리법/시행규칙/위험물안전관리법 시행규칙.json",
+            "target_git_path": "위험물안전관리법/시행규칙/위험물안전관리법 시행규칙.json",
+            "target_git_file_path": "위험물안전관리법/시행규칙/별표/별표19_위험물의 운반에 관한 기준(제50조관련), 운반용기의 최대용적 또는 중량(별표 19 관련), 유별을 달리하는 위험물의 혼재기준(별표 19관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -124,7 +129,9 @@
             "source_provision_id": "admrul:위험물의분류및표지에관한기준#JO0002",
             "reference_id": "law:위험물안전관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/법률/위험물안전관리법.json"
+            "target_git_path_guess": "위험물안전관리법/법률/위험물안전관리법.json",
+            "target_git_path": "위험물안전관리법/법률/위험물안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -144,7 +151,9 @@
             "source_provision_id": "admrul:위험물의분류및표지에관한기준#JO0002",
             "reference_id": "law:위험물안전관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json"
+            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_path": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -169,7 +178,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:위험물안전관리법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json"
+            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_path": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_file_path": "위험물안전관리법/시행령/별표/별표1_위험물 및 지정수량(제2조 및 제3조관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -246,7 +258,8 @@
             "target_local_path": "별표/별표1_심벌의 종류 및 각 심벌에 따른 유해위험성(제4조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위험물의 분류 및 표지에 관한 기준/별표/별표1_심벌의 종류 및 각 심벌에 따른 유해위험성(제4조제1항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -276,7 +289,8 @@
             "target_local_path": "별표/별표2_물리적 위험성에 대한 유해위험문구 및 예방조치문구(제4조제2항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위험물의 분류 및 표지에 관한 기준/별표/별표2_물리적 위험성에 대한 유해위험문구 및 예방조치문구(제4조제2항관련).hwp"
           }
         ],
         "images": [],
@@ -318,7 +332,8 @@
             "target_local_path": "별표/별표3_경고표지 양식·규격 및 부착방법(제5조제4항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위험물의 분류 및 표지에 관한 기준/별표/별표3_경고표지 양식·규격 및 부착방법(제5조제4항관련).hwp"
           }
         ],
         "images": [],
@@ -360,7 +375,8 @@
             "target_local_path": "별표/별표4_화학물질의 유해위험성 분류기준 및 표지방법(제6조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위험물의 분류 및 표지에 관한 기준/별표/별표4_화학물질의 유해위험성 분류기준 및 표지방법(제6조제1항관련).hwp"
           }
         ],
         "images": [],
@@ -392,7 +408,9 @@
             "source_provision_id": "admrul:위험물의분류및표지에관한기준#JO0007",
             "reference_id": "law:국가표준기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

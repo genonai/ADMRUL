@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:2014년정부조직개편에따른기록물관리지침#DOC",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -96,7 +98,8 @@
             "target_local_path": "붙임/붙임2_기록물 인계·인수서(서식).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2014년 정부조직개편에 따른 기록물관리지침/붙임/붙임2_기록물 인계·인수서(서식).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -126,7 +129,8 @@
             "target_local_path": "붙임/붙임3_기록물 세부목록(철).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2014년 정부조직개편에 따른 기록물관리지침/붙임/붙임3_기록물 세부목록(철).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -156,7 +160,8 @@
             "target_local_path": "붙임/붙임4_표준기록관리시스템 신규도입 소요예산.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2014년 정부조직개편에 따른 기록물관리지침/붙임/붙임4_표준기록관리시스템 신규도입 소요예산.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -186,7 +191,8 @@
             "target_local_path": "붙임/붙임2_기록물 인계·인수서(서식).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2014년 정부조직개편에 따른 기록물관리지침/붙임/붙임2_기록물 인계·인수서(서식).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -216,7 +222,8 @@
             "target_local_path": "붙임/붙임3_기록물 세부목록(철).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2014년 정부조직개편에 따른 기록물관리지침/붙임/붙임3_기록물 세부목록(철).hwp"
           }
         ],
         "images": [

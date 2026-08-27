@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0001",
             "reference_id": "law:환경정책기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json"
+            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json",
+            "target_git_path": "환경정책기본법/법률/환경정책기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0001",
             "reference_id": "law:환경정책기본법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json"
+            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json",
+            "target_git_path": "환경정책기본법/법률/환경정책기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0001",
             "reference_id": "law:대기환경보전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0001",
             "reference_id": "law:대기환경보전법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -180,7 +188,8 @@
             "target_local_path": "별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대기보전특별대책지역 지정 및 동지역내 대기오염저감을 위한 종합대책 고시/별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -210,7 +219,8 @@
             "target_local_path": "별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대기보전특별대책지역 지정 및 동지역내 대기오염저감을 위한 종합대책 고시/별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -230,7 +240,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0003",
             "reference_id": "law:대기환경보전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -255,7 +267,10 @@
             "target_unit": "BYL0008",
             "reference_id": "law:대기환경보전법시행규칙#BYL0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_file_path": "대기환경보전법/시행규칙/별표/별표8_대기오염물질의 배출허용기준(제15조 및 제33조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -297,7 +312,8 @@
             "target_local_path": "별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대기보전특별대책지역 지정 및 동지역내 대기오염저감을 위한 종합대책 고시/별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -327,7 +343,8 @@
             "target_local_path": "별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대기보전특별대책지역 지정 및 동지역내 대기오염저감을 위한 종합대책 고시/별표/별표1_기존사업장 및 신규사업장 배출허용기준(제3조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -347,7 +364,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0004",
             "reference_id": "law:대기환경보전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -372,7 +391,10 @@
             "target_unit": "BYL0008",
             "reference_id": "law:대기환경보전법시행규칙#BYL0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_file_path": "대기환경보전법/시행규칙/별표/별표8_대기오염물질의 배출허용기준(제15조 및 제33조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -404,7 +426,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0005",
             "reference_id": "law:대기환경보전법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -424,7 +448,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0005",
             "reference_id": "law:대기환경보전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json"
+            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_git_path": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -444,7 +470,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0005",
             "reference_id": "law:대기환경보전법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json"
+            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_git_path": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -474,7 +502,8 @@
             "target_local_path": "별표/별표2_휘발성유기화합물 배출시설의 종류 및 규모(제5조 제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대기보전특별대책지역 지정 및 동지역내 대기오염저감을 위한 종합대책 고시/별표/별표2_휘발성유기화합물 배출시설의 종류 및 규모(제5조 제2항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -494,7 +523,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0005",
             "reference_id": "law:대기환경보전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -519,7 +550,10 @@
             "target_unit": "BYL0016",
             "reference_id": "law:대기환경보전법시행규칙#BYL0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_file_path": "대기환경보전법/시행규칙/별표/별표16_휘발성유기화합물 배출 억제·방지시설 설치 및 검사·측정결과의 기록보존에 관한 기준(제61조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -549,7 +583,8 @@
             "target_local_path": "별표/별표3_휘발성유기화합물의 배출억제 및 방지시설 설치 등에 관한 기준(제5조제3항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대기보전특별대책지역 지정 및 동지역내 대기오염저감을 위한 종합대책 고시/별표/별표3_휘발성유기화합물의 배출억제 및 방지시설 설치 등에 관한 기준(제5조제3항관련).hwp"
           }
         ],
         "images": [],
@@ -581,7 +616,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0006",
             "reference_id": "law:대기환경보전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json"
+            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_git_path": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -601,7 +638,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0006",
             "reference_id": "law:대기환경보전법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json"
+            "target_git_path_guess": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_git_path": "대기환경보전법/시행령/대기환경보전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -621,7 +660,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0006",
             "reference_id": "law:대기환경보전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -641,7 +682,9 @@
             "source_provision_id": "admrul:대기보전특별대책지역지정및동지역내대기오염저감을위한종합대책고시#JO0006",
             "reference_id": "law:대기환경보전법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

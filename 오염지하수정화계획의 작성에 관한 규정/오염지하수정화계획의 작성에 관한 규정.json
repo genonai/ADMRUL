@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:오염지하수정화계획의작성에관한규정#JO0001",
             "reference_id": "law:지하수법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지하수법/시행령/지하수법 시행령.json"
+            "target_git_path_guess": "지하수법/시행령/지하수법 시행령.json",
+            "target_git_path": "지하수법/시행령/지하수법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:오염지하수정화계획의작성에관한규정#JO0001",
             "reference_id": "law:지하수법시행령#JO0026_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "지하수법/시행령/지하수법 시행령.json"
+            "target_git_path_guess": "지하수법/시행령/지하수법 시행령.json",
+            "target_git_path": "지하수법/시행령/지하수법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -129,7 +133,8 @@
             "target_local_path": "별표/별표1_오염지하수정화계획의 작성내용(제2조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "오염지하수정화계획의 작성에 관한 규정/별표/별표1_오염지하수정화계획의 작성내용(제2조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -159,7 +164,8 @@
             "target_local_path": "별표/별표2_오염지하수정화계획의 작성방법(제2조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "오염지하수정화계획의 작성에 관한 규정/별표/별표2_오염지하수정화계획의 작성방법(제2조 관련).hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:통계데이터센터운영및이용등에관한규정#JO0001",
             "reference_id": "law:통계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:통계데이터센터운영및이용등에관한규정#JO0001",
             "reference_id": "law:통계법시행령#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:통계데이터센터운영및이용등에관한규정#JO0001",
             "reference_id": "law:통계법시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -309,7 +315,9 @@
             "source_provision_id": "admrul:통계데이터센터운영및이용등에관한규정#JO0013",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -329,7 +337,9 @@
             "source_provision_id": "admrul:통계데이터센터운영및이용등에관한규정#JO0013",
             "reference_id": "law:통계법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -406,7 +416,8 @@
             "target_local_path": "별지/별지1_이용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계데이터센터 운영 및 이용 등에 관한 규정/별지/별지1_이용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -436,7 +447,8 @@
             "target_local_path": "별지/별지2_보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계데이터센터 운영 및 이용 등에 관한 규정/별지/별지2_보안 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -466,7 +478,8 @@
             "target_local_path": "별지/별지3_이용 신청 관련 개인정보의 수집·이용 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계데이터센터 운영 및 이용 등에 관한 규정/별지/별지3_이용 신청 관련 개인정보의 수집·이용 동의서.hwp"
           }
         ],
         "images": [],
@@ -530,7 +543,8 @@
             "target_local_path": "별지/별지4_출입자 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계데이터센터 운영 및 이용 등에 관한 규정/별지/별지4_출입자 관리대장.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -632,7 +646,8 @@
             "target_local_path": "별지/별지5_이용자 준수사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계데이터센터 운영 및 이용 등에 관한 규정/별지/별지5_이용자 준수사항.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -757,7 +772,8 @@
             "target_local_path": "별지/별지6_장비의 반입·반출 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계데이터센터 운영 및 이용 등에 관한 규정/별지/별지6_장비의 반입·반출 신청서.hwp"
           }
         ],
         "images": [],
@@ -799,7 +815,8 @@
             "target_local_path": "별지/별지7_분석결과 반출 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계데이터센터 운영 및 이용 등에 관한 규정/별지/별지7_분석결과 반출 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1113,7 +1130,9 @@
             "source_provision_id": "admrul:통계데이터센터운영및이용등에관한규정#JO0025",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방위사업청당직근무지침#JO0001",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:방위사업청당직근무지침#JO0001",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -228,7 +232,8 @@
             "target_local_path": "별지/별지1_당직근무일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방위사업청 당직근무 지침/별지/별지1_당직근무일지.hwp"
           }
         ],
         "images": [],
@@ -303,7 +308,8 @@
             "target_local_path": "별지/별지1_당직근무일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방위사업청 당직근무 지침/별지/별지1_당직근무일지.hwp"
           }
         ],
         "images": [],
@@ -368,7 +374,9 @@
             "source_provision_id": "admrul:방위사업청당직근무지침#JO0019",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원복무규칙/법률/국가공무원복무규칙.json"
+            "target_git_path_guess": "국가공무원복무규칙/법률/국가공무원복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

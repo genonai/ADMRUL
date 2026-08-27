@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:약국제제지정#JO0001",
             "reference_id": "law:의약품등의안전에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:약국제제지정#JO0001",
             "reference_id": "law:의약품등의안전에관한규칙#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -129,7 +133,8 @@
             "target_local_path": "별표/별표1_약국제제의 지정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "약국제제지정/별표/별표1_약국제제의 지정.hwp"
           }
         ],
         "images": [],

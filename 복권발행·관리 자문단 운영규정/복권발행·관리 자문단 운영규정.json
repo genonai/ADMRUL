@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:복권발행관리자문단운영규정#JO0004",
             "reference_id": "law:복권및복권기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "복권 및 복권기금법/법률/복권 및 복권기금법.json"
+            "target_git_path_guess": "복권 및 복권기금법/법률/복권 및 복권기금법.json",
+            "target_git_path": "복권 및 복권기금법/법률/복권 및 복권기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -120,7 +122,9 @@
             "source_provision_id": "admrul:복권발행관리자문단운영규정#JO0004",
             "reference_id": "law:복권및복권기금법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "복권 및 복권기금법/법률/복권 및 복권기금법.json"
+            "target_git_path_guess": "복권 및 복권기금법/법률/복권 및 복권기금법.json",
+            "target_git_path": "복권 및 복권기금법/법률/복권 및 복권기금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -208,7 +212,8 @@
             "target_local_path": "별지/별지1_서면자문요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "복권발행·관리 자문단 운영규정/별지/별지1_서면자문요청서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:혈액관리업무심사평가위원회운영규정#JO0001",
             "reference_id": "law:혈액관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json"
+            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json",
+            "target_git_path": "혈액관리법/법률/혈액관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:혈액관리업무심사평가위원회운영규정#JO0001",
             "reference_id": "law:혈액관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "혈액관리법/시행령/혈액관리법 시행령.json"
+            "target_git_path_guess": "혈액관리법/시행령/혈액관리법 시행령.json",
+            "target_git_path": "혈액관리법/시행령/혈액관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:혈액관리업무심사평가위원회운영규정#JO0001",
             "reference_id": "law:혈액관리법시행령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "혈액관리법/시행령/혈액관리법 시행령.json"
+            "target_git_path_guess": "혈액관리법/시행령/혈액관리법 시행령.json",
+            "target_git_path": "혈액관리법/시행령/혈액관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -198,7 +204,9 @@
             "source_provision_id": "admrul:혈액관리업무심사평가위원회운영규정#JO0003",
             "reference_id": "law:변호사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "변호사법/법률/변호사법.json"
+            "target_git_path_guess": "변호사법/법률/변호사법.json",
+            "target_git_path": "변호사법/법률/변호사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -218,7 +226,9 @@
             "source_provision_id": "admrul:혈액관리업무심사평가위원회운영규정#JO0003",
             "reference_id": "law:변호사법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "변호사법/법률/변호사법.json"
+            "target_git_path_guess": "변호사법/법률/변호사법.json",
+            "target_git_path": "변호사법/법률/변호사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -260,7 +270,8 @@
             "target_local_path": "별지/별지1_직무윤리 사전진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "혈액관리업무 심사평가위원회 운영규정/별지/별지1_직무윤리 사전진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -290,7 +301,8 @@
             "target_local_path": "별지/별지2_직무윤리 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "혈액관리업무 심사평가위원회 운영규정/별지/별지2_직무윤리 서약서.hwp"
           }
         ],
         "images": [],
@@ -365,7 +377,8 @@
             "target_local_path": "별지/별지4_서면의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "혈액관리업무 심사평가위원회 운영규정/별지/별지4_서면의결서.hwp"
           }
         ],
         "images": [],
@@ -418,7 +431,8 @@
             "target_local_path": "별지/별지5_혈액관리업무 서류심사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "혈액관리업무 심사평가위원회 운영규정/별지/별지5_혈액관리업무 서류심사 신청서.hwp"
           }
         ],
         "images": [],

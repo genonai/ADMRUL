@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0001",
             "reference_id": "law:원자력안전법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,9 +87,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,9 +109,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제60조",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0060",
+            "reference_id": "law:원자력안전법시행규칙#JO0060",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0002",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0002",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -189,7 +199,8 @@
             "target_local_path": "별표/별표1_방사선기기의 종류.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별표/별표1_방사선기기의 종류.hwp"
           }
         ],
         "images": [],
@@ -253,7 +264,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0005",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -273,7 +286,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0005",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -293,7 +308,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0005",
             "reference_id": "law:원자력안전법#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -325,7 +342,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0006",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -345,7 +364,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0006",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -365,7 +386,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0006",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -407,7 +430,8 @@
             "target_local_path": "별지/별지1_방사선안전관리자의 대리자 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지1_방사선안전관리자의 대리자 지정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -437,7 +461,8 @@
             "target_local_path": "별표/별표2_방사선안전관리자의 대리자 자격요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별표/별표2_방사선안전관리자의 대리자 자격요건.hwp"
           }
         ],
         "images": [],
@@ -469,7 +494,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0008",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -489,7 +516,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0008",
             "reference_id": "law:원자력안전법#JO0102",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -521,7 +550,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0009",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -563,7 +594,8 @@
             "target_local_path": "별표/별표3_방사선관리구역 경계표지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별표/별표3_방사선관리구역 경계표지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -593,7 +625,8 @@
             "target_local_path": "별지/별지2_컨테이너검색기 사용 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지2_컨테이너검색기 사용 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -623,7 +656,8 @@
             "target_local_path": "별지/별지3_중형 X-Ray검색기 사용 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지3_중형 X-Ray검색기 사용 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -653,7 +687,8 @@
             "target_local_path": "별지/별지4_방사선관리구역 출입자 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지4_방사선관리구역 출입자 기록부.hwp"
           }
         ],
         "images": [],
@@ -695,7 +730,8 @@
             "target_local_path": "별지/별지5_방사선량률 측정 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지5_방사선량률 측정 기록부.hwp"
           }
         ],
         "images": [],
@@ -727,7 +763,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0012",
             "reference_id": "law:진단용방사선발생장치의안전관리에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -747,7 +785,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0012",
             "reference_id": "law:진단용방사선발생장치의안전관리에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -767,7 +807,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0012",
             "reference_id": "law:동물진단용방사선발생장치의안전관리에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물 진단용 방사선발생장치의 안전관리에 관한 규칙/법률/동물 진단용 방사선발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "동물 진단용 방사선발생장치의 안전관리에 관한 규칙/법률/동물 진단용 방사선발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "동물 진단용 방사선발생장치의 안전관리에 관한 규칙/법률/동물 진단용 방사선발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -787,7 +829,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0012",
             "reference_id": "law:동물진단용방사선발생장치의안전관리에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물 진단용 방사선발생장치의 안전관리에 관한 규칙/법률/동물 진단용 방사선발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "동물 진단용 방사선발생장치의 안전관리에 관한 규칙/법률/동물 진단용 방사선발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "동물 진단용 방사선발생장치의 안전관리에 관한 규칙/법률/동물 진단용 방사선발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -840,7 +884,8 @@
             "target_local_path": "별지/별지6_개인선량계 판독특이자 발생 보고(통보)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지6_개인선량계 판독특이자 발생 보고(통보)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -870,7 +915,8 @@
             "target_local_path": "별지/별지7_판독특이자 피폭방사선량 추정 및 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지7_판독특이자 피폭방사선량 추정 및 확인서.hwp"
           }
         ],
         "images": [],
@@ -923,7 +969,8 @@
             "target_local_path": "별표/별표4_교육훈련 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별표/별표4_교육훈련 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -953,7 +1000,8 @@
             "target_local_path": "별지/별지8_교육훈련기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지8_교육훈련기록부.hwp"
           }
         ],
         "images": [],
@@ -1006,7 +1054,8 @@
             "target_local_path": "별지/별지9_방사선작업종사자 건강진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지9_방사선작업종사자 건강진단서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1073,7 +1122,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0020",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1103,7 +1154,8 @@
             "target_local_path": "별지/별지10_사고보고(통보)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지10_사고보고(통보)서.hwp"
           }
         ],
         "images": [],
@@ -1225,7 +1277,8 @@
             "target_local_path": "별지/별지1_방사선안전관리자의 대리자 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지1_방사선안전관리자의 대리자 지정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1255,7 +1308,8 @@
             "target_local_path": "별지/별지2_컨테이너검색기 사용 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지2_컨테이너검색기 사용 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1285,7 +1339,8 @@
             "target_local_path": "별지/별지3_중형 X-Ray검색기 사용 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지3_중형 X-Ray검색기 사용 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1315,7 +1370,8 @@
             "target_local_path": "별지/별지4_방사선관리구역 출입자 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지4_방사선관리구역 출입자 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1345,7 +1401,8 @@
             "target_local_path": "별지/별지5_방사선량률 측정 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지5_방사선량률 측정 기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1375,7 +1432,8 @@
             "target_local_path": "별지/별지6_개인선량계 판독특이자 발생 보고(통보)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지6_개인선량계 판독특이자 발생 보고(통보)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1405,7 +1463,8 @@
             "target_local_path": "별지/별지7_판독특이자 피폭방사선량 추정 및 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지7_판독특이자 피폭방사선량 추정 및 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1435,7 +1494,8 @@
             "target_local_path": "별지/별지8_교육훈련기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지8_교육훈련기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1465,7 +1525,8 @@
             "target_local_path": "별지/별지9_방사선작업종사자 건강진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지9_방사선작업종사자 건강진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1495,7 +1556,8 @@
             "target_local_path": "별지/별지10_사고보고(통보)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별지/별지10_사고보고(통보)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1525,7 +1587,8 @@
             "target_local_path": "별표/별표5_기록의 종류 및 보존기간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 방사선 안전관리규정/별표/별표5_기록의 종류 및 보존기간.hwp"
           }
         ],
         "images": [],
@@ -1557,7 +1620,9 @@
             "source_provision_id": "admrul:관세청방사선안전관리규정#JO0027",
             "reference_id": "law:공무원재해보상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 재해보상법/법률/공무원 재해보상법.json"
+            "target_git_path_guess": "공무원 재해보상법/법률/공무원 재해보상법.json",
+            "target_git_path": "공무원 재해보상법/법률/공무원 재해보상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

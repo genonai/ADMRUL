@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0001",
             "reference_id": "law:부가가치세법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0001",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0001",
             "reference_id": "law:부가가치세법시행령#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -149,7 +155,8 @@
             "target_local_path": "별지/별지1_수입세금계산서(수입자 보관용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입세금계산서 교부에 관한 고시/별지/별지1_수입세금계산서(수입자 보관용).hwp"
           },
           {
             "relation_type": "citation",
@@ -169,7 +176,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -189,7 +198,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -209,7 +220,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:관세법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +242,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -249,7 +264,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:소득세법#JO0163",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -279,7 +296,8 @@
             "target_local_path": "별지/별지1의2_수입계산서(수입자 보관용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입세금계산서 교부에 관한 고시/별지/별지1의2_수입계산서(수입자 보관용).hwp"
           },
           {
             "relation_type": "citation",
@@ -299,7 +317,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -319,7 +339,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:부가가치세법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -339,7 +361,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -359,7 +383,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:관세법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -379,7 +405,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0002",
             "reference_id": "law:관세법#JO0106",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -411,7 +439,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0003",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -441,7 +471,8 @@
             "target_local_path": "별지/별지2_수입세금계산서 수정교부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입세금계산서 교부에 관한 고시/별지/별지2_수입세금계산서 수정교부 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -507,7 +538,8 @@
             "target_local_path": "별지/별지3_수입세금계산서 재교부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입세금계산서 교부에 관한 고시/별지/별지3_수입세금계산서 재교부 신청서.hwp"
           }
         ],
         "images": [],
@@ -573,7 +605,8 @@
             "target_local_path": "별지/별지4_수입세금계산서 일괄교부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입세금계산서 교부에 관한 고시/별지/별지4_수입세금계산서 일괄교부 신청서.hwp"
           }
         ],
         "images": [],
@@ -605,7 +638,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0006",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -625,7 +660,9 @@
             "source_provision_id": "admrul:수입세금계산서교부에관한고시#JO0006",
             "reference_id": "law:관세법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -679,7 +716,8 @@
             "target_local_path": "별지/별지4의2_월별납부서단위의 수입세금계산서교부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입세금계산서 교부에 관한 고시/별지/별지4의2_월별납부서단위의 수입세금계산서교부 신청서.hwp"
           }
         ],
         "images": [],
@@ -745,7 +783,8 @@
             "target_local_path": "별지/별지5_전자수입세금계산서 교부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입세금계산서 교부에 관한 고시/별지/별지5_전자수입세금계산서 교부 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",

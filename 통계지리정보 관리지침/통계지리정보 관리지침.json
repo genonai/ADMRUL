@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:통계지리정보관리지침#JO0001",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -255,7 +257,8 @@
             "target_local_path": "별지/별지1_통계지리정보서비스 장애발생 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통계지리정보 관리지침/별지/별지1_통계지리정보서비스 장애발생 대장.hwp"
           }
         ],
         "images": [],

@@ -195,7 +195,9 @@
             "source_provision_id": "admrul:사적국외여행에관한훈령#JO0005",
             "reference_id": "law:군인사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -215,7 +217,9 @@
             "source_provision_id": "admrul:사적국외여행에관한훈령#JO0005",
             "reference_id": "law:군인사법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -235,7 +239,9 @@
             "source_provision_id": "admrul:사적국외여행에관한훈령#JO0005",
             "reference_id": "law:군인사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -255,7 +261,9 @@
             "source_provision_id": "admrul:사적국외여행에관한훈령#JO0005",
             "reference_id": "law:군인사법#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -285,7 +293,8 @@
             "target_local_path": "별지/별지2_국외여행 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사적 국외여행에 관한 훈령/별지/별지2_국외여행 계획서.hwp"
           },
           {
             "relation_type": "internal_ref",

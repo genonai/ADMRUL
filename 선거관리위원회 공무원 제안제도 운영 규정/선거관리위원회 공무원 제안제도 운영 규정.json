@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0002",
             "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/법률/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정.json"
+            "target_git_path_guess": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/법률/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정.json",
+            "target_git_path": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/법률/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -153,7 +155,8 @@
             "target_local_path": "별지/별지1_(아이디어, 실시, 공모) 제안서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지1_(아이디어, 실시, 공모) 제안서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -219,7 +222,8 @@
             "target_local_path": "별지/별지2_제안서 접수대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지2_제안서 접수대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -249,7 +253,8 @@
             "target_local_path": "별지/별지3_공무원 제안 접수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지3_공무원 제안 접수증.hwp"
           }
         ],
         "images": [],
@@ -406,7 +411,8 @@
             "target_local_path": "별지/별지4_제안에 대한 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지4_제안에 대한 의견서.hwp"
           }
         ],
         "images": [],
@@ -472,7 +478,8 @@
             "target_local_path": "별지/별지4_제안에 대한 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지4_제안에 대한 의견서.hwp"
           },
           {
             "relation_type": "citation",
@@ -492,7 +499,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0015",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -512,7 +521,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0015",
             "reference_id": "law:실용신안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "실용신안법/법률/실용신안법.json"
+            "target_git_path_guess": "실용신안법/법률/실용신안법.json",
+            "target_git_path": "실용신안법/법률/실용신안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -532,7 +543,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0015",
             "reference_id": "law:디자인보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json"
+            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json",
+            "target_git_path": "디자인보호법/법률/디자인보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -552,7 +565,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0015",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -620,7 +635,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0017",
             "reference_id": "law:선거관리위원회공무원규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json"
+            "target_git_path_guess": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json",
+            "target_git_path": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -640,7 +657,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0017",
             "reference_id": "law:선거관리위원회공무원규칙#JO0135",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json"
+            "target_git_path_guess": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json",
+            "target_git_path": "선거관리위원회 공무원 규칙/법률/선거관리위원회 공무원 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -706,7 +725,8 @@
             "target_local_path": "별지/별지5_재심사 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지5_재심사 요청서.hwp"
           }
         ],
         "images": [],
@@ -772,7 +792,8 @@
             "target_local_path": "별지/별지6_재심사 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지6_재심사 의견서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1282,7 +1303,8 @@
             "target_local_path": "별표/별표1_인사상의 특전 부여 기준표(제21조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별표/별표1_인사상의 특전 부여 기준표(제21조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1312,7 +1334,8 @@
             "target_local_path": "별지/별지7_인사상 특전 부여 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지7_인사상 특전 부여 요청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1414,7 +1437,8 @@
             "target_local_path": "별표/별표2_상여금 지급 기준액표(제23조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별표/별표2_상여금 지급 기준액표(제23조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -1470,7 +1494,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0024",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1524,7 +1550,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0027",
             "reference_id": "law:발명진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "발명진흥법/법률/발명진흥법.json"
+            "target_git_path_guess": "발명진흥법/법률/발명진흥법.json",
+            "target_git_path": "발명진흥법/법률/발명진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1544,7 +1572,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0027",
             "reference_id": "law:발명진흥법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "발명진흥법/법률/발명진흥법.json"
+            "target_git_path_guess": "발명진흥법/법률/발명진흥법.json",
+            "target_git_path": "발명진흥법/법률/발명진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1564,7 +1594,9 @@
             "source_provision_id": "admrul:선거관리위원회공무원제안제도운영규정#JO0027",
             "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/법률/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정.json"
+            "target_git_path_guess": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/법률/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정.json",
+            "target_git_path": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/법률/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1642,7 +1674,8 @@
             "target_local_path": "별지/별지8_제안관리 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선거관리위원회 공무원 제안제도 운영 규정/별지/별지8_제안관리 기록부.hwp"
           }
         ],
         "images": [],

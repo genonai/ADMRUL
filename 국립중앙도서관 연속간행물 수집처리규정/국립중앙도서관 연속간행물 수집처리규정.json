@@ -127,7 +127,9 @@
             "source_provision_id": "admrul:국립중앙도서관연속간행물수집처리규정#JO0004",
             "reference_id": "law:도서관법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +149,9 @@
             "source_provision_id": "admrul:국립중앙도서관연속간행물수집처리규정#JO0004",
             "reference_id": "law:도서관법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -224,7 +228,8 @@
             "target_local_path": "별지/별지1_인계자료목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙도서관 연속간행물 수집처리규정/별지/별지1_인계자료목록.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -302,7 +307,8 @@
             "target_local_path": "별지/별지1_인계자료목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙도서관 연속간행물 수집처리규정/별지/별지1_인계자료목록.hwp"
           }
         ],
         "images": [],

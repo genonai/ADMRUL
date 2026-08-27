@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:관세피해업종이차보전지원사업운영규정#JO0001",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:관세피해업종이차보전지원사업운영규정#JO0001",
             "reference_id": "law:대외무역법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:관세피해업종이차보전지원사업운영규정#JO0002",
             "reference_id": "law:산업기술혁신촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술혁신촉진법/법률/산업기술혁신촉진법.json"
+            "target_git_path_guess": "산업기술혁신촉진법/법률/산업기술혁신촉진법.json",
+            "target_git_path": "산업기술혁신 촉진법/법률/산업기술혁신 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:관세피해업종이차보전지원사업운영규정#JO0002",
             "reference_id": "law:산업기술혁신촉진법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술혁신촉진법/법률/산업기술혁신촉진법.json"
+            "target_git_path_guess": "산업기술혁신촉진법/법률/산업기술혁신촉진법.json",
+            "target_git_path": "산업기술혁신 촉진법/법률/산업기술혁신 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -394,7 +402,8 @@
             "target_local_path": "별지/별지1_관세피해 업종 이차보전 지원사업 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세피해 업종 이차보전 지원사업 운영규정/별지/별지1_관세피해 업종 이차보전 지원사업 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -484,7 +493,8 @@
             "target_local_path": "별지/별지2_관세피해 업종 이차보전 지원사업 신청서류 사전 검토서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세피해 업종 이차보전 지원사업 운영규정/별지/별지2_관세피해 업종 이차보전 지원사업 신청서류 사전 검토서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -574,7 +584,8 @@
             "target_local_path": "별표/별표1_추천 대상 선정 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세피해 업종 이차보전 지원사업 운영규정/별표/별표1_추천 대상 선정 심사기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -604,7 +615,8 @@
             "target_local_path": "별지/별지3_관세피해 업종 이차보전 지원사업 지원대상 심사결과 및 추천안.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세피해 업종 이차보전 지원사업 운영규정/별지/별지3_관세피해 업종 이차보전 지원사업 지원대상 심사결과 및 추천안.hwp"
           }
         ],
         "images": [],
@@ -670,7 +682,8 @@
             "target_local_path": "별지/별지4_관세피해 업종 이차보전 지원사업 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세피해 업종 이차보전 지원사업 운영규정/별지/별지4_관세피해 업종 이차보전 지원사업 추천서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1216,7 +1229,8 @@
             "target_local_path": "별지/별지5_관세피해 업종 이차보전 지원사업 이차보전금 산출 총괄표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세피해 업종 이차보전 지원사업 운영규정/별지/별지5_관세피해 업종 이차보전 지원사업 이차보전금 산출 총괄표.hwp"
           }
         ],
         "images": [],

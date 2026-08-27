@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양오염방지관리인교육비고시#JO0001",
             "reference_id": "law:해양환경관리법#JO0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양오염방지관리인교육비고시#JO0001",
             "reference_id": "law:해양환경관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json"
+            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_git_path": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:해양오염방지관리인교육비고시#JO0001",
             "reference_id": "law:해양환경관리법시행규칙#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json"
+            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_git_path": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:해양오염방지관리인교육비고시#JO0002",
             "reference_id": "law:해양환경관리법#JO0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:해양오염방지관리인교육비고시#JO0002",
             "reference_id": "law:해양환경관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json"
+            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_git_path": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:해양오염방지관리인교육비고시#JO0002",
             "reference_id": "law:해양환경관리법시행규칙#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json"
+            "target_git_path_guess": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_git_path": "해양환경관리법/시행규칙/해양환경관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +221,8 @@
             "target_local_path": "별표/별표1_해양오염방지관리인 교육비.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염방지관리인 교육비 고시/별표/별표1_해양오염방지관리인 교육비.hwp"
           }
         ],
         "images": [],

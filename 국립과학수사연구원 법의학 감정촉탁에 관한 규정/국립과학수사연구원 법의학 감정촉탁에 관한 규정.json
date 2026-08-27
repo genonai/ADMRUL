@@ -148,7 +148,8 @@
             "target_local_path": "별지/별지1_동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과학수사연구원 법의학 감정촉탁에 관한 규정/별지/별지1_동의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -178,7 +179,8 @@
             "target_local_path": "별지/별지2_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과학수사연구원 법의학 감정촉탁에 관한 규정/별지/별지2_서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -208,7 +210,8 @@
             "target_local_path": "별지/별지3_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과학수사연구원 법의학 감정촉탁에 관한 규정/별지/별지3_위촉장.hwp"
           }
         ],
         "images": [],
@@ -298,7 +301,9 @@
             "source_provision_id": "admrul:국립과학수사연구원법의학감정촉탁에관한규정#JO0007",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -318,7 +323,9 @@
             "source_provision_id": "admrul:국립과학수사연구원법의학감정촉탁에관한규정#JO0007",
             "reference_id": "law:국가재정법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

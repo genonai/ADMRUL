@@ -186,7 +186,9 @@
             "source_provision_id": "admrul:근무실적평가제도운영지침#DOC",
             "reference_id": "law:전문경력관규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문경력관 규정/법률/전문경력관 규정.json"
+            "target_git_path_guess": "전문경력관 규정/법률/전문경력관 규정.json",
+            "target_git_path": "전문경력관 규정/법률/전문경력관 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +208,9 @@
             "source_provision_id": "admrul:근무실적평가제도운영지침#DOC",
             "reference_id": "law:정부업무평가기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json"
+            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -260,7 +264,8 @@
             "target_local_path": "별지/별지1_이의신청 및 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별지/별지1_이의신청 및 결정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -290,7 +295,8 @@
             "target_local_path": "별표/별표2_근무실적평가 평가자 및 확인자.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별표/별표2_근무실적평가 평가자 및 확인자.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -320,7 +326,8 @@
             "target_local_path": "별표/별표1_근무실적평가 단위.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별표/별표1_근무실적평가 단위.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -350,7 +357,8 @@
             "target_local_path": "별표/별표2_근무실적평가 평가자 및 확인자.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별표/별표2_근무실적평가 평가자 및 확인자.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -380,7 +388,8 @@
             "target_local_path": "별표/별표3_평가대상 인원수에 따른 평가등급별 인원 배분표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별표/별표3_평가대상 인원수에 따른 평가등급별 인원 배분표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -410,7 +419,8 @@
             "target_local_path": "별표/별표4_평가순위별 평가점수표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별표/별표4_평가순위별 평가점수표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -440,7 +450,8 @@
             "target_local_path": "별지/별지1_이의신청 및 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별지/별지1_이의신청 및 결정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -470,7 +481,8 @@
             "target_local_path": "별지/별지1_이의신청 및 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "근무실적평가제도 운영지침/별지/별지1_이의신청 및 결정서.hwp"
           }
         ],
         "images": [

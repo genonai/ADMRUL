@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:병역판정검사직원복제규정#JO0002",
             "reference_id": "law:병역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:병역판정검사직원복제규정#JO0002",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "admrul:병역판정검사직원복제규정#JO0002",
             "reference_id": "law:병역법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -143,7 +149,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:병역법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_git_file_path": "병역법/시행령/별표/별표1_병역판정검사 직원의 구성, 임명권자 및 임무(제12조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -196,7 +205,8 @@
             "target_local_path": "별표/별표1_병역판정검사직원 근무복(제4조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병역판정검사직원 복제 규정/별표/별표1_병역판정검사직원 근무복(제4조제1항 관련).hwp"
           }
         ],
         "images": [],

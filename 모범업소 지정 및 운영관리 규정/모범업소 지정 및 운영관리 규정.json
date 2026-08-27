@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0001",
             "reference_id": "law:식품위생법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0001",
             "reference_id": "law:식품위생법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/시행규칙/식품위생법 시행규칙.json"
+            "target_git_path_guess": "식품위생법/시행규칙/식품위생법 시행규칙.json",
+            "target_git_path": "식품위생법/시행규칙/식품위생법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0001",
             "reference_id": "law:식품위생법시행규칙#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/시행규칙/식품위생법 시행규칙.json"
+            "target_git_path_guess": "식품위생법/시행규칙/식품위생법 시행규칙.json",
+            "target_git_path": "식품위생법/시행규칙/식품위생법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0002",
             "reference_id": "law:식품위생법#JO0088",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0002",
             "reference_id": "law:식품위생법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/시행령/식품위생법 시행령.json"
+            "target_git_path_guess": "식품위생법/시행령/식품위생법 시행령.json",
+            "target_git_path": "식품위생법/시행령/식품위생법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0002",
             "reference_id": "law:식품위생법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/시행령/식품위생법 시행령.json"
+            "target_git_path_guess": "식품위생법/시행령/식품위생법 시행령.json",
+            "target_git_path": "식품위생법/시행령/식품위생법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -298,7 +310,8 @@
             "target_local_path": "별표/별표1_모범업소 세부 지정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/별표/별표1_모범업소 세부 지정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -328,7 +341,8 @@
             "target_local_path": "별표/별표4_「좋은식단」이행기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/별표/별표4_「좋은식단」이행기준.hwp"
           }
         ],
         "images": [],
@@ -370,7 +384,8 @@
             "target_local_path": "서식/서식1_모범업소 지정신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/서식/서식1_모범업소 지정신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -426,7 +441,8 @@
             "target_local_path": "별표/별표1_모범업소 세부 지정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/별표/별표1_모범업소 세부 지정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -456,7 +472,8 @@
             "target_local_path": "별표/별표4_「좋은식단」이행기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/별표/별표4_「좋은식단」이행기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -512,7 +529,8 @@
             "target_local_path": "별표/별표1_모범업소 세부 지정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/별표/별표1_모범업소 세부 지정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -542,7 +560,8 @@
             "target_local_path": "별표/별표4_「좋은식단」이행기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/별표/별표4_「좋은식단」이행기준.hwp"
           },
           {
             "relation_type": "citation",
@@ -562,7 +581,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0011",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -582,7 +603,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0011",
             "reference_id": "law:식품위생법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -602,7 +625,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0011",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -622,7 +647,9 @@
             "source_provision_id": "admrul:모범업소지정및운영관리규정#JO0011",
             "reference_id": "law:식품위생법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -652,7 +679,8 @@
             "target_local_path": "서식/서식2_모범업소 지정증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/서식/서식2_모범업소 지정증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -682,7 +710,8 @@
             "target_local_path": "별표/별표3_모범업소 표지판 규격 및 도안.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모범업소 지정 및 운영관리 규정/별표/별표3_모범업소 표지판 규격 및 도안.hwp"
           }
         ],
         "images": [],

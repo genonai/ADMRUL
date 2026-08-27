@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:행정안전부직원휴양시설이용규정#JO0004",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 수당 등에 관한 규정/법률/공무원 수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 수당 등에 관한 규정/법률/공무원 수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -120,7 +122,9 @@
             "source_provision_id": "admrul:행정안전부직원휴양시설이용규정#JO0004",
             "reference_id": "law:공무원수당등에관한규정#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 수당 등에 관한 규정/법률/공무원 수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 수당 등에 관한 규정/법률/공무원 수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "서식/서식1_콘도미니엄 이용신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 직원휴양시설 이용규정/서식/서식1_콘도미니엄 이용신청서.hwp"
           }
         ],
         "images": [],
@@ -204,7 +209,8 @@
             "target_local_path": "서식/서식2_콘도미니엄 이용 취소신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 직원휴양시설 이용규정/서식/서식2_콘도미니엄 이용 취소신청서.hwp"
           }
         ],
         "images": [],
@@ -257,7 +263,8 @@
             "target_local_path": "서식/서식3_콘도미니엄 이용 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 직원휴양시설 이용규정/서식/서식3_콘도미니엄 이용 관리대장.hwp"
           }
         ],
         "images": [],

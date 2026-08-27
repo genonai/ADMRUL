@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:재외공무원의료지원의실시에관한예규#JO0001",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:재외공무원의료지원의실시에관한예규#JO0001",
             "reference_id": "law:외무공무원법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -329,7 +333,8 @@
             "target_local_path": "별지/별지1_전지(귀국)치료 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "재외공무원 의료지원의 실시에 관한 예규/별지/별지1_전지(귀국)치료 의견서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -574,7 +579,8 @@
             "target_local_path": "별지/별지2_보험료 지급신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "재외공무원 의료지원의 실시에 관한 예규/별지/별지2_보험료 지급신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -604,7 +610,8 @@
             "target_local_path": "별지/별지3_실의료비 지급 청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "재외공무원 의료지원의 실시에 관한 예규/별지/별지3_실의료비 지급 청구서.hwp"
           }
         ],
         "images": [],

@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:자체순환전보운영지침#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:자체순환전보운영지침#JO0002",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -208,7 +212,8 @@
             "target_local_path": "별표/별표1_민원 업무(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자체 순환전보 운영지침/별표/별표1_민원 업무(제7조 관련).hwp"
           }
         ],
         "images": [],
@@ -334,7 +339,8 @@
             "target_local_path": "별표/별표2_행정 6급 순환전보 관련 회의 결과(순번 포함) 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자체 순환전보 운영지침/별표/별표2_행정 6급 순환전보 관련 회의 결과(순번 포함) 보고.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -364,7 +370,8 @@
             "target_local_path": "별표/별표3_행정 7·8급 순환전보 관련 회의 결과 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "자체 순환전보 운영지침/별표/별표3_행정 7·8급 순환전보 관련 회의 결과 보고.hwp"
           }
         ],
         "images": [],

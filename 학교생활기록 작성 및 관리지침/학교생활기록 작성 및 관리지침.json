@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0001",
             "reference_id": "law:초중등교육법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json"
+            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_git_path": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0001",
             "reference_id": "law:초중등교육법시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json"
+            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_git_path": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0002",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0002",
             "reference_id": "law:초중등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -203,7 +211,8 @@
             "target_local_path": "별지/별지1_학교생활기록부(학교생활기록부Ⅰ) _초등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지1_학교생활기록부(학교생활기록부Ⅰ) _초등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -233,7 +242,8 @@
             "target_local_path": "별지/별지2_학교생활기록부(학교생활기록부Ⅰ) 특수교육 기본 교육과정을 적용받는 학생 _초등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지2_학교생활기록부(학교생활기록부Ⅰ) 특수교육 기본 교육과정을 적용받는 학생 _초등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -263,7 +273,8 @@
             "target_local_path": "별지/별지3_학교생활기록부(학교생활기록부Ⅰ) _중학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지3_학교생활기록부(학교생활기록부Ⅰ) _중학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -293,7 +304,8 @@
             "target_local_path": "별지/별지4_학교생활기록부(학교생활기록부Ⅰ) 특수교육 기본 교육과정을 적용받는 학생 _중학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지4_학교생활기록부(학교생활기록부Ⅰ) 특수교육 기본 교육과정을 적용받는 학생 _중학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -323,7 +335,8 @@
             "target_local_path": "별지/별지5_학교생활기록부(학교생활기록부Ⅰ) _고등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지5_학교생활기록부(학교생활기록부Ⅰ) _고등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -353,7 +366,8 @@
             "target_local_path": "별지/별지6_학교생활기록부(학교생활기록부Ⅰ) 특수교육 기본 교육과정을 적용받는 학생 _고등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지6_학교생활기록부(학교생활기록부Ⅰ) 특수교육 기본 교육과정을 적용받는 학생 _고등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -383,7 +397,8 @@
             "target_local_path": "별지/별지7_학교생활세부사항기록부(학교생활기록부Ⅱ) _초등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지7_학교생활세부사항기록부(학교생활기록부Ⅱ) _초등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -413,7 +428,8 @@
             "target_local_path": "별지/별지8_학교생활세부사항기록부(학교생활기록부Ⅱ) 특수교육 기본 교육과정을 적용받는 학생 _초등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지8_학교생활세부사항기록부(학교생활기록부Ⅱ) 특수교육 기본 교육과정을 적용받는 학생 _초등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -443,7 +459,8 @@
             "target_local_path": "별지/별지9_학교생활세부사항기록부(학교생활기록부Ⅱ) _중학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지9_학교생활세부사항기록부(학교생활기록부Ⅱ) _중학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -473,7 +490,8 @@
             "target_local_path": "별지/별지10_학교생활세부사항기록부(학교생활기록부Ⅱ) 특수교육 기본 교육과정을 적용받는 학생 _중학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지10_학교생활세부사항기록부(학교생활기록부Ⅱ) 특수교육 기본 교육과정을 적용받는 학생 _중학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -503,7 +521,8 @@
             "target_local_path": "별지/별지11_학교생활세부사항기록부(학교생활기록부Ⅱ) _고등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지11_학교생활세부사항기록부(학교생활기록부Ⅱ) _고등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -533,7 +552,8 @@
             "target_local_path": "별지/별지12_학교생활세부사항기록부(학교생활기록부Ⅱ) 특수교육 기본 교육과정을 적용받는 학생 _고등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지12_학교생활세부사항기록부(학교생활기록부Ⅱ) 특수교육 기본 교육과정을 적용받는 학생 _고등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -563,7 +583,8 @@
             "target_local_path": "별지/별지1_학교생활기록부(학교생활기록부Ⅰ) _초등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지1_학교생활기록부(학교생활기록부Ⅰ) _초등학교_.hwp"
           }
         ],
         "images": [],
@@ -616,7 +637,8 @@
             "target_local_path": "별표/별표7_학적처리에 사용하는 용어.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별표/별표7_학적처리에 사용하는 용어.hwp"
           }
         ],
         "images": [],
@@ -648,7 +670,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0008",
             "reference_id": "law:초중등교육법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json"
+            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
+            "target_git_path": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -668,7 +692,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0008",
             "reference_id": "law:초중등교육법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json"
+            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
+            "target_git_path": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -698,7 +724,8 @@
             "target_local_path": "별표/별표8_출결상황 관리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별표/별표8_출결상황 관리.hwp"
           }
         ],
         "images": [],
@@ -741,7 +768,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0010",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -761,7 +790,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0010",
             "reference_id": "law:자격기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자격기본법/법률/자격기본법.json"
+            "target_git_path_guess": "자격기본법/법률/자격기본법.json",
+            "target_git_path": "자격기본법/법률/자격기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -839,7 +870,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0013",
             "reference_id": "law:학교체육진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교체육 진흥법/법률/학교체육 진흥법.json"
+            "target_git_path_guess": "학교체육 진흥법/법률/학교체육 진흥법.json",
+            "target_git_path": "학교체육 진흥법/법률/학교체육 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -859,7 +892,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0013",
             "reference_id": "law:학교체육진흥법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교체육 진흥법/법률/학교체육 진흥법.json"
+            "target_git_path_guess": "학교체육 진흥법/법률/학교체육 진흥법.json",
+            "target_git_path": "학교체육 진흥법/법률/학교체육 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -948,7 +983,8 @@
             "target_local_path": "별표/별표9_교과학습발달상황 평가 및 관리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별표/별표9_교과학습발달상황 평가 및 관리.hwp"
           }
         ],
         "images": [],
@@ -1013,7 +1049,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0016_02",
             "reference_id": "law:학교폭력예방및대책에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1033,7 +1071,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0016_02",
             "reference_id": "law:학교폭력예방및대책에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1076,7 +1116,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1096,7 +1138,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1116,7 +1160,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1136,7 +1182,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1156,7 +1204,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1176,7 +1226,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1196,7 +1248,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1216,7 +1270,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:초중등교육법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json"
+            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_git_path": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1236,7 +1292,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:초중등교육법시행규칙#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json"
+            "target_git_path_guess": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_git_path": "초ㆍ중등교육법/시행규칙/초ㆍ중등교육법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1256,7 +1314,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력 예방 및 대책에 관한 법률/법률/학교폭력 예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력 예방 및 대책에 관한 법률/법률/학교폭력 예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1276,7 +1336,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력 예방 및 대책에 관한 법률/법률/학교폭력 예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력 예방 및 대책에 관한 법률/법률/학교폭력 예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1296,7 +1358,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1316,7 +1380,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1336,7 +1402,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1356,7 +1424,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1376,7 +1446,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1396,7 +1468,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1416,7 +1490,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1436,7 +1512,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0018",
             "reference_id": "law:학교폭력예방및대책에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json"
+            "target_git_path_guess": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_git_path": "학교폭력예방 및 대책에 관한 법률/법률/학교폭력예방 및 대책에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1478,7 +1556,8 @@
             "target_local_path": "별표/별표10_학교생활기록부 정정대장 기재 및 관리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별표/별표10_학교생활기록부 정정대장 기재 및 관리.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1532,7 +1611,8 @@
             "target_local_path": "별표/별표10_학교생활기록부 정정대장 기재 및 관리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별표/별표10_학교생활기록부 정정대장 기재 및 관리.hwp"
           },
           {
             "relation_type": "citation",
@@ -1552,7 +1632,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0019",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1572,7 +1654,9 @@
             "source_provision_id": "admrul:학교생활기록작성및관리지침#JO0019",
             "reference_id": "law:초중등교육법#JO0030_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1602,7 +1686,8 @@
             "target_local_path": "별지/별지1_학교생활기록부(학교생활기록부Ⅰ) _초등학교_.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별지/별지1_학교생활기록부(학교생활기록부Ⅰ) _초등학교_.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1632,7 +1717,8 @@
             "target_local_path": "별표/별표10_학교생활기록부 정정대장 기재 및 관리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별표/별표10_학교생활기록부 정정대장 기재 및 관리.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1698,7 +1784,8 @@
             "target_local_path": "별표/별표11_개인정보(진로 관련 사항) 수집ㆍ이용 및 제3자 제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "학교생활기록 작성 및 관리지침/별표/별표11_개인정보(진로 관련 사항) 수집ㆍ이용 및 제3자 제공 동의서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:가금이외의조류수입위생조건#JO0001",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:가금이외의조류수입위생조건#JO0001",
             "reference_id": "law:가축전염병예방법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:가금이외의조류수입위생조건#JO0002",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:가금이외의조류수입위생조건#JO0002",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -239,7 +247,8 @@
             "target_local_path": "별표/별표1_검사 방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가금이외의 조류 수입위생조건/별표/별표1_검사 방법.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +278,8 @@
             "target_local_path": "별표/별표2_수출수수별 시료의 수.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가금이외의 조류 수입위생조건/별표/별표2_수출수수별 시료의 수.hwp"
           }
         ],
         "images": [],

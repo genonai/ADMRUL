@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:수용자청원처리지침#JO0001",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0117",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:수용자청원처리지침#JO0001",
             "reference_id": "law:형의집행및수용자의처우에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행령/형의 집행 및 수용자의 처우에 관한 법률 시행령.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행령/형의 집행 및 수용자의 처우에 관한 법률 시행령.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/시행령/형의 집행 및 수용자의 처우에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:수용자청원처리지침#JO0001",
             "reference_id": "law:형의집행및수용자의처우에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행령/형의 집행 및 수용자의 처우에 관한 법률 시행령.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행령/형의 집행 및 수용자의 처우에 관한 법률 시행령.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/시행령/형의 집행 및 수용자의 처우에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -160,7 +166,8 @@
             "target_local_path": "별지/별지1_청원부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지1_청원부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -190,7 +197,8 @@
             "target_local_path": "별지/별지2_청원 접수증명원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지2_청원 접수증명원.hwp"
           }
         ],
         "images": [],
@@ -243,7 +251,8 @@
             "target_local_path": "별지/별지2_청원 접수증명원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지2_청원 접수증명원.hwp"
           }
         ],
         "images": [],
@@ -296,7 +305,8 @@
             "target_local_path": "별표/별표1_원격화상조사 방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별표/별표1_원격화상조사 방법.hwp"
           }
         ],
         "images": [],
@@ -382,7 +392,8 @@
             "target_local_path": "별지/별지3_청원 처리결과 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지3_청원 처리결과 통지서.hwp"
           }
         ],
         "images": [],
@@ -446,7 +457,8 @@
             "target_local_path": "별지/별지6_고충해소 종결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지6_고충해소 종결서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -476,7 +488,8 @@
             "target_local_path": "별지/별지7_고충해소종결 처리결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지7_고충해소종결 처리결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -518,7 +531,8 @@
             "target_local_path": "별지/별지4_결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지4_결정서.hwp"
           }
         ],
         "images": [],
@@ -571,7 +585,8 @@
             "target_local_path": "별지/별지5_청원취하서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수용자 청원 처리지침/별지/별지5_청원취하서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0001",
             "reference_id": "law:청원경찰법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0001",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0001",
             "reference_id": "law:청원경찰법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -204,7 +210,8 @@
             "target_local_path": "별지/별지1_청원경찰 징계의결 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지1_청원경찰 징계의결 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -234,7 +241,8 @@
             "target_local_path": "별지/별지4_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지4_확인서.hwp"
           }
         ],
         "images": [],
@@ -324,7 +332,8 @@
             "target_local_path": "별표/별표2_징계의결 요구기준(제7조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별표/별표2_징계의결 요구기준(제7조의2 관련).hwp"
           }
         ],
         "images": [],
@@ -377,7 +386,8 @@
             "target_local_path": "별지/별지2_출석통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지2_출석통지서.hwp"
           }
         ],
         "images": [],
@@ -430,7 +440,8 @@
             "target_local_path": "별표/별표3_징계기준(제11조 제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별표/별표3_징계기준(제11조 제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -508,7 +519,8 @@
             "target_local_path": "별지/별지5_징계의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지5_징계의결서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -622,7 +634,8 @@
             "target_local_path": "별지/별지5_징계의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지5_징계의결서.hwp"
           }
         ],
         "images": [],
@@ -690,7 +703,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0015",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -710,7 +725,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0015",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -730,7 +747,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0015",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -750,7 +769,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0015",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -770,7 +791,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0015",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -790,7 +813,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0015",
             "reference_id": "law:도로교통법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -820,7 +845,8 @@
             "target_local_path": "별표/별표1_징계의 감경기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별표/별표1_징계의 감경기준.hwp"
           }
         ],
         "images": [],
@@ -852,7 +878,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0016",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -872,7 +900,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0016",
             "reference_id": "law:공무원임용령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -892,7 +922,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0016",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -912,7 +944,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0016",
             "reference_id": "law:공무원임용령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -965,7 +999,8 @@
             "target_local_path": "별지/별지6_징계처분사유설명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지6_징계처분사유설명서.hwp"
           }
         ],
         "images": [],
@@ -1018,7 +1053,8 @@
             "target_local_path": "별지/별지8_징계처분 재심청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지8_징계처분 재심청구서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1096,7 +1132,8 @@
             "target_local_path": "별지/별지9_재심결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지9_재심결정서.hwp"
           }
         ],
         "images": [],
@@ -1149,7 +1186,8 @@
             "target_local_path": "별지/별지7_징계처리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙전파관리소 청원경찰징계세칙/별지/별지7_징계처리 대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -1169,7 +1207,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0021",
             "reference_id": "law:공무원인사기록통계및인사사무처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사기록·통계 및 인사사무 처리 규정/법률/공무원 인사기록·통계 및 인사사무 처리 규정.json"
+            "target_git_path_guess": "공무원 인사기록·통계 및 인사사무 처리 규정/법률/공무원 인사기록·통계 및 인사사무 처리 규정.json",
+            "target_git_path": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1189,7 +1229,9 @@
             "source_provision_id": "admrul:중앙전파관리소청원경찰징계세칙#JO0021",
             "reference_id": "law:공무원인사기록통계및인사사무처리규정#JO0037_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사기록·통계 및 인사사무 처리 규정/법률/공무원 인사기록·통계 및 인사사무 처리 규정.json"
+            "target_git_path_guess": "공무원 인사기록·통계 및 인사사무 처리 규정/법률/공무원 인사기록·통계 및 인사사무 처리 규정.json",
+            "target_git_path": "공무원 인사기록ㆍ통계 및 인사사무 처리 규정/법률/공무원 인사기록ㆍ통계 및 인사사무 처리 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

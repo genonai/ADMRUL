@@ -110,7 +110,8 @@
             "target_local_path": "별표/별표1_위원장 결재사항에 대한 위임전결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙선거관리위원회 위임전결규정/별표/별표1_위원장 결재사항에 대한 위임전결사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -140,7 +141,8 @@
             "target_local_path": "별표/별표2_상임위원 결재사항에 대한 위임전결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙선거관리위원회 위임전결규정/별표/별표2_상임위원 결재사항에 대한 위임전결사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +172,8 @@
             "target_local_path": "별표/별표3_사무총장 결재사항에 대한 위임전결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙선거관리위원회 위임전결규정/별표/별표3_사무총장 결재사항에 대한 위임전결사항.hwp"
           }
         ],
         "images": [],
@@ -359,7 +362,9 @@
         "source_provision_id": "admrul:중앙선거관리위원회위임전결규정#DOC",
         "reference_id": "law:선거관리위원회사무관리규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json"
+        "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+        "target_git_path": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -379,7 +384,9 @@
         "source_provision_id": "admrul:중앙선거관리위원회위임전결규정#DOC",
         "reference_id": "law:선거관리위원회사무관리규칙#JO0018",
         "target_repo": "LAW",
-        "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json"
+        "target_git_path_guess": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+        "target_git_path": "선거관리위원회 사무관리규칙/법률/선거관리위원회 사무관리규칙.json",
+        "target_source_repository": "LAW"
       }
     ]
   },

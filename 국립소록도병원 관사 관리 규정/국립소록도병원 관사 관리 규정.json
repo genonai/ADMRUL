@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립소록도병원관사관리규정#JO0001",
             "reference_id": "law:국유재산법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립소록도병원관사관리규정#JO0001",
             "reference_id": "law:국유재산법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -165,7 +169,8 @@
             "target_local_path": "별지/별지1_관사 입주 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 관사 관리 규정/별지/별지1_관사 입주 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -195,7 +200,8 @@
             "target_local_path": "별표/별표1_관사 구분 기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 관사 관리 규정/별표/별표1_관사 구분 기준표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -225,7 +231,8 @@
             "target_local_path": "별지/별지2_관사 입주 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 관사 관리 규정/별지/별지2_관사 입주 서약서.hwp"
           }
         ],
         "images": [],
@@ -419,7 +426,8 @@
             "target_local_path": "별지/별지3_관사 계속 사용신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 관사 관리 규정/별지/별지3_관사 계속 사용신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -497,7 +505,8 @@
             "target_local_path": "별지/별지4_관사 반환 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 관사 관리 규정/별지/별지4_관사 반환 신청서.hwp"
           }
         ],
         "images": [],
@@ -539,7 +548,8 @@
             "target_local_path": "별지/별지5_관사 관리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소록도병원 관사 관리 규정/별지/별지5_관사 관리 대장.hwp"
           }
         ],
         "images": [],

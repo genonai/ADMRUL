@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:수입또는반입이가능한국제적멸종위기종(조류,포유류)#JO0001",
             "reference_id": "law:야생생물보호및관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json",
+            "target_git_path": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:수입또는반입이가능한국제적멸종위기종(조류,포유류)#JO0001",
             "reference_id": "law:야생생물보호및관리에관한법률시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json",
+            "target_git_path": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,8 @@
             "target_unit": "BYL0004",
             "reference_id": "law:야생생물보호및관리에관한법률시행령#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "야생생물 보호 및 관리에 관한 법률/시행령/야생생물 보호 및 관리에 관한 법률 시행령.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

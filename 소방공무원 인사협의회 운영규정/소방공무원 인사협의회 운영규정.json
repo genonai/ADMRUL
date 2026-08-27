@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:소방공무원인사협의회운영규정#JO0001",
             "reference_id": "law:소방공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:소방공무원인사협의회운영규정#JO0001",
             "reference_id": "law:소방공무원임용령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -197,7 +201,8 @@
             "target_local_path": "별지/별지1_소방공무원 인사협의회 심의·의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 인사협의회 운영규정/별지/별지1_소방공무원 인사협의회 심의·의결서.hwp"
           }
         ],
         "images": [],
@@ -297,7 +302,8 @@
             "target_local_path": "별지/별지2_시ㆍ도 소방공무원 인사실무협의회 심의의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 인사협의회 운영규정/별지/별지2_시ㆍ도 소방공무원 인사실무협의회 심의의뢰서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -327,7 +333,8 @@
             "target_local_path": "별지/별지3_시ㆍ도 소방공무원 인사실무협의회 심의의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 인사협의회 운영규정/별지/별지3_시ㆍ도 소방공무원 인사실무협의회 심의의결서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -357,7 +364,8 @@
             "target_local_path": "별지/별지4_소방청 소방공무원 인사실무협의회 심의의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 인사협의회 운영규정/별지/별지4_소방청 소방공무원 인사실무협의회 심의의결서.hwp"
           }
         ],
         "images": [],

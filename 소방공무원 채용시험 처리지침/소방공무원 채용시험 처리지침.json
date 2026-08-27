@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -126,7 +132,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -146,7 +154,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -171,7 +181,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:소방공무원임용령#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_git_file_path": "소방공무원 임용령/법률/별표/별표3_소방공무원 공개경쟁채용시험의 필기시험과목표(제44조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -201,7 +214,8 @@
             "target_local_path": "별표/별표4_고등학교의 소방 관련 과목.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표4_고등학교의 소방 관련 과목.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -231,7 +245,8 @@
             "target_local_path": "별표/별표5_소방공무원 체력시험 측정방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표5_소방공무원 체력시험 측정방법.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -261,7 +276,8 @@
             "target_local_path": "별표/별표1_소방학개론의 범위.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표1_소방학개론의 범위.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -286,7 +302,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:소방공무원임용령#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_git_file_path": "소방공무원 임용령/법률/별표/별표5_소방공무원 경력경쟁채용시험등의 필기시험 과목 및 배점(제44조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -316,7 +335,8 @@
             "target_local_path": "별표/별표2_응급처치학개론의 범위.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표2_응급처치학개론의 범위.hwp"
           },
           {
             "relation_type": "citation",
@@ -336,7 +356,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -361,7 +383,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:소방공무원임용령시행규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_git_file_path": "소방공무원 임용령/시행규칙/별표/별표4_경력경쟁채용시험등 응시자격 교육과정기준표(제19조제2항 및 제23조제3항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -391,7 +416,8 @@
             "target_local_path": "별표/별표3_(전문)대학교의 소방 관련 과목.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표3_(전문)대학교의 소방 관련 과목.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -421,7 +447,8 @@
             "target_local_path": "별표/별표4_고등학교의 소방 관련 과목.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표4_고등학교의 소방 관련 과목.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -451,7 +478,8 @@
             "target_local_path": "별지/별지1_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지1_서약서.hwp"
           },
           {
             "relation_type": "citation",
@@ -471,7 +499,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -491,7 +521,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -511,7 +543,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -541,7 +575,8 @@
             "target_local_path": "별지/별지2_합격증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지2_합격증명서.hwp"
           },
           {
             "relation_type": "citation",
@@ -561,7 +596,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -581,7 +618,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -601,7 +640,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:개인정보보호법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -631,7 +672,8 @@
             "target_local_path": "별지/별지3_개인정보 수집·이용 및 제3자 제공 동의서(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지3_개인정보 수집·이용 및 제3자 제공 동의서(예시).hwp"
           },
           {
             "relation_type": "citation",
@@ -651,7 +693,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -671,7 +715,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -691,7 +737,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -711,7 +759,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -731,7 +781,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원교육훈련규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원 교육훈련규정/법률/소방공무원 교육훈련규정.json"
+            "target_git_path_guess": "소방공무원 교육훈련규정/법률/소방공무원 교육훈련규정.json",
+            "target_git_path": "소방공무원 교육훈련규정/법률/소방공무원 교육훈련규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -751,7 +803,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원교육훈련규정#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원 교육훈련규정/법률/소방공무원 교육훈련규정.json"
+            "target_git_path_guess": "소방공무원 교육훈련규정/법률/소방공무원 교육훈련규정.json",
+            "target_git_path": "소방공무원 교육훈련규정/법률/소방공무원 교육훈련규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -771,7 +825,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -791,7 +847,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -811,7 +869,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -831,7 +891,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -851,7 +913,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -871,7 +935,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -891,7 +957,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -911,7 +979,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -931,7 +1001,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -951,7 +1023,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:국가공무원법#JO0045_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -971,7 +1045,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -991,7 +1067,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1021,7 +1099,8 @@
             "target_local_path": "별표/별표5_소방공무원 체력시험 측정방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표5_소방공무원 체력시험 측정방법.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1051,7 +1130,8 @@
             "target_local_path": "별지/별지4_소방공무원 체력시험 채점표 (남자).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지4_소방공무원 체력시험 채점표 (남자).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1081,7 +1161,8 @@
             "target_local_path": "별지/별지5_소방공무원 체력시험 채점표 (여자).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지5_소방공무원 체력시험 채점표 (여자).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1111,7 +1192,8 @@
             "target_local_path": "별표/별표6_소방공무원 채용시험 도핑테스트 안내문.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표6_소방공무원 채용시험 도핑테스트 안내문.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1141,7 +1223,8 @@
             "target_local_path": "별지/별지6_도핑테스트 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지6_도핑테스트 동의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1171,7 +1254,8 @@
             "target_local_path": "별지/별지7_치료목적사용 면책신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지7_치료목적사용 면책신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1201,7 +1285,8 @@
             "target_local_path": "별지/별지7_치료목적사용 면책신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지7_치료목적사용 면책신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1221,7 +1306,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1241,7 +1328,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1261,7 +1350,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1281,7 +1372,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1311,7 +1404,8 @@
             "target_local_path": "별지/별지8_소방공무원 채용 신체검사서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지8_소방공무원 채용 신체검사서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1341,7 +1435,8 @@
             "target_local_path": "별표/별표7_소방공무원 신체검사의 불합격 판정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표7_소방공무원 신체검사의 불합격 판정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1371,7 +1466,8 @@
             "target_local_path": "별표/별표8_소방공무원 면접시험 실시기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별표/별표8_소방공무원 면접시험 실시기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1401,7 +1497,8 @@
             "target_local_path": "별지/별지9_소방공무원 채용 면접시험 평정표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지9_소방공무원 채용 면접시험 평정표.hwp"
           },
           {
             "relation_type": "citation",
@@ -1421,7 +1518,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1441,7 +1540,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:공공기관의운영에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1461,7 +1562,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1481,7 +1584,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령시행규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json"
+            "target_git_path_guess": "소방공무원임용령/시행규칙/소방공무원임용령 시행규칙.json",
+            "target_git_path": "소방공무원 임용령/시행규칙/소방공무원 임용령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1511,7 +1616,8 @@
             "target_local_path": "별지/별지10_소방공무원 경력경쟁채용 근무경력 사실 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지10_소방공무원 경력경쟁채용 근무경력 사실 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1541,7 +1647,8 @@
             "target_local_path": "별지/별지11_경력경쟁채용 증빙서류 세부목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지11_경력경쟁채용 증빙서류 세부목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1571,7 +1678,8 @@
             "target_local_path": "별지/별지3_개인정보 수집·이용 및 제3자 제공 동의서(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지3_개인정보 수집·이용 및 제3자 제공 동의서(예시).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1601,7 +1709,8 @@
             "target_local_path": "별지/별지12_근무경력 사실 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지12_근무경력 사실 확인서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1621,7 +1730,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1641,7 +1752,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1661,7 +1774,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1681,7 +1796,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1701,7 +1818,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1731,7 +1850,8 @@
             "target_local_path": "별지/별지13_동일계통학과 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지13_동일계통학과 증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1761,7 +1881,8 @@
             "target_local_path": "별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1791,7 +1912,8 @@
             "target_local_path": "별지/별지15_외부 참관인 체크리스트(서류전형).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지15_외부 참관인 체크리스트(서류전형).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1821,7 +1943,8 @@
             "target_local_path": "별지/별지16_외부 참관인 체크리스트(면접시험).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지16_외부 참관인 체크리스트(면접시험).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1851,7 +1974,8 @@
             "target_local_path": "별지/별지15_외부 참관인 체크리스트(서류전형).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지15_외부 참관인 체크리스트(서류전형).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1881,7 +2005,8 @@
             "target_local_path": "별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1911,7 +2036,8 @@
             "target_local_path": "별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1941,7 +2067,8 @@
             "target_local_path": "별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원 채용시험 처리지침/별지/별지14_소방청 경력경쟁채용등 자체점검 결과.hwp"
           },
           {
             "relation_type": "citation",
@@ -1961,7 +2088,9 @@
             "source_provision_id": "admrul:소방공무원채용시험처리지침#DOC",
             "reference_id": "law:소방공무원임용령#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json"
+            "target_git_path_guess": "소방공무원임용령/법률/소방공무원임용령.json",
+            "target_git_path": "소방공무원 임용령/법률/소방공무원 임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [

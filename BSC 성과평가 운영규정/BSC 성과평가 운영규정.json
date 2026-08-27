@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:BSC성과평가운영규정#JO0001",
             "reference_id": "law:정부업무평가기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json"
+            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -211,7 +213,8 @@
             "target_local_path": "별표/별표1_성과평가 항목별 배점.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "BSC 성과평가 운영규정/별표/별표1_성과평가 항목별 배점.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -288,7 +291,8 @@
             "target_local_path": "별표/별표1_성과평가 항목별 배점.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "BSC 성과평가 운영규정/별표/별표1_성과평가 항목별 배점.hwp"
           }
         ],
         "images": [],
@@ -341,7 +345,8 @@
             "target_local_path": "별표/별표1_성과평가 항목별 배점.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "BSC 성과평가 운영규정/별표/별표1_성과평가 항목별 배점.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -371,7 +376,8 @@
             "target_local_path": "별지/별지1_BSC 성과평가 최종점수 이의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "BSC 성과평가 운영규정/별지/별지1_BSC 성과평가 최종점수 이의신청서.hwp"
           }
         ],
         "images": [],

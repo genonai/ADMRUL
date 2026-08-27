@@ -76,9 +76,13 @@
             "target_url": "https://www.law.go.kr/법령/공용차량 관리 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:고위공직자범죄수사처공용차량운영규정#JO0002",
-            "reference_id": "law:공용차량관리규정#DOC",
+            "reference_id": "SchlPubRul:공용차량관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공용차량 관리 규정/법률/공용차량 관리 규정.json"
+            "target_git_path_guess": "공용차량 관리 규정/법률/공용차량 관리 규정.json",
+            "target_git_path": "공용차량 관리규정/공용차량 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -153,7 +157,8 @@
             "target_local_path": "별지/별지1_업무용 차량 사용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 공용차량 운영규정/별지/별지1_업무용 차량 사용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -183,7 +188,8 @@
             "target_local_path": "별지/별지1_업무용 차량 사용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 공용차량 운영규정/별지/별지1_업무용 차량 사용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -213,7 +219,8 @@
             "target_local_path": "별지/별지1_업무용 차량 사용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 공용차량 운영규정/별지/별지1_업무용 차량 사용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -243,7 +250,8 @@
             "target_local_path": "별지/별지2_업무용 차량 사용 승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 공용차량 운영규정/별지/별지2_업무용 차량 사용 승인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -273,7 +281,8 @@
             "target_local_path": "별지/별지1_업무용 차량 사용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 공용차량 운영규정/별지/별지1_업무용 차량 사용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -303,7 +312,8 @@
             "target_local_path": "별지/별지2_업무용 차량 사용 승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 공용차량 운영규정/별지/별지2_업무용 차량 사용 승인서.hwp"
           }
         ],
         "images": [],
@@ -368,7 +378,9 @@
             "source_provision_id": "admrul:고위공직자범죄수사처공용차량운영규정#JO0009",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -421,7 +433,8 @@
             "target_local_path": "별지/별지3_차량 운행 일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고위공직자범죄수사처 공용차량 운영규정/별지/별지3_차량 운행 일지.hwp"
           }
         ],
         "images": [],

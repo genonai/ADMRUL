@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:종자검사요령#JO0001",
             "reference_id": "law:종자산업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "종자산업법/법률/종자산업법.json"
+            "target_git_path_guess": "종자산업법/법률/종자산업법.json",
+            "target_git_path": "종자산업법/법률/종자산업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:종자검사요령#JO0001",
             "reference_id": "law:종자산업법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "종자산업법/법률/종자산업법.json"
+            "target_git_path_guess": "종자산업법/법률/종자산업법.json",
+            "target_git_path": "종자산업법/법률/종자산업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:종자검사요령#JO0001",
             "reference_id": "law:종자산업법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "종자산업법/법률/종자산업법.json"
+            "target_git_path_guess": "종자산업법/법률/종자산업법.json",
+            "target_git_path": "종자산업법/법률/종자산업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:종자검사요령#JO0001",
             "reference_id": "law:종자산업법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "종자산업법/법률/종자산업법.json"
+            "target_git_path_guess": "종자산업법/법률/종자산업법.json",
+            "target_git_path": "종자산업법/법률/종자산업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:종자검사요령#JO0001",
             "reference_id": "law:종자산업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "종자산업법/시행규칙/종자산업법 시행규칙.json"
+            "target_git_path_guess": "종자산업법/시행규칙/종자산업법 시행규칙.json",
+            "target_git_path": "종자산업법/시행규칙/종자산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:종자검사요령#JO0001",
             "reference_id": "law:종자산업법시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "종자산업법/시행규칙/종자산업법 시행규칙.json"
+            "target_git_path_guess": "종자산업법/시행규칙/종자산업법 시행규칙.json",
+            "target_git_path": "종자산업법/시행규칙/종자산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -493,7 +505,8 @@
             "target_local_path": "별표/별표1_포장검사 병주 판정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표1_포장검사 병주 판정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -523,7 +536,8 @@
             "target_local_path": "별지/별지1_포장검사부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지1_포장검사부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -553,7 +567,8 @@
             "target_local_path": "별지/별지1_포장검사부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지1_포장검사부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -583,7 +598,8 @@
             "target_local_path": "별지/별지1_포장검사부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지1_포장검사부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -613,7 +629,8 @@
             "target_local_path": "별지/별지1_포장검사부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지1_포장검사부.hwp"
           }
         ],
         "images": [
@@ -770,7 +787,8 @@
             "target_local_path": "별표/별표2_시료 추출 (Sampling).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표2_시료 추출 (Sampling).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -868,7 +886,8 @@
             "target_local_path": "별표/별표2_시료 추출 (Sampling).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표2_시료 추출 (Sampling).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -898,7 +917,8 @@
             "target_local_path": "별표/별표2_시료 추출 (Sampling).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표2_시료 추출 (Sampling).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -928,7 +948,8 @@
             "target_local_path": "별표/별표2_시료 추출 (Sampling).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표2_시료 추출 (Sampling).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -958,7 +979,8 @@
             "target_local_path": "별지/별지6_시료 채취 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지6_시료 채취 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -988,7 +1010,8 @@
             "target_local_path": "별지/별지7_시료관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지7_시료관리대장.hwp"
           }
         ],
         "images": [
@@ -1067,7 +1090,8 @@
             "target_local_path": "별표/별표3_수분의 측정(Determination of moisture content ).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표3_수분의 측정(Determination of moisture content ).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1097,7 +1121,8 @@
             "target_local_path": "별표/별표3_수분의 측정(Determination of moisture content ).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표3_수분의 측정(Determination of moisture content ).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1127,7 +1152,8 @@
             "target_local_path": "별표/별표3_수분의 측정(Determination of moisture content ).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표3_수분의 측정(Determination of moisture content ).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1157,7 +1183,8 @@
             "target_local_path": "별표/별표3_수분의 측정(Determination of moisture content ).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표3_수분의 측정(Determination of moisture content ).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1187,7 +1214,8 @@
             "target_local_path": "별표/별표3_수분의 측정(Determination of moisture content ).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표3_수분의 측정(Determination of moisture content ).hwp"
           }
         ],
         "images": [
@@ -1248,7 +1276,8 @@
             "target_local_path": "별표/별표4_순도분석 (purity analysis).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표4_순도분석 (purity analysis).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1278,7 +1307,8 @@
             "target_local_path": "별표/별표4_순도분석 (purity analysis).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표4_순도분석 (purity analysis).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1308,7 +1338,8 @@
             "target_local_path": "별표/별표4_순도분석 (purity analysis).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표4_순도분석 (purity analysis).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1338,7 +1369,8 @@
             "target_local_path": "별표/별표4_순도분석 (purity analysis).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표4_순도분석 (purity analysis).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1368,7 +1400,8 @@
             "target_local_path": "별표/별표2_시료 추출 (Sampling).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표2_시료 추출 (Sampling).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1398,7 +1431,8 @@
             "target_local_path": "별표/별표4_순도분석 (purity analysis).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표4_순도분석 (purity analysis).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1454,7 +1488,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1484,7 +1519,8 @@
             "target_local_path": "별표/별표4_순도분석 (purity analysis).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표4_순도분석 (purity analysis).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1514,7 +1550,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1544,7 +1581,8 @@
             "target_local_path": "별표/별표2_시료 추출 (Sampling).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표2_시료 추출 (Sampling).hwp"
           }
         ],
         "images": [
@@ -1623,7 +1661,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1653,7 +1692,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1683,7 +1723,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1713,7 +1754,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1743,7 +1785,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1773,7 +1816,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1803,7 +1847,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1833,7 +1878,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1863,7 +1909,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1893,7 +1940,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1923,7 +1971,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1953,7 +2002,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1983,7 +2033,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2013,7 +2064,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2043,7 +2095,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2073,7 +2126,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2103,7 +2157,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2133,7 +2188,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2163,7 +2219,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2193,7 +2250,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2223,7 +2281,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2253,7 +2312,8 @@
             "target_local_path": "별표/별표6_활력의 생화학적 검정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표6_활력의 생화학적 검정.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2283,7 +2343,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2313,7 +2374,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2343,7 +2405,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2373,7 +2436,8 @@
             "target_local_path": "별지/별지5_발아검정 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지5_발아검정 대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2403,7 +2467,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2433,7 +2498,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2463,7 +2529,8 @@
             "target_local_path": "별표/별표5_발아검정(The germination test).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표5_발아검정(The germination test).hwp"
           }
         ],
         "images": [],
@@ -2505,7 +2572,8 @@
             "target_local_path": "별표/별표6_활력의 생화학적 검정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표6_활력의 생화학적 검정.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2535,7 +2603,8 @@
             "target_local_path": "별표/별표6_활력의 생화학적 검정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표6_활력의 생화학적 검정.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2565,7 +2634,8 @@
             "target_local_path": "별표/별표6_활력의 생화학적 검정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표6_활력의 생화학적 검정.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2595,7 +2665,8 @@
             "target_local_path": "별표/별표6_활력의 생화학적 검정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표6_활력의 생화학적 검정.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2625,7 +2696,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           }
         ],
         "images": [],
@@ -2689,7 +2761,8 @@
             "target_local_path": "별표/별표11_과수 바이러스·바이로이드 검정방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표11_과수 바이러스·바이로이드 검정방법.hwp"
           }
         ],
         "images": [],
@@ -2824,7 +2897,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2854,7 +2928,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           }
         ],
         "images": [
@@ -2924,7 +2999,8 @@
             "target_local_path": "별표/별표9_보증표시의 분류번호.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표9_보증표시의 분류번호.hwp"
           }
         ],
         "images": [],
@@ -2966,7 +3042,8 @@
             "target_local_path": "별지/별지2_포장검사 결과통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지2_포장검사 결과통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2996,7 +3073,8 @@
             "target_local_path": "별표/별표8_허용범위 (許容範圍 Tolerance).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별표/별표8_허용범위 (許容範圍 Tolerance).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3026,7 +3104,8 @@
             "target_local_path": "별지/별지3_종자검사부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지3_종자검사부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3056,7 +3135,8 @@
             "target_local_path": "별지/별지3_종자검사부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "종자검사요령/별지/별지3_종자검사부.hwp"
           },
           {
             "relation_type": "internal_ref",

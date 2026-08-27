@@ -88,7 +88,8 @@
             "target_local_path": "별표/별표1_동물용의약품중 배합사료 제조시 첨가하는 항생물질제제 및 항균제 등의 사용기준 및 허용량.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "배합사료 제조용 동물용의약품등 사용기준/별표/별표1_동물용의약품중 배합사료 제조시 첨가하는 항생물질제제 및 항균제 등의 사용기준 및 허용량.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -118,7 +119,8 @@
             "target_local_path": "별표/별표1_동물용의약품중 배합사료 제조시 첨가하는 항생물질제제 및 항균제 등의 사용기준 및 허용량.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "배합사료 제조용 동물용의약품등 사용기준/별표/별표1_동물용의약품중 배합사료 제조시 첨가하는 항생물질제제 및 항균제 등의 사용기준 및 허용량.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -148,7 +150,8 @@
             "target_local_path": "별표/별표3_사용기준 및 허용량.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "배합사료 제조용 동물용의약품등 사용기준/별표/별표3_사용기준 및 허용량.hwp"
           }
         ],
         "images": [],
@@ -190,7 +193,8 @@
             "target_local_path": "별표/별표2_대상배합사료.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "배합사료 제조용 동물용의약품등 사용기준/별표/별표2_대상배합사료.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -220,7 +224,8 @@
             "target_local_path": "별표/별표2_대상배합사료.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "배합사료 제조용 동물용의약품등 사용기준/별표/별표2_대상배합사료.hwp"
           }
         ],
         "images": [],
@@ -252,7 +257,9 @@
             "source_provision_id": "admrul:배합사료제조용동물용의약품등사용기준#JO0004",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -272,7 +279,9 @@
             "source_provision_id": "admrul:배합사료제조용동물용의약품등사용기준#JO0004",
             "reference_id": "law:동물용의약품등취급규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물용의약품등 취급규칙/법률/동물용의약품등 취급규칙.json"
+            "target_git_path_guess": "동물용의약품등 취급규칙/법률/동물용의약품등 취급규칙.json",
+            "target_git_path": "동물용 의약품등 취급규칙/법률/동물용 의약품등 취급규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:인삼종자종묘검사실시요령#JO0001",
             "reference_id": "law:인삼산업법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "인삼산업법/법률/인삼산업법.json"
+            "target_git_path_guess": "인삼산업법/법률/인삼산업법.json",
+            "target_git_path": "인삼산업법/법률/인삼산업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:인삼종자종묘검사실시요령#JO0001",
             "reference_id": "law:인삼산업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json"
+            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_git_path": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:인삼종자종묘검사실시요령#JO0001",
             "reference_id": "law:인삼산업법시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json"
+            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_git_path": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -172,7 +178,9 @@
             "source_provision_id": "admrul:인삼종자종묘검사실시요령#JO0005",
             "reference_id": "law:인삼산업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json"
+            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_git_path": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -195,9 +203,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:인삼종자종묘검사실시요령#JO0005",
             "target_unit": "BJ0014",
-            "reference_id": "law:인삼산업법시행규칙#BJ0014",
+            "reference_id": "law:인삼산업법시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json"
+            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_git_path": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_git_file_path": "인삼산업법/시행규칙/서식/서식14_인삼(종자, 종묘)검사신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -250,7 +261,8 @@
             "target_local_path": "별표/별표1_검사 기준 및 방법(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별표/별표1_검사 기준 및 방법(제7조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -280,7 +292,8 @@
             "target_local_path": "별지/별지1_인삼종자 검사성적서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별지/별지1_인삼종자 검사성적서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -310,7 +323,8 @@
             "target_local_path": "별지/별지2_인삼종묘 검사성적서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별지/별지2_인삼종묘 검사성적서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -340,7 +354,8 @@
             "target_local_path": "별지/별지3_인삼 종자·종묘 검사 결과통보.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별지/별지3_인삼 종자·종묘 검사 결과통보.hwp"
           }
         ],
         "images": [],
@@ -382,7 +397,8 @@
             "target_local_path": "별지/별지4_인삼종자·종묘검사 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별지/별지4_인삼종자·종묘검사 증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -412,7 +428,8 @@
             "target_local_path": "별표/별표2_검사결과 표시 및 봉인.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별표/별표2_검사결과 표시 및 봉인.hwp"
           }
         ],
         "images": [],
@@ -535,7 +552,9 @@
             "source_provision_id": "admrul:인삼종자종묘검사실시요령#JO0015",
             "reference_id": "law:인삼산업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json"
+            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_git_path": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -555,7 +574,9 @@
             "source_provision_id": "admrul:인삼종자종묘검사실시요령#JO0015",
             "reference_id": "law:인삼산업법시행규칙#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json"
+            "target_git_path_guess": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_git_path": "인삼산업법/시행규칙/인삼산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -597,7 +618,8 @@
             "target_local_path": "별지/별지5_인삼종자ㆍ종묘검사 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별지/별지5_인삼종자ㆍ종묘검사 관리대장.hwp"
           }
         ],
         "images": [],
@@ -639,7 +661,8 @@
             "target_local_path": "별지/별지6_인삼종자·종묘검사 결과보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인삼종자·종묘검사 실시요령/별지/별지6_인삼종자·종묘검사 결과보고.hwp"
           }
         ],
         "images": [],

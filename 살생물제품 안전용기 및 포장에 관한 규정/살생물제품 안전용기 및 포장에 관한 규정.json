@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:살생물제품안전용기및포장에관한규정#JO0001",
             "reference_id": "law:생활화학제품및살생물제의안전관리에관한법률#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "생활화학제품 및 살생물제의 안전관리에 관한 법률/법률/생활화학제품 및 살생물제의 안전관리에 관한 법률.json"
+            "target_git_path_guess": "생활화학제품 및 살생물제의 안전관리에 관한 법률/법률/생활화학제품 및 살생물제의 안전관리에 관한 법률.json",
+            "target_git_path": "생활화학제품 및 살생물제의 안전관리에 관한 법률/법률/생활화학제품 및 살생물제의 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:살생물제품안전용기및포장에관한규정#JO0001",
             "reference_id": "law:생활화학제품및살생물제의안전관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "생활화학제품 및 살생물제의 안전관리에 관한 법률/시행규칙/생활화학제품 및 살생물제의 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "생활화학제품 및 살생물제의 안전관리에 관한 법률/시행규칙/생활화학제품 및 살생물제의 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "생활화학제품 및 살생물제의 안전관리에 관한 법률/시행규칙/생활화학제품 및 살생물제의 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:살생물제품안전용기및포장에관한규정#JO0001",
             "reference_id": "law:생활화학제품및살생물제의안전관리에관한법률시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "생활화학제품 및 살생물제의 안전관리에 관한 법률/시행규칙/생활화학제품 및 살생물제의 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "생활화학제품 및 살생물제의 안전관리에 관한 법률/시행규칙/생활화학제품 및 살생물제의 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "생활화학제품 및 살생물제의 안전관리에 관한 법률/시행규칙/생활화학제품 및 살생물제의 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -160,7 +166,8 @@
             "target_local_path": "별표/별표1_살생물제품의 안전용기 및 포장에 관한 일반적인 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "살생물제품 안전용기 및 포장에 관한 규정/별표/별표1_살생물제품의 안전용기 및 포장에 관한 일반적인 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -190,7 +197,8 @@
             "target_local_path": "별표/별표2_어린이보호포장에 관한 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "살생물제품 안전용기 및 포장에 관한 규정/별표/별표2_어린이보호포장에 관한 기준.hwp"
           }
         ],
         "images": [],

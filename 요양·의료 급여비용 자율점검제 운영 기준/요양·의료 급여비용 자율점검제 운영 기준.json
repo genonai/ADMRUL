@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:요양의료급여비용자율점검제운영기준#JO0001",
             "reference_id": "law:국민건강보험법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:요양의료급여비용자율점검제운영기준#JO0001",
             "reference_id": "law:국민건강보험법시행령#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:국민건강보험법시행령#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_git_file_path": "국민건강보험법/시행령/별표/별표5_업무정지 처분 및 과징금 부과의 기준(제70조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -132,7 +139,9 @@
             "source_provision_id": "admrul:요양의료급여비용자율점검제운영기준#JO0001",
             "reference_id": "law:의료급여법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -152,7 +161,9 @@
             "source_provision_id": "admrul:요양의료급여비용자율점검제운영기준#JO0001",
             "reference_id": "law:의료급여법시행령#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -177,7 +188,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:의료급여법시행령#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_file_path": "의료급여법/시행령/별표/별표2_행정처분의 기준(제16조의2 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +211,9 @@
             "source_provision_id": "admrul:요양의료급여비용자율점검제운영기준#JO0001",
             "reference_id": "law:의료급여법시행령#JO0016_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -222,7 +238,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:의료급여법시행령#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_file_path": "의료급여법/시행령/별표/별표3_과징금 부과 기준(제16조의4 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -346,7 +365,8 @@
             "target_local_path": "별지/별지1_자율점검대상통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "요양·의료 급여비용 자율점검제 운영 기준/별지/별지1_자율점검대상통보서.hwp"
           }
         ],
         "images": [],
@@ -412,7 +432,8 @@
             "target_local_path": "별지/별지2_자율점검결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "요양·의료 급여비용 자율점검제 운영 기준/별지/별지2_자율점검결과서.hwp"
           }
         ],
         "images": [],
@@ -744,7 +765,9 @@
             "source_provision_id": "admrul:요양의료급여비용자율점검제운영기준#JO0010",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -764,7 +787,9 @@
             "source_provision_id": "admrul:요양의료급여비용자율점검제운영기준#JO0010",
             "reference_id": "law:국민건강보험법#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

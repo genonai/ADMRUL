@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0001",
             "reference_id": "law:공무원제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -121,7 +123,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0004",
             "reference_id": "law:공무원제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -144,9 +148,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0004",
             "target_unit": "BJ0001",
-            "reference_id": "law:공무원제안규정시행규칙#BJ0001",
+            "reference_id": "law:공무원제안규정시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_file_path": "공무원 제안 규정/시행규칙/서식/서식1_공무원제안서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -176,7 +183,8 @@
             "target_local_path": "별지/별지1_공동제안 업무분담내용 기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지1_공동제안 업무분담내용 기술서.hwp"
           },
           {
             "relation_type": "citation",
@@ -196,7 +204,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0004",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -216,7 +226,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0004",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -306,7 +318,8 @@
             "target_local_path": "별지/별지2_제안접수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지2_제안접수증.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -350,7 +363,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0005",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -370,7 +385,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0005",
             "reference_id": "law:공무원제안규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -423,7 +440,8 @@
             "target_local_path": "별표/별표1_제안심사 배점 기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별표/별표1_제안심사 배점 기준표.hwp"
           }
         ],
         "images": [],
@@ -455,7 +473,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0008",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,7 +495,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0008",
             "reference_id": "law:실용신안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "실용신안법/법률/실용신안법.json"
+            "target_git_path_guess": "실용신안법/법률/실용신안법.json",
+            "target_git_path": "실용신안법/법률/실용신안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -495,7 +517,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0008",
             "reference_id": "law:디자인보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json"
+            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json",
+            "target_git_path": "디자인보호법/법률/디자인보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -515,7 +539,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0008",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -577,7 +603,8 @@
             "target_local_path": "별지/별지3_심사위원평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지3_심사위원평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -607,7 +634,8 @@
             "target_local_path": "별표/별표2_채택여부 결정 및 불채택제안의 재심 결정 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별표/별표2_채택여부 결정 및 불채택제안의 재심 결정 기준.hwp"
           },
           {
             "relation_type": "citation",
@@ -627,7 +655,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0009",
             "reference_id": "law:공무원제안규정#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -657,7 +687,8 @@
             "target_local_path": "별지/별지4_관련 실ㆍ국 검토의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지4_관련 실ㆍ국 검토의견서.hwp"
           },
           {
             "relation_type": "citation",
@@ -677,7 +708,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0009",
             "reference_id": "law:공무원제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -700,9 +733,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0009",
             "target_unit": "BJ0003",
-            "reference_id": "law:공무원제안규정시행규칙#BJ0003",
+            "reference_id": "law:공무원제안규정시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_file_path": "공무원 제안 규정/시행규칙/서식/서식3_재심사 요청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -734,7 +770,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0009_02",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -754,7 +792,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0009_02",
             "reference_id": "law:공무원제안규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -774,7 +814,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0009_02",
             "reference_id": "law:공무원제안규정#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -804,7 +846,8 @@
             "target_local_path": "별지/별지5_채택제안실시계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지5_채택제안실시계획서.hwp"
           }
         ],
         "images": [],
@@ -836,7 +879,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0010",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -856,7 +901,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0010",
             "reference_id": "law:공무원제안규정#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -876,7 +923,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0010",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -896,7 +945,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0010",
             "reference_id": "law:공무원제안규정#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -916,7 +967,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0010",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -936,7 +989,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0010",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -956,7 +1011,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0010",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1009,7 +1066,8 @@
             "target_local_path": "별지/별지3_심사위원평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지3_심사위원평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1039,7 +1097,8 @@
             "target_local_path": "별표/별표3_채택제안의 등급결정 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별표/별표3_채택제안의 등급결정 기준.hwp"
           }
         ],
         "images": [],
@@ -1152,7 +1211,8 @@
             "target_local_path": "별지/별지3_심사위원평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지3_심사위원평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1182,7 +1242,8 @@
             "target_local_path": "별표/별표2_채택여부 결정 및 불채택제안의 재심 결정 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별표/별표2_채택여부 결정 및 불채택제안의 재심 결정 기준.hwp"
           }
         ],
         "images": [],
@@ -1225,7 +1286,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0015",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1245,7 +1308,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0015",
             "reference_id": "law:공무원제안규정#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1275,7 +1340,8 @@
             "target_local_path": "별지/별지6_채택제안실시성과평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지6_채택제안실시성과평가서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1295,7 +1361,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0015",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1315,7 +1383,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0015",
             "reference_id": "law:공무원제안규정#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1345,7 +1415,8 @@
             "target_local_path": "별표/별표4_행정업무 개선 성과에 대한 성과평가 배점 기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별표/별표4_행정업무 개선 성과에 대한 성과평가 배점 기준표.hwp"
           },
           {
             "relation_type": "citation",
@@ -1365,7 +1436,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0015",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1385,7 +1458,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0015",
             "reference_id": "law:공무원제안규정#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1415,7 +1490,8 @@
             "target_local_path": "별지/별지7_제안실시평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 공무원제안제도 운영규정/별지/별지7_제안실시평가서.hwp"
           }
         ],
         "images": [],
@@ -1458,7 +1534,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0016",
             "reference_id": "law:공무원제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1481,9 +1559,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0016",
             "target_unit": "BJ0006",
-            "reference_id": "law:공무원제안규정시행규칙#BJ0006",
+            "reference_id": "law:공무원제안규정시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원제안 규정/시행규칙/공무원제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_file_path": "공무원 제안 규정/시행규칙/서식/서식6_공무원제안 관리기록부.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1503,7 +1584,9 @@
             "source_provision_id": "admrul:법무부공무원제안제도운영규정#JO0016",
             "reference_id": "law:공무원제안규정#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json"
+            "target_git_path_guess": "공무원제안규정/법률/공무원제안규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

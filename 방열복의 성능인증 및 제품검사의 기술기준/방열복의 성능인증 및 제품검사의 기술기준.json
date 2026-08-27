@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방열복의성능인증및제품검사의기술기준#JO0001",
             "reference_id": "law:소방시설설치및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:방열복의성능인증및제품검사의기술기준#JO0001",
             "reference_id": "law:소방시설설치및관리에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json"
+            "target_git_path_guess": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_git_path": "소방시설 설치 및 관리에 관한 법률/법률/소방시설 설치 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -183,7 +187,8 @@
             "target_local_path": "별표/별표1_연소시험장치.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방열복의 성능인증 및 제품검사의 기술기준/별표/별표1_연소시험장치.hwp"
           }
         ],
         "images": [
@@ -268,7 +273,8 @@
             "target_local_path": "별표/별표2_열방호성능시험장치.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방열복의 성능인증 및 제품검사의 기술기준/별표/별표2_열방호성능시험장치.hwp"
           }
         ],
         "images": [],
@@ -405,7 +411,8 @@
             "target_local_path": "별표/별표3_헬멧의 내관통성시험기.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방열복의 성능인증 및 제품검사의 기술기준/별표/별표3_헬멧의 내관통성시험기.hwp"
           }
         ],
         "images": [],

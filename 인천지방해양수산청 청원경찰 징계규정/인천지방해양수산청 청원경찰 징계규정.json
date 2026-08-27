@@ -111,7 +111,9 @@
             "source_provision_id": "admrul:인천지방해양수산청청원경찰징계규정#JO0004",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -131,7 +133,9 @@
             "source_provision_id": "admrul:인천지방해양수산청청원경찰징계규정#JO0004",
             "reference_id": "law:청원경찰법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json"
+            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_path": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -161,7 +165,8 @@
             "target_local_path": "서식/서식1_청원경찰 징계등 의결 요구(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인천지방해양수산청 청원경찰 징계규정/서식/서식1_청원경찰 징계등 의결 요구(신청)서.hwp"
           }
         ],
         "images": [],
@@ -214,7 +219,8 @@
             "target_local_path": "서식/서식2_출석통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인천지방해양수산청 청원경찰 징계규정/서식/서식2_출석통지서.hwp"
           }
         ],
         "images": [],
@@ -292,7 +298,8 @@
             "target_local_path": "서식/서식3_징계등 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인천지방해양수산청 청원경찰 징계규정/서식/서식3_징계등 의결서.hwp"
           }
         ],
         "images": [],
@@ -378,7 +385,8 @@
             "target_local_path": "서식/서식4_징계등 처분 사유 설명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인천지방해양수산청 청원경찰 징계규정/서식/서식4_징계등 처분 사유 설명서.hwp"
           }
         ],
         "images": [],
@@ -432,7 +440,9 @@
             "source_provision_id": "admrul:인천지방해양수산청청원경찰징계규정#JO0016",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json"
+            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

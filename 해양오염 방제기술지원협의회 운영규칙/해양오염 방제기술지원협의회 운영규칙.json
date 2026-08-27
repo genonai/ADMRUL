@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양오염방제기술지원협의회운영규칙#JO0001",
             "reference_id": "law:해양환경관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양오염방제기술지원협의회운영규칙#JO0001",
             "reference_id": "law:해양환경관리법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json"
+            "target_git_path_guess": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_git_path": "해양환경관리법/시행령/해양환경관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:해양오염방제기술지원협의회운영규칙#JO0002",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:해양오염방제기술지원협의회운영규칙#JO0002",
             "reference_id": "law:해양환경관리법#JO0062",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -192,7 +200,8 @@
             "target_local_path": "별지/별지2_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염 방제기술지원협의회 운영규칙/별지/별지2_위촉장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -222,7 +231,8 @@
             "target_local_path": "별지/별지3_위촉대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염 방제기술지원협의회 운영규칙/별지/별지3_위촉대장.hwp"
           }
         ],
         "images": [],
@@ -286,7 +296,8 @@
             "target_local_path": "별지/별지4_방제 기술지원 및 자문 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염 방제기술지원협의회 운영규칙/별지/별지4_방제 기술지원 및 자문 요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -316,7 +327,8 @@
             "target_local_path": "별지/별지5_방제기술지원협의회 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양오염 방제기술지원협의회 운영규칙/별지/별지5_방제기술지원협의회 의견서.hwp"
           }
         ],
         "images": [],

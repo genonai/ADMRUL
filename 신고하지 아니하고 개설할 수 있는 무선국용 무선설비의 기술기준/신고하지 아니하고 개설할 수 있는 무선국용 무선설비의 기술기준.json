@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0001",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0001",
             "reference_id": "law:전파법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,9 +109,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0001",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,9 +131,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제19조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0001",
-            "reference_id": "admrul:무선설비규칙#JO0019",
+            "reference_id": "law:무선설비규칙#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0002",
             "reference_id": "law:전파법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행령/전파법 시행령.json"
+            "target_git_path_guess": "전파법/시행령/전파법 시행령.json",
+            "target_git_path": "전파법/시행령/전파법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0002",
             "reference_id": "law:전파법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행령/전파법 시행령.json"
+            "target_git_path_guess": "전파법/시행령/전파법 시행령.json",
+            "target_git_path": "전파법/시행령/전파법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -231,7 +243,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0003",
             "reference_id": "law:전파법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/시행령/전파법 시행령.json"
+            "target_git_path_guess": "전파법/시행령/전파법 시행령.json",
+            "target_git_path": "전파법/시행령/전파법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -249,9 +263,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0003",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -293,7 +309,8 @@
             "target_local_path": "별표/별표1_27 ㎒대의 주파수를 사용하는 생활무선국의 주파수(제4조제1항제2호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/별표/별표1_27 ㎒대의 주파수를 사용하는 생활무선국의 주파수(제4조제1항제2호가목 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -323,7 +340,8 @@
             "target_local_path": "별표/별표2__400 ㎒대의 주파수를 사용하는 생활무선국의 주파수_(제4조제2항제1호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/별표/별표2__400 ㎒대의 주파수를 사용하는 생활무선국의 주파수_(제4조제2항제1호가목 관련).hwp"
           }
         ],
         "images": [],
@@ -365,7 +383,8 @@
             "target_local_path": "별표/별표3_미약전파무선국으로 운용할수 없는 주파수대역(제5조제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/별표/별표3_미약전파무선국으로 운용할수 없는 주파수대역(제5조제2호 관련).hwp"
           }
         ],
         "images": [
@@ -441,7 +460,8 @@
             "target_local_path": "별표/별표5_984～7484㎑ 또는 27.090～27.100㎒의 주파수를 사용하는 철도제어시스템용 무선기기의 기본파 및 대역외 발사강도의 허용범위(제5조제2항제4호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/별표/별표5_984～7484㎑ 또는 27.090～27.100㎒의 주파수를 사용하는 철도제어시스템용 무선기기의 기본파 및 대역외 발사강도의 허용범위(제5조제2항제4호가목 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -523,9 +543,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -543,9 +565,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#JO0005",
+            "reference_id": "law:무선설비규칙#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -583,9 +607,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -603,9 +629,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#JO0008",
+            "reference_id": "law:무선설비규칙#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -671,9 +699,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -691,9 +721,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#JO0005",
+            "reference_id": "law:무선설비규칙#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -711,9 +743,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제6조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#JO0006",
+            "reference_id": "law:무선설비규칙#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -731,9 +765,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#JO0008",
+            "reference_id": "law:무선설비규칙#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -775,9 +811,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -795,9 +833,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#JO0005",
+            "reference_id": "law:무선설비규칙#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -815,9 +855,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#DOC",
+            "reference_id": "law:무선설비규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -835,9 +877,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0007",
-            "reference_id": "admrul:무선설비규칙#JO0008",
+            "reference_id": "law:무선설비규칙#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "무선설비규칙/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1888,7 +1932,8 @@
             "target_local_path": "별표/별표4_TVWS 가용채널 데이터베이스 접속조건(제13조제1호마목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/별표/별표4_TVWS 가용채널 데이터베이스 접속조건(제13조제1호마목 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -1908,7 +1953,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0013",
             "reference_id": "law:재난및안전관리기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json",
+            "target_git_path": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1928,7 +1975,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0013",
             "reference_id": "law:재난및안전관리기본법시행령#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json",
+            "target_git_path": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1958,7 +2007,8 @@
             "target_local_path": "별표/별표1_27 ㎒대의 주파수를 사용하는 생활무선국의 주파수(제4조제1항제2호가목 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/별표/별표1_27 ㎒대의 주파수를 사용하는 생활무선국의 주파수(제4조제1항제2호가목 관련).hwp"
           }
         ],
         "images": [
@@ -2088,7 +2138,9 @@
             "source_provision_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#JO0015",
             "reference_id": "law:행정규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

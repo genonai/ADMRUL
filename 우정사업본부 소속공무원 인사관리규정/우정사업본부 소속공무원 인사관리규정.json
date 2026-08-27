@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0001",
             "reference_id": "law:우정사업운영에관한특례법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json"
+            "target_git_path_guess": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json",
+            "target_git_path": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0001",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0001",
             "reference_id": "law:공무원임용시험령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,9 +153,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0001",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -239,7 +249,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0003",
             "reference_id": "law:우정사업본부직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업본부 직제/법률/우정사업본부 직제.json"
+            "target_git_path_guess": "우정사업본부 직제/법률/우정사업본부 직제.json",
+            "target_git_path": "우정사업본부 직제/법률/우정사업본부 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -259,7 +271,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0003",
             "reference_id": "law:우정사업본부직제#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업본부 직제/법률/우정사업본부 직제.json"
+            "target_git_path_guess": "우정사업본부 직제/법률/우정사업본부 직제.json",
+            "target_git_path": "우정사업본부 직제/법률/우정사업본부 직제.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -291,7 +305,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0004",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -311,7 +327,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0004",
             "reference_id": "law:공무원임용령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -341,7 +359,8 @@
             "target_local_path": "별표/별표2_우정직공무원의 직급·계급 구분 및 직종별 직무구분(제4조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표2_우정직공무원의 직급·계급 구분 및 직종별 직무구분(제4조 관련).hwp"
           }
         ],
         "images": [],
@@ -406,7 +425,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0008",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -460,7 +481,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0011",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -480,7 +503,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0011",
             "reference_id": "law:국가공무원법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -500,7 +525,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0011",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -520,7 +547,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0011",
             "reference_id": "law:국가공무원법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -550,7 +579,8 @@
             "target_local_path": "별표/별표3_우정직공무원의 경력경쟁채용등을 위한 자격증 구분표(제11조·제13조·제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표3_우정직공무원의 경력경쟁채용등을 위한 자격증 구분표(제11조·제13조·제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -603,7 +633,8 @@
             "target_local_path": "별표/별표3_우정직공무원의 경력경쟁채용등을 위한 자격증 구분표(제11조·제13조·제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표3_우정직공무원의 경력경쟁채용등을 위한 자격증 구분표(제11조·제13조·제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -635,7 +666,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0014",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -655,7 +688,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0014",
             "reference_id": "law:공무원임용령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -685,7 +720,8 @@
             "target_local_path": "별표/별표3_우정직공무원의 경력경쟁채용등을 위한 자격증 구분표(제11조·제13조·제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표3_우정직공무원의 경력경쟁채용등을 위한 자격증 구분표(제11조·제13조·제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -727,7 +763,8 @@
             "target_local_path": "별표/별표4_우정직공무원의 시험과목(제15조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표4_우정직공무원의 시험과목(제15조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -747,7 +784,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0015",
             "reference_id": "law:공무원임용시험령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -767,7 +806,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0015",
             "reference_id": "law:공무원임용시험령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -797,7 +838,8 @@
             "target_local_path": "별표/별표4_우정직공무원의 시험과목(제15조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표4_우정직공무원의 시험과목(제15조 관련).hwp"
           }
         ],
         "images": [],
@@ -873,7 +915,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0019",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -893,7 +937,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0019",
             "reference_id": "law:공무원임용령#JO0035_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -936,7 +982,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0021",
             "reference_id": "law:정부표창규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -956,7 +1004,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0021",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -976,7 +1026,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0021",
             "reference_id": "law:모범공무원규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "모범공무원 규정/법률/모범공무원 규정.json"
+            "target_git_path_guess": "모범공무원 규정/법률/모범공무원 규정.json",
+            "target_git_path": "모범공무원 규정/법률/모범공무원 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1052,7 +1104,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0023",
             "reference_id": "law:공무원인재개발법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1072,7 +1126,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0023",
             "reference_id": "law:공무원인재개발법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1125,7 +1181,8 @@
             "target_local_path": "별표/별표7_전보필수기간 기준표(제24조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표7_전보필수기간 기준표(제24조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -1157,7 +1214,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0025",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1177,7 +1236,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0025",
             "reference_id": "law:공무원임용령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1207,7 +1268,8 @@
             "target_local_path": "별표/별표8_“실ㆍ국 단위”의 구분(제25조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표8_“실ㆍ국 단위”의 구분(제25조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1237,7 +1299,8 @@
             "target_local_path": "별표/별표9__직무가 유사한 직위_의 범위(제25조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표9__직무가 유사한 직위_의 범위(제25조제1항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -1257,7 +1320,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0025",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1277,7 +1342,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0025",
             "reference_id": "law:국가공무원법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1355,7 +1422,8 @@
             "target_local_path": "별표/별표19_성비위자 인사상 불이익 조치(제26조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표19_성비위자 인사상 불이익 조치(제26조의2 관련).hwp"
           }
         ],
         "images": [],
@@ -1442,7 +1510,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0032",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1462,7 +1532,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0032",
             "reference_id": "law:국가공무원법#JO0073_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1515,7 +1587,8 @@
             "target_local_path": "별표/별표10_신규임용자 보직경로(제34조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표10_신규임용자 보직경로(제34조제1항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -1535,7 +1608,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0034",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1555,7 +1630,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0034",
             "reference_id": "law:공무원임용령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1597,7 +1674,8 @@
             "target_local_path": "별표/별표11__외국어 후보군 요원_ 보직경로(제35조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표11__외국어 후보군 요원_ 보직경로(제35조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -1638,9 +1716,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0036",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1658,9 +1738,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제13조",
             "resolve_method": "html",
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0036",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0013",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1690,7 +1772,8 @@
             "target_local_path": "별표/별표12_근무성적평가자 및 확인자 구분표(제36조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표12_근무성적평가자 및 확인자 구분표(제36조제1항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1744,7 +1827,8 @@
             "target_local_path": "별지/별지1_공무원 성과계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별지/별지1_공무원 성과계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1774,7 +1858,8 @@
             "target_local_path": "별지/별지3_성과면담결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별지/별지3_성과면담결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1804,7 +1889,8 @@
             "target_local_path": "별지/별지2_공무원 근무성적평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별지/별지2_공무원 근무성적평가서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1834,7 +1920,8 @@
             "target_local_path": "별표/별표13_직무수행능력의 성실성 평가 감점사유 및 기준(제36조 제6항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표13_직무수행능력의 성실성 평가 감점사유 및 기준(제36조 제6항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1864,7 +1951,8 @@
             "target_local_path": "별표/별표13_직무수행능력의 성실성 평가 감점사유 및 기준(제36조 제6항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표13_직무수행능력의 성실성 평가 감점사유 및 기준(제36조 제6항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1894,7 +1982,8 @@
             "target_local_path": "별표/별표13_직무수행능력의 성실성 평가 감점사유 및 기준(제36조 제6항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표13_직무수행능력의 성실성 평가 감점사유 및 기준(제36조 제6항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1924,7 +2013,8 @@
             "target_local_path": "별지/별지4_평가단위별 평가결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별지/별지4_평가단위별 평가결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2088,7 +2178,8 @@
             "target_local_path": "별표/별표15_가점부여 요건 및 기준(제38조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표15_가점부여 요건 및 기준(제38조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2118,7 +2209,8 @@
             "target_local_path": "별표/별표16_직무관련 자격증 구분표(제38조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표16_직무관련 자격증 구분표(제38조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2148,7 +2240,8 @@
             "target_local_path": "별표/별표17_실적가점 부여기준 및 범위(제38조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표17_실적가점 부여기준 및 범위(제38조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2178,7 +2271,8 @@
             "target_local_path": "별지/별지5_실적가점 부여신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별지/별지5_실적가점 부여신청서.hwp"
           }
         ],
         "images": [],
@@ -2293,7 +2387,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2313,7 +2409,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_02",
             "reference_id": "law:국가공무원법#JO0040_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2333,7 +2431,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_02",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2353,7 +2453,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_02",
             "reference_id": "law:공무원임용령#JO0035_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2421,7 +2523,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_02",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2441,7 +2545,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_02",
             "reference_id": "law:공무원임용령#JO0035_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2473,7 +2579,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_03",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2493,7 +2601,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_03",
             "reference_id": "law:공무원임용령#JO0010_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2536,7 +2646,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0040_05",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2646,7 +2758,8 @@
             "target_local_path": "별표/별표18_우정사업기관 경력환산율표(제44조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우정사업본부 소속공무원 인사관리규정/별표/별표18_우정사업기관 경력환산율표(제44조 관련).hwp"
           }
         ],
         "images": [],
@@ -2711,7 +2824,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0048",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2731,7 +2846,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0048",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2751,7 +2868,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0048",
             "reference_id": "law:우정사업운영에관한특례법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업운영에 관한 특례법/시행령/우정사업운영에 관한 특례법 시행령.json"
+            "target_git_path_guess": "우정사업운영에 관한 특례법/시행령/우정사업운영에 관한 특례법 시행령.json",
+            "target_git_path": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2771,7 +2890,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0048",
             "reference_id": "law:우정사업운영에관한특례법시행령#JO0010_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업운영에 관한 특례법/시행령/우정사업운영에 관한 특례법 시행령.json"
+            "target_git_path_guess": "우정사업운영에 관한 특례법/시행령/우정사업운영에 관한 특례법 시행령.json",
+            "target_git_path": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2791,7 +2912,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0048",
             "reference_id": "law:행정기관의조직과정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2811,7 +2934,9 @@
             "source_provision_id": "admrul:우정사업본부소속공무원인사관리규정#JO0048",
             "reference_id": "law:행정기관의조직과정원에관한통칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

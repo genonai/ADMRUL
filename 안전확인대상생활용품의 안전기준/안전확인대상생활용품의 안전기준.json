@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:안전확인대상생활용품의안전기준#JO0001",
             "reference_id": "law:전기용품및생활용품안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:안전확인대상생활용품의안전기준#JO0001",
             "reference_id": "law:전기용품및생활용품안전관리법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:안전확인대상생활용품의안전기준#JO0002",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -168,7 +174,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_file_path": "전기용품 및 생활용품 안전관리법/시행규칙/별표/별표4_안전확인대상제품(제3조제3항 및 제4항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -198,7 +207,8 @@
             "target_local_path": "부속서/부속서1_등산용 로프.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서1_등산용 로프.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -228,7 +238,8 @@
             "target_local_path": "부속서/부속서2_스포츠용 구명복.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서2_스포츠용 구명복.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -258,7 +269,8 @@
             "target_local_path": "부속서/부속서3_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서3_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -288,7 +300,8 @@
             "target_local_path": "부속서/부속서4_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서4_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -318,7 +331,8 @@
             "target_local_path": "부속서/부속서5_건전지(충전지를 제외한다).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서5_건전지(충전지를 제외한다).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -348,7 +362,8 @@
             "target_local_path": "부속서/부속서6_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서6_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -378,7 +393,8 @@
             "target_local_path": "부속서/부속서7_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서7_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -408,7 +424,8 @@
             "target_local_path": "부속서/부속서8_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서8_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -438,7 +455,8 @@
             "target_local_path": "부속서/부속서9_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서9_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -468,7 +486,8 @@
             "target_local_path": "부속서/부속서10_자동차용 브레이크액.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서10_자동차용 브레이크액.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -498,7 +517,8 @@
             "target_local_path": "부속서/부속서11_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서11_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +548,8 @@
             "target_local_path": "부속서/부속서12_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서12_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -558,7 +579,8 @@
             "target_local_path": "부속서/부속서13_자동차용 타이어.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서13_자동차용 타이어.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -588,7 +610,8 @@
             "target_local_path": "부속서/부속서14_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서14_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -618,7 +641,8 @@
             "target_local_path": "부속서/부속서15_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서15_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -648,7 +672,8 @@
             "target_local_path": "부속서/부속서16_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서16_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -678,7 +703,8 @@
             "target_local_path": "부속서/부속서17_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서17_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -708,7 +734,8 @@
             "target_local_path": "부속서/부속서18_미끄럼방지타일.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서18_미끄럼방지타일.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -738,7 +765,8 @@
             "target_local_path": "부속서/부속서19_고령자용 보행보조차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서19_고령자용 보행보조차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -768,7 +796,8 @@
             "target_local_path": "부속서/부속서20_고령자용 보행차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서20_고령자용 보행차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -798,7 +827,8 @@
             "target_local_path": "부속서/부속서21_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서21_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -828,7 +858,8 @@
             "target_local_path": "부속서/부속서22_디지털 도어록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서22_디지털 도어록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -858,7 +889,8 @@
             "target_local_path": "부속서/부속서23_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서23_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -888,7 +920,8 @@
             "target_local_path": "부속서/부속서24_롤러스포츠보호장구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서24_롤러스포츠보호장구.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -918,7 +951,8 @@
             "target_local_path": "부속서/부속서25_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서25_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -948,7 +982,8 @@
             "target_local_path": "부속서/부속서26_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서26_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -978,7 +1013,8 @@
             "target_local_path": "부속서/부속서27_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서27_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1008,7 +1044,8 @@
             "target_local_path": "부속서/부속서28_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서28_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1038,7 +1075,8 @@
             "target_local_path": "부속서/부속서29_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서29_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1068,7 +1106,8 @@
             "target_local_path": "부속서/부속서30_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서30_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1098,7 +1137,8 @@
             "target_local_path": "부속서/부속서31_스노보드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서31_스노보드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1128,7 +1168,8 @@
             "target_local_path": "부속서/부속서32_스케이트보드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서32_스케이트보드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1158,7 +1199,8 @@
             "target_local_path": "부속서/부속서33_스키용구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서33_스키용구.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1188,7 +1230,8 @@
             "target_local_path": "부속서/부속서34_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서34_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1218,7 +1261,8 @@
             "target_local_path": "부속서/부속서35_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서35_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1248,7 +1292,8 @@
             "target_local_path": "부속서/부속서36_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서36_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1278,7 +1323,8 @@
             "target_local_path": "부속서/부속서37_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서37_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1308,7 +1354,8 @@
             "target_local_path": "부속서/부속서38_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서38_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1338,7 +1385,8 @@
             "target_local_path": "부속서/부속서39_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서39_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1368,7 +1416,8 @@
             "target_local_path": "부속서/부속서40_이륜자전거.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서40_이륜자전거.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1398,7 +1447,8 @@
             "target_local_path": "부속서/부속서41_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서41_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1428,7 +1478,8 @@
             "target_local_path": "부속서/부속서42_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서42_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1458,7 +1509,8 @@
             "target_local_path": "부속서/부속서43_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서43_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1488,7 +1540,8 @@
             "target_local_path": "부속서/부속서44_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서44_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1518,7 +1571,8 @@
             "target_local_path": "부속서/부속서45_헬스기구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서45_헬스기구.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1548,7 +1602,8 @@
             "target_local_path": "부속서/부속서46_휴대용 레이저용품.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서46_휴대용 레이저용품.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1578,7 +1633,8 @@
             "target_local_path": "부속서/부속서47_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서47_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1608,7 +1664,8 @@
             "target_local_path": "부속서/부속서48_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서48_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1638,7 +1695,8 @@
             "target_local_path": "부속서/부속서49_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서49_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1668,7 +1726,8 @@
             "target_local_path": "부속서/부속서50_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서50_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1698,7 +1757,8 @@
             "target_local_path": "부속서/부속서51_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서51_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1728,7 +1788,8 @@
             "target_local_path": "부속서/부속서52_승차용 안전모.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서52_승차용 안전모.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1758,7 +1819,8 @@
             "target_local_path": "부속서/부속서53_운동용 안전모.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서53_운동용 안전모.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1788,7 +1850,8 @@
             "target_local_path": "부속서/부속서54_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서54_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1818,7 +1881,8 @@
             "target_local_path": "부속서/부속서55_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서55_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1848,7 +1912,8 @@
             "target_local_path": "부속서/부속서56_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서56_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1878,7 +1943,8 @@
             "target_local_path": "부속서/부속서57_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서57_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1908,7 +1974,8 @@
             "target_local_path": "부속서/부속서58_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서58_삭제.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1938,7 +2005,8 @@
             "target_local_path": "부속서/부속서67_실내용 바닥재.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서67_실내용 바닥재.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1968,7 +2036,8 @@
             "target_local_path": "부속서/부속서68_온열팩(주머니난로를 포함한다).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서68_온열팩(주머니난로를 포함한다).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1998,7 +2067,8 @@
             "target_local_path": "부속서/부속서69_수유패드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서69_수유패드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2028,7 +2098,8 @@
             "target_local_path": "부속서/부속서70_휴대용 예초기의 날 및 보호덮개.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서70_휴대용 예초기의 날 및 보호덮개.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2058,7 +2129,8 @@
             "target_local_path": "부속서/부속서71_기름 난로 (연료소비량 600 g_h 이하).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서71_기름 난로 (연료소비량 600 g_h 이하).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2088,7 +2160,8 @@
             "target_local_path": "부속서/부속서72_전동보드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서72_전동보드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2118,7 +2191,8 @@
             "target_local_path": "부속서/부속서73_야외 운동기구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서73_야외 운동기구.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2148,7 +2222,8 @@
             "target_local_path": "부속서/부속서74_가정용 미용기기.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전확인대상생활용품의 안전기준/부속서/부속서74_가정용 미용기기.hwp"
           }
         ],
         "images": [],

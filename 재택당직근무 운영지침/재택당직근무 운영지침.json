@@ -215,7 +215,9 @@
         "source_provision_id": "admrul:재택당직근무운영지침#DOC",
         "reference_id": "law:법원당직및비상근무규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json"
+        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_git_path": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -235,7 +237,9 @@
         "source_provision_id": "admrul:재택당직근무운영지침#DOC",
         "reference_id": "law:법원당직및비상근무규칙#JO0010_02",
         "target_repo": "LAW",
-        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json"
+        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_git_path": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -289,7 +293,8 @@
         "target_local_path": "서식/서식1_〔별지 제1호 서식〕.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "재택당직근무 운영지침/서식/서식1_〔별지 제1호 서식〕.hwp"
       },
       {
         "relation_type": "citation",
@@ -309,7 +314,9 @@
         "source_provision_id": "admrul:재택당직근무운영지침#DOC",
         "reference_id": "law:법원당직및비상근무규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json"
+        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_git_path": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -332,9 +339,12 @@
         "resolve_method": "html",
         "source_provision_id": "admrul:재택당직근무운영지침#DOC",
         "target_unit": "BJ0002",
-        "reference_id": "law:법원당직및비상근무규칙#BJ0002",
+        "reference_id": "law:법원당직및비상근무규칙#FORM0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json"
+        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_git_path": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_git_file_path": "법원당직 및 비상근무규칙/법률/서식/서식2_당직근무일지(재택근무 포함).hwp",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -354,7 +364,9 @@
         "source_provision_id": "admrul:재택당직근무운영지침#DOC",
         "reference_id": "law:법원당직및비상근무규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json"
+        "target_git_path_guess": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_git_path": "법원당직 및 비상근무규칙/법률/법원당직 및 비상근무규칙.json",
+        "target_source_repository": "LAW"
       }
     ]
   },

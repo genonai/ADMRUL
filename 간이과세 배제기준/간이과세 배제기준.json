@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0001",
             "reference_id": "law:부가가치세법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0001",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0001",
             "reference_id": "law:부가가치세법시행령#JO0109",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0001",
             "reference_id": "law:부가가치세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0001",
             "reference_id": "law:부가가치세법시행규칙#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0002",
             "reference_id": "law:개별소비세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/법률/개별소비세법.json"
+            "target_git_path_guess": "개별소비세법/법률/개별소비세법.json",
+            "target_git_path": "개별소비세법/법률/개별소비세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0002",
             "reference_id": "law:개별소비세법#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/법률/개별소비세법.json"
+            "target_git_path_guess": "개별소비세법/법률/개별소비세법.json",
+            "target_git_path": "개별소비세법/법률/개별소비세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +233,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0002",
             "reference_id": "law:부가가치세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -239,7 +255,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0002",
             "reference_id": "law:부가가치세법시행규칙#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +287,8 @@
             "target_local_path": "별표/별표1_과세유흥장소기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세 배제기준/별표/별표1_과세유흥장소기준.hwp"
           }
         ],
         "images": [],
@@ -301,7 +320,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0003",
             "reference_id": "law:부가가치세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -321,7 +342,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0003",
             "reference_id": "law:부가가치세법시행규칙#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -351,7 +374,8 @@
             "target_local_path": "별표/별표2_부동산임대업기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세 배제기준/별표/별표2_부동산임대업기준.hwp"
           }
         ],
         "images": [],
@@ -383,7 +407,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0004",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -403,7 +429,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0004",
             "reference_id": "law:부가가치세법시행령#JO0109",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -433,7 +461,8 @@
             "target_local_path": "별표/별표3_종목기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세 배제기준/별표/별표3_종목기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -463,7 +492,8 @@
             "target_local_path": "별표/별표3_종목기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세 배제기준/별표/별표3_종목기준.hwp"
           }
         ],
         "images": [],
@@ -495,7 +525,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0005",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -515,7 +547,9 @@
             "source_provision_id": "admrul:간이과세배제기준#JO0005",
             "reference_id": "law:부가가치세법시행령#JO0109",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,7 +579,8 @@
             "target_local_path": "별표/별표4_지역기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세 배제기준/별표/별표4_지역기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -575,7 +610,8 @@
             "target_local_path": "별표/별표4_지역기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세 배제기준/별표/별표4_지역기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -605,7 +641,8 @@
             "target_local_path": "별표/별표4_지역기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세 배제기준/별표/별표4_지역기준.hwp"
           }
         ],
         "images": [],

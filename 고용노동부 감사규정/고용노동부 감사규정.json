@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -231,7 +233,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -346,7 +350,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0006_02",
             "reference_id": "law:자체감사활동의지원및대행위탁감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙/법률/자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙.json"
+            "target_git_path_guess": "자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙/법률/자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙.json",
+            "target_git_path": "자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙/법률/자체감사활동의 지원 및 대행ㆍ위탁감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -366,7 +372,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0006_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -386,7 +394,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0006_02",
             "reference_id": "law:공공기관의운영에관한법률#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -779,7 +789,8 @@
             "target_local_path": "별지/별지2_감사명령서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지2_감사명령서.hwp"
           }
         ],
         "images": [],
@@ -821,7 +832,8 @@
             "target_local_path": "별지/별지3_출석요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지3_출석요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -851,7 +863,8 @@
             "target_local_path": "별지/별지4_질문서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지4_질문서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -881,7 +894,8 @@
             "target_local_path": "별지/별지5_문답서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지5_문답서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -911,7 +925,8 @@
             "target_local_path": "별지/별지6_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지6_확인서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1087,7 +1102,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0019",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1107,7 +1124,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0019",
             "reference_id": "law:공공감사에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1246,7 +1265,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0022_02",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1266,7 +1287,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0022_02",
             "reference_id": "law:공공감사에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1332,7 +1355,8 @@
             "target_local_path": "별표/별표1_감사결과처분기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별표/별표1_감사결과처분기준표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1362,7 +1386,8 @@
             "target_local_path": "별표/별표1_감사결과처분기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별표/별표1_감사결과처분기준표.hwp"
           },
           {
             "relation_type": "citation",
@@ -1382,7 +1407,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0023",
             "reference_id": "law:공공감사기준#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사기준/법률/공공감사기준.json"
+            "target_git_path_guess": "공공감사기준/법률/공공감사기준.json",
+            "target_git_path": "공공감사기준/법률/공공감사기준.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1402,7 +1429,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0023",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1427,7 +1456,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:공무원징계령시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_file_path": "공무원 징계령/시행규칙/별표/별표1_징계기준(제2조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1480,7 +1512,8 @@
             "target_local_path": "별지/별지10_현지조치 지시서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지10_현지조치 지시서.hwp"
           }
         ],
         "images": [],
@@ -1536,7 +1569,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0026",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1602,7 +1637,8 @@
             "target_local_path": "별지/별지11_적극행정 면책신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지11_적극행정 면책신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1656,7 +1692,8 @@
             "target_local_path": "별지/별지12_적극행정 면책검토서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지12_적극행정 면책검토서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1722,7 +1759,8 @@
             "target_local_path": "별지/별지14_사전 컨설팅 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지14_사전 컨설팅 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1752,7 +1790,8 @@
             "target_local_path": "별지/별지15_사전 컨설팅 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지15_사전 컨설팅 의견서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1876,7 +1915,8 @@
             "target_local_path": "별지/별지13_재심청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "고용노동부 감사규정/별지/별지13_재심청구서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1896,7 +1936,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0030",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1916,7 +1958,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0030",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2235,7 +2279,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0036_02",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2255,7 +2301,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0036_02",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2320,7 +2368,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0039",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2340,7 +2390,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0039",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2360,7 +2412,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0039",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2380,7 +2434,9 @@
             "source_provision_id": "admrul:고용노동부감사규정#JO0039",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

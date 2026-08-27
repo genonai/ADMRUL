@@ -102,7 +102,9 @@
             "source_provision_id": "admrul:회담사료관리규정#JO0002",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -122,7 +124,9 @@
             "source_provision_id": "admrul:회담사료관리규정#JO0002",
             "reference_id": "law:공공기록물관리에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -279,7 +283,8 @@
             "target_local_path": "별지/별지1_남북회담사료 인수인계서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "회담사료 관리 규정/별지/별지1_남북회담사료 인수인계서.hwp"
           }
         ],
         "images": [],
@@ -343,7 +348,8 @@
             "target_local_path": "별지/별지2_남북회담사료 이용(대출) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "회담사료 관리 규정/별지/별지2_남북회담사료 이용(대출) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -373,7 +379,8 @@
             "target_local_path": "별지/별지3_회담사료 대출·반납 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "회담사료 관리 규정/별지/별지3_회담사료 대출·반납 대장.hwp"
           }
         ],
         "images": [],
@@ -415,7 +422,8 @@
             "target_local_path": "별지/별지2_남북회담사료 이용(대출) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "회담사료 관리 규정/별지/별지2_남북회담사료 이용(대출) 신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -435,7 +443,9 @@
             "source_provision_id": "admrul:회담사료관리규정#JO0013",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -455,7 +465,9 @@
             "source_provision_id": "admrul:회담사료관리규정#JO0013",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

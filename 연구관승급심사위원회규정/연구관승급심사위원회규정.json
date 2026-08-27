@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:연구관승급심사위원회규정#JO0001",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:연구관승급심사위원회규정#JO0001",
             "reference_id": "law:공무원보수규정#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별지/별지1_호봉승급심사 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "연구관승급심사위원회규정/별지/별지1_호봉승급심사 결정서.hwp"
           }
         ],
         "images": [],
@@ -192,9 +197,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:연구관승급심사위원회규정#JO0006",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -236,7 +243,8 @@
             "target_local_path": "별지/별지2_근무성적평가 요약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "연구관승급심사위원회규정/별지/별지2_근무성적평가 요약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -266,7 +274,8 @@
             "target_local_path": "별지/별지3_성과계약평가 요약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "연구관승급심사위원회규정/별지/별지3_성과계약평가 요약서.hwp"
           }
         ],
         "images": [],

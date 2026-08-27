@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:식품의약품안전평가원자체평가위원회운영규정#JO0001",
             "reference_id": "law:정부업무평가기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json"
+            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:식품의약품안전평가원자체평가위원회운영규정#JO0001",
             "reference_id": "law:정부업무평가기본법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json"
+            "target_git_path_guess": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -242,7 +246,8 @@
             "target_local_path": "별지/별지1_보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식품의약품안전평가원 자체평가위원회 운영규정/별지/별지1_보안 서약서.hwp"
           },
           {
             "relation_type": "citation",
@@ -262,7 +267,9 @@
             "source_provision_id": "admrul:식품의약품안전평가원자체평가위원회운영규정#JO0010",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0001",
             "reference_id": "law:주민등록법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/시행규칙/주민등록법 시행규칙.json"
+            "target_git_path_guess": "주민등록법/시행규칙/주민등록법 시행규칙.json",
+            "target_git_path": "주민등록법/시행규칙/주민등록법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0001",
             "reference_id": "law:주민등록법시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/시행규칙/주민등록법 시행규칙.json"
+            "target_git_path_guess": "주민등록법/시행규칙/주민등록법 시행규칙.json",
+            "target_git_path": "주민등록법/시행규칙/주민등록법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0001",
             "reference_id": "law:출입국관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0001",
             "reference_id": "law:출입국관리법시행규칙#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0001",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0001",
             "reference_id": "law:개인정보보호법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0002",
             "reference_id": "law:주민등록법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/법률/주민등록법.json"
+            "target_git_path_guess": "주민등록법/법률/주민등록법.json",
+            "target_git_path": "주민등록법/법률/주민등록법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -241,7 +255,8 @@
             "target_local_path": "별지/별지1_주민등록증 발급신청서 송부표(읍·면·주민센터).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주민등록증 발급신청서등의 관리에 관한 규칙/별지/별지1_주민등록증 발급신청서 송부표(읍·면·주민센터).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -271,7 +286,8 @@
             "target_local_path": "별지/별지2_주민등록증 발급신청서 송부통계표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주민등록증 발급신청서등의 관리에 관한 규칙/별지/별지2_주민등록증 발급신청서 송부통계표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -301,7 +317,8 @@
             "target_local_path": "별지/별지3_외국인 지문 및 얼굴에 관한 정보 통계표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주민등록증 발급신청서등의 관리에 관한 규칙/별지/별지3_외국인 지문 및 얼굴에 관한 정보 통계표.hwp"
           }
         ],
         "images": [],
@@ -333,7 +350,9 @@
             "source_provision_id": "admrul:주민등록증발급신청서등의관리에관한규칙#JO0004",
             "reference_id": "law:주민등록법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/법률/주민등록법.json"
+            "target_git_path_guess": "주민등록법/법률/주민등록법.json",
+            "target_git_path": "주민등록법/법률/주민등록법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

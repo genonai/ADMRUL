@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항공교통본부항공영어전문교육관운영지침#JO0001",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -134,7 +136,9 @@
             "source_provision_id": "admrul:항공교통본부항공영어전문교육관운영지침#JO0003",
             "reference_id": "law:공무원인재개발법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json"
+            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_git_path": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -349,7 +353,8 @@
             "target_local_path": "별표/별표1_영어인터뷰 평가기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별표/별표1_영어인터뷰 평가기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -379,7 +384,8 @@
             "target_local_path": "별지/별지14_학습평가 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지14_학습평가 결과보고서.hwp"
           }
         ],
         "images": [],
@@ -421,7 +427,8 @@
             "target_local_path": "별지/별지11_허가원 및 허가통보.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지11_허가원 및 허가통보.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -451,7 +458,8 @@
             "target_local_path": "별지/별지9_출석부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지9_출석부.hwp"
           }
         ],
         "images": [],
@@ -541,7 +549,8 @@
             "target_local_path": "별지/별지10_수료증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지10_수료증.hwp"
           }
         ],
         "images": [],
@@ -631,7 +640,9 @@
             "source_provision_id": "admrul:항공교통본부항공영어전문교육관운영지침#JO0019",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -752,7 +763,8 @@
             "target_local_path": "별지/별지12_일일업무일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지12_일일업무일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -782,7 +794,8 @@
             "target_local_path": "별지/별지13_교육훈련 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지13_교육훈련 결과보고서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -836,7 +849,8 @@
             "target_local_path": "별지/별지14_학습평가 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지14_학습평가 결과보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -866,7 +880,8 @@
             "target_local_path": "별지/별지15_영어인터뷰 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별지/별지15_영어인터뷰 결과보고서.hwp"
           }
         ],
         "images": [],
@@ -919,7 +934,8 @@
             "target_local_path": "별표/별표2_영어강사 재계약 업무처리절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공교통본부 항공영어전문교육관 운영지침/별표/별표2_영어강사 재계약 업무처리절차.hwp"
           }
         ],
         "images": [],

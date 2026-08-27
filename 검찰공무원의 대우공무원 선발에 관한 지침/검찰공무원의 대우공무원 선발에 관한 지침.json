@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0001",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0001",
             "reference_id": "law:공무원임용령#JO0035_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0002",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -175,7 +181,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0003",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -195,7 +203,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0003",
             "reference_id": "law:공무원임용령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -215,7 +225,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0003",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -235,7 +247,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0003",
             "reference_id": "law:공무원임용령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -372,7 +386,8 @@
             "target_local_path": "별지/별지1_대우공무원 선발 심의위원회 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검찰공무원의 대우공무원 선발에 관한 지침/별지/별지1_대우공무원 선발 심의위원회 의결서.hwp"
           }
         ],
         "images": [],
@@ -414,7 +429,8 @@
             "target_local_path": "별지/별지2_대우공무원선발심의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검찰공무원의 대우공무원 선발에 관한 지침/별지/별지2_대우공무원선발심의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -444,7 +460,8 @@
             "target_local_path": "별지/별지3_대우공무원(일반_단축) 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검찰공무원의 대우공무원 선발에 관한 지침/별지/별지3_대우공무원(일반_단축) 추천서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -474,7 +491,8 @@
             "target_local_path": "별지/별지4_1년 단축 대우공무원 심사 공적조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "검찰공무원의 대우공무원 선발에 관한 지침/별지/별지4_1년 단축 대우공무원 심사 공적조서.hwp"
           }
         ],
         "images": [],
@@ -542,7 +560,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0009",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -562,7 +582,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0009",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 수당 등에 관한 규정/법률/공무원 수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 수당 등에 관한 규정/법률/공무원 수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -605,7 +627,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0011",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -625,7 +649,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0011",
             "reference_id": "law:공무원보수규정#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -645,7 +671,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0011",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -665,7 +693,9 @@
             "source_provision_id": "admrul:검찰공무원의대우공무원선발에관한지침#JO0011",
             "reference_id": "law:공무원수당등에관한규정#JO0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

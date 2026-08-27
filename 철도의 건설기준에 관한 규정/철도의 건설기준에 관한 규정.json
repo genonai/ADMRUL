@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:철도의건설기준에관한규정#JO0001",
             "reference_id": "law:철도건설규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json"
+            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json",
+            "target_git_path": "철도건설규칙/법률/철도건설규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:철도의건설기준에관한규정#JO0001",
             "reference_id": "law:철도건설규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json"
+            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json",
+            "target_git_path": "철도건설규칙/법률/철도건설규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -636,7 +640,8 @@
             "target_local_path": "별표/별표1_KRL2012표준활하중(제16조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "철도의 건설기준에 관한 규정/별표/별표1_KRL2012표준활하중(제16조제1항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -666,7 +671,8 @@
             "target_local_path": "별표/별표2_KRL2012여객전용표준활하중(제16조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "철도의 건설기준에 관한 규정/별표/별표2_KRL2012여객전용표준활하중(제16조제1항관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -696,7 +702,8 @@
             "target_local_path": "별표/별표3_EL표준활하중(제16조제1항관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "철도의 건설기준에 관한 규정/별표/별표3_EL표준활하중(제16조제1항관련).hwp"
           }
         ],
         "images": [

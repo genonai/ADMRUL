@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:금융정보분석원정보시스템운영관리지침#JO0001",
             "reference_id": "law:특정금융거래정보의보고및이용등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정금융거래정보의 보고 및 이용 등에 관한 법률/법률/특정금융거래정보의 보고 및 이용 등에 관한 법률.json"
+            "target_git_path_guess": "특정금융거래정보의 보고 및 이용 등에 관한 법률/법률/특정금융거래정보의 보고 및 이용 등에 관한 법률.json",
+            "target_git_path": "특정 금융거래정보의 보고 및 이용 등에 관한 법률/법률/특정 금융거래정보의 보고 및 이용 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -281,7 +283,8 @@
             "target_local_path": "별지/별지1_사용자ID 발급(해제, 권한변경, 대리위임)신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "금융정보분석원 정보시스템 운영·관리 지침/별지/별지1_사용자ID 발급(해제, 권한변경, 대리위임)신청서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:농촌진흥청예산의편성집행및성과금심의회운영규정#JO0001",
             "reference_id": "law:국가재정법#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:농촌진흥청예산의편성집행및성과금심의회운영규정#JO0001",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:농촌진흥청예산의편성집행및성과금심의회운영규정#JO0001",
             "reference_id": "law:국가재정법시행령#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:농촌진흥청예산의편성집행및성과금심의회운영규정#JO0001",
             "reference_id": "law:예산성과금규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예산성과금규정/법률/예산성과금규정.json"
+            "target_git_path_guess": "예산성과금규정/법률/예산성과금규정.json",
+            "target_git_path": "예산성과금 규정/법률/예산성과금 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:농촌진흥청예산의편성집행및성과금심의회운영규정#JO0001",
             "reference_id": "law:예산성과금규정#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "예산성과금규정/법률/예산성과금규정.json"
+            "target_git_path_guess": "예산성과금규정/법률/예산성과금규정.json",
+            "target_git_path": "예산성과금 규정/법률/예산성과금 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -260,7 +270,8 @@
             "target_local_path": "서식/서식1_예산심의(편성, 집행, 성과금) 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 예산의 편성·집행 및 성과금심의회 운영규정/서식/서식1_예산심의(편성, 집행, 성과금) 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -290,7 +301,8 @@
             "target_local_path": "서식/서식1_예산심의(편성, 집행, 성과금) 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 예산의 편성·집행 및 성과금심의회 운영규정/서식/서식1_예산심의(편성, 집행, 성과금) 요구서.hwp"
           }
         ],
         "images": [],
@@ -379,7 +391,8 @@
             "target_local_path": "서식/서식2_예산심의(편성, 집행, 성과금) 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 예산의 편성·집행 및 성과금심의회 운영규정/서식/서식2_예산심의(편성, 집행, 성과금) 의결서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -433,7 +446,8 @@
             "target_local_path": "서식/서식3_예산심의(편성, 집행, 성과금) 결과 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 예산의 편성·집행 및 성과금심의회 운영규정/서식/서식3_예산심의(편성, 집행, 성과금) 결과 통지서.hwp"
           }
         ],
         "images": [],
@@ -501,7 +515,9 @@
             "source_provision_id": "admrul:농촌진흥청예산의편성집행및성과금심의회운영규정#JO0007_03",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

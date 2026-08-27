@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:보호관찰소선도위탁규정#JO0001",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:보호관찰소선도위탁규정#JO0001",
             "reference_id": "law:형사소송법#JO0247",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:보호관찰소선도위탁규정#JO0001",
             "reference_id": "law:보호관찰등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
+            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:보호관찰소선도위탁규정#JO0001",
             "reference_id": "law:보호관찰등에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
+            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -181,7 +189,9 @@
             "source_provision_id": "admrul:보호관찰소선도위탁규정#JO0004",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -201,7 +211,9 @@
             "source_provision_id": "admrul:보호관찰소선도위탁규정#JO0004",
             "reference_id": "law:형사소송법#JO0247",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -243,7 +255,8 @@
             "target_local_path": "서식/서식1_보호관찰소 선도위탁.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식1_보호관찰소 선도위탁.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -297,7 +310,8 @@
             "target_local_path": "서식/서식2_선도인수서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식2_선도인수서.hwp"
           }
         ],
         "images": [],
@@ -339,7 +353,8 @@
             "target_local_path": "서식/서식3_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식3_서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -369,7 +384,8 @@
             "target_local_path": "서식/서식4_준수사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식4_준수사항.hwp"
           }
         ],
         "images": [],
@@ -411,7 +427,8 @@
             "target_local_path": "서식/서식5_보호관찰소 선도 위탁카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식5_보호관찰소 선도 위탁카드.hwp"
           }
         ],
         "images": [],
@@ -453,7 +470,8 @@
             "target_local_path": "서식/서식6_선도위탁 색인부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식6_선도위탁 색인부.hwp"
           }
         ],
         "images": [],
@@ -564,7 +582,8 @@
             "target_local_path": "서식/서식7_선도실시경과통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식7_선도실시경과통보서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -641,7 +660,8 @@
             "target_local_path": "서식/서식8_선도기간연장 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식8_선도기간연장 통지.hwp"
           }
         ],
         "images": [],
@@ -803,7 +823,8 @@
             "target_local_path": "서식/서식9_선도위탁 취소 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식9_선도위탁 취소 통지.hwp"
           }
         ],
         "images": [],
@@ -845,7 +866,8 @@
             "target_local_path": "서식/서식10_선도위탁 실적.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보호관찰소 선도위탁 규정/서식/서식10_선도위탁 실적.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립나주병원보통고충심사위원회규정#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립나주병원보통고충심사위원회규정#JO0001",
             "reference_id": "law:국가공무원법#JO0076_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국립나주병원보통고충심사위원회규정#JO0001",
             "reference_id": "law:공무원고충처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:국립나주병원보통고충심사위원회규정#JO0001",
             "reference_id": "law:공무원고충처리규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:국립나주병원보통고충심사위원회규정#JO0002",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -212,7 +222,8 @@
             "target_local_path": "별지/별지1_고충심사청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지1_고충심사청구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -242,7 +253,8 @@
             "target_local_path": "별지/별지2_청구서 처리전.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지2_청구서 처리전.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -272,7 +284,8 @@
             "target_local_path": "별지/별지3_고충심사청구 처리점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지3_고충심사청구 처리점검표.hwp"
           }
         ],
         "images": [],
@@ -338,7 +351,8 @@
             "target_local_path": "별지/별지4_청구서의 보완 요구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지4_청구서의 보완 요구.hwp"
           }
         ],
         "images": [],
@@ -404,7 +418,8 @@
             "target_local_path": "별지/별지5_고충심사 관계 자료의 제출 요구.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지5_고충심사 관계 자료의 제출 요구.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -434,7 +449,8 @@
             "target_local_path": "별지/별지6_청구 관계 자료 처리전.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지6_청구 관계 자료 처리전.hwp"
           }
         ],
         "images": [],
@@ -476,7 +492,8 @@
             "target_local_path": "별지/별지7_문답서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지7_문답서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -506,7 +523,8 @@
             "target_local_path": "별지/별지8_출석 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지8_출석 통지.hwp"
           }
         ],
         "images": [],
@@ -583,7 +601,8 @@
             "target_local_path": "별지/별지9_심사보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지9_심사보고서.hwp"
           }
         ],
         "images": [],
@@ -625,7 +644,8 @@
             "target_local_path": "별지/별지10_고충심사 기일의 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지10_고충심사 기일의 통지.hwp"
           }
         ],
         "images": [],
@@ -678,7 +698,8 @@
             "target_local_path": "별지/별지11_심사 조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지11_심사 조서.hwp"
           }
         ],
         "images": [],
@@ -731,7 +752,8 @@
             "target_local_path": "별지/별지12_결정(안).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지12_결정(안).hwp"
           }
         ],
         "images": [],
@@ -773,7 +795,8 @@
             "target_local_path": "별지/별지13_처리결과 및 조치사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립나주병원 보통고충심사위원회규정/별지/별지13_처리결과 및 조치사항.hwp"
           }
         ],
         "images": [],
@@ -816,7 +839,9 @@
             "source_provision_id": "admrul:국립나주병원보통고충심사위원회규정#JO0017",
             "reference_id": "law:공무원고충처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 고충처리 규정/법률/공무원 고충처리 규정.json"
+            "target_git_path_guess": "공무원 고충처리 규정/법률/공무원 고충처리 규정.json",
+            "target_git_path": "공무원고충처리규정/법률/공무원고충처리규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:정보처리시스템에의한집행관사무처리규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보처리시스템에 의한 집행관 사무처리규칙/법률/정보처리시스템에 의한 집행관 사무처리규칙.json"
+            "target_git_path_guess": "정보처리시스템에 의한 집행관 사무처리규칙/법률/정보처리시스템에 의한 집행관 사무처리규칙.json",
+            "target_git_path": "정보처리시스템에 의한 집행관 사무처리규칙/법률/정보처리시스템에 의한 집행관 사무처리규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -122,7 +124,8 @@
             "target_local_path": "서식/서식2_[별지 제2호 서식] 접수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식2_[별지 제2호 서식] 접수증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -152,7 +155,8 @@
             "target_local_path": "서식/서식3_[별지 제3호 서식] 납부서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식3_[별지 제3호 서식] 납부서.hwp"
           },
           {
             "relation_type": "citation",
@@ -172,7 +176,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
+            "target_git_path": "민사집행법/법률/민사집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +198,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민사집행법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
+            "target_git_path": "민사집행법/법률/민사집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -222,7 +230,8 @@
             "target_local_path": "서식/서식3_[별지 제3호 서식] 납부서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식3_[별지 제3호 서식] 납부서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -252,7 +261,8 @@
             "target_local_path": "서식/서식3_[별지 제3호 서식] 납부서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식3_[별지 제3호 서식] 납부서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -282,7 +292,8 @@
             "target_local_path": "서식/서식3_[별지 제3호 서식] 납부서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식3_[별지 제3호 서식] 납부서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -338,7 +349,8 @@
             "target_local_path": "서식/서식4_[별지 제4호 서식] 계좌입금신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식4_[별지 제4호 서식] 계좌입금신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -368,7 +380,8 @@
             "target_local_path": "서식/서식5_[별지 제5호 서식] 포괄계좌입금신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식5_[별지 제5호 서식] 포괄계좌입금신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -398,7 +411,8 @@
             "target_local_path": "서식/서식6_[별지 제6호 서식] 포괄계좌입금 해지신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식6_[별지 제6호 서식] 포괄계좌입금 해지신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -428,7 +442,8 @@
             "target_local_path": "서식/서식7_[별지 제7호 서식] 포괄계좌입금신청자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식7_[별지 제7호 서식] 포괄계좌입금신청자 명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -458,7 +473,8 @@
             "target_local_path": "서식/서식8_[별지 제8호 서식] 출급지시서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식8_[별지 제8호 서식] 출급지시서.hwp"
           },
           {
             "relation_type": "citation",
@@ -478,7 +494,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민사집행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json"
+            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json",
+            "target_git_path": "민사집행규칙/법률/민사집행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -498,7 +516,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민사집행규칙#JO0149",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json"
+            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json",
+            "target_git_path": "민사집행규칙/법률/민사집행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +548,8 @@
             "target_local_path": "서식/서식9_[별지 제9호 서식] 이자조회서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식9_[별지 제9호 서식] 이자조회서.hwp"
           },
           {
             "relation_type": "citation",
@@ -548,7 +569,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
+            "target_git_path": "민사집행법/법률/민사집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -578,7 +601,8 @@
             "target_local_path": "서식/서식10_[별지 제10호 서식] 일계표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식10_[별지 제10호 서식] 일계표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -608,7 +632,8 @@
             "target_local_path": "서식/서식11_[별지 제11호 서식] 잔액증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식11_[별지 제11호 서식] 잔액증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -638,7 +663,8 @@
             "target_local_path": "서식/서식10_[별지 제10호 서식] 일계표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식10_[별지 제10호 서식] 일계표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -668,7 +694,8 @@
             "target_local_path": "서식/서식12_[별지 제12호 서식 사건별예납금등출납내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식12_[별지 제12호 서식 사건별예납금등출납내역서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -698,7 +725,8 @@
             "target_local_path": "서식/서식8_[별지 제8호 서식] 출급지시서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식8_[별지 제8호 서식] 출급지시서.hwp"
           },
           {
             "relation_type": "citation",
@@ -718,7 +746,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민사집행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json"
+            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json",
+            "target_git_path": "민사집행규칙/법률/민사집행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -738,7 +768,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민사집행규칙#JO0149",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json"
+            "target_git_path_guess": "민사집행규칙/법률/민사집행규칙.json",
+            "target_git_path": "민사집행규칙/법률/민사집행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -768,7 +800,8 @@
             "target_local_path": "서식/서식13_[별지 제13호 서식 환급통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보처리시스템에 의한 집행관 사무처리지침/서식/서식13_[별지 제13호 서식 환급통지서.hwp"
           },
           {
             "relation_type": "citation",
@@ -788,7 +821,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -808,7 +843,9 @@
             "source_provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#DOC",
             "reference_id": "law:민법#JO0487",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

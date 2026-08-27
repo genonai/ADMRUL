@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:지역에너지절약시설보조사업운용지침#JO0001",
             "reference_id": "law:에너지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지법/법률/에너지법.json"
+            "target_git_path_guess": "에너지법/법률/에너지법.json",
+            "target_git_path": "에너지법/법률/에너지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:지역에너지절약시설보조사업운용지침#JO0001",
             "reference_id": "law:에너지법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지법/법률/에너지법.json"
+            "target_git_path_guess": "에너지법/법률/에너지법.json",
+            "target_git_path": "에너지법/법률/에너지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -165,7 +169,9 @@
             "source_provision_id": "admrul:지역에너지절약시설보조사업운용지침#JO0004",
             "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json"
+            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -185,7 +191,9 @@
             "source_provision_id": "admrul:지역에너지절약시설보조사업운용지침#JO0004",
             "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json"
+            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -329,7 +337,8 @@
             "target_local_path": "별지/별지1_지역에너지절약 사업계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지역에너지절약 시설보조사업 운용지침/별지/별지1_지역에너지절약 사업계획서.hwp"
           }
         ],
         "images": [],
@@ -406,7 +415,8 @@
             "target_local_path": "별지/별지5_지역에너지절약 시설보조사업 변경신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지역에너지절약 시설보조사업 운용지침/별지/별지5_지역에너지절약 시설보조사업 변경신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -436,7 +446,8 @@
             "target_local_path": "별지/별지6_지역에너지절약 시설보조사업 폐지신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지역에너지절약 시설보조사업 운용지침/별지/별지6_지역에너지절약 시설보조사업 폐지신청서.hwp"
           }
         ],
         "images": [],
@@ -478,7 +489,8 @@
             "target_local_path": "별지/별지2_지역에너지절약 시설보조사업 자금교부신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지역에너지절약 시설보조사업 운용지침/별지/별지2_지역에너지절약 시설보조사업 자금교부신청서.hwp"
           }
         ],
         "images": [],
@@ -520,7 +532,8 @@
             "target_local_path": "별지/별지3_지역에너지절약 시설보조사업 추진현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지역에너지절약 시설보조사업 운용지침/별지/별지3_지역에너지절약 시설보조사업 추진현황.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -610,7 +623,8 @@
             "target_local_path": "별지/별지4_지역에너지절약 시설보조사업 완료보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지역에너지절약 시설보조사업 운용지침/별지/별지4_지역에너지절약 시설보조사업 완료보고서.hwp"
           },
           {
             "relation_type": "citation",
@@ -630,7 +644,9 @@
             "source_provision_id": "admrul:지역에너지절약시설보조사업운용지침#JO0017",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

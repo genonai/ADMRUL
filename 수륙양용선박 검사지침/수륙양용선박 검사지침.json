@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:수륙양용선박검사지침#DOC",
             "reference_id": "law:어촌어항법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어촌·어항법/법률/어촌·어항법.json"
+            "target_git_path_guess": "어촌·어항법/법률/어촌·어항법.json",
+            "target_git_path": "어촌ㆍ어항법/법률/어촌ㆍ어항법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -96,7 +98,8 @@
             "target_local_path": "별표/별표1_구명설비의 비치수량 (제9호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수륙양용선박 검사지침/별표/별표1_구명설비의 비치수량 (제9호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -126,7 +129,8 @@
             "target_local_path": "별표/별표2_항해설비의 비치수량 (제12호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수륙양용선박 검사지침/별표/별표2_항해설비의 비치수량 (제12호 관련).hwp"
           },
           {
             "relation_type": "citation",

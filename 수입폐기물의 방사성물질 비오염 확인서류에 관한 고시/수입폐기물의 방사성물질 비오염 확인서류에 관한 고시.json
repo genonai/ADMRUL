@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:수입폐기물의방사성물질비오염확인서류에관한고시#JO0001",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:수입폐기물의방사성물질비오염확인서류에관한고시#JO0001",
             "reference_id": "law:원자력안전법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -164,7 +168,8 @@
             "target_local_path": "서식/서식1_방사성물질 간이측정결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입폐기물의 방사성물질 비오염 확인서류에 관한 고시/서식/서식1_방사성물질 간이측정결과.hwp"
           }
         ],
         "images": [],
@@ -196,7 +201,9 @@
             "source_provision_id": "admrul:수입폐기물의방사성물질비오염확인서류에관한고시#JO0004",
             "reference_id": "law:행정규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

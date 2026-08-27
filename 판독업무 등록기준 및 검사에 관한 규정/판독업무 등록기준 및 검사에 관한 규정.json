@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0001",
             "reference_id": "law:원자력안전법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0001",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0001",
             "reference_id": "law:원자력안전법시행령#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0001",
             "reference_id": "law:원자력안전법시행규칙#JO0113",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -150,9 +158,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0001",
             "target_unit": "BYL0002",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0002",
+            "reference_id": "law:원자력안전법시행규칙#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표2_기술인력ㆍ시설기준 및 취급기준(제113조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -212,9 +223,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0003",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -234,7 +247,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0003",
             "reference_id": "law:원자력안전법시행규칙#JO0113",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -266,7 +281,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0004",
             "reference_id": "law:원자력안전법시행규칙#JO0113",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -308,7 +325,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0005",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -328,7 +347,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0005",
             "reference_id": "law:원자력안전법시행령#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -358,7 +379,8 @@
             "target_local_path": "별지/별지1_(재)성능검사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "판독업무 등록기준 및 검사에 관한 규정/별지/별지1_(재)성능검사 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -388,7 +410,8 @@
             "target_local_path": "별지/별지2_선량계 판독 결과 보고서(고 선량 범주).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "판독업무 등록기준 및 검사에 관한 규정/별지/별지2_선량계 판독 결과 보고서(고 선량 범주).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -418,7 +441,8 @@
             "target_local_path": "별지/별지2의2_선량계 판독 결과 보고서(고선량을 제외한 기타 범주).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "판독업무 등록기준 및 검사에 관한 규정/별지/별지2의2_선량계 판독 결과 보고서(고선량을 제외한 기타 범주).hwp"
           }
         ],
         "images": [],
@@ -450,7 +474,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0006",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -470,7 +496,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0006",
             "reference_id": "law:원자력안전법시행령#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -490,7 +518,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0006",
             "reference_id": "law:원자력안전법시행규칙#JO0114",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -513,9 +543,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0006",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0003",
+            "reference_id": "law:원자력안전법시행규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표3_판독성능검사의 범주 및 합격기준(제114조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -538,9 +571,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0006",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0003",
+            "reference_id": "law:원자력안전법시행규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표3_판독성능검사의 범주 및 합격기준(제114조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -570,7 +606,8 @@
             "target_local_path": "별표/별표1_방사선 종류별 최소 신청범주(제6조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "판독업무 등록기준 및 검사에 관한 규정/별표/별표1_방사선 종류별 최소 신청범주(제6조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -593,9 +630,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0006",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0003",
+            "reference_id": "law:원자력안전법시행규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표3_판독성능검사의 범주 및 합격기준(제114조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -618,9 +658,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0006",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0003",
+            "reference_id": "law:원자력안전법시행규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표3_판독성능검사의 범주 및 합격기준(제114조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -703,9 +746,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0007",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0003",
+            "reference_id": "law:원자력안전법시행규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표3_판독성능검사의 범주 및 합격기준(제114조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -764,9 +810,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0008",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0003",
+            "reference_id": "law:원자력안전법시행규칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표3_판독성능검사의 범주 및 합격기준(제114조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -801,9 +850,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0009",
             "target_unit": "BYL0002",
-            "reference_id": "admrul:원자력안전법시행규칙#BYL0002",
+            "reference_id": "law:원자력안전법시행규칙#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_file_path": "원자력안전법/시행규칙/별표/별표2_기술인력ㆍ시설기준 및 취급기준(제113조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -859,7 +911,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0010",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -879,7 +933,9 @@
             "source_provision_id": "admrul:판독업무등록기준및검사에관한규정#JO0010",
             "reference_id": "law:원자력안전법시행령#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

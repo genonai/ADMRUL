@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:지출증빙서류의수취특례거래고시#JO0001",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -97,7 +99,8 @@
             "target_local_path": "별지/별지1_경비 등의 송금명세서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지출증빙서류의 수취특례거래 고시/별지/별지1_경비 등의 송금명세서.hwp"
           }
         ],
         "images": [],

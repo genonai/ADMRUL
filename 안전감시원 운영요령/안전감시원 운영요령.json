@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0001",
             "reference_id": "law:제품안전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json"
+            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json",
+            "target_git_path": "제품안전기본법/법률/제품안전기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0001",
             "reference_id": "law:제품안전기본법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json"
+            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json",
+            "target_git_path": "제품안전기본법/법률/제품안전기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0003",
             "reference_id": "law:전기용품및생활용품안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/법률/전기용품 및 생활용품 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0003",
             "reference_id": "law:어린이제품안전특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어린이제품안전특별법/법률/어린이제품안전특별법.json"
+            "target_git_path_guess": "어린이제품안전특별법/법률/어린이제품안전특별법.json",
+            "target_git_path": "어린이제품 안전 특별법/법률/어린이제품 안전 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0003",
             "reference_id": "law:제품안전기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/시행령/제품안전기본법 시행령.json"
+            "target_git_path_guess": "제품안전기본법/시행령/제품안전기본법 시행령.json",
+            "target_git_path": "제품안전기본법/시행령/제품안전기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -190,7 +200,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0003",
             "reference_id": "law:제품안전기본법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/시행령/제품안전기본법 시행령.json"
+            "target_git_path_guess": "제품안전기본법/시행령/제품안전기본법 시행령.json",
+            "target_git_path": "제품안전기본법/시행령/제품안전기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -268,7 +280,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0006",
             "reference_id": "law:제품안전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json"
+            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json",
+            "target_git_path": "제품안전기본법/법률/제품안전기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -288,7 +302,9 @@
             "source_provision_id": "admrul:안전감시원운영요령#JO0006",
             "reference_id": "law:제품안전기본법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json"
+            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json",
+            "target_git_path": "제품안전기본법/법률/제품안전기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -342,7 +358,8 @@
             "target_local_path": "별지/별지1_안전감시원 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전감시원 운영요령/별지/별지1_안전감시원 추천서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -372,7 +389,8 @@
             "target_local_path": "별지/별지5_개인정보 제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전감시원 운영요령/별지/별지5_개인정보 제공 동의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -402,7 +420,8 @@
             "target_local_path": "별지/별지1_안전감시원 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전감시원 운영요령/별지/별지1_안전감시원 추천서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -480,7 +499,8 @@
             "target_local_path": "별지/별지2_안전감시원 증표 발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전감시원 운영요령/별지/별지2_안전감시원 증표 발급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -510,7 +530,8 @@
             "target_local_path": "별지/별지3_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전감시원 운영요령/별지/별지3_위촉장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -540,7 +561,8 @@
             "target_local_path": "별지/별지4_안전감시원 증표 서식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전감시원 운영요령/별지/별지4_안전감시원 증표 서식.hwp"
           }
         ],
         "images": [],
@@ -618,7 +640,8 @@
             "target_local_path": "별지/별지4_안전감시원 증표 서식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "안전감시원 운영요령/별지/별지4_안전감시원 증표 서식.hwp"
           }
         ],
         "images": [],

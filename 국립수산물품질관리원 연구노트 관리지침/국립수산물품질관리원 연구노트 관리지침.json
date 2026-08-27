@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립수산물품질관리원연구노트관리지침#JO0001",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립수산물품질관리원연구노트관리지침#JO0001",
             "reference_id": "law:국가연구개발혁신법시행령#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -341,7 +345,8 @@
             "target_local_path": "별지/별지1_연구노트.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 연구노트 관리지침/별지/별지1_연구노트.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -371,7 +376,8 @@
             "target_local_path": "별표/별표1_연구노트 관리번호 부여방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 연구노트 관리지침/별표/별표1_연구노트 관리번호 부여방법.hwp"
           }
         ],
         "images": [],
@@ -424,7 +430,8 @@
             "target_local_path": "별지/별지2_연구노트 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 연구노트 관리지침/별지/별지2_연구노트 변경 신청서.hwp"
           }
         ],
         "images": [],
@@ -499,7 +506,8 @@
             "target_local_path": "별지/별지3_연구노트 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 연구노트 관리지침/별지/별지3_연구노트 관리대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -519,7 +527,9 @@
             "source_provision_id": "admrul:국립수산물품질관리원연구노트관리지침#JO0014",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -561,7 +571,8 @@
             "target_local_path": "별표/별표2_연구노트 열람등급별 열람권한.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 연구노트 관리지침/별표/별표2_연구노트 열람등급별 열람권한.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -591,7 +602,8 @@
             "target_local_path": "별지/별지4_연구노트 열람 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 연구노트 관리지침/별지/별지4_연구노트 열람 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -621,7 +633,8 @@
             "target_local_path": "별지/별지5_연구노트 열람대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수산물품질관리원 연구노트 관리지침/별지/별지5_연구노트 열람대장.hwp"
           }
         ],
         "images": [],

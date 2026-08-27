@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:실내공간정보구축작업규정#JO0001",
             "reference_id": "law:국가공간정보기본법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:실내공간정보구축작업규정#JO0001",
             "reference_id": "law:국가공간정보기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:실내공간정보구축작업규정#JO0001",
             "reference_id": "law:국가공간정보기본법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:실내공간정보구축작업규정#JO0002",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:실내공간정보구축작업규정#JO0002",
             "reference_id": "law:국가공간정보기본법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:실내공간정보구축작업규정#JO0002",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:실내공간정보구축작업규정#JO0002",
             "reference_id": "law:건축법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -263,7 +277,8 @@
             "target_local_path": "별표/별표1_실내공간정보 세밀도 정의.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표1_실내공간정보 세밀도 정의.hwp"
           }
         ],
         "images": [],
@@ -305,7 +320,8 @@
             "target_local_path": "별표/별표2_실내공간정보 레이어 분류체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표2_실내공간정보 레이어 분류체계.hwp"
           }
         ],
         "images": [],
@@ -347,7 +363,8 @@
             "target_local_path": "별표/별표3_실내공간정보 표준데이터 사양.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표3_실내공간정보 표준데이터 사양.hwp"
           }
         ],
         "images": [],
@@ -389,7 +406,8 @@
             "target_local_path": "별표/별표4_건축도면을 이용한 실내공간정보 구축절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표4_건축도면을 이용한 실내공간정보 구축절차.hwp"
           }
         ],
         "images": [],
@@ -583,7 +601,8 @@
             "target_local_path": "별표/별표2_실내공간정보 레이어 분류체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표2_실내공간정보 레이어 분류체계.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -613,7 +632,8 @@
             "target_local_path": "별표/별표5_실내공간정보 레이어 명명규칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표5_실내공간정보 레이어 명명규칙.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -643,7 +663,8 @@
             "target_local_path": "별표/별표6_실내공간정보 속성입력.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표6_실내공간정보 속성입력.hwp"
           }
         ],
         "images": [],
@@ -696,7 +717,8 @@
             "target_local_path": "별표/별표7_세밀도에 따른 가시화정보 제작기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표7_세밀도에 따른 가시화정보 제작기준.hwp"
           }
         ],
         "images": [],
@@ -749,7 +771,8 @@
             "target_local_path": "별표/별표5_실내공간정보 레이어 명명규칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표5_실내공간정보 레이어 명명규칙.hwp"
           }
         ],
         "images": [],
@@ -791,7 +814,8 @@
             "target_local_path": "별표/별표3_실내공간정보 표준데이터 사양.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표3_실내공간정보 표준데이터 사양.hwp"
           }
         ],
         "images": [],
@@ -880,7 +904,8 @@
             "target_local_path": "별표/별표8_지상레이저측량을 이용한 실내공간정보 구축절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표8_지상레이저측량을 이용한 실내공간정보 구축절차.hwp"
           }
         ],
         "images": [],
@@ -1074,7 +1099,8 @@
             "target_local_path": "별표/별표9_실내공간정보 주요항목별 평면도화.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표9_실내공간정보 주요항목별 평면도화.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1104,7 +1130,8 @@
             "target_local_path": "별표/별표5_실내공간정보 레이어 명명규칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표5_실내공간정보 레이어 명명규칙.hwp"
           }
         ],
         "images": [],
@@ -1229,7 +1256,8 @@
             "target_local_path": "별표/별표5_실내공간정보 레이어 명명규칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표5_실내공간정보 레이어 명명규칙.hwp"
           }
         ],
         "images": [],
@@ -1451,7 +1479,8 @@
             "target_local_path": "별표/별표10_실내공간정보 품질기준 및 품질검사표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표10_실내공간정보 품질기준 및 품질검사표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1481,7 +1510,8 @@
             "target_local_path": "별표/별표11_실내공간정보 위치정확도 품질기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표11_실내공간정보 위치정확도 품질기준.hwp"
           }
         ],
         "images": [],
@@ -1534,7 +1564,8 @@
             "target_local_path": "별표/별표12_실내공간정보 데이터 스키마 _ CityGML 2.0.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표12_실내공간정보 데이터 스키마 _ CityGML 2.0.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1564,7 +1595,8 @@
             "target_local_path": "별표/별표1_실내공간정보 세밀도 정의.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표1_실내공간정보 세밀도 정의.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1594,7 +1626,8 @@
             "target_local_path": "별표/별표3_실내공간정보 표준데이터 사양.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표3_실내공간정보 표준데이터 사양.hwp"
           }
         ],
         "images": [],
@@ -1672,7 +1705,8 @@
             "target_local_path": "별표/별표2_실내공간정보 레이어 분류체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표2_실내공간정보 레이어 분류체계.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1702,7 +1736,8 @@
             "target_local_path": "별표/별표5_실내공간정보 레이어 명명규칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표5_실내공간정보 레이어 명명규칙.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1732,7 +1767,8 @@
             "target_local_path": "별표/별표6_실내공간정보 속성입력.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표6_실내공간정보 속성입력.hwp"
           }
         ],
         "images": [],
@@ -1774,7 +1810,8 @@
             "target_local_path": "별표/별표13_실내공간정보 성과물 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표13_실내공간정보 성과물 목록.hwp"
           }
         ],
         "images": [],
@@ -1816,7 +1853,8 @@
             "target_local_path": "별표/별표13_실내공간정보 성과물 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "실내공간정보 구축 작업규정/별표/별표13_실내공간정보 성과물 목록.hwp"
           }
         ],
         "images": [],

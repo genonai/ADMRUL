@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0001",
             "reference_id": "law:국가표준기본법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0001",
             "reference_id": "law:국가표준기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json"
+            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_git_path": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0001",
             "reference_id": "law:국가표준기본법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json"
+            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_git_path": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -175,7 +181,9 @@
             "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0003",
             "reference_id": "law:국가표준기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json"
+            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_git_path": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -195,7 +203,9 @@
             "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0003",
             "reference_id": "law:국가표준기본법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json"
+            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_git_path": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -317,7 +327,8 @@
             "target_local_path": "별지/별지1_국가참조표준 데이터센터.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "참조표준 제정 및 보급에 관한 운영요령/별지/별지1_국가참조표준 데이터센터.hwp"
           }
         ],
         "images": [],
@@ -381,7 +392,8 @@
             "target_local_path": "별표/별표1_참조표준 분류기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "참조표준 제정 및 보급에 관한 운영요령/별표/별표1_참조표준 분류기준.hwp"
           }
         ],
         "images": [],

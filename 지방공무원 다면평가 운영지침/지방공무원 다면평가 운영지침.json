@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:지방공무원다면평가운영지침#DOC",
             "reference_id": "law:지방공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원임용령/법률/지방공무원임용령.json"
+            "target_git_path_guess": "지방공무원임용령/법률/지방공무원임용령.json",
+            "target_git_path": "지방공무원 임용령/법률/지방공무원 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -96,7 +98,8 @@
             "target_local_path": "붙임/붙임1_실적부문 평가서 양식(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방공무원 다면평가 운영지침/붙임/붙임1_실적부문 평가서 양식(예시).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -126,7 +129,8 @@
             "target_local_path": "붙임/붙임2_능력부문 평가서 양식(관리자용 예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방공무원 다면평가 운영지침/붙임/붙임2_능력부문 평가서 양식(관리자용 예시).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -156,7 +160,8 @@
             "target_local_path": "붙임/붙임3_능력부문 평가서 양식(실무자용 예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방공무원 다면평가 운영지침/붙임/붙임3_능력부문 평가서 양식(실무자용 예시).hwp"
           }
         ],
         "images": [

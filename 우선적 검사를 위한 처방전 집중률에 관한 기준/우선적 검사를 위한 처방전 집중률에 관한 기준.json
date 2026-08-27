@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:우선적검사를위한처방전집중률에관한기준#JO0001",
             "reference_id": "law:약사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/시행령/약사법 시행령.json"
+            "target_git_path_guess": "약사법/시행령/약사법 시행령.json",
+            "target_git_path": "약사법/시행령/약사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:우선적검사를위한처방전집중률에관한기준#JO0001",
             "reference_id": "law:약사법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/시행령/약사법 시행령.json"
+            "target_git_path_guess": "약사법/시행령/약사법 시행령.json",
+            "target_git_path": "약사법/시행령/약사법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -199,7 +203,8 @@
             "target_local_path": "서식/서식1_집중율 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우선적 검사를 위한 처방전 집중률에 관한 기준/서식/서식1_집중율 현황.hwp"
           }
         ],
         "images": [],
@@ -265,7 +270,8 @@
             "target_local_path": "서식/서식3_검사 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우선적 검사를 위한 처방전 집중률에 관한 기준/서식/서식3_검사 결과.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양환경공정시험기준고시#JO0001",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양환경공정시험기준고시#JO0001",
             "reference_id": "law:해양환경관리법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +143,9 @@
             "source_provision_id": "admrul:해양환경공정시험기준고시#JO0002",
             "reference_id": "law:해양환경관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json"
+            "target_git_path_guess": "해양환경관리법/법률/해양환경관리법.json",
+            "target_git_path": "해양환경관리법/법률/해양환경관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +165,9 @@
             "source_provision_id": "admrul:해양환경공정시험기준고시#JO0002",
             "reference_id": "law:해양환경보전및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양환경보전 및 활용에 관한 법률/법률/해양환경보전 및 활용에 관한 법률.json"
+            "target_git_path_guess": "해양환경보전 및 활용에 관한 법률/법률/해양환경보전 및 활용에 관한 법률.json",
+            "target_git_path": "해양환경 보전 및 활용에 관한 법률/법률/해양환경 보전 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +187,9 @@
             "source_provision_id": "admrul:해양환경공정시험기준고시#JO0002",
             "reference_id": "law:해양폐기물및해양오염퇴적물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양폐기물 및 해양오염퇴적물 관리법/법률/해양폐기물 및 해양오염퇴적물 관리법.json"
+            "target_git_path_guess": "해양폐기물 및 해양오염퇴적물 관리법/법률/해양폐기물 및 해양오염퇴적물 관리법.json",
+            "target_git_path": "해양폐기물 및 해양오염퇴적물 관리법/법률/해양폐기물 및 해양오염퇴적물 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +239,8 @@
             "target_local_path": "별표/별표1_해수공정시험기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경공정시험기준 고시/별표/별표1_해수공정시험기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -259,7 +270,8 @@
             "target_local_path": "별표/별표4_해양폐기물공정시험기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경공정시험기준 고시/별표/별표4_해양폐기물공정시험기준.hwp"
           }
         ],
         "images": [],
@@ -323,7 +335,8 @@
             "target_local_path": "별표/별표5_해양환경공정시험기준 제정체계 표준화 지침.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경공정시험기준 고시/별표/별표5_해양환경공정시험기준 제정체계 표준화 지침.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -353,7 +366,8 @@
             "target_local_path": "별지/별지1_해양환경공정시험기준 개정(안) 전ㆍ후 대비표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경공정시험기준 고시/별지/별지1_해양환경공정시험기준 개정(안) 전ㆍ후 대비표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -383,7 +397,8 @@
             "target_local_path": "별지/별지2_해양환경공정시험기준 제정(개정ㆍ폐지) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경공정시험기준 고시/별지/별지2_해양환경공정시험기준 제정(개정ㆍ폐지) 신청서.hwp"
           }
         ],
         "images": [],
@@ -458,7 +473,8 @@
             "target_local_path": "별지/별지3_해양환경공정시험기준 심의위원회 심의의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경공정시험기준 고시/별지/별지3_해양환경공정시험기준 심의위원회 심의의견서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -488,7 +504,8 @@
             "target_local_path": "별지/별지4_해양환경공정시험기준 소위원회 심의의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양환경공정시험기준 고시/별지/별지4_해양환경공정시험기준 소위원회 심의의견서.hwp"
           }
         ],
         "images": [],
@@ -531,7 +548,9 @@
             "source_provision_id": "admrul:해양환경공정시험기준고시#JO0011",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -610,7 +629,9 @@
             "source_provision_id": "admrul:해양환경공정시험기준고시#JO0014",
             "reference_id": "law:행정규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

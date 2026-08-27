@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:내항화물운송사업자의외국적선박용선제한에관한고시#JO0001",
             "reference_id": "law:해운법#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/법률/해운법.json"
+            "target_git_path_guess": "해운법/법률/해운법.json",
+            "target_git_path": "해운법/법률/해운법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:내항화물운송사업자의외국적선박용선제한에관한고시#JO0001",
             "reference_id": "law:해운법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/시행규칙/해운법 시행규칙.json"
+            "target_git_path_guess": "해운법/시행규칙/해운법 시행규칙.json",
+            "target_git_path": "해운법/시행규칙/해운법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:내항화물운송사업자의외국적선박용선제한에관한고시#JO0001",
             "reference_id": "law:해운법시행규칙#JO0026_11",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/시행규칙/해운법 시행규칙.json"
+            "target_git_path_guess": "해운법/시행규칙/해운법 시행규칙.json",
+            "target_git_path": "해운법/시행규칙/해운법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -209,7 +215,8 @@
             "target_local_path": "별지/별지1_외국적 선박 용선허가 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "내항화물운송사업자의 외국적 선박 용선제한에 관한 고시/별지/별지1_외국적 선박 용선허가 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -239,7 +246,8 @@
             "target_local_path": "별지/별지2_외국적 선박 용선 허가증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "내항화물운송사업자의 외국적 선박 용선제한에 관한 고시/별지/별지2_외국적 선박 용선 허가증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +277,8 @@
             "target_local_path": "별지/별지1_외국적 선박 용선허가 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "내항화물운송사업자의 외국적 선박 용선제한에 관한 고시/별지/별지1_외국적 선박 용선허가 신청서.hwp"
           }
         ],
         "images": [],

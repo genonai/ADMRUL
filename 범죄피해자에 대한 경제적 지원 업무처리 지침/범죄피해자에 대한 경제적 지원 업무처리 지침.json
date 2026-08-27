@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0002",
             "reference_id": "law:국가를당사자로하는소송에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -110,7 +112,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0003",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0003",
             "reference_id": "law:출입국관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0003",
             "reference_id": "law:재외동포의출입국과법적지위에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외동포의 출입국과 법적 지위에 관한 법률/법률/재외동포의 출입국과 법적 지위에 관한 법률.json"
+            "target_git_path_guess": "재외동포의 출입국과 법적 지위에 관한 법률/법률/재외동포의 출입국과 법적 지위에 관한 법률.json",
+            "target_git_path": "재외동포의 출입국과 법적 지위에 관한 법률/법률/재외동포의 출입국과 법적 지위에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0003",
             "reference_id": "law:재외동포의출입국과법적지위에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외동포의 출입국과 법적 지위에 관한 법률/법률/재외동포의 출입국과 법적 지위에 관한 법률.json"
+            "target_git_path_guess": "재외동포의 출입국과 법적 지위에 관한 법률/법률/재외동포의 출입국과 법적 지위에 관한 법률.json",
+            "target_git_path": "재외동포의 출입국과 법적 지위에 관한 법률/법률/재외동포의 출입국과 법적 지위에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -259,7 +269,8 @@
             "target_local_path": "별지/별지1_범죄피해자 경제적 지원 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지1_범죄피해자 경제적 지원 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -289,7 +300,8 @@
             "target_local_path": "별지/별지1_범죄피해자 경제적 지원 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지1_범죄피해자 경제적 지원 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -319,7 +331,8 @@
             "target_local_path": "별지/별지2_치료비·장례비 환수 및 대위행사 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지2_치료비·장례비 환수 및 대위행사 확인서.hwp"
           }
         ],
         "images": [],
@@ -529,7 +542,8 @@
             "target_local_path": "별지/별지3_범죄피해자 경제적 지원 카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지3_범죄피해자 경제적 지원 카드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -559,7 +573,8 @@
             "target_local_path": "별지/별지4_심의회 기초자료 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지4_심의회 기초자료 보고.hwp"
           }
         ],
         "images": [],
@@ -648,7 +663,8 @@
             "target_local_path": "별지/별지5_범죄피해자 경제적 지원 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지5_범죄피해자 경제적 지원 결정서.hwp"
           }
         ],
         "images": [],
@@ -797,7 +813,8 @@
             "target_local_path": "별표/별표1_범죄피해자에 대한 경제적 지원 감액기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별표/별표1_범죄피해자에 대한 경제적 지원 감액기준표.hwp"
           }
         ],
         "images": [],
@@ -886,7 +903,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0015",
             "reference_id": "law:국가를당사자로하는소송에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -906,7 +925,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0015",
             "reference_id": "law:국가를당사자로하는소송에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1046,7 +1067,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0016",
             "reference_id": "law:국가를당사자로하는소송에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1066,7 +1089,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0016",
             "reference_id": "law:국가를당사자로하는소송에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1086,7 +1111,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0016",
             "reference_id": "law:국가를당사자로하는소송에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 소송에 관한 법률/법률/국가를 당사자로 하는 소송에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1116,7 +1143,8 @@
             "target_local_path": "별표/별표2_증거서류 준비 목록표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별표/별표2_증거서류 준비 목록표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1146,7 +1174,8 @@
             "target_local_path": "별표/별표3_송부 서류 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별표/별표3_송부 서류 목록.hwp"
           }
         ],
         "images": [],
@@ -1259,7 +1288,8 @@
             "target_local_path": "별지/별지6_대위행사 종결 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지6_대위행사 종결 결정서.hwp"
           }
         ],
         "images": [],
@@ -1301,7 +1331,8 @@
             "target_local_path": "별지/별지7_환수 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지7_환수 결정서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1487,7 +1518,8 @@
             "target_local_path": "별지/별지8_회의록 및 심의결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지8_회의록 및 심의결정서.hwp"
           }
         ],
         "images": [],
@@ -1529,7 +1561,8 @@
             "target_local_path": "별지/별지9_경제적 지원 결정사항 통보.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지9_경제적 지원 결정사항 통보.hwp"
           }
         ],
         "images": [],
@@ -2145,7 +2178,8 @@
             "target_local_path": "별지/별지3_범죄피해자 경제적 지원 카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지3_범죄피해자 경제적 지원 카드.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2223,7 +2257,8 @@
             "target_local_path": "별지/별지9_경제적 지원 결정사항 통보.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지9_경제적 지원 결정사항 통보.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2468,7 +2503,8 @@
             "target_local_path": "별지/별지10_경제적지원 구상결정 및 처리내역.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지10_경제적지원 구상결정 및 처리내역.hwp"
           }
         ],
         "images": [],
@@ -2713,7 +2749,8 @@
             "target_local_path": "별지/별지2_치료비·장례비 환수 및 대위행사 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지2_치료비·장례비 환수 및 대위행사 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2743,7 +2780,8 @@
             "target_local_path": "별지/별지7_환수 결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지7_환수 결정서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2905,7 +2943,8 @@
             "target_local_path": "별지/별지11_범죄피해자 심리상담 의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "범죄피해자에 대한 경제적 지원 업무처리 지침/별지/별지11_범죄피해자 심리상담 의뢰서.hwp"
           }
         ],
         "images": [],
@@ -3500,7 +3539,9 @@
             "source_provision_id": "admrul:범죄피해자에대한경제적지원업무처리지침#JO0040_02",
             "reference_id": "law:범죄피해자보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "범죄피해자 보호법/법률/범죄피해자 보호법.json"
+            "target_git_path_guess": "범죄피해자 보호법/법률/범죄피해자 보호법.json",
+            "target_git_path": "범죄피해자 보호법/법률/범죄피해자 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:업무정지처분에갈음한과징금적용기준#JO0001",
             "reference_id": "law:국민건강보험법#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:업무정지처분에갈음한과징금적용기준#JO0001",
             "reference_id": "law:국민건강보험법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:업무정지처분에갈음한과징금적용기준#JO0001",
             "reference_id": "law:국민건강보험법시행령#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -153,7 +159,9 @@
             "source_provision_id": "admrul:업무정지처분에갈음한과징금적용기준#JO0001",
             "reference_id": "law:의료급여법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -173,7 +181,9 @@
             "source_provision_id": "admrul:업무정지처분에갈음한과징금적용기준#JO0001",
             "reference_id": "law:의료급여법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -193,7 +203,9 @@
             "source_provision_id": "admrul:업무정지처분에갈음한과징금적용기준#JO0001",
             "reference_id": "law:의료급여법시행령#JO0016_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -218,7 +230,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:의료급여법시행령#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json"
+            "target_git_path_guess": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_path": "의료급여법/시행령/의료급여법 시행령.json",
+            "target_git_file_path": "의료급여법/시행령/별표/별표3_과징금 부과 기준(제16조의4 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -295,7 +310,8 @@
             "target_local_path": "별지/별지1_과징금 (분할)납부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "업무정지처분에 갈음한 과징금 적용기준/별지/별지1_과징금 (분할)납부 신청서.hwp"
           }
         ],
         "images": [],
@@ -337,7 +353,8 @@
             "target_local_path": "별지/별지1_과징금 (분할)납부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "업무정지처분에 갈음한 과징금 적용기준/별지/별지1_과징금 (분할)납부 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -367,7 +384,8 @@
             "target_local_path": "별표/별표1_과징금 분할납부 산정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "업무정지처분에 갈음한 과징금 적용기준/별표/별표1_과징금 분할납부 산정기준.hwp"
           }
         ],
         "images": [],

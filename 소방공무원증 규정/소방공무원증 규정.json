@@ -132,7 +132,8 @@
             "target_local_path": "별지/별지1_공무원증 발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원증 규정/별지/별지1_공무원증 발급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -162,7 +163,8 @@
             "target_local_path": "별지/별지2_공무원증(발급, 재발급) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원증 규정/별지/별지2_공무원증(발급, 재발급) 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -218,7 +220,9 @@
             "source_provision_id": "admrul:소방공무원증규정#JO0007",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -248,7 +252,8 @@
             "target_local_path": "별지/별지1_공무원증 발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방공무원증 규정/별지/별지1_공무원증 발급대장.hwp"
           }
         ],
         "images": [],
@@ -280,7 +285,9 @@
             "source_provision_id": "admrul:소방공무원증규정#JO0008",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

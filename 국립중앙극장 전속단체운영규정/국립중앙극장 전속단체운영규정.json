@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0001",
             "reference_id": "law:문화체육관광부와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화체육관광부와 그 소속기관 직제/시행규칙/문화체육관광부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "문화체육관광부와 그 소속기관 직제/시행규칙/문화체육관광부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "문화체육관광부와 그 소속기관 직제/시행규칙/문화체육관광부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0001",
             "reference_id": "law:문화체육관광부와그소속기관직제시행규칙#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화체육관광부와 그 소속기관 직제/시행규칙/문화체육관광부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "문화체육관광부와 그 소속기관 직제/시행규칙/문화체육관광부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "문화체육관광부와 그 소속기관 직제/시행규칙/문화체육관광부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +203,8 @@
             "target_local_path": "별표/별표1_전속단체의 정원(제4조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 전속단체운영규정/별표/별표1_전속단체의 정원(제4조 제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -324,7 +329,8 @@
             "target_local_path": "별표/별표2_전속단체별 직책단원(제7조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 전속단체운영규정/별표/별표2_전속단체별 직책단원(제7조의2 관련).hwp"
           }
         ],
         "images": [],
@@ -366,7 +372,8 @@
             "target_local_path": "별지/별지1_명예퇴직 신청서(제7조의3 제7항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 전속단체운영규정/별지/별지1_명예퇴직 신청서(제7조의3 제7항 관련).hwp"
           }
         ],
         "images": [],
@@ -852,7 +859,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0024",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -872,7 +881,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0024",
             "reference_id": "law:의료법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -925,7 +936,8 @@
             "target_local_path": "별표/별표3_경조사특별휴가일수표(제26조 제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 전속단체운영규정/별표/별표3_경조사특별휴가일수표(제26조 제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -1012,7 +1024,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0032",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1030,9 +1044,11 @@
             "target_url": "https://www.law.go.kr/법령/남녀고용평등법",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0032",
-            "reference_id": "law:남녀고용평등법#DOC",
+            "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json"
+            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1052,7 +1068,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0032",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1072,7 +1090,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0032",
             "reference_id": "law:공무원임용령#JO0057_08",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1092,7 +1112,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0032",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json"
+            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1112,7 +1134,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0032",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1154,7 +1178,8 @@
             "target_local_path": "별표/별표4_예술감독 및 직책단원, 기획단원에 대한 연봉제 보수표(제33조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 전속단체운영규정/별표/별표4_예술감독 및 직책단원, 기획단원에 대한 연봉제 보수표(제33조 제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1184,7 +1209,8 @@
             "target_local_path": "별표/별표4_예술감독 및 직책단원, 기획단원에 대한 연봉제 보수표(제33조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 전속단체운영규정/별표/별표4_예술감독 및 직책단원, 기획단원에 대한 연봉제 보수표(제33조 제1항 관련).hwp"
           }
         ],
         "images": [
@@ -1226,7 +1252,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0033_02",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1246,7 +1274,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0033_02",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1276,7 +1306,8 @@
             "target_local_path": "별표/별표5_출연수당 지급표(제33조의2 제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 전속단체운영규정/별표/별표5_출연수당 지급표(제33조의2 제2항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1332,7 +1363,9 @@
             "source_provision_id": "admrul:국립중앙극장전속단체운영규정#JO0034",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

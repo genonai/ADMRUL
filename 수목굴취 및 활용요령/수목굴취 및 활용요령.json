@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:수목굴취및활용요령#JO0001",
             "reference_id": "law:산림자원의조성및관리에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
+            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:수목굴취및활용요령#JO0001",
             "reference_id": "law:산림자원의조성및관리에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
+            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:수목굴취및활용요령#JO0001",
             "reference_id": "law:산림자원의조성및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/시행규칙/산림자원의 조성 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/시행규칙/산림자원의 조성 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/시행규칙/산림자원의 조성 및 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -132,7 +138,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:산림자원의조성및관리에관한법률시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/시행규칙/산림자원의 조성 및 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/시행규칙/산림자원의 조성 및 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/시행규칙/산림자원의 조성 및 관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "산림자원의 조성 및 관리에 관한 법률/시행규칙/별표/별표3_기준벌기령, 벌채·굴취기준 및 임도 등의 시설기준(제7조제2항, 제10조제3항, 제44조제2항 및 제48조의5 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -252,7 +261,9 @@
             "source_provision_id": "admrul:수목굴취및활용요령#JO0011",
             "reference_id": "law:산림자원의조성및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
+            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -282,7 +293,8 @@
             "target_local_path": "서식/서식3_나무은행 수목기증 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식3_나무은행 수목기증 신청서.hwp"
           }
         ],
         "images": [],
@@ -335,7 +347,8 @@
             "target_local_path": "별표/별표2_수목굴취 및 옮겨 심는 방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/별표/별표2_수목굴취 및 옮겨 심는 방법.hwp"
           }
         ],
         "images": [],
@@ -399,7 +412,8 @@
             "target_local_path": "서식/서식1_수목굴취허가(신고) 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식1_수목굴취허가(신고) 대장.hwp"
           }
         ],
         "images": [],
@@ -477,7 +491,8 @@
             "target_local_path": "서식/서식2_입목 활용 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식2_입목 활용 계획서.hwp"
           }
         ],
         "images": [],
@@ -519,7 +534,8 @@
             "target_local_path": "서식/서식3_나무은행 수목기증 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식3_나무은행 수목기증 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -549,7 +565,8 @@
             "target_local_path": "서식/서식4_나무활용 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식4_나무활용 동의서.hwp"
           }
         ],
         "images": [],
@@ -591,7 +608,8 @@
             "target_local_path": "서식/서식5_활용수목 조사보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식5_활용수목 조사보고서.hwp"
           }
         ],
         "images": [],
@@ -644,7 +662,8 @@
             "target_local_path": "서식/서식6_나무은행 수목기증 접수대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식6_나무은행 수목기증 접수대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -674,7 +693,8 @@
             "target_local_path": "서식/서식7_나무은행 수목 수·불 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수목굴취 및 활용요령/서식/서식7_나무은행 수목 수·불 관리대장.hwp"
           }
         ],
         "images": [],

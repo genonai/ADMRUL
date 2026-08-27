@@ -67,7 +67,8 @@
             "source_provision_id": "admrul:맹견소유자정기교육교육기관지정#JO0001",
             "reference_id": "law:동물보호법#JO0013_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -87,7 +88,9 @@
             "source_provision_id": "admrul:맹견소유자정기교육교육기관지정#JO0001",
             "reference_id": "law:동물보호법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/시행규칙/동물보호법 시행규칙.json"
+            "target_git_path_guess": "동물보호법/시행규칙/동물보호법 시행규칙.json",
+            "target_git_path": "동물보호법/시행규칙/동물보호법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +110,9 @@
             "source_provision_id": "admrul:맹견소유자정기교육교육기관지정#JO0001",
             "reference_id": "law:동물보호법시행규칙#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/시행규칙/동물보호법 시행규칙.json"
+            "target_git_path_guess": "동물보호법/시행규칙/동물보호법 시행규칙.json",
+            "target_git_path": "동물보호법/시행규칙/동물보호법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +144,9 @@
             "source_provision_id": "admrul:맹견소유자정기교육교육기관지정#JO0002",
             "reference_id": "law:농업농촌및식품산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업·농촌 및 식품산업 기본법/법률/농업·농촌 및 식품산업 기본법.json"
+            "target_git_path_guess": "농업·농촌 및 식품산업 기본법/법률/농업·농촌 및 식품산업 기본법.json",
+            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +166,9 @@
             "source_provision_id": "admrul:맹견소유자정기교육교육기관지정#JO0002",
             "reference_id": "law:농업농촌및식품산업기본법#JO0011_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업·농촌 및 식품산업 기본법/법률/농업·농촌 및 식품산업 기본법.json"
+            "target_git_path_guess": "농업·농촌 및 식품산업 기본법/법률/농업·농촌 및 식품산업 기본법.json",
+            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

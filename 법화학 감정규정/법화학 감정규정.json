@@ -125,7 +125,9 @@
             "source_provision_id": "admrul:법화학감정규정#JO0004",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,7 +147,9 @@
             "source_provision_id": "admrul:법화학감정규정#JO0004",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -165,7 +169,9 @@
             "source_provision_id": "admrul:법화학감정규정#JO0004",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -205,7 +211,9 @@
             "source_provision_id": "admrul:법화학감정규정#JO0004",
             "reference_id": "law:토양환경보전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "토양환경보전법/법률/토양환경보전법.json"
+            "target_git_path_guess": "토양환경보전법/법률/토양환경보전법.json",
+            "target_git_path": "토양환경보전법/법률/토양환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -225,7 +233,9 @@
             "source_provision_id": "admrul:법화학감정규정#JO0004",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -318,7 +328,8 @@
             "target_local_path": "별표/별표1_감정물 종류.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법화학 감정규정/별표/별표1_감정물 종류.hwp"
           }
         ],
         "images": [],
@@ -382,7 +393,8 @@
             "target_local_path": "별지/별지2_법화학 감정물 접수처리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법화학 감정규정/별지/별지2_법화학 감정물 접수처리대장.hwp"
           }
         ],
         "images": [],
@@ -471,7 +483,8 @@
             "target_local_path": "별지/별지3_표준품 수납관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법화학 감정규정/별지/별지3_표준품 수납관리카드.hwp"
           }
         ],
         "images": [],
@@ -513,7 +526,8 @@
             "target_local_path": "별지/별지4_감정물 소급성 유지표 및 감정일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법화학 감정규정/별지/별지4_감정물 소급성 유지표 및 감정일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -543,7 +557,8 @@
             "target_local_path": "별지/별지5_잔여감정물 보존ㆍ폐기대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법화학 감정규정/별지/별지5_잔여감정물 보존ㆍ폐기대장.hwp"
           }
         ],
         "images": [],

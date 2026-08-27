@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0001",
             "reference_id": "law:국민건강보험법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json"
+            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_git_path": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0001",
             "reference_id": "law:국민건강보험법시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json"
+            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_git_path": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0001",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -132,7 +138,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_file_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/별표/별표1_요양급여의 적용기준 및 방법(제5조제1항관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -164,7 +173,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0002",
             "reference_id": "law:국민건강보험법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json"
+            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_git_path": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -184,7 +195,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0002",
             "reference_id": "law:국민건강보험법시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json"
+            "target_git_path_guess": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_git_path": "국민건강보험법/시행규칙/국민건강보험법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -214,7 +227,8 @@
             "target_local_path": "별표/별표1_의료장비현황 신고대상.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별표/별표1_의료장비현황 신고대상.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -244,7 +258,8 @@
             "target_local_path": "별표/별표2_의료장비 표준코드의 구성체계(제2조제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별표/별표2_의료장비 표준코드의 구성체계(제2조제2호 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -264,7 +279,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0002",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -289,7 +306,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_file_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/별표/별표1_요양급여의 적용기준 및 방법(제5조제1항관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -355,7 +375,8 @@
             "target_local_path": "별표/별표1_의료장비현황 신고대상.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별표/별표1_의료장비현황 신고대상.hwp"
           },
           {
             "relation_type": "citation",
@@ -375,7 +396,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:진단용방사선발생장치의안전관리에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -395,7 +418,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:진단용방사선발생장치의안전관리에관한규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -415,7 +440,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -435,7 +462,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:병역법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -455,7 +484,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:국군의무사령부령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json"
+            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_git_path": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,7 +506,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:국군의무사령부령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json"
+            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_git_path": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -495,7 +528,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:학교보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교보건법/법률/학교보건법.json"
+            "target_git_path_guess": "학교보건법/법률/학교보건법.json",
+            "target_git_path": "학교보건법/법률/학교보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -515,7 +550,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:학교보건법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교보건법/법률/학교보건법.json"
+            "target_git_path_guess": "학교보건법/법률/학교보건법.json",
+            "target_git_path": "학교보건법/법률/학교보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -535,7 +572,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -555,7 +594,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -597,7 +638,8 @@
             "target_local_path": "별표/별표3_의료장비 바코드의 구성체계(제4조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별표/별표3_의료장비 바코드의 구성체계(제4조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -627,7 +669,8 @@
             "target_local_path": "별표/별표4_의료장비 바코드의 인쇄크기 및 색상(제4조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별표/별표4_의료장비 바코드의 인쇄크기 및 색상(제4조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -669,7 +712,8 @@
             "target_local_path": "별표/별표5_의료장비 RFID tag의 구성체계(제5조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별표/별표5_의료장비 RFID tag의 구성체계(제5조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -699,7 +743,8 @@
             "target_local_path": "별표/별표6_의료장비 RFID tag의 선정기준 등(제5조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별표/별표6_의료장비 RFID tag의 선정기준 등(제5조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -803,7 +848,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:진단용방사선발생장치의안전관리에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -823,7 +870,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:진단용방사선발생장치의안전관리에관한규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json"
+            "target_git_path_guess": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_git_path": "진단용 방사선 발생장치의 안전관리에 관한 규칙/법률/진단용 방사선 발생장치의 안전관리에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -843,7 +892,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -863,7 +914,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:병역법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -883,7 +936,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:국군의무사령부령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json"
+            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_git_path": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -903,7 +958,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:국군의무사령부령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json"
+            "target_git_path_guess": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_git_path": "국군의무사령부령/법률/국군의무사령부령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -923,7 +980,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:학교보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교보건법/법률/학교보건법.json"
+            "target_git_path_guess": "학교보건법/법률/학교보건법.json",
+            "target_git_path": "학교보건법/법률/학교보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -943,7 +1002,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:학교보건법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "학교보건법/법률/학교보건법.json"
+            "target_git_path_guess": "학교보건법/법률/학교보건법.json",
+            "target_git_path": "학교보건법/법률/학교보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -963,7 +1024,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -983,7 +1046,9 @@
             "source_provision_id": "admrul:의료장비현황신고대상및식별부호화에관한기준#JO0006",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1049,7 +1114,8 @@
             "target_local_path": "별지/별지1_의료장비 바코드 심벌 재발급 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료장비현황 신고대상 및 식별부호화에 관한 기준/별지/별지1_의료장비 바코드 심벌 재발급 요청서.hwp"
           },
           {
             "relation_type": "internal_ref",

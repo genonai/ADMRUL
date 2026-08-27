@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:행정중심복합도시건설청기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -204,7 +210,8 @@
             "target_local_path": "별지/별지1_이관목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 기록관 운영규정/별지/별지1_이관목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -234,7 +241,8 @@
             "target_local_path": "별지/별지2_이관연기신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 기록관 운영규정/별지/별지2_이관연기신청서.hwp"
           }
         ],
         "images": [],
@@ -342,7 +350,8 @@
             "target_local_path": "별지/별지3_기록관 출입대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 기록관 운영규정/별지/별지3_기록관 출입대장.hwp"
           }
         ],
         "images": [],
@@ -384,7 +393,8 @@
             "target_local_path": "별지/별지4_기록물 반출ㆍ반입서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 기록관 운영규정/별지/별지4_기록물 반출ㆍ반입서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -414,7 +424,8 @@
             "target_local_path": "별지/별지5_준영구기록물 이상 반출ㆍ반입서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정중심복합도시건설청 기록관 운영규정/별지/별지5_준영구기록물 이상 반출ㆍ반입서.hwp"
           }
         ],
         "images": [],

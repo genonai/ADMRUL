@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0001",
             "reference_id": "law:국가공무원법#JO0032_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0001",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0001",
             "reference_id": "law:공무원임용령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0002",
             "reference_id": "law:공무원인재개발법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json"
+            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_git_path": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0002",
             "reference_id": "law:공무원인재개발법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json"
+            "target_git_path_guess": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_git_path": "공무원 인재개발법/법률/공무원 인재개발법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +235,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0002",
             "reference_id": "law:재외공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공무원 복무규정/법률/재외공무원 복무규정.json"
+            "target_git_path_guess": "재외공무원 복무규정/법률/재외공무원 복무규정.json",
+            "target_git_path": "재외공무원 복무규정/법률/재외공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -277,7 +291,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0005",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -396,7 +412,8 @@
             "target_local_path": "별지/별지1_소재 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지1_소재 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -426,7 +443,8 @@
             "target_local_path": "별지/별지2_소재변경 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지2_소재변경 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -456,7 +474,8 @@
             "target_local_path": "별지/별지3_질병, 사고 등 신상변동보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지3_질병, 사고 등 신상변동보고서.hwp"
           }
         ],
         "images": [],
@@ -509,7 +528,8 @@
             "target_local_path": "별지/별지4의1_(공무 외 목적 일시귀국·파견국 이외 지역 업무수행) 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지4의1_(공무 외 목적 일시귀국·파견국 이외 지역 업무수행) 보고.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -539,7 +559,8 @@
             "target_local_path": "별지/별지4의2_공무 목적 일시귀국 허가신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지4의2_공무 목적 일시귀국 허가신청서.hwp"
           }
         ],
         "images": [],
@@ -571,7 +592,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0016",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -601,7 +624,8 @@
             "target_local_path": "별지/별지5_휴가 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지5_휴가 보고.hwp"
           }
         ],
         "images": [],
@@ -654,7 +678,8 @@
             "target_local_path": "별지/별지6_활동계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지6_활동계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -684,7 +709,8 @@
             "target_local_path": "별지/별지7_사업 활동실적보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지7_사업 활동실적보고.hwp"
           }
         ],
         "images": [],
@@ -737,7 +763,8 @@
             "target_local_path": "별지/별지8_산림동향보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지8_산림동향보고.hwp"
           }
         ],
         "images": [],
@@ -791,7 +818,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0023",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -811,7 +840,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0023",
             "reference_id": "law:국가공무원복무규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -898,7 +929,8 @@
             "target_local_path": "별지/별지9_주택임차계약승인신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산림청 국외파견공무원 복무관리 및 경비지급 규정/별지/별지9_주택임차계약승인신청서.hwp"
           }
         ],
         "images": [],
@@ -976,7 +1008,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0027",
             "reference_id": "law:재외공무원수당지급규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공무원 수당 지급 규칙/법률/재외공무원 수당 지급 규칙.json"
+            "target_git_path_guess": "재외공무원 수당 지급 규칙/법률/재외공무원 수당 지급 규칙.json",
+            "target_git_path": "재외공무원 수당 지급 규칙/법률/재외공무원 수당 지급 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1001,7 +1035,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:재외공무원수당지급규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공무원 수당 지급 규칙/법률/재외공무원 수당 지급 규칙.json"
+            "target_git_path_guess": "재외공무원 수당 지급 규칙/법률/재외공무원 수당 지급 규칙.json",
+            "target_git_path": "재외공무원 수당 지급 규칙/법률/재외공무원 수당 지급 규칙.json",
+            "target_git_file_path": "재외공무원 수당 지급 규칙/법률/별표/별표2_특수지 근무수당 지급대상지역과 그 지역별 구분(제3조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1080,7 +1117,9 @@
             "source_provision_id": "admrul:산림청국외파견공무원복무관리및경비지급규정#JO0030",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

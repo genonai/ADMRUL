@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:잔류성오염물질관리에관한보고규정#JO0001",
             "reference_id": "law:잔류성오염물질관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json"
+            "target_git_path_guess": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json",
+            "target_git_path": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:잔류성오염물질관리에관한보고규정#JO0001",
             "reference_id": "law:잔류성오염물질관리법시행규칙#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json"
+            "target_git_path_guess": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json",
+            "target_git_path": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:잔류성오염물질관리에관한보고규정#JO0001",
             "reference_id": "law:잔류성오염물질관리법시행규칙#JO0023_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json"
+            "target_git_path_guess": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json",
+            "target_git_path": "잔류성오염물질 관리법/시행규칙/잔류성오염물질 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -149,7 +155,8 @@
             "target_local_path": "별지/별지5_잔류성오염물질함유폐기물 재활용시설에 대한 사용중지명령ㆍ폐쇄명령 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지5_잔류성오염물질함유폐기물 재활용시설에 대한 사용중지명령ㆍ폐쇄명령 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -179,7 +186,8 @@
             "target_local_path": "별지/별지6_관리대상기기등의 신고 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지6_관리대상기기등의 신고 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +217,8 @@
             "target_local_path": "별지/별지7_오염기기등의 소유자에 대한 조치명령 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지7_오염기기등의 소유자에 대한 조치명령 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -239,7 +248,8 @@
             "target_local_path": "별지/별지8_과태료 및 과징금 부과ㆍ징수 실적 및 체납처분 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지8_과태료 및 과징금 부과ㆍ징수 실적 및 체납처분 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +279,8 @@
             "target_local_path": "별지/별지1_(예외적 취급허용, 취급제한) 잔류성오염물질 수출에 대한 승인 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지1_(예외적 취급허용, 취급제한) 잔류성오염물질 수출에 대한 승인 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -299,7 +310,8 @@
             "target_local_path": "별지/별지2_배출시설에 대한 개선명령, 사용중지명령 및 폐쇄명령 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지2_배출시설에 대한 개선명령, 사용중지명령 및 폐쇄명령 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -329,7 +341,8 @@
             "target_local_path": "별지/별지3_주변지역 영향조사 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지3_주변지역 영향조사 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -359,7 +372,8 @@
             "target_local_path": "별지/별지4_잔류성오염물질 배출사고 신고의 수리현황 및 조치명령 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지4_잔류성오염물질 배출사고 신고의 수리현황 및 조치명령 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -389,7 +403,8 @@
             "target_local_path": "별지/별지8_과태료 및 과징금 부과ㆍ징수 실적 및 체납처분 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "잔류성오염물질 관리에 관한 보고규정/별지/별지8_과태료 및 과징금 부과ㆍ징수 실적 및 체납처분 현황.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:간이과세를적용받을수있는사업고시#JO0001",
             "reference_id": "law:부가가치세법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:간이과세를적용받을수있는사업고시#JO0001",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:간이과세를적용받을수있는사업고시#JO0001",
             "reference_id": "law:부가가치세법시행령#JO0109",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:간이과세를적용받을수있는사업고시#JO0001",
             "reference_id": "law:부가가치세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:간이과세를적용받을수있는사업고시#JO0001",
             "reference_id": "law:부가가치세법시행규칙#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json"
+            "target_git_path_guess": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_git_path": "부가가치세법/시행규칙/부가가치세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -189,7 +199,8 @@
             "target_local_path": "별표/별표1_간이과세를 적용받을 수 있는 건설업.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세를 적용받을 수 있는 사업 고시/별표/별표1_간이과세를 적용받을 수 있는 건설업.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -219,7 +230,8 @@
             "target_local_path": "별표/별표3_간이과세를 적용받을 수 있는 사업시설관리·사업지원 및 임대서비스업.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "간이과세를 적용받을 수 있는 사업 고시/별표/별표3_간이과세를 적용받을 수 있는 사업시설관리·사업지원 및 임대서비스업.hwp"
           }
         ],
         "images": [],

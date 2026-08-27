@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:민주시민교육자문위원회규정#JO0001",
             "reference_id": "law:선거연수원운영규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거연수원 운영규칙/법률/선거연수원 운영규칙.json"
+            "target_git_path_guess": "선거연수원 운영규칙/법률/선거연수원 운영규칙.json",
+            "target_git_path": "선거연수원 운영규칙/법률/선거연수원 운영규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:민주시민교육자문위원회규정#JO0001",
             "reference_id": "law:선거연수원운영규칙#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "선거연수원 운영규칙/법률/선거연수원 운영규칙.json"
+            "target_git_path_guess": "선거연수원 운영규칙/법률/선거연수원 운영규칙.json",
+            "target_git_path": "선거연수원 운영규칙/법률/선거연수원 운영규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -140,7 +144,8 @@
             "target_local_path": "별지/별지1_본인승낙 및 비당원확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "민주시민교육자문위원회규정/별지/별지1_본인승낙 및 비당원확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +175,8 @@
             "target_local_path": "별지/별지2_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "민주시민교육자문위원회규정/별지/별지2_위촉장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -200,7 +206,8 @@
             "target_local_path": "별지/별지3_민주시민교육자문위원회 위원명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "민주시민교육자문위원회규정/별지/별지3_민주시민교육자문위원회 위원명부.hwp"
           }
         ],
         "images": [],

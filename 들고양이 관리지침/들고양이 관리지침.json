@@ -104,7 +104,9 @@
         "source_provision_id": "admrul:들고양이관리지침#DOC",
         "reference_id": "law:동물보호법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+        "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+        "target_git_path": "동물보호법/법률/동물보호법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -134,7 +136,8 @@
         "target_local_path": "별표/별표1_포획도구별 사용원리.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "들고양이 관리지침/별표/별표1_포획도구별 사용원리.hwp"
       },
       {
         "relation_type": "citation",
@@ -154,7 +157,9 @@
         "source_provision_id": "admrul:들고양이관리지침#DOC",
         "reference_id": "law:마약류관리에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+        "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+        "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -184,7 +189,8 @@
         "target_local_path": "별표/별표1_포획도구별 사용원리.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "들고양이 관리지침/별표/별표1_포획도구별 사용원리.hwp"
       },
       {
         "relation_type": "citation",

@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:(서울지방항공청)직무분류운영지침#JO0002",
             "reference_id": "law:국토교통부와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -131,7 +133,8 @@
             "target_local_path": "별표/별표1_직무분류표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(서울지방항공청) 직무분류 운영지침/별표/별표1_직무분류표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -161,7 +164,8 @@
             "target_local_path": "별표/별표2_직무기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(서울지방항공청) 직무분류 운영지침/별표/별표2_직무기술서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -191,7 +195,8 @@
             "target_local_path": "별표/별표1_직무분류표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(서울지방항공청) 직무분류 운영지침/별표/별표1_직무분류표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -221,7 +226,8 @@
             "target_local_path": "별지/별지1_업무분장표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(서울지방항공청) 직무분류 운영지침/별지/별지1_업무분장표.hwp"
           }
         ],
         "images": [],
@@ -263,7 +269,8 @@
             "target_local_path": "별표/별표1_직무분류표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(서울지방항공청) 직무분류 운영지침/별표/별표1_직무분류표.hwp"
           },
           {
             "relation_type": "appendix_ref",

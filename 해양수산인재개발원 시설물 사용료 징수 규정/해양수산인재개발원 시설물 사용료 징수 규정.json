@@ -146,7 +146,8 @@
             "target_local_path": "별지/별지1_시설물 사용신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산인재개발원 시설물 사용료 징수 규정/별지/별지1_시설물 사용신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -176,7 +177,8 @@
             "target_local_path": "별지/별지2_시설물사용 (변경,중단) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양수산인재개발원 시설물 사용료 징수 규정/별지/별지2_시설물사용 (변경,중단) 신청서.hwp"
           }
         ],
         "images": [],
@@ -241,7 +243,9 @@
             "source_provision_id": "admrul:해양수산인재개발원시설물사용료징수규정#JO0009",
             "reference_id": "law:사회복지사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json",
+            "target_git_path": "사회복지사업법/법률/사회복지사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

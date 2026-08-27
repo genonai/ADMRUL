@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:화재안전중점관리대상선정및관리규칙#JO0001",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:화재안전중점관리대상선정및관리규칙#JO0001",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별지/별지1_화재안전 중점관리대상 선정 심의의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화재안전 중점관리대상 선정 및 관리규칙/별지/별지1_화재안전 중점관리대상 선정 심의의결서.hwp"
           }
         ],
         "images": [],
@@ -228,7 +233,8 @@
             "target_local_path": "별표/별표1_화재안전 중점관리대상 선정 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화재안전 중점관리대상 선정 및 관리규칙/별표/별표1_화재안전 중점관리대상 선정 기준.hwp"
           }
         ],
         "images": [],
@@ -294,7 +300,8 @@
             "target_local_path": "별표/별표2_화재안전 중점관리대상 관리등급.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화재안전 중점관리대상 선정 및 관리규칙/별표/별표2_화재안전 중점관리대상 관리등급.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -324,7 +331,8 @@
             "target_local_path": "별지/별지2_화재위험성 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화재안전 중점관리대상 선정 및 관리규칙/별지/별지2_화재위험성 평가표.hwp"
           }
         ],
         "images": [],

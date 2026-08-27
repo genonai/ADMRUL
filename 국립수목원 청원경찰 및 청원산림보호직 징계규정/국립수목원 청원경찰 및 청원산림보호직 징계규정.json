@@ -217,7 +217,8 @@
             "target_local_path": "별지/별지1_청원직징계의결요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립수목원 청원경찰 및 청원산림보호직 징계규정/별지/별지1_청원직징계의결요구서.hwp"
           }
         ],
         "images": [],
@@ -282,7 +283,9 @@
             "source_provision_id": "admrul:국립수목원청원경찰및청원산림보호직징계규정#JO0011",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -302,7 +305,9 @@
             "source_provision_id": "admrul:국립수목원청원경찰및청원산림보호직징계규정#JO0011",
             "reference_id": "law:공무원징계령시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

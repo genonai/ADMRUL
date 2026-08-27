@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:도료함유휘발성유기화합물의면제물질지정에관한규정#JO0001",
             "reference_id": "law:대기환경보전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:도료함유휘발성유기화합물의면제물질지정에관한규정#JO0001",
             "reference_id": "law:대기환경보전법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -153,7 +157,8 @@
             "target_local_path": "별표/별표1_도료 중 휘발성유기화합물 면제물질.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "도료 함유 휘발성유기화합물의 면제물질 지정에 관한 규정/별표/별표1_도료 중 휘발성유기화합물 면제물질.hwp"
           }
         ],
         "images": [],
@@ -206,7 +211,8 @@
             "target_local_path": "별지/별지1_면제물질 지정 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "도료 함유 휘발성유기화합물의 면제물질 지정에 관한 규정/별지/별지1_면제물질 지정 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",

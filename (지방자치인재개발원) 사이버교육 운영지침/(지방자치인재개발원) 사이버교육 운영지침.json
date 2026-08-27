@@ -90,7 +90,9 @@
             "source_provision_id": "admrul:(지방자치인재개발원)사이버교육운영지침#DOC",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -120,7 +122,8 @@
             "target_local_path": "별지/별지1_이러닝 콘텐츠 공동활용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(지방자치인재개발원) 사이버교육 운영지침/별지/별지1_이러닝 콘텐츠 공동활용 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -150,7 +153,8 @@
             "target_local_path": "별지/별지2_이러닝 콘텐츠 공동활용 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(지방자치인재개발원) 사이버교육 운영지침/별지/별지2_이러닝 콘텐츠 공동활용 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -180,7 +184,8 @@
             "target_local_path": "별지/별지3_품질분석 상세 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(지방자치인재개발원) 사이버교육 운영지침/별지/별지3_품질분석 상세 점검표.hwp"
           }
         ],
         "images": [],

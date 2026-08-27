@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0001",
             "reference_id": "law:국민건강증진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0001",
             "reference_id": "law:국민건강증진법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0002",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -234,7 +240,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0004",
             "reference_id": "law:국가정보원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
+            "target_git_path": "국가정보원법/법률/국가정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -254,7 +262,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0004",
             "reference_id": "law:국가정보원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
+            "target_git_path": "국가정보원법/법률/국가정보원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -329,7 +339,8 @@
             "target_local_path": "서식/서식1_연구과제 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식1_연구과제 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -359,7 +370,8 @@
             "target_local_path": "서식/서식2_연구자 지정 사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식2_연구자 지정 사유서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -389,7 +401,8 @@
             "target_local_path": "서식/서식3_연구과제 차별성 검토서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식3_연구과제 차별성 검토서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -455,7 +468,8 @@
             "target_local_path": "서식/서식4_연구제안 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식4_연구제안 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -485,7 +499,8 @@
             "target_local_path": "서식/서식1_연구과제 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식1_연구과제 신청서.hwp"
           }
         ],
         "images": [],
@@ -541,7 +556,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0010",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -583,7 +600,8 @@
             "target_local_path": "서식/서식5_윤리서약서(연구자 用).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식5_윤리서약서(연구자 用).hwp"
           }
         ],
         "images": [],
@@ -625,7 +643,8 @@
             "target_local_path": "서식/서식6_연구과제 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식6_연구과제 변경 신청서.hwp"
           }
         ],
         "images": [],
@@ -667,7 +686,8 @@
             "target_local_path": "서식/서식7_최종보고서 초록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식7_최종보고서 초록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -697,7 +717,8 @@
             "target_local_path": "서식/서식8_최종보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식8_최종보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -727,7 +748,8 @@
             "target_local_path": "서식/서식9_연구비사용실적보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식9_연구비사용실적보고서.hwp"
           }
         ],
         "images": [],
@@ -769,7 +791,8 @@
             "target_local_path": "서식/서식10_연구결과 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식10_연구결과 평가서.hwp"
           }
         ],
         "images": [],
@@ -907,7 +930,8 @@
             "target_local_path": "서식/서식8_최종보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식8_최종보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -937,7 +961,8 @@
             "target_local_path": "서식/서식10_연구결과 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식10_연구결과 평가서.hwp"
           },
           {
             "relation_type": "citation",
@@ -957,7 +982,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -977,7 +1004,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -997,7 +1026,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1017,7 +1048,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기록물관리에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1037,7 +1070,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1057,7 +1092,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기록물관리에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1077,7 +1114,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1097,7 +1136,9 @@
             "source_provision_id": "admrul:보건복지부건강증진정책연구용역관리규정#JO0017",
             "reference_id": "law:공공기록물관리에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1139,7 +1180,8 @@
             "target_local_path": "서식/서식11_연구과제 활용 결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식11_연구과제 활용 결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -1181,7 +1223,8 @@
             "target_local_path": "서식/서식12_보안서약서(연구자 用).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 건강증진정책 연구용역 관리규정/서식/서식12_보안서약서(연구자 用).hwp"
           }
         ],
         "images": [],

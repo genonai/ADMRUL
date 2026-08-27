@@ -149,7 +149,8 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:환경감시단운영세칙:admrul_60605#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경감시단 운영세칙/환경감시단 운영세칙.json"
+            "target_git_path_guess": "환경감시단 운영세칙/환경감시단 운영세칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -181,7 +182,11 @@
             "source_provision_id": "admrul:환경감시단운영세칙:admrul_60605#JO0008",
             "reference_id": "admrul:환경감시단운영세칙:admrul_60605#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경감시단 운영세칙/환경감시단 운영세칙.json"
+            "target_git_path_guess": "환경감시단 운영세칙/환경감시단 운영세칙.json",
+            "target_git_path": "환경감시단 운영세칙/admrul_60605/환경감시단 운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -246,7 +251,11 @@
             "source_provision_id": "admrul:환경감시단운영세칙:admrul_60605#JO0012",
             "reference_id": "admrul:환경감시단운영세칙:admrul_60605#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경감시단 운영세칙/환경감시단 운영세칙.json"
+            "target_git_path_guess": "환경감시단 운영세칙/환경감시단 운영세칙.json",
+            "target_git_path": "환경감시단 운영세칙/admrul_60605/환경감시단 운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -337,5 +346,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "환경감시단 운영세칙/admrul_60605/환경감시단 운영세칙.json"
+  "git_path": "환경감시단 운영세칙/admrul_60605/환경감시단 운영세칙.json",
+  "_schlpub_id_suffix": "admrul_60605"
 }

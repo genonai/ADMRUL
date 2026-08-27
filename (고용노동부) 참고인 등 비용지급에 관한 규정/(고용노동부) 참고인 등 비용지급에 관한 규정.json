@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:(고용노동부)참고인등비용지급에관한규정#JO0001",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:(고용노동부)참고인등비용지급에관한규정#JO0001",
             "reference_id": "law:형사소송법#JO0221",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -235,7 +239,8 @@
             "target_local_path": "서식/서식1_참고인등 비용 청구 및 영수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(고용노동부) 참고인 등 비용지급에 관한 규정/서식/서식1_참고인등 비용 청구 및 영수증.hwp"
           }
         ],
         "images": [],

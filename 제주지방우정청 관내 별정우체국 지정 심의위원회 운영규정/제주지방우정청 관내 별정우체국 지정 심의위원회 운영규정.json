@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:제주지방우정청관내별정우체국지정심의위원회운영규정#JO0001",
             "reference_id": "law:별정우체국법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정우체국법/시행령/별정우체국법 시행령.json"
+            "target_git_path_guess": "별정우체국법/시행령/별정우체국법 시행령.json",
+            "target_git_path": "별정우체국법/시행령/별정우체국법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:제주지방우정청관내별정우체국지정심의위원회운영규정#JO0001",
             "reference_id": "law:별정우체국법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정우체국법/시행령/별정우체국법 시행령.json"
+            "target_git_path_guess": "별정우체국법/시행령/별정우체국법 시행령.json",
+            "target_git_path": "별정우체국법/시행령/별정우체국법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -210,7 +214,9 @@
             "source_provision_id": "admrul:제주지방우정청관내별정우체국지정심의위원회운영규정#JO0008",
             "reference_id": "law:별정우체국법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정우체국법/법률/별정우체국법.json"
+            "target_git_path_guess": "별정우체국법/법률/별정우체국법.json",
+            "target_git_path": "별정우체국법/법률/별정우체국법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -230,7 +236,9 @@
             "source_provision_id": "admrul:제주지방우정청관내별정우체국지정심의위원회운영규정#JO0008",
             "reference_id": "law:별정우체국법#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정우체국법/법률/별정우체국법.json"
+            "target_git_path_guess": "별정우체국법/법률/별정우체국법.json",
+            "target_git_path": "별정우체국법/법률/별정우체국법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -250,7 +258,9 @@
             "source_provision_id": "admrul:제주지방우정청관내별정우체국지정심의위원회운영규정#JO0008",
             "reference_id": "law:별정우체국법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정우체국법/법률/별정우체국법.json"
+            "target_git_path_guess": "별정우체국법/법률/별정우체국법.json",
+            "target_git_path": "별정우체국법/법률/별정우체국법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -280,7 +290,8 @@
             "target_local_path": "별표/별표1_별정우체국 지정의 배점기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "제주지방우정청 관내 별정우체국 지정 심의위원회 운영규정/별표/별표1_별정우체국 지정의 배점기준표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -310,7 +321,8 @@
             "target_local_path": "별표/별표1_별정우체국 지정의 배점기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "제주지방우정청 관내 별정우체국 지정 심의위원회 운영규정/별표/별표1_별정우체국 지정의 배점기준표.hwp"
           }
         ],
         "images": [],

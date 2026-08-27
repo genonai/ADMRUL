@@ -170,7 +170,8 @@
             "target_local_path": "별표/별표1_연대급 의무중대 이하 군 보건의료 업무 분장(제5조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군의 업무 훈령/별표/별표1_연대급 의무중대 이하 군 보건의료 업무 분장(제5조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -202,7 +203,9 @@
             "source_provision_id": "admrul:군의업무훈령#JO0006",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -222,7 +225,9 @@
             "source_provision_id": "admrul:군의업무훈령#JO0006",
             "reference_id": "law:응급의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "응급의료에 관한 법률/법률/응급의료에 관한 법률.json"
+            "target_git_path_guess": "응급의료에 관한 법률/법률/응급의료에 관한 법률.json",
+            "target_git_path": "응급의료에 관한 법률/법률/응급의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

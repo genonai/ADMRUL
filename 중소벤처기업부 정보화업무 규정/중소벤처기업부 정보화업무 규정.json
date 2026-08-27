@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:중소벤처기업부정보화업무규정#JO0003",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:중소벤처기업부정보화업무규정#JO0003",
             "reference_id": "law:개인정보보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +133,9 @@
             "source_provision_id": "admrul:중소벤처기업부정보화업무규정#JO0003",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -149,7 +155,9 @@
             "source_provision_id": "admrul:중소벤처기업부정보화업무규정#JO0003",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -644,7 +652,8 @@
             "target_local_path": "서식/서식1_정보화사업 사전협의 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식1_정보화사업 사전협의 요청서.hwp"
           }
         ],
         "images": [],
@@ -723,7 +732,9 @@
             "source_provision_id": "admrul:중소벤처기업부정보화업무규정#JO0023",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -743,7 +754,9 @@
             "source_provision_id": "admrul:중소벤처기업부정보화업무규정#JO0023",
             "reference_id": "law:국가재정법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -796,7 +809,8 @@
             "target_local_path": "별표/별표1_정보기술아키텍처 관리조직 체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/별표/별표1_정보기술아키텍처 관리조직 체계.hwp"
           }
         ],
         "images": [],
@@ -838,7 +852,8 @@
             "target_local_path": "별표/별표2_정보기술아키텍처 현행화 관리 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/별표/별표2_정보기술아키텍처 현행화 관리 절차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -868,7 +883,8 @@
             "target_local_path": "서식/서식2_정보기술아키텍처 현행화 승인 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식2_정보기술아키텍처 현행화 승인 요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -898,7 +914,8 @@
             "target_local_path": "서식/서식3_표준프로파일 정의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식3_표준프로파일 정의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -928,7 +945,8 @@
             "target_local_path": "서식/서식4_데이터 표준 정의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식4_데이터 표준 정의서.hwp"
           }
         ],
         "images": [],
@@ -1050,7 +1068,8 @@
             "target_local_path": "별표/별표3_측정지표 정의 및 산식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/별표/별표3_측정지표 정의 및 산식.hwp"
           }
         ],
         "images": [],
@@ -1092,7 +1111,8 @@
             "target_local_path": "별표/별표4_측정결과 환산기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/별표/별표4_측정결과 환산기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1122,7 +1142,8 @@
             "target_local_path": "별표/별표5_유지관리 유형표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/별표/별표5_유지관리 유형표.hwp"
           }
         ],
         "images": [],
@@ -1164,7 +1185,8 @@
             "target_local_path": "별표/별표6_폐기유형 분류표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/별표/별표6_폐기유형 분류표.hwp"
           }
         ],
         "images": [],
@@ -1250,7 +1272,8 @@
             "target_local_path": "서식/서식5_내부 업무포탈 계정 관리 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식5_내부 업무포탈 계정 관리 현황.hwp"
           }
         ],
         "images": [],
@@ -1292,7 +1315,8 @@
             "target_local_path": "서식/서식6_업무용 전자우편 계정 관리 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식6_업무용 전자우편 계정 관리 현황.hwp"
           }
         ],
         "images": [],
@@ -1334,7 +1358,8 @@
             "target_local_path": "서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1364,7 +1389,8 @@
             "target_local_path": "서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1394,7 +1420,8 @@
             "target_local_path": "서식/서식8_공직자 통합메일 사용 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식8_공직자 통합메일 사용 통보서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1424,7 +1451,8 @@
             "target_local_path": "서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1454,7 +1482,8 @@
             "target_local_path": "서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식7_계정 신청서(내부포탈계정 _ 웹메일계정).hwp"
           }
         ],
         "images": [],
@@ -1540,7 +1569,8 @@
             "target_local_path": "서식/서식9_내부 업무포탈 관리자 계정 관리내역.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식9_내부 업무포탈 관리자 계정 관리내역.hwp"
           }
         ],
         "images": [],
@@ -1604,7 +1634,8 @@
             "target_local_path": "서식/서식10_소프트웨어 관리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식10_소프트웨어 관리 대장.hwp"
           }
         ],
         "images": [],
@@ -1646,7 +1677,8 @@
             "target_local_path": "서식/서식10_소프트웨어 관리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식10_소프트웨어 관리 대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1676,7 +1708,8 @@
             "target_local_path": "서식/서식11_소프트웨어 설치 현황표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식11_소프트웨어 설치 현황표.hwp"
           }
         ],
         "images": [],
@@ -1718,7 +1751,8 @@
             "target_local_path": "서식/서식12_인터넷 PC 문서편집 소프트웨어 설치 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식12_인터넷 PC 문서편집 소프트웨어 설치 신청서.hwp"
           }
         ],
         "images": [],
@@ -1837,7 +1871,8 @@
             "target_local_path": "서식/서식13_사무용 전산장비 관리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식13_사무용 전산장비 관리 대장.hwp"
           }
         ],
         "images": [],
@@ -1923,7 +1958,8 @@
             "target_local_path": "서식/서식15_홈페이지 코너 개설 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식15_홈페이지 코너 개설 신청서.hwp"
           }
         ],
         "images": [],
@@ -1965,7 +2001,8 @@
             "target_local_path": "서식/서식14_홈페이지 자료의 등록(수정ㆍ보완ㆍ삭제)요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중소벤처기업부 정보화업무 규정/서식/서식14_홈페이지 자료의 등록(수정ㆍ보완ㆍ삭제)요청서.hwp"
           }
         ],
         "images": [],
@@ -2073,7 +2110,9 @@
             "source_provision_id": "admrul:중소벤처기업부정보화업무규정#JO0071",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

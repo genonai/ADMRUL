@@ -103,7 +103,9 @@
             "source_provision_id": "admrul:보건복지부방첩업무규정운용세칙#JO0002",
             "reference_id": "law:보건복지부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -123,7 +125,9 @@
             "source_provision_id": "admrul:보건복지부방첩업무규정운용세칙#JO0002",
             "reference_id": "law:보건복지부와그소속기관직제#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -143,7 +147,9 @@
             "source_provision_id": "admrul:보건복지부방첩업무규정운용세칙#JO0002",
             "reference_id": "law:보건복지부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -163,7 +169,9 @@
             "source_provision_id": "admrul:보건복지부방첩업무규정운용세칙#JO0002",
             "reference_id": "law:보건복지부와그소속기관직제#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -183,7 +191,9 @@
             "source_provision_id": "admrul:보건복지부방첩업무규정운용세칙#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -203,7 +213,9 @@
             "source_provision_id": "admrul:보건복지부방첩업무규정운용세칙#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -293,10 +305,12 @@
             "target_url": "https://www.law.go.kr/행정규칙/방첩업무규정/제4조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:보건복지부방첩업무규정운용세칙#JO0004",
-            "reference_id": "admrul:방첩업무규정#JO0004_02",
+            "reference_id": "law:방첩업무규정#JO0004_02",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "방첩업무규정/방첩업무규정.json",
-            "target_missing_unit": true
+            "target_missing_unit": true,
+            "target_git_path": "방첩업무 규정/법률/방첩업무 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -578,7 +592,8 @@
             "target_local_path": "별지/별지1_외국인 접촉 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 방첩업무규정 운용세칙/별지/별지1_외국인 접촉 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -608,7 +623,8 @@
             "target_local_path": "별지/별지2_외국인(외국 정보요원) 접촉결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 방첩업무규정 운용세칙/별지/별지2_외국인(외국 정보요원) 접촉결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -650,7 +666,8 @@
             "target_local_path": "별지/별지3_외국인 등 접촉시 특이사항 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 방첩업무규정 운용세칙/별지/별지3_외국인 등 접촉시 특이사항 보고.hwp"
           }
         ],
         "images": [],
@@ -692,7 +709,8 @@
             "target_local_path": "별지/별지4_외국 정보요원 접촉 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 방첩업무규정 운용세칙/별지/별지4_외국 정보요원 접촉 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -722,7 +740,8 @@
             "target_local_path": "별지/별지2_외국인(외국 정보요원) 접촉결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 방첩업무규정 운용세칙/별지/별지2_외국인(외국 정보요원) 접촉결과 보고서.hwp"
           }
         ],
         "images": [],

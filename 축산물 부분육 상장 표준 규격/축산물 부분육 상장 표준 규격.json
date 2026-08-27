@@ -187,7 +187,9 @@
             "source_provision_id": "admrul:축산물부분육상장표준규격#JO0003",
             "reference_id": "law:축산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/법률/축산법.json"
+            "target_git_path_guess": "축산법/법률/축산법.json",
+            "target_git_path": "축산법/법률/축산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -207,7 +209,9 @@
             "source_provision_id": "admrul:축산물부분육상장표준규격#JO0003",
             "reference_id": "law:축산법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/법률/축산법.json"
+            "target_git_path_guess": "축산법/법률/축산법.json",
+            "target_git_path": "축산법/법률/축산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -227,7 +231,9 @@
             "source_provision_id": "admrul:축산물부분육상장표준규격#JO0003",
             "reference_id": "law:축산물위생관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산물위생관리법/법률/축산물위생관리법.json"
+            "target_git_path_guess": "축산물위생관리법/법률/축산물위생관리법.json",
+            "target_git_path": "축산물 위생관리법/법률/축산물 위생관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -247,7 +253,9 @@
             "source_provision_id": "admrul:축산물부분육상장표준규격#JO0003",
             "reference_id": "law:축산물위생관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산물위생관리법/법률/축산물위생관리법.json"
+            "target_git_path_guess": "축산물위생관리법/법률/축산물위생관리법.json",
+            "target_git_path": "축산물 위생관리법/법률/축산물 위생관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -267,7 +275,9 @@
             "source_provision_id": "admrul:축산물부분육상장표준규격#JO0003",
             "reference_id": "law:축산물위생관리법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산물위생관리법/법률/축산물위생관리법.json"
+            "target_git_path_guess": "축산물위생관리법/법률/축산물위생관리법.json",
+            "target_git_path": "축산물 위생관리법/법률/축산물 위생관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -375,7 +385,9 @@
             "source_provision_id": "admrul:축산물부분육상장표준규격#JO0003",
             "reference_id": "law:농수산물유통및가격안정에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json"
+            "target_git_path_guess": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json",
+            "target_git_path": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -464,7 +476,8 @@
             "target_local_path": "별표/별표1_쇠고기 부분육 상장 표준규격(제7조제1호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "축산물 부분육 상장 표준 규격/별표/별표1_쇠고기 부분육 상장 표준규격(제7조제1호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -494,7 +507,8 @@
             "target_local_path": "별표/별표2_돼지고기 부분육 상장 표준규격(제7조제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "축산물 부분육 상장 표준 규격/별표/별표2_돼지고기 부분육 상장 표준규격(제7조제2호 관련).hwp"
           }
         ],
         "images": [],

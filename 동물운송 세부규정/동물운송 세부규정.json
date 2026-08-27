@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:동물운송세부규정#JO0001",
             "reference_id": "law:동물보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+            "target_git_path": "동물보호법/법률/동물보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:동물운송세부규정#JO0001",
             "reference_id": "law:동물보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+            "target_git_path": "동물보호법/법률/동물보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:동물운송세부규정#JO0003",
             "reference_id": "law:동물보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+            "target_git_path": "동물보호법/법률/동물보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:동물운송세부규정#JO0003",
             "reference_id": "law:동물보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+            "target_git_path": "동물보호법/법률/동물보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -193,7 +201,9 @@
             "source_provision_id": "admrul:동물운송세부규정#JO0005",
             "reference_id": "law:축산물위생관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산물 위생관리법/법률/축산물 위생관리법.json"
+            "target_git_path_guess": "축산물 위생관리법/법률/축산물 위생관리법.json",
+            "target_git_path": "축산물 위생관리법/법률/축산물 위생관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -246,7 +256,8 @@
             "target_local_path": "별지/별지1_동물운송일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물운송 세부규정/별지/별지1_동물운송일지.hwp"
           }
         ],
         "images": [],
@@ -299,7 +310,8 @@
             "target_local_path": "별표/별표1_동물별 운송소요면적 기준(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물운송 세부규정/별표/별표1_동물별 운송소요면적 기준(제9조 관련).hwp"
           }
         ],
         "images": [],

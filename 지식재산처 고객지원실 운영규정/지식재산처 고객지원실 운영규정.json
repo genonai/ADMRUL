@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:지식재산처고객지원실운영규정#JO0002",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json"
+            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:지식재산처고객지원실운영규정#JO0002",
             "reference_id": "law:민원처리에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json"
+            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -273,9 +277,11 @@
             "target_url": "https://www.law.go.kr/법령/공무원 수당규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:지식재산처고객지원실운영규정#JO0014",
-            "reference_id": "law:공무원수당규정#DOC",
+            "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 수당규정/법률/공무원 수당규정.json"
+            "target_git_path_guess": "공무원 수당규정/법률/공무원 수당규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -293,9 +299,11 @@
             "target_url": "https://www.law.go.kr/법령/공무원 수당규정/제14조",
             "resolve_method": "html",
             "source_provision_id": "admrul:지식재산처고객지원실운영규정#JO0014",
-            "reference_id": "law:공무원수당규정#JO0014",
+            "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 수당규정/법률/공무원 수당규정.json"
+            "target_git_path_guess": "공무원 수당규정/법률/공무원 수당규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

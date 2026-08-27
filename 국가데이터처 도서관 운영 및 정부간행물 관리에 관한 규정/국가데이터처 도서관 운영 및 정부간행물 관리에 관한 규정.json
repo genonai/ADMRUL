@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:국가데이터처도서관운영및정부간행물관리에관한규정#JO0003",
             "reference_id": "law:도서관법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도서관법/법률/도서관법.json"
+            "target_git_path_guess": "도서관법/법률/도서관법.json",
+            "target_git_path": "도서관법/법률/도서관법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -133,7 +135,9 @@
             "source_provision_id": "admrul:국가데이터처도서관운영및정부간행물관리에관한규정#JO0003",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -153,7 +157,9 @@
             "source_provision_id": "admrul:국가데이터처도서관운영및정부간행물관리에관한규정#JO0003",
             "reference_id": "law:공공기록물관리에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -239,7 +245,8 @@
             "target_local_path": "별표/별표7_특수유형기록물(간행물, 시청각기록물, 행정박물 등) 용례.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표7_특수유형기록물(간행물, 시청각기록물, 행정박물 등) 용례.hwp"
           }
         ],
         "images": [],
@@ -316,7 +323,8 @@
             "target_local_path": "별표/별표7_특수유형기록물(간행물, 시청각기록물, 행정박물 등) 용례.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표7_특수유형기록물(간행물, 시청각기록물, 행정박물 등) 용례.hwp"
           }
         ],
         "images": [
@@ -401,7 +409,8 @@
             "target_local_path": "별표/별표5_국가데이터처 도서관 자료의 폐기 및 제적 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표5_국가데이터처 도서관 자료의 폐기 및 제적 기준.hwp"
           }
         ],
         "images": [],
@@ -454,7 +463,8 @@
             "target_local_path": "별표/별표2_외부 열람자 기록대장(제16조 제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표2_외부 열람자 기록대장(제16조 제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -551,7 +561,9 @@
             "source_provision_id": "admrul:국가데이터처도서관운영및정부간행물관리에관한규정#JO0022",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에 관한 법률/법률/공공기록물관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물관리에 관한 법률/법률/공공기록물관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -571,7 +583,9 @@
             "source_provision_id": "admrul:국가데이터처도서관운영및정부간행물관리에관한규정#JO0022",
             "reference_id": "law:공공기록물관리에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에 관한 법률/법률/공공기록물관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물관리에 관한 법률/법률/공공기록물관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -646,7 +660,8 @@
             "target_local_path": "별표/별표7_특수유형기록물(간행물, 시청각기록물, 행정박물 등) 용례.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표7_특수유형기록물(간행물, 시청각기록물, 행정박물 등) 용례.hwp"
           }
         ],
         "images": [],
@@ -688,7 +703,8 @@
             "target_local_path": "별표/별표3_발간등록번호 신청서(제27조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표3_발간등록번호 신청서(제27조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -718,7 +734,8 @@
             "target_local_path": "별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp"
           }
         ],
         "images": [],
@@ -771,7 +788,8 @@
             "target_local_path": "별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp"
           }
         ],
         "images": [],
@@ -824,7 +842,8 @@
             "target_local_path": "별표/별표4_국제표준연속간행물번호(ISSN) 신청서(제31조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표4_국제표준연속간행물번호(ISSN) 신청서(제31조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -854,7 +873,8 @@
             "target_local_path": "별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -884,7 +904,8 @@
             "target_local_path": "별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표1_간행물 발간 등록 요령(제22조 ~ 제31조 관련).hwp"
           }
         ],
         "images": [],
@@ -1008,7 +1029,8 @@
             "target_local_path": "별표/별표3_발간등록번호 신청서(제27조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가데이터처 도서관 운영 및 정부간행물 관리에 관한 규정/별표/별표3_발간등록번호 신청서(제27조 관련).hwp"
           }
         ],
         "images": [],

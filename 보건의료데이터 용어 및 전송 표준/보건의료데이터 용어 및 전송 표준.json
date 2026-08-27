@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:보건의료데이터용어및전송표준#JO0001",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:보건의료데이터용어및전송표준#JO0001",
             "reference_id": "law:의료법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -140,7 +144,8 @@
             "target_local_path": "별표/별표1_한국 핵심교류데이터(제3조제1항제1호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건의료데이터 용어 및 전송 표준/별표/별표1_한국 핵심교류데이터(제3조제1항제1호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +175,8 @@
             "target_local_path": "별표/별표2_한국 핵심교류데이터 전송 표준(KR Core)(제3조제1항제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건의료데이터 용어 및 전송 표준/별표/별표2_한국 핵심교류데이터 전송 표준(KR Core)(제3조제1항제2호 관련).hwp"
           }
         ],
         "images": [],

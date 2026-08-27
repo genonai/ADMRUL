@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양기상관측장비표준규격#JO0001",
             "reference_id": "law:기상관측표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json"
+            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_git_path": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양기상관측장비표준규격#JO0001",
             "reference_id": "law:기상관측표준화법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json"
+            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_git_path": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -210,7 +214,8 @@
             "target_local_path": "별표/별표1_관측센서의 규격(제5조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양기상관측장비 표준규격/별표/별표1_관측센서의 규격(제5조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -252,7 +257,8 @@
             "target_local_path": "별표/별표2_자료처리기의 규격(제6조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양기상관측장비 표준규격/별표/별표2_자료처리기의 규격(제6조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -282,7 +288,8 @@
             "target_local_path": "별표/별표3_자료처리의 규격(제6조제4항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양기상관측장비 표준규격/별표/별표3_자료처리의 규격(제6조제4항 관련).hwp"
           }
         ],
         "images": [],
@@ -324,7 +331,8 @@
             "target_local_path": "별표/별표4_자료구조의 규격(제7조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양기상관측장비 표준규격/별표/별표4_자료구조의 규격(제7조제2항 관련).hwp"
           }
         ],
         "images": [],

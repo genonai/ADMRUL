@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:인가된통계자료이용절차등에관한규정#JO0001",
             "reference_id": "law:통계법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:인가된통계자료이용절차등에관한규정#JO0001",
             "reference_id": "law:통계법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:인가된통계자료이용절차등에관한규정#JO0001",
             "reference_id": "law:통계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:인가된통계자료이용절차등에관한규정#JO0001",
             "reference_id": "law:통계법시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -296,7 +304,8 @@
             "target_local_path": "별지/별지1_서비스 이용신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인가된 통계자료 이용절차 등에 관한 규정/별지/별지1_서비스 이용신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -326,7 +335,8 @@
             "target_local_path": "별지/별지2_식별정보 위탁처리 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인가된 통계자료 이용절차 등에 관한 규정/별지/별지2_식별정보 위탁처리 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -356,7 +366,8 @@
             "target_local_path": "별지/별지3_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인가된 통계자료 이용절차 등에 관한 규정/별지/별지3_보안서약서.hwp"
           }
         ],
         "images": [],
@@ -754,7 +765,9 @@
             "source_provision_id": "admrul:인가된통계자료이용절차등에관한규정#JO0018",
             "reference_id": "law:통계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/시행령/통계법 시행령.json"
+            "target_git_path_guess": "통계법/시행령/통계법 시행령.json",
+            "target_git_path": "통계법/시행령/통계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

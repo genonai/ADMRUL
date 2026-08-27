@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:특허법#JO0162",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:실용신안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "실용신안법/법률/실용신안법.json"
+            "target_git_path_guess": "실용신안법/법률/실용신안법.json",
+            "target_git_path": "실용신안법/법률/실용신안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:실용신안법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "실용신안법/법률/실용신안법.json"
+            "target_git_path_guess": "실용신안법/법률/실용신안법.json",
+            "target_git_path": "실용신안법/법률/실용신안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:디자인보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json"
+            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json",
+            "target_git_path": "디자인보호법/법률/디자인보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:디자인보호법#JO0150",
             "target_repo": "LAW",
-            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json"
+            "target_git_path_guess": "디자인보호법/법률/디자인보호법.json",
+            "target_git_path": "디자인보호법/법률/디자인보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +199,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:상표법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상표법/법률/상표법.json"
+            "target_git_path_guess": "상표법/법률/상표법.json",
+            "target_git_path": "상표법/법률/상표법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -207,7 +221,9 @@
             "source_provision_id": "admrul:심결취소확정판결에따른심결문간소화에관한지침#JO0001",
             "reference_id": "law:상표법#JO0149",
             "target_repo": "LAW",
-            "target_git_path_guess": "상표법/법률/상표법.json"
+            "target_git_path_guess": "상표법/법률/상표법.json",
+            "target_git_path": "상표법/법률/상표법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -271,7 +287,8 @@
             "target_local_path": "별지/별지1_결정계 심판사건(특허).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "심결취소확정판결에 따른 심결문 간소화에 관한 지침/별지/별지1_결정계 심판사건(특허).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -301,7 +318,8 @@
             "target_local_path": "별지/별지2_결정계 심판사건(상표).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "심결취소확정판결에 따른 심결문 간소화에 관한 지침/별지/별지2_결정계 심판사건(상표).hwp"
           }
         ],
         "images": [],
@@ -391,7 +409,8 @@
             "target_local_path": "별지/별지3_당사자계 심판사건 중 무효심판사건(실용신안).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "심결취소확정판결에 따른 심결문 간소화에 관한 지침/별지/별지3_당사자계 심판사건 중 무효심판사건(실용신안).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -421,7 +440,8 @@
             "target_local_path": "별지/별지4_당사자계 심판사건 중 무효심판사건(상표).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "심결취소확정판결에 따른 심결문 간소화에 관한 지침/별지/별지4_당사자계 심판사건 중 무효심판사건(상표).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -451,7 +471,8 @@
             "target_local_path": "별지/별지5_당사자계 심판사건 중 취소심판(상표).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "심결취소확정판결에 따른 심결문 간소화에 관한 지침/별지/별지5_당사자계 심판사건 중 취소심판(상표).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -481,7 +502,8 @@
             "target_local_path": "별지/별지6_당사자계 심판사건 중 권리범위확인심판(특허).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "심결취소확정판결에 따른 심결문 간소화에 관한 지침/별지/별지6_당사자계 심판사건 중 권리범위확인심판(특허).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -511,7 +533,8 @@
             "target_local_path": "별지/별지7_당사자계 심판사건 중 권리범위확인심판(디자인).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "심결취소확정판결에 따른 심결문 간소화에 관한 지침/별지/별지7_당사자계 심판사건 중 권리범위확인심판(디자인).hwp"
           }
         ],
         "images": [],

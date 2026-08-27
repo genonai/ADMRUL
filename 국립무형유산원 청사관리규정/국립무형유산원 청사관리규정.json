@@ -225,7 +225,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0010",
             "reference_id": "law:도시공원및녹지등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시공원 및 녹지 등에 관한 법률/법률/도시공원 및 녹지 등에 관한 법률.json"
+            "target_git_path_guess": "도시공원 및 녹지 등에 관한 법률/법률/도시공원 및 녹지 등에 관한 법률.json",
+            "target_git_path": "도시공원 및 녹지 등에 관한 법률/법률/도시공원 및 녹지 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -245,7 +247,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0010",
             "reference_id": "law:도시공원및녹지등에관한법률#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시공원 및 녹지 등에 관한 법률/법률/도시공원 및 녹지 등에 관한 법률.json"
+            "target_git_path_guess": "도시공원 및 녹지 등에 관한 법률/법률/도시공원 및 녹지 등에 관한 법률.json",
+            "target_git_path": "도시공원 및 녹지 등에 관한 법률/법률/도시공원 및 녹지 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -265,7 +269,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0010",
             "reference_id": "law:동물보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+            "target_git_path": "동물보호법/법률/동물보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -285,7 +291,8 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0010",
             "reference_id": "law:동물보호법#JO0013_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/법률/동물보호법.json"
+            "target_git_path_guess": "동물보호법/법률/동물보호법.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -305,7 +312,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0010",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -325,7 +334,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0010",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -367,7 +378,8 @@
             "target_local_path": "별지/별지1_홍보물 관리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립무형유산원 청사관리규정/별지/별지1_홍보물 관리 대장.hwp"
           }
         ],
         "images": [],
@@ -531,7 +543,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0013",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -839,7 +853,8 @@
             "target_local_path": "별지/별지2_출입증 발급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립무형유산원 청사관리규정/별지/별지2_출입증 발급 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +884,8 @@
             "target_local_path": "별지/별지3_출입증 관리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립무형유산원 청사관리규정/별지/별지3_출입증 관리 대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -899,7 +915,8 @@
             "target_local_path": "별지/별지4_출입증 분실 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립무형유산원 청사관리규정/별지/별지4_출입증 분실 신고서.hwp"
           }
         ],
         "images": [],
@@ -998,7 +1015,8 @@
             "target_local_path": "별지/별지5_차량 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립무형유산원 청사관리규정/별지/별지5_차량 등록 신청서.hwp"
           }
         ],
         "images": [],
@@ -1066,7 +1084,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0041",
             "reference_id": "law:미세먼지저감및관리에관한특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/시행령/미세먼지 저감 및 관리에 관한 특별법 시행령.json"
+            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/시행령/미세먼지 저감 및 관리에 관한 특별법 시행령.json",
+            "target_git_path": "미세먼지 저감 및 관리에 관한 특별법/시행령/미세먼지 저감 및 관리에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1086,7 +1106,9 @@
             "source_provision_id": "admrul:국립무형유산원청사관리규정#JO0041",
             "reference_id": "law:미세먼지저감및관리에관한특별법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/시행령/미세먼지 저감 및 관리에 관한 특별법 시행령.json"
+            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/시행령/미세먼지 저감 및 관리에 관한 특별법 시행령.json",
+            "target_git_path": "미세먼지 저감 및 관리에 관한 특별법/시행령/미세먼지 저감 및 관리에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

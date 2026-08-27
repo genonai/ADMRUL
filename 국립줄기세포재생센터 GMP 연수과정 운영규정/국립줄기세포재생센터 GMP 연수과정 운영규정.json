@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립줄기세포재생센터GMP연수과정운영규정#JO0001",
             "reference_id": "law:첨단재생의료및첨단바이오의약품안전및지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률/법률/첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률.json"
+            "target_git_path_guess": "첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률/법률/첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률.json",
+            "target_git_path": "첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률/법률/첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -110,7 +112,9 @@
             "source_provision_id": "admrul:국립줄기세포재생센터GMP연수과정운영규정#JO0003",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:국립줄기세포재생센터GMP연수과정운영규정#JO0003",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -254,7 +260,8 @@
             "target_local_path": "별지/별지1_GMP 연수생 선발공고 표준안.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지1_GMP 연수생 선발공고 표준안.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -284,7 +291,8 @@
             "target_local_path": "별지/별지2_GMP 연수과정 지원신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지2_GMP 연수과정 지원신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -314,7 +322,8 @@
             "target_local_path": "별지/별지3_이력서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지3_이력서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -344,7 +353,8 @@
             "target_local_path": "별지/별지4_개인정보 수집ㆍ이용 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지4_개인정보 수집ㆍ이용 동의서.hwp"
           }
         ],
         "images": [],
@@ -397,7 +407,8 @@
             "target_local_path": "별지/별지5_연수생 서류전형 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지5_연수생 서류전형 평가표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -427,7 +438,8 @@
             "target_local_path": "별지/별지6_연수생 면접전형 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지6_연수생 면접전형 평가표.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -541,7 +553,8 @@
             "target_local_path": "별지/별지7_GMP 연수 계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지7_GMP 연수 계약서.hwp"
           }
         ],
         "images": [],
@@ -573,7 +586,9 @@
             "source_provision_id": "admrul:국립줄기세포재생센터GMP연수과정운영규정#JO0011",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -615,7 +630,8 @@
             "target_local_path": "별지/별지8_GMP 연수 진도 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지8_GMP 연수 진도 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -645,7 +661,8 @@
             "target_local_path": "별지/별지9_GMP 연수 결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지9_GMP 연수 결과 보고서.hwp"
           }
         ],
         "images": [],
@@ -735,7 +752,8 @@
             "target_local_path": "별지/별지10_GMP 연수 중단 사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지10_GMP 연수 중단 사유서.hwp"
           }
         ],
         "images": [],
@@ -777,7 +795,8 @@
             "target_local_path": "별지/별지11_GMP 연수생 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지11_GMP 연수생 관리카드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -807,7 +826,8 @@
             "target_local_path": "별지/별지13_GMP 연수과정 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지13_GMP 연수과정 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -837,7 +857,8 @@
             "target_local_path": "별지/별지12_GMP 연수과정 확인서 발급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지12_GMP 연수과정 확인서 발급 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -867,7 +888,8 @@
             "target_local_path": "별지/별지11_GMP 연수생 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지11_GMP 연수생 관리카드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -897,7 +919,8 @@
             "target_local_path": "별지/별지13_GMP 연수과정 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립줄기세포재생센터 GMP 연수과정 운영규정/별지/별지13_GMP 연수과정 확인서.hwp"
           }
         ],
         "images": [],

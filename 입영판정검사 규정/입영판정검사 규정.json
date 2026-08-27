@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0001",
             "reference_id": "law:병역법#JO0014_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0001",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0002",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0002",
             "reference_id": "law:병역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행규칙/병역법 시행규칙.json"
+            "target_git_path_guess": "병역법/시행규칙/병역법 시행규칙.json",
+            "target_git_path": "병역법/시행규칙/병역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -181,7 +189,8 @@
             "target_local_path": "별지/별지1_현역병 및 군사교육소집 일자별, 지방청별 입영 계획.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지1_현역병 및 군사교육소집 일자별, 지방청별 입영 계획.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -295,7 +304,8 @@
             "target_local_path": "별지/별지1_현역병 및 군사교육소집 일자별, 지방청별 입영 계획.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지1_현역병 및 군사교육소집 일자별, 지방청별 입영 계획.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -604,7 +614,8 @@
             "target_local_path": "별지/별지3_입영판정검사 일자 및 장소 본인선택(변경) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지3_입영판정검사 일자 및 장소 본인선택(변경) 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -756,7 +767,8 @@
             "target_local_path": "별지/별지5_입영판정검사 통지서 수령증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지5_입영판정검사 통지서 수령증.hwp"
           },
           {
             "relation_type": "citation",
@@ -941,7 +953,8 @@
             "target_local_path": "별지/별지6_입영판정검사 통지자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지6_입영판정검사 통지자 명부.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1224,7 +1237,8 @@
             "target_local_path": "별지/별지4_입영판정검사 대상자 신상명세서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지4_입영판정검사 대상자 신상명세서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1254,7 +1268,8 @@
             "target_local_path": "별지/별지4의2_입영판정검사 대상자 질병상태문진표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지4의2_입영판정검사 대상자 질병상태문진표.hwp"
           }
         ],
         "images": [],
@@ -1307,7 +1322,8 @@
             "target_local_path": "별지/별지4의2_입영판정검사 대상자 질병상태문진표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지4의2_입영판정검사 대상자 질병상태문진표.hwp"
           },
           {
             "relation_type": "citation",
@@ -1361,7 +1377,8 @@
             "target_local_path": "부록/부록10_심리검사도구 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병역판정검사 규정/부록/부록10_심리검사도구 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1391,7 +1408,8 @@
             "target_local_path": "별지/별지7_2차 심리검사 평가결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지7_2차 심리검사 평가결과서.hwp"
           }
         ],
         "images": [],
@@ -1433,7 +1451,8 @@
             "target_local_path": "별지/별지8_정밀심리검사 의뢰서, 정밀심리검사 예약증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지8_정밀심리검사 의뢰서, 정밀심리검사 예약증.hwp"
           },
           {
             "relation_type": "citation",
@@ -1487,7 +1506,8 @@
             "target_local_path": "부록/부록10의1_정밀심리검사 종류 및 내용.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병역판정검사 규정/부록/부록10의1_정밀심리검사 종류 및 내용.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1517,7 +1537,8 @@
             "target_local_path": "별지/별지9_정밀심리검사 평가 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지9_정밀심리검사 평가 결과서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1679,7 +1700,8 @@
             "target_local_path": "별지/별지11의3_경과관리 기록지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병역판정검사 규정/별지/별지11의3_경과관리 기록지.hwp"
           },
           {
             "relation_type": "citation",
@@ -1733,7 +1755,8 @@
             "target_local_path": "별지/별지11의4_가족(부모)상담 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병역판정검사 규정/별지/별지11의4_가족(부모)상담 동의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1763,7 +1786,8 @@
             "target_local_path": "별지/별지10_정신건강서비스 의뢰 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지10_정신건강서비스 의뢰 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1793,7 +1817,8 @@
             "target_local_path": "별지/별지11_정신건강서비스 의뢰자 경과관리 기록지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지11_정신건강서비스 의뢰자 경과관리 기록지.hwp"
           }
         ],
         "images": [],
@@ -1835,7 +1860,8 @@
             "target_local_path": "별지/별지24_잠복결핵검사 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지24_잠복결핵검사 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1865,7 +1891,8 @@
             "target_local_path": "별지/별지25_잠복결핵 검사결과 통보서(양성).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지25_잠복결핵 검사결과 통보서(양성).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1895,7 +1922,8 @@
             "target_local_path": "별지/별지26_잠복결핵 검사결과 통보서(음성).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지26_잠복결핵 검사결과 통보서(음성).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1925,7 +1953,8 @@
             "target_local_path": "별지/별지26의2_잠복결핵 검사결과 통보서(영어).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지26의2_잠복결핵 검사결과 통보서(영어).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1955,7 +1984,8 @@
             "target_local_path": "별지/별지26의3_잠복결핵 검사결과 통보서(일본어).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지26의3_잠복결핵 검사결과 통보서(일본어).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1985,7 +2015,8 @@
             "target_local_path": "별지/별지26의4_잠복결핵 검사결과 통보서(중국어).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지26의4_잠복결핵 검사결과 통보서(중국어).hwp"
           },
           {
             "relation_type": "citation",
@@ -2005,7 +2036,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0020_05",
             "reference_id": "law:결핵예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json"
+            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json",
+            "target_git_path": "결핵예방법/법률/결핵예방법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -2176,7 +2209,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0021",
             "reference_id": "law:병역판정신체검사등검사규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json"
+            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_git_path": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2201,7 +2236,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:병역판정신체검사등검사규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json"
+            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_git_path": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_git_file_path": "병역판정 신체검사 등 검사규칙/법률/별표/별표3_질병·심신장애의 정도 및 평가기준(제11조·제20조 및 제21조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -2243,7 +2281,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0022",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2263,7 +2303,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0022",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2283,7 +2325,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0022",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2397,7 +2441,8 @@
             "target_local_path": "별지/별지17_입영판정검사 연기자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지17_입영판정검사 연기자 명부.hwp"
           },
           {
             "relation_type": "citation",
@@ -2417,7 +2462,9 @@
             "source_provision_id": "admrul:입영판정검사규정#JO0023",
             "reference_id": "law:병역판정신체검사등검사규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json"
+            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_git_path": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2442,7 +2489,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:병역판정신체검사등검사규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json"
+            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_git_path": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_git_file_path": "병역판정 신체검사 등 검사규칙/법률/별표/별표3_질병·심신장애의 정도 및 평가기준(제11조·제20조 및 제21조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2930,7 +2980,8 @@
             "target_local_path": "별지/별지14_입영판정검사자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지14_입영판정검사자 명부.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -3020,7 +3071,8 @@
             "target_local_path": "별지/별지38_재신체검사 통지서, 재신체검사 통지서 수령증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "병역판정검사 규정/별지/별지38_재신체검사 통지서, 재신체검사 통지서 수령증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3050,7 +3102,8 @@
             "target_local_path": "별지/별지15_7급 재신체검사대상 처분 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지15_7급 재신체검사대상 처분 명부.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -3404,7 +3457,8 @@
             "target_local_path": "별지/별지16_입영판정검사 통지취소자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지16_입영판정검사 통지취소자 명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3434,7 +3488,8 @@
             "target_local_path": "별지/별지18_입영판정검사 기피자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지18_입영판정검사 기피자 명부.hwp"
           }
         ],
         "images": [],
@@ -3498,7 +3553,8 @@
             "target_local_path": "별지/별지19_현역병 입영대상 처분 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지19_현역병 입영대상 처분 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3528,7 +3584,8 @@
             "target_local_path": "별지/별지20_보충역 처분 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지20_보충역 처분 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3558,7 +3615,8 @@
             "target_local_path": "별지/별지21_전시근로역 처분 병류별 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지21_전시근로역 처분 병류별 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3588,7 +3646,8 @@
             "target_local_path": "별지/별지22_병역면제 처분 병류별 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지22_병역면제 처분 병류별 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3618,7 +3677,8 @@
             "target_local_path": "별지/별지23_전시근로역 처분 사유별 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지23_전시근로역 처분 사유별 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3648,7 +3708,8 @@
             "target_local_path": "별지/별지6_입영판정검사 통지자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지6_입영판정검사 통지자 명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3678,7 +3739,8 @@
             "target_local_path": "별지/별지16_입영판정검사 통지취소자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지16_입영판정검사 통지취소자 명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3708,7 +3770,8 @@
             "target_local_path": "별지/별지17_입영판정검사 연기자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지17_입영판정검사 연기자 명부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3738,7 +3801,8 @@
             "target_local_path": "별지/별지18_입영판정검사 기피자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "입영판정검사 규정/별지/별지18_입영판정검사 기피자 명부.hwp"
           }
         ],
         "images": [],

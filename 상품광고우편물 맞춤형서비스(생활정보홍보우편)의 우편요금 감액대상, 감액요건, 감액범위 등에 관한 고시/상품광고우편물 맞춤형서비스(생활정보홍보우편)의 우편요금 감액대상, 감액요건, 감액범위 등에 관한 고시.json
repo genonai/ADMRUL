@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:상품광고우편물맞춤형서비스(생활정보홍보우편)의우편요금감액대상,감액요건,감액범위등에관한고시#DOC",
             "reference_id": "law:우편법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/시행규칙/우편법 시행규칙.json"
+            "target_git_path_guess": "우편법/시행규칙/우편법 시행규칙.json",
+            "target_git_path": "우편법/시행규칙/우편법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:상품광고우편물맞춤형서비스(생활정보홍보우편)의우편요금감액대상,감액요건,감액범위등에관한고시#DOC",
             "reference_id": "law:우편법시행규칙#JO0085",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/시행규칙/우편법 시행규칙.json"
+            "target_git_path_guess": "우편법/시행규칙/우편법 시행규칙.json",
+            "target_git_path": "우편법/시행규칙/우편법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -116,7 +120,8 @@
             "target_local_path": "별표/별표1_생활정보홍보우편 서비스 이용 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상품광고우편물 맞춤형서비스(생활정보홍보우편)의 우편요금 감액대상, 감액요건, 감액범위 등에 관한 고시/별표/별표1_생활정보홍보우편 서비스 이용 신청서.hwp"
           },
           {
             "relation_type": "citation",

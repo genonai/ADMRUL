@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:의료폐기물전용용기의구조규격품질표시및검사방법에관한고시#JO0001",
             "reference_id": "law:폐기물관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:의료폐기물전용용기의구조규격품질표시및검사방법에관한고시#JO0001",
             "reference_id": "law:폐기물관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json"
+            "target_git_path_guess": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json",
+            "target_git_path": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,10 @@
             "target_unit": "BYL0008_03",
             "reference_id": "law:폐기물관리법시행규칙#BYL0008_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json"
+            "target_git_path_guess": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json",
+            "target_git_path": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json",
+            "target_git_file_path": "폐기물관리법/시행규칙/별표/별표8의3_전용용기의 구조ㆍ규격ㆍ품질 및 표시 등에 관한 기준(제34조의5 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -137,7 +144,10 @@
             "target_unit": "BYL0008_04",
             "reference_id": "law:폐기물관리법시행규칙#BYL0008_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json"
+            "target_git_path_guess": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json",
+            "target_git_path": "폐기물관리법/시행규칙/폐기물관리법 시행규칙.json",
+            "target_git_file_path": "폐기물관리법/시행규칙/별표/별표8의4_전용용기의 검사방법(제34조의8 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -179,7 +189,8 @@
             "target_local_path": "별표/별표1_전용용기의 구조·규격·품질 및 표시사항 등에 관한 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료폐기물 전용용기의 구조·규격·품질·표시 및 검사방법에 관한 고시/별표/별표1_전용용기의 구조·규격·품질 및 표시사항 등에 관한 기준.hwp"
           }
         ],
         "images": [],
@@ -221,7 +232,8 @@
             "target_local_path": "별표/별표2_전용용기의 검사방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의료폐기물 전용용기의 구조·규격·품질·표시 및 검사방법에 관한 고시/별표/별표2_전용용기의 검사방법.hwp"
           }
         ],
         "images": [],

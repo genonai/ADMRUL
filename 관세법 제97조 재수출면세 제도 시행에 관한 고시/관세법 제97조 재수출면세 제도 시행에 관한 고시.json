@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:관세법제97조재수출면세제도시행에관한고시#JO0001",
             "reference_id": "law:관세법#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:관세법제97조재수출면세제도시행에관한고시#JO0001",
             "reference_id": "law:관세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:관세법제97조재수출면세제도시행에관한고시#JO0001",
             "reference_id": "law:관세법시행령#JO0114",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:관세법제97조재수출면세제도시행에관한고시#JO0001",
             "reference_id": "law:관세법시행령#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행령/관세법 시행령.json"
+            "target_git_path_guess": "관세법/시행령/관세법 시행령.json",
+            "target_git_path": "관세법/시행령/관세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:관세법제97조재수출면세제도시행에관한고시#JO0001",
             "reference_id": "law:관세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:관세법제97조재수출면세제도시행에관한고시#JO0001",
             "reference_id": "law:관세법시행규칙#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +199,9 @@
             "source_provision_id": "admrul:관세법제97조재수출면세제도시행에관한고시#JO0001",
             "reference_id": "law:관세법시행규칙#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -309,7 +323,8 @@
             "target_local_path": "서식/서식1_재수출기간연장승인(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세법 제97조 재수출면세 제도 시행에 관한 고시/서식/서식1_재수출기간연장승인(신청)서.hwp"
           }
         ],
         "images": [],

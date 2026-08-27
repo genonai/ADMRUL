@@ -215,7 +215,9 @@
             "source_provision_id": "admrul:관세청고객지원센터운영에관한훈령#JO0010",
             "reference_id": "law:민원처리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -257,7 +259,8 @@
             "target_local_path": "별표/별표1_악성·강성민원 유형(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 고객지원센터 운영에 관한 훈령/별표/별표1_악성·강성민원 유형(제11조 관련).hwp"
           }
         ],
         "images": [],
@@ -299,7 +302,8 @@
             "target_local_path": "별표/별표2_악성·강성민원 처리 기준(제12조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 고객지원센터 운영에 관한 훈령/별표/별표2_악성·강성민원 처리 기준(제12조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -329,7 +333,8 @@
             "target_local_path": "별표/별표3_악성·강성민원 세부 응대절차(제12조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 고객지원센터 운영에 관한 훈령/별표/별표3_악성·강성민원 세부 응대절차(제12조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -349,7 +354,9 @@
             "source_provision_id": "admrul:관세청고객지원센터운영에관한훈령#JO0012",
             "reference_id": "law:민원처리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -483,7 +490,9 @@
             "source_provision_id": "admrul:관세청고객지원센터운영에관한훈령#JO0020",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

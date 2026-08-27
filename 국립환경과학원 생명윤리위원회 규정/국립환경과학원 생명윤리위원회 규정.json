@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0001",
             "reference_id": "law:생명윤리및안전에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -121,7 +123,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0004",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -163,7 +167,8 @@
             "target_local_path": "별지/별지1_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지1_위촉장.hwp"
           }
         ],
         "images": [],
@@ -239,7 +244,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0010",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -259,7 +266,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0010",
             "reference_id": "law:개인정보보호법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +288,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0010",
             "reference_id": "law:의약품등의안전에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -304,7 +315,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:의약품등의안전에관한규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_file_path": "의약품 등의 안전에 관한 규칙/법률/별표/별표4_의약품 임상시험 관리기준(제30조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -334,7 +348,8 @@
             "target_local_path": "별지/별지2_심의면제신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지2_심의면제신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -364,7 +379,8 @@
             "target_local_path": "별지/별지4_심의면제확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지4_심의면제확인서.hwp"
           }
         ],
         "images": [],
@@ -406,7 +422,8 @@
             "target_local_path": "별지/별지5_연구계획심의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지5_연구계획심의신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -436,7 +453,8 @@
             "target_local_path": "별지/별지8_비밀유지의무 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지8_비밀유지의무 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -466,7 +484,8 @@
             "target_local_path": "별지/별지9_이해상충공개서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지9_이해상충공개서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -496,7 +515,8 @@
             "target_local_path": "별지/별지10_결과통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지10_결과통지서.hwp"
           }
         ],
         "images": [],
@@ -549,7 +569,8 @@
             "target_local_path": "별지/별지11_연구(조기)종료 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지11_연구(조기)종료 보고서.hwp"
           }
         ],
         "images": [],
@@ -699,7 +720,8 @@
             "target_local_path": "별지/별지12_인체유래물 연구 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지12_인체유래물 연구 동의서.hwp"
           }
         ],
         "images": [],
@@ -812,7 +834,8 @@
             "target_local_path": "별지/별지13_인체유래물 등(검사대상물) 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지13_인체유래물 등(검사대상물) 관리대장.hwp"
           }
         ],
         "images": [],
@@ -844,7 +867,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0019",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -864,7 +889,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0019",
             "reference_id": "law:폐기물관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -894,7 +921,8 @@
             "target_local_path": "별지/별지13_인체유래물 등(검사대상물) 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지13_인체유래물 등(검사대상물) 관리대장.hwp"
           }
         ],
         "images": [],
@@ -926,7 +954,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0020",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -946,7 +976,9 @@
             "source_provision_id": "admrul:국립환경과학원생명윤리위원회규정#JO0020",
             "reference_id": "law:개인정보보호법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -976,7 +1008,8 @@
             "target_local_path": "별지/별지14_정보 공개 청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립환경과학원 생명윤리위원회 규정/별지/별지14_정보 공개 청구서.hwp"
           }
         ],
         "images": [],

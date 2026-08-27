@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:국립현대미술관도서아카이브관리규정#JO0002",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:국립현대미술관도서아카이브관리규정#JO0002",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "admrul:국립현대미술관도서아카이브관리규정#JO0002",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -138,7 +144,9 @@
             "source_provision_id": "admrul:국립현대미술관도서아카이브관리규정#JO0002",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -269,7 +277,9 @@
             "source_provision_id": "admrul:국립현대미술관도서아카이브관리규정#JO0012",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -426,7 +436,8 @@
             "target_local_path": "별지/별지2_폐기(제적) 내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립현대미술관 도서·아카이브 관리 규정/별지/별지2_폐기(제적) 내역서.hwp"
           }
         ],
         "images": [],

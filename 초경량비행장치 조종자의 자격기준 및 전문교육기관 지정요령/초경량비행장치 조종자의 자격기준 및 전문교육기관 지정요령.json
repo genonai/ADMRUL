@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0001",
             "reference_id": "law:항공안전법#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0001",
             "reference_id": "law:항공안전법#JO0126",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0307",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -206,7 +214,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0004",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -226,7 +236,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0004",
             "reference_id": "law:항공안전법#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -269,7 +281,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0005",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -292,9 +306,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0005",
             "target_unit": "BJ0120",
-            "reference_id": "law:항공안전법시행규칙#BJ0120",
+            "reference_id": "law:항공안전법시행규칙#FORM0120",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/서식/서식120_초경량비행장치 조종자 전문교육기관 지정신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -360,7 +377,8 @@
             "target_local_path": "별지/별지1_초경량비행장치조종자 전문교육기관 심사보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별지/별지1_초경량비행장치조종자 전문교육기관 심사보고서.hwp"
           }
         ],
         "images": [],
@@ -416,7 +434,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0007",
             "reference_id": "law:항공안전법#JO0126",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -436,7 +456,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0007",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -459,9 +481,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0007",
             "target_unit": "BJ0121",
-            "reference_id": "law:항공안전법시행규칙#BJ0121",
+            "reference_id": "law:항공안전법시행규칙#FORM0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/서식/서식121_초경량비행장치 조종자 전문교육기관 지정서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -529,7 +554,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0009",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -549,7 +576,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0009",
             "reference_id": "law:항공안전법시행규칙#JO0307",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -579,7 +608,8 @@
             "target_local_path": "별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -609,7 +639,8 @@
             "target_local_path": "별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp"
           }
         ],
         "images": [],
@@ -641,7 +672,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0010",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -661,7 +694,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0010",
             "reference_id": "law:항공안전법시행규칙#JO0307",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -691,7 +726,8 @@
             "target_local_path": "별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -721,7 +757,8 @@
             "target_local_path": "별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp"
           }
         ],
         "images": [],
@@ -753,7 +790,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0011",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +812,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0011",
             "reference_id": "law:항공안전법시행규칙#JO0307",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -803,7 +844,8 @@
             "target_local_path": "별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -833,7 +875,8 @@
             "target_local_path": "별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp"
           }
         ],
         "images": [],
@@ -865,7 +908,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0012",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -885,7 +930,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0012",
             "reference_id": "law:항공안전법시행규칙#JO0307",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -915,7 +962,8 @@
             "target_local_path": "별표/별표5_전문교육기관의 교육훈련규정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표5_전문교육기관의 교육훈련규정.hwp"
           }
         ],
         "images": [],
@@ -957,7 +1005,8 @@
             "target_local_path": "별표/별표7_전문교육기관의 운영자 자격요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표7_전문교육기관의 운영자 자격요건.hwp"
           }
         ],
         "images": [],
@@ -989,7 +1038,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0014",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1009,7 +1060,9 @@
             "source_provision_id": "admrul:초경량비행장치조종자의자격기준및전문교육기관지정요령#JO0014",
             "reference_id": "law:항공안전법시행규칙#JO0307",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1039,7 +1092,8 @@
             "target_local_path": "별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1069,7 +1123,8 @@
             "target_local_path": "별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1099,7 +1154,8 @@
             "target_local_path": "별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1129,7 +1185,8 @@
             "target_local_path": "별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp"
           }
         ],
         "images": [],
@@ -1171,7 +1228,8 @@
             "target_local_path": "별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표1_초경량비행장치조종자 동력비행장치과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1201,7 +1259,8 @@
             "target_local_path": "별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표4_초경량비행장치조종자 동력패러글라이더과정 훈련기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1231,7 +1290,8 @@
             "target_local_path": "별표/별표6_전문교육기관의 교육훈련지침.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "초경량비행장치 조종자의 자격기준 및 전문교육기관 지정요령/별표/별표6_전문교육기관의 교육훈련지침.hwp"
           }
         ],
         "images": [],

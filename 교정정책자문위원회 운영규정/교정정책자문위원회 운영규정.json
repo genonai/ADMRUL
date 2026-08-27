@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:교정정책자문위원회운영규정#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:교정정책자문위원회운영규정#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -139,7 +143,8 @@
             "target_local_path": "별지/별지1_교정기관 교정정책자문위원회 위원 추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교정정책자문위원회 운영규정/별지/별지1_교정기관 교정정책자문위원회 위원 추천서.hwp"
           }
         ],
         "images": [],

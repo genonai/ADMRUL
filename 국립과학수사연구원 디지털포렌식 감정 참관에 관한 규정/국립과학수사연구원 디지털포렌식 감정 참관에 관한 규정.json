@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:국립과학수사연구원디지털포렌식감정참관에관한규정#JO0002",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:국립과학수사연구원디지털포렌식감정참관에관한규정#JO0002",
             "reference_id": "law:형사소송법#JO0123",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -140,7 +144,8 @@
             "target_local_path": "별지/별지1_디지털포렌식 참관 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과학수사연구원 디지털포렌식 감정 참관에 관한 규정/별지/별지1_디지털포렌식 참관 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +175,8 @@
             "target_local_path": "별지/별지2_디지털포렌식 참관 철회 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과학수사연구원 디지털포렌식 감정 참관에 관한 규정/별지/별지2_디지털포렌식 참관 철회 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -200,7 +206,8 @@
             "target_local_path": "별지/별지3_데이터 획득에 관한 전자정보 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과학수사연구원 디지털포렌식 감정 참관에 관한 규정/별지/별지3_데이터 획득에 관한 전자정보 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -230,7 +237,8 @@
             "target_local_path": "별지/별지4_데이터 분석에 관한 전자정보 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립과학수사연구원 디지털포렌식 감정 참관에 관한 규정/별지/별지4_데이터 분석에 관한 전자정보 확인서.hwp"
           }
         ],
         "images": [],

@@ -110,7 +110,9 @@
             "source_provision_id": "admrul:국립목포병원연구용역사업처리규정#JO0003",
             "reference_id": "law:보건복지부소속국립병원및국립재활원임상연구비지급규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부 소속 국립병원 및 국립재활원 임상연구비지급규칙/법률/보건복지부 소속 국립병원 및 국립재활원 임상연구비지급규칙.json"
+            "target_git_path_guess": "보건복지부 소속 국립병원 및 국립재활원 임상연구비지급규칙/법률/보건복지부 소속 국립병원 및 국립재활원 임상연구비지급규칙.json",
+            "target_git_path": "보건복지부 소속 국립병원 및 국립재활원 임상연구비 지급규칙/법률/보건복지부 소속 국립병원 및 국립재활원 임상연구비 지급규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -314,7 +316,8 @@
             "target_local_path": "별지/별지1_구매청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립목포병원 연구용역사업처리규정/별지/별지1_구매청구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -344,7 +347,8 @@
             "target_local_path": "별지/별지2_지출결의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립목포병원 연구용역사업처리규정/별지/별지2_지출결의서.hwp"
           }
         ],
         "images": [],

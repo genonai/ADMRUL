@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법#JO0033_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json"
+            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
+            "target_git_path": "소득세법/시행령/소득세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행령#JO0078_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json"
+            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
+            "target_git_path": "소득세법/시행령/소득세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json"
+            "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json",
+            "target_git_path": "소득세법/시행규칙/소득세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행규칙#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json"
+            "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json",
+            "target_git_path": "소득세법/시행규칙/소득세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -201,7 +211,11 @@
             "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0004",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -318,5 +332,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_2104628/업무용승용차 운행기록 방법에 관한 고시.json"
+  "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_2104628/업무용승용차 운행기록 방법에 관한 고시.json",
+  "_schlpub_id_suffix": "admrul_2104628"
 }

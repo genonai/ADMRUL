@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0001",
             "reference_id": "law:과학기술기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0001",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -160,7 +166,8 @@
             "target_local_path": "별지/별지1_심의 안건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지1_심의 안건.hwp"
           }
         ],
         "images": [],
@@ -676,7 +683,8 @@
             "target_local_path": "별지/별지2_연구개발과제 제안서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지2_연구개발과제 제안서.hwp"
           }
         ],
         "images": [],
@@ -742,7 +750,8 @@
             "target_local_path": "별지/별지24_제안과제 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지24_제안과제 평가서.hwp"
           }
         ],
         "images": [],
@@ -910,7 +919,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0016",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -930,7 +941,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0016",
             "reference_id": "law:국가연구개발혁신법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1029,9 +1042,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0017",
             "target_unit": "BJ0001",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0001",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식1_연구개발계획서(신청용, 협약용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1109,7 +1125,8 @@
             "target_local_path": "별지/별지25_제안서 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지25_제안서 평가서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1215,7 +1232,8 @@
             "target_local_path": "별지/별지6_서류전형위원 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지6_서류전형위원 서약서.hwp"
           }
         ],
         "images": [],
@@ -1247,7 +1265,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0019",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1267,7 +1287,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0019",
             "reference_id": "law:국가연구개발혁신법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1374,9 +1396,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0020",
             "target_unit": "BJ0003",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0003",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식3_연차보고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1419,7 +1444,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0022",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1439,7 +1466,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0022",
             "reference_id": "law:국가연구개발혁신법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1462,9 +1491,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0022",
             "target_unit": "BJ0009",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0009",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식9_연구개발과제 변경 및 중단 요청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1496,7 +1528,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0023",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1516,7 +1550,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0023",
             "reference_id": "law:국가연구개발혁신법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1662,7 +1698,8 @@
             "target_local_path": "별지/별지7_선금 지급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지7_선금 지급 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1692,7 +1729,8 @@
             "target_local_path": "별지/별지8_선금지급보증각서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지8_선금지급보증각서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1770,7 +1808,8 @@
             "target_local_path": "별지/별지9_잔금신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지9_잔금신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1826,7 +1865,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0026",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1846,7 +1887,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0026",
             "reference_id": "law:국가연구개발혁신법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1866,7 +1909,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0026",
             "reference_id": "law:국가연구개발혁신법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1889,9 +1934,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0026",
             "target_unit": "BJ0009",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0009",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식9_연구개발과제 변경 및 중단 요청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1934,7 +1982,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0028",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1954,7 +2004,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0028",
             "reference_id": "law:국가연구개발혁신법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1996,7 +2048,8 @@
             "target_local_path": "별지/별지13_현장실사보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지13_현장실사보고서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2016,7 +2069,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0029",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2036,7 +2091,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0029",
             "reference_id": "law:국가연구개발혁신법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2066,7 +2123,8 @@
             "target_local_path": "별지/별지12_중간보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지12_중간보고서.hwp"
           }
         ],
         "images": [],
@@ -2119,7 +2177,8 @@
             "target_local_path": "별지/별지4_용역연구과제 연차실적·계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지4_용역연구과제 연차실적·계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2149,7 +2208,8 @@
             "target_local_path": "별지/별지27_단계 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지27_단계 평가서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2203,7 +2263,8 @@
             "target_local_path": "별지/별지4_용역연구과제 연차실적·계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지4_용역연구과제 연차실적·계획서.hwp"
           }
         ],
         "images": [],
@@ -2245,7 +2306,8 @@
             "target_local_path": "별지/별지14_용역연구과제 최종보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지14_용역연구과제 최종보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2275,7 +2337,8 @@
             "target_local_path": "별지/별지15_자체연구과제 최종보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지15_자체연구과제 최종보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2305,7 +2368,8 @@
             "target_local_path": "별지/별지28_최종 평가서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지28_최종 평가서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2517,7 +2581,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0034",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2537,7 +2603,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0034",
             "reference_id": "law:국가연구개발혁신법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2572,9 +2640,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0035",
             "target_unit": "BJ0005",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0005",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식5_최종보고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2597,9 +2668,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0035",
             "target_unit": "BJ0003",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0003",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식3_연차보고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2622,9 +2696,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0035",
             "target_unit": "BJ0007",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0007",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식7_연구개발비 사용실적보고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2654,7 +2731,8 @@
             "target_local_path": "별지/별지19_자체평가 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지19_자체평가 의견서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2684,7 +2762,8 @@
             "target_local_path": "별지/별지20_연구개발성과활용계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지20_연구개발성과활용계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2714,7 +2793,8 @@
             "target_local_path": "별지/별지17_용역연구과제 검사조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지17_용역연구과제 검사조서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2744,7 +2824,8 @@
             "target_local_path": "별지/별지18_연구개발비 사용실적보고서 검토결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지18_연구개발비 사용실적보고서 검토결과서.hwp"
           }
         ],
         "images": [],
@@ -2810,7 +2891,8 @@
             "target_local_path": "별지/별지11_자체연구과제계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지11_자체연구과제계획서.hwp"
           }
         ],
         "images": [],
@@ -2876,7 +2958,8 @@
             "target_local_path": "별지/별지11_자체연구과제계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지11_자체연구과제계획서.hwp"
           }
         ],
         "images": [],
@@ -2972,7 +3055,8 @@
             "target_local_path": "별지/별지29_기술실시신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지29_기술실시신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -3026,7 +3110,8 @@
             "target_local_path": "별지/별지20_연구개발성과활용계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지20_연구개발성과활용계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3049,9 +3134,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0042",
             "target_unit": "BJ0006",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0006",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식6_성과활용보고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3071,7 +3159,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0042",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3091,7 +3181,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0042",
             "reference_id": "law:국가연구개발혁신법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3133,7 +3225,8 @@
             "target_local_path": "별표/별표4_기술료 징수지침.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별표/별표4_기술료 징수지침.hwp"
           },
           {
             "relation_type": "citation",
@@ -3153,7 +3246,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0043",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3173,7 +3268,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0043",
             "reference_id": "law:국가연구개발혁신법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3205,7 +3302,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3225,7 +3324,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3245,7 +3346,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3265,7 +3368,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3285,7 +3390,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3305,7 +3412,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3325,7 +3434,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3345,7 +3456,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3365,7 +3478,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3385,7 +3500,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3405,7 +3522,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3425,7 +3544,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0044",
             "reference_id": "law:국가연구개발혁신법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3468,7 +3589,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0045_02",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3488,7 +3611,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0045_02",
             "reference_id": "law:국가연구개발혁신법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3508,7 +3633,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0045_02",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3528,7 +3655,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0045_02",
             "reference_id": "law:국가연구개발혁신법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3570,7 +3699,8 @@
             "target_local_path": "별지/별지23_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별지/별지23_보안서약서.hwp"
           },
           {
             "relation_type": "citation",
@@ -3590,7 +3720,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0046",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3610,7 +3742,9 @@
             "source_provision_id": "admrul:국가기록원연구개발사업관리규정#JO0046",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3674,7 +3808,8 @@
             "target_local_path": "별표/별표3_박사후·인턴연구원 관리 및 운영지침.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가기록원 연구개발사업 관리규정/별표/별표3_박사후·인턴연구원 관리 및 운영지침.hwp"
           }
         ],
         "images": [],

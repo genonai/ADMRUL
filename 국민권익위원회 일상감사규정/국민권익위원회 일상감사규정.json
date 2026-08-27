@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국민권익위원회일상감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국민권익위원회일상감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -248,7 +252,8 @@
             "target_local_path": "서식/서식1_일상감사 의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 일상감사규정/서식/서식1_일상감사 의뢰서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -302,7 +307,8 @@
             "target_local_path": "서식/서식2_일상감사대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 일상감사규정/서식/서식2_일상감사대장.hwp"
           }
         ],
         "images": [],
@@ -344,7 +350,8 @@
             "target_local_path": "서식/서식3_일상감사 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 일상감사규정/서식/서식3_일상감사 의견서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -554,7 +561,8 @@
             "target_local_path": "서식/서식4_감사의견에 대한 조치결과 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 일상감사규정/서식/서식4_감사의견에 대한 조치결과 통보서.hwp"
           }
         ],
         "images": [],

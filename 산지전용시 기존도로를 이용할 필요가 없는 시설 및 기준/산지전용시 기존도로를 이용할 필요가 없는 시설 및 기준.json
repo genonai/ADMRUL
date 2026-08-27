@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:산지전용시기존도로를이용할필요가없는시설및기준#JO0001",
             "reference_id": "law:산지관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json"
+            "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json",
+            "target_git_path": "산지관리법/시행령/산지관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:산지전용시기존도로를이용할필요가없는시설및기준#JO0001",
             "reference_id": "law:산지관리법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json"
+            "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json",
+            "target_git_path": "산지관리법/시행령/산지관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -133,7 +137,9 @@
             "source_provision_id": "admrul:산지전용시기존도로를이용할필요가없는시설및기준#JO0001",
             "reference_id": "law:도로법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/법률/도로법.json"
+            "target_git_path_guess": "도로법/법률/도로법.json",
+            "target_git_path": "도로법/법률/도로법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [

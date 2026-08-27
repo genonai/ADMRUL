@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0001",
             "reference_id": "law:선원법#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0001",
             "reference_id": "law:선원법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/시행령/선원법 시행령.json"
+            "target_git_path_guess": "선원법/시행령/선원법 시행령.json",
+            "target_git_path": "선원법/시행령/선원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0001",
             "reference_id": "law:선원법시행령#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/시행령/선원법 시행령.json"
+            "target_git_path_guess": "선원법/시행령/선원법 시행령.json",
+            "target_git_path": "선원법/시행령/선원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0002",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0002",
             "reference_id": "law:선원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0002",
             "reference_id": "law:해운법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/법률/해운법.json"
+            "target_git_path_guess": "해운법/법률/해운법.json",
+            "target_git_path": "해운법/법률/해운법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0002",
             "reference_id": "law:해운법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/법률/해운법.json"
+            "target_git_path_guess": "해운법/법률/해운법.json",
+            "target_git_path": "해운법/법률/해운법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -267,7 +281,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0002",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -287,7 +303,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0002",
             "reference_id": "law:선원법#JO0112",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -362,7 +380,8 @@
             "target_local_path": "별지/별지1_외국인선원 고용신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지1_외국인선원 고용신고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -392,7 +411,8 @@
             "target_local_path": "별지/별지2_승선예정 선박 및 승하선 외국인선원 명단.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지2_승선예정 선박 및 승하선 외국인선원 명단.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -422,7 +442,8 @@
             "target_local_path": "별지/별지6_외국인선원 고용에 관한 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지6_외국인선원 고용에 관한 확인서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -476,7 +497,8 @@
             "target_local_path": "별지/별지3_외국인선원 고용 신고수리서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지3_외국인선원 고용 신고수리서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -506,7 +528,8 @@
             "target_local_path": "별표/별표2_지방청별 외국인선원 고용신고 수리용 공인.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별표/별표2_지방청별 외국인선원 고용신고 수리용 공인.hwp"
           }
         ],
         "images": [],
@@ -538,7 +561,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0005_02",
             "reference_id": "law:출입국관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -563,7 +588,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:출입국관리법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_file_path": "출입국관리법/시행규칙/별표/별표5_사증발급 신청 등 첨부서류(제76조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -588,7 +616,10 @@
             "target_unit": "BYL0005_02",
             "reference_id": "law:출입국관리법시행규칙#BYL0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_file_path": "출입국관리법/시행규칙/별표/별표5의2_체류자격 외 활동허가 신청 등 첨부서류(제76조제2항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -618,7 +649,8 @@
             "target_local_path": "별지/별지4의2_외국인선원 고용추천 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지4의2_외국인선원 고용추천 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -648,7 +680,8 @@
             "target_local_path": "별지/별지6_외국인선원 고용에 관한 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지6_외국인선원 고용에 관한 확인서.hwp"
           },
           {
             "relation_type": "citation",
@@ -668,7 +701,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0005_02",
             "reference_id": "law:출입국관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -691,9 +726,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:외국인선원관리지침#JO0005_02",
             "target_unit": "BJ0129",
-            "reference_id": "law:출입국관리법시행규칙#BJ0129",
+            "reference_id": "law:출입국관리법시행규칙#FORM0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_file_path": "출입국관리법/시행규칙/서식/서식129_신원보증서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -713,7 +751,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0005_02",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -733,7 +773,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0005_02",
             "reference_id": "law:선원법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -753,7 +795,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0005_02",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +817,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0005_02",
             "reference_id": "law:선원법#JO0106",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -827,7 +873,8 @@
             "target_local_path": "별지/별지4의3_외국인선원 고용추천서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지4의3_외국인선원 고용추천서.hwp"
           }
         ],
         "images": [],
@@ -929,7 +976,8 @@
             "target_local_path": "별지/별지4_외국현지인 고용신고 수리 현황 통보.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지4_외국현지인 고용신고 수리 현황 통보.hwp"
           }
         ],
         "images": [],
@@ -961,7 +1009,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0007",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1040,7 +1090,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0010",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1082,7 +1134,8 @@
             "target_local_path": "별지/별지5_외국인선원 고용현황 제출.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별지/별지5_외국인선원 고용현황 제출.hwp"
           }
         ],
         "images": [],
@@ -1114,7 +1167,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0012",
             "reference_id": "law:해운법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/법률/해운법.json"
+            "target_git_path_guess": "해운법/법률/해운법.json",
+            "target_git_path": "해운법/법률/해운법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1134,7 +1189,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0012",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1200,7 +1257,8 @@
             "target_local_path": "별표/별표1_행정제재기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인선원 관리지침/별표/별표1_행정제재기준.hwp"
           }
         ],
         "images": [],
@@ -1232,7 +1290,9 @@
             "source_provision_id": "admrul:외국인선원관리지침#JO0014",
             "reference_id": "law:행정규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

@@ -490,7 +490,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기법/법률/상업등기법.json"
+        "target_git_path_guess": "상업등기법/법률/상업등기법.json",
+        "target_git_path": "상업등기법/법률/상업등기법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -510,7 +512,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:비송사건절차법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
+        "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
+        "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -530,7 +534,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -550,7 +556,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:민법법인및특수법인등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "민법법인 및 특수법인 등기규칙/법률/민법법인 및 특수법인 등기규칙.json"
+        "target_git_path_guess": "민법법인 및 특수법인 등기규칙/법률/민법법인 및 특수법인 등기규칙.json",
+        "target_git_path": "민법법인 및 특수법인 등기규칙/법률/민법법인 및 특수법인 등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -570,7 +578,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:채무자회생및파산에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+        "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+        "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -590,7 +600,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -610,7 +622,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0035",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -640,7 +654,8 @@
         "target_local_path": "별표/별표1_[별표 제1호(인감제출자에 관한 사항)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/별표/별표1_[별표 제1호(인감제출자에 관한 사항)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -696,7 +711,8 @@
         "target_local_path": "양식/양식2_[별지 제2호 양식(인감대지)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식2_[별지 제2호 양식(인감대지)].hwp"
       },
       {
         "relation_type": "citation",
@@ -716,7 +732,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -736,7 +754,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:채무자회생및파산에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+        "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+        "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -756,7 +776,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -776,7 +798,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0035",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -820,7 +844,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -840,7 +866,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0067",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -870,7 +898,8 @@
         "target_local_path": "양식/양식3_[별지 제3호 양식(폐인신고서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식3_[별지 제3호 양식(폐인신고서)].hwp"
       },
       {
         "relation_type": "citation",
@@ -890,7 +919,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -910,7 +941,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -940,7 +973,8 @@
         "target_local_path": "양식/양식4_[별지 제4호 양식(인감신고서류 등 편철장)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식4_[별지 제4호 양식(인감신고서류 등 편철장)].hwp"
       },
       {
         "relation_type": "citation",
@@ -960,7 +994,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -980,7 +1016,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0037",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1000,7 +1038,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1020,7 +1060,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0073",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -1066,7 +1108,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:자동차관리법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+        "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+        "target_git_path": "자동차관리법/법률/자동차관리법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1086,7 +1130,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:자동차관리법#JO0005",
         "target_repo": "LAW",
-        "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+        "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+        "target_git_path": "자동차관리법/법률/자동차관리법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -1116,7 +1162,8 @@
         "target_local_path": "양식/양식6_[별지 제6호 양식(접수증)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식6_[별지 제6호 양식(접수증)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1162,7 +1209,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:채무자회생및파산에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+        "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+        "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -1216,7 +1265,8 @@
         "target_local_path": "양식/양식8_[별지 제8호 양식(인감카드 양식)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식8_[별지 제8호 양식(인감카드 양식)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1246,7 +1296,8 @@
         "target_local_path": "양식/양식9_[별지 제9호 양식(인감카드 발급신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식9_[별지 제9호 양식(인감카드 발급신청서)].hwp"
       },
       {
         "relation_type": "citation",
@@ -1266,7 +1317,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1286,7 +1339,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0068",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1364,7 +1419,8 @@
         "target_local_path": "양식/양식10_[별지 제10호 양식(인감카드 재발급신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식10_[별지 제10호 양식(인감카드 재발급신청서)].hwp"
       },
       {
         "relation_type": "citation",
@@ -1384,7 +1440,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:등기사항증명서등수수료규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "등기사항증명서 등 수수료규칙/법률/등기사항증명서 등 수수료규칙.json"
+        "target_git_path_guess": "등기사항증명서 등 수수료규칙/법률/등기사항증명서 등 수수료규칙.json",
+        "target_git_path": "등기사항증명서 등 수수료규칙/법률/등기사항증명서 등 수수료규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1404,7 +1462,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -1434,7 +1494,8 @@
         "target_local_path": "양식/양식9_[별지 제9호 양식(인감카드 발급신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식9_[별지 제9호 양식(인감카드 발급신청서)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1464,7 +1525,8 @@
         "target_local_path": "양식/양식10_[별지 제10호 양식(인감카드 재발급신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식10_[별지 제10호 양식(인감카드 재발급신청서)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1494,7 +1556,8 @@
         "target_local_path": "양식/양식12_[별지 제12호 양식(인감카드 사건신고서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식12_[별지 제12호 양식(인감카드 사건신고서)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1524,7 +1587,8 @@
         "target_local_path": "양식/양식15_[별지 제15호 양식(인감카드 계속사용신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식15_[별지 제15호 양식(인감카드 계속사용신청서)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1554,7 +1618,8 @@
         "target_local_path": "양식/양식11_[별지 제11호 양식(인감카드발급신청서류 등 편철장)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식11_[별지 제11호 양식(인감카드발급신청서류 등 편철장)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1584,7 +1649,8 @@
         "target_local_path": "양식/양식12_[별지 제12호 양식(인감카드 사건신고서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식12_[별지 제12호 양식(인감카드 사건신고서)].hwp"
       },
       {
         "relation_type": "citation",
@@ -1604,7 +1670,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1624,7 +1692,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1644,7 +1714,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -1674,7 +1746,8 @@
         "target_local_path": "양식/양식13_[별지 제13호 양식(인감카드 폐기대장)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식13_[별지 제13호 양식(인감카드 폐기대장)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1704,7 +1777,8 @@
         "target_local_path": "양식/양식14_[별지 제14호 양식(인감카드 관리대장)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식14_[별지 제14호 양식(인감카드 관리대장)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1734,7 +1808,8 @@
         "target_local_path": "양식/양식15_[별지 제15호 양식(인감카드 계속사용신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식15_[별지 제15호 양식(인감카드 계속사용신청서)].hwp"
       },
       {
         "relation_type": "citation",
@@ -1754,7 +1829,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1774,7 +1851,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -1890,7 +1969,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -1920,7 +2001,8 @@
         "target_local_path": "양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -1950,7 +2032,8 @@
         "target_local_path": "양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp"
       },
       {
         "relation_type": "citation",
@@ -1970,7 +2053,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -2000,7 +2085,8 @@
         "target_local_path": "양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -2030,7 +2116,8 @@
         "target_local_path": "양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식16_[별지 제16호 양식(법인인감증명서 발급사실 등 문자전송 서비스 가입ㆍ변경ㆍ해지ㆍ중지 신청서)].hwp"
       },
       {
         "relation_type": "citation",
@@ -2050,7 +2137,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:인감증명법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인감증명법/법률/인감증명법.json"
+        "target_git_path_guess": "인감증명법/법률/인감증명법.json",
+        "target_git_path": "인감증명법/법률/인감증명법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -2070,7 +2159,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기법/법률/상업등기법.json"
+        "target_git_path_guess": "상업등기법/법률/상업등기법.json",
+        "target_git_path": "상업등기법/법률/상업등기법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -2090,7 +2181,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기법#JO0016",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기법/법률/상업등기법.json"
+        "target_git_path_guess": "상업등기법/법률/상업등기법.json",
+        "target_git_path": "상업등기법/법률/상업등기법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -2134,7 +2227,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -2154,7 +2249,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0042_02",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -2184,7 +2281,8 @@
         "target_local_path": "양식/양식17_[별지 제17호 양식(전자인감증명서 발급시스템 이용승인ㆍ철회 신청서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식17_[별지 제17호 양식(전자인감증명서 발급시스템 이용승인ㆍ철회 신청서)].hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -2214,7 +2312,8 @@
         "target_local_path": "양식/양식18_[별지 제18호 양식(전자인감증명서 발급시스템 이용신청서류 등 편철장)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식18_[별지 제18호 양식(전자인감증명서 발급시스템 이용신청서류 등 편철장)].hwp"
       },
       {
         "relation_type": "citation",
@@ -2234,7 +2333,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:등기사항증명서등수수료규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "등기사항증명서 등 수수료 규칙/법률/등기사항증명서 등 수수료 규칙.json"
+        "target_git_path_guess": "등기사항증명서 등 수수료 규칙/법률/등기사항증명서 등 수수료 규칙.json",
+        "target_git_path": "등기사항증명서 등 수수료규칙/법률/등기사항증명서 등 수수료규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -2254,7 +2355,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:등기사항증명서등수수료규칙#JO0005",
         "target_repo": "LAW",
-        "target_git_path_guess": "등기사항증명서 등 수수료 규칙/법률/등기사항증명서 등 수수료 규칙.json"
+        "target_git_path_guess": "등기사항증명서 등 수수료 규칙/법률/등기사항증명서 등 수수료 규칙.json",
+        "target_git_path": "등기사항증명서 등 수수료규칙/법률/등기사항증명서 등 수수료규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -2284,7 +2387,8 @@
         "target_local_path": "양식/양식19_[별지 제19호 양식(전자인감증명서 발급증)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식19_[별지 제19호 양식(전자인감증명서 발급증)].hwp"
       },
       {
         "relation_type": "citation",
@@ -2304,7 +2408,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -2324,7 +2430,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0042_03",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -2354,7 +2462,8 @@
         "target_local_path": "양식/양식20_[별지 제20호 양식(전자인감증명서)].hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "인감의 제출ㆍ관리와 인감증명서 발급 및 전자인감증명서에 관한 업무처리지침/양식/양식20_[별지 제20호 양식(전자인감증명서)].hwp"
       },
       {
         "relation_type": "internal_ref",
@@ -2398,7 +2507,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -2418,7 +2529,9 @@
         "source_provision_id": "admrul:인감의제출관리와인감증명서발급및전자인감증명서에관한업무처리지침#DOC",
         "reference_id": "law:상업등기규칙#JO0042_03",
         "target_repo": "LAW",
-        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json"
+        "target_git_path_guess": "상업등기규칙/법률/상업등기규칙.json",
+        "target_git_path": "상업등기규칙/법률/상업등기규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",

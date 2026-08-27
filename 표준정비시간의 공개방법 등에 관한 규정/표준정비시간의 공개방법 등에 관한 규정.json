@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:표준정비시간의공개방법등에관한규정#JO0001",
             "reference_id": "law:자동차관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json"
+            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_path": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:표준정비시간의공개방법등에관한규정#JO0001",
             "reference_id": "law:자동차관리법시행규칙#JO0133",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json"
+            "target_git_path_guess": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_git_path": "자동차관리법/시행규칙/자동차관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:표준정비시간의공개방법등에관한규정#JO0002",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:표준정비시간의공개방법등에관한규정#JO0002",
             "reference_id": "law:자동차관리법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -181,7 +189,8 @@
             "target_local_path": "별표/별표1_주요정비작업별 공임 및 표준정비시간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준정비시간의 공개방법 등에 관한 규정/별표/별표1_주요정비작업별 공임 및 표준정비시간.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -211,7 +220,8 @@
             "target_local_path": "별표/별표1_주요정비작업별 공임 및 표준정비시간.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "표준정비시간의 공개방법 등에 관한 규정/별표/별표1_주요정비작업별 공임 및 표준정비시간.hwp"
           }
         ],
         "images": [],

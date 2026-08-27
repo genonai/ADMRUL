@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국가공무원인재개발원민관교육발전협의회운영규정#JO0001",
             "reference_id": "law:공무원인재개발법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국가공무원인재개발원민관교육발전협의회운영규정#JO0001",
             "reference_id": "law:공무원인재개발법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -151,7 +155,8 @@
             "target_local_path": "별지/별지1_회원기관 가입 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가공무원인재개발원 민·관 교육발전협의회 운영 규정/별지/별지1_회원기관 가입 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -181,7 +186,8 @@
             "target_local_path": "별지/별지2_회원기관 탈퇴 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가공무원인재개발원 민·관 교육발전협의회 운영 규정/별지/별지2_회원기관 탈퇴 요청서.hwp"
           }
         ],
         "images": [],

@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0002",
             "reference_id": "law:범죄피해자보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "범죄피해자 보호법/법률/범죄피해자 보호법.json"
+            "target_git_path_guess": "범죄피해자 보호법/법률/범죄피해자 보호법.json",
+            "target_git_path": "범죄피해자 보호법/법률/범죄피해자 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0002",
             "reference_id": "law:범죄피해자보호법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "범죄피해자 보호법/법률/범죄피해자 보호법.json"
+            "target_git_path_guess": "범죄피해자 보호법/법률/범죄피해자 보호법.json",
+            "target_git_path": "범죄피해자 보호법/법률/범죄피해자 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -262,7 +266,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0015",
             "reference_id": "law:경찰수사규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json"
+            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_git_path": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -282,7 +288,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0015",
             "reference_id": "law:경찰수사규칙#JO0081",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json"
+            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_git_path": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -302,7 +310,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0015",
             "reference_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json"
+            "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+            "target_git_path": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -322,7 +332,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0015",
             "reference_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json"
+            "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+            "target_git_path": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -388,7 +400,8 @@
             "target_local_path": "별지/별지1_범죄피해자 지원제도 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "피해자 보호 및 지원에 관한 규칙/별지/별지1_범죄피해자 지원제도 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -418,7 +431,8 @@
             "target_local_path": "별지/별지2_성폭력 피해자 권리 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "피해자 보호 및 지원에 관한 규칙/별지/별지2_성폭력 피해자 권리 안내.hwp"
           }
         ],
         "images": [],
@@ -461,7 +475,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0018",
             "reference_id": "law:경찰수사규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json"
+            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_git_path": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -481,7 +497,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0018",
             "reference_id": "law:경찰수사규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json"
+            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_git_path": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -523,7 +541,8 @@
             "target_local_path": "별지/별지8_범죄피해 평가보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "피해자 보호 및 지원에 관한 규칙/별지/별지8_범죄피해 평가보고서.hwp"
           }
         ],
         "images": [],
@@ -566,7 +585,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0021",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -586,7 +607,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0021",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -618,7 +641,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0022",
             "reference_id": "law:경찰수사규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json"
+            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_git_path": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -638,7 +663,9 @@
             "source_provision_id": "admrul:피해자보호및지원에관한규칙#JO0022",
             "reference_id": "law:경찰수사규칙#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json"
+            "target_git_path_guess": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_git_path": "경찰수사규칙/법률/경찰수사규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

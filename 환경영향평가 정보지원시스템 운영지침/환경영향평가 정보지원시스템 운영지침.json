@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:환경영향평가정보지원시스템운영지침#JO0001",
             "reference_id": "law:환경정책기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json"
+            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json",
+            "target_git_path": "환경정책기본법/법률/환경정책기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:환경영향평가정보지원시스템운영지침#JO0001",
             "reference_id": "law:환경정책기본법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json"
+            "target_git_path_guess": "환경정책기본법/법률/환경정책기본법.json",
+            "target_git_path": "환경정책기본법/법률/환경정책기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:환경영향평가정보지원시스템운영지침#JO0001",
             "reference_id": "law:환경영향평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경영향평가법/법률/환경영향평가법.json"
+            "target_git_path_guess": "환경영향평가법/법률/환경영향평가법.json",
+            "target_git_path": "환경영향평가법/법률/환경영향평가법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:환경영향평가정보지원시스템운영지침#JO0001",
             "reference_id": "law:환경영향평가법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경영향평가법/법률/환경영향평가법.json"
+            "target_git_path_guess": "환경영향평가법/법률/환경영향평가법.json",
+            "target_git_path": "환경영향평가법/법률/환경영향평가법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -227,7 +235,8 @@
             "target_local_path": "별표/별표1_사용자별 주요임무.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별표/별표1_사용자별 주요임무.hwp"
           }
         ],
         "images": [],
@@ -269,7 +278,8 @@
             "target_local_path": "별표/별표2_시스템 사용자 등급 및 등급별 이용 가능한 정보.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별표/별표2_시스템 사용자 등급 및 등급별 이용 가능한 정보.hwp"
           }
         ],
         "images": [],
@@ -395,7 +405,8 @@
             "target_local_path": "별표/별표1_사용자별 주요임무.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별표/별표1_사용자별 주요임무.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -425,7 +436,8 @@
             "target_local_path": "별지/별지1_환경영향평가 사업등록 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별지/별지1_환경영향평가 사업등록 확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -455,7 +467,8 @@
             "target_local_path": "별지/별지2_정보제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별지/별지2_정보제공 동의서.hwp"
           },
           {
             "relation_type": "citation",
@@ -509,7 +522,8 @@
             "target_local_path": "별지/별지2_정보제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별지/별지2_정보제공 동의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -539,7 +553,8 @@
             "target_local_path": "별표/별표3_환경영향평가서등의 등록절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별표/별표3_환경영향평가서등의 등록절차.hwp"
           }
         ],
         "images": [],
@@ -639,7 +654,8 @@
             "target_local_path": "별지/별지3_환경영향평가 정보지원시스템 자료요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별지/별지3_환경영향평가 정보지원시스템 자료요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -669,7 +685,8 @@
             "target_local_path": "별지/별지4_환경영향평가 자료 제공대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별지/별지4_환경영향평가 자료 제공대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -699,7 +716,8 @@
             "target_local_path": "별지/별지5_환경영향평가 정보지원시스템 자료사용 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경영향평가 정보지원시스템 운영지침/별지/별지5_환경영향평가 정보지원시스템 자료사용 보안서약서.hwp"
           }
         ],
         "images": [],

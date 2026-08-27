@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:중소기업기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/시행령/중소기업기본법 시행령.json"
+            "target_git_path_guess": "중소기업기본법/시행령/중소기업기본법 시행령.json",
+            "target_git_path": "중소기업기본법/시행령/중소기업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -126,7 +132,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:중소기업기본법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/시행령/중소기업기본법 시행령.json"
+            "target_git_path_guess": "중소기업기본법/시행령/중소기업기본법 시행령.json",
+            "target_git_path": "중소기업기본법/시행령/중소기업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -146,7 +154,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -166,7 +176,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +218,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행규칙/소상공인 보호 및 지원에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행규칙/소상공인 보호 및 지원에 관한 법률 시행규칙.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행규칙/소상공인 보호 및 지원에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -229,9 +243,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "target_unit": "BJ0001",
-            "reference_id": "law:소상공인보호및지원에관한법률시행규칙#BJ0001",
+            "reference_id": "law:소상공인보호및지원에관한법률시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행규칙/소상공인 보호 및 지원에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행규칙/소상공인 보호 및 지원에 관한 법률 시행규칙.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행규칙/소상공인 보호 및 지원에 관한 법률 시행규칙.json",
+            "target_git_file_path": "소상공인 보호 및 지원에 관한 법률/시행규칙/서식/서식1_손실보상신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -261,7 +278,8 @@
             "target_local_path": "별지/별지1_확인보상신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2021년 3분기 손실보상 기준 등에 관한 고시/별지/별지1_확인보상신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -281,7 +299,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -301,7 +321,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -321,7 +343,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -341,7 +365,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -361,7 +387,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -381,7 +409,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -401,7 +431,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -421,7 +453,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -441,7 +475,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -461,7 +497,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -491,7 +529,8 @@
             "target_local_path": "별지/별지3_환수금 분할납부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2021년 3분기 손실보상 기준 등에 관한 고시/별지/별지3_환수금 분할납부 신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -511,7 +550,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -531,7 +572,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -551,7 +594,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -571,7 +616,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -591,7 +638,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -611,7 +660,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -631,7 +682,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -651,7 +704,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -671,7 +726,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0004_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -691,7 +748,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -721,7 +780,8 @@
             "target_local_path": "별지/별지2_이의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "2021년 3분기 손실보상 기준 등에 관한 고시/별지/별지2_이의신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -741,7 +801,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -761,7 +823,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/시행령/소상공인 보호 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -781,7 +845,9 @@
             "source_provision_id": "admrul:2021년3분기손실보상기준등에관한고시#DOC",
             "reference_id": "law:소상공인보호및지원에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0001",
             "reference_id": "law:물품관리법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0001",
             "reference_id": "law:물품관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/시행령/물품관리법 시행령.json"
+            "target_git_path_guess": "물품관리법/시행령/물품관리법 시행령.json",
+            "target_git_path": "물품관리법/시행령/물품관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0001",
             "reference_id": "law:물품관리법시행령#JO0041_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/시행령/물품관리법 시행령.json"
+            "target_git_path_guess": "물품관리법/시행령/물품관리법 시행령.json",
+            "target_git_path": "물품관리법/시행령/물품관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0003",
             "reference_id": "law:자원의절약과재활용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json"
+            "target_git_path_guess": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json",
+            "target_git_path": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0003",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -190,7 +200,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0003",
             "reference_id": "law:건축법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/시행령/건축법 시행령.json"
+            "target_git_path_guess": "건축법/시행령/건축법 시행령.json",
+            "target_git_path": "건축법/시행령/건축법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -220,7 +232,8 @@
             "target_local_path": "별표/별표1_정부물품 재활용사업자 선정 평가 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/별표/별표1_정부물품 재활용사업자 선정 평가 기준.hwp"
           },
           {
             "relation_type": "citation",
@@ -240,7 +253,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0003",
             "reference_id": "law:건축법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/시행령/건축법 시행령.json"
+            "target_git_path_guess": "건축법/시행령/건축법 시행령.json",
+            "target_git_path": "건축법/시행령/건축법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -270,7 +285,8 @@
             "target_local_path": "별표/별표1_정부물품 재활용사업자 선정 평가 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/별표/별표1_정부물품 재활용사업자 선정 평가 기준.hwp"
           },
           {
             "relation_type": "citation",
@@ -290,7 +306,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0003",
             "reference_id": "law:혁신도시조성및발전에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json"
+            "target_git_path_guess": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json",
+            "target_git_path": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -310,7 +328,9 @@
             "source_provision_id": "admrul:정부물품재활용사업운영요령#JO0003",
             "reference_id": "law:혁신도시조성및발전에관한특별법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json"
+            "target_git_path_guess": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json",
+            "target_git_path": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -352,7 +372,8 @@
             "target_local_path": "별표/별표1_정부물품 재활용사업자 선정 평가 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/별표/별표1_정부물품 재활용사업자 선정 평가 기준.hwp"
           }
         ],
         "images": [],
@@ -485,7 +506,8 @@
             "target_local_path": "별첨/별첨1_정부물품 재활용사업 운영 위탁 표준계약서(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/별첨/별첨1_정부물품 재활용사업 운영 위탁 표준계약서(예시).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -515,7 +537,8 @@
             "target_local_path": "붙임/붙임1_재활용품 매각 입찰 표준 공고문(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/붙임/붙임1_재활용품 매각 입찰 표준 공고문(예시).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,7 +568,8 @@
             "target_local_path": "붙임/붙임2_재활용품 매각 표준 계약서(예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/붙임/붙임2_재활용품 매각 표준 계약서(예시).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -575,7 +599,8 @@
             "target_local_path": "붙임/붙임3_재활용품 매각 계약 일반조건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/붙임/붙임3_재활용품 매각 계약 일반조건.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -605,7 +630,8 @@
             "target_local_path": "붙임/붙임3_재활용품 매각 계약 일반조건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정부물품 재활용사업 운영요령/붙임/붙임3_재활용품 매각 계약 일반조건.hwp"
           }
         ],
         "images": [],

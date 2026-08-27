@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국민환경보건기초조사원시자료이용절차등에관한규정#JO0001",
             "reference_id": "law:환경보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경보건법/법률/환경보건법.json"
+            "target_git_path_guess": "환경보건법/법률/환경보건법.json",
+            "target_git_path": "환경보건법/법률/환경보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국민환경보건기초조사원시자료이용절차등에관한규정#JO0001",
             "reference_id": "law:환경보건법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경보건법/법률/환경보건법.json"
+            "target_git_path_guess": "환경보건법/법률/환경보건법.json",
+            "target_git_path": "환경보건법/법률/환경보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -173,7 +177,8 @@
             "target_local_path": "별지/별지1_원시자료 이용계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민환경보건 기초조사 원시자료 이용절차 등에 관한 규정/별지/별지1_원시자료 이용계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -203,7 +208,8 @@
             "target_local_path": "별지/별지2_자료 이용 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민환경보건 기초조사 원시자료 이용절차 등에 관한 규정/별지/별지2_자료 이용 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -233,7 +239,8 @@
             "target_local_path": "별지/별지3_개인정보 수집 및 이용 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민환경보건 기초조사 원시자료 이용절차 등에 관한 규정/별지/별지3_개인정보 수집 및 이용 동의서.hwp"
           }
         ],
         "images": [],
@@ -275,7 +282,8 @@
             "target_local_path": "별지/별지4_원시자료 이용 심의 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민환경보건 기초조사 원시자료 이용절차 등에 관한 규정/별지/별지4_원시자료 이용 심의 결과서.hwp"
           }
         ],
         "images": [],

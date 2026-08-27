@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0001",
             "reference_id": "law:해양경찰청소속경찰공무원교육훈련규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 교육훈련규정/법률/해양경찰청 소속 경찰공무원 교육훈련규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 교육훈련규정/법률/해양경찰청 소속 경찰공무원 교육훈련규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 교육훈련규정/법률/해양경찰청 소속 경찰공무원 교육훈련규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0001",
             "reference_id": "law:해양경찰청소속경찰공무원교육훈련규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 교육훈련규정/법률/해양경찰청 소속 경찰공무원 교육훈련규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 교육훈련규정/법률/해양경찰청 소속 경찰공무원 교육훈련규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 교육훈련규정/법률/해양경찰청 소속 경찰공무원 교육훈련규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -233,7 +237,8 @@
             "target_local_path": "별지/별지1_학생서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지1_학생서약서.hwp"
           }
         ],
         "images": [],
@@ -265,7 +270,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0008",
             "reference_id": "law:경찰공무원지급품에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원 지급품에 관한 규칙/법률/경찰공무원 지급품에 관한 규칙.json"
+            "target_git_path_guess": "경찰공무원 지급품에 관한 규칙/법률/경찰공무원 지급품에 관한 규칙.json",
+            "target_git_path": "경찰공무원 지급품에 관한 규칙/법률/경찰공무원 지급품에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -321,7 +328,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0009",
             "reference_id": "law:해양경찰청소속경찰공무원복제에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 복제에 관한 규칙/법률/해양경찰청 소속 경찰공무원 복제에 관한 규칙.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 복제에 관한 규칙/법률/해양경찰청 소속 경찰공무원 복제에 관한 규칙.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 복제에 관한 규칙/법률/해양경찰청 소속 경찰공무원 복제에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -387,7 +396,8 @@
             "target_local_path": "별표/별표1_흉장, 계급장 및 포제 계급장(제10조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별표/별표1_흉장, 계급장 및 포제 계급장(제10조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -417,7 +427,8 @@
             "target_local_path": "별표/별표2_간부학생 이름표(제10조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별표/별표2_간부학생 이름표(제10조 관련).hwp"
           }
         ],
         "images": [],
@@ -459,7 +470,8 @@
             "target_local_path": "별표/별표4_교수요원 표장(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별표/별표4_교수요원 표장(제11조 관련).hwp"
           }
         ],
         "images": [],
@@ -643,7 +655,8 @@
             "target_local_path": "별표/별표5_학생증(제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별표/별표5_학생증(제17조 관련).hwp"
           }
         ],
         "images": [],
@@ -686,7 +699,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0019",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -706,7 +721,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0019",
             "reference_id": "law:국가공무원복무규정#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -817,7 +834,8 @@
             "target_local_path": "별표/별표8_신임과정(경사이하) 표준 교육구성 및 교과목 (제24조관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별표/별표8_신임과정(경사이하) 표준 교육구성 및 교과목 (제24조관련).hwp"
           }
         ],
         "images": [],
@@ -997,7 +1015,8 @@
             "target_local_path": "별표/별표6_포상의 기준(제37조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별표/별표6_포상의 기준(제37조 관련).hwp"
           }
         ],
         "images": [],
@@ -1065,7 +1084,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0039",
             "reference_id": "law:해양경찰청소속경찰공무원임용에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1085,7 +1106,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0039",
             "reference_id": "law:해양경찰청소속경찰공무원임용에관한규정#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1105,7 +1128,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0039",
             "reference_id": "law:해양경찰청소속경찰공무원임용에관한규정#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1159,7 +1184,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0042",
             "reference_id": "law:해양경찰청소속경찰공무원임용에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1179,7 +1206,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0042",
             "reference_id": "law:해양경찰청소속경찰공무원임용에관한규정#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json"
+            "target_git_path_guess": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_git_path": "해양경찰청 소속 경찰공무원 임용에 관한 규정/법률/해양경찰청 소속 경찰공무원 임용에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1377,7 +1406,9 @@
             "source_provision_id": "admrul:해양경찰교육원학칙#JO0045_03",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1402,7 +1433,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:국가공무원복무규정#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_file_path": "국가공무원 복무규정/법률/별표/별표2_경조사별 휴가 일수표(제20조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1444,7 +1478,8 @@
             "target_local_path": "별지/별지2_졸업증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지2_졸업증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1474,7 +1509,8 @@
             "target_local_path": "별지/별지3_수료증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지3_수료증.hwp"
           }
         ],
         "images": [],
@@ -1527,7 +1563,8 @@
             "target_local_path": "별지/별지4_재학증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지4_재학증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1557,7 +1594,8 @@
             "target_local_path": "별지/별지6_졸업증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지6_졸업증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1587,7 +1625,8 @@
             "target_local_path": "별지/별지8_재학사실증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지8_재학사실증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1617,7 +1656,8 @@
             "target_local_path": "별지/별지9_증명서 발급신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지9_증명서 발급신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1647,7 +1687,8 @@
             "target_local_path": "별지/별지5_영문 재학증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별지/별지5_영문 재학증명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1677,7 +1718,8 @@
             "target_local_path": "별표/별표7_과정명 등 영문표기법(제48조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰교육원 학칙/별표/별표7_과정명 등 영문표기법(제48조 관련).hwp"
           }
         ],
         "images": [],

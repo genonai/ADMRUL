@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:법령안합의심사제운영요강#DOC",
             "reference_id": "law:법제처직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법제처 직제/법률/법제처 직제.json"
+            "target_git_path_guess": "법제처 직제/법률/법제처 직제.json",
+            "target_git_path": "법제처 직제/법률/법제처 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -96,7 +98,8 @@
             "target_local_path": "서식/서식1_주요심사사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법령안 합의심사제 운영 요강/서식/서식1_주요심사사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -126,7 +129,8 @@
             "target_local_path": "서식/서식1_주요심사사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법령안 합의심사제 운영 요강/서식/서식1_주요심사사항.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -156,7 +160,8 @@
             "target_local_path": "서식/서식2_법제합의부 개최 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법령안 합의심사제 운영 요강/서식/서식2_법제합의부 개최 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -186,7 +191,8 @@
             "target_local_path": "서식/서식1_주요심사사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법령안 합의심사제 운영 요강/서식/서식1_주요심사사항.hwp"
           }
         ],
         "images": [],

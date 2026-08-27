@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0001",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0001",
             "reference_id": "law:국민건강보험법#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0001",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0001",
             "reference_id": "law:의료급여법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0002",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0002",
             "reference_id": "law:국민건강보험법#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0002",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +233,9 @@
             "source_provision_id": "admrul:요양기관등행정처분심의위원회의설치운영에관한예규#JO0002",
             "reference_id": "law:의료급여법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -341,7 +357,8 @@
             "target_local_path": "별지/별지1_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "요양기관 등 행정처분심의위원회의 설치·운영에 관한 예규/별지/별지1_서약서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -455,7 +472,8 @@
             "target_local_path": "별지/별지2_신청(확인)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "요양기관 등 행정처분심의위원회의 설치·운영에 관한 예규/별지/별지2_신청(확인)서.hwp"
           }
         ],
         "images": [],

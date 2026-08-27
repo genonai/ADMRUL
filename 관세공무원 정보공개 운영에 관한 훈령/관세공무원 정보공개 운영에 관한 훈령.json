@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -110,7 +112,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +168,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0004",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -182,7 +190,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0004",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -202,7 +212,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0004",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -244,7 +256,8 @@
             "target_local_path": "별표/별표1_정보공개책임관의 지정(제5조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세공무원 정보공개 운영에 관한 훈령/별표/별표1_정보공개책임관의 지정(제5조).hwp"
           }
         ],
         "images": [],
@@ -286,7 +299,8 @@
             "target_local_path": "별표/별표2_사전공개 대상정보의 범위, 공표주기·시기 및 방법(제6조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세공무원 정보공개 운영에 관한 훈령/별표/별표2_사전공개 대상정보의 범위, 공표주기·시기 및 방법(제6조).hwp"
           },
           {
             "relation_type": "citation",
@@ -306,7 +320,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -326,7 +342,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -369,7 +387,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0008",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -389,7 +409,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0008",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -419,7 +441,8 @@
             "target_local_path": "별표/별표3_비공개 대상정보 범위에 관한 세부기준(제8조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세공무원 정보공개 운영에 관한 훈령/별표/별표3_비공개 대상정보 범위에 관한 세부기준(제8조).hwp"
           }
         ],
         "images": [],
@@ -451,7 +474,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0009",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -471,7 +496,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0009",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -503,7 +530,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -523,7 +552,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -543,7 +574,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -563,7 +596,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -583,7 +618,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -603,7 +640,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -623,7 +662,9 @@
             "source_provision_id": "admrul:관세공무원정보공개운영에관한훈령#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

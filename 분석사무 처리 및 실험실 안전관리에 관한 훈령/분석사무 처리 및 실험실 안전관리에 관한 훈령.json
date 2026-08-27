@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0001",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0001",
             "reference_id": "law:관세법#JO0265_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0002",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0002",
             "reference_id": "law:산업안전보건법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -372,7 +380,8 @@
             "target_local_path": "별표/별표1_수출신고서 작성요령.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수출 및 반송통관에 관한 고시/별표/별표1_수출신고서 작성요령.hwp"
           },
           {
             "relation_type": "citation",
@@ -426,7 +435,8 @@
             "target_local_path": "별지/별지1의2_수입신고서 작성요령 (제12조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수입통관 사무처리에 관한 고시/별지/별지1의2_수입신고서 작성요령 (제12조제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -647,7 +657,8 @@
             "target_local_path": "별지/별지1_분석의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지1_분석의뢰서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -737,7 +748,8 @@
             "target_local_path": "별지/별지7_분석의뢰서(분류원-분석소).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지7_분석의뢰서(분류원-분석소).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -767,7 +779,8 @@
             "target_local_path": "별지/별지4_분석의뢰서(분석소).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지4_분석의뢰서(분석소).hwp"
           }
         ],
         "images": [],
@@ -869,7 +882,8 @@
             "target_local_path": "별지/별지2의1_분석의뢰서(마약류 정밀 분석).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지2의1_분석의뢰서(마약류 정밀 분석).hwp"
           }
         ],
         "images": [],
@@ -922,7 +936,8 @@
             "target_local_path": "별지/별지3_분석시험보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지3_분석시험보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -952,7 +967,8 @@
             "target_local_path": "별지/별지2_분석회보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지2_분석회보서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -982,7 +998,8 @@
             "target_local_path": "별지/별지2_분석회보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지2_분석회보서.hwp"
           }
         ],
         "images": [],
@@ -1024,7 +1041,8 @@
             "target_local_path": "별지/별지5_보완요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지5_보완요구서.hwp"
           }
         ],
         "images": [],
@@ -1258,7 +1276,8 @@
             "target_local_path": "별지/별지6_지연통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지6_지연통보서.hwp"
           }
         ],
         "images": [],
@@ -1300,7 +1319,8 @@
             "target_local_path": "별지/별지1_분석의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지1_분석의뢰서.hwp"
           }
         ],
         "images": [],
@@ -1356,7 +1376,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0018",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1514,7 +1536,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0026",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1534,7 +1558,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0026",
             "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1704,7 +1730,8 @@
             "target_local_path": "별지/별지12_분석장비 반출 요청·승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지12_분석장비 반출 요청·승인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1734,7 +1761,8 @@
             "target_local_path": "별지/별지13_분석장비 반입 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지13_분석장비 반입 확인서.hwp"
           }
         ],
         "images": [],
@@ -1766,7 +1794,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0033",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1833,7 +1863,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0035",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1875,7 +1907,8 @@
             "target_local_path": "별지/별지8_실험실 일상점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지8_실험실 일상점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1905,7 +1938,8 @@
             "target_local_path": "별지/별지11_실험실 정기점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지11_실험실 정기점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1935,7 +1969,8 @@
             "target_local_path": "별표/별표2_안전점검 대행 전문기관이 갖추어야 할 요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별표/별표2_안전점검 대행 전문기관이 갖추어야 할 요건.hwp"
           }
         ],
         "images": [],
@@ -1967,7 +2002,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0037",
             "reference_id": "law:산업안전보건법#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1987,7 +2024,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0037",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2007,7 +2046,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0037",
             "reference_id": "law:산업안전보건법시행규칙#JO0190",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2049,7 +2090,8 @@
             "target_local_path": "별지/별지9_분석장비 사용기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지9_분석장비 사용기록부.hwp"
           }
         ],
         "images": [],
@@ -2128,7 +2170,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:화학물질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
+            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2148,7 +2192,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:화학물질관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
+            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2168,7 +2214,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2188,7 +2236,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:산업안전보건법#JO0104",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2208,7 +2258,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:고압가스안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json"
+            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_git_path": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2228,7 +2280,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:고압가스안전관리법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json"
+            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_git_path": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2248,7 +2302,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:전기사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기사업법/법률/전기사업법.json"
+            "target_git_path_guess": "전기사업법/법률/전기사업법.json",
+            "target_git_path": "전기사업법/법률/전기사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2268,7 +2324,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:전기사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기사업법/법률/전기사업법.json"
+            "target_git_path_guess": "전기사업법/법률/전기사업법.json",
+            "target_git_path": "전기사업법/법률/전기사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2298,7 +2356,8 @@
             "target_local_path": "별지/별지10_실험실 사고보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별지/별지10_실험실 사고보고서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2318,7 +2377,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:연구실안전환경조성에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/시행령/연구실 안전환경 조성에 관한 법률 시행령.json"
+            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/시행령/연구실 안전환경 조성에 관한 법률 시행령.json",
+            "target_git_path": "연구실 안전환경 조성에 관한 법률/시행령/연구실 안전환경 조성에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2338,7 +2399,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0041",
             "reference_id": "law:연구실안전환경조성에관한법률시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/시행령/연구실 안전환경 조성에 관한 법률 시행령.json"
+            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/시행령/연구실 안전환경 조성에 관한 법률 시행령.json",
+            "target_git_path": "연구실 안전환경 조성에 관한 법률/시행령/연구실 안전환경 조성에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2392,7 +2455,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0044",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2412,7 +2477,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0044",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2437,7 +2504,10 @@
             "target_unit": "BYL0022",
             "reference_id": "law:산업안전보건법시행규칙#BYL0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_file_path": "산업안전보건법/시행규칙/별표/별표22_특수건강진단 대상 유해인자(제201조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2457,7 +2527,9 @@
             "source_provision_id": "admrul:분석사무처리및실험실안전관리에관한훈령#JO0044",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2487,7 +2559,8 @@
             "target_local_path": "별표/별표1_특수건강진단의 시기 및 주기(산업안전보건법 시행규칙 별표 23).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "분석사무 처리 및 실험실 안전관리에 관한 훈령/별표/별표1_특수건강진단의 시기 및 주기(산업안전보건법 시행규칙 별표 23).hwp"
           }
         ],
         "images": [],

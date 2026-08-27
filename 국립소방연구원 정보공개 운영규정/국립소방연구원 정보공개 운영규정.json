@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립소방연구원정보공개운영규정#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립소방연구원정보공개운영규정#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -154,7 +158,9 @@
             "source_provision_id": "admrul:국립소방연구원정보공개운영규정#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -241,7 +247,9 @@
             "source_provision_id": "admrul:국립소방연구원정보공개운영규정#JO0005",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -297,7 +305,9 @@
             "source_provision_id": "admrul:국립소방연구원정보공개운영규정#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -317,7 +327,9 @@
             "source_provision_id": "admrul:국립소방연구원정보공개운영규정#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -347,7 +359,8 @@
             "target_local_path": "별지/별지1_정보의 사전 공개 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방연구원 정보공개 운영규정/별지/별지1_정보의 사전 공개 목록.hwp"
           }
         ],
         "images": [],
@@ -445,7 +458,9 @@
             "source_provision_id": "admrul:국립소방연구원정보공개운영규정#JO0013",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

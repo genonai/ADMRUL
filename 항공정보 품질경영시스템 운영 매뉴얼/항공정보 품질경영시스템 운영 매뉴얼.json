@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "reference_id": "law:항공안전법#JO0089",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,9 @@
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "reference_id": "law:항공안전법시행규칙#JO0255",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -174,7 +180,9 @@
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "reference_id": "law:항공안전법#JO0135",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -194,7 +202,9 @@
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "reference_id": "law:항공안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -214,7 +224,9 @@
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "reference_id": "law:항공안전법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -234,7 +246,9 @@
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "reference_id": "law:국토교통부와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "국토교통부와 그 소속기관 직제/시행규칙/국토교통부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -264,7 +278,8 @@
             "target_local_path": "별표/별표1_국토교통부 항공정보업무 조직도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표1_국토교통부 항공정보업무 조직도.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -372,7 +387,8 @@
             "target_local_path": "별지/별지9_이해관계자 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지9_이해관계자 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -402,7 +418,8 @@
             "target_local_path": "별표/별표10_항공지도 발간 절차도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표10_항공지도 발간 절차도.hwp"
           },
           {
             "relation_type": "citation",
@@ -480,7 +497,8 @@
             "target_local_path": "별표/별표2_항공정보 품질경영시스템 PDCA 흐름도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표2_항공정보 품질경영시스템 PDCA 흐름도.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -510,7 +528,8 @@
             "target_local_path": "별표/별표4_위험도평가 매트릭스.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표4_위험도평가 매트릭스.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -540,7 +559,8 @@
             "target_local_path": "별표/별표3_위험도 분류표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표3_위험도 분류표.hwp"
           },
           {
             "relation_type": "citation",
@@ -594,7 +614,8 @@
             "target_local_path": "별표/별표12_항공정보업무종사자 교육훈련과정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표12_항공정보업무종사자 교육훈련과정.hwp"
           },
           {
             "relation_type": "citation",
@@ -722,7 +743,8 @@
             "target_local_path": "별지/별지5_부적합품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지5_부적합품 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -752,7 +774,8 @@
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -782,7 +805,8 @@
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -812,7 +836,8 @@
             "target_local_path": "별지/별지5_부적합품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지5_부적합품 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -842,7 +867,8 @@
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -872,7 +898,8 @@
             "target_local_path": "별지/별지5_부적합품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지5_부적합품 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -902,7 +929,8 @@
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -932,7 +960,8 @@
             "target_local_path": "별지/별지1_연간 내부심사 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지1_연간 내부심사 계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -962,7 +991,8 @@
             "target_local_path": "별지/별지2_내부심사 실시계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지2_내부심사 실시계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -992,7 +1022,8 @@
             "target_local_path": "별지/별지2_내부심사 실시계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지2_내부심사 실시계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1022,7 +1053,8 @@
             "target_local_path": "별지/별지3_내부심사 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지3_내부심사 점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1052,7 +1084,8 @@
             "target_local_path": "별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1082,7 +1115,8 @@
             "target_local_path": "별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1112,7 +1146,8 @@
             "target_local_path": "별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1142,7 +1177,8 @@
             "target_local_path": "별지/별지8_시정조치 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지8_시정조치 요구서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국토지리정보원용역사업검사업무규정#JO0001",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국토지리정보원용역사업검사업무규정#JO0001",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국토지리정보원용역사업검사업무규정#JO0001",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:국토지리정보원용역사업검사업무규정#JO0001",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:국토지리정보원용역사업검사업무규정#JO0001",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -233,7 +243,8 @@
             "target_local_path": "별지/별지1_용역기성부분 검사원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토지리정보원 용역사업 검사업무 규정/별지/별지1_용역기성부분 검사원.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -263,7 +274,8 @@
             "target_local_path": "별지/별지2_용역완성검사원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토지리정보원 용역사업 검사업무 규정/별지/별지2_용역완성검사원.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -293,7 +305,8 @@
             "target_local_path": "별지/별지3_용역하자완성검사원.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토지리정보원 용역사업 검사업무 규정/별지/별지3_용역하자완성검사원.hwp"
           }
         ],
         "images": [],
@@ -359,7 +372,8 @@
             "target_local_path": "별지/별지4_용역감독관(기성부분·완성) 감독조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토지리정보원 용역사업 검사업무 규정/별지/별지4_용역감독관(기성부분·완성) 감독조서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -544,7 +558,8 @@
             "target_local_path": "별지/별지5의1_용역기성부분검사조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토지리정보원 용역사업 검사업무 규정/별지/별지5의1_용역기성부분검사조서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -574,7 +589,8 @@
             "target_local_path": "별지/별지5의2_용역완성검사조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토지리정보원 용역사업 검사업무 규정/별지/별지5의2_용역완성검사조서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -604,7 +620,8 @@
             "target_local_path": "별지/별지5의3_용역하자완성검사조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국토지리정보원 용역사업 검사업무 규정/별지/별지5의3_용역하자완성검사조서.hwp"
           }
         ],
         "images": [],

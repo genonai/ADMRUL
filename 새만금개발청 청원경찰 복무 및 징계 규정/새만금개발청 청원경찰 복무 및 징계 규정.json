@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0001",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0001",
             "reference_id": "law:청원경찰법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0001",
             "reference_id": "law:청원경찰법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -172,7 +178,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0005",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +200,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0005",
             "reference_id": "law:국가공무원법#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -212,7 +222,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0005",
             "reference_id": "law:국가공무원법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -232,7 +244,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0005",
             "reference_id": "law:국가공무원법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -252,7 +266,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0005",
             "reference_id": "law:경찰공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
+            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -272,7 +288,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0005",
             "reference_id": "law:경찰공무원법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
+            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -415,7 +433,8 @@
             "target_local_path": "별표/별표1_근무수칙(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표1_근무수칙(제13조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -445,7 +464,8 @@
             "target_local_path": "별지/별지1_확인서(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지1_확인서(제13조 관련).hwp"
           }
         ],
         "images": [],
@@ -488,7 +508,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0015",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -520,7 +542,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0016",
             "reference_id": "law:청원경찰법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json"
+            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_path": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -540,7 +564,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0016",
             "reference_id": "law:청원경찰법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json"
+            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_path": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -560,7 +586,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0016",
             "reference_id": "law:경찰관직무집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json"
+            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_git_path": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -580,7 +608,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0016",
             "reference_id": "law:경찰관직무집행법#JO0010_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json"
+            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_git_path": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -647,7 +677,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0018",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비규정/법률/공무원 여비규정.json"
+            "target_git_path_guess": "공무원 여비규정/법률/공무원 여비규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -679,7 +711,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0019",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -723,7 +757,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0019",
             "reference_id": "law:관공서의공휴일에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -767,7 +803,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0019",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -820,7 +858,8 @@
             "target_local_path": "별지/별지2_청원경찰 근무실적평가서(제21조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지2_청원경찰 근무실적평가서(제21조 관련).hwp"
           }
         ],
         "images": [],
@@ -863,7 +902,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0023",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -883,7 +924,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0023",
             "reference_id": "law:청원경찰법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -926,7 +969,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0025",
             "reference_id": "law:공무원연금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json",
+            "target_git_path": "공무원연금법/법률/공무원연금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -958,7 +1003,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0026",
             "reference_id": "law:공무원재해보상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 재해보상법/법률/공무원 재해보상법.json"
+            "target_git_path_guess": "공무원 재해보상법/법률/공무원 재해보상법.json",
+            "target_git_path": "공무원 재해보상법/법률/공무원 재해보상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1118,7 +1165,8 @@
             "target_local_path": "별지/별지3_청원경찰 징계 등 의결 요구(신청)서(제31조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지3_청원경찰 징계 등 의결 요구(신청)서(제31조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1148,7 +1196,8 @@
             "target_local_path": "별지/별지4_확인서(제31조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지4_확인서(제31조 관련).hwp"
           }
         ],
         "images": [],
@@ -1180,7 +1229,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0032",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1200,7 +1251,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0032",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1242,7 +1295,8 @@
             "target_local_path": "별지/별지5_출석 통지서(제33조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지5_출석 통지서(제33조 관련).hwp"
           }
         ],
         "images": [],
@@ -1320,7 +1374,8 @@
             "target_local_path": "별표/별표2_청원경찰 징계기준(안)(제35조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표2_청원경찰 징계기준(안)(제35조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1350,7 +1405,8 @@
             "target_local_path": "별표/별표3_청렴의 의무 위반 징계기준(안)(제35조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표3_청렴의 의무 위반 징계기준(안)(제35조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1380,7 +1436,8 @@
             "target_local_path": "별표/별표4_음주운전 징계기준(제35조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표4_음주운전 징계기준(제35조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1410,7 +1467,8 @@
             "target_local_path": "별표/별표6_징계처분에 따른 효력(제35조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표6_징계처분에 따른 효력(제35조 관련).hwp"
           }
         ],
         "images": [],
@@ -1452,7 +1510,8 @@
             "target_local_path": "별표/별표5_징계 감경기준(안)(제36조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표5_징계 감경기준(안)(제36조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -1472,7 +1531,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1492,7 +1553,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1512,7 +1575,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1532,7 +1597,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1552,7 +1619,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1572,7 +1641,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1592,7 +1663,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1612,7 +1685,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1632,7 +1707,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0036",
             "reference_id": "law:도로교통법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1662,7 +1739,8 @@
             "target_local_path": "별표/별표5_징계 감경기준(안)(제36조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표5_징계 감경기준(안)(제36조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1692,7 +1770,8 @@
             "target_local_path": "별표/별표5_징계 감경기준(안)(제36조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별표/별표5_징계 감경기준(안)(제36조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1722,7 +1801,8 @@
             "target_local_path": "별지/별지6_청원경찰 징계의 감경 의견서(제36조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지6_청원경찰 징계의 감경 의견서(제36조 관련).hwp"
           }
         ],
         "images": [],
@@ -1764,7 +1844,8 @@
             "target_local_path": "별지/별지7_징계 등 의결서(제37조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지7_징계 등 의결서(제37조 관련).hwp"
           }
         ],
         "images": [],
@@ -1817,7 +1898,8 @@
             "target_local_path": "별지/별지8_징계 등 처분 사유 설명서(제39조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "새만금개발청 청원경찰 복무 및 징계 규정/별지/별지8_징계 등 처분 사유 설명서(제39조 관련).hwp"
           }
         ],
         "images": [],
@@ -1915,7 +1997,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0046",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1935,7 +2019,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0046",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1955,7 +2041,9 @@
             "source_provision_id": "admrul:새만금개발청청원경찰복무및징계규정#JO0046",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json"
+            "target_git_path_guess": "국가공무원복무규정/법률/국가공무원복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

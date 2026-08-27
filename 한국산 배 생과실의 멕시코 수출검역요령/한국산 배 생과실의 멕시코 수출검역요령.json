@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:한국산배생과실의멕시코수출검역요령#JO0001",
             "reference_id": "law:식물방역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:한국산배생과실의멕시코수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:한국산배생과실의멕시코수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -231,7 +237,8 @@
             "target_local_path": "별지/별지1_한국산 배의 멕시코 수출검역단지 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 배 생과실의 멕시코 수출검역요령/별지/별지1_한국산 배의 멕시코 수출검역단지 목록.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -321,7 +328,8 @@
             "target_local_path": "별지/별지2_배 생과실의 멕시코 선과장 감독 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 배 생과실의 멕시코 수출검역요령/별지/별지2_배 생과실의 멕시코 선과장 감독 기록부.hwp"
           }
         ],
         "images": [],
@@ -413,7 +421,8 @@
             "target_local_path": "별지/별지3_배 생과실의 멕시코 수출 재배지의 복숭아순나방 모니터링 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 배 생과실의 멕시코 수출검역요령/별지/별지3_배 생과실의 멕시코 수출 재배지의 복숭아순나방 모니터링 기록부.hwp"
           }
         ],
         "images": [

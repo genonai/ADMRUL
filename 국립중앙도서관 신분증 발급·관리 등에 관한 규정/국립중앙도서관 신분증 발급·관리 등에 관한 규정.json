@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:국립중앙도서관신분증발급관리등에관한규정#JO0002",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:국립중앙도서관신분증발급관리등에관한규정#JO0002",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -184,7 +188,8 @@
             "target_local_path": "별지/별지2_신분증 발급(재발급) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙도서관 신분증 발급·관리 등에 관한 규정/별지/별지2_신분증 발급(재발급) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -214,7 +219,8 @@
             "target_local_path": "별지/별지1_신분증 발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙도서관 신분증 발급·관리 등에 관한 규정/별지/별지1_신분증 발급대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -244,7 +250,8 @@
             "target_local_path": "별지/별지2_신분증 발급(재발급) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙도서관 신분증 발급·관리 등에 관한 규정/별지/별지2_신분증 발급(재발급) 신청서.hwp"
           }
         ],
         "images": [],

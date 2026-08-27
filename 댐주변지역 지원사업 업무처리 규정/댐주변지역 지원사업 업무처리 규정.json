@@ -159,7 +159,9 @@
             "source_provision_id": "admrul:댐주변지역지원사업업무처리규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -364,7 +366,9 @@
             "source_provision_id": "admrul:댐주변지역지원사업업무처리규정#JO0006",
             "reference_id": "law:지방자치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
+            "target_git_path": "지방자치법/법률/지방자치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -384,7 +388,9 @@
             "source_provision_id": "admrul:댐주변지역지원사업업무처리규정#JO0006",
             "reference_id": "law:지방자치법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
+            "target_git_path": "지방자치법/법률/지방자치법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -426,7 +432,8 @@
             "target_local_path": "별지/별지1_지원사업 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지1_지원사업 계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -456,7 +463,8 @@
             "target_local_path": "별지/별지2_단위사업 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지2_단위사업 계획서.hwp"
           }
         ],
         "images": [],
@@ -686,7 +694,8 @@
             "target_local_path": "별지/별지3_지원사업계획 변경신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지3_지원사업계획 변경신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -754,7 +763,9 @@
             "source_provision_id": "admrul:댐주변지역지원사업업무처리규정#JO0011",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -774,7 +785,9 @@
             "source_provision_id": "admrul:댐주변지역지원사업업무처리규정#JO0011",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1046,7 +1059,8 @@
             "target_local_path": "별지/별지4_서면결의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지4_서면결의서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1128,7 +1142,8 @@
             "target_local_path": "별지/별지5_지원사업협의회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지5_지원사업협의회 회의록.hwp"
           }
         ],
         "images": [],
@@ -1314,7 +1329,8 @@
             "target_local_path": "별지/별지6_직무윤리 사전진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지6_직무윤리 사전진단서.hwp"
           }
         ],
         "images": [],
@@ -1356,7 +1372,8 @@
             "target_local_path": "별지/별지7_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지7_서약서.hwp"
           }
         ],
         "images": [],
@@ -1409,7 +1426,8 @@
             "target_local_path": "별지/별지8_지원금 및 자금 교부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지8_지원금 및 자금 교부 신청서.hwp"
           }
         ],
         "images": [],
@@ -1741,7 +1759,9 @@
             "source_provision_id": "admrul:댐주변지역지원사업업무처리규정#JO0035",
             "reference_id": "law:공공재정부정청구금지및부정이익환수등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률/법률/공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률.json"
+            "target_git_path_guess": "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률/법률/공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률.json",
+            "target_git_path": "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률/법률/공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1783,7 +1803,8 @@
             "target_local_path": "별지/별지9_단위사업별 결과 명세서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지9_단위사업별 결과 명세서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1813,7 +1834,8 @@
             "target_local_path": "별지/별지10_단위사업 결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지10_단위사업 결과서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1843,7 +1865,8 @@
             "target_local_path": "별지/별지11_지원사업 시행결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "댐주변지역 지원사업 업무처리 규정/별지/별지11_지원사업 시행결과서.hwp"
           }
         ],
         "images": [],
@@ -2032,7 +2055,9 @@
             "source_provision_id": "admrul:댐주변지역지원사업업무처리규정#JO0041",
             "reference_id": "law:공유재산및물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json"
+            "target_git_path_guess": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

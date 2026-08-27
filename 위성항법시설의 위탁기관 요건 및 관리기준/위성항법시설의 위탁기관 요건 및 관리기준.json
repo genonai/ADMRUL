@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0001",
             "reference_id": "law:공항시설법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0001",
             "reference_id": "law:공항시설법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0001",
             "reference_id": "law:공항시설법시행령#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0002",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0002",
             "reference_id": "law:공항시설법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -191,7 +201,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0003",
             "reference_id": "law:공항시설법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -211,7 +223,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0003",
             "reference_id": "law:공항시설법시행령#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -241,7 +255,8 @@
             "target_local_path": "별지/별지1_위성항법시설 전문운영기관 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위성항법시설의 위탁기관 요건 및 관리기준/별지/별지1_위성항법시설 전문운영기관 신청서.hwp"
           }
         ],
         "images": [],
@@ -283,7 +298,8 @@
             "target_local_path": "별표/별표1_위성항법시설 관리·운영 위탁 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위성항법시설의 위탁기관 요건 및 관리기준/별표/별표1_위성항법시설 관리·운영 위탁 기준.hwp"
           }
         ],
         "images": [],
@@ -420,7 +436,8 @@
             "target_local_path": "별지/별지2_위성항법시설 전문운영기관 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "위성항법시설의 위탁기관 요건 및 관리기준/별지/별지2_위성항법시설 전문운영기관 지정서.hwp"
           },
           {
             "relation_type": "citation",
@@ -440,7 +457,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0007",
             "reference_id": "law:공항시설법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -460,7 +479,9 @@
             "source_provision_id": "admrul:위성항법시설의위탁기관요건및관리기준#JO0007",
             "reference_id": "law:공항시설법시행령#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

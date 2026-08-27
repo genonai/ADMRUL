@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:식품의약품안전처제품안전관리협의회운영등에관한규정#JO0003",
             "reference_id": "law:제품안전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json"
+            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json",
+            "target_git_path": "제품안전기본법/법률/제품안전기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:식품의약품안전처제품안전관리협의회운영등에관한규정#JO0003",
             "reference_id": "law:제품안전기본법#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json"
+            "target_git_path_guess": "제품안전기본법/법률/제품안전기본법.json",
+            "target_git_path": "제품안전기본법/법률/제품안전기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -173,7 +177,8 @@
             "target_local_path": "별지/별지1_제품안전관리협의회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식품의약품안전처 제품안전관리협의회 운영 등에 관한 규정/별지/별지1_제품안전관리협의회 회의록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -203,7 +208,8 @@
             "target_local_path": "별지/별지2_제품안전관리협의회 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "식품의약품안전처 제품안전관리협의회 운영 등에 관한 규정/별지/별지2_제품안전관리협의회 의결서.hwp"
           }
         ],
         "images": [],

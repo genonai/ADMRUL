@@ -425,7 +425,8 @@
             "target_local_path": "별지/별지1_PERSONAL INFORMATION.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인 근무자 방첩관리 지침/별지/별지1_PERSONAL INFORMATION.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -455,7 +456,8 @@
             "target_local_path": "별지/별지2_외국인 근무자 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외국인 근무자 방첩관리 지침/별지/별지2_외국인 근무자 현황.hwp"
           }
         ],
         "images": [],
@@ -487,7 +489,9 @@
             "source_provision_id": "admrul:외국인근무자방첩관리지침#JO0005",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -507,7 +511,9 @@
             "source_provision_id": "admrul:외국인근무자방첩관리지침#JO0005",
             "reference_id": "law:국가공무원법#JO0026_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

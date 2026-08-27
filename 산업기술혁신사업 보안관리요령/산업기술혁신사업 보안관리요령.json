@@ -207,7 +207,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0007",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -270,7 +272,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0009",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -290,7 +294,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0009",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -310,7 +316,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0009",
             "reference_id": "law:대외무역법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -330,7 +338,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0009",
             "reference_id": "law:대외무역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -350,7 +360,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0009",
             "reference_id": "law:대외무역법시행령#JO0032_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -394,7 +406,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0009",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -414,7 +428,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0009",
             "reference_id": "law:군사기밀보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기밀보호법/시행령/군사기밀보호법 시행령.json"
+            "target_git_path_guess": "군사기밀보호법/시행령/군사기밀보호법 시행령.json",
+            "target_git_path": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -456,7 +472,8 @@
             "target_local_path": "서식/서식1_과제 보안등급 분류 및 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "산업기술혁신사업 보안관리요령/서식/서식1_과제 보안등급 분류 및 심사기준.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -500,7 +517,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0010",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -520,7 +539,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0010",
             "reference_id": "law:대외무역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -540,7 +561,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0010",
             "reference_id": "law:원자력안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -560,7 +583,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0010",
             "reference_id": "law:원자력안전법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -580,7 +605,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0010",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -600,7 +627,9 @@
             "source_provision_id": "admrul:산업기술혁신사업보안관리요령#JO0010",
             "reference_id": "law:대외무역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

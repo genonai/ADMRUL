@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:궁능유적본부안전보건관리규정#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:궁능유적본부안전보건관리규정#JO0001",
             "reference_id": "law:산업안전보건법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -365,7 +369,8 @@
             "target_local_path": "별표/별표1_안전관리자의 자격(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궁능유적본부 안전보건관리규정/별표/별표1_안전관리자의 자격(제9조 관련).hwp"
           }
         ],
         "images": [],
@@ -431,7 +436,8 @@
             "target_local_path": "별표/별표2_보건관리자의 자격(제10조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "궁능유적본부 안전보건관리규정/별표/별표2_보건관리자의 자격(제10조 관련).hwp"
           }
         ],
         "images": [],

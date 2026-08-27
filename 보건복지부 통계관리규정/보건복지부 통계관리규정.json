@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:보건복지부통계관리규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:보건복지부통계관리규정#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "admrul:보건복지부통계관리규정#JO0002",
             "reference_id": "law:유아교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유아교육법/법률/유아교육법.json"
+            "target_git_path_guess": "유아교육법/법률/유아교육법.json",
+            "target_git_path": "유아교육법/법률/유아교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -138,7 +144,9 @@
             "source_provision_id": "admrul:보건복지부통계관리규정#JO0002",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -158,7 +166,9 @@
             "source_provision_id": "admrul:보건복지부통계관리규정#JO0002",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -178,7 +188,9 @@
             "source_provision_id": "admrul:보건복지부통계관리규정#JO0002",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -198,7 +210,9 @@
             "source_provision_id": "admrul:보건복지부통계관리규정#JO0002",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -440,7 +454,8 @@
             "target_local_path": "별지/별지1_통계작성 협의요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 통계관리규정/별지/별지1_통계작성 협의요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -470,7 +485,8 @@
             "target_local_path": "별지/별지4_행정자료를 활용한 통계작성 가능 여부 판단 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 통계관리규정/별지/별지4_행정자료를 활용한 통계작성 가능 여부 판단 결과.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -524,7 +540,8 @@
             "target_local_path": "별지/별지5_행정자료를 활용한 통계작성 가능 여부 판단 의뢰 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 통계관리규정/별지/별지5_행정자료를 활용한 통계작성 가능 여부 판단 의뢰 요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -554,7 +571,8 @@
             "target_local_path": "별지/별지2_통계작성변경 협의요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 통계관리규정/별지/별지2_통계작성변경 협의요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -584,7 +602,8 @@
             "target_local_path": "별지/별지3_통계작성중지 협의요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보건복지부 통계관리규정/별지/별지3_통계작성중지 협의요청서.hwp"
           }
         ],
         "images": [],

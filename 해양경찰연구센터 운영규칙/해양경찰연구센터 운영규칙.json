@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0002",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -142,7 +144,8 @@
             "target_local_path": "별표/별표1_사무분장(제5조 제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별표/별표1_사무분장(제5조 제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -184,7 +187,8 @@
             "target_local_path": "별표/별표2_해양경찰연구센터 공무원 정원표(제6조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별표/별표2_해양경찰연구센터 공무원 정원표(제6조 관련).hwp"
           }
         ],
         "images": [],
@@ -259,7 +263,8 @@
             "target_local_path": "별지/별지1_연구과제 제안서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지1_연구과제 제안서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -289,7 +294,8 @@
             "target_local_path": "별지/별지2_연구계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지2_연구계획서.hwp"
           }
         ],
         "images": [],
@@ -331,7 +337,8 @@
             "target_local_path": "별지/별지13_연구과제 중단사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지13_연구과제 중단사유서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -361,7 +368,8 @@
             "target_local_path": "별지/별지2_연구계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지2_연구계획서.hwp"
           }
         ],
         "images": [],
@@ -417,7 +425,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0012",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -634,7 +644,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0016",
             "reference_id": "law:국가연구개발혁신법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -657,9 +669,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0016",
             "target_unit": "BJ0001",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0001",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식1_연구개발계획서(신청용, 협약용).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -691,7 +706,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0017",
             "reference_id": "law:국가연구개발혁신법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -711,7 +728,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0017",
             "reference_id": "law:국가연구개발혁신법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -741,7 +760,8 @@
             "target_local_path": "별지/별지3_삭제.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지3_삭제.hwp"
           }
         ],
         "images": [],
@@ -773,7 +793,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0017_02",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -793,7 +815,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0017_02",
             "reference_id": "law:국가연구개발혁신법시행령#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -825,7 +849,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0018",
             "reference_id": "law:국가연구개발혁신법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -848,9 +874,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0018",
             "target_unit": "BJ0006",
-            "reference_id": "law:국가연구개발혁신법시행규칙#BJ0006",
+            "reference_id": "law:국가연구개발혁신법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_path": "국가연구개발혁신법/시행규칙/국가연구개발혁신법 시행규칙.json",
+            "target_git_file_path": "국가연구개발혁신법/시행규칙/서식/서식6_성과활용보고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -893,7 +922,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0020",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -913,7 +944,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0020",
             "reference_id": "law:국유재산법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -933,7 +966,9 @@
             "source_provision_id": "admrul:해양경찰연구센터운영규칙#JO0020",
             "reference_id": "law:국유재산법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -963,7 +998,8 @@
             "target_local_path": "별지/별지5_직무발명신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지5_직무발명신고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -993,7 +1029,8 @@
             "target_local_path": "별지/별지5의1_직무발명의 성질에 대한 설명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지5의1_직무발명의 성질에 대한 설명서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1023,7 +1060,8 @@
             "target_local_path": "별지/별지5의2_직무발명의 요약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지5의2_직무발명의 요약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1053,7 +1091,8 @@
             "target_local_path": "별지/별지6_산업재산권에 관한 권리 양도증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지6_산업재산권에 관한 권리 양도증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1083,7 +1122,8 @@
             "target_local_path": "별지/별지7_산업재산권 발명자 포함 사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지7_산업재산권 발명자 포함 사유서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1113,7 +1153,8 @@
             "target_local_path": "별지/별지8_산업재산권 발명자 제외 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지8_산업재산권 발명자 제외 동의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1143,7 +1184,8 @@
             "target_local_path": "별지/별지9_공동연구협약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지9_공동연구협약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1173,7 +1215,8 @@
             "target_local_path": "별지/별지10_공동출원 및 실시에 관한 협약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지10_공동출원 및 실시에 관한 협약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1203,7 +1246,8 @@
             "target_local_path": "별지/별지11_공동출원 사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지11_공동출원 사유서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1233,7 +1277,8 @@
             "target_local_path": "별지/별지12_직무발명 승계 결정 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "해양경찰연구센터 운영규칙/별지/별지12_직무발명 승계 결정 통지서.hwp"
           },
           {
             "relation_type": "citation",

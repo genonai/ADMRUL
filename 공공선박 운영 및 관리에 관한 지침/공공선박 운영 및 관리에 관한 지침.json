@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0002",
             "reference_id": "law:선박직원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박직원법/법률/선박직원법.json"
+            "target_git_path_guess": "선박직원법/법률/선박직원법.json",
+            "target_git_path": "선박직원법/법률/선박직원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -110,7 +112,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0003",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -635,7 +641,8 @@
             "target_local_path": "별표/별표1_공공선박 승무 정원 기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별표/별표1_공공선박 승무 정원 기준표.hwp"
           },
           {
             "relation_type": "citation",
@@ -655,7 +662,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0026",
             "reference_id": "law:환경친화적선박의개발및보급촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경친화적 선박의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 선박의 개발 및 보급 촉진에 관한 법률.json"
+            "target_git_path_guess": "환경친화적 선박의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 선박의 개발 및 보급 촉진에 관한 법률.json",
+            "target_git_path": "환경친화적 선박의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 선박의 개발 및 보급 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -675,7 +684,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0026",
             "reference_id": "law:환경친화적선박의개발및보급촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경친화적 선박의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 선박의 개발 및 보급 촉진에 관한 법률.json"
+            "target_git_path_guess": "환경친화적 선박의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 선박의 개발 및 보급 촉진에 관한 법률.json",
+            "target_git_path": "환경친화적 선박의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 선박의 개발 및 보급 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -705,7 +716,8 @@
             "target_local_path": "별표/별표1_공공선박 승무 정원 기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별표/별표1_공공선박 승무 정원 기준표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -735,7 +747,8 @@
             "target_local_path": "별표/별표1_공공선박 승무 정원 기준표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별표/별표1_공공선박 승무 정원 기준표.hwp"
           }
         ],
         "images": [],
@@ -832,7 +845,8 @@
             "target_local_path": "별지/별지1_운항 결과보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별지/별지1_운항 결과보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -862,7 +876,8 @@
             "target_local_path": "별지/별지2_연료유 등 사용현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별지/별지2_연료유 등 사용현황.hwp"
           }
         ],
         "images": [],
@@ -976,7 +991,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0036",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -996,7 +1013,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0036",
             "reference_id": "law:선박안전법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1016,7 +1035,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0036",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1036,7 +1057,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0036",
             "reference_id": "law:어선법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1066,7 +1089,8 @@
             "target_local_path": "별표/별표2_공공선박의 상태평가 지침.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별표/별표2_공공선박의 상태평가 지침.hwp"
           }
         ],
         "images": [],
@@ -1180,7 +1204,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0039",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1200,7 +1226,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0039",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1289,7 +1317,8 @@
             "target_local_path": "별표/별표3_장비선정 평가 및 배점기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별표/별표3_장비선정 평가 및 배점기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1319,7 +1348,8 @@
             "target_local_path": "별지/별지3_(추진기관) 선정 평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별지/별지3_(추진기관) 선정 평가표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1349,7 +1379,8 @@
             "target_local_path": "별지/별지4_(추진기관) 선정 평가 집계표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별지/별지4_(추진기관) 선정 평가 집계표.hwp"
           }
         ],
         "images": [],
@@ -1460,7 +1491,8 @@
             "target_local_path": "별표/별표4_해상기상특보 및 대피기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별표/별표4_해상기상특보 및 대피기준.hwp"
           }
         ],
         "images": [],
@@ -1558,7 +1590,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0054",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1578,7 +1612,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0054",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1642,7 +1678,8 @@
             "target_local_path": "별지/별지5_비품 손·망실 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별지/별지5_비품 손·망실 보고서.hwp"
           }
         ],
         "images": [],
@@ -1717,7 +1754,8 @@
             "target_local_path": "별지/별지6_유류검수조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별지/별지6_유류검수조서.hwp"
           }
         ],
         "images": [],
@@ -1795,7 +1833,8 @@
             "target_local_path": "별지/별지7_수리 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "공공선박 운영 및 관리에 관한 지침/별지/별지7_수리 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1862,7 +1901,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0065",
             "reference_id": "law:국제개발협력기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json"
+            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_git_path": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1882,7 +1923,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0065",
             "reference_id": "law:국제개발협력기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json"
+            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_git_path": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2016,7 +2059,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0073",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2036,7 +2081,9 @@
             "source_provision_id": "admrul:공공선박운영및관리에관한지침#JO0073",
             "reference_id": "law:선박직원법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json"
+            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_git_path": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2061,7 +2108,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:선박직원법시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json"
+            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_git_path": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_git_file_path": "선박직원법/시행규칙/별표/별표1_교육과정별 교육대상자·교육내용 및 교육기간(제2조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

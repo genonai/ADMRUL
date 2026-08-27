@@ -314,7 +314,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:민방위기본법#JO0033",
         "target_repo": "LAW",
-        "target_git_path_guess": "민방위기본법/법률/민방위기본법.json"
+        "target_git_path_guess": "민방위기본법/법률/민방위기본법.json",
+        "target_git_path": "민방위기본법/법률/민방위기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -334,7 +336,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:민방위기본법시행령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json"
+        "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json",
+        "target_git_path": "민방위기본법/시행령/민방위기본법 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -354,7 +358,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:민방위기본법시행령#JO0055",
         "target_repo": "LAW",
-        "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json"
+        "target_git_path_guess": "민방위기본법/시행령/민방위기본법 시행령.json",
+        "target_git_path": "민방위기본법/시행령/민방위기본법 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -374,7 +380,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:방송법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "방송법/법률/방송법.json"
+        "target_git_path_guess": "방송법/법률/방송법.json",
+        "target_git_path": "방송법/법률/방송법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -394,7 +402,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:방송법#JO0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "방송법/법률/방송법.json"
+        "target_git_path_guess": "방송법/법률/방송법.json",
+        "target_git_path": "방송법/법률/방송법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -414,7 +424,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:인터넷멀티미디어방송사업법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "인터넷 멀티미디어 방송사업법/법률/인터넷 멀티미디어 방송사업법.json"
+        "target_git_path_guess": "인터넷 멀티미디어 방송사업법/법률/인터넷 멀티미디어 방송사업법.json",
+        "target_git_path": "인터넷 멀티미디어 방송사업법/법률/인터넷 멀티미디어 방송사업법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -434,7 +446,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:인터넷멀티미디어방송사업법#JO0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "인터넷 멀티미디어 방송사업법/법률/인터넷 멀티미디어 방송사업법.json"
+        "target_git_path_guess": "인터넷 멀티미디어 방송사업법/법률/인터넷 멀티미디어 방송사업법.json",
+        "target_git_path": "인터넷 멀티미디어 방송사업법/법률/인터넷 멀티미디어 방송사업법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -454,7 +468,12 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "admrul:민방위경보발령전달규정#JO0002",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -474,7 +493,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -494,7 +515,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#JO0038",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -514,7 +537,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -534,7 +559,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#JO0038",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -554,7 +581,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:접경지역지원특별법시행령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "접경지역 지원 특별법/시행령/접경지역 지원 특별법 시행령.json"
+        "target_git_path_guess": "접경지역 지원 특별법/시행령/접경지역 지원 특별법 시행령.json",
+        "target_git_path": "접경지역 지원 특별법/시행령/접경지역 지원 특별법 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -574,7 +603,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:접경지역지원특별법시행령#JO0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "접경지역 지원 특별법/시행령/접경지역 지원 특별법 시행령.json"
+        "target_git_path_guess": "접경지역 지원 특별법/시행령/접경지역 지원 특별법 시행령.json",
+        "target_git_path": "접경지역 지원 특별법/시행령/접경지역 지원 특별법 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -594,7 +625,12 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "admrul:민방위경보발령전달규정#JO0004",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "internal_ref",
@@ -614,7 +650,12 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "admrul:민방위경보발령전달규정#JO0004",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -687,7 +728,13 @@
         "target_unit": "BYL0003",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0003",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표3_중앙 민방위 경보 방송문안.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -717,7 +764,13 @@
         "target_unit": "BYL0008",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0008",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표8_음성통신에 의한 경보전달문안.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -742,7 +795,13 @@
         "target_unit": "BYL0004",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0004",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표4_민방위 경보 TV 자막방송 송출 기준.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -762,7 +821,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:방송통신발전기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "방송통신발전기본법/법률/방송통신발전기본법.json"
+        "target_git_path_guess": "방송통신발전기본법/법률/방송통신발전기본법.json",
+        "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -782,7 +843,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:방송통신발전기본법#JO0040",
         "target_repo": "LAW",
-        "target_git_path_guess": "방송통신발전기본법/법률/방송통신발전기본법.json"
+        "target_git_path_guess": "방송통신발전기본법/법률/방송통신발전기본법.json",
+        "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -807,7 +870,13 @@
         "target_unit": "BYL0002",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0002",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표2_삭제.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -858,7 +927,13 @@
         "target_unit": "BYL0005",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0005",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표5_지역 민방위 경보 방송문안.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -883,7 +958,13 @@
         "target_unit": "BYL0002",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0002",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표2_삭제.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "internal_ref",
@@ -903,7 +984,12 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "admrul:민방위경보발령전달규정#JO0006",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -952,7 +1038,13 @@
         "target_unit": "BYL0003",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0003",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표3_중앙 민방위 경보 방송문안.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -983,7 +1075,13 @@
         "target_unit": "BYL0006",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0006",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표6_중앙 해명방송 문안.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "internal_ref",
@@ -1003,7 +1101,12 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "admrul:민방위경보발령전달규정#JO0012",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -1023,7 +1126,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1043,7 +1148,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#JO0034_05",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -1063,7 +1170,12 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "admrul:민방위경보발령전달규정#JO0016",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "appendix_ref",
@@ -1114,7 +1226,13 @@
         "target_unit": "BYL0005",
         "reference_id": "admrul:민방위경보발령전달규정#BYL0005",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_git_file_path": "민방위 경보 발령ㆍ전달 규정/별표/별표5_지역 민방위 경보 방송문안.hwp",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -1134,7 +1252,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1154,7 +1274,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#JO0038_02",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1174,7 +1296,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:방송통신발전기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json"
+        "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+        "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1194,7 +1318,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:방송통신발전기본법#JO0040",
         "target_repo": "LAW",
-        "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json"
+        "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+        "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1214,7 +1340,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -1234,7 +1362,9 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "law:재난및안전관리기본법#JO0038_02",
         "target_repo": "LAW",
-        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+        "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "internal_ref",
@@ -1254,7 +1384,12 @@
         "source_provision_id": "admrul:민방위경보발령전달규정#DOC",
         "reference_id": "admrul:민방위경보발령전달규정#JO0016",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json"
+        "target_git_path_guess": "민방위 경보 발령ㆍ전달규정/민방위 경보 발령ㆍ전달규정.json",
+        "target_candidates": 2,
+        "target_git_path": "민방위 경보 발령ㆍ전달 규정/민방위 경보 발령ㆍ전달 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",

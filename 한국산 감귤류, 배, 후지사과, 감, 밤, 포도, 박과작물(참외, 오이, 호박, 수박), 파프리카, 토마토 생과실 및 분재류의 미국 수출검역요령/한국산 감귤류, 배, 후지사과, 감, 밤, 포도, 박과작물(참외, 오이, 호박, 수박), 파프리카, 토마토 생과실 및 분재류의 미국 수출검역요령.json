@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0001",
             "reference_id": "law:식물방역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0001",
             "reference_id": "law:식물방역법시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -207,7 +213,8 @@
             "target_local_path": "별표/별표1_한국산 감귤류 과실과 연관된 미국의 검역 병해충(제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표1_한국산 감귤류 과실과 연관된 미국의 검역 병해충(제5조 관련).hwp"
           }
         ],
         "images": [],
@@ -249,7 +256,8 @@
             "target_local_path": "별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -303,7 +311,8 @@
             "target_local_path": "별지/별지2_대미 수출용 감귤류 선과장 등록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지2_대미 수출용 감귤류 선과장 등록대장.hwp"
           }
         ],
         "images": [],
@@ -346,7 +355,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0008",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -369,9 +380,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0008",
             "target_unit": "BJ0025",
-            "reference_id": "law:식물방역법시행규칙#BJ0025",
+            "reference_id": "law:식물방역법시행규칙#FORM0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식25_수출식물 검역신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -425,7 +439,8 @@
             "target_local_path": "별표/별표1_한국산 감귤류 과실과 연관된 미국의 검역 병해충(제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표1_한국산 감귤류 과실과 연관된 미국의 검역 병해충(제5조 관련).hwp"
           }
         ],
         "images": [],
@@ -457,7 +472,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0009",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -480,9 +497,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0009",
             "target_unit": "BJ0026",
-            "reference_id": "law:식물방역법시행규칙#BJ0026",
+            "reference_id": "law:식물방역법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식26_수출식물검역증명서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -581,7 +601,8 @@
             "target_local_path": "별표/별표2_검사대 및 수출과수원 표지판 규격(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표2_검사대 및 수출과수원 표지판 규격(제13조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -611,7 +632,8 @@
             "target_local_path": "별표/별표3_대미 수출 배 봉지 승인기준 및 절차(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표3_대미 수출 배 봉지 승인기준 및 절차(제13조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -641,7 +663,8 @@
             "target_local_path": "별표/별표2_검사대 및 수출과수원 표지판 규격(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표2_검사대 및 수출과수원 표지판 규격(제13조 관련).hwp"
           }
         ],
         "images": [],
@@ -707,7 +730,8 @@
             "target_local_path": "별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -737,7 +761,8 @@
             "target_local_path": "별지/별지6_서약서(Compliance Agreement).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지6_서약서(Compliance Agreement).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -791,7 +816,8 @@
             "target_local_path": "별지/별지2_대미 수출용 감귤류 선과장 등록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지2_대미 수출용 감귤류 선과장 등록대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -821,7 +847,8 @@
             "target_local_path": "별지/별지3_대미 배 수출단지 재배지검역 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지3_대미 배 수출단지 재배지검역 결과.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -875,7 +902,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -1109,7 +1137,8 @@
             "target_local_path": "별지/별지3_대미 배 수출단지 재배지검역 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지3_대미 배 수출단지 재배지검역 결과.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1163,7 +1192,8 @@
             "target_local_path": "별지/별지3_대미 배 수출단지 재배지검역 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지3_대미 배 수출단지 재배지검역 결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1193,7 +1223,8 @@
             "target_local_path": "별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp"
           }
         ],
         "images": [],
@@ -1451,7 +1482,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0022",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1474,9 +1507,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0022",
             "target_unit": "BJ0026",
-            "reference_id": "law:식물방역법시행규칙#BJ0026",
+            "reference_id": "law:식물방역법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식26_수출식물검역증명서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1555,7 +1591,8 @@
             "target_local_path": "별지/별지4_대미 수출용 저장 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지4_대미 수출용 저장 통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1585,7 +1622,8 @@
             "target_local_path": "별지/별지5_대미 수출용 재고 잔량표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지5_대미 수출용 재고 잔량표.hwp"
           }
         ],
         "images": [],
@@ -1695,7 +1733,8 @@
             "target_local_path": "별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1725,7 +1764,8 @@
             "target_local_path": "별지/별지6_서약서(Compliance Agreement).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지6_서약서(Compliance Agreement).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1827,7 +1867,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -2085,7 +2126,8 @@
             "target_local_path": "별지/별지3_대미 배 수출단지 재배지검역 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지3_대미 배 수출단지 재배지검역 결과.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2115,7 +2157,8 @@
             "target_local_path": "별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp"
           }
         ],
         "images": [],
@@ -2383,7 +2426,8 @@
             "target_local_path": "별지/별지7_미국 수출용 배 생과실의 수출검역 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지7_미국 수출용 배 생과실의 수출검역 결과.hwp"
           },
           {
             "relation_type": "citation",
@@ -2403,7 +2447,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0038",
             "reference_id": "law:식물방역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2426,9 +2472,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0038",
             "target_unit": "BJ0026",
-            "reference_id": "law:식물방역법시행규칙#BJ0026",
+            "reference_id": "law:식물방역법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json"
+            "target_git_path_guess": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_path": "식물방역법/시행규칙/식물방역법 시행규칙.json",
+            "target_git_file_path": "식물방역법/시행규칙/서식/서식26_수출식물검역증명서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2494,7 +2543,8 @@
             "target_local_path": "별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2524,7 +2574,8 @@
             "target_local_path": "별지/별지5_대미 수출용 재고 잔량표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지5_대미 수출용 재고 잔량표.hwp"
           }
         ],
         "images": [],
@@ -2683,7 +2734,8 @@
             "target_local_path": "별표/별표2_검사대 및 수출과수원 표지판 규격(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표2_검사대 및 수출과수원 표지판 규격(제13조 관련).hwp"
           }
         ],
         "images": [],
@@ -2749,7 +2801,8 @@
             "target_local_path": "별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지1_대미 수출용 감귤류 선과장 등록 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2779,7 +2832,8 @@
             "target_local_path": "별지/별지6_서약서(Compliance Agreement).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지6_서약서(Compliance Agreement).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2833,7 +2887,8 @@
             "target_local_path": "별지/별지2_대미 수출용 감귤류 선과장 등록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지2_대미 수출용 감귤류 선과장 등록대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2863,7 +2918,8 @@
             "target_local_path": "별지/별지3_대미 배 수출단지 재배지검역 결과.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지3_대미 배 수출단지 재배지검역 결과.hwp"
           }
         ],
         "images": [],
@@ -2976,7 +3032,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -3150,7 +3207,8 @@
             "target_local_path": "별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지8_대미 수출용 배 저장 통지서-한국 식물검역관 단독검역 요건.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -3486,7 +3544,8 @@
             "target_local_path": "별지/별지6_서약서(Compliance Agreement).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지6_서약서(Compliance Agreement).hwp"
           }
         ],
         "images": [],
@@ -3528,7 +3587,8 @@
             "target_local_path": "별지/별지4_대미 수출용 저장 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지4_대미 수출용 저장 통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3558,7 +3618,8 @@
             "target_local_path": "별지/별지5_대미 수출용 재고 잔량표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지5_대미 수출용 재고 잔량표.hwp"
           }
         ],
         "images": [],
@@ -3814,7 +3875,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -4342,7 +4404,8 @@
             "target_local_path": "별지/별지5_대미 수출용 재고 잔량표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지5_대미 수출용 재고 잔량표.hwp"
           }
         ],
         "images": [],
@@ -4560,7 +4623,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -5102,7 +5166,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -5634,7 +5699,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -6095,7 +6161,8 @@
             "target_local_path": "별표/별표5_미국의 한국산 금지대상 수종(제115조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표5_미국의 한국산 금지대상 수종(제115조 관련).hwp"
           }
         ],
         "images": [],
@@ -6137,7 +6204,8 @@
             "target_local_path": "별지/별지9_대미 수출용 분재 양묘장 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지9_대미 수출용 분재 양묘장 등록신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6191,7 +6259,8 @@
             "target_local_path": "별지/별지10_대미 수출용 분재 양묘장 등록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지10_대미 수출용 분재 양묘장 등록대장.hwp"
           }
         ],
         "images": [],
@@ -6268,7 +6337,8 @@
             "target_local_path": "별표/별표6_알락하늘소 및 유리알락하늘소 기주식물(제118조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표6_알락하늘소 및 유리알락하늘소 기주식물(제118조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6334,7 +6404,8 @@
             "target_local_path": "별지/별지11_대미 수출용 분재 재배지검역 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지11_대미 수출용 분재 재배지검역 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -6364,7 +6435,8 @@
             "target_local_path": "별지/별지11_대미 수출용 분재 재배지검역 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지11_대미 수출용 분재 재배지검역 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6418,7 +6490,8 @@
             "target_local_path": "별지/별지12_대미 수출용 분재 재배지검역 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지12_대미 수출용 분재 재배지검역 기록부.hwp"
           }
         ],
         "images": [],
@@ -6461,7 +6534,9 @@
             "source_provision_id": "admrul:한국산감귤류,배,후지사과,감,밤,포도,박과작물(참외,오이,호박,수박),파프리카,토마토생과실및분재류의미국수출검역요령#JO0121",
             "reference_id": "law:식물방역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6517,7 +6592,8 @@
             "target_local_path": "별지/별지12_대미 수출용 분재 재배지검역 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지12_대미 수출용 분재 재배지검역 기록부.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -6595,7 +6671,8 @@
             "target_local_path": "별표/별표6_알락하늘소 및 유리알락하늘소 기주식물(제118조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표6_알락하늘소 및 유리알락하늘소 기주식물(제118조 관련).hwp"
           }
         ],
         "images": [],
@@ -6637,7 +6714,8 @@
             "target_local_path": "별지/별지13_대미 수출용 분재 양묘장 등록현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지13_대미 수출용 분재 양묘장 등록현황.hwp"
           }
         ],
         "images": [],
@@ -6809,7 +6887,8 @@
             "target_local_path": "별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별표/별표4_대미 생과실 수출단지 취소요건(제14조 관련).hwp"
           }
         ],
         "images": [],
@@ -6983,7 +7062,8 @@
             "target_local_path": "별지/별지14_대미 수출용 토마토 생산시설 호박과실파리 예찰기록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지14_대미 수출용 토마토 생산시설 호박과실파리 예찰기록대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -7013,7 +7093,8 @@
             "target_local_path": "별지/별지14_대미 수출용 토마토 생산시설 호박과실파리 예찰기록대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지14_대미 수출용 토마토 생산시설 호박과실파리 예찰기록대장.hwp"
           }
         ],
         "images": [],
@@ -7217,7 +7298,8 @@
         "target_local_path": "별지/별지6_서약서(Compliance Agreement).hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "한국산 감귤류, 배, 후지사과, 감, 밤, 포도, 박과작물(참외, 오이, 호박, 수박), 파프리카, 토마토 생과실 및 분재류의 미국 수출검역요령/별지/별지6_서약서(Compliance Agreement).hwp"
       }
     ]
   },

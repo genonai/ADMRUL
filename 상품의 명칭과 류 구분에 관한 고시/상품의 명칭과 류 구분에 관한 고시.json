@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:상품의명칭과류구분에관한고시#JO0001",
             "reference_id": "law:상표법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json"
+            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_git_path": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:상품의명칭과류구분에관한고시#JO0001",
             "reference_id": "law:상표법시행규칙#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json"
+            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_git_path": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별표/별표1_상품의 명칭과 류 구분.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상품의 명칭과 류 구분에 관한 고시/별표/별표1_상품의 명칭과 류 구분.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -192,7 +197,8 @@
             "target_local_path": "별표/별표1_상품의 명칭과 류 구분.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상품의 명칭과 류 구분에 관한 고시/별표/별표1_상품의 명칭과 류 구분.hwp"
           }
         ],
         "images": [],

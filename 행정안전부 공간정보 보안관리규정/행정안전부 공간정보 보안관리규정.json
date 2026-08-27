@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0001",
             "reference_id": "law:국가공간정보기본법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0001",
             "reference_id": "law:국가공간정보기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0001",
             "reference_id": "law:국가공간정보기본법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -299,7 +305,8 @@
             "target_local_path": "별표/별표1_공간정보 세부분류기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 공간정보 보안관리규정/별표/별표1_공간정보 세부분류기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -329,7 +336,8 @@
             "target_local_path": "별지/별지1_공간정보 목록 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 공간정보 보안관리규정/별지/별지1_공간정보 목록 관리대장.hwp"
           }
         ],
         "images": [],
@@ -382,7 +390,8 @@
             "target_local_path": "별지/별지2_데이터베이스 복제본 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 공간정보 보안관리규정/별지/별지2_데이터베이스 복제본 관리대장.hwp"
           }
         ],
         "images": [],
@@ -450,7 +459,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0013",
             "reference_id": "law:국가공간정보기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -470,7 +481,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0013",
             "reference_id": "law:국가공간정보기본법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -500,7 +513,8 @@
             "target_local_path": "별지/별지3_공간정보 제공(복제ㆍ출력) 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 공간정보 보안관리규정/별지/별지3_공간정보 제공(복제ㆍ출력) 관리대장.hwp"
           }
         ],
         "images": [
@@ -564,7 +578,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0016",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -584,7 +600,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0016",
             "reference_id": "law:국가공간정보기본법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -696,7 +714,8 @@
             "target_local_path": "별지/별지3_공간정보 제공(복제ㆍ출력) 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 공간정보 보안관리규정/별지/별지3_공간정보 제공(복제ㆍ출력) 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -726,7 +745,8 @@
             "target_local_path": "별지/별지4_공개제한 공간정보 인수서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 공간정보 보안관리규정/별지/별지4_공개제한 공간정보 인수서.hwp"
           }
         ],
         "images": [],
@@ -768,7 +788,8 @@
             "target_local_path": "별지/별지3_공간정보 제공(복제ㆍ출력) 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "행정안전부 공간정보 보안관리규정/별지/별지3_공간정보 제공(복제ㆍ출력) 관리대장.hwp"
           }
         ],
         "images": [],
@@ -869,7 +890,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0025",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -889,7 +912,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0025",
             "reference_id": "law:국가공간정보기본법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -909,7 +934,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0025",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -929,7 +956,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0025",
             "reference_id": "law:국가공간정보기본법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -949,7 +978,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0025",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -969,7 +1000,9 @@
             "source_provision_id": "admrul:행정안전부공간정보보안관리규정#JO0025",
             "reference_id": "law:국가공간정보기본법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:선박복원성기준#JO0001",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:선박복원성기준#JO0001",
             "reference_id": "law:선박안전법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -235,7 +239,8 @@
             "target_local_path": "별표/별표1_경하상태에서의 중량ㆍ중심 및 트림 등의 계산(제5조제2항제1호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박복원성기준/별표/별표1_경하상태에서의 중량ㆍ중심 및 트림 등의 계산(제5조제2항제1호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -265,7 +270,8 @@
             "target_local_path": "별표/별표2_재화상태에서의 중량ㆍ중심 및 트림 등의 계산(제5조제2항제2호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박복원성기준/별표/별표2_재화상태에서의 중량ㆍ중심 및 트림 등의 계산(제5조제2항제2호 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -295,7 +301,8 @@
             "target_local_path": "별표/별표3_횡요주기의 계산(제5조제2항제3호 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박복원성기준/별표/별표3_횡요주기의 계산(제5조제2항제3호 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -409,7 +416,8 @@
             "target_local_path": "별표/별표4_부력의 산입범위(제6조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박복원성기준/별표/별표4_부력의 산입범위(제6조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -1401,7 +1409,9 @@
             "source_provision_id": "admrul:선박복원성기준#JO0022",
             "reference_id": "law:선박안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json"
+            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_git_path": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1421,7 +1431,9 @@
             "source_provision_id": "admrul:선박복원성기준#JO0022",
             "reference_id": "law:선박안전법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json"
+            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_git_path": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1590,7 +1602,8 @@
             "target_local_path": "별표/별표5_컴퓨터프로그램을 사용한 복원성의 계산방식 및 작성요령(제27조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박복원성기준/별표/별표5_컴퓨터프로그램을 사용한 복원성의 계산방식 및 작성요령(제27조 관련).hwp"
           }
         ],
         "images": [],
@@ -1632,7 +1645,8 @@
             "target_local_path": "별표/별표6_복원성자료 승인의 기준 및 절차(제28조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "선박복원성기준/별표/별표6_복원성자료 승인의 기준 및 절차(제28조 관련).hwp"
           }
         ],
         "images": [],

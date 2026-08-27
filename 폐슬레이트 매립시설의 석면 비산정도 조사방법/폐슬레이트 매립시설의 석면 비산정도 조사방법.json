@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:폐슬레이트매립시설의석면비산정도조사방법#JO0001",
             "reference_id": "law:석면안전관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json"
+            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_path": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:폐슬레이트매립시설의석면비산정도조사방법#JO0001",
             "reference_id": "law:석면안전관리법시행령#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json"
+            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_path": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:석면안전관리법시행령#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json"
+            "target_git_path_guess": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_path": "석면안전관리법/시행령/석면안전관리법 시행령.json",
+            "target_git_file_path": "석면안전관리법/시행령/별표/별표3_슬레이트 처리등의 기준 및 방법(제37조제2항제2호 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -345,7 +352,8 @@
             "target_local_path": "서식/서식1_매립시설에서 석면의 비산 정도 측정결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "폐슬레이트 매립시설의 석면 비산정도 조사방법/서식/서식1_매립시설에서 석면의 비산 정도 측정결과 보고서.hwp"
           }
         ],
         "images": [],

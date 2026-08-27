@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부운영세칙#JO0001",
             "reference_id": "law:국제항해선박및항만시설의보안에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/시행령/국제항해선박 및 항만시설의 보안에 관한 법률 시행령.json"
+            "target_git_path_guess": "국제항해선박 및 항만시설의 보안에 관한 법률/시행령/국제항해선박 및 항만시설의 보안에 관한 법률 시행령.json",
+            "target_git_path": "국제항해선박 및 항만시설의 보안에 관한 법률/시행령/국제항해선박 및 항만시설의 보안에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -99,7 +101,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부운영세칙#JO0002",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:항만출입절차에관한세부운영세칙#JO0002",
             "reference_id": "law:항만법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -196,7 +202,8 @@
             "target_local_path": "서식/서식3_항만견학허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식3_항만견학허가대장.hwp"
           }
         ],
         "images": [],
@@ -249,7 +256,8 @@
             "target_local_path": "서식/서식1_항만내 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식1_항만내 위반행위 적발 보고서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -361,7 +369,8 @@
             "target_local_path": "서식/서식1_항만내 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식1_항만내 위반행위 적발 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -391,7 +400,8 @@
             "target_local_path": "서식/서식2_항만견학허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식2_항만견학허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -421,7 +431,8 @@
             "target_local_path": "서식/서식1_항만내 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식1_항만내 위반행위 적발 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -451,7 +462,8 @@
             "target_local_path": "서식/서식3_항만견학허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식3_항만견학허가대장.hwp"
           }
         ],
         "images": [],
@@ -542,7 +554,8 @@
             "target_local_path": "서식/서식1_항만내 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식1_항만내 위반행위 적발 보고서.hwp"
           }
         ],
         "images": [],
@@ -584,7 +597,8 @@
             "target_local_path": "서식/서식2_항만견학허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식2_항만견학허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -614,7 +628,8 @@
             "target_local_path": "서식/서식2_항만견학허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식2_항만견학허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -644,7 +659,8 @@
             "target_local_path": "서식/서식3_항만견학허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식3_항만견학허가대장.hwp"
           }
         ],
         "images": [],
@@ -686,7 +702,8 @@
             "target_local_path": "서식/서식4_사진촬영허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식4_사진촬영허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -716,7 +733,8 @@
             "target_local_path": "서식/서식4_사진촬영허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식4_사진촬영허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -746,7 +764,8 @@
             "target_local_path": "서식/서식5_사진촬영허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식5_사진촬영허가대장.hwp"
           }
         ],
         "images": [],
@@ -788,7 +807,8 @@
             "target_local_path": "서식/서식1_항만내 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식1_항만내 위반행위 적발 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -818,7 +838,8 @@
             "target_local_path": "서식/서식2_항만견학허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식2_항만견학허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -848,7 +869,8 @@
             "target_local_path": "서식/서식3_항만견학허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식3_항만견학허가대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -878,7 +900,8 @@
             "target_local_path": "서식/서식4_사진촬영허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식4_사진촬영허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -908,7 +931,8 @@
             "target_local_path": "서식/서식5_사진촬영허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식5_사진촬영허가대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1016,7 +1040,8 @@
             "target_local_path": "서식/서식1_항만내 위반행위 적발 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식1_항만내 위반행위 적발 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1046,7 +1071,8 @@
             "target_local_path": "서식/서식2_항만견학허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식2_항만견학허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1076,7 +1102,8 @@
             "target_local_path": "서식/서식3_항만견학허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식3_항만견학허가대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1106,7 +1133,8 @@
             "target_local_path": "서식/서식4_사진촬영허가(신청)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식4_사진촬영허가(신청)서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1136,7 +1164,8 @@
             "target_local_path": "서식/서식5_사진촬영허가대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항만 출입절차에 관한 세부운영세칙/서식/서식5_사진촬영허가대장.hwp"
           }
         ],
         "images": [],

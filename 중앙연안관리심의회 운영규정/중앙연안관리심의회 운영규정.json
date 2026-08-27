@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:중앙연안관리심의회운영규정#JO0001",
             "reference_id": "law:연안관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "연안관리법/시행령/연안관리법 시행령.json"
+            "target_git_path_guess": "연안관리법/시행령/연안관리법 시행령.json",
+            "target_git_path": "연안관리법/시행령/연안관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:중앙연안관리심의회운영규정#JO0001",
             "reference_id": "law:연안관리법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "연안관리법/시행령/연안관리법 시행령.json"
+            "target_git_path_guess": "연안관리법/시행령/연안관리법 시행령.json",
+            "target_git_path": "연안관리법/시행령/연안관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -140,7 +144,8 @@
             "target_local_path": "서식/서식1의2_위원위촉 사전진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙연안관리심의회 운영규정/서식/서식1의2_위원위촉 사전진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +175,8 @@
             "target_local_path": "서식/서식1의3_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙연안관리심의회 운영규정/서식/서식1의3_서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -200,7 +206,8 @@
             "target_local_path": "서식/서식1_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙연안관리심의회 운영규정/서식/서식1_위촉장.hwp"
           }
         ],
         "images": [],
@@ -286,7 +293,8 @@
             "target_local_path": "서식/서식2_의결사항.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙연안관리심의회 운영규정/서식/서식2_의결사항.hwp"
           }
         ],
         "images": [],
@@ -375,7 +383,8 @@
             "target_local_path": "서식/서식3_중앙연안관리심의회 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙연안관리심의회 운영규정/서식/서식3_중앙연안관리심의회 의결서.hwp"
           }
         ],
         "images": [],

@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:반려동물행동지도사자격검정위원회운영규정#JO0003",
             "reference_id": "law:동물보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/시행령/동물보호법 시행령.json"
+            "target_git_path_guess": "동물보호법/시행령/동물보호법 시행령.json",
+            "target_git_path": "동물보호법/시행령/동물보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:반려동물행동지도사자격검정위원회운영규정#JO0003",
             "reference_id": "law:동물보호법시행령#JO0014_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물보호법/시행령/동물보호법 시행령.json"
+            "target_git_path_guess": "동물보호법/시행령/동물보호법 시행령.json",
+            "target_git_path": "동물보호법/시행령/동물보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별지/별지1_반려동물행동지도사 자격검정위원회 위원 후보자 사전진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "반려동물행동지도사 자격검정위원회 운영규정/별지/별지1_반려동물행동지도사 자격검정위원회 위원 후보자 사전진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -192,7 +197,8 @@
             "target_local_path": "별지/별지2_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "반려동물행동지도사 자격검정위원회 운영규정/별지/별지2_서약서.hwp"
           }
         ],
         "images": [],

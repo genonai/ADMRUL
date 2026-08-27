@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:교정행정정보화업무지침#JO0003",
             "reference_id": "law:전기통신기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:교정행정정보화업무지침#JO0003",
             "reference_id": "law:전기통신기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -208,7 +212,8 @@
             "target_local_path": "서식/서식1_(통제구역, 제한구역) 출입자기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교정행정정보화업무지침/서식/서식1_(통제구역, 제한구역) 출입자기록부.hwp"
           }
         ],
         "images": [],
@@ -310,7 +315,8 @@
             "target_local_path": "서식/서식6_암호실 및 암호취급자 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 정보보안 기본지침/서식/서식6_암호실 및 암호취급자 현황.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -340,7 +346,8 @@
             "target_local_path": "서식/서식2_장비 반출·반입대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교정행정정보화업무지침/서식/서식2_장비 반출·반입대장.hwp"
           }
         ],
         "images": [],
@@ -404,7 +411,8 @@
             "target_local_path": "서식/서식3_장애발생 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "교정행정정보화업무지침/서식/서식3_장애발생 기록부.hwp"
           }
         ],
         "images": [],
@@ -648,7 +656,8 @@
             "target_local_path": "서식/서식6_암호실 및 암호취급자 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "법무부 정보보안 기본지침/서식/서식6_암호실 및 암호취급자 현황.hwp"
           },
           {
             "relation_type": "internal_ref",

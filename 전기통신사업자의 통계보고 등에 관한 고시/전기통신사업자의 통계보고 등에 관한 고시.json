@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0001",
             "reference_id": "law:전기통신사업법#JO0088",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0001",
             "reference_id": "law:전기통신사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/시행령/전기통신사업법 시행령.json"
+            "target_git_path_guess": "전기통신사업법/시행령/전기통신사업법 시행령.json",
+            "target_git_path": "전기통신사업법/시행령/전기통신사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0001",
             "reference_id": "law:전기통신사업법시행령#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/시행령/전기통신사업법 시행령.json"
+            "target_git_path_guess": "전기통신사업법/시행령/전기통신사업법 시행령.json",
+            "target_git_path": "전기통신사업법/시행령/전기통신사업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0002",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0002",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -191,7 +201,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0003",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -211,7 +223,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0003",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -231,7 +245,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0003",
             "reference_id": "law:전기통신사업법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -477,7 +493,8 @@
             "target_local_path": "별지/별지1_서비스별·기간별 매출액 현황(연 1회 제출).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전기통신사업자의 통계보고 등에 관한 고시/별지/별지1_서비스별·기간별 매출액 현황(연 1회 제출).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -543,7 +560,8 @@
             "target_local_path": "별지/별지2_유선통신서비스 가입자(월 1회 제출).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전기통신사업자의 통계보고 등에 관한 고시/별지/별지2_유선통신서비스 가입자(월 1회 제출).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -573,7 +591,8 @@
             "target_local_path": "별지/별지3_인터넷전화 가입자(월 1회 제출).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전기통신사업자의 통계보고 등에 관한 고시/별지/별지3_인터넷전화 가입자(월 1회 제출).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -603,7 +622,8 @@
             "target_local_path": "별지/별지4_이동통신재판매서비스(알뜰폰) 가입자(월 1회 제출).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전기통신사업자의 통계보고 등에 관한 고시/별지/별지4_이동통신재판매서비스(알뜰폰) 가입자(월 1회 제출).hwp"
           }
         ],
         "images": [],
@@ -645,7 +665,8 @@
             "target_local_path": "별지/별지5_유·무선통신서비스 통화량(연 1회 제출).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전기통신사업자의 통계보고 등에 관한 고시/별지/별지5_유·무선통신서비스 통화량(연 1회 제출).hwp"
           }
         ],
         "images": [],
@@ -687,7 +708,8 @@
             "target_local_path": "별지/별지6_무선통신 기술방식별·단말기별·이용자특성별·콘텐츠·유형별 트래픽.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전기통신사업자의 통계보고 등에 관한 고시/별지/별지6_무선통신 기술방식별·단말기별·이용자특성별·콘텐츠·유형별 트래픽.hwp"
           }
         ],
         "images": [],
@@ -765,7 +787,8 @@
             "target_local_path": "별지/별지7_회선설비 미보유사업자의 선불통화권 관련 자료(분기 1회 제출).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전기통신사업자의 통계보고 등에 관한 고시/별지/별지7_회선설비 미보유사업자의 선불통화권 관련 자료(분기 1회 제출).hwp"
           }
         ],
         "images": [],
@@ -1021,7 +1044,9 @@
             "source_provision_id": "admrul:전기통신사업자의통계보고등에관한고시#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

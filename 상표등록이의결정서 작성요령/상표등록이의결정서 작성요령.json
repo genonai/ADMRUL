@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:상표등록이의결정서작성요령#JO0001",
             "reference_id": "law:상표법#JO0066",
             "target_repo": "LAW",
-            "target_git_path_guess": "상표법/법률/상표법.json"
+            "target_git_path_guess": "상표법/법률/상표법.json",
+            "target_git_path": "상표법/법률/상표법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:상표등록이의결정서작성요령#JO0001",
             "reference_id": "law:상표법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json"
+            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_git_path": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:상표등록이의결정서작성요령#JO0001",
             "reference_id": "law:상표법시행규칙#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json"
+            "target_git_path_guess": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_git_path": "상표법/시행규칙/상표법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -182,7 +188,8 @@
             "target_local_path": "별표/별표1_이의결정분류기호의 구분 및 표시방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "상표등록이의결정서 작성요령/별표/별표1_이의결정분류기호의 구분 및 표시방법.hwp"
           }
         ],
         "images": [

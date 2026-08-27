@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0001",
             "reference_id": "law:기상법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0001",
             "reference_id": "law:기상법시행규칙#JO0016_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -152,7 +156,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0005",
             "reference_id": "law:박물관및미술관진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json"
+            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_git_path": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -172,7 +178,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0005",
             "reference_id": "law:박물관및미술관진흥법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json"
+            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_git_path": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -226,7 +234,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0006",
             "reference_id": "law:관공서의공휴일에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -246,7 +256,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0006",
             "reference_id": "law:관공서의공휴일에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -324,7 +336,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0009",
             "reference_id": "law:장애인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -344,7 +358,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0009",
             "reference_id": "law:장애인복지법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -490,7 +506,8 @@
             "target_local_path": "별지/별지1_소장자료 매도 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지1_소장자료 매도 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -520,7 +537,8 @@
             "target_local_path": "별지/별지2_(매도·기탁) 자료명세 및 소장내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지2_(매도·기탁) 자료명세 및 소장내역서.hwp"
           }
         ],
         "images": [],
@@ -598,7 +616,8 @@
             "target_local_path": "별지/별지3_매도자료 임시보관증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지3_매도자료 임시보관증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -628,7 +647,8 @@
             "target_local_path": "별지/별지4_구입자료 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지4_구입자료 관리대장.hwp"
           }
         ],
         "images": [],
@@ -706,7 +726,8 @@
             "target_local_path": "별지/별지5_매매계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지5_매매계약서.hwp"
           }
         ],
         "images": [],
@@ -762,7 +783,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0020",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -782,7 +805,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0020",
             "reference_id": "law:유실물법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유실물법/법률/유실물법.json"
+            "target_git_path_guess": "유실물법/법률/유실물법.json",
+            "target_git_path": "유실물법/법률/유실물법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -802,7 +827,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0020",
             "reference_id": "law:매장유산보호및조사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "매장유산 보호 및 조사에 관한 법률/법률/매장유산 보호 및 조사에 관한 법률.json"
+            "target_git_path_guess": "매장유산 보호 및 조사에 관한 법률/법률/매장유산 보호 및 조사에 관한 법률.json",
+            "target_git_path": "매장유산 보호 및 조사에 관한 법률/법률/매장유산 보호 및 조사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -834,7 +861,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0021",
             "reference_id": "law:박물관및미술관진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json"
+            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_git_path": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -854,7 +883,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0021",
             "reference_id": "law:박물관및미술관진흥법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json"
+            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_git_path": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -884,7 +915,8 @@
             "target_local_path": "별지/별지6_기증서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지6_기증서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -914,7 +946,8 @@
             "target_local_path": "별지/별지7_기증품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지7_기증품 관리대장.hwp"
           }
         ],
         "images": [],
@@ -956,7 +989,8 @@
             "target_local_path": "별지/별지7의2_자료이관 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지7의2_자료이관 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -986,7 +1020,8 @@
             "target_local_path": "별지/별지7의3_자료이관 합의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지7의3_자료이관 합의서.hwp"
           }
         ],
         "images": [],
@@ -1112,7 +1147,8 @@
             "target_local_path": "별지/별지8_수증심의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지8_수증심의서.hwp"
           }
         ],
         "images": [],
@@ -1154,7 +1190,8 @@
             "target_local_path": "별지/별지9_기증증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지9_기증증서.hwp"
           }
         ],
         "images": [],
@@ -1196,7 +1233,8 @@
             "target_local_path": "별지/별지10_감정 심의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지10_감정 심의서.hwp"
           }
         ],
         "images": [],
@@ -1262,7 +1300,8 @@
             "target_local_path": "별지/별지11_기증자료 감정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지11_기증자료 감정서.hwp"
           }
         ],
         "images": [],
@@ -1304,7 +1343,8 @@
             "target_local_path": "별지/별지12_소장자료 기탁 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지12_소장자료 기탁 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1334,7 +1374,8 @@
             "target_local_path": "별지/별지2_(매도·기탁) 자료명세 및 소장내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지2_(매도·기탁) 자료명세 및 소장내역서.hwp"
           }
         ],
         "images": [],
@@ -1376,7 +1417,8 @@
             "target_local_path": "별지/별지13_기탁품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지13_기탁품 관리대장.hwp"
           }
         ],
         "images": [],
@@ -1478,7 +1520,8 @@
             "target_local_path": "별지/별지14_기탁증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지14_기탁증서.hwp"
           }
         ],
         "images": [],
@@ -1520,7 +1563,8 @@
             "target_local_path": "별지/별지12_소장자료 기탁 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지12_소장자료 기탁 신청서.hwp"
           }
         ],
         "images": [],
@@ -1562,7 +1606,8 @@
             "target_local_path": "별지/별지15_기탁자료 반환요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지15_기탁자료 반환요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1592,7 +1637,8 @@
             "target_local_path": "별지/별지16_기탁자료 반환증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지16_기탁자료 반환증.hwp"
           }
         ],
         "images": [],
@@ -1645,7 +1691,8 @@
             "target_local_path": "별지/별지17_기탁자료 (대여·열람·복제) 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지17_기탁자료 (대여·열람·복제) 동의서.hwp"
           }
         ],
         "images": [],
@@ -1677,7 +1724,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0035",
             "reference_id": "law:문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1719,7 +1768,8 @@
             "target_local_path": "별지/별지18_자료의 변경·활용 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지18_자료의 변경·활용 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1749,7 +1799,8 @@
             "target_local_path": "별지/별지19_소장품등 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지19_소장품등 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1779,7 +1830,8 @@
             "target_local_path": "별지/별지20_소장품 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지20_소장품 관리카드.hwp"
           }
         ],
         "images": [],
@@ -1821,7 +1873,8 @@
             "target_local_path": "별지/별지21_소장품 폐기 내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지21_소장품 폐기 내역서.hwp"
           }
         ],
         "images": [],
@@ -1853,7 +1906,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0038",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1883,7 +1938,8 @@
             "target_local_path": "별지/별지22_물질안전보건자료대상물질 현황표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지22_물질안전보건자료대상물질 현황표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1913,7 +1969,8 @@
             "target_local_path": "별지/별지23_경고표지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지23_경고표지.hwp"
           }
         ],
         "images": [],
@@ -1945,7 +2002,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0039",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1998,7 +2057,8 @@
             "target_local_path": "별지/별지24_수장고 관리일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지24_수장고 관리일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2028,7 +2088,8 @@
             "target_local_path": "별지/별지24_수장고 관리일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지24_수장고 관리일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2058,7 +2119,8 @@
             "target_local_path": "별지/별지18_자료의 변경·활용 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지18_자료의 변경·활용 관리대장.hwp"
           }
         ],
         "images": [],
@@ -2100,7 +2162,8 @@
             "target_local_path": "별지/별지25_열쇠 출납부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지25_열쇠 출납부.hwp"
           }
         ],
         "images": [],
@@ -2132,7 +2195,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0043",
             "reference_id": "law:박물관및미술관진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json"
+            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_git_path": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2152,7 +2217,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0043",
             "reference_id": "law:박물관및미술관진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json"
+            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_git_path": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2172,7 +2239,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0043",
             "reference_id": "law:박물관및미술관진흥법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json"
+            "target_git_path_guess": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_git_path": "박물관 및 미술관 진흥법/법률/박물관 및 미술관 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2192,7 +2261,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0043",
             "reference_id": "law:과학관의설립운영및육성에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학관의 설립ㆍ운영 및 육성에 관한 법률/법률/과학관의 설립ㆍ운영 및 육성에 관한 법률.json"
+            "target_git_path_guess": "과학관의 설립ㆍ운영 및 육성에 관한 법률/법률/과학관의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_git_path": "과학관의 설립ㆍ운영 및 육성에 관한 법률/법률/과학관의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2258,7 +2329,8 @@
             "target_local_path": "별지/별지26_소장품등 (대여·열람·복제) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지26_소장품등 (대여·열람·복제) 신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2278,7 +2350,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2298,7 +2372,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2318,7 +2394,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:문화유산의보존및활용에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2338,7 +2416,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2358,7 +2438,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:문화유산의보존및활용에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2378,7 +2460,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:근현대문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2398,7 +2482,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:근현대문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2418,7 +2504,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:근현대문화유산의보존및활용에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2438,7 +2526,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:근현대문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2458,7 +2548,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0044",
             "reference_id": "law:근현대문화유산의보존및활용에관한법률#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "근현대문화유산의 보존 및 활용에 관한 법률/법률/근현대문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2547,7 +2639,8 @@
             "target_local_path": "별지/별지26_소장품등 (대여·열람·복제) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지26_소장품등 (대여·열람·복제) 신청서.hwp"
           }
         ],
         "images": [],
@@ -2649,7 +2742,8 @@
             "target_local_path": "별지/별지27_저작재산권의 양도 계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지27_저작재산권의 양도 계약서.hwp"
           }
         ],
         "images": [],
@@ -2702,7 +2796,8 @@
             "target_local_path": "별지/별지26_소장품등 (대여·열람·복제) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상박물관 운영에 관한 규정/별지/별지26_소장품등 (대여·열람·복제) 신청서.hwp"
           }
         ],
         "images": [],
@@ -2767,7 +2862,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0054_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2787,7 +2884,9 @@
             "source_provision_id": "admrul:국립기상박물관운영에관한규정#JO0054_02",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

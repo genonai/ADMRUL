@@ -167,7 +167,8 @@
             "target_local_path": "별표/별표1_근무성적 평가자 및 확인자.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "낙동강유역환경청 인사관리규정/별표/별표1_근무성적 평가자 및 확인자.hwp"
           }
         ],
         "images": [],
@@ -315,7 +316,9 @@
             "source_provision_id": "admrul:낙동강유역환경청인사관리규정#JO0014",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json"
+            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -335,7 +338,9 @@
             "source_provision_id": "admrul:낙동강유역환경청인사관리규정#JO0014",
             "reference_id": "law:공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json"
+            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

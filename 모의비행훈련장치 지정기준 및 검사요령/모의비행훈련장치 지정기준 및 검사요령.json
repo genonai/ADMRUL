@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법#JO0039_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0091_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0091_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0002",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0002",
             "reference_id": "law:항공안전법시행규칙#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0002",
             "reference_id": "law:항공안전법#JO0039_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -265,7 +279,8 @@
             "target_local_path": "별표/별표1_비행기 - 모의비행장치 인증성능기준(일반 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표1_비행기 - 모의비행장치 인증성능기준(일반 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -295,7 +310,8 @@
             "target_local_path": "별표/별표2_비행기 - 모의비행장치 인증성능기준(정량적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표2_비행기 - 모의비행장치 인증성능기준(정량적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -325,7 +341,8 @@
             "target_local_path": "별표/별표3_비행기 - 모의비행장치 인증성능기준(정성적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표3_비행기 - 모의비행장치 인증성능기준(정성적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -355,7 +372,8 @@
             "target_local_path": "별표/별표4_헬리콥터 - 모의비행장치 인증성능기준(일반 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표4_헬리콥터 - 모의비행장치 인증성능기준(일반 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -385,7 +403,8 @@
             "target_local_path": "별표/별표5_헬리콥터 - 모의비행장치 인증성능기준(정량적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표5_헬리콥터 - 모의비행장치 인증성능기준(정량적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -415,7 +434,8 @@
             "target_local_path": "별표/별표6_헬리콥터 - 모의비행장치 인증성능기준(정성적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표6_헬리콥터 - 모의비행장치 인증성능기준(정성적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -445,7 +465,8 @@
             "target_local_path": "별표/별표7_비행기 - 비행훈련장치 인증성능기준(일반 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표7_비행기 - 비행훈련장치 인증성능기준(일반 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -475,7 +496,8 @@
             "target_local_path": "별표/별표8_비행기 - 비행훈련장치 인증성능기준(정량적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표8_비행기 - 비행훈련장치 인증성능기준(정량적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -505,7 +527,8 @@
             "target_local_path": "별표/별표9_비행기 - 비행훈련장치 인증성능기준(정성적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표9_비행기 - 비행훈련장치 인증성능기준(정성적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -535,7 +558,8 @@
             "target_local_path": "별표/별표10_헬리콥터 - 비행훈련장치 인증성능기준(일반 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표10_헬리콥터 - 비행훈련장치 인증성능기준(일반 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -565,7 +589,8 @@
             "target_local_path": "별표/별표11_헬리콥터 - 비행훈련장치 인증성능기준(정량적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표11_헬리콥터 - 비행훈련장치 인증성능기준(정량적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -595,7 +620,8 @@
             "target_local_path": "별표/별표12_헬리콥터 - 비행훈련장치 인증성능기준(정성적 기준)(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표12_헬리콥터 - 비행훈련장치 인증성능기준(정성적 기준)(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -625,7 +651,8 @@
             "target_local_path": "별표/별표13_기본비행훈련장치 인증성능기준(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표13_기본비행훈련장치 인증성능기준(제3조 관련).hwp"
           }
         ],
         "images": [],
@@ -692,7 +719,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0005",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -712,7 +741,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0005",
             "reference_id": "law:항공안전법시행규칙#JO0091_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -732,7 +763,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0005",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -752,7 +785,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0005",
             "reference_id": "law:항공안전법시행규칙#JO0091_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -772,7 +807,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0005",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -792,7 +829,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0005",
             "reference_id": "law:항공안전법시행규칙#JO0091_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -906,7 +945,8 @@
             "target_local_path": "별지/별지1_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별지/별지1_확인서.hwp"
           }
         ],
         "images": [],
@@ -938,7 +978,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0007",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -958,7 +1000,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0007",
             "reference_id": "law:공직자의이해충돌방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -978,7 +1022,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0007",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -998,7 +1044,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0007",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1018,7 +1066,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0007",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1050,7 +1100,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0008",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1070,7 +1122,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0008",
             "reference_id": "law:항공안전법시행규칙#JO0091_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1100,7 +1154,8 @@
             "target_local_path": "별지/별지2_모의비행훈련장치 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별지/별지2_모의비행훈련장치 지정서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1120,7 +1175,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0008",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1140,7 +1197,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0008",
             "reference_id": "law:항공안전법시행규칙#JO0091_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1172,7 +1231,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0009",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1192,7 +1253,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0009",
             "reference_id": "law:항공안전법시행규칙#JO0091_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1222,7 +1285,8 @@
             "target_local_path": "별표/별표14_지정검사교범(QTG)에 포함되어야 할 사항(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표14_지정검사교범(QTG)에 포함되어야 할 사항(제9조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1252,7 +1316,8 @@
             "target_local_path": "별지/별지2_모의비행훈련장치 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별지/별지2_모의비행훈련장치 지정서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1272,7 +1337,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0009",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1292,7 +1359,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0009",
             "reference_id": "law:항공안전법시행규칙#JO0091_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1324,7 +1393,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0010",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1349,7 +1420,10 @@
             "target_unit": "BYL0007_03",
             "reference_id": "law:항공안전법시행규칙#BYL0007_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/별표/별표7의3_모의비행훈련장치 품질관리시스템의 기준(제91조의3제4항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1369,7 +1443,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0010",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1394,7 +1470,10 @@
             "target_unit": "BYL0007_03",
             "reference_id": "law:항공안전법시행규칙#BYL0007_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/별표/별표7의3_모의비행훈련장치 품질관리시스템의 기준(제91조의3제4항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1424,7 +1503,8 @@
             "target_local_path": "별지/별지2_모의비행훈련장치 지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별지/별지2_모의비행훈련장치 지정서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1444,7 +1524,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0010",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1464,7 +1546,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0010",
             "reference_id": "law:항공안전법시행규칙#JO0091_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1650,7 +1734,8 @@
             "target_local_path": "별지/별지3_시정지시_개선권고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별지/별지3_시정지시_개선권고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1680,7 +1765,8 @@
             "target_local_path": "별지/별지4_현장시정지시 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별지/별지4_현장시정지시 관리대장.hwp"
           }
         ],
         "images": [],
@@ -1722,7 +1808,8 @@
             "target_local_path": "별표/별표15_모의비행훈련장치 종류 및 등급별 세부사항(제12조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표15_모의비행훈련장치 종류 및 등급별 세부사항(제12조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2170,7 +2257,8 @@
             "target_local_path": "별표/별표16_모의비행훈련장치 감독관의 자격 및 경험요건(제17조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표16_모의비행훈련장치 감독관의 자격 및 경험요건(제17조 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -2190,7 +2278,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0017",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2210,7 +2300,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0017",
             "reference_id": "law:항공안전법시행규칙#JO0149",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2230,7 +2322,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0017",
             "reference_id": "law:항공안전법시행규칙#JO0150",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2250,7 +2344,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0017",
             "reference_id": "law:항공안전법시행규칙#JO0151",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2270,7 +2366,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0017",
             "reference_id": "law:항공안전법시행규칙#JO0152",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2290,7 +2388,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0017",
             "reference_id": "law:항공안전법시행규칙#JO0153",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2332,7 +2432,8 @@
             "target_local_path": "별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2362,7 +2463,8 @@
             "target_local_path": "별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp"
           }
         ],
         "images": [],
@@ -2452,7 +2554,8 @@
             "target_local_path": "별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2482,7 +2585,8 @@
             "target_local_path": "별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp"
           }
         ],
         "images": [],
@@ -2596,7 +2700,8 @@
             "target_local_path": "별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표17_모의비행훈련장치 감독관 교육훈련(제18조 및 제19조 관련).hwp"
           }
         ],
         "images": [],
@@ -2628,7 +2733,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0021",
             "reference_id": "law:항공안전법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2648,7 +2755,9 @@
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0021",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2671,9 +2780,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:모의비행훈련장치지정기준및검사요령#JO0021",
             "target_unit": "BJ0124",
-            "reference_id": "law:항공안전법시행규칙#BJ0124",
+            "reference_id": "law:항공안전법시행규칙#FORM0124",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_file_path": "항공안전법/시행규칙/서식/서식124_항공안전감독관증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2739,7 +2851,8 @@
             "target_local_path": "별표/별표18_모의비행훈련장치 감독관 인력산출(제22조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "모의비행훈련장치 지정기준 및 검사요령/별표/별표18_모의비행훈련장치 감독관 인력산출(제22조 관련).hwp"
           }
         ],
         "images": [],

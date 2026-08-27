@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0001",
             "reference_id": "law:정보보호산업의진흥에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0001",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0001",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0001",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0001",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -190,7 +200,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0003",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -210,7 +222,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0003",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -240,7 +254,8 @@
             "target_local_path": "별표/별표1_하도급계약의 적정성 판단 세부기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보보호시스템 구축 사업의 하도급 승인 및 관리 지침/별표/별표1_하도급계약의 적정성 판단 세부기준.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -306,7 +321,8 @@
             "target_local_path": "별표/별표2_신기술 또는 전문기술(지침 제3조 제2항 하도급 계약 승인 제외 대상).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보보호시스템 구축 사업의 하도급 승인 및 관리 지침/별표/별표2_신기술 또는 전문기술(지침 제3조 제2항 하도급 계약 승인 제외 대상).hwp"
           }
         ],
         "images": [],
@@ -414,7 +430,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0006",
             "reference_id": "law:정보보호산업의진흥에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -434,7 +452,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0006",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -454,7 +474,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0006",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -474,7 +496,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0006",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -497,9 +521,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0006",
             "target_unit": "BJ0001",
-            "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#BJ0001",
+            "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_file_path": "정보보호산업의 진흥에 관한 법률/시행규칙/서식/서식1_정보보호시스템 구축 사업(하도급, 재하도급)계약승인신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -531,7 +558,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0007",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -551,7 +580,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0007",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -581,7 +612,8 @@
             "target_local_path": "별표/별표1_하도급계약의 적정성 판단 세부기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보보호시스템 구축 사업의 하도급 승인 및 관리 지침/별표/별표1_하도급계약의 적정성 판단 세부기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -611,7 +643,8 @@
             "target_local_path": "서식/서식1_하도급 적정성 판단 자기평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보보호시스템 구축 사업의 하도급 승인 및 관리 지침/서식/서식1_하도급 적정성 판단 자기평가표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -641,7 +674,8 @@
             "target_local_path": "별표/별표1_하도급계약의 적정성 판단 세부기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "정보보호시스템 구축 사업의 하도급 승인 및 관리 지침/별표/별표1_하도급계약의 적정성 판단 세부기준.hwp"
           }
         ],
         "images": [],
@@ -673,7 +707,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0008",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -693,7 +729,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0008",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -713,7 +751,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0008",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -733,7 +773,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0008",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -753,7 +795,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0008",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +817,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0008",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -805,7 +851,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0009",
             "reference_id": "law:하도급거래공정화에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json"
+            "target_git_path_guess": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json",
+            "target_git_path": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -825,7 +873,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0009",
             "reference_id": "law:하도급거래공정화에관한법률#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json"
+            "target_git_path_guess": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json",
+            "target_git_path": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -868,7 +918,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0011",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -888,7 +940,9 @@
             "source_provision_id": "admrul:정보보호시스템구축사업의하도급승인및관리지침#JO0011",
             "reference_id": "law:정보보호산업의진흥에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "정보보호산업의 진흥에 관한 법률/시행규칙/정보보호산업의 진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

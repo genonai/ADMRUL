@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0001",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -111,7 +113,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0001",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +171,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -211,7 +217,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0002",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -396,7 +404,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0008",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -416,7 +426,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0008",
             "reference_id": "law:보안업무규정#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -458,7 +470,8 @@
             "target_local_path": "별지/별지1_신원조사 대상자 명단.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지1_신원조사 대상자 명단.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -488,7 +501,8 @@
             "target_local_path": "별지/별지2_신원진술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지2_신원진술서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -518,7 +532,8 @@
             "target_local_path": "별지/별지3_신원진술서(약식).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지3_신원진술서(약식).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -572,7 +587,8 @@
             "target_local_path": "별지/별지4_외국인 자기소개서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지4_외국인 자기소개서.hwp"
           }
         ],
         "images": [],
@@ -625,7 +641,8 @@
             "target_local_path": "별지/별지5_신규 임용 근로자 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지5_신규 임용 근로자 보안서약서.hwp"
           }
         ],
         "images": [],
@@ -678,7 +695,8 @@
             "target_local_path": "별지/별지4_외국인 자기소개서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지4_외국인 자기소개서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -708,7 +726,8 @@
             "target_local_path": "별지/별지6_외국인 방문대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지6_외국인 방문대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -738,7 +757,8 @@
             "target_local_path": "별지/별지4의2_신규 임용 외국인 근로자 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지4의2_신규 임용 외국인 근로자 보안서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -768,7 +788,8 @@
             "target_local_path": "별지/별지4의3_퇴직 외국인근로자 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지4의3_퇴직 외국인근로자 보안서약서.hwp"
           }
         ],
         "images": [],
@@ -810,7 +831,8 @@
             "target_local_path": "별지/별지7_견학대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지7_견학대장.hwp"
           }
         ],
         "images": [],
@@ -852,7 +874,8 @@
             "target_local_path": "별지/별지9_퇴직자 보안서약서(공무원).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지9_퇴직자 보안서약서(공무원).hwp"
           }
         ],
         "images": [],
@@ -884,7 +907,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0016",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -904,7 +929,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0016",
             "reference_id": "law:보안업무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -924,7 +951,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0016",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -944,7 +973,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0016",
             "reference_id": "law:보안업무규정#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -986,7 +1017,8 @@
             "target_local_path": "별지/별지8의2_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지8의2_서약서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1040,7 +1072,8 @@
             "target_local_path": "별지/별지8의3_비밀·암호자재취급 인가 및 인가증 교부 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지8의3_비밀·암호자재취급 인가 및 인가증 교부 대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1070,7 +1103,8 @@
             "target_local_path": "별지/별지8_비밀·암호자재취급(인가, 등급변경, 재발급, 해제) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지8_비밀·암호자재취급(인가, 등급변경, 재발급, 해제) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1100,7 +1134,8 @@
             "target_local_path": "별지/별지8의2_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지8의2_서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1130,7 +1165,8 @@
             "target_local_path": "별지/별지8의3_비밀·암호자재취급 인가 및 인가증 교부 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지8의3_비밀·암호자재취급 인가 및 인가증 교부 대장.hwp"
           }
         ],
         "images": [],
@@ -1183,7 +1219,8 @@
             "target_local_path": "별지/별지12_대외비관리기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지12_대외비관리기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1213,7 +1250,8 @@
             "target_local_path": "별지/별지13_대외비 접수 및 발송대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지13_대외비 접수 및 발송대장.hwp"
           }
         ],
         "images": [],
@@ -1266,7 +1304,8 @@
             "target_local_path": "별지/별지8의4_비밀·암호자재취급 인가자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지8의4_비밀·암호자재취급 인가자 명부.hwp"
           }
         ],
         "images": [],
@@ -1309,7 +1348,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0023",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1329,7 +1370,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0023",
             "reference_id": "law:보안업무규정#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1349,7 +1392,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0023",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1369,7 +1414,8 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0023",
             "reference_id": "law:보안업무규정#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -1423,7 +1469,8 @@
             "target_local_path": "별표/별표2_보호지역의 표지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별표/별표2_보호지역의 표지.hwp"
           }
         ],
         "images": [],
@@ -1500,7 +1547,8 @@
             "target_local_path": "별지/별지10_보호지역(제한·통제) 출입자 통제대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지10_보호지역(제한·통제) 출입자 통제대장.hwp"
           }
         ],
         "images": [],
@@ -1566,7 +1614,8 @@
             "target_local_path": "별지/별지2_공무직 근로자 신분증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "농촌진흥청 공무직근로자 관리에 관한 훈령/별지/별지2_공무직 근로자 신분증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1596,7 +1645,8 @@
             "target_local_path": "별표/별표3_기간제근로자 신분증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별표/별표3_기간제근로자 신분증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1626,7 +1676,8 @@
             "target_local_path": "별표/별표3의2_상시출입자 출입증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별표/별표3의2_상시출입자 출입증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1656,7 +1707,8 @@
             "target_local_path": "별표/별표3의3_방문증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별표/별표3의3_방문증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1686,7 +1738,8 @@
             "target_local_path": "별지/별지14_방문기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지14_방문기록부.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1716,7 +1769,8 @@
             "target_local_path": "별지/별지14의3_개인정보 수집 및 이용 동의서(차량등록).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지14의3_개인정보 수집 및 이용 동의서(차량등록).hwp"
           }
         ],
         "images": [],
@@ -1782,7 +1836,8 @@
             "target_local_path": "별지/별지5_신규 임용 근로자 보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지5_신규 임용 근로자 보안서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1812,7 +1867,8 @@
             "target_local_path": "별지/별지5의2_보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지5의2_보안 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1842,7 +1898,8 @@
             "target_local_path": "별지/별지14의2_개인정보 수집 및 이용 동의서(출입등록).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지14의2_개인정보 수집 및 이용 동의서(출입등록).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1872,7 +1929,8 @@
             "target_local_path": "별지/별지11_신분증·출입증·방문증 발급대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지11_신분증·출입증·방문증 발급대장.hwp"
           }
         ],
         "images": [],
@@ -1938,7 +1996,8 @@
             "target_local_path": "별지/별지14의2_개인정보 수집 및 이용 동의서(출입등록).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지14의2_개인정보 수집 및 이용 동의서(출입등록).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1968,7 +2027,8 @@
             "target_local_path": "별지/별지14의3_개인정보 수집 및 이용 동의서(차량등록).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지14의3_개인정보 수집 및 이용 동의서(차량등록).hwp"
           }
         ],
         "images": [],
@@ -2000,7 +2060,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0027",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2020,7 +2082,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0027",
             "reference_id": "law:개인정보보호법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2096,7 +2160,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0032",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2116,7 +2182,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0032",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2136,7 +2204,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0032",
             "reference_id": "law:국가연구개발혁신법시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2156,7 +2226,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0032",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2176,7 +2248,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0032",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2196,7 +2270,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0032",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2383,7 +2459,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0034",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2403,7 +2481,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0034",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2447,7 +2527,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0034",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2467,7 +2549,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0034",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2773,7 +2857,8 @@
             "target_local_path": "별지/별지16_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지16_보안서약서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2829,7 +2914,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:방위사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/법률/방위사업법.json"
+            "target_git_path_guess": "방위사업법/법률/방위사업법.json",
+            "target_git_path": "방위사업법/법률/방위사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2849,7 +2936,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:방위사업법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/법률/방위사업법.json"
+            "target_git_path_guess": "방위사업법/법률/방위사업법.json",
+            "target_git_path": "방위사업법/법률/방위사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2869,7 +2958,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2889,7 +2980,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2909,7 +3002,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2929,7 +3024,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:대외무역법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2949,7 +3046,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2969,7 +3068,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3013,7 +3114,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3033,7 +3136,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0036",
             "reference_id": "law:대외무역법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3148,7 +3253,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0038",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3168,7 +3275,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0038",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3188,7 +3297,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0038",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3242,7 +3353,8 @@
             "target_local_path": "별지/별지16_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지16_보안서약서.hwp"
           }
         ],
         "images": [],
@@ -3274,7 +3386,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0039",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3294,7 +3408,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0039",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3314,7 +3430,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0039",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3334,7 +3452,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0039",
             "reference_id": "law:군사기밀보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기밀보호법/시행령/군사기밀보호법시행령.json"
+            "target_git_path_guess": "군사기밀보호법/시행령/군사기밀보호법시행령.json",
+            "target_git_path": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3376,7 +3496,8 @@
             "target_local_path": "별지/별지17_참여연구원 외국인 접촉 사전신고서_보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지17_참여연구원 외국인 접촉 사전신고서_보고서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -3420,7 +3541,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0040",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3440,7 +3563,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0040",
             "reference_id": "law:국가연구개발혁신법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3482,7 +3607,8 @@
             "target_local_path": "별지/별지18_보안과제 외국인 연구참여 승인 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지18_보안과제 외국인 연구참여 승인 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3512,7 +3638,8 @@
             "target_local_path": "별지/별지18_보안과제 외국인 연구참여 승인 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지18_보안과제 외국인 연구참여 승인 신청서.hwp"
           }
         ],
         "images": [],
@@ -4047,7 +4174,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0046",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4067,7 +4196,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0046",
             "reference_id": "law:국가연구개발혁신법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4087,7 +4218,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0046",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4107,7 +4240,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0046",
             "reference_id": "law:국가연구개발혁신법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4139,7 +4274,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4159,7 +4296,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:국가연구개발혁신법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4203,7 +4342,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4223,7 +4364,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:산업기술의유출방지및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json"
+            "target_git_path_guess": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_git_path": "산업기술의 유출방지 및 보호에 관한 법률/법률/산업기술의 유출방지 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4243,7 +4386,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:소재부품장비산업경쟁력강화및공급망안정화를위한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법/법률/소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법.json"
+            "target_git_path_guess": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법/법률/소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법.json",
+            "target_git_path": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법/법률/소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4263,7 +4408,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:소재부품장비산업경쟁력강화및공급망안정화를위한특별조치법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법/법률/소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법.json"
+            "target_git_path_guess": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법/법률/소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법.json",
+            "target_git_path": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법/법률/소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4283,7 +4430,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4303,7 +4452,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0047",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4333,7 +4484,8 @@
             "target_local_path": "별지/별지19_사전보안성 검토 Check List.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립식량과학원 보안업무규정 시행세칙/별지/별지19_사전보안성 검토 Check List.hwp"
           },
           {
             "relation_type": "citation",
@@ -5145,7 +5297,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0049",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5213,7 +5367,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0049",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5233,7 +5389,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0049",
             "reference_id": "law:국가연구개발혁신법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5265,7 +5423,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0050",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5285,7 +5445,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0050",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5305,7 +5467,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0050",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5361,7 +5525,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0051",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5381,7 +5547,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0051",
             "reference_id": "law:국가연구개발혁신법시행령#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -5473,7 +5641,9 @@
             "source_provision_id": "admrul:국립식량과학원보안업무규정시행세칙#JO0053",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

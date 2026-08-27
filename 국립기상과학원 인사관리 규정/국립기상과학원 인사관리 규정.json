@@ -291,7 +291,8 @@
             "target_local_path": "별표/별표1_인사위원회 위원 구성 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 인사관리 규정/별표/별표1_인사위원회 위원 구성 현황.hwp"
           }
         ],
         "images": [],
@@ -323,7 +324,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0006",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -343,7 +346,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0006",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -395,9 +400,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0009",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -415,9 +422,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제18조",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0009",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0018",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -482,7 +491,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0013",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -507,7 +518,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:공무원임용령#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_git_file_path": "공무원임용령/법률/별표/별표5_임용하려는 결원 수에 대한 승진심사 대상 범위(제33조 및 제34조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -629,7 +643,8 @@
             "target_local_path": "별지/별지1_직위 공모 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 인사관리 규정/별지/별지1_직위 공모 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -659,7 +674,8 @@
             "target_local_path": "별지/별지2_업무추진 실적서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 인사관리 규정/별지/별지2_업무추진 실적서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -689,7 +705,8 @@
             "target_local_path": "별지/별지3_직무수행 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 인사관리 규정/별지/별지3_직무수행 계획서.hwp"
           }
         ],
         "images": [],
@@ -731,7 +748,8 @@
             "target_local_path": "별지/별지4_적격성 심사서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립기상과학원 인사관리 규정/별지/별지4_적격성 심사서.hwp"
           },
           {
             "relation_type": "citation",
@@ -751,7 +769,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0020",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -771,7 +791,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0020",
             "reference_id": "law:공무원임용령#JO0010_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -882,7 +904,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0026",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -902,7 +926,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0026",
             "reference_id": "law:국가공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -922,7 +948,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0026",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -942,7 +970,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0026",
             "reference_id": "law:공무원징계령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -962,7 +992,9 @@
             "source_provision_id": "admrul:국립기상과학원인사관리규정#JO0026",
             "reference_id": "law:공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

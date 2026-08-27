@@ -65,9 +65,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립중앙극장위임전결규정#JO0001",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           },
           {
             "relation_type": "citation",
@@ -85,9 +90,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정/제16조",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립중앙극장위임전결규정#JO0001",
-            "reference_id": "law:사무관리규정#JO0016",
+            "reference_id": "SchlPubRul:사무관리규정#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -173,7 +183,8 @@
             "target_local_path": "별표/별표1_하부조직 및 전속단체별 위임전결표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 위임전결규정/별표/별표1_하부조직 및 전속단체별 위임전결표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -203,7 +214,8 @@
             "target_local_path": "별표/별표1_하부조직 및 전속단체별 위임전결표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 위임전결규정/별표/별표1_하부조직 및 전속단체별 위임전결표.hwp"
           }
         ],
         "images": [],
@@ -281,7 +293,8 @@
             "target_local_path": "별지/별지2_공연제작계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 위임전결규정/별지/별지2_공연제작계획서.hwp"
           }
         ],
         "images": [],
@@ -378,7 +391,8 @@
             "target_local_path": "별지/별지1_공연제작 기본계획 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 위임전결규정/별지/별지1_공연제작 기본계획 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -408,7 +422,8 @@
             "target_local_path": "별지/별지2_공연제작계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 위임전결규정/별지/별지2_공연제작계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -438,7 +453,8 @@
             "target_local_path": "별표/별표1_하부조직 및 전속단체별 위임전결표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립중앙극장 위임전결규정/별표/별표1_하부조직 및 전속단체별 위임전결표.hwp"
           }
         ],
         "images": [],

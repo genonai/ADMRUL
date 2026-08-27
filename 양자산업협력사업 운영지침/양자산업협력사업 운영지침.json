@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:양자산업협력사업운영지침#JO0001",
             "reference_id": "law:대외무역법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:양자산업협력사업운영지침#JO0001",
             "reference_id": "law:대외무역법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:양자산업협력사업운영지침#JO0001",
             "reference_id": "law:대외무역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:양자산업협력사업운영지침#JO0001",
             "reference_id": "law:대외무역법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:양자산업협력사업운영지침#JO0001",
             "reference_id": "law:대외무역법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:양자산업협력사업운영지침#JO0002",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -387,7 +399,8 @@
             "target_local_path": "별지/별지1_양자산업협력 사업 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "양자산업협력사업 운영지침/별지/별지1_양자산업협력 사업 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -417,7 +430,8 @@
             "target_local_path": "별지/별지1_양자산업협력 사업 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "양자산업협력사업 운영지침/별지/별지1_양자산업협력 사업 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -543,7 +557,8 @@
             "target_local_path": "별지/별지2_성실이행서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "양자산업협력사업 운영지침/별지/별지2_성실이행서약서.hwp"
           }
         ],
         "images": [],
@@ -585,7 +600,8 @@
             "target_local_path": "별지/별지3_협력사업계획 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "양자산업협력사업 운영지침/별지/별지3_협력사업계획 변경 신청서.hwp"
           }
         ],
         "images": [],
@@ -675,7 +691,8 @@
             "target_local_path": "별지/별지4_양자산업협력사업 보조금 교부 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "양자산업협력사업 운영지침/별지/별지4_양자산업협력사업 보조금 교부 신청서.hwp"
           }
         ],
         "images": [],
@@ -786,7 +803,8 @@
             "target_local_path": "별지/별지6_보조사업 실적보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "양자산업협력사업 운영지침/별지/별지6_보조사업 실적보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -816,7 +834,8 @@
             "target_local_path": "별지/별지7_보조사업 정산보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "양자산업협력사업 운영지침/별지/별지7_보조사업 정산보고서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -917,9 +936,11 @@
             "target_url": "https://www.law.go.kr/법령/보조금법/제33조의3",
             "resolve_method": "text_supplement",
             "source_provision_id": "admrul:양자산업협력사업운영지침#JO0021",
-            "reference_id": "law:보조금법#JO0033_03",
+            "reference_id": "law:보조금관리에관한법률#JO0033_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금법/법률/보조금법.json"
+            "target_git_path_guess": "보조금법/법률/보조금법.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

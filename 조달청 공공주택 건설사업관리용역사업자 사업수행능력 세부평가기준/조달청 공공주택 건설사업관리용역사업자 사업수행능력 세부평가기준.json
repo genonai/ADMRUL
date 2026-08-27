@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:조달청공공주택건설사업관리용역사업자사업수행능력세부평가기준#JO0001",
             "reference_id": "law:건설기술진흥법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json"
+            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json",
+            "target_git_path": "건설기술 진흥법/시행규칙/건설기술 진흥법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:조달청공공주택건설사업관리용역사업자사업수행능력세부평가기준#JO0001",
             "reference_id": "law:건설기술진흥법시행규칙#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json"
+            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json",
+            "target_git_path": "건설기술 진흥법/시행규칙/건설기술 진흥법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:건설기술진흥법시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json"
+            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json",
+            "target_git_path": "건설기술 진흥법/시행규칙/건설기술 진흥법 시행규칙.json",
+            "target_git_file_path": "건설기술 진흥법/시행규칙/별표/별표3_건설사업관리의 사업수행능력 평가기준(제28조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -166,7 +173,9 @@
             "source_provision_id": "admrul:조달청공공주택건설사업관리용역사업자사업수행능력세부평가기준#JO0004",
             "reference_id": "law:건설기술진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json"
+            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -186,7 +195,9 @@
             "source_provision_id": "admrul:조달청공공주택건설사업관리용역사업자사업수행능력세부평가기준#JO0004",
             "reference_id": "law:건설기술진흥법시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json"
+            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -357,7 +368,8 @@
             "target_local_path": "별지/별지3_건설사업관리용역 기술인 평가의 세부평가방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조달청 공공주택 건설사업관리용역사업자 사업수행능력 세부평가기준/별지/별지3_건설사업관리용역 기술인 평가의 세부평가방법.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -387,7 +399,8 @@
             "target_local_path": "별지/별지4_기술제안서 평가시 평가등급 배분 및 평가방법.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "조달청 공공주택 건설사업관리용역사업자 사업수행능력 세부평가기준/별지/별지4_기술제안서 평가시 평가등급 배분 및 평가방법.hwp"
           }
         ],
         "images": [],

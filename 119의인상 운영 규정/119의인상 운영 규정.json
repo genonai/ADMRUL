@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:119의인상운영규정#JO0003",
             "reference_id": "law:의사상자등예우및지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의사상자 등 예우 및 지원에 관한 법률/법률/의사상자 등 예우 및 지원에 관한 법률.json"
+            "target_git_path_guess": "의사상자 등 예우 및 지원에 관한 법률/법률/의사상자 등 예우 및 지원에 관한 법률.json",
+            "target_git_path": "의사상자 등 예우 및 지원에 관한 법률/법률/의사상자 등 예우 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -153,7 +155,8 @@
             "target_local_path": "별지/별지1_119의인 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "119의인상 운영 규정/별지/별지1_119의인 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -243,7 +246,8 @@
             "target_local_path": "별표/별표1_평가표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "119의인상 운영 규정/별표/별표1_평가표.hwp"
           }
         ],
         "images": [],
@@ -343,7 +347,8 @@
             "target_local_path": "별지/별지3_119의인 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "119의인상 운영 규정/별지/별지3_119의인 관리대장.hwp"
           }
         ],
         "images": [],

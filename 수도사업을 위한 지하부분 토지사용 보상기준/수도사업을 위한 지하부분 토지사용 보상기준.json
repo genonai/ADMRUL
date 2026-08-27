@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0001",
             "reference_id": "law:수도법#JO0060_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/법률/수도법.json"
+            "target_git_path_guess": "수도법/법률/수도법.json",
+            "target_git_path": "수도법/법률/수도법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0001",
             "reference_id": "law:수도법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0001",
             "reference_id": "law:수도법시행령#JO0061_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -132,7 +138,10 @@
             "target_unit": "BYL0003_02",
             "reference_id": "law:수도법시행령#BYL0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_git_file_path": "수도법/시행령/별표/별표3의2_상수도관망시설운영관리사의 자격요건(제44조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -175,7 +184,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0003",
             "reference_id": "law:농지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농지법/법률/농지법.json"
+            "target_git_path_guess": "농지법/법률/농지법.json",
+            "target_git_path": "농지법/법률/농지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -195,7 +206,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0003",
             "reference_id": "law:농지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "농지법/법률/농지법.json"
+            "target_git_path_guess": "농지법/법률/농지법.json",
+            "target_git_path": "농지법/법률/농지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -215,7 +228,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0003",
             "reference_id": "law:산지관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산지관리법/법률/산지관리법.json"
+            "target_git_path_guess": "산지관리법/법률/산지관리법.json",
+            "target_git_path": "산지관리법/법률/산지관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -235,7 +250,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0003",
             "reference_id": "law:산지관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산지관리법/법률/산지관리법.json"
+            "target_git_path_guess": "산지관리법/법률/산지관리법.json",
+            "target_git_path": "산지관리법/법률/산지관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -288,7 +305,8 @@
             "target_local_path": "별표/별표1_입체이용률 배분표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수도사업을 위한 지하부분 토지사용 보상기준/별표/별표1_입체이용률 배분표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -318,7 +336,8 @@
             "target_local_path": "별표/별표2_입체이용저해율.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수도사업을 위한 지하부분 토지사용 보상기준/별표/별표2_입체이용저해율.hwp"
           },
           {
             "relation_type": "citation",
@@ -338,7 +357,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0005",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -358,7 +379,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0005",
             "reference_id": "law:국토의계획및이용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json"
+            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
+            "target_git_path": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -400,7 +423,8 @@
             "target_local_path": "별표/별표3_추가보정률 산정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "수도사업을 위한 지하부분 토지사용 보상기준/별표/별표3_추가보정률 산정기준.hwp"
           }
         ],
         "images": [],
@@ -550,7 +574,9 @@
             "source_provision_id": "admrul:수도사업을위한지하부분토지사용보상기준#JO0011",
             "reference_id": "law:공익사업을위한토지등의취득및보상에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
+            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

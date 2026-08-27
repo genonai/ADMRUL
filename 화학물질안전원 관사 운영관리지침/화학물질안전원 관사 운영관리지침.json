@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:화학물질안전원관사운영관리지침#JO0002",
             "reference_id": "law:화학물질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
+            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:화학물질안전원관사운영관리지침#JO0002",
             "reference_id": "law:화학물질관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
+            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -233,7 +237,8 @@
             "target_local_path": "별지/별지1_입주신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화학물질안전원 관사 운영관리지침/별지/별지1_입주신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -299,7 +304,8 @@
             "target_local_path": "별지/별지5_입주연장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화학물질안전원 관사 운영관리지침/별지/별지5_입주연장 신청서.hwp"
           }
         ],
         "images": [],
@@ -341,7 +347,8 @@
             "target_local_path": "별지/별지6_퇴거신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화학물질안전원 관사 운영관리지침/별지/별지6_퇴거신고서.hwp"
           }
         ],
         "images": [],
@@ -452,7 +459,8 @@
             "target_local_path": "별지/별지4_관사 물품 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화학물질안전원 관사 운영관리지침/별지/별지4_관사 물품 대장.hwp"
           }
         ],
         "images": [],
@@ -505,7 +513,8 @@
             "target_local_path": "별지/별지7_화학물질안전원 관사 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화학물질안전원 관사 운영관리지침/별지/별지7_화학물질안전원 관사 점검표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -535,7 +544,8 @@
             "target_local_path": "별지/별지3_관사 비품 인계·인수서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화학물질안전원 관사 운영관리지침/별지/별지3_관사 비품 인계·인수서.hwp"
           }
         ],
         "images": [],
@@ -588,7 +598,8 @@
             "target_local_path": "별지/별지2_관사 입주자 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "화학물질안전원 관사 운영관리지침/별지/별지2_관사 입주자 관리대장.hwp"
           }
         ],
         "images": [],

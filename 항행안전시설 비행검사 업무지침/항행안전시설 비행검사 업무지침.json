@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항행안전시설비행검사업무지침#JO0001",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항행안전시설비행검사업무지침#JO0001",
             "reference_id": "law:공항시설법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +227,8 @@
             "target_local_path": "별표/별표1_비행검사 표준운영절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별표/별표1_비행검사 표준운영절차.hwp"
           }
         ],
         "images": [],
@@ -448,7 +453,8 @@
             "target_local_path": "별지/별지1_비행검사 항공기 조종사 자격인증 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별지/별지1_비행검사 항공기 조종사 자격인증 절차.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -502,7 +508,8 @@
             "target_local_path": "별지/별지2_비행검사관 자격인증 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별지/별지2_비행검사관 자격인증 절차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -532,7 +539,8 @@
             "target_local_path": "별지/별지3_비행검사 장비 담당관 자격인증 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별지/별지3_비행검사 장비 담당관 자격인증 절차.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -670,7 +678,8 @@
             "target_local_path": "별지/별지1_비행검사 항공기 조종사 자격인증 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별지/별지1_비행검사 항공기 조종사 자격인증 절차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -700,7 +709,8 @@
             "target_local_path": "별지/별지4_항공기 담당관 자격인증 절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별지/별지4_항공기 담당관 자격인증 절차.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -730,7 +740,8 @@
             "target_local_path": "별지/별지5_자격인증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별지/별지5_자격인증서.hwp"
           }
         ],
         "images": [],
@@ -827,7 +838,8 @@
             "target_local_path": "별표/별표1_비행검사 표준운영절차.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "항행안전시설 비행검사 업무지침/별표/별표1_비행검사 표준운영절차.hwp"
           }
         ],
         "images": [],

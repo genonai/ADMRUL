@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:외화로지급되는예산등의환전에관한지침#JO0001",
             "reference_id": "law:외국환거래법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json"
+            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json",
+            "target_git_path": "외국환거래법/법률/외국환거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:외화로지급되는예산등의환전에관한지침#JO0001",
             "reference_id": "law:외국환거래법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국환거래법/시행령/외국환거래법 시행령.json"
+            "target_git_path_guess": "외국환거래법/시행령/외국환거래법 시행령.json",
+            "target_git_path": "외국환거래법/시행령/외국환거래법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:외화로지급되는예산등의환전에관한지침#JO0001",
             "reference_id": "law:외국환거래법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국환거래법/시행령/외국환거래법 시행령.json"
+            "target_git_path_guess": "외국환거래법/시행령/외국환거래법 시행령.json",
+            "target_git_path": "외국환거래법/시행령/외국환거래법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -196,7 +202,8 @@
             "target_local_path": "별지/별지1_외화예치 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외화로 지급되는 예산 등의 환전에 관한 지침/별지/별지1_외화예치 신청서.hwp"
           }
         ],
         "images": [],
@@ -273,7 +280,8 @@
             "target_local_path": "별지/별지2_정산 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외화로 지급되는 예산 등의 환전에 관한 지침/별지/별지2_정산 요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -303,7 +311,8 @@
             "target_local_path": "별지/별지3_외화예산 환전·지급 내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외화로 지급되는 예산 등의 환전에 관한 지침/별지/별지3_외화예산 환전·지급 내역서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -333,7 +342,8 @@
             "target_local_path": "별지/별지3_외화예산 환전·지급 내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외화로 지급되는 예산 등의 환전에 관한 지침/별지/별지3_외화예산 환전·지급 내역서.hwp"
           }
         ],
         "images": [],

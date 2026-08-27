@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:동물용의약품국가출하승인검정기준#JO0001",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:동물용의약품국가출하승인검정기준#JO0001",
             "reference_id": "law:약사법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:동물용의약품국가출하승인검정기준#JO0001",
             "reference_id": "law:약사법#JO0085",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:동물용의약품국가출하승인검정기준#JO0001",
             "reference_id": "law:동물용의약품등취급규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물용 의약품등 취급규칙/법률/동물용 의약품등 취급규칙.json"
+            "target_git_path_guess": "동물용 의약품등 취급규칙/법률/동물용 의약품등 취급규칙.json",
+            "target_git_path": "동물용 의약품등 취급규칙/법률/동물용 의약품등 취급규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:동물용의약품국가출하승인검정기준#JO0001",
             "reference_id": "law:동물용의약품등취급규칙#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "동물용 의약품등 취급규칙/법률/동물용 의약품등 취급규칙.json"
+            "target_git_path_guess": "동물용 의약품등 취급규칙/법률/동물용 의약품등 취급규칙.json",
+            "target_git_path": "동물용 의약품등 취급규칙/법률/동물용 의약품등 취급규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -189,7 +199,8 @@
             "target_local_path": "별표/별표1_총칙.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물용의약품 국가출하승인검정 기준/별표/별표1_총칙.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -219,7 +230,8 @@
             "target_local_path": "별표/별표2_동물용의약품 생물학적 제제의 분류번호.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물용의약품 국가출하승인검정 기준/별표/별표2_동물용의약품 생물학적 제제의 분류번호.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -249,7 +261,8 @@
             "target_local_path": "별표/별표3_제제별 검정기준 작성요령.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물용의약품 국가출하승인검정 기준/별표/별표3_제제별 검정기준 작성요령.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -279,7 +292,8 @@
             "target_local_path": "별표/별표4_백신 제제별 검정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물용의약품 국가출하승인검정 기준/별표/별표4_백신 제제별 검정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -309,7 +323,8 @@
             "target_local_path": "별표/별표5_동물용 생물학적제제 일반검정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물용의약품 국가출하승인검정 기준/별표/별표5_동물용 생물학적제제 일반검정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -339,7 +354,8 @@
             "target_local_path": "별표/별표6_항혈청 및 기타 검정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물용의약품 국가출하승인검정 기준/별표/별표6_항혈청 및 기타 검정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -369,7 +385,8 @@
             "target_local_path": "별표/별표7_국가출하승인 검정기준 개정 주요사항 일람표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "동물용의약품 국가출하승인검정 기준/별표/별표7_국가출하승인 검정기준 개정 주요사항 일람표.hwp"
           }
         ],
         "images": [],

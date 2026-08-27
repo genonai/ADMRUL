@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립춘천병원병문안관리규정#JO0001",
             "reference_id": "law:의료법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json"
+            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_git_path": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립춘천병원병문안관리규정#JO0001",
             "reference_id": "law:의료법시행규칙#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json"
+            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_git_path": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -173,7 +177,8 @@
             "target_local_path": "별지/별지1_병문안객 기록지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립춘천병원 병문안관리 규정/별지/별지1_병문안객 기록지.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0001",
             "reference_id": "law:축산법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/법률/축산법.json"
+            "target_git_path_guess": "축산법/법률/축산법.json",
+            "target_git_path": "축산법/법률/축산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0001",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0001",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0001",
             "reference_id": "law:축산법시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0002",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0002",
             "reference_id": "law:축산법시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0002",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +233,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0002",
             "reference_id": "law:축산법시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -249,7 +265,8 @@
             "target_local_path": "별지/별지1_가축인공수정사 시험 위원 이력서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지1_가축인공수정사 시험 위원 이력서.hwp"
           }
         ],
         "images": [],
@@ -313,7 +330,8 @@
             "target_local_path": "별지/별지2_보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지2_보안 서약서.hwp"
           }
         ],
         "images": [],
@@ -356,7 +374,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0007",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -376,7 +396,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0007",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -406,7 +428,8 @@
             "target_local_path": "별표/별표1_시험문제(출제용지)의 구성체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별표/별표1_시험문제(출제용지)의 구성체계.hwp"
           },
           {
             "relation_type": "citation",
@@ -426,7 +449,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0007",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -446,7 +471,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0007",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -476,7 +503,8 @@
             "target_local_path": "별표/별표1_시험문제(출제용지)의 구성체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별표/별표1_시험문제(출제용지)의 구성체계.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -506,7 +534,8 @@
             "target_local_path": "별지/별지1_가축인공수정사 시험 위원 이력서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지1_가축인공수정사 시험 위원 이력서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -536,7 +565,8 @@
             "target_local_path": "별지/별지3_보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지3_보안 서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -566,7 +596,8 @@
             "target_local_path": "별지/별지6_저작권 승계 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지6_저작권 승계 동의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -596,7 +627,8 @@
             "target_local_path": "별지/별지1_가축인공수정사 시험 위원 이력서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지1_가축인공수정사 시험 위원 이력서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -626,7 +658,8 @@
             "target_local_path": "별지/별지4_보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지4_보안 서약서.hwp"
           }
         ],
         "images": [],
@@ -668,7 +701,8 @@
             "target_local_path": "별지/별지5_보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지5_보안 서약서.hwp"
           }
         ],
         "images": [],
@@ -700,7 +734,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0009",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -720,7 +756,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0009",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -773,7 +811,8 @@
             "target_local_path": "별표/별표2_가축인공수정사 시험 응시생 응시번호 구성체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별표/별표2_가축인공수정사 시험 응시생 응시번호 구성체계.hwp"
           }
         ],
         "images": [],
@@ -805,7 +844,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0012",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -825,7 +866,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0012",
             "reference_id": "law:축산법시행규칙#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -868,7 +911,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0014",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -888,7 +933,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0014",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -918,7 +965,8 @@
             "target_local_path": "별표/별표1_시험문제(출제용지)의 구성체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별표/별표1_시험문제(출제용지)의 구성체계.hwp"
           },
           {
             "relation_type": "citation",
@@ -938,7 +986,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0014",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -958,7 +1008,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0014",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -990,7 +1042,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0015",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1010,7 +1064,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0015",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1040,7 +1096,8 @@
             "target_local_path": "별표/별표1_시험문제(출제용지)의 구성체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별표/별표1_시험문제(출제용지)의 구성체계.hwp"
           },
           {
             "relation_type": "citation",
@@ -1060,7 +1117,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0015",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1080,7 +1139,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0015",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1112,7 +1173,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0016",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1132,7 +1195,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0016",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1152,7 +1217,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0016",
             "reference_id": "law:수의사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수의사법/법률/수의사법.json"
+            "target_git_path_guess": "수의사법/법률/수의사법.json",
+            "target_git_path": "수의사법/법률/수의사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1172,7 +1239,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0016",
             "reference_id": "law:수의사법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "수의사법/법률/수의사법.json"
+            "target_git_path_guess": "수의사법/법률/수의사법.json",
+            "target_git_path": "수의사법/법률/수의사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1192,7 +1261,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0016",
             "reference_id": "law:축산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/법률/축산법.json"
+            "target_git_path_guess": "축산법/법률/축산법.json",
+            "target_git_path": "축산법/법률/축산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1212,7 +1283,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0016",
             "reference_id": "law:축산법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/법률/축산법.json"
+            "target_git_path_guess": "축산법/법률/축산법.json",
+            "target_git_path": "축산법/법률/축산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1232,7 +1305,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0016",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1264,7 +1339,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0017",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1284,7 +1361,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0017",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1314,7 +1393,8 @@
             "target_local_path": "별지/별지7_가축인공수정사 시험 합격자 명부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "가축인공수정사 면허시험 시행에 관한 훈령/별지/별지7_가축인공수정사 시험 합격자 명부.hwp"
           },
           {
             "relation_type": "citation",
@@ -1334,7 +1414,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0017",
             "reference_id": "law:축산법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1354,7 +1436,9 @@
             "source_provision_id": "admrul:가축인공수정사면허시험시행에관한훈령#JO0017",
             "reference_id": "law:축산법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json"
+            "target_git_path_guess": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_git_path": "축산법/시행규칙/축산법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

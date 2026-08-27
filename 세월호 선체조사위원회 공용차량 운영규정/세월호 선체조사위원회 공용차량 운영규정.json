@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:세월호선체조사위원회공용차량운영규정#JO0002",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:세월호선체조사위원회공용차량운영규정#JO0002",
             "reference_id": "law:자동차관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -195,7 +199,8 @@
             "target_local_path": "서식/서식1_배차신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "세월호 선체조사위원회 공용차량 운영규정/서식/서식1_배차신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -225,7 +230,8 @@
             "target_local_path": "서식/서식2_배차승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "세월호 선체조사위원회 공용차량 운영규정/서식/서식2_배차승인서.hwp"
           }
         ],
         "images": [],
@@ -267,7 +273,8 @@
             "target_local_path": "서식/서식3_차량운행일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "세월호 선체조사위원회 공용차량 운영규정/서식/서식3_차량운행일지.hwp"
           }
         ],
         "images": [],
@@ -321,7 +328,9 @@
             "source_provision_id": "admrul:세월호선체조사위원회공용차량운영규정#JO0012",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

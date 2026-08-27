@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:(해양경찰청)참고인등비용지급규칙#JO0001",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:(해양경찰청)참고인등비용지급규칙#JO0001",
             "reference_id": "law:형사소송법#JO0221",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -238,7 +242,9 @@
             "source_provision_id": "admrul:(해양경찰청)참고인등비용지급규칙#JO0004",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json"
+            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -263,7 +269,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:공무원여비규정#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json"
+            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_file_path": "공무원 여비 규정/법률/별표/별표2_국내 여비 지급표(제10조부터 제13조까지 및 제16조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

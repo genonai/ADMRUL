@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:주택임대차위원회운영규정#JO0001",
             "reference_id": "law:주택임대차보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택임대차보호법/시행령/주택임대차보호법 시행령.json"
+            "target_git_path_guess": "주택임대차보호법/시행령/주택임대차보호법 시행령.json",
+            "target_git_path": "주택임대차보호법/시행령/주택임대차보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:주택임대차위원회운영규정#JO0001",
             "reference_id": "law:주택임대차보호법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택임대차보호법/시행령/주택임대차보호법 시행령.json"
+            "target_git_path_guess": "주택임대차보호법/시행령/주택임대차보호법 시행령.json",
+            "target_git_path": "주택임대차보호법/시행령/주택임대차보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -195,7 +199,8 @@
             "target_local_path": "서식/서식1_직무윤리 사전진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주택임대차위원회 운영 규정/서식/서식1_직무윤리 사전진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -225,7 +230,8 @@
             "target_local_path": "서식/서식2_직무윤리 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주택임대차위원회 운영 규정/서식/서식2_직무윤리 서약서.hwp"
           }
         ],
         "images": [],

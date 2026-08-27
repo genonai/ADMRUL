@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:지방교정청등의조직및정원관리에관한규정#JO0001",
             "reference_id": "law:법무부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_git_path": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:지방교정청등의조직및정원관리에관한규정#JO0001",
             "reference_id": "law:법무부와그소속기관직제#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_git_path": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:지방교정청등의조직및정원관리에관한규정#JO0003",
             "reference_id": "law:법무부와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:지방교정청등의조직및정원관리에관한규정#JO0003",
             "reference_id": "law:법무부와그소속기관직제시행규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "admrul:지방교정청등의조직및정원관리에관한규정#JO0003",
             "reference_id": "law:법무부와그소속기관직제시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "법무부와 그 소속기관 직제/시행규칙/법무부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -212,7 +222,8 @@
             "target_local_path": "별표/별표1_지방교정청 조직도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방교정청등의 조직 및 정원관리에 관한 규정/별표/별표1_지방교정청 조직도.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -242,7 +253,8 @@
             "target_local_path": "별표/별표2_지방교정청 팀 업무분장 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방교정청등의 조직 및 정원관리에 관한 규정/별표/별표2_지방교정청 팀 업무분장 기준.hwp"
           }
         ],
         "images": [],
@@ -284,7 +296,8 @@
             "target_local_path": "별표/별표3_교도소·구치소 과 등급 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방교정청등의 조직 및 정원관리에 관한 규정/별표/별표3_교도소·구치소 과 등급 기준.hwp"
           }
         ],
         "images": [],
@@ -350,7 +363,8 @@
             "target_local_path": "별표/별표4_교도소·구치소 조직도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방교정청등의 조직 및 정원관리에 관한 규정/별표/별표4_교도소·구치소 조직도.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -380,7 +394,8 @@
             "target_local_path": "별표/별표5_교도소·구치소 팀 설치 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방교정청등의 조직 및 정원관리에 관한 규정/별표/별표5_교도소·구치소 팀 설치 기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -410,7 +425,8 @@
             "target_local_path": "별표/별표6_교도소·구치소 팀 업무분장 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방교정청등의 조직 및 정원관리에 관한 규정/별표/별표6_교도소·구치소 팀 업무분장 기준.hwp"
           }
         ],
         "images": [],
@@ -476,7 +492,8 @@
             "target_local_path": "별표/별표7_지소 조직도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "지방교정청등의 조직 및 정원관리에 관한 규정/별표/별표7_지소 조직도.hwp"
           },
           {
             "relation_type": "internal_ref",

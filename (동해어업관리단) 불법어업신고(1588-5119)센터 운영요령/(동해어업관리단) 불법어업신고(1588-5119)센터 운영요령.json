@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:(동해어업관리단)불법어업신고(1588-5119)센터운영요령#JO0001",
             "reference_id": "law:해양수산부와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양수산부와 그 소속기관 직제/시행규칙/해양수산부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "해양수산부와 그 소속기관 직제/시행규칙/해양수산부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "해양수산부와 그 소속기관 직제/시행규칙/해양수산부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:(동해어업관리단)불법어업신고(1588-5119)센터운영요령#JO0001",
             "reference_id": "law:해양수산부와그소속기관직제시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양수산부와 그 소속기관 직제/시행규칙/해양수산부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "해양수산부와 그 소속기관 직제/시행규칙/해양수산부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "해양수산부와 그 소속기관 직제/시행규칙/해양수산부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -197,7 +201,8 @@
             "target_local_path": "별지/별지1_불법어업 신고사항 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(동해어업관리단) 불법어업신고(1588-5119)센터 운영요령/별지/별지1_불법어업 신고사항 통보서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -227,7 +232,8 @@
             "target_local_path": "별지/별지1_불법어업 신고사항 통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(동해어업관리단) 불법어업신고(1588-5119)센터 운영요령/별지/별지1_불법어업 신고사항 통보서.hwp"
           }
         ],
         "images": [],
@@ -291,7 +297,8 @@
             "target_local_path": "별지/별지2_불법어업 신고 민원접수 및 처리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "(동해어업관리단) 불법어업신고(1588-5119)센터 운영요령/별지/별지2_불법어업 신고 민원접수 및 처리대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -311,7 +318,9 @@
             "source_provision_id": "admrul:(동해어업관리단)불법어업신고(1588-5119)센터운영요령#JO0009",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

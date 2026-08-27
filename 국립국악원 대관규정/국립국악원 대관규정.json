@@ -110,7 +110,8 @@
             "target_local_path": "별지/별지1_국립국악원 시설 대관신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립국악원 대관규정/별지/별지1_국립국악원 시설 대관신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -202,7 +203,9 @@
             "source_provision_id": "admrul:국립국악원대관규정#JO0005_02",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -234,7 +237,9 @@
             "source_provision_id": "admrul:국립국악원대관규정#JO0005_03",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -302,7 +307,9 @@
             "source_provision_id": "admrul:국립국악원대관규정#JO0007",
             "reference_id": "law:국유재산법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -322,7 +329,9 @@
             "source_provision_id": "admrul:국립국악원대관규정#JO0007",
             "reference_id": "law:국유재산법시행령#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

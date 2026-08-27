@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:과학관운영위원회설치운영규정#JO0002",
             "reference_id": "law:책임운영기관의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치·운영에 관한 법률/법률/책임운영기관의 설치·운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치·운영에 관한 법률/법률/책임운영기관의 설치·운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:과학관운영위원회설치운영규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "admrul:과학관운영위원회설치운영규정#JO0002",
             "reference_id": "law:과학관의설립운영및육성에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학관의 설립·운영 및 육성에 관한 법률/법률/과학관의 설립·운영 및 육성에 관한 법률.json"
+            "target_git_path_guess": "과학관의 설립·운영 및 육성에 관한 법률/법률/과학관의 설립·운영 및 육성에 관한 법률.json",
+            "target_git_path": "과학관의 설립ㆍ운영 및 육성에 관한 법률/법률/과학관의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:과학관운영위원회설치운영규정#JO0003",
             "reference_id": "law:비영리민간단체지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json"
+            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_git_path": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "admrul:과학관운영위원회설치운영규정#JO0003",
             "reference_id": "law:비영리민간단체지원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json"
+            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_git_path": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -256,7 +266,8 @@
             "target_local_path": "서식/서식1_위원위촉 사전진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "과학관운영위원회 설치·운영규정/서식/서식1_위원위촉 사전진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -286,7 +297,8 @@
             "target_local_path": "서식/서식2_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "과학관운영위원회 설치·운영규정/서식/서식2_서약서.hwp"
           }
         ],
         "images": [],

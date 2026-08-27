@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0002",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0002",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -165,7 +169,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0004",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -185,7 +191,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0004",
             "reference_id": "law:조달사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -205,7 +213,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0004",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -497,7 +507,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0005",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -517,7 +529,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0005",
             "reference_id": "law:소프트웨어진흥법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -559,7 +573,8 @@
             "target_local_path": "별지/별지1_사업계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지1_사업계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -589,7 +604,8 @@
             "target_local_path": "별지/별지2_제안요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지2_제안요청서.hwp"
           }
         ],
         "images": [],
@@ -717,7 +733,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0009",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -737,7 +755,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0009",
             "reference_id": "law:개인정보보호법시행령#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -841,7 +861,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0010",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -873,7 +895,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0011",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -893,7 +917,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0011",
             "reference_id": "law:소프트웨어진흥법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -923,7 +949,8 @@
             "target_local_path": "별지/별지4_소프트웨어사업 영향평가 검토결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지4_소프트웨어사업 영향평가 검토결과서.hwp"
           },
           {
             "relation_type": "citation",
@@ -943,7 +970,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0011",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -975,7 +1004,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0012",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -995,7 +1026,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0012",
             "reference_id": "law:전자정부법시행령#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1015,7 +1048,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0012",
             "reference_id": "law:전자정부법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1035,7 +1070,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0012",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1055,7 +1092,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0012",
             "reference_id": "law:전자정부법시행령#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1146,7 +1185,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0014",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1166,7 +1207,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0014",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1196,7 +1239,8 @@
             "target_local_path": "별지/별지5_수의계약사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지5_수의계약사유서.hwp"
           }
         ],
         "images": [],
@@ -1252,7 +1296,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0015",
             "reference_id": "law:조달사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1272,7 +1318,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0015",
             "reference_id": "law:조달사업에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1589,7 +1637,8 @@
             "target_local_path": "별지/별지6_용역표준계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지6_용역표준계약서.hwp"
           }
         ],
         "images": [],
@@ -1621,7 +1670,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0019",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1641,7 +1692,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0019",
             "reference_id": "law:전자정부법#JO0064_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1661,7 +1714,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0019",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1703,7 +1758,8 @@
             "target_local_path": "별지/별지1_사업계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지1_사업계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1733,7 +1789,8 @@
             "target_local_path": "별지/별지2_제안요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지2_제안요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1763,7 +1820,8 @@
             "target_local_path": "별지/별지5_수의계약사유서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지5_수의계약사유서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1793,7 +1851,8 @@
             "target_local_path": "별지/별지6_용역표준계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지6_용역표준계약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1823,7 +1882,8 @@
             "target_local_path": "별지/별지8_국세청 정보화사업 착수계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지8_국세청 정보화사업 착수계.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1853,7 +1913,8 @@
             "target_local_path": "별지/별지7_대금청구 관련 서식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지7_대금청구 관련 서식.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1883,7 +1944,8 @@
             "target_local_path": "별지/별지11_준공검사확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지11_준공검사확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1913,7 +1975,8 @@
             "target_local_path": "별지/별지12_과업범위 점검 양식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지12_과업범위 점검 양식.hwp"
           }
         ],
         "images": [],
@@ -1955,7 +2018,8 @@
             "target_local_path": "별지/별지8_국세청 정보화사업 착수계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지8_국세청 정보화사업 착수계.hwp"
           }
         ],
         "images": [],
@@ -2019,7 +2083,8 @@
             "target_local_path": "별지/별지9_과업내용 변경요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지9_과업내용 변경요청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2049,7 +2114,8 @@
             "target_local_path": "별지/별지10_과업내용(확정_변경) 심의요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지10_과업내용(확정_변경) 심의요청서.hwp"
           }
         ],
         "images": [],
@@ -2091,7 +2157,8 @@
             "target_local_path": "별지/별지8_국세청 정보화사업 착수계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지8_국세청 정보화사업 착수계.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2121,7 +2188,8 @@
             "target_local_path": "별지/별지4_소프트웨어사업 영향평가 검토결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지4_소프트웨어사업 영향평가 검토결과서.hwp"
           }
         ],
         "images": [],
@@ -2153,7 +2221,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0026",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2173,7 +2243,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0026",
             "reference_id": "law:전자정부법#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2205,7 +2277,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0027",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2225,7 +2299,9 @@
             "source_provision_id": "admrul:국세청정보화사업관리규정#JO0027",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2279,7 +2355,8 @@
             "target_local_path": "별지/별지11_준공검사확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지11_준공검사확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2309,7 +2386,8 @@
             "target_local_path": "별지/별지12_과업범위 점검 양식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지12_과업범위 점검 양식.hwp"
           }
         ],
         "images": [],
@@ -2351,7 +2429,8 @@
             "target_local_path": "별지/별지13_서비스수준협약예시.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 정보화사업관리규정/별지/별지13_서비스수준협약예시.hwp"
           }
         ],
         "images": [],

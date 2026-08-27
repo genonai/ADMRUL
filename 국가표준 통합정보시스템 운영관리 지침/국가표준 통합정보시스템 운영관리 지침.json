@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국가표준통합정보시스템운영관리지침#JO0001",
             "reference_id": "law:국가표준기본법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국가표준통합정보시스템운영관리지침#JO0001",
             "reference_id": "law:국가표준기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json"
+            "target_git_path_guess": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_git_path": "국가표준기본법/시행령/국가표준기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -140,7 +144,8 @@
             "target_local_path": "별표/별표1_국가표준 통합정보시스템 운영관리체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가표준 통합정보시스템 운영관리 지침/별표/별표1_국가표준 통합정보시스템 운영관리체계.hwp"
           }
         ],
         "images": [],
@@ -193,7 +198,8 @@
             "target_local_path": "별표/별표2_사용자 권한관리.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가표준 통합정보시스템 운영관리 지침/별표/별표2_사용자 권한관리.hwp"
           }
         ],
         "images": [],
@@ -235,7 +241,8 @@
             "target_local_path": "별지/별지1_사용자 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가표준 통합정보시스템 운영관리 지침/별지/별지1_사용자 등록신청서.hwp"
           }
         ],
         "images": [],
@@ -288,7 +295,8 @@
             "target_local_path": "별표/별표3_국가표준 정보의 종류.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가표준 통합정보시스템 운영관리 지침/별표/별표3_국가표준 정보의 종류.hwp"
           }
         ],
         "images": [],
@@ -320,7 +328,9 @@
             "source_provision_id": "admrul:국가표준통합정보시스템운영관리지침#JO0009",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -406,7 +416,8 @@
             "target_local_path": "별지/별지2_장애처리일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국가표준 통합정보시스템 운영관리 지침/별지/별지2_장애처리일지.hwp"
           }
         ],
         "images": [],

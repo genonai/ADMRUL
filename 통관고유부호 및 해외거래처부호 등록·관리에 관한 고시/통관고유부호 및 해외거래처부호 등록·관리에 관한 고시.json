@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0001",
             "reference_id": "law:관세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0001",
             "reference_id": "law:관세법시행규칙#JO0077_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json"
+            "target_git_path_guess": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_git_path": "관세법/시행규칙/관세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -129,7 +133,8 @@
             "target_local_path": "별표/별표1_사업자 통관고유부호 체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별표/별표1_사업자 통관고유부호 체계.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -159,7 +164,8 @@
             "target_local_path": "별표/별표2_개인 통관고유부호 체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별표/별표2_개인 통관고유부호 체계.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -189,7 +195,8 @@
             "target_local_path": "별표/별표3_해외거래처부호 체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별표/별표3_해외거래처부호 체계.hwp"
           }
         ],
         "images": [],
@@ -469,7 +476,8 @@
             "target_local_path": "별지/별지1_사업자 통관고유부호 신규 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지1_사업자 통관고유부호 신규 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -499,7 +507,8 @@
             "target_local_path": "별지/별지9_위임장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지9_위임장.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -577,7 +586,8 @@
             "target_local_path": "별지/별지2_사업자 통관고유부호 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지2_사업자 통관고유부호 변경 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -631,7 +641,8 @@
             "target_local_path": "별지/별지3_사업자 통관고유부호 지위승계 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지3_사업자 통관고유부호 지위승계 신청서.hwp"
           },
           {
             "relation_type": "citation",
@@ -709,7 +720,8 @@
             "target_local_path": "별지/별지3_사업자 통관고유부호 지위승계 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지3_사업자 통관고유부호 지위승계 신청서.hwp"
           }
         ],
         "images": [],
@@ -741,7 +753,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0007",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -807,7 +821,8 @@
             "target_local_path": "별지/별지4_개인 통관고유부호 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지4_개인 통관고유부호 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -837,7 +852,8 @@
             "target_local_path": "별지/별지9_위임장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지9_위임장.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1071,7 +1087,8 @@
             "target_local_path": "별지/별지5_해외거래처부호 신규 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지5_해외거래처부호 신규 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1101,7 +1118,8 @@
             "target_local_path": "별지/별지9_위임장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지9_위임장.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1203,7 +1221,8 @@
             "target_local_path": "별지/별지6_해외거래처부호 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지6_해외거래처부호 변경 신청서.hwp"
           }
         ],
         "images": [],
@@ -1259,7 +1278,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0010",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1279,7 +1300,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0010",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1539,7 +1562,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0012",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1559,7 +1584,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0012",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1613,7 +1640,8 @@
             "target_local_path": "별표/별표1_사업자 통관고유부호 체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별표/별표1_사업자 통관고유부호 체계.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1741,7 +1769,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0013",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1761,7 +1791,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0013",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1791,7 +1823,8 @@
             "target_local_path": "별표/별표2_개인 통관고유부호 체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별표/별표2_개인 통관고유부호 체계.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1881,7 +1914,8 @@
             "target_local_path": "별표/별표3_해외거래처부호 체계.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별표/별표3_해외거래처부호 체계.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2019,7 +2053,8 @@
             "target_local_path": "별지/별지2_사업자 통관고유부호 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지2_사업자 통관고유부호 변경 신청서.hwp"
           }
         ],
         "images": [],
@@ -2121,7 +2156,8 @@
             "target_local_path": "별지/별지7_현장확인 출장증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지7_현장확인 출장증.hwp"
           }
         ],
         "images": [],
@@ -2163,7 +2199,8 @@
             "target_local_path": "별지/별지8_현장확인 결과 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지8_현장확인 결과 통지서.hwp"
           }
         ],
         "images": [],
@@ -2241,7 +2278,8 @@
             "target_local_path": "별지/별지7_현장확인 출장증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지7_현장확인 출장증.hwp"
           }
         ],
         "images": [],
@@ -2283,7 +2321,8 @@
             "target_local_path": "별지/별지8_현장확인 결과 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지8_현장확인 결과 통지서.hwp"
           },
           {
             "relation_type": "citation",
@@ -2303,7 +2342,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0023",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2323,7 +2364,9 @@
             "source_provision_id": "admrul:통관고유부호및해외거래처부호등록관리에관한고시#JO0023",
             "reference_id": "law:국세기본법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2365,7 +2408,8 @@
             "target_local_path": "별지/별지6_해외거래처부호 변경 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지6_해외거래처부호 변경 신청서.hwp"
           }
         ],
         "images": [],
@@ -2407,7 +2451,8 @@
             "target_local_path": "별지/별지4_개인 통관고유부호 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "통관고유부호 및 해외거래처부호 등록·관리에 관한 고시/별지/별지4_개인 통관고유부호 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",

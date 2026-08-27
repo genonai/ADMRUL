@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:보험사기방지업무시행세칙#JO0001",
             "reference_id": "law:보험사기방지특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보험사기방지특별법/시행령/보험사기방지특별법 시행령.json"
+            "target_git_path_guess": "보험사기방지특별법/시행령/보험사기방지특별법 시행령.json",
+            "target_git_path": "보험사기방지 특별법/시행령/보험사기방지 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +194,8 @@
             "target_local_path": "별지/별지1_보험회사 혐의인지 보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보험사기방지업무 시행세칙/별지/별지1_보험회사 혐의인지 보고.hwp"
           }
         ],
         "images": [],
@@ -378,7 +381,8 @@
             "target_local_path": "별지/별지2_할증된 보험료의 환급 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "보험사기방지업무 시행세칙/별지/별지2_할증된 보험료의 환급 현황.hwp"
           }
         ],
         "images": [],

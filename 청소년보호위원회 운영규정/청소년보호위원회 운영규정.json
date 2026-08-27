@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:청소년보호위원회운영규정#JO0001",
             "reference_id": "law:청소년보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년보호법/시행령/청소년보호법시행령.json"
+            "target_git_path_guess": "청소년보호법/시행령/청소년보호법시행령.json",
+            "target_git_path": "청소년 보호법/시행령/청소년 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:청소년보호위원회운영규정#JO0001",
             "reference_id": "law:청소년보호법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년보호법/시행령/청소년보호법시행령.json"
+            "target_git_path_guess": "청소년보호법/시행령/청소년보호법시행령.json",
+            "target_git_path": "청소년 보호법/시행령/청소년 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "양식/양식1_안건명.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "청소년보호위원회 운영규정/양식/양식1_안건명.hwp"
           }
         ],
         "images": [],
@@ -204,7 +209,8 @@
             "target_local_path": "양식/양식2_의견서(서면).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "청소년보호위원회 운영규정/양식/양식2_의견서(서면).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -234,7 +240,8 @@
             "target_local_path": "양식/양식3_결정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "청소년보호위원회 운영규정/양식/양식3_결정서.hwp"
           }
         ],
         "images": [],
@@ -370,7 +377,8 @@
             "target_local_path": "양식/양식4_회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "청소년보호위원회 운영규정/양식/양식4_회의록.hwp"
           }
         ],
         "images": [],
@@ -423,7 +431,8 @@
             "target_local_path": "양식/양식5_위원위촉 사전진단서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "청소년보호위원회 운영규정/양식/양식5_위원위촉 사전진단서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -453,7 +462,8 @@
             "target_local_path": "양식/양식6_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "청소년보호위원회 운영규정/양식/양식6_서약서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:전자파인체보호기준#JO0001",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:전자파인체보호기준#JO0001",
             "reference_id": "law:전파법#JO0047_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -140,7 +144,8 @@
             "target_local_path": "별표/별표1_일반인에 대한 전자파강도기준(제3조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자파인체보호기준/별표/별표1_일반인에 대한 전자파강도기준(제3조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +175,8 @@
             "target_local_path": "별표/별표2_직업인에 대한 전자파강도기준(제3조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자파인체보호기준/별표/별표2_직업인에 대한 전자파강도기준(제3조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -212,7 +218,8 @@
             "target_local_path": "별표/별표3_전자파흡수율(SAR)기준(제4조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "전자파인체보호기준/별표/별표3_전자파흡수율(SAR)기준(제4조 관련).hwp"
           }
         ],
         "images": [],

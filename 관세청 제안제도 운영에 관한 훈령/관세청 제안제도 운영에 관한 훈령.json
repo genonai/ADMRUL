@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0001",
             "reference_id": "law:국민제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json"
+            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_git_path": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0001",
             "reference_id": "law:공무원제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별지/별지1_공동제안 업무분담내용 기술서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 제안제도 운영에 관한 훈령/별지/별지1_공동제안 업무분담내용 기술서.hwp"
           },
           {
             "relation_type": "citation",
@@ -182,7 +187,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0005",
             "reference_id": "law:국민제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json"
+            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_git_path": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -205,9 +212,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0005",
             "target_unit": "BJ0001",
-            "reference_id": "law:국민제안규정시행규칙#BJ0001",
+            "reference_id": "law:국민제안규정시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json"
+            "target_git_path_guess": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_git_path": "국민 제안 규정/시행규칙/국민 제안 규정 시행규칙.json",
+            "target_git_file_path": "국민 제안 규정/시행규칙/서식/서식1_국민제안서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -227,7 +237,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0005",
             "reference_id": "law:공무원제안규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -250,9 +262,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0005",
             "target_unit": "BJ0001",
-            "reference_id": "law:공무원제안규정시행규칙#BJ0001",
+            "reference_id": "law:공무원제안규정시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json"
+            "target_git_path_guess": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_path": "공무원 제안 규정/시행규칙/공무원 제안 규정 시행규칙.json",
+            "target_git_file_path": "공무원 제안 규정/시행규칙/서식/서식1_공무원제안서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -308,7 +323,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0006",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -328,7 +345,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0006",
             "reference_id": "law:국민제안규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -348,7 +367,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0006",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -368,7 +389,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0006",
             "reference_id": "law:공무원제안규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -410,7 +433,8 @@
             "target_local_path": "별표/별표1_제안 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 제안제도 운영에 관한 훈령/별표/별표1_제안 심사기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -440,7 +464,8 @@
             "target_local_path": "별표/별표2_채택여부 결정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 제안제도 운영에 관한 훈령/별표/별표2_채택여부 결정기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -470,7 +495,8 @@
             "target_local_path": "별지/별지3_공무원_국민 제안에 대한 관련 업무부서 의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 제안제도 운영에 관한 훈령/별지/별지3_공무원_국민 제안에 대한 관련 업무부서 의견서.hwp"
           }
         ],
         "images": [],
@@ -524,7 +550,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0010",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -544,7 +572,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0010",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -564,7 +594,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0010",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/시행령/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -630,7 +662,8 @@
             "target_local_path": "별지/별지2_공무원제안 기여도 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 제안제도 운영에 관한 훈령/별지/별지2_공무원제안 기여도 확인서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -696,7 +729,8 @@
             "target_local_path": "별표/별표1_제안 심사기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 제안제도 운영에 관한 훈령/별표/별표1_제안 심사기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -726,7 +760,8 @@
             "target_local_path": "별표/별표3_채택제안의 등급 결정기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "관세청 제안제도 운영에 관한 훈령/별표/별표3_채택제안의 등급 결정기준.hwp"
           }
         ],
         "images": [],
@@ -758,7 +793,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0013",
             "reference_id": "law:국민제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -778,7 +815,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0013",
             "reference_id": "law:국민제안규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json"
+            "target_git_path_guess": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_git_path": "국민 제안 규정/법률/국민 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -798,7 +837,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0013",
             "reference_id": "law:공무원제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -818,7 +859,9 @@
             "source_provision_id": "admrul:관세청제안제도운영에관한훈령#JO0013",
             "reference_id": "law:공무원제안규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json"
+            "target_git_path_guess": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_git_path": "공무원 제안 규정/법률/공무원 제안 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

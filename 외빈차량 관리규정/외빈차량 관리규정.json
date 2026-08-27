@@ -88,7 +88,8 @@
             "target_local_path": "별지/별지1_외빈차량 관리부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외빈차량 관리규정/별지/별지1_외빈차량 관리부.hwp"
           }
         ],
         "images": [],
@@ -130,7 +131,8 @@
             "target_local_path": "별지/별지2_외빈차량 운행기록부 (차량번호 _ ).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외빈차량 관리규정/별지/별지2_외빈차량 운행기록부 (차량번호 _ ).hwp"
           }
         ],
         "images": [],
@@ -183,7 +185,8 @@
             "target_local_path": "별지/별지3_외빈차량 사용신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외빈차량 관리규정/별지/별지3_외빈차량 사용신청서.hwp"
           }
         ],
         "images": [],
@@ -225,7 +228,8 @@
             "target_local_path": "별지/별지4_외빈차량 관리운영현황 분기보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "외빈차량 관리규정/별지/별지4_외빈차량 관리운영현황 분기보고서.hwp"
           }
         ],
         "images": [],
@@ -255,9 +259,13 @@
             "target_url": "https://www.law.go.kr/법령/공용차량 관리규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:외빈차량관리규정#JO0007",
-            "reference_id": "law:공용차량관리규정#DOC",
+            "reference_id": "SchlPubRul:공용차량관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공용차량 관리규정/법률/공용차량 관리규정.json"
+            "target_git_path_guess": "공용차량 관리규정/법률/공용차량 관리규정.json",
+            "target_git_path": "공용차량 관리규정/공용차량 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

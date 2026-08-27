@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:중앙해양특수구조단시설관리운영규칙#JO0002",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:중앙해양특수구조단시설관리운영규칙#JO0002",
             "reference_id": "law:국유재산법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -151,7 +155,8 @@
             "target_local_path": "별표/별표1_시설분류표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙해양특수구조단 시설관리 운영규칙/별표/별표1_시설분류표.hwp"
           }
         ],
         "images": [],
@@ -226,7 +231,8 @@
             "target_local_path": "별표/별표2_주요시설.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙해양특수구조단 시설관리 운영규칙/별표/별표2_주요시설.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -256,7 +262,8 @@
             "target_local_path": "별지/별지1_주요시설 이력카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙해양특수구조단 시설관리 운영규칙/별지/별지1_주요시설 이력카드.hwp"
           }
         ],
         "images": [],
@@ -298,7 +305,8 @@
             "target_local_path": "별지/별지2_시설관리운용대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙해양특수구조단 시설관리 운영규칙/별지/별지2_시설관리운용대장.hwp"
           }
         ],
         "images": [],
@@ -398,7 +406,8 @@
             "target_local_path": "별지/별지3_중앙해양특수구조단 시설 사용(변경) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "중앙해양특수구조단 시설관리 운영규칙/별지/별지3_중앙해양특수구조단 시설 사용(변경) 신청서.hwp"
           }
         ],
         "images": [],

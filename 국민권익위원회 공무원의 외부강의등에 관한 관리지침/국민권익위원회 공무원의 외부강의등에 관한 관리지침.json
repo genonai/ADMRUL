@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국민권익위원회공무원의외부강의등에관한관리지침#JO0001",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국민권익위원회공무원의외부강의등에관한관리지침#JO0001",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/시행령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/시행령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/시행령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국민권익위원회공무원의외부강의등에관한관리지침#JO0001",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/시행령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/시행령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/시행령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:국민권익위원회공무원의외부강의등에관한관리지침#JO0001",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -240,7 +248,8 @@
             "target_local_path": "별지/별지1_외부강의등 신고서(통보서).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 공무원의 외부강의등에 관한 관리지침/별지/별지1_외부강의등 신고서(통보서).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -270,7 +279,8 @@
             "target_local_path": "별지/별지1_외부강의등 신고서(통보서).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 공무원의 외부강의등에 관한 관리지침/별지/별지1_외부강의등 신고서(통보서).hwp"
           },
           {
             "relation_type": "citation",
@@ -324,7 +334,8 @@
             "target_local_path": "별표/별표4_직무관련 외부강의 대가기준(제20조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 공무원 행동강령/별표/별표4_직무관련 외부강의 대가기준(제20조 제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -366,7 +377,8 @@
             "target_local_path": "별지/별지2_연 10회(월 3회) 또는 월 6시간 초과하는 외부강의등 승인신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 공무원의 외부강의등에 관한 관리지침/별지/별지2_연 10회(월 3회) 또는 월 6시간 초과하는 외부강의등 승인신청서.hwp"
           }
         ],
         "images": [],
@@ -454,7 +466,8 @@
             "target_local_path": "별지/별지3_직무관련 외부강의등 현황 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 공무원의 외부강의등에 관한 관리지침/별지/별지3_직무관련 외부강의등 현황 관리대장.hwp"
           }
         ],
         "images": [],
@@ -496,7 +509,8 @@
             "target_local_path": "별지/별지1_외부강의등 신고서(통보서).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국민권익위원회 공무원의 외부강의등에 관한 관리지침/별지/별지1_외부강의등 신고서(통보서).hwp"
           }
         ],
         "images": [],

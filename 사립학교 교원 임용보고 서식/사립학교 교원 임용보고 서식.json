@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:사립학교교원임용보고서식#JO0001",
             "reference_id": "law:사립학교법#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "사립학교법/법률/사립학교법.json"
+            "target_git_path_guess": "사립학교법/법률/사립학교법.json",
+            "target_git_path": "사립학교법/법률/사립학교법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:사립학교교원임용보고서식#JO0001",
             "reference_id": "law:사립학교법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사립학교법/시행령/사립학교법 시행령.json"
+            "target_git_path_guess": "사립학교법/시행령/사립학교법 시행령.json",
+            "target_git_path": "사립학교법/시행령/사립학교법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:사립학교교원임용보고서식#JO0001",
             "reference_id": "law:사립학교법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "사립학교법/시행령/사립학교법 시행령.json"
+            "target_git_path_guess": "사립학교법/시행령/사립학교법 시행령.json",
+            "target_git_path": "사립학교법/시행령/사립학교법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -149,7 +155,8 @@
             "target_local_path": "별지/별지1_사립학교 교원 임용보고 서식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사립학교 교원 임용보고 서식/별지/별지1_사립학교 교원 임용보고 서식.hwp"
           }
         ],
         "images": [],
@@ -191,7 +198,8 @@
             "target_local_path": "별지/별지2_사립대학 강사 및 겸임교원 등 임용보고 서식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사립학교 교원 임용보고 서식/별지/별지2_사립대학 강사 및 겸임교원 등 임용보고 서식.hwp"
           }
         ],
         "images": [],

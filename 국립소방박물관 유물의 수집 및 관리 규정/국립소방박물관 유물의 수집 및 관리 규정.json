@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립소방박물관유물의수집및관리규정#JO0001",
             "reference_id": "law:소방기본법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립소방박물관유물의수집및관리규정#JO0001",
             "reference_id": "law:소방기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json"
+            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_git_path": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국립소방박물관유물의수집및관리규정#JO0001",
             "reference_id": "law:소방기본법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json"
+            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_git_path": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -182,7 +188,8 @@
             "target_local_path": "별지/별지1_유물매도 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지1_유물매도 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -212,7 +219,8 @@
             "target_local_path": "별지/별지2_매도유물 명세서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지2_매도유물 명세서.hwp"
           }
         ],
         "images": [],
@@ -278,7 +286,8 @@
             "target_local_path": "별지/별지3_유물감정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지3_유물감정서.hwp"
           }
         ],
         "images": [],
@@ -344,7 +353,8 @@
             "target_local_path": "별지/별지4_유물매매계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지4_유물매매계약서.hwp"
           }
         ],
         "images": [],
@@ -386,7 +396,8 @@
             "target_local_path": "별지/별지5_유물반환증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지5_유물반환증.hwp"
           }
         ],
         "images": [],
@@ -428,7 +439,8 @@
             "target_local_path": "별지/별지6_소방유물 기증신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지6_소방유물 기증신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -494,7 +506,8 @@
             "target_local_path": "별지/별지7_수증유물심의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지7_수증유물심의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -524,7 +537,8 @@
             "target_local_path": "별지/별지8_유물 임시보관증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지8_유물 임시보관증.hwp"
           }
         ],
         "images": [],
@@ -566,7 +580,8 @@
             "target_local_path": "별지/별지9_기증유물목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지9_기증유물목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -596,7 +611,8 @@
             "target_local_path": "별지/별지9의2_기증증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지9의2_기증증서.hwp"
           }
         ],
         "images": [],
@@ -685,7 +701,8 @@
             "target_local_path": "별지/별지10_수장고 관리일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지10_수장고 관리일지.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -715,7 +732,8 @@
             "target_local_path": "별지/별지11_소방유물 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지11_소방유물 관리카드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -745,7 +763,8 @@
             "target_local_path": "별지/별지12_유물반출목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지12_유물반출목록.hwp"
           }
         ],
         "images": [],
@@ -777,7 +796,9 @@
             "source_provision_id": "admrul:국립소방박물관유물의수집및관리규정#JO0015",
             "reference_id": "law:문화유산의보존및활용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_git_path": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -819,7 +840,8 @@
             "target_local_path": "별지/별지13_유물 인계인수 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지13_유물 인계인수 확인서.hwp"
           }
         ],
         "images": [],
@@ -872,7 +894,8 @@
             "target_local_path": "별지/별지11_소방유물 관리카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지11_소방유물 관리카드.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -902,7 +925,8 @@
             "target_local_path": "별지/별지14_유물대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지14_유물대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -932,7 +956,8 @@
             "target_local_path": "별지/별지15_유물 등록정보 변경신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지15_유물 등록정보 변경신청서.hwp"
           }
         ],
         "images": [],
@@ -996,7 +1021,8 @@
             "target_local_path": "별지/별지16_수장고 출입관리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지16_수장고 출입관리 대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1026,7 +1052,8 @@
             "target_local_path": "별지/별지17_열쇠출납부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지17_열쇠출납부.hwp"
           }
         ],
         "images": [],
@@ -1185,7 +1212,8 @@
             "target_local_path": "별지/별지3_유물감정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지3_유물감정서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1215,7 +1243,8 @@
             "target_local_path": "별지/별지7_수증유물심의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립소방박물관 유물의 수집 및 관리 규정/별지/별지7_수증유물심의서.hwp"
           },
           {
             "relation_type": "internal_ref",

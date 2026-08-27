@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0001",
             "reference_id": "law:소방기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json"
+            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_git_path": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0001",
             "reference_id": "law:소방기본법시행규칙#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json"
+            "target_git_path_guess": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_git_path": "소방기본법/시행규칙/소방기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별표/별표1_소방정보통신시스템 소관부서 지정현황(제5조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별표/별표1_소방정보통신시스템 소관부서 지정현황(제5조).hwp"
           }
         ],
         "images": [],
@@ -226,7 +231,8 @@
             "target_local_path": "별지/별지1_소방정보통신업무일지(제8조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지1_소방정보통신업무일지(제8조).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -256,7 +262,8 @@
             "target_local_path": "별지/별지1_소방정보통신업무일지(제8조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지1_소방정보통신업무일지(제8조).hwp"
           }
         ],
         "images": [],
@@ -298,7 +305,8 @@
             "target_local_path": "별지/별지2_소방정보통신(시설ㆍ장비) (주간ㆍ월간) 점검부(제9조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지2_소방정보통신(시설ㆍ장비) (주간ㆍ월간) 점검부(제9조).hwp"
           }
         ],
         "images": [],
@@ -341,7 +349,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0011",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -371,7 +381,8 @@
             "target_local_path": "별지/별지3_보호구역(제한구역, 통제구역 등)출입자 명부(제11조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지3_보호구역(제한구역, 통제구역 등)출입자 명부(제11조).hwp"
           }
         ],
         "images": [],
@@ -403,7 +414,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0012",
             "reference_id": "law:정부청사관리규정시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부청사관리규정/시행규칙/정부청사관리규정 시행규칙.json"
+            "target_git_path_guess": "정부청사관리규정/시행규칙/정부청사관리규정 시행규칙.json",
+            "target_git_path": "정부청사관리규정/시행규칙/정부청사관리규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -423,7 +436,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0012",
             "reference_id": "law:정부청사관리규정시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부청사관리규정/시행규칙/정부청사관리규정 시행규칙.json"
+            "target_git_path_guess": "정부청사관리규정/시행규칙/정부청사관리규정 시행규칙.json",
+            "target_git_path": "정부청사관리규정/시행규칙/정부청사관리규정 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -453,7 +468,8 @@
             "target_local_path": "별표/별표1_소방정보통신시스템 소관부서 지정현황(제5조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별표/별표1_소방정보통신시스템 소관부서 지정현황(제5조).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -483,7 +499,8 @@
             "target_local_path": "별표/별표2_소방정보통신 업무 담당자 근무수칙(제12조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별표/별표2_소방정보통신 업무 담당자 근무수칙(제12조).hwp"
           }
         ],
         "images": [],
@@ -536,7 +553,8 @@
             "target_local_path": "별지/별지4_소방정보통신(장비)관리대장(제14조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지4_소방정보통신(장비)관리대장(제14조).hwp"
           },
           {
             "relation_type": "citation",
@@ -556,7 +574,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0014",
             "reference_id": "law:소방장비관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방장비관리법/시행령/소방장비관리법 시행령.json"
+            "target_git_path_guess": "소방장비관리법/시행령/소방장비관리법 시행령.json",
+            "target_git_path": "소방장비관리법/시행령/소방장비관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -576,7 +596,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0014",
             "reference_id": "law:소방장비관리법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방장비관리법/시행령/소방장비관리법 시행령.json"
+            "target_git_path_guess": "소방장비관리법/시행령/소방장비관리법 시행령.json",
+            "target_git_path": "소방장비관리법/시행령/소방장비관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -601,7 +623,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:소방장비관리법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방장비관리법/시행령/소방장비관리법 시행령.json"
+            "target_git_path_guess": "소방장비관리법/시행령/소방장비관리법 시행령.json",
+            "target_git_path": "소방장비관리법/시행령/소방장비관리법 시행령.json",
+            "target_git_file_path": "소방장비관리법/시행령/별표/별표1_소방장비의 분류(제6조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -643,7 +668,8 @@
             "target_local_path": "별표/별표3_소방정보통신 유지보수용 계측기 및 공구 보유기준(제15조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별표/별표3_소방정보통신 유지보수용 계측기 및 공구 보유기준(제15조).hwp"
           }
         ],
         "images": [],
@@ -707,7 +733,8 @@
             "target_local_path": "별지/별지5_소방정보통신장비 구입설치(공사) 감독일지(제18조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지5_소방정보통신장비 구입설치(공사) 감독일지(제18조).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -737,7 +764,8 @@
             "target_local_path": "별지/별지6_소방정보통신 장비 설치(공사) 보안서약서(제18조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지6_소방정보통신 장비 설치(공사) 보안서약서(제18조).hwp"
           }
         ],
         "images": [],
@@ -961,7 +989,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0031_02",
             "reference_id": "law:소방기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -981,7 +1011,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0031_02",
             "reference_id": "law:소방기본법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1013,7 +1045,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0031_03",
             "reference_id": "law:소방기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1033,7 +1067,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0031_03",
             "reference_id": "law:소방기본법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1087,7 +1123,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0034",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1107,7 +1145,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0034",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1127,7 +1167,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0034",
             "reference_id": "law:긴급구조대응활동및현장지휘에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급구조대응활동 및 현장지휘에 관한 규칙/법률/긴급구조대응활동 및 현장지휘에 관한 규칙.json"
+            "target_git_path_guess": "긴급구조대응활동 및 현장지휘에 관한 규칙/법률/긴급구조대응활동 및 현장지휘에 관한 규칙.json",
+            "target_git_path": "긴급구조대응활동 및 현장지휘에 관한 규칙/법률/긴급구조대응활동 및 현장지휘에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1147,7 +1189,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0034",
             "reference_id": "law:긴급구조대응활동및현장지휘에관한규칙#JO0015_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급구조대응활동 및 현장지휘에 관한 규칙/법률/긴급구조대응활동 및 현장지휘에 관한 규칙.json"
+            "target_git_path_guess": "긴급구조대응활동 및 현장지휘에 관한 규칙/법률/긴급구조대응활동 및 현장지휘에 관한 규칙.json",
+            "target_git_path": "긴급구조대응활동 및 현장지휘에 관한 규칙/법률/긴급구조대응활동 및 현장지휘에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1282,7 +1326,8 @@
             "target_local_path": "별지/별지7_소방정보통신회선관리기록부(제38조).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지7_소방정보통신회선관리기록부(제38조).hwp"
           }
         ],
         "images": [],
@@ -1371,7 +1416,9 @@
             "source_provision_id": "admrul:소방정보통신운영관리규정#JO0042",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1424,7 +1471,8 @@
             "target_local_path": "별지/별지8_소방정보화 및 소방정보통신망 구축 사업관리 체크리스트(제42조의2).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방정보통신 운영관리 규정/별지/별지8_소방정보화 및 소방정보통신망 구축 사업관리 체크리스트(제42조의2).hwp"
           }
         ],
         "images": [],

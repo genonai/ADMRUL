@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립원예특작과학원과수무병묘보급업무에관한규정#JO0001",
             "reference_id": "law:종자산업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "종자산업법/법률/종자산업법.json"
+            "target_git_path_guess": "종자산업법/법률/종자산업법.json",
+            "target_git_path": "종자산업법/법률/종자산업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -166,7 +168,8 @@
             "target_local_path": "별지/별지1_무병묘 분양신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립원예특작과학원 과수 무병묘 보급 업무에 관한 규정/별지/별지1_무병묘 분양신청서.hwp"
           }
         ],
         "images": [],
@@ -219,7 +222,8 @@
             "target_local_path": "별지/별지2_무병묘 분양승인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립원예특작과학원 과수 무병묘 보급 업무에 관한 규정/별지/별지2_무병묘 분양승인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -249,7 +253,8 @@
             "target_local_path": "별지/별지3_무병묘 인수증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립원예특작과학원 과수 무병묘 보급 업무에 관한 규정/별지/별지3_무병묘 인수증.hwp"
           }
         ],
         "images": [],

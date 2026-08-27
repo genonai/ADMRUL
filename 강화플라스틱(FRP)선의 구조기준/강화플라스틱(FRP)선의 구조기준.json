@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:강화플라스틱(FRP)선의구조기준#JO0001",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:강화플라스틱(FRP)선의구조기준#JO0001",
             "reference_id": "law:선박안전법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -152,7 +156,9 @@
             "source_provision_id": "admrul:강화플라스틱(FRP)선의구조기준#JO0005",
             "reference_id": "law:선박안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json"
+            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_git_path": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -177,7 +183,10 @@
             "target_unit": "BYL0007",
             "reference_id": "law:선박안전법시행규칙#BYL0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json"
+            "target_git_path_guess": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_git_path": "선박안전법/시행규칙/선박안전법 시행규칙.json",
+            "target_git_file_path": "선박안전법/시행규칙/별표/별표7_해당 선박의 검사종류별 관련 도면(제29조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -207,7 +216,8 @@
             "target_local_path": "별표/별표7_선체구조 강도시험 기준(제5조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표7_선체구조 강도시험 기준(제5조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -282,7 +292,8 @@
             "target_local_path": "별표/별표1_유리섬유재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표1_유리섬유재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -312,7 +323,8 @@
             "target_local_path": "별표/별표2_적층용수지액의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표2_적층용수지액의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -342,7 +354,8 @@
             "target_local_path": "별표/별표3_샌드위치구조용 심재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표3_샌드위치구조용 심재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -372,7 +385,8 @@
             "target_local_path": "별표/별표4_유리섬유재의 판정기준(제9조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표4_유리섬유재의 판정기준(제9조제2항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -402,7 +416,8 @@
             "target_local_path": "별표/별표5_적층용수지액의 판정기준(제9조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표5_적층용수지액의 판정기준(제9조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -468,7 +483,8 @@
             "target_local_path": "별표/별표6_건조 전 재료시험 방법 및 판정기준(제10조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표6_건조 전 재료시험 방법 및 판정기준(제10조 관련).hwp"
           }
         ],
         "images": [],
@@ -745,7 +761,8 @@
             "target_local_path": "별표/별표6_건조 전 재료시험 방법 및 판정기준(제10조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표6_건조 전 재료시험 방법 및 판정기준(제10조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -904,7 +921,8 @@
             "target_local_path": "별표/별표3_샌드위치구조용 심재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표3_샌드위치구조용 심재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp"
           }
         ],
         "images": [
@@ -1391,7 +1409,8 @@
             "target_local_path": "별표/별표3_샌드위치구조용 심재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "강화플라스틱(FRP)선의 구조기준/별표/별표3_샌드위치구조용 심재의 재료시험 항목 및 방법 등(제9조제1항 관련).hwp"
           }
         ],
         "images": [],

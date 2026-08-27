@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:의약품등의안정성시험기준#JO0001",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:의약품등의안정성시험기준#JO0001",
             "reference_id": "law:약사법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:의약품등의안정성시험기준#JO0001",
             "reference_id": "law:약사법#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:의약품등의안정성시험기준#JO0001",
             "reference_id": "law:의약품등의안전에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:의약품등의안정성시험기준#JO0001",
             "reference_id": "law:의약품등의안전에관한규칙#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json"
+            "target_git_path_guess": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_git_path": "의약품 등의 안전에 관한 규칙/법률/의약품 등의 안전에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -200,7 +210,8 @@
             "target_local_path": "별표/별표4_신약의 안정성시험기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표4_신약의 안정성시험기준.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -230,7 +241,8 @@
             "target_local_path": "별표/별표5_신약의 새로운 제형 의약품의 안정성시험.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표5_신약의 새로운 제형 의약품의 안정성시험.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -260,7 +272,8 @@
             "target_local_path": "별표/별표6_신약의 광안정성시험.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표6_신약의 광안정성시험.hwp"
           }
         ],
         "images": [],
@@ -302,7 +315,8 @@
             "target_local_path": "별표/별표1_브래케팅디자인 (Bracketing Design).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표1_브래케팅디자인 (Bracketing Design).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -332,7 +346,8 @@
             "target_local_path": "별표/별표2_매트릭스디자인 (Matrix Design).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표2_매트릭스디자인 (Matrix Design).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -362,7 +377,8 @@
             "target_local_path": "별표/별표7_신약의 브래케팅 디자인 및 매트릭스 디자인.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표7_신약의 브래케팅 디자인 및 매트릭스 디자인.hwp"
           }
         ],
         "images": [],
@@ -404,7 +420,8 @@
             "target_local_path": "별표/별표3_사용기간등 신청을 위한 흐름도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표3_사용기간등 신청을 위한 흐름도.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -434,7 +451,8 @@
             "target_local_path": "별표/별표8_신약의 안정성 시험자료 평가.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "의약품등의 안정성시험 기준/별표/별표8_신약의 안정성 시험자료 평가.hwp"
           },
           {
             "relation_type": "citation",
@@ -537,7 +555,9 @@
             "source_provision_id": "admrul:의약품등의안정성시험기준#JO0008",
             "reference_id": "law:행정규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -557,7 +577,9 @@
             "source_provision_id": "admrul:의약품등의안정성시험기준#JO0008",
             "reference_id": "law:행정규제기본법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0002",
             "reference_id": "law:전기통신기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0002",
             "reference_id": "law:전기통신기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -184,7 +188,8 @@
             "target_local_path": "별표/별표1_정보보안 사고 유형.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별표/별표1_정보보안 사고 유형.hwp"
           }
         ],
         "images": [],
@@ -237,7 +242,8 @@
             "target_local_path": "별지/별지1_정보시스템 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지1_정보시스템 관리대장.hwp"
           }
         ],
         "images": [],
@@ -323,7 +329,8 @@
             "target_local_path": "별지/별지2_휴대용 저장매체 관리대장(일반용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지2_휴대용 저장매체 관리대장(일반용).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -353,7 +360,8 @@
             "target_local_path": "별지/별지3_휴대용 저장매체 관리대장(비밀용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지3_휴대용 저장매체 관리대장(비밀용).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -383,7 +391,8 @@
             "target_local_path": "별지/별지4_전산 장비(노트북, 테블릿 PC, 휴대용 저장매체 포함) 반출입 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지4_전산 장비(노트북, 테블릿 PC, 휴대용 저장매체 포함) 반출입 대장.hwp"
           }
         ],
         "images": [],
@@ -472,7 +481,8 @@
             "target_local_path": "별지/별지4_전산 장비(노트북, 테블릿 PC, 휴대용 저장매체 포함) 반출입 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지4_전산 장비(노트북, 테블릿 PC, 휴대용 저장매체 포함) 반출입 대장.hwp"
           }
         ],
         "images": [],
@@ -640,7 +650,8 @@
             "target_local_path": "별지/별지5_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지5_보안서약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -670,7 +681,8 @@
             "target_local_path": "별지/별지6_비밀유지계약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지6_비밀유지계약서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -700,7 +712,8 @@
             "target_local_path": "별지/별지7_보안확약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "사행산업통합감독위원회 정보보안 업무지침/별지/별지7_보안확약서.hwp"
           },
           {
             "relation_type": "citation",
@@ -720,7 +733,8 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0025",
             "reference_id": "law:국가계약법#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가계약법/법률/국가계약법.json"
+            "target_git_path_guess": "국가계약법/법률/국가계약법.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -740,7 +754,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0025",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -760,7 +776,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0025",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -780,7 +798,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0025",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -800,7 +820,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0025",
             "reference_id": "law:개인정보보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -820,7 +842,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0025",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -840,7 +864,9 @@
             "source_provision_id": "admrul:사행산업통합감독위원회정보보안업무지침#JO0025",
             "reference_id": "law:보안업무규정#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",

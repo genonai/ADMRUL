@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0002",
             "reference_id": "law:인지세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인지세법/시행령/인지세법 시행령.json"
+            "target_git_path_guess": "인지세법/시행령/인지세법 시행령.json",
+            "target_git_path": "인지세법/시행령/인지세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0002",
             "reference_id": "law:인지세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인지세법/시행규칙/인지세법 시행규칙.json"
+            "target_git_path_guess": "인지세법/시행규칙/인지세법 시행규칙.json",
+            "target_git_path": "인지세법/시행규칙/인지세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -154,7 +158,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0003",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -174,7 +180,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0003",
             "reference_id": "law:국세기본법#JO0081_13",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -321,7 +329,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0010",
             "reference_id": "law:조세범처벌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json"
+            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -341,7 +351,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0010",
             "reference_id": "law:조세범처벌법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json"
+            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -361,7 +373,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0010",
             "reference_id": "law:조세범처벌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json"
+            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -381,7 +395,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0010",
             "reference_id": "law:조세범처벌법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json"
+            "target_git_path_guess": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -423,7 +439,8 @@
             "target_local_path": "별지/별지4_인지세 현금납부 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지4_인지세 현금납부 신고서.hwp"
           },
           {
             "relation_type": "citation",
@@ -443,7 +460,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0011",
             "reference_id": "law:국세징수법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/시행규칙/국세징수법 시행규칙.json"
+            "target_git_path_guess": "국세징수법/시행규칙/국세징수법 시행규칙.json",
+            "target_git_path": "국세징수법/시행규칙/국세징수법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -466,9 +485,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:인지세사무처리규정#JO0011",
             "target_unit": "BJ0009",
-            "reference_id": "law:국세징수법시행규칙#BJ0009",
+            "reference_id": "law:국세징수법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/시행규칙/국세징수법 시행규칙.json"
+            "target_git_path_guess": "국세징수법/시행규칙/국세징수법 시행규칙.json",
+            "target_git_path": "국세징수법/시행규칙/국세징수법 시행규칙.json",
+            "target_git_file_path": "국세징수법/시행규칙/서식/서식9_체납액 징수 관련 사실행위 위탁 의뢰.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -498,7 +520,8 @@
             "target_local_path": "별지/별지5_인지세 현금납부신고서 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지5_인지세 현금납부신고서 관리대장.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +551,8 @@
             "target_local_path": "별표/별표1_과세문서찾기 기간에 과세문서에 날인하는 현금납부인 견본 양식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별표/별표1_과세문서찾기 기간에 과세문서에 날인하는 현금납부인 견본 양식.hwp"
           }
         ],
         "images": [],
@@ -594,7 +618,8 @@
             "target_local_path": "별표/별표1_과세문서찾기 기간에 과세문서에 날인하는 현금납부인 견본 양식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별표/별표1_과세문서찾기 기간에 과세문서에 날인하는 현금납부인 견본 양식.hwp"
           }
         ],
         "images": [],
@@ -647,7 +672,8 @@
             "target_local_path": "별지/별지1_인지세 조사 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지1_인지세 조사 보고서.hwp"
           }
         ],
         "images": [],
@@ -727,7 +753,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0015",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -747,7 +775,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0015",
             "reference_id": "law:국세기본법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -897,7 +927,8 @@
             "target_local_path": "별지/별지1_인지세 조사 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지1_인지세 조사 보고서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -927,7 +958,8 @@
             "target_local_path": "별지/별지6_인지세 현금납부표시 승인여부 검토조사서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지6_인지세 현금납부표시 승인여부 검토조사서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -957,7 +989,8 @@
             "target_local_path": "별지/별지3_인지세 현금납부표시 신청 승인 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지3_인지세 현금납부표시 신청 승인 관리대장.hwp"
           },
           {
             "relation_type": "citation",
@@ -977,7 +1010,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0017",
             "reference_id": "law:세무사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "세무사법/법률/세무사법.json"
+            "target_git_path_guess": "세무사법/법률/세무사법.json",
+            "target_git_path": "세무사법/법률/세무사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -997,7 +1032,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0017",
             "reference_id": "law:세무사법#JO0014_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "세무사법/법률/세무사법.json"
+            "target_git_path_guess": "세무사법/법률/세무사법.json",
+            "target_git_path": "세무사법/법률/세무사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1112,7 +1149,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0019",
             "reference_id": "law:인지세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인지세법/법률/인지세법.json"
+            "target_git_path_guess": "인지세법/법률/인지세법.json",
+            "target_git_path": "인지세법/법률/인지세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1132,7 +1171,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0019",
             "reference_id": "law:인지세법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "인지세법/법률/인지세법.json"
+            "target_git_path_guess": "인지세법/법률/인지세법.json",
+            "target_git_path": "인지세법/법률/인지세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1211,7 +1252,8 @@
             "target_local_path": "별지/별지7_인지세 현금납부표시 과세문서 인쇄소 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지7_인지세 현금납부표시 과세문서 인쇄소 관리대장.hwp"
           }
         ],
         "images": [],
@@ -1254,7 +1296,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:전자문서및전자거래기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json"
+            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_git_path": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1274,7 +1318,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:전자문서및전자거래기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json"
+            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_git_path": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1294,7 +1340,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:주식사채등의전자등록에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1314,7 +1362,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:주식사채등의전자등록에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1334,7 +1384,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:주식사채등의전자등록에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1354,7 +1406,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:주식사채등의전자등록에관한법률#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1374,7 +1428,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:수입인지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수입인지에 관한 법률/법률/수입인지에 관한 법률.json"
+            "target_git_path_guess": "수입인지에 관한 법률/법률/수입인지에 관한 법률.json",
+            "target_git_path": "수입인지에 관한 법률/법률/수입인지에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1394,7 +1450,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0022",
             "reference_id": "law:수입인지에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "수입인지에 관한 법률/법률/수입인지에 관한 법률.json"
+            "target_git_path_guess": "수입인지에 관한 법률/법률/수입인지에 관한 법률.json",
+            "target_git_path": "수입인지에 관한 법률/법률/수입인지에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1436,7 +1494,8 @@
             "target_local_path": "별표/별표3_현금납부 지정계기에 사용하는 현금납부인 견본 양식.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별표/별표3_현금납부 지정계기에 사용하는 현금납부인 견본 양식.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1608,7 +1667,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0030",
             "reference_id": "law:세무사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "세무사법/법률/세무사법.json"
+            "target_git_path_guess": "세무사법/법률/세무사법.json",
+            "target_git_path": "세무사법/법률/세무사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1628,7 +1689,9 @@
             "source_provision_id": "admrul:인지세사무처리규정#JO0030",
             "reference_id": "law:세무사법#JO0014_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "세무사법/법률/세무사법.json"
+            "target_git_path_guess": "세무사법/법률/세무사법.json",
+            "target_git_path": "세무사법/법률/세무사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1764,7 +1827,8 @@
             "target_local_path": "별지/별지5_인지세 현금납부신고서 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "인지세 사무처리규정/별지/별지5_인지세 현금납부신고서 관리대장.hwp"
           }
         ],
         "images": [],

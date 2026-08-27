@@ -122,7 +122,9 @@
             "source_provision_id": "admrul:울산지방해양수산청선원행정처분심의회규정#JO0006",
             "reference_id": "law:선박직원법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json"
+            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_git_path": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -147,7 +149,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:선박직원법시행규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json"
+            "target_git_path_guess": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_git_path": "선박직원법/시행규칙/선박직원법 시행규칙.json",
+            "target_git_file_path": "선박직원법/시행규칙/별표/별표2_행정처분의 기준(제20조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -211,7 +216,8 @@
             "target_local_path": "서식/서식1_출석요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "울산지방해양수산청 선원행정처분심의회 규정/서식/서식1_출석요구서.hwp"
           }
         ],
         "images": [],
@@ -253,7 +259,8 @@
             "target_local_path": "서식/서식2_행정처분심의결의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "울산지방해양수산청 선원행정처분심의회 규정/서식/서식2_행정처분심의결의서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -283,7 +290,8 @@
             "target_local_path": "서식/서식3_행정처분결과통보서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "울산지방해양수산청 선원행정처분심의회 규정/서식/서식3_행정처분결과통보서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:주소정보전산체계운영규정#JO0001",
             "reference_id": "law:도로명주소법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로명주소법/시행령/도로명주소법 시행령.json"
+            "target_git_path_guess": "도로명주소법/시행령/도로명주소법 시행령.json",
+            "target_git_path": "도로명주소법/시행령/도로명주소법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:주소정보전산체계운영규정#JO0001",
             "reference_id": "law:도로명주소법시행령#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로명주소법/시행령/도로명주소법 시행령.json"
+            "target_git_path_guess": "도로명주소법/시행령/도로명주소법 시행령.json",
+            "target_git_path": "도로명주소법/시행령/도로명주소법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,8 @@
             "target_local_path": "별표/별표1_중앙주소정보관리시스템 프로그램 목록(Web).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표1_중앙주소정보관리시스템 프로그램 목록(Web).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -192,7 +197,8 @@
             "target_local_path": "별표/별표2_주소정보활용지원시스템 프로그램 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표2_주소정보활용지원시스템 프로그램 목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -222,7 +228,8 @@
             "target_local_path": "별표/별표3_주소정보누리집 프로그램 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표3_주소정보누리집 프로그램 목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -252,7 +259,8 @@
             "target_local_path": "별표/별표4_시·도주소정보관리시스템 프로그램 목록(Web).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표4_시·도주소정보관리시스템 프로그램 목록(Web).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -282,7 +290,8 @@
             "target_local_path": "별표/별표5_시·군·구주소정보관리시스템 프로그램 목록(Web).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표5_시·군·구주소정보관리시스템 프로그램 목록(Web).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -312,7 +321,8 @@
             "target_local_path": "별표/별표6_주소정보현장지원시스템 프로그램 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표6_주소정보현장지원시스템 프로그램 목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -342,7 +352,8 @@
             "target_local_path": "별표/별표7_프로그램 명칭 설정 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표7_프로그램 명칭 설정 기준.hwp"
           }
         ],
         "images": [],
@@ -663,7 +674,8 @@
             "target_local_path": "별표/별표8_데이터 코드 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표8_데이터 코드 목록.hwp"
           }
         ],
         "images": [],
@@ -705,7 +717,8 @@
             "target_local_path": "별표/별표9_데이터베이스 명칭 설정 기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "주소정보 전산체계 운영규정/별표/별표9_데이터베이스 명칭 설정 기준.hwp"
           }
         ],
         "images": [],

@@ -159,7 +159,9 @@
             "source_provision_id": "admrul:출국금지정지및입국시통보관련업무처리지침#JO0005",
             "reference_id": "law:검찰보고사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰보고사무규칙/법률/검찰보고사무규칙.json"
+            "target_git_path_guess": "검찰보고사무규칙/법률/검찰보고사무규칙.json",
+            "target_git_path": "검찰보고사무규칙/법률/검찰보고사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +181,9 @@
             "source_provision_id": "admrul:출국금지정지및입국시통보관련업무처리지침#JO0005",
             "reference_id": "law:검찰보고사무규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰보고사무규칙/법률/검찰보고사무규칙.json"
+            "target_git_path_guess": "검찰보고사무규칙/법률/검찰보고사무규칙.json",
+            "target_git_path": "검찰보고사무규칙/법률/검찰보고사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -255,7 +259,9 @@
             "source_provision_id": "admrul:출국금지정지및입국시통보관련업무처리지침#JO0009",
             "reference_id": "law:출입국관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -278,9 +284,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:출국금지정지및입국시통보관련업무처리지침#JO0009",
             "target_unit": "BJ0009",
-            "reference_id": "law:출입국관리법시행규칙#BJ0009",
+            "reference_id": "law:출입국관리법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_file_path": "출입국관리법/시행규칙/서식/서식9_출국금지 요청대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -310,7 +319,8 @@
             "target_local_path": "별지/별지1_입국시 통보요청 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "출국금지·정지 및 입국시통보 관련 업무처리지침/별지/별지1_입국시 통보요청 대장.hwp"
           }
         ],
         "images": [],
@@ -364,7 +374,9 @@
             "source_provision_id": "admrul:출국금지정지및입국시통보관련업무처리지침#JO0012",
             "reference_id": "law:출입국관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

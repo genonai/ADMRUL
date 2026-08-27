@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0001",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0001",
             "reference_id": "law:정보통신기반보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -191,7 +195,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0002",
             "reference_id": "law:전기통신기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -211,7 +217,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0002",
             "reference_id": "law:전기통신기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -231,7 +239,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -251,7 +261,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0002",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -271,7 +283,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -444,7 +458,8 @@
             "target_local_path": "별지/별지1_사이버 안전센터 (일일, 주간, 월간) 관제상황 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 사이버안전센터 운영규정/별지/별지1_사이버 안전센터 (일일, 주간, 월간) 관제상황 보고서.hwp"
           }
         ],
         "images": [],
@@ -519,7 +534,8 @@
             "target_local_path": "별지/별지2_보안관제센터 운영현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 사이버안전센터 운영규정/별지/별지2_보안관제센터 운영현황.hwp"
           }
         ],
         "images": [],
@@ -561,7 +577,8 @@
             "target_local_path": "별지/별지3_사이버공격 정보 이관.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 사이버안전센터 운영규정/별지/별지3_사이버공격 정보 이관.hwp"
           }
         ],
         "images": [],
@@ -708,7 +725,8 @@
             "target_local_path": "별지/별지4_사이버 보안관제 서비스 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 사이버안전센터 운영규정/별지/별지4_사이버 보안관제 서비스 신청서.hwp"
           }
         ],
         "images": [],
@@ -761,7 +779,8 @@
             "target_local_path": "별지/별지5_비상연락망.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 사이버안전센터 운영규정/별지/별지5_비상연락망.hwp"
           }
         ],
         "images": [],
@@ -814,7 +833,8 @@
             "target_local_path": "별지/별지6_보안서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 사이버안전센터 운영규정/별지/별지6_보안서약서.hwp"
           }
         ],
         "images": [],
@@ -867,7 +887,8 @@
             "target_local_path": "별지/별지7_비밀유지 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "소방청 사이버안전센터 운영규정/별지/별지7_비밀유지 서약서.hwp"
           }
         ],
         "images": [],
@@ -910,7 +931,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0026",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -930,7 +953,9 @@
             "source_provision_id": "admrul:소방청사이버안전센터운영규정#JO0026",
             "reference_id": "law:정보통신기반보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

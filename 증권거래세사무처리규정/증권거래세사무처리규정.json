@@ -89,7 +89,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0003",
             "reference_id": "law:법인세법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0003",
             "reference_id": "law:법인세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행규칙/법인세법 시행규칙.json"
+            "target_git_path_guess": "법인세법/시행규칙/법인세법 시행규칙.json",
+            "target_git_path": "법인세법/시행규칙/법인세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +133,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0003",
             "reference_id": "law:법인세법시행규칙#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행규칙/법인세법 시행규칙.json"
+            "target_git_path_guess": "법인세법/시행규칙/법인세법 시행규칙.json",
+            "target_git_path": "법인세법/시행규칙/법인세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -149,7 +155,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0003",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -169,7 +177,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0003",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -201,7 +211,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0004",
             "reference_id": "law:증권거래세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "증권거래세법/법률/증권거래세법.json"
+            "target_git_path_guess": "증권거래세법/법률/증권거래세법.json",
+            "target_git_path": "증권거래세법/법률/증권거래세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -221,7 +233,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0004",
             "reference_id": "law:조세특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json"
+            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json",
+            "target_git_path": "조세특례제한법/법률/조세특례제한법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -463,7 +477,8 @@
             "target_local_path": "별지/별지12_해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지12_해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -493,7 +508,8 @@
             "target_local_path": "별지/별지12의1_권리보호요청제도에 대한 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지12의1_권리보호요청제도에 대한 안내.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -621,7 +637,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0011",
             "reference_id": "law:증권거래세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "증권거래세법/법률/증권거래세법.json"
+            "target_git_path_guess": "증권거래세법/법률/증권거래세법.json",
+            "target_git_path": "증권거래세법/법률/증권거래세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -711,7 +729,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0015",
             "reference_id": "law:상속세및증여세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상속세 및 증여세법/법률/상속세 및 증여세법.json"
+            "target_git_path_guess": "상속세 및 증여세법/법률/상속세 및 증여세법.json",
+            "target_git_path": "상속세 및 증여세법/법률/상속세 및 증여세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -731,7 +751,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0015",
             "reference_id": "law:상속세및증여세법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "상속세 및 증여세법/법률/상속세 및 증여세법.json"
+            "target_git_path_guess": "상속세 및 증여세법/법률/상속세 및 증여세법.json",
+            "target_git_path": "상속세 및 증여세법/법률/상속세 및 증여세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -964,7 +986,8 @@
             "target_local_path": "별지/별지12_해명자료 제출 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지12_해명자료 제출 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -994,7 +1017,8 @@
             "target_local_path": "별지/별지12의1_권리보호요청제도에 대한 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지12의1_권리보호요청제도에 대한 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1024,7 +1048,8 @@
             "target_local_path": "별지/별지13의1_납세자 해명자료.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지13의1_납세자 해명자료.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1054,7 +1079,8 @@
             "target_local_path": "별지/별지13_해명자료 검토결과 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지13_해명자료 검토결과 안내.hwp"
           },
           {
             "relation_type": "citation",
@@ -1108,7 +1134,8 @@
             "target_local_path": "별지/별지13의2_해명자료 검토결과 연장 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지13의2_해명자료 검토결과 연장 통지.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1270,7 +1297,8 @@
             "target_local_path": "별지/별지15_증권거래세 「납부할 세액 없음」 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지15_증권거래세 「납부할 세액 없음」 통지서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1300,7 +1328,8 @@
             "target_local_path": "별지/별지14_증권거래세 부과처분 취소 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지14_증권거래세 부과처분 취소 통지서.hwp"
           }
         ],
         "images": [],
@@ -1459,7 +1488,8 @@
             "target_local_path": "별지/별지16_현장확인 출장증.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지16_현장확인 출장증.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1489,7 +1519,8 @@
             "target_local_path": "별지/별지17_사실관계 확인을 위한 현장확인 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지17_사실관계 확인을 위한 현장확인 안내.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1519,7 +1550,8 @@
             "target_local_path": "별지/별지12의1_권리보호요청제도에 대한 안내.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지12의1_권리보호요청제도에 대한 안내.hwp"
           }
         ],
         "images": [],
@@ -1551,7 +1583,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0025",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1571,7 +1605,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0025",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1591,7 +1627,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0025",
             "reference_id": "law:증권거래세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json"
+            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_git_path": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1611,7 +1649,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0025",
             "reference_id": "law:증권거래세법시행령#JO0001_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json"
+            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_git_path": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1641,7 +1681,8 @@
             "target_local_path": "별지/별지8_증권거래세 일괄납부 거부 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지8_증권거래세 일괄납부 거부 통지.hwp"
           },
           {
             "relation_type": "citation",
@@ -1661,7 +1702,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0025",
             "reference_id": "law:조세범처벌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json"
+            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1691,7 +1734,8 @@
             "target_local_path": "별지/별지5_증권거래세 일괄납부 대상자 통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지5_증권거래세 일괄납부 대상자 통지서.hwp"
           }
         ],
         "images": [],
@@ -1792,7 +1836,8 @@
             "target_local_path": "별지/별지8_증권거래세 일괄납부 거부 통지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지8_증권거래세 일괄납부 거부 통지.hwp"
           }
         ],
         "images": [],
@@ -1835,7 +1880,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0029",
             "reference_id": "law:증권거래세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json"
+            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_git_path": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1855,7 +1902,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0029",
             "reference_id": "law:증권거래세법시행령#JO0001_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json"
+            "target_git_path_guess": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_git_path": "증권거래세법/시행령/증권거래세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1875,7 +1924,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0029",
             "reference_id": "law:증권거래세법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "증권거래세법/법률/증권거래세법.json"
+            "target_git_path_guess": "증권거래세법/법률/증권거래세법.json",
+            "target_git_path": "증권거래세법/법률/증권거래세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1895,7 +1946,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0029",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1915,7 +1968,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0029",
             "reference_id": "law:국세기본법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
+            "target_git_path": "국세기본법/법률/국세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1945,7 +2000,8 @@
             "target_local_path": "별지/별지9_지점(영업소)별 증권거래세 및 납부(환급)명세서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "증권거래세사무처리규정/별지/별지9_지점(영업소)별 증권거래세 및 납부(환급)명세서.hwp"
           },
           {
             "relation_type": "citation",
@@ -1965,7 +2021,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0029",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1985,7 +2043,9 @@
             "source_provision_id": "admrul:증권거래세사무처리규정#JO0029",
             "reference_id": "law:부가가치세법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

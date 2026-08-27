@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0001",
             "reference_id": "law:청원경찰법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0001",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0001",
             "reference_id": "law:청원경찰법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0002",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json"
+            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -171,7 +179,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0003",
             "reference_id": "law:공무원연금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json",
+            "target_git_path": "공무원연금법/법률/공무원연금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -191,7 +201,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0003",
             "reference_id": "law:공무원연금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json",
+            "target_git_path": "공무원연금법/법률/공무원연금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -324,7 +336,8 @@
             "target_local_path": "별지/별지1_청원경찰 징계 의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지1_청원경찰 징계 의결서.hwp"
           }
         ],
         "images": [],
@@ -412,7 +425,8 @@
             "target_local_path": "별지/별지2_청원경찰 징계 의결요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지2_청원경찰 징계 의결요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -442,7 +456,8 @@
             "target_local_path": "별지/별지2_청원경찰 징계 의결요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지2_청원경찰 징계 의결요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -472,7 +487,8 @@
             "target_local_path": "별지/별지3_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지3_확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -502,7 +518,8 @@
             "target_local_path": "별지/별지4_의견서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지4_의견서.hwp"
           }
         ],
         "images": [],
@@ -534,7 +551,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0014",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -554,7 +573,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0014",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -596,7 +617,8 @@
             "target_local_path": "별지/별지5_청원경찰 출석통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지5_청원경찰 출석통지서.hwp"
           }
         ],
         "images": [],
@@ -639,7 +661,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0017",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -659,7 +683,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0017",
             "reference_id": "law:공무원징계령시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -691,7 +717,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -711,7 +739,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:정부표창규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -731,7 +761,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -751,7 +783,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -771,7 +805,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -791,7 +827,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -811,7 +849,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -831,7 +871,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -851,7 +893,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -871,7 +915,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0018",
             "reference_id": "law:도로교통법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -913,7 +959,8 @@
             "target_local_path": "별지/별지6_청원경찰 징계처분 사유설명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지6_청원경찰 징계처분 사유설명서.hwp"
           }
         ],
         "images": [],
@@ -955,7 +1002,8 @@
             "target_local_path": "별지/별지7_재심청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "군산지방해양수산청 청원경찰 징계 예규/별지/별지7_재심청구서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1395,7 +1443,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0021",
             "reference_id": "law:행정심판법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1415,7 +1465,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0021",
             "reference_id": "law:행정소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정소송법/법률/행정소송법.json"
+            "target_git_path_guess": "행정소송법/법률/행정소송법.json",
+            "target_git_path": "행정소송법/법률/행정소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1447,7 +1499,9 @@
             "source_provision_id": "admrul:군산지방해양수산청청원경찰징계예규#JO0022",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

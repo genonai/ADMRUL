@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:에너지관리기준#JO0001",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:에너지관리기준#JO0001",
             "reference_id": "law:에너지이용합리화법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:에너지관리기준#JO0002",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:에너지관리기준#JO0002",
             "reference_id": "law:에너지이용합리화법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -217,7 +225,8 @@
             "target_local_path": "서식/서식1_에너지관리기준 점검표(산업부문).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/서식/서식1_에너지관리기준 점검표(산업부문).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -247,7 +256,8 @@
             "target_local_path": "서식/서식2_에너지관리기준 점검표(건물부문).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/서식/서식2_에너지관리기준 점검표(건물부문).hwp"
           }
         ],
         "images": [],
@@ -344,7 +354,8 @@
             "target_local_path": "별표/별표1_기준 및 목표 공기비(제10조제1항, 제10조제7항, 제40조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표1_기준 및 목표 공기비(제10조제1항, 제10조제7항, 제40조제2항 관련).hwp"
           },
           {
             "relation_type": "citation",
@@ -398,7 +409,8 @@
             "target_local_path": "별표/별표1_기준 및 목표 공기비(제10조제1항, 제10조제7항, 제40조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표1_기준 및 목표 공기비(제10조제1항, 제10조제7항, 제40조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -451,7 +463,8 @@
             "target_local_path": "별표/별표2_그을음과 연료손실관계(제12조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표2_그을음과 연료손실관계(제12조제3항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -481,7 +494,8 @@
             "target_local_path": "별표/별표3_보일러 스케일 두께에 따른 연료손실과 관벽의 온도(제12조제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표3_보일러 스케일 두께에 따른 연료손실과 관벽의 온도(제12조제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -523,7 +537,8 @@
             "target_local_path": "별표/별표8_기준·목표 배가스 온도 및 기준·목표 폐열 회수율(제13조제4항, 제34조제2항, 제43조제8항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표8_기준·목표 배가스 온도 및 기준·목표 폐열 회수율(제13조제4항, 제34조제2항, 제43조제8항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -553,7 +568,8 @@
             "target_local_path": "별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -583,7 +599,8 @@
             "target_local_path": "별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp"
           }
         ],
         "images": [],
@@ -691,7 +708,8 @@
             "target_local_path": "별표/별표4_증기 누설시 누출증기량 (㎏_h)(제20조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표4_증기 누설시 누출증기량 (㎏_h)(제20조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -788,7 +806,8 @@
             "target_local_path": "별표/별표6_각 공장별 표준수요율 및 표준부하율(제26조제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표6_각 공장별 표준수요율 및 표준부하율(제26조제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -818,7 +837,8 @@
             "target_local_path": "별표/별표7_콘덴서 부설용량 기준(제26조제3항, 제56조제5항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표7_콘덴서 부설용량 기준(제26조제3항, 제56조제5항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -848,7 +868,8 @@
             "target_local_path": "별표/별표9_역률을 향상시켜야 할 설비(제26조제4항, 제56조제6항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표9_역률을 향상시켜야 할 설비(제26조제4항, 제56조제6항 관련).hwp"
           }
         ],
         "images": [],
@@ -981,7 +1002,8 @@
             "target_local_path": "별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1011,7 +1033,8 @@
             "target_local_path": "별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표5_기준 및 목표 로벽 외면온도(제10조제7항, 제13조제12항, 제33조제9항 관련).hwp"
           }
         ],
         "images": [],
@@ -1053,7 +1076,8 @@
             "target_local_path": "별표/별표8_기준·목표 배가스 온도 및 기준·목표 폐열 회수율(제13조제4항, 제34조제2항, 제43조제8항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표8_기준·목표 배가스 온도 및 기준·목표 폐열 회수율(제13조제4항, 제34조제2항, 제43조제8항 관련).hwp"
           }
         ],
         "images": [],
@@ -1175,7 +1199,8 @@
             "target_local_path": "별표/별표1_기준 및 목표 공기비(제10조제1항, 제10조제7항, 제40조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표1_기준 및 목표 공기비(제10조제1항, 제10조제7항, 제40조제2항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1288,7 +1313,8 @@
             "target_local_path": "별표/별표8_기준·목표 배가스 온도 및 기준·목표 폐열 회수율(제13조제4항, 제34조제2항, 제43조제8항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "에너지관리기준/별표/별표8_기준·목표 배가스 온도 및 기준·목표 폐열 회수율(제13조제4항, 제34조제2항, 제43조제8항 관련).hwp"
           }
         ],
         "images": [],

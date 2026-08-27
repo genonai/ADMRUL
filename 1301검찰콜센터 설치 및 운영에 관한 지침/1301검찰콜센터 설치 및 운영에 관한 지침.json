@@ -298,7 +298,9 @@
             "source_provision_id": "admrul:1301검찰콜센터설치및운영에관한지침#JO0022",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -340,7 +342,8 @@
             "target_local_path": "별지/별지1_출입자 기록부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "1301검찰콜센터 설치 및 운영에 관한 지침/별지/별지1_출입자 기록부.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립망향의동산관리원운영규정#JO0001",
             "reference_id": "law:보건복지부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립망향의동산관리원운영규정#JO0001",
             "reference_id": "law:보건복지부와그소속기관직제#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/법률/보건복지부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:국립망향의동산관리원운영규정#JO0002",
             "reference_id": "law:장사등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json"
+            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_git_path": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:국립망향의동산관리원운영규정#JO0002",
             "reference_id": "law:장사등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json"
+            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_git_path": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -240,7 +248,8 @@
             "target_local_path": "별지/별지1_해외동포용 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1_해외동포용 안장 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -270,7 +279,8 @@
             "target_local_path": "별지/별지1의2_징용 등 귀국자용(유골봉환사업 포함) 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1의2_징용 등 귀국자용(유골봉환사업 포함) 안장 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -300,7 +310,8 @@
             "target_local_path": "별지/별지1의3_보건복지부장관 인정자용 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1의3_보건복지부장관 인정자용 안장 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -330,7 +341,8 @@
             "target_local_path": "별지/별지1의4_안장자의 배우자용 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1의4_안장자의 배우자용 안장 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -456,7 +468,8 @@
             "target_local_path": "별지/별지1_해외동포용 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1_해외동포용 안장 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -606,7 +619,8 @@
             "target_local_path": "별지/별지1의2_징용 등 귀국자용(유골봉환사업 포함) 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1의2_징용 등 귀국자용(유골봉환사업 포함) 안장 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -684,7 +698,8 @@
             "target_local_path": "별지/별지1의3_보건복지부장관 인정자용 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1의3_보건복지부장관 인정자용 안장 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -762,7 +777,8 @@
             "target_local_path": "별지/별지1의4_안장자의 배우자용 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1의4_안장자의 배우자용 안장 신청서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -876,7 +892,8 @@
             "target_local_path": "별지/별지2_묘적부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지2_묘적부.hwp"
           }
         ],
         "images": [],
@@ -978,7 +995,8 @@
             "target_local_path": "별지/별지3_안장 등 취소 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지3_안장 등 취소 신청서.hwp"
           }
         ],
         "images": [],
@@ -1092,7 +1110,8 @@
             "target_local_path": "별지/별지4_안장 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지4_안장 확인서.hwp"
           }
         ],
         "images": [],
@@ -1134,7 +1153,8 @@
             "target_local_path": "별지/별지5_이장(외부로 이장, 묘역으로 이장) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지5_이장(외부로 이장, 묘역으로 이장) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1164,7 +1184,8 @@
             "target_local_path": "별지/별지6_유골 등 인수확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지6_유골 등 인수확인서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1194,7 +1215,8 @@
             "target_local_path": "별지/별지7_이장 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지7_이장 확인서.hwp"
           }
         ],
         "images": [],
@@ -1284,7 +1306,8 @@
             "target_local_path": "별지/별지5_이장(외부로 이장, 묘역으로 이장) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지5_이장(외부로 이장, 묘역으로 이장) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1314,7 +1337,8 @@
             "target_local_path": "별지/별지7_이장 확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지7_이장 확인서.hwp"
           }
         ],
         "images": [],
@@ -1378,7 +1402,8 @@
             "target_local_path": "별지/별지1_해외동포용 안장 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지1_해외동포용 안장 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1408,7 +1433,8 @@
             "target_local_path": "별지/별지3_안장 등 취소 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지3_안장 등 취소 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1438,7 +1464,8 @@
             "target_local_path": "별지/별지5_이장(외부로 이장, 묘역으로 이장) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지5_이장(외부로 이장, 묘역으로 이장) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1468,7 +1495,8 @@
             "target_local_path": "별지/별지6_유골 등 인수확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지6_유골 등 인수확인서.hwp"
           }
         ],
         "images": [],
@@ -1510,7 +1538,8 @@
             "target_local_path": "별지/별지8_안장 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립망향의동산관리원 운영규정/별지/별지8_안장 현황.hwp"
           }
         ],
         "images": [],
@@ -1684,7 +1713,9 @@
             "source_provision_id": "admrul:국립망향의동산관리원운영규정#JO0019",
             "reference_id": "law:장사등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json"
+            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_git_path": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1704,7 +1735,9 @@
             "source_provision_id": "admrul:국립망향의동산관리원운영규정#JO0019",
             "reference_id": "law:장사등에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json"
+            "target_git_path_guess": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_git_path": "장사 등에 관한 법률/법률/장사 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1951,7 +1984,9 @@
             "source_provision_id": "admrul:국립망향의동산관리원운영규정#JO0024",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

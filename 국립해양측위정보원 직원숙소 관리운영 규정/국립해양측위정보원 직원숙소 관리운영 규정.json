@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:국립해양측위정보원직원숙소관리운영규정#JO0002",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -108,7 +110,8 @@
             "target_local_path": "별표/별표1_국립해양측위정보원 직원숙소 현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립해양측위정보원 직원숙소 관리운영 규정/별표/별표1_국립해양측위정보원 직원숙소 현황.hwp"
           }
         ],
         "images": [],
@@ -194,7 +197,8 @@
             "target_local_path": "별지/별지1_직원숙소 입주 및 퇴거 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립해양측위정보원 직원숙소 관리운영 규정/별지/별지1_직원숙소 입주 및 퇴거 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -224,7 +228,8 @@
             "target_local_path": "별지/별지2_서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립해양측위정보원 직원숙소 관리운영 규정/별지/별지2_서약서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -312,7 +317,8 @@
             "target_local_path": "별지/별지1_직원숙소 입주 및 퇴거 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립해양측위정보원 직원숙소 관리운영 규정/별지/별지1_직원숙소 입주 및 퇴거 신청서.hwp"
           }
         ],
         "images": [],
@@ -365,7 +371,8 @@
             "target_local_path": "별지/별지3_비품 및 시설물 인계인수서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국립해양측위정보원 직원숙소 관리운영 규정/별지/별지3_비품 및 시설물 인계인수서.hwp"
           }
         ],
         "images": [],

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국세청기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국세청기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국세청기록관운영규정#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:국세청기록관운영규정#JO0002",
             "reference_id": "law:국세청과그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세청과 그 소속기관 직제/시행규칙/국세청과 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "국세청과 그 소속기관 직제/시행규칙/국세청과 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "국세청과 그 소속기관 직제/시행규칙/국세청과 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -247,7 +255,8 @@
             "target_local_path": "별지/별지1_생산ㆍ접수등록번호의 표시방법(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지1_생산ㆍ접수등록번호의 표시방법(제9조 관련).hwp"
           }
         ],
         "images": [],
@@ -300,7 +309,8 @@
             "target_local_path": "별지/별지2_기록물 이관 목록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지2_기록물 이관 목록.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -330,7 +340,8 @@
             "target_local_path": "별지/별지3_기록물이관시기 연장신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지3_기록물이관시기 연장신청서.hwp"
           }
         ],
         "images": [],
@@ -416,7 +427,8 @@
             "target_local_path": "별지/별지4_처리과 의견조회결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지4_처리과 의견조회결과서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -446,7 +458,8 @@
             "target_local_path": "별지/별지5_기록물평가심사결과서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지5_기록물평가심사결과서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -476,7 +489,8 @@
             "target_local_path": "별지/별지6_기록물평가심의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지6_기록물평가심의서.hwp"
           }
         ],
         "images": [],
@@ -586,7 +600,8 @@
             "target_local_path": "별지/별지6_기록물평가심의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지6_기록물평가심의서.hwp"
           }
         ],
         "images": [],
@@ -628,7 +643,8 @@
             "target_local_path": "별지/별지7_기록물평가심의회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지7_기록물평가심의회 회의록.hwp"
           }
         ],
         "images": [],
@@ -703,7 +719,8 @@
             "target_local_path": "별지/별지9_기록물 대출 및 반납대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지9_기록물 대출 및 반납대장.hwp"
           }
         ],
         "images": [],
@@ -778,7 +795,8 @@
             "target_local_path": "별지/별지9_기록물 대출 및 반납대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지9_기록물 대출 및 반납대장.hwp"
           }
         ],
         "images": [],
@@ -820,7 +838,8 @@
             "target_local_path": "별지/별지8_문서고 출입대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국세청 기록관 운영규정/별지/별지8_문서고 출입대장.hwp"
           }
         ],
         "images": [],

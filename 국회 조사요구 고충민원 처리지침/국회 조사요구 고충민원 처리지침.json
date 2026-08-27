@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국회조사요구고충민원처리지침#JO0001",
             "reference_id": "law:국회법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회법/법률/국회법.json"
+            "target_git_path_guess": "국회법/법률/국회법.json",
+            "target_git_path": "국회법/법률/국회법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국회조사요구고충민원처리지침#JO0001",
             "reference_id": "law:국회법#JO0127_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회법/법률/국회법.json"
+            "target_git_path_guess": "국회법/법률/국회법.json",
+            "target_git_path": "국회법/법률/국회법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -176,7 +180,8 @@
             "target_local_path": "별지/별지1_국회 조사요구 고충민원 조사·처리기간 연장요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국회 조사요구 고충민원 처리지침/별지/별지1_국회 조사요구 고충민원 조사·처리기간 연장요청서.hwp"
           }
         ],
         "images": [],
@@ -218,7 +223,8 @@
             "target_local_path": "별지/별지2_국회 조사요구 고충민원 조사·처리 결과 제출문.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "국회 조사요구 고충민원 처리지침/별지/별지2_국회 조사요구 고충민원 조사·처리 결과 제출문.hwp"
           }
         ],
         "images": [],

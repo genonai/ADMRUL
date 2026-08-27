@@ -76,9 +76,13 @@
             "target_url": "https://www.law.go.kr/법령/공용차량 관리 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:검찰수사차량운영규정#JO0002",
-            "reference_id": "law:공용차량관리규정#DOC",
+            "reference_id": "SchlPubRul:공용차량관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공용차량 관리 규정/법률/공용차량 관리 규정.json"
+            "target_git_path_guess": "공용차량 관리 규정/법률/공용차량 관리 규정.json",
+            "target_git_path": "공용차량 관리규정/공용차량 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -110,7 +114,9 @@
             "source_provision_id": "admrul:검찰수사차량운영규정#JO0003",
             "reference_id": "law:대검찰청검사급이상검사의보직범위에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정/법률/대검찰청 검사급 이상 검사의 보직범위에 관한 규정.json"
+            "target_git_path_guess": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정/법률/대검찰청 검사급 이상 검사의 보직범위에 관한 규정.json",
+            "target_git_path": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정/법률/대검찰청 검사급 이상 검사의 보직범위에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -130,7 +136,9 @@
             "source_provision_id": "admrul:검찰수사차량운영규정#JO0003",
             "reference_id": "law:대검찰청검사급이상검사의보직범위에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정/법률/대검찰청 검사급 이상 검사의 보직범위에 관한 규정.json"
+            "target_git_path_guess": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정/법률/대검찰청 검사급 이상 검사의 보직범위에 관한 규정.json",
+            "target_git_path": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정/법률/대검찰청 검사급 이상 검사의 보직범위에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

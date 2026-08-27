@@ -60,7 +60,9 @@
         "source_provision_id": "admrul:산지전용등에따른경관영향검토및운영지침#DOC",
         "reference_id": "law:산지관리법시행령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json"
+        "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json",
+        "target_git_path": "산지관리법/시행령/산지관리법 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -80,7 +82,9 @@
         "source_provision_id": "admrul:산지전용등에따른경관영향검토및운영지침#DOC",
         "reference_id": "law:산지관리법시행령#JO0020",
         "target_repo": "LAW",
-        "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json"
+        "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json",
+        "target_git_path": "산지관리법/시행령/산지관리법 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -105,7 +109,10 @@
         "target_unit": "BYL0004",
         "reference_id": "law:산지관리법시행령#BYL0004",
         "target_repo": "LAW",
-        "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json"
+        "target_git_path_guess": "산지관리법/시행령/산지관리법 시행령.json",
+        "target_git_path": "산지관리법/시행령/산지관리법 시행령.json",
+        "target_git_file_path": "산지관리법/시행령/별표/별표4_산지전용허가기준의 적용범위와 사업별·규모별 세부기준(제20조제6항 관련).hwp",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "appendix_ref",
@@ -135,7 +142,8 @@
         "target_local_path": "별표/별표1의2_누적 가시지역분석 방법 및 절차.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "산지전용 등에 따른 경관영향 검토 및 운영 지침/별표/별표1의2_누적 가시지역분석 방법 및 절차.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -165,7 +173,8 @@
         "target_local_path": "별표/별표2_산지경관 영향 검토를 위한 체크리스트.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "산지전용 등에 따른 경관영향 검토 및 운영 지침/별표/별표2_산지경관 영향 검토를 위한 체크리스트.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -195,7 +204,8 @@
         "target_local_path": "별표/별표3_산지경관 영향 검토를 위한 체크 사항 예시.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "산지전용 등에 따른 경관영향 검토 및 운영 지침/별표/별표3_산지경관 영향 검토를 위한 체크 사항 예시.hwp"
       },
       {
         "relation_type": "appendix_ref",
@@ -225,7 +235,8 @@
         "target_local_path": "별표/별표4_산지경관 영향 검토 개요서.hwp",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_git_file_path": "산지전용 등에 따른 경관영향 검토 및 운영 지침/별표/별표4_산지경관 영향 검토 개요서.hwp"
       }
     ]
   },

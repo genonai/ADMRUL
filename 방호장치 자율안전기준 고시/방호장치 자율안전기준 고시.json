@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방호장치자율안전기준고시#JO0001",
             "reference_id": "law:산업안전보건법#JO0089",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:방호장치자율안전기준고시#JO0001",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:방호장치자율안전기준고시#JO0001",
             "reference_id": "law:산업안전보건법시행령#JO0077",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:방호장치자율안전기준고시#JO0002",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:방호장치자율안전기준고시#JO0002",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:방호장치자율안전기준고시#JO0002",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -221,7 +233,8 @@
             "target_local_path": "별표/별표1_역화방지기의 성능기준(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표1_역화방지기의 성능기준(제3조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -251,7 +264,8 @@
             "target_local_path": "별표/별표1의2_역화방지기의 시험방법(제3조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표1의2_역화방지기의 시험방법(제3조 관련).hwp"
           }
         ],
         "images": [],
@@ -304,7 +318,8 @@
             "target_local_path": "별표/별표2_전격방지기의 성능기준(제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표2_전격방지기의 성능기준(제5조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -334,7 +349,8 @@
             "target_local_path": "별표/별표2의2_전격방지기의 시험방법(제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표2의2_전격방지기의 시험방법(제5조 관련).hwp"
           }
         ],
         "images": [],
@@ -387,7 +403,8 @@
             "target_local_path": "별표/별표3_롤러기 급정지장치의 성능기준(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표3_롤러기 급정지장치의 성능기준(제7조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -417,7 +434,8 @@
             "target_local_path": "별표/별표3의2_롤러기 급정지장치의 시험방법(제7조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표3의2_롤러기 급정지장치의 시험방법(제7조 관련).hwp"
           }
         ],
         "images": [],
@@ -470,7 +488,8 @@
             "target_local_path": "별표/별표4_연삭기 덮개의 성능기준(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표4_연삭기 덮개의 성능기준(제9조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -500,7 +519,8 @@
             "target_local_path": "별표/별표4의2_연삭기 덮개의 시험방법(제9조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표4의2_연삭기 덮개의 시험방법(제9조 관련).hwp"
           }
         ],
         "images": [],
@@ -553,7 +573,8 @@
             "target_local_path": "별표/별표5_목재가공용 덮개 및 분할날 성능기준(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표5_목재가공용 덮개 및 분할날 성능기준(제11조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -583,7 +604,8 @@
             "target_local_path": "별표/별표5의2_목재가공용 덮개 및 분할날 시험방법(제11조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표5의2_목재가공용 덮개 및 분할날 시험방법(제11조 관련).hwp"
           }
         ],
         "images": [],
@@ -636,7 +658,8 @@
             "target_local_path": "별표/별표6_대패기계용 덮개의 성능기준(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표6_대패기계용 덮개의 성능기준(제13조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -666,7 +689,8 @@
             "target_local_path": "별표/별표6의2_대패기계용 덮개의 시험방법(제13조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표6의2_대패기계용 덮개의 시험방법(제13조 관련).hwp"
           }
         ],
         "images": [],
@@ -719,7 +743,8 @@
             "target_local_path": "별표/별표7_가설기자재(자율안전확인)의 성능기준(제14조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표7_가설기자재(자율안전확인)의 성능기준(제14조의2 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -749,7 +774,8 @@
             "target_local_path": "별표/별표7의2_가설기자재(자율안전확인)의 시험방법(제14조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "방호장치 자율안전기준 고시/별표/별표7의2_가설기자재(자율안전확인)의 시험방법(제14조의2 관련).hwp"
           }
         ],
         "images": [],
@@ -781,7 +807,9 @@
             "source_provision_id": "admrul:방호장치자율안전기준고시#JO0015",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -806,7 +834,10 @@
             "target_unit": "BYL0014",
             "reference_id": "law:산업안전보건법시행규칙#BYL0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_file_path": "산업안전보건법/시행규칙/별표/별표14_안전인증 및 자율안전확인의 표시 및 표시방법(제114조제1항 및 제121조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

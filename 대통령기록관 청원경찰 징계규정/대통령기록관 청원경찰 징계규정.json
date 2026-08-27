@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0001",
             "reference_id": "law:청원경찰법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0001",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0001",
             "reference_id": "law:청원경찰법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0003",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +214,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0004",
             "reference_id": "law:청원경찰법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -226,7 +236,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0004",
             "reference_id": "law:청원경찰법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json"
+            "target_git_path_guess": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_git_path": "청원경찰법/시행령/청원경찰법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -269,7 +281,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0006",
             "reference_id": "law:청원경찰법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json"
+            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_path": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -289,7 +303,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0006",
             "reference_id": "law:청원경찰법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json"
+            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_path": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -353,7 +369,8 @@
             "target_local_path": "별지/별지1_청원경찰 징계의결 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지1_청원경찰 징계의결 요구서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -383,7 +400,8 @@
             "target_local_path": "별지/별지2_확인서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지2_확인서.hwp"
           }
         ],
         "images": [],
@@ -425,7 +443,8 @@
             "target_local_path": "별표/별표2_청원경찰 징계기준(안).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별표/별표2_청원경찰 징계기준(안).hwp"
           }
         ],
         "images": [],
@@ -478,7 +497,8 @@
             "target_local_path": "별지/별지3_출석통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지3_출석통지서.hwp"
           }
         ],
         "images": [],
@@ -521,7 +541,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0014",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json"
+            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -551,7 +573,8 @@
             "target_local_path": "별표/별표2_청원경찰 징계기준(안).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별표/별표2_청원경찰 징계기준(안).hwp"
           }
         ],
         "images": [],
@@ -593,7 +616,8 @@
             "target_local_path": "별지/별지5_징계의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지5_징계의결서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -707,7 +731,8 @@
             "target_local_path": "별지/별지5_징계의결서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지5_징계의결서.hwp"
           }
         ],
         "images": [],
@@ -785,7 +810,8 @@
             "target_local_path": "별표/별표1_징계의 감경기준.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별표/별표1_징계의 감경기준.hwp"
           }
         ],
         "images": [],
@@ -817,7 +843,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0019",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -837,7 +865,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0019",
             "reference_id": "law:공무원임용령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -857,7 +887,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0019",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -877,7 +909,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0019",
             "reference_id": "law:공무원임용령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -930,7 +964,8 @@
             "target_local_path": "별지/별지6_징계처분 사유설명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지6_징계처분 사유설명서.hwp"
           }
         ],
         "images": [],
@@ -972,7 +1007,8 @@
             "target_local_path": "별지/별지7_징계처리 대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지7_징계처리 대장.hwp"
           }
         ],
         "images": [],
@@ -1025,7 +1061,8 @@
             "target_local_path": "별지/별지8_징계처분 재심청구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "대통령기록관 청원경찰 징계규정/별지/별지8_징계처분 재심청구서.hwp"
           }
         ],
         "images": [],
@@ -1057,7 +1094,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0025",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1077,7 +1116,9 @@
             "source_provision_id": "admrul:대통령기록관청원경찰징계규정#JO0025",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/시행규칙/공무원징계령 시행규칙.json"
+            "target_git_path_guess": "공무원징계령/시행규칙/공무원징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

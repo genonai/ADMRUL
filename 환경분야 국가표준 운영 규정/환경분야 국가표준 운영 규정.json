@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:환경분야국가표준운영규정#JO0001",
             "reference_id": "law:산업표준화법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:환경분야국가표준운영규정#JO0001",
             "reference_id": "law:산업표준화법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/시행령/산업표준화법 시행령.json"
+            "target_git_path_guess": "산업표준화법/시행령/산업표준화법 시행령.json",
+            "target_git_path": "산업표준화법/시행령/산업표준화법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:환경분야국가표준운영규정#JO0001",
             "reference_id": "law:산업표준화법시행령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/시행령/산업표준화법 시행령.json"
+            "target_git_path_guess": "산업표준화법/시행령/산업표준화법 시행령.json",
+            "target_git_path": "산업표준화법/시행령/산업표준화법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -171,7 +177,8 @@
             "target_local_path": "별표/별표1_환경표준심의회 조직(제4조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표1_환경표준심의회 조직(제4조 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -201,7 +208,8 @@
             "target_local_path": "별표/별표2_환경표준심의회 위임전결사항(제4조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표2_환경표준심의회 위임전결사항(제4조제2항 관련).hwp"
           }
         ],
         "images": [],
@@ -302,7 +310,8 @@
             "target_local_path": "별지/별지1_기술심의회 운영계획.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지1_기술심의회 운영계획.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -332,7 +341,8 @@
             "target_local_path": "별표/별표1_환경표준심의회 조직(제4조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표1_환경표준심의회 조직(제4조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -661,7 +671,8 @@
             "target_local_path": "별지/별지2_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지2_위촉장.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -738,7 +749,8 @@
             "target_local_path": "별지/별지3_기술심의회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지3_기술심의회 회의록.hwp"
           }
         ],
         "images": [],
@@ -852,7 +864,8 @@
             "target_local_path": "별지/별지4_KS안 심의의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지4_KS안 심의의뢰서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -882,7 +895,8 @@
             "target_local_path": "별지/별지5_KS안 검토표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지5_KS안 검토표.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -936,7 +950,8 @@
             "target_local_path": "별지/별지6_기술심의회 활동 실적.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지6_기술심의회 활동 실적.hwp"
           }
         ],
         "images": [],
@@ -1073,7 +1088,8 @@
             "target_local_path": "별지/별지8_위촉장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지8_위촉장.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1163,7 +1179,8 @@
             "target_local_path": "별지/별지3_기술심의회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지3_기술심의회 회의록.hwp"
           }
         ],
         "images": [],
@@ -1253,7 +1270,8 @@
             "target_local_path": "별지/별지9_KS안 타당성 조사표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지9_KS안 타당성 조사표.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1283,7 +1301,8 @@
             "target_local_path": "별지/별지10_전문위원회 활동 실적.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지10_전문위원회 활동 실적.hwp"
           }
         ],
         "images": [],
@@ -1516,7 +1535,8 @@
             "target_local_path": "별지/별지11_회의소집.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지11_회의소집.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -1546,7 +1566,8 @@
             "target_local_path": "별지/별지3_기술심의회 회의록.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지3_기술심의회 회의록.hwp"
           }
         ],
         "images": [],
@@ -1588,7 +1609,8 @@
             "target_local_path": "별표/별표1_환경표준심의회 조직(제4조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표1_환경표준심의회 조직(제4조 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -1642,7 +1664,8 @@
             "target_local_path": "별지/별지12_간사기관지정서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지12_간사기관지정서.hwp"
           }
         ],
         "images": [],
@@ -1804,7 +1827,8 @@
             "target_local_path": "별표/별표3_국제표준(영문) 검토에 대한 수당 지급 기준(제22조 제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표3_국제표준(영문) 검토에 대한 수당 지급 기준(제22조 제2항 관련).hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2230,7 +2254,8 @@
             "target_local_path": "별표/별표4_KS 제정, 개정, 확인 및 폐지 절차(제23조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표4_KS 제정, 개정, 확인 및 폐지 절차(제23조 관련).hwp"
           }
         ],
         "images": [],
@@ -2320,7 +2345,8 @@
             "target_local_path": "별지/별지13_표준(제정,개정,확인,폐지)안 검토내역서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지13_표준(제정,개정,확인,폐지)안 검토내역서.hwp"
           }
         ],
         "images": [],
@@ -2362,7 +2388,8 @@
             "target_local_path": "별지/별지14_산업표준 제정(개정ㆍ폐지) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지14_산업표준 제정(개정ㆍ폐지) 신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2392,7 +2419,8 @@
             "target_local_path": "별지/별지14_산업표준 제정(개정ㆍ폐지) 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지14_산업표준 제정(개정ㆍ폐지) 신청서.hwp"
           }
         ],
         "images": [],
@@ -2456,7 +2484,8 @@
             "target_local_path": "별지/별지15_심의의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지15_심의의뢰서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -2486,7 +2515,8 @@
             "target_local_path": "별지/별지16_조사·심의 의뢰서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지16_조사·심의 의뢰서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2564,7 +2594,8 @@
             "target_local_path": "별지/별지17_심의(검토)완료통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지17_심의(검토)완료통지서.hwp"
           },
           {
             "relation_type": "internal_ref",
@@ -2618,7 +2649,8 @@
             "target_local_path": "별지/별지17_심의(검토)완료통지서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지17_심의(검토)완료통지서.hwp"
           }
         ],
         "images": [],
@@ -2947,7 +2979,8 @@
             "target_local_path": "별표/별표5_KS 분류 체계 (부문과 부문기호) (제31조관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표5_KS 분류 체계 (부문과 부문기호) (제31조관련).hwp"
           }
         ],
         "images": [],
@@ -2989,7 +3022,8 @@
             "target_local_path": "별표/별표6_KS 번호 부여 및 연도 표기(제32조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표6_KS 번호 부여 및 연도 표기(제32조 제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -3019,7 +3053,8 @@
             "target_local_path": "별표/별표5_KS 분류 체계 (부문과 부문기호) (제31조관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별표/별표5_KS 분류 체계 (부문과 부문기호) (제31조관련).hwp"
           }
         ],
         "images": [],
@@ -3121,7 +3156,8 @@
             "target_local_path": "별지/별지18_국제표준화 회의 참가 결과 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "환경분야 국가표준 운영 규정/별지/별지18_국제표준화 회의 참가 결과 보고서.hwp"
           }
         ],
         "images": [],

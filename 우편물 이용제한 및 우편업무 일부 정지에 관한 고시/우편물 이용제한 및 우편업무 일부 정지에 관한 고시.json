@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:우편물이용제한및우편업무일부정지에관한고시#JO0001",
             "reference_id": "law:우편법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/시행령/우편법 시행령.json"
+            "target_git_path_guess": "우편법/시행령/우편법 시행령.json",
+            "target_git_path": "우편법/시행령/우편법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:우편물이용제한및우편업무일부정지에관한고시#JO0001",
             "reference_id": "law:우편법시행령#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/시행령/우편법 시행령.json"
+            "target_git_path_guess": "우편법/시행령/우편법 시행령.json",
+            "target_git_path": "우편법/시행령/우편법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:우편물이용제한및우편업무일부정지에관한고시#JO0002",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:우편물이용제한및우편업무일부정지에관한고시#JO0002",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:우편물이용제한및우편업무일부정지에관한고시#JO0002",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:우편물이용제한및우편업무일부정지에관한고시#JO0002",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병예방법/법률/가축전염병예방법.json"
+            "target_git_path_guess": "가축전염병예방법/법률/가축전염병예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:우편물이용제한및우편업무일부정지에관한고시#JO0002",
             "reference_id": "law:미세먼지저감및관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/법률/미세먼지 저감 및 관리에 관한 특별법.json"
+            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/법률/미세먼지 저감 및 관리에 관한 특별법.json",
+            "target_git_path": "미세먼지 저감 및 관리에 관한 특별법/법률/미세먼지 저감 및 관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -241,7 +255,8 @@
             "target_local_path": "별표/별표1_위험급지 지정 비율(제3조 제3항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우편물 이용제한 및 우편업무 일부 정지에 관한 고시/별표/별표1_위험급지 지정 비율(제3조 제3항 관련).hwp"
           }
         ],
         "images": [],
@@ -294,7 +309,8 @@
             "target_local_path": "별표/별표2_위험급지 및 위험단계별 집배업무 정지·해제 기준(제5조 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우편물 이용제한 및 우편업무 일부 정지에 관한 고시/별표/별표2_위험급지 및 위험단계별 집배업무 정지·해제 기준(제5조 제1항 관련).hwp"
           }
         ],
         "images": [],
@@ -360,7 +376,8 @@
             "target_local_path": "별표/별표3_체감온도 단계별 온열질환 예방 대책(제5조의2 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우편물 이용제한 및 우편업무 일부 정지에 관한 고시/별표/별표3_체감온도 단계별 온열질환 예방 대책(제5조의2 제1항 관련).hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -390,7 +407,8 @@
             "target_local_path": "별표/별표4_온열질환 자각증상 단계별 온열질환 예방 대책(제5조의2 제1항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "우편물 이용제한 및 우편업무 일부 정지에 관한 고시/별표/별표4_온열질환 자각증상 단계별 온열질환 예방 대책(제5조의2 제1항 관련).hwp"
           }
         ],
         "images": [],

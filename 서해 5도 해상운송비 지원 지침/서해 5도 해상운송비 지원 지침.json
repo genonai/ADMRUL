@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:서해5도해상운송비지원지침#JO0001",
             "reference_id": "law:서해5도지원특별법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "서해 5도 지원 특별법/법률/서해 5도 지원 특별법.json"
+            "target_git_path_guess": "서해 5도 지원 특별법/법률/서해 5도 지원 특별법.json",
+            "target_git_path": "서해 5도 지원 특별법/법률/서해 5도 지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:서해5도해상운송비지원지침#JO0001",
             "reference_id": "law:서해5도지원특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "서해 5도 지원 특별법/시행령/서해 5도 지원 특별법 시행령.json"
+            "target_git_path_guess": "서해 5도 지원 특별법/시행령/서해 5도 지원 특별법 시행령.json",
+            "target_git_path": "서해 5도 지원 특별법/시행령/서해 5도 지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:서해5도해상운송비지원지침#JO0001",
             "reference_id": "law:서해5도지원특별법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "서해 5도 지원 특별법/시행령/서해 5도 지원 특별법 시행령.json"
+            "target_git_path_guess": "서해 5도 지원 특별법/시행령/서해 5도 지원 특별법 시행령.json",
+            "target_git_path": "서해 5도 지원 특별법/시행령/서해 5도 지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -207,7 +213,8 @@
             "target_local_path": "별지/별지1_해상운송사업계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "서해 5도 해상운송비 지원 지침/별지/별지1_해상운송사업계획서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -237,7 +244,8 @@
             "target_local_path": "별지/별지2_해상운송비 교부신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "서해 5도 해상운송비 지원 지침/별지/별지2_해상운송비 교부신청서.hwp"
           },
           {
             "relation_type": "appendix_ref",
@@ -267,7 +275,8 @@
             "target_local_path": "별지/별지3_해상운송비 교부결정(통지)서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_git_file_path": "서해 5도 해상운송비 지원 지침/별지/별지3_해상운송비 교부결정(통지)서.hwp"
           }
         ],
         "images": [],
