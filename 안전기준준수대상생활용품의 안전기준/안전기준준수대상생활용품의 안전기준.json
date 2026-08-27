@@ -1933,8 +1933,10 @@
   "addendum_provision_id": "admrul:안전기준준수대상생활용품의안전기준#ADDENDUM",
   "amendment_provision_id": "admrul:안전기준준수대상생활용품의안전기준#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260827"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "안전기준준수대상생활용품의 안전기준/안전기준준수대상생활용품의 안전기준.json"
 }
