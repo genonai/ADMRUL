@@ -1,16 +1,16 @@
 {
   "law_id": "34090",
-  "mst": "2100000279046",
+  "mst": "2100000284260",
   "law_name": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34090",
-  "promulgation_no": "2026-18",
-  "promulgation_date": "20260511",
-  "enforcement_date": "20260511",
-  "revision_date": "20260511",
+  "promulgation_no": "2026-26",
+  "promulgation_date": "20260831",
+  "enforcement_date": "20260831",
+  "revision_date": "20260831",
   "revision_type": "폐지제정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "정이준",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시",
-    "발령일자": "20260511",
+    "발령일자": "20260831",
     "행정규칙종류": "고시",
     "제개정구분코드": "200407",
     "조문형식여부": "Y",
@@ -27,26 +27,192 @@
     "전화번호": "044-215-3219",
     "제개정구분명": "폐지제정",
     "소관부처코드": "1210000",
-    "생성일자": "20260515",
+    "생성일자": "20260831",
     "행정규칙ID": "34090",
-    "시행일자": "20260511",
+    "시행일자": "20260831",
     "담당부서기관코드": "1212024",
-    "발령번호": "2026-18",
-    "행정규칙일련번호": "2100000279046",
+    "발령번호": "2026-26",
+    "행정규칙일련번호": "2100000284260",
     "상위부처명": "국세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n전자(세금)계산서 발행용 인증서 범위 확대 (기존 공동인증서 -> 인증서)\n\n◇ 주요내용\n가. 고시 내용 중 단어 수정 : 공동인증서 -> 인증서\n- 한국인터넷진흥원의 표준전자(세금)계산서(v3.0)개발지침(이하 ‘개발 지침’이라 한다) v1.0 -> v1.1",
+  "revision_reason": "◇ 개정 배경\n○(일몰연장) 시스템사업자에 대한 고시*는 2023년 9월 1일을 기준으로 매 3년마다 그 타당성을 재검토하도록 규정\n* 「전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시」\n⇒ 재검토 기한을 2026년 9월 1일로 정정하여 일몰기한 연장 필요\n◇ 주요 개정내용\n○고시 내용 중 재검토 기한 재설정(§20)\n- (당초) \"2023년\" → (수정) \"2026년\"",
   "body": {
     "format": "articles",
-    "article_count": 19,
+    "article_count": 20,
     "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총 칙",
+        "chapter_path": "제1장  총 칙",
+        "content": "제1조(목적) 이 고시는 「부가가치세법 시행령」 제68조에 따른 전자세금계산서 제도 및 「소득세법 시행령」 제211조 및 제211조의2ㆍ「법인세법 시행령」 제164조에 따른 전자계산서 제도의 효율적인 운영을 위하여 전자(세금)계산서 시스템을 구축ㆍ운영하는 사업자가 지켜야 할 사항과 표준 인증에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「부가가치세법 시행령」",
+            "line_text": "",
+            "target_law_name": "부가가치세법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34090",
+            "target_url": "https://www.law.go.kr/법령/부가가치세법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001",
+            "reference_id": "law:부가가치세법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제68조",
+            "line_text": "",
+            "target_law_name": "부가가치세법 시행령",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34090",
+            "target_url": "https://www.law.go.kr/법령/부가가치세법 시행령/제68조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001",
+            "reference_id": "law:부가가치세법시행령#JO0068",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소득세법 시행령」",
+            "line_text": "",
+            "target_law_name": "소득세법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34090",
+            "target_url": "https://www.law.go.kr/법령/소득세법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001",
+            "reference_id": "law:소득세법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
+            "target_git_path": "소득세법/시행령/소득세법 시행령.json",
+            "target_source_repository": "LAW"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제211조 및 제211조의2",
+            "line_text": "",
+            "target_law_name": "소득세법 시행령",
+            "target_article_no": "제211조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34090",
+            "target_url": "https://www.law.go.kr/법령/소득세법 시행령/제211조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001",
+            "reference_id": "law:소득세법시행령#JO0211",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
+            "target_git_path": "소득세법/시행령/소득세법 시행령.json",
+            "target_source_repository": "LAW"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제211조 및 제211조의2",
+            "line_text": "",
+            "target_law_name": "소득세법 시행령",
+            "target_article_no": "제211조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34090",
+            "target_url": "https://www.law.go.kr/법령/소득세법 시행령/제211조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001",
+            "reference_id": "law:소득세법시행령#JO0211_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
+            "target_git_path": "소득세법/시행령/소득세법 시행령.json",
+            "target_source_repository": "LAW"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법인세법 시행령」",
+            "line_text": "",
+            "target_law_name": "법인세법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34090",
+            "target_url": "https://www.law.go.kr/법령/법인세법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001",
+            "reference_id": "law:법인세법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제164조",
+            "line_text": "",
+            "target_law_name": "법인세법 시행령",
+            "target_article_no": "제164조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34090",
+            "target_url": "https://www.law.go.kr/법령/법인세법 시행령/제164조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001",
+            "reference_id": "law:법인세법시행령#JO0164",
+            "target_repo": "LAW",
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0001"
+      },
       {
         "article_no": "제2조",
         "article_title": "용어의 정의",
         "chapter": "제1장  총 칙",
         "chapter_path": "제1장  총 칙",
-        "content": "제2조(용어의 정의) 이 고시에서 사용하는 용어의 뜻은 다음 각 호와 같다.1. \"전자세금계산서\"란 「부가가치세법 시행령」 제68조에 따라 사업자가 재화나 용역을 공급할 때 전자적으로 발급하는 세금계산서를 말한다.2. \"전자계산서\"란 「소득세법 시행령」 제211조의2제1항 또는 「법인세법 시행령」 제164조제2항에 따라 사업자가 재화나 용역을 공급할 때 「부가가치세법 시행령」 제68조제5항에서 정한 전자적 방법으로 발급하는 계산서를 말한다.3. \"전자(세금)계산서\"란 「부가가치세 법령, 소득세 법령, 법인세 법령」에 따라 사업자가 재화나 용역을 공급할 때 전자적 방법으로 발급하는 세금계산서 또는 계산서를 말한다.4. \"사업자시스템\"이란 관련 법령에 의해 세금계산서를 전자적으로 발급ㆍ전송하는 설비 및 시스템을 말한다. <2021.11.15. 신설>5. \"전자세금계산서 표준 인증시험(이하 ‘표준인증시험’이라 한다)\"이라 함은 사업자시스템의",
+        "content": "제2조(용어의 정의) 이 고시에서 사용하는 용어의 뜻은 다음 각 호와 같다.1.\"전자세금계산서\"란 「부가가치세법 시행령」 제68조에 따라 사업자가 재화나 용역을 공급할 때 전자적으로 발급하는 세금계산서를 말한다.2.\"전자계산서\"란 「소득세법 시행령」 제211조의2제1항 또는 「법인세법 시행령」 제164조제2항에 따라 사업자가 재화나 용역을 공급할 때 「부가가치세법 시행령」 제68조제5항에서 정한 전자적 방법으로 발급하는 계산서를 말한다.3.\"전자(세금)계산서\"란 「부가가치세 법령, 소득세 법령, 법인세 법령」에 따라 사업자가 재화나 용역을 공급할 때 전자적 방법으로 발급하는 세금계산서 또는 계산서를 말한다.4.\"사업자시스템\"이란 관련 법령에 의해 세금계산서를 전자적으로 발급ㆍ전송하는 설비 및 시스템을 말한다. <2021.11.15. 신설>5.\"전자세금계산서 표준 인증시험(이하 ‘표준인증시험’이라 한다)\"이라 함은 사업자시스템의",
         "enforcement_date": "",
         "relations": [
           {
@@ -499,10 +665,10 @@
       },
       {
         "article_no": "제3조",
-        "article_title": "전자（세금）계산서 시스템사업자 등록 등",
+        "article_title": "전자(세금",
         "chapter": "제2장  시스템사업자가 지켜야 할 사항",
         "chapter_path": "제2장  시스템사업자가 지켜야 할 사항",
-        "content": "제3조(전자（세금）계산서 시스템사업자 등록 등) ① 전자(세금)계산서 시스템을 구축ㆍ운영하려는 사업자는 전자(세금)계산서 시스템사업자 등록신청서(별지 제1호 서식)에 다음 각 호의 서류를 첨부하여 본점(개인은 주사업장)관할 세무서장에게 제출하고 등록을 하여야 한다.1.「부가가치세법 시행규칙」 제50조제5항의 규정에 따른 위험관리계획서, 전산조직운용명세서(별지 제3호 서식), 대표자 보안서약서(별지 제4호 서식), 표준 인증서 사본2.업무개시 후 3년간의 사업계획서3.자본금의 납입을 증명하는 서류4.재무제표와 그 부속서류5.영업현황 및 전산시스템 구성도②제1항의 위험관리계획서는 방화벽ㆍ침입탐지시스템ㆍ보안메일 등의 보안대책, 오류 처리 방안, 폐업시 절차 등이 포함되어야 한다.③「조세특례제한법」 제126조의3에 따른 현금영수증사업자로서 전자(세금)계산서 발급장치를 설치한 사업자의 세금계산서 및 계산서 발급정보를 국세청에 전송하려는 사업자는 국세청장(지방국세청장 포함)에게 제3조제1항의 위험관리계획서, 대표자 보안서약서, 현금영수증사업자 전자(세금)계산서 등록신청서(별지 제2호 서식)를 제출하고 등록하여야 한다.",
+        "content": "제3조(전자(세금)계산서 시스템사업자 등록 등)① 전자(세금)계산서 시스템을 구축ㆍ운영하려는 사업자는 전자(세금)계산서 시스템사업자 등록신청서(별지 제1호 서식)에 다음 각 호의 서류를 첨부하여 본점(개인은 주사업장)관할 세무서장에게 제출하고 등록을 하여야 한다.1.「부가가치세법 시행규칙」 제50조제5항의 규정에 따른 위험관리계획서, 전산조직운용명세서(별지 제3호 서식), 대표자 보안서약서(별지 제4호 서식), 표준 인증서 사본2.업무개시 후 3년간의 사업계획서3.자본금의 납입을 증명하는 서류4.재무제표와 그 부속서류5.영업현황 및 전산시스템 구성도②제1항의 위험관리계획서는 방화벽ㆍ침입탐지시스템ㆍ보안메일 등의 보안대책, 오류 처리 방안, 폐업시 절차 등이 포함되어야 한다.③「조세특례제한법」 제126조의3에 따른 현금영수증사업자로서 전자(세금)계산서 발급장치를 설치한 사업자의 세금계산서 및 계산서 발급정보를 국세청에 전송하려는 사업자는 국세청장(지방국세청장 포함)에게 제3조제1항의 위험관리계획서, 대표자 보안서약서, 현금영수증사업자 전자(세금)계산서 등록신청서(별지 제2호 서식)를 제출하고 등록하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -522,7 +688,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226249",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596077",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0003",
             "target_unit": "BJ0001",
@@ -530,11 +696,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지1_전자(세금)계산서 시스템사업자 등록신청서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지1_전자(세금)계산서 시스템사업자 등록신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지1_전자(세금)계산서 시스템사업자 등록신청서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -597,7 +762,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226265",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596093",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0003",
             "target_unit": "BJ0003",
@@ -605,11 +770,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지3_전산조직운용명세서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지3_전산조직운용명세서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지3_전산조직운용명세서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -628,7 +792,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226271",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596139",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0003",
             "target_unit": "BJ0004",
@@ -636,11 +800,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지4_대표자 보안 서약서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지4_대표자 보안 서약서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지4_대표자 보안 서약서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -703,7 +866,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226257",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596085",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0003",
             "target_unit": "BJ0002",
@@ -711,11 +874,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지2_현금영수증사업자 전자(세금)계산서 등록 신청서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지2_현금영수증사업자 전자(세금)계산서 등록 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지2_현금영수증사업자 전자(세금)계산서 등록 신청서.hwp"
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -794,7 +956,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226317",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596185",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0004",
             "target_unit": "BJ0010",
@@ -802,11 +964,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지10_전자세금계산서 전송 등 오류자료 관리부.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지10_전자세금계산서 전송 등 오류자료 관리부.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지10_전자세금계산서 전송 등 오류자료 관리부.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -825,7 +986,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226311",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596179",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0004",
             "target_unit": "BJ0009",
@@ -833,11 +994,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지9_전자(세금)계산서 발급채널 부당강요 신고서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지9_전자(세금)계산서 발급채널 부당강요 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지9_전자(세금)계산서 발급채널 부당강요 신고서.hwp"
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -868,7 +1028,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226291",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596159",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0005",
             "target_unit": "BJ0007",
@@ -876,11 +1036,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지7_전자세금계산서 파일 전산매체 제출신청서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지7_전자세금계산서 파일 전산매체 제출신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지7_전자세금계산서 파일 전산매체 제출신청서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -899,7 +1058,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226291",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596159",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0005",
             "target_unit": "BJ0007",
@@ -907,11 +1066,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지7_전자세금계산서 파일 전산매체 제출신청서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지7_전자세금계산서 파일 전산매체 제출신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지7_전자세금계산서 파일 전산매체 제출신청서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -930,7 +1088,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226305",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596173",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0005",
             "target_unit": "BJ0008",
@@ -938,11 +1096,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지8_전자(세금)계산서 시스템사업자 전자세금계산서 파일제출 표찰.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지8_전자(세금)계산서 시스템사업자 전자세금계산서 파일제출 표찰.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지8_전자(세금)계산서 시스템사업자 전자세금계산서 파일제출 표찰.hwp"
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -984,7 +1141,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226277",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596145",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0007",
             "target_unit": "BJ0005",
@@ -992,11 +1149,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지5_전자(세금)계산서 시스템사업자 등록 포기 신고서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지5_전자(세금)계산서 시스템사업자 등록 포기 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지5_전자(세금)계산서 시스템사업자 등록 포기 신고서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1039,7 +1195,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226283",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596151",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0007",
             "target_unit": "BJ0006",
@@ -1047,11 +1203,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지6_현금영수증사업자 전자(세금)계산서 등록포기 신고서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지6_현금영수증사업자 전자(세금)계산서 등록포기 신고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지6_현금영수증사업자 전자(세금)계산서 등록포기 신고서.hwp"
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1714,7 +1869,7 @@
         "article_title": "인증시험 기준",
         "chapter": "제1장  총 칙",
         "chapter_path": "제1장  총 칙",
-        "content": "제13조(인증시험 기준) 준수여부에 대한 표준 적합성을 검증하는 시험을 말한다. <2021.11.15.신설>6. \"단위기능별 검증\"이라 함은 \"전자세금계산서 표준 인증시스템(이하 ‘인증시스템’이라 한다)\"을 통해 사업자시스템의 전자문서, 전자서명 및 암호, 웹 서비스 등에 대해\n제13조(인증시험 기준)에 의거 단위기능(모듈)별 결과물을 점검하는 것을 말한다. <2021.11.15.신설>7. \"상호운용성 검증\" 함은 사업자가 구축한 시스템과 \"국세청 대용량 수집시스템(이하 ‘수집시스템’이라 한다)\"간의 원활한 연계를 위해 표준화 검증시스템이 수집시스템과 유사한 환경을 제공하여 사업자시스템과 수집시스템의 상호운용 기능여부를 검증하는 것을 말한다.<2021.11.15.신설>8. \"전사적 기업자원 관리시스템(이하 ‘ERP’라 한다)\"이라 함은 「조세특례제한법」 제5조의2제1호에 따른 시스템을 말한다. <2021.11.15.신설>9. \"응용서비스 사업자시스템(이하 ‘ASP’라 한다)\"이라 함은 전자세금계산서 발급 또는 전송 업무를 대행하는 사업자시스템을 말한다. <2021.11.15.신설>10. \"겸용서식 사업자시스템(이하 ‘지로시스템’이라 한다)\"이라 함은 「부가가치세법 시행령」 제67조제4항에 따른 사업자시스템을 말한다. <2021.11.15.신설>11. \"시스템사업자\"라 함은 「부가가치세법 시행령」 제68조제5항제1호, 제2호에 따른 전자세금계산서 발급시스템을 운영하는 사업자를 말한다. <2021.11.15.신설>12. \"전자세금계산서 표준인증\"이라 함은 「부가가치세법 시행령」 제68조제5항제1호의 전사적기업 자원관리 설비 또는 제2호의 실거래 사업자를 대신하여 전자(세금)계산서 발급업무를 대행하는 시스템을 운영하려는 사업자는 「전자문서 및 전자거래기본법」 제24조제1항 및 과학기술정보통신부 고시 제2018-42호(전자세금계산서 v3.0 및 표준전자(세금)계산서(v3.0)개발지침(이하 ‘개발지침’이라 한다) v1.1)에 따라 제정된 표준의 준수여부에 대하여 국세청으로부터 인증(이하 ‘표준 인증’이라 한다)을 받는 것을 말한다. <2021.11.15.신설>",
+        "content": "제13조(인증시험 기준) 준수여부에 대한 표준 적합성을 검증하는 시험을 말한다. <2021.11.15.신설>6.\"단위기능별 검증\"이라 함은 \"전자세금계산서 표준 인증시스템(이하 ‘인증시스템’이라 한다)\"을 통해 사업자시스템의 전자문서, 전자서명 및 암호, 웹 서비스 등에 대해\n제13조(인증시험 기준)에 의거 단위기능(모듈)별 결과물을 점검하는 것을 말한다. <2021.11.15.신설>7.\"상호운용성 검증\" 함은 사업자가 구축한 시스템과 \"국세청 대용량 수집시스템(이하 ‘수집시스템’이라 한다)\"간의 원활한 연계를 위해 표준화 검증시스템이 수집시스템과 유사한 환경을 제공하여 사업자시스템과 수집시스템의 상호운용 기능여부를 검증하는 것을 말한다.<2021.11.15.신설>8.\"전사적 기업자원 관리시스템(이하 ‘ERP’라 한다)\"이라 함은 「조세특례제한법」 제5조의2제1호에 따른 시스템을 말한다. <2021.11.15.신설>9.\"응용서비스 사업자시스템(이하 ‘ASP’라 한다)\"이라 함은 전자세금계산서 발급 또는 전송 업무를 대행하는 사업자시스템을 말한다. <2021.11.15.신설>10.\"겸용서식 사업자시스템(이하 ‘지로시스템’이라 한다)\"이라 함은 「부가가치세법 시행령」 제67조제4항에 따른 사업자시스템을 말한다. <2021.11.15.신설>11.\"시스템사업자\"라 함은 「부가가치세법 시행령」 제68조제5항제1호, 제2호에 따른 전자세금계산서 발급시스템을 운영하는 사업자를 말한다. <2021.11.15.신설>12.\"전자세금계산서 표준인증\"이라 함은 「부가가치세법 시행령」 제68조제5항제1호의 전사적기업 자원관리 설비 또는 제2호의 실거래 사업자를 대신하여 전자(세금)계산서 발급업무를 대행하는 시스템을 운영하려는 사업자는 「전자문서 및 전자거래기본법」 제24조제1항 및 과학기술정보통신부 고시 제2018-42호(전자세금계산서 v3.0 및 표준전자(세금)계산서(v3.0)개발지침(이하 ‘개발지침’이라 한다) v1.1)에 따라 제정된 표준의 준수여부에 대하여 국세청으로부터 인증(이하 ‘표준 인증’이라 한다)을 받는 것을 말한다. <2021.11.15.신설>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1913,7 +2068,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226329",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596197",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0016",
             "target_unit": "BJ0011",
@@ -1921,11 +2076,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지11_전자세금계산서 표준인증서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지11_전자세금계산서 표준인증서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지11_전자세금계산서 표준인증서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2028,7 +2182,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226335",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596203",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0017",
             "target_unit": "BJ0012",
@@ -2036,11 +2190,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지12_전자세금계산서 표준인증서 내역 변경 요청서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지12_전자세금계산서 표준인증서 내역 변경 요청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지12_전자세금계산서 표준인증서 내역 변경 요청서.hwp"
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2107,7 +2260,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34090",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226341",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596209",
             "resolve_method": "html",
             "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0019",
             "target_unit": "BJ0013",
@@ -2115,11 +2268,10 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
             "target_git_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시.json",
-            "target_local_path": "별지/별지13_이의신청서.hwp",
+            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지13_이의신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙",
-            "target_git_file_path": "전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할 사항 및 표준 인증에 관한 고시/별지/별지13_이의신청서.hwp"
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2154,7 +2306,7 @@
         "article_title": "재검토 기한",
         "chapter": "제4장  보 칙",
         "chapter_path": "제4장  보 칙",
-        "content": "제20조(재검토 기한) 국세청장은 이 고시에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2023년 9월 1일 기준으로 매 3년이 되는 시점(매 3년째의 8월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제20조(재검토 기한) 국세청장은 이 고시에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 9월 1일 기준으로 매 3년이 되는 시점(매 3년째의 8월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2185,175 +2337,19 @@
         "images": [],
         "provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#JO0020"
       }
-    ],
-    "unmatched_relations": [
-      {
-        "relation_type": "citation",
-        "delegation_type": null,
-        "target_category": "법령",
-        "source_article_no": "제1조",
-        "source_clause": "제1조",
-        "link_text": "「부가가치세법 시행령」",
-        "line_text": "",
-        "target_law_name": "부가가치세법 시행령",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "",
-        "source_admrul_seq": "34090",
-        "target_url": "https://www.law.go.kr/법령/부가가치세법 시행령",
-        "resolve_method": "html",
-        "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#DOC",
-        "reference_id": "law:부가가치세법시행령#DOC",
-        "target_repo": "LAW",
-        "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
-        "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
-        "target_source_repository": "LAW"
-      },
-      {
-        "relation_type": "citation",
-        "delegation_type": null,
-        "target_category": "법령",
-        "source_article_no": "제1조",
-        "source_clause": "제1조",
-        "link_text": "제68조",
-        "line_text": "",
-        "target_law_name": "부가가치세법 시행령",
-        "target_article_no": "제68조",
-        "target_article_title": "",
-        "target_mst": "",
-        "source_admrul_seq": "34090",
-        "target_url": "https://www.law.go.kr/법령/부가가치세법 시행령/제68조",
-        "resolve_method": "html",
-        "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#DOC",
-        "reference_id": "law:부가가치세법시행령#JO0068",
-        "target_repo": "LAW",
-        "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
-        "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
-        "target_source_repository": "LAW"
-      },
-      {
-        "relation_type": "citation",
-        "delegation_type": null,
-        "target_category": "법령",
-        "source_article_no": "제1조",
-        "source_clause": "제1조",
-        "link_text": "「소득세법 시행령」",
-        "line_text": "",
-        "target_law_name": "소득세법 시행령",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "",
-        "source_admrul_seq": "34090",
-        "target_url": "https://www.law.go.kr/법령/소득세법 시행령",
-        "resolve_method": "html",
-        "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#DOC",
-        "reference_id": "law:소득세법시행령#DOC",
-        "target_repo": "LAW",
-        "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
-        "target_git_path": "소득세법/시행령/소득세법 시행령.json",
-        "target_source_repository": "LAW"
-      },
-      {
-        "relation_type": "citation",
-        "delegation_type": null,
-        "target_category": "법령",
-        "source_article_no": "제1조",
-        "source_clause": "제1조",
-        "link_text": "제211조 및 제211조의2",
-        "line_text": "",
-        "target_law_name": "소득세법 시행령",
-        "target_article_no": "제211조",
-        "target_article_title": "",
-        "target_mst": "",
-        "source_admrul_seq": "34090",
-        "target_url": "https://www.law.go.kr/법령/소득세법 시행령/제211조",
-        "resolve_method": "html",
-        "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#DOC",
-        "reference_id": "law:소득세법시행령#JO0211",
-        "target_repo": "LAW",
-        "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
-        "target_git_path": "소득세법/시행령/소득세법 시행령.json",
-        "target_source_repository": "LAW"
-      },
-      {
-        "relation_type": "citation",
-        "delegation_type": null,
-        "target_category": "법령",
-        "source_article_no": "제1조",
-        "source_clause": "제1조",
-        "link_text": "제211조 및 제211조의2",
-        "line_text": "",
-        "target_law_name": "소득세법 시행령",
-        "target_article_no": "제211조의2",
-        "target_article_title": "",
-        "target_mst": "",
-        "source_admrul_seq": "34090",
-        "target_url": "https://www.law.go.kr/법령/소득세법 시행령/제211조의2",
-        "resolve_method": "html",
-        "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#DOC",
-        "reference_id": "law:소득세법시행령#JO0211_02",
-        "target_repo": "LAW",
-        "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json",
-        "target_git_path": "소득세법/시행령/소득세법 시행령.json",
-        "target_source_repository": "LAW"
-      },
-      {
-        "relation_type": "citation",
-        "delegation_type": null,
-        "target_category": "법령",
-        "source_article_no": "제1조",
-        "source_clause": "제1조",
-        "link_text": "「법인세법 시행령」",
-        "line_text": "",
-        "target_law_name": "법인세법 시행령",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "",
-        "source_admrul_seq": "34090",
-        "target_url": "https://www.law.go.kr/법령/법인세법 시행령",
-        "resolve_method": "html",
-        "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#DOC",
-        "reference_id": "law:법인세법시행령#DOC",
-        "target_repo": "LAW",
-        "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
-        "target_git_path": "법인세법/시행령/법인세법 시행령.json",
-        "target_source_repository": "LAW"
-      },
-      {
-        "relation_type": "citation",
-        "delegation_type": null,
-        "target_category": "법령",
-        "source_article_no": "제1조",
-        "source_clause": "제1조",
-        "link_text": "제164조",
-        "line_text": "",
-        "target_law_name": "법인세법 시행령",
-        "target_article_no": "제164조",
-        "target_article_title": "",
-        "target_mst": "",
-        "source_admrul_seq": "34090",
-        "target_url": "https://www.law.go.kr/법령/법인세법 시행령/제164조",
-        "resolve_method": "html",
-        "source_provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#DOC",
-        "reference_id": "law:법인세법시행령#JO0164",
-        "target_repo": "LAW",
-        "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
-        "target_git_path": "법인세법/시행령/법인세법 시행령.json",
-        "target_source_repository": "LAW"
-      }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "20260511",
-      "promulgation_no": "2026-18",
-      "content": "부칙 <제2026-18호, 2026. 5. 11.>제1조(시행일) 이 고시는 2026년 5월 11일부터 시행한다.제2조(적용례) 이 고시 시행 전에 등록을 한 전자(세금)계산서시스템사업자는 이 고시에 의하여 전자(세금)계산서 시스템사업자 등록을 한 것으로 보아 이 고시를 적용한다.제3조(종전고시의 폐지) 종전의「전자(세금)계산서 시스템을 구축ㆍ운영하는 사업자가 지켜야할 사항 고시」(2023. 9. 1. 국세청 고시 제2023-17호)는 이를 폐지한다.",
+      "promulgation_date": "20260831",
+      "promulgation_no": "2026-26",
+      "content": "부칙 <제2026-26호, 2026. 8. 31.>제1조(시행일) 이 고시는 2026년 8월 31일부터 시행한다.제2조(적용례) 이 고시 시행 전에 등록을 한 전자(세금)계산서시스템사업자는 이 고시에 의하여 전자(세금)계산서 시스템사업자 등록을 한 것으로 보아 이 고시를 적용한다.제3조(종전고시의 폐지) 종전의「전자(세금)계산서 시스템을 구축ㆍ운영하는 사업자가 지켜야할 사항 고시」(2026. 5. 11. 국세청 고시 제2026-18호)는 이를 폐지한다.",
       "provision_id": "admrul:전자(세금)계산서시스템을구축운영하는사업자가지켜야할사항및표준인증에관한고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279046",
+      "source_mst": "2100000284260",
       "source_version_uid": "",
       "source_revision_type": "폐지제정",
-      "version_enforcement_date": "20260511"
+      "version_enforcement_date": "20260831"
     }
   ],
   "appendices": [
@@ -2366,17 +2362,17 @@
       "content": "[별지 제1호 서식]\n\n(앞  쪽)\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃접수번호│전자(세금)계산서 시스템사업자 등록신청서                                    ┃\n┠────┤                                                                            ┃\n┃        │                                                                            ┃\n┠────┤                                                                            ┃\n┃처리기간│                                                                            ┃\n┠────┤                                                                            ┃\n┃14일    │                                                                            ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━┯━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃①상호(법인명)│                    │②사업자    │                                  ┃\n┃              │                    │등록번호    │                                  ┃\n┠───────┼──────────┼──────┼─────────────────┨\n┃③성명(대표자)│                    │④전화번호  │(사 업 장)                        ┃\n┃              │                    │            ├─────────────────┨\n┃              │                    │            │(휴대전화)                        ┃\n┠───────┼──────────┼──────┼─────────────────┨\n┃⑤주민등록번호│                    │⑥전자우편  │                                  ┃\n┃              │                    │(이메일)주소│                                  ┃\n┠───────┼──────────┴──────┴─────────────────┨\n┃⑦ 사업장 소재지│                                                                      ┃\n┠───────┼───────────┬───────────────────────┨\n┃국세청        │⑧표준인증번호(8자리) │⑨ 시스템사업자 종류                          ┃\n┃표준인증 내역 ├───────────┼───────────────────────┨\n┃              │                      │                                              ┃\n┠───────┴───────────┴───────────────────────┨\n┃ * 귀사에서 신청하신 시스템사업자 등록내역(상호, 등록번호)은 등록 후 홈택스           ┃\n┃홈페이지(www.hometax.go.kr) 등을 통하여 공개 됩니다                                   ┃\n┠───────────────────────────────────────────┨\n┃「부가가치세법 시행령」제68조제6항, 같은 법 시행규칙 제50조제5항, ?소득              ┃\n┃세법 시행령? 제211조의2제6항, ?법인세법 시행령? 제164조제1항에 따라 전자           ┃\n┃(세금)계산서 시스템사업자 등록을 신청하고자 합니다.                                   ┃\n┃                                                                                      ┃\n┃년    월    일                                                                        ┃\n┃                                    신청인                 (서명 또는 인)             ┃\n┃     세무서장 귀하                                                                    ┃\n┃                                                                                      ┃\n┃첨부서류: 1. 위험관리계획서     2. 전산조직운용명세서                                 ┃\n┃         3. 대표자 보안서약서  4. 국세청 표준인증서 사본                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃위   임   장                                                                          ┃\n┃  상기 신청인 본인은 위임받은 자에게 전자(세금)계산서 시스템사업자 등록               ┃\n┃신청에 관한 모든 권리와 의무를 위임합니다.                                            ┃\n┃위임자(신청인)                (인감날인)                                              ┃\n┠───┬────┬┬──────┬─────────┬────┬───────────┨\n┃위임  │성 명   ││주민등록번호│                  │위임자와│                      ┃\n┃받은자│        ││            │                  │의 관계 │                      ┃\n┃      ├────┼┴──────┴───┬─────┼────┴───────────┨\n┃      │주 소   │                      │전화번호  │                                ┃\n┠───┴────┴───────────┴─────┴────────────────┨\n┃ 준비하실 사항 : 위임자의 신분증(법인의 경우 법인인감증명서)                          ┃\n┃                위임받은 자의 신분을 확인할 수 있는 신분증(주민등록증, 운전면허증 등) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜(신문용지 54g/㎡)\n\n\n(뒷  쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃작   성   방   법                                                                           ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃ 1. 신청사항(①～⑨)                                                                        ┃\n┃                                                                                            ┃\n┃   ①상 호(법인명) : 법인의 경우 법인명을 기재합니다.                                       ┃\n┃   ②사업자등록번호 : 전자(세금)계산서 시스템사업자의 사업자등록번호를 기재합니다.          ┃\n┃   ③성 명(대표자) : 법인의 경우 법인대표이사를 기재합니다.                                 ┃\n┃   ④전화번호 : 전자(세금)계산서 시스템사업자 등록·반려 통지를 받아 볼 수 있는             ┃\n┃사업장의 휴대전화번호 등을 기재합니다.                                                      ┃\n┃   ⑤주민등록번호 : 법인의 경우는 대표이사의 주민등록번호를 기재합니다.                     ┃\n┃   ⑥전자우편(이메일)주소 : 전자(세금)계산서 시스템사업자 승인/반려 통지를 받아볼 수        ┃\n┃있는 전자우편(이메일) 주소를 기재합니다.                                                    ┃\n┃   ⑦사업장소재지 : 사업자의 본점 사업장(개인은 주사무소) 소재지를 기재합니다.              ┃\n┃   ⑧표준인증번호 : 국세청에서 부여받은 인증번호를 기재                                     ┃\n┃   ⑨시스템사업자 종류 : 실거래 사업자를 대신하여 전자(세금)계산서 발급업무를 대            ┃\n┃행하는 사업자(ASP) 또는 전사적 기업자원 관리 설비를 이                                      ┃\n┃용하는 사업자(ERP) 중 선택하여 기재                                                         ┃\n┃   ※ 「전자우편주소」와 「휴대전화번호」는 반드시 기재하여야 합니다. 비밀번호는 초기화되어 ┃\n┃「전자우편주소」로 자동으로 발송됩니다.                                                     ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃ 2. 위임장                                                                                  ┃\n┃                                                                                            ┃\n┃   가. 신청인 본인 외의 사람이 신청하는 경우에는 위임장을 작성하여야 합니다.                ┃\n┃   나. 인감증명서가 없는 비영리법인은 해당 법인의 인적사항이 기재된 공문서 또는             ┃\n┃대표자의 신분증을 제출하면 됩니다.                                                          ┃\n┃                                                                                            ┃\n┃  ※전자(세금)계산서 시스템에서 제공하는 서비스 이용과 관련하여 궁금한 사항은               ┃\n┃관할세무서로 문의하시기 바랍니다.                                                           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226249",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596077",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226243",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596071",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226249",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596077",
           "name": "",
           "file_store_url": ""
         }
@@ -2397,17 +2393,17 @@
       "content": "[별지 제2호 서식]\n\n(앞  쪽)\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃접수번호│현금영수증사업자 전자(세금)계산서 등록 신청서                               ┃\n┠────┤                                                                            ┃\n┃        │                                                                            ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━┯━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃①상호(법인명)│                    │②사업자    │                                  ┃\n┃              │                    │등록번호    │                                  ┃\n┠───────┼──────────┼──────┼─────────────────┨\n┃③성명(대표자)│                    │④전화번호  │(사 업 장)                        ┃\n┃              │                    │            ├─────────────────┨\n┃              │                    │            │(휴대전화)                        ┃\n┠───────┼──────────┼──────┼─────────────────┨\n┃⑤주민등록번호│                    │⑥전자우편  │                                  ┃\n┃              │                    │(이메일)주소│                                  ┃\n┠───────┼──────────┴──────┴─────────────────┨\n┃⑦ 사업장 소재지│                                                                      ┃\n┠───────┼───────────────────────────────────┨\n┃⑧파일송수신  │    (휴대전화 :                   )                                   ┃\n┃담 당 자 명   │    (전자우편 :                   )                                   ┃\n┠───────┴───────────────────────────────────┨\n┃?조세특례제한법? 제126조의 3, ?부가가치세법 시행령」제68조제6항, 같은 법           ┃\n┃시행규칙 제50조제5항, ?소득세법 시행령? 제211조의2제6항, ?법인세법 시행령?        ┃\n┃제164조제1항에 따라 현금영수증사업자 전자(세금)계산서 등록을 신청하고자               ┃\n┃합니다.                                                                               ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃년    월    일                                                                        ┃\n┃                                    신청인                 (서명 또는 인)             ┃\n┃     국세청장 귀하                                                                    ┃\n┃                                                                                      ┃\n┃첨부서류 : 1. 위험관리계획서   2. 대표자 보안서약서                                   ┃\n┃          3. 현금영수증사업자 승인서 사본                                             ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃위   임   장                                                                          ┃\n┃  상기 신청인 본인은 위임받은 자에게 현금영수증사업자 전자(세금)계산서 등록           ┃\n┃신청에 관한 모든 권리와 의무를 위임합니다.                                            ┃\n┃위임자(신청인)                (인감날인)                                              ┃\n┠───┬────┬┬──────┬─────────┬────┬───────────┨\n┃위임  │성 명   ││주민등록번호│                  │위임자와│                      ┃\n┃받은자│        ││            │                  │의 관계 │                      ┃\n┃      ├────┼┴──────┴──┬──────┼────┴───────────┨\n┃      │주 소   │                    │전화번호    │                                ┃\n┠───┴────┴──────────┴──────┴────────────────┨\n┃ 준비하실 사항 : 위임자의 신분증(법인의 경우 법인인감증명서)                          ┃\n┃                위임받은 자의 신분을 확인할 수 있는 신분증(주민등록증, 운전면허증 등) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜(신문용지 54g/㎡)\n\n\n(뒷  쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃작   성   방   법                                                                   ┃\n┃                                                                                    ┃\n┃ 1. 신청사항(①～⑧)                                                                ┃\n┃   ①상 호(법인명) : 법인의 경우 법인명을 기재합니다.                               ┃\n┃   ②사업자등록번호 : 현금영수증사업자 사업자등록번호를 기재합니다.                 ┃\n┃   ③성 명(대표자) : 법인의 경우 법인대표이사를 기재합니다.                         ┃\n┃   ④전화번호 : 현금영수증사업자의 사업장, 휴대전화번호 등을 기재합니다.            ┃\n┃   ⑤주민등록번호 : 법인의 경우는 대표이사의 주민등록번호를 기재합니다.             ┃\n┃   ⑥전자우편(이메일)주소 : 현금영수증사업자의 전자우편(이메일)주소를 기재합니다.   ┃\n┃   ⑦사업장소재지 : 사업자의 본점 사업장(개인은 주사무소) 소재지를 기재합니다.      ┃\n┃   ⑧파일송수신 담당자명 : 파일을 송수신하는 담당자명과 전화번호를 기재합니다.      ┃\n┃   ※ 「전자우편주소」와 「휴대전화번호」는 반드시 기재하여야 합니다.               ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃ 2. 위임장                                                                          ┃\n┃   가. 신청인 본인 외의 사람이 신청하는 경우에는 위임장을 작성하여야 합니다.        ┃\n┃   나. 인감증명서가 없는 비영리법인은 해당 법인의 인적사항이 기재된 공문서 또는     ┃\n┃대표자의 신분증을 제출하면 됩니다.                                                  ┃\n┃                                                                                    ┃\n┃  ※ 전자(세금)계산서 시스템에서 제공하는 서비스 이용과 관련하여 궁금한 사항은      ┃\n┃관할세무서로  문의하시기 바랍니다.                                                  ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226257",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596085",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226251",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596079",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226257",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596085",
           "name": "",
           "file_store_url": ""
         }
@@ -2425,20 +2421,20 @@
       "kind": "별지",
       "title": "전산조직운용명세서",
       "enforcement_date": "",
-      "content": "[별지 제3호 서식]\n┏━━━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전산조직운용명세서│법인명(상호)  │                                                ┃\n┃                  ├───────┼────────────────────────┨\n┃                  │사업자등록번호│                                                ┃\n┣━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃  1. 회계프로그램(시스템) 사용현황                                                  ┃\n┃    ① 자체개발      ② 외주개발      ③ ERP       ④ 상업용 회계프로그램           ┃\n┃                                                                                    ┃\n┃  2. OS(운영체제)                                                                   ┃\n┃    ① Unix계열(Linux, Zenix, HP-UX)  ② 서버급 Windows(NT, 2000, 2003)             ┃\n┃    ③ IBM OS계열(OS/2, OS/390, OS/400)      ④ PC용 Windows                        ┃\n┃    ⑤ 기타 (       )                                                               ┃\n┃                                                                                    ┃\n┃  3. 프로그램 언어(1번 ①② 응답자만)                                               ┃\n┃    ① C++        ② Delphi        ③ COBOL        ④ Power Builder                 ┃\n┃    ⑤ Visual Basic     ⑥ Visual C++     ⑦ C#      ⑧ 기타 (       )              ┃\n┃                                                                                    ┃\n┃  4. DBMS(1번 ①②③ 응답자만)                                                      ┃\n┃    ① Oracle       ② AS/400      ③ IBM DB2      ④ MS SQL Server                 ┃\n┃    ⑤ My SQL     ⑥ Sybase      ⑦ Informix     ⑧ 기타 (       )                  ┃\n┃                                                                                    ┃\n┃  5. DBMS Version (    )                                                            ┃\n┃                                                                                    ┃\n┃  6. ERP(1번 ③ 응답자만)                                                           ┃\n┃    ① SAP     ② Oracle    ③ Uni-ERP    ④ 자체개발    ⑤ 기타 (       )          ┃\n┃                                                                                    ┃\n┃  7. 상업용 회계프로그램(1번 ④ 응답자만)                                           ┃\n┃    ① 더존 Smart A   ② 아이퀘스트 얼마에요  ③ 서울마이크로시스템 Micro Win       ┃\n┃    ④ 기타 (         )                                                             ┃\n┃                                                                                    ┃\n┃  8. 단위업무시스템 종류(복수 선택 가능)                                            ┃\n┃    ① 재무회계(원장, 재무제표, 채권?채무)  ② 관리회계(원가, 성과)                ┃\n┃    ③ 재무관리(자금, 예산)               ④ 판매관리(고객, 주문, 출하, 배송, 청구) ┃\n┃    ⑤ 자재관리(구매, 검수, 입출고, 재고)   ⑥ 생산관리(생산계획, 생산실적)         ┃\n┃    ⑦ 품질관리(품질계획, 품질검사)       ⑧ 인사관리(급여, 복지후생, 채용)         ┃\n┃    ⑨ 기타 (       )                                                               ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(뒷  쪽)\n┏━━━━━━━━━━━━━━┓\n┃전산조직운용명세서 작성요령 ┃\n┏┫                            ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃┃                            ┃                                                      ┃\n┃┗━━━━━━━━━━━━━━┛                                                      ┃\n┃                                                                                      ┃\n┃ 1. 회계프로그램(시스템) 사용현황                                                     ┃\n┃  - ERP를 자체개발하거나 외주개발한 경우 ③을 선택합니다.                             ┃\n┃  - 세무대리인이 상업용 회계프로그램을 이용하여 기장대리하는 경우 ④를 선택합니다.    ┃\n┃ 2. OS(운영체제)                                                                      ┃\n┃  - 회계프로그램이 운용되는 컴퓨터의 해당 OS를 선택합니다.                            ┃\n┃  - Windows NT, 2000, XP, 2003인 경우 ②를 선택하고 Windows 3.1, 95, 98인 경우        ┃\n┃④를 선택합니다.                                                                      ┃\n┃ 3. 프로그램 언어                                                                     ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ①자체개발 또는 ②외주개발에 해당하는 경우      ┃\n┃그 회계프로그램 개발에 사용된 프로그램 언어를 선택합니다.                             ┃\n┃ 4. DBMS                                                                              ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ①자체개발, ②외주개발 또는 ③ERP에 해당하는 경 ┃\n┃우 DB를 관리하는 프로그램(DBMS)을 선택한 후 그 버전을 기재합니다.                     ┃\n┃ 6. ERP                                                                               ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ③ERP에 해당하는 경우 그 ERP명을 선택합니다.    ┃\n┃ 7. 상업용 회계프로그램                                                               ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ④상업용 회계프로그램에 해당하는 경우(세무대리인┃\n┃이 기장대리하는 경우 포함) 그 회계프로그램명을 선택합니다.                            ┃\n┃  - 더존 NEOplus와 호환이 가능한 NEOplus Lite는 ①을 선택하고, 호환이 되지 않         ┃\n┃는 NEOplusⅡ는 ⑤기타에 직접 기재합니다.                                              ┃\n┃ 8. 단위업무시스템 종류                                                               ┃\n┃  - 회사에서 전산을 이용하여 처리하고 있는 단위업무시스템의 종류를 선택합니다.        ┃\n┠───────────────────────────────────────────┨\n┃ ※ 2, 3, 4, 5, 6, 8에서 선택하고자 하는 항목이 없는 경우 “기타”를 선택하고 해      ┃\n┃당 내용을 직접 기재합니다.                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "content": "[별지 제3호 서식]\n┏━━━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전산조직운용명세서│법인명(상호)  │                                                ┃\n┃                  ├───────┼────────────────────────┨\n┃                  │사업자등록번호│                                                ┃\n┣━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃  1. 회계프로그램(시스템) 사용현황                                                  ┃\n┃    ① 자체개발      ② 외주개발      ③ ERP       ④ 상업용 회계프로그램           ┃\n┃                                                                                    ┃\n┃  2. OS(운영체제)                                                                   ┃\n┃    ① Unix계열(Linux, Zenix, HP-UX)  ② 서버급 Windows(NT, 2000, 2003)             ┃\n┃    ③ IBM OS계열(OS/2, OS/390, OS/400)      ④ PC용 Windows                        ┃\n┃    ⑤ 기타 (       )                                                               ┃\n┃                                                                                    ┃\n┃  3. 프로그램 언어(1번 ①② 응답자만)                                               ┃\n┃    ① C++        ② Delphi        ③ COBOL        ④ Power Builder                 ┃\n┃    ⑤ Visual Basic     ⑥ Visual C++     ⑦ C#      ⑧ 기타 (       )              ┃\n┃                                                                                    ┃\n┃  4. DBMS(1번 ①②③ 응답자만)                                                      ┃\n┃    ① Oracle       ② AS/400      ③ IBM DB2      ④ MS SQL Server                 ┃\n┃    ⑤ My SQL     ⑥ Sybase      ⑦ Informix     ⑧ 기타 (       )                  ┃\n┃                                                                                    ┃\n┃  5. DBMS Version (    )                                                            ┃\n┃                                                                                    ┃\n┃  6. ERP(1번 ③ 응답자만)                                                           ┃\n┃    ① SAP     ② Oracle    ③ Uni-ERP    ④ 자체개발    ⑤ 기타 (       )          ┃\n┃                                                                                    ┃\n┃  7. 상업용 회계프로그램(1번 ④ 응답자만)                                           ┃\n┃    ① 더존 Smart A   ② 아이퀘스트 얼마에요  ③ 서울마이크로시스템 Micro Win       ┃\n┃    ④ 기타 (         )                                                             ┃\n┃                                                                                    ┃\n┃  8. 단위업무시스템 종류(복수 선택 가능)                                            ┃\n┃    ① 재무회계(원장, 재무제표, 채권?채무)  ② 관리회계(원가, 성과)                ┃\n┃    ③ 재무관리(자금, 예산)               ④ 판매관리(고객, 주문, 출하, 배송, 청구) ┃\n┃    ⑤ 자재관리(구매, 검수, 입출고, 재고)   ⑥ 생산관리(생산계획, 생산실적)         ┃\n┃    ⑦ 품질관리(품질계획, 품질검사)       ⑧ 인사관리(급여, 복지후생, 채용)         ┃\n┃    ⑨ 기타 (       )                                                               ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n(뒷  쪽)\n┏━━━━━━━━━━━━━━┓\n┃전산조직운용명세서 작성요령 ┃\n┏┫                            ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃┃                            ┃                                                      ┃\n┃┗━━━━━━━━━━━━━━┛                                                      ┃\n┃                                                                                      ┃\n┃ 1. 회계프로그램(시스템) 사용현황                                                     ┃\n┃  - ERP를 자체개발하거나 외주개발한 경우 ③을 선택합니다.                             ┃\n┃  - 세무대리인이 상업용 회계프로그램을 이용하여 기장대리하는 경우 ④를 선택합니다.    ┃\n┃ 2. OS(운영체제)                                                                      ┃\n┃  - 회계프로그램이 운용되는 컴퓨터의 해당 OS를 선택합니다.                            ┃\n┃  - Windows NT, 2000, XP, 2003인 경우 ②를 선택하고 Windows 3.1, 95, 98인 경우        ┃\n┃④를 선택합니다.                                                                      ┃\n┃ 3. 프로그램 언어                                                                     ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ①자체개발 또는 ②외주개발에 해당하는 경우      ┃\n┃그 회계프로그램 개발에 사용된 프로그램 언어를 선택합니다.                             ┃\n┃ 4. DBMS                                                                              ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ①자체개발, ②외주개발 또는 ③ERP에 해당하는 경 ┃\n┃우 DB를 관리하는 프로그램(DBMS)을 선택한 후 그 버전을 기재합니다.                     ┃\n┃ 6. ERP                                                                               ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ③ERP에 해당하는 경우 그 ERP명을 선택합니다.    ┃\n┃ 7. 상업용 회계프로그램                                                               ┃\n┃  - 1.회계프로그램(시스템) 사용현황이 ④상업용 회계프로그램에 해당하는 경우(세무대리인┃\n┃이 기장대리하는 경우 포함) 그 회계프로그램명을 선택합니다.                            ┃\n┃  - 더존 NEOplus와 호환이 가능한 NEOplus Lite는 ①을 선택하고, 호환이 되지 않         ┃\n┃는 NEOplusⅡ는 ⑤기타에 직접 기재합니다.                                              ┃\n┃ 8. 단위업무시스템 종류                                                               ┃\n┃  - 회사에서 전산을 이용하여 처리하고 있는 단위업무시스템의 종류를 선택합니다.        ┃\n┠───────────────────────────────────────────┨\n┃ ※ 2, 3, 4, 5, 6, 8에서 선택하고자 하는 항목이 없는 경우 “기타”를 선택하고 해      ┃\n┃당 내용을 직접 기재합니다.                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226265",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596093",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226259",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596087",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226265",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596093",
           "name": "",
           "file_store_url": ""
         }
@@ -2459,17 +2455,17 @@
       "content": "[별지 제4호 서식]\n대표자 보안 서약서\n본인은 전자(세금)계산서 시스템을 구축ㆍ운영하는 사업(업무)을 수행함에 있어 다음 사항을 준수할 것을 서약합니다.\n1.본인은 전자(세금)계산서 시스템 구축ㆍ운영 관련 사업(업무) 중 알게 될 일체의 내용이 직무상 기밀 사항임을 인정한다.\n2. 본인은 이 기밀을 누설함이 국가안전보장 및 국가이익에 위해가 될 수 있음을 인식하여 사업(업무)수행 중 지득한 사업자 정보 및 거래정보에 대한 제반 기밀사항을 일체 누설하거나 공개하지 아니한다.\n3. 본인이 이 기밀을 누설하거나 관계 규정을 위반한 때에는 관련 법령 및 계약에 따라 어떠한 처벌 및 불이익도 감수한다. 다만, 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」에 따른 부패행위 신고와 「공익신고자 보호법」에 따른 공익신고 등의 경우 비밀준수 의무를 위반하지 아니한 것으로 본다.\n4. 본인은 외주업체를 통한 개발 및 사업 수행 시 외주업체로 인하여 발생하는 위반사항에 대하여 모든 책임을 부담한다.\n5. 본인은 사업을 수행함에 있어 시스템의 정보보호를 위하여 사업자등록번호, 상호, 주민등록번호, 공급가액, 세액 등 주요 항목에 대하여는 암호화하여 관리한다.\n6. 외부 침입으로부터 시스템을 보호할 수 있는 보안장비(방화벽, 침입차단시스템 등)를 갖춘다.\n7.국세청장(지방청장 또는 관할세무서장)이 보안점검 및 이행상황점검을 실시하는 경우에는 적극적으로 협조한다.\n년      월        일\n서  약  자        업   체   명 :\n(업체 대표)       직        위 :\n성        명 :                        (서명)\n주민등록번호 :\n국세청장(00지방청장, 00세무서장) 귀하",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226271",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596139",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226267",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596095",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226271",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596139",
           "name": "",
           "file_store_url": ""
         }
@@ -2490,17 +2486,17 @@
       "content": "[별지 제5호 서식]\n\n\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃접수번호│전자(세금)계산서 시스템사업자                                               ┃\n┠────┤등록 포기 신고서                                                            ┃\n┃        │                                                                            ┃\n┠────┤                                                                            ┃\n┃처리기간│                                                                            ┃\n┠────┤                                                                            ┃\n┃즉 시   │                                                                            ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━┯━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━┓\n┃①상호(법인명)    │                    │②사업자    │                              ┃\n┃                  │                    │등록번호    │                              ┃\n┠─────────┼──────────┼──────┼───────────────┨\n┃③성명(대표자)    │                    │④전화번호  │(사 업 장)                    ┃\n┃                  │                    │            ├───────────────┨\n┃                  │                    │            │(휴대전화)                    ┃\n┠─────────┼──────────┼──────┼───────────────┨\n┃⑤주민등록번호    │                    │⑥전자우편  │                              ┃\n┃                  │                    │(이메일)주소│                              ┃\n┠─────────┼──────────┴──────┴───────────────┨\n┃⑦ 사업장 소재지  │                                                                  ┃\n┠─────────┼─────────────────────────────────┨\n┃⑧ 포기신고사유   │                                ※ 포기사유에 해당하는 증빙 첨부  ┃\n┠─────────┼─────────────────────────────────┨\n┃전자(세금)계산서  │                                                                  ┃\n┃시스템사업자      │                                                                  ┃\n┃등록번호(8자리)   │                                                                  ┃\n┠─────────┴─────────────────────────────────┨\n┃「부가가치세법 시행령」제68조제13항, 같은 법 시행규칙 제50조, ?소득세법              ┃\n┃시행령? 제211조의2제6항, ?법인세법 시행령? 제164조제1항에 따라 전자(세금)          ┃\n┃계산서 시스템사업자 등록을 포기하고자 합니다.                                         ┃\n┃                                                                                      ┃\n┃년    월    일                                                                        ┃\n┃                                    신청인                 (서명 또는 인)             ┃\n┃     세무서장 귀하                                                                    ┃\n┃                                                                                      ┃\n┃첨부서류: 포기사유를 입증할 수 있는 증빙(폐업의 경우 NTIS확인)                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃위   임   장                                                                          ┃\n┃  상기 신청인 본인은 위임받은 자에게 전자(세금)계산서 시스템사업자 등록               ┃\n┃포기 신고에 관한 모든 권리와 의무를 위임합니다.                                       ┃\n┃위임자(신청인)                (인감날인)                                              ┃\n┠───┬──────┬┬──────┬─────────┬────┬─────────┨\n┃위임  │성 명       ││주민등록번호│                  │위임자와│                  ┃\n┃받은자│            ││            │                  │의 관계 │                  ┃\n┃      ├──────┼┴──────┴──┬──────┼────┴─────────┨\n┃      │주 소       │                    │전화번호    │                            ┃\n┠───┴──────┴──────────┴──────┴──────────────┨\n┃ 준비하실 사항 : 위임자의 신분증(법인의 경우 법인인감증명서)                          ┃\n┃                위임받은 자의 신분을 확인할 수 있는 신분증(주민등록증, 운전면허증 등) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜(신문용지 54g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226277",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596145",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226273",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596141",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226277",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596145",
           "name": "",
           "file_store_url": ""
         }
@@ -2521,17 +2517,17 @@
       "content": "[별지 제6호 서식]\n\n\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃접수번호│현금영수증사업자 전자(세금)계산서 등록포기 신고서                           ┃\n┠────┤                                                                            ┃\n┃        │                                                                            ┃\n┠────┤                                                                            ┃\n┃처리기간│                                                                            ┃\n┠────┤                                                                            ┃\n┃즉 시   │                                                                            ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━┯━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━━┓\n┃①상호(법인명)  │                    │②사업자    │                                ┃\n┃                │                    │등록번호    │                                ┃\n┠────────┼──────────┼──────┼────────────────┨\n┃③성명(대표자)  │                    │④전화번호  │(사 업 장)                      ┃\n┃                │                    │            ├────────────────┨\n┃                │                    │            │(휴대전화)                      ┃\n┠────────┼──────────┼──────┼────────────────┨\n┃⑤주민등록번호  │                    │⑥전자우편  │                                ┃\n┃                │                    │(이메일)주소│                                ┃\n┠────────┼──────────┴──────┴────────────────┨\n┃⑦ 사업장 소재지│                                                                    ┃\n┠────────┼──────────────────────────────────┨\n┃⑧ 포기신고사유 │                                ※ 포기사유에 해당하는 증빙 첨부    ┃\n┠────────┼──────────────────────────────────┨\n┃VAN사업자       │                                                                    ┃\n┃등록번호(8자리) │                                                                    ┃\n┠────────┴──────────────────────────────────┨\n┃「부가가치세법 시행령」제68조제13항, 같은 법 시행규칙 제50조, ?소득세법              ┃\n┃시행령? 제211조의2제6항, ?법인세법 시행령? 제164조제1항에 따라 전자(세금)          ┃\n┃계산서 시스템사업자 등록을 포기하고자 합니다.                                         ┃\n┃                                                                                      ┃\n┃년    월    일                                                                        ┃\n┃                                    신청인                 (서명 또는 인)             ┃\n┃                                                                                      ┃\n┃     세무서장 귀하                                                                    ┃\n┃                                                                                      ┃\n┃첨부서류: 포기사유를 입증할 수 있는 증빙(폐업의 경우 NTIS확인)                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃위   임   장                                                                          ┃\n┃  상기 신청인 본인은 위임받은 자에게 현금영수증 사업자 전자(세금)계산서               ┃\n┃등록 포기 신고에 관한 모든 권리와 의무를 위임합니다.                                  ┃\n┃위임자(신청인)                (인감날인)                                              ┃\n┠───┬─────┬┬──────┬─────────┬────┬──────────┨\n┃위임  │성 명     ││주민등록번호│                  │위임자와│                    ┃\n┃받은자│          ││            │                  │의 관계 │                    ┃\n┃      ├─────┼┴──────┴──┬──────┼────┴──────────┨\n┃      │주 소     │                    │전화번호    │                              ┃\n┠───┴─────┴──────────┴──────┴───────────────┨\n┃ 준비하실 사항 : 위임자의 신분증(법인의 경우 법인인감증명서)                          ┃\n┃                위임받은 자의 신분을 확인할 수 있는 신분증(주민등록증, 운전면허증 등) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜(신문용지 54g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226283",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596151",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226279",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596147",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226283",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596151",
           "name": "",
           "file_store_url": ""
         }
@@ -2552,17 +2548,17 @@
       "content": "\n[별지 제7호 서식]                     (앞  쪽)\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃접수번호│전자세금계산서 파일 전산매체 제출신청서                                     ┃\n┠────┤                                                                            ┃\n┃        │                                                                            ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━┓\n┃①상호(법인명)  │                        │②사업자    │                            ┃\n┃                │                        │등록번호    │                            ┃\n┠────────┼────────────┼──────┼──────────────┨\n┃③성명(대표자)  │                        │④전화번호  │(사 업 장)                  ┃\n┃                │                        │            ├──────────────┨\n┃                │                        │            │(휴대전화)                  ┃\n┠────────┼────────────┼──────┼──────────────┨\n┃⑤주민등록번호  │                        │⑥전자우편  │                            ┃\n┃                │                        │(이메일)주소│                            ┃\n┠────────┼────────────┴──────┴──────────────┨\n┃⑦ 사업장 소재지│                                                                    ┃\n┠────────┼────────────┬───────┬─────────────┨\n┃⑧신청일자      │                        │⑨신청건수    │                          ┃\n┠────────┼────────────┼───────┼─────────────┨\n┃⑩ 제출매체     │                        │⑪ 신청사유   │                          ┃\n┠────────┼────────────┼───────┴─────────────┨\n┃승인등록내역    │⑫시스템사업자 등록번호 │⑬사업자 종류                             ┃\n┃                ├────────────┼─────────────────────┨\n┃                │                        │                                          ┃\n┠────────┴────────────┴─────────────────────┨\n┃ * CD 1장 당 하나의 tgz 파일(tar gz 사용)로 압축하여 제출하시기 바랍니다.             ┃\n┠───────────────────────────────────────────┨\n┃ 전자(세금)계산서 시스템사업자의 전자세금계산서 파일제출을 신청 합니다.               ┃\n┃년    월    일                                                                        ┃\n┃                                    신청인                 (서명 또는 인)             ┃\n┃ ○○세무서장 귀하                                                                    ┃\n┃                                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃위   임   장                                                                          ┃\n┃상기 신청인 본인은 위임받은 자에게 전자세금계산서 파일제출에 관한 일체의              ┃\n┃권리와 의무를 위임합니다.                                                             ┃\n┃위임자(신청인)                (인감날인)                                              ┃\n┠───┬─────┬┬──────┬────────────┬──────┬─────┨\n┃위임  │성 명     ││주민등록번호│                        │위임자와의  │          ┃\n┃받은자│          ││            │                        │관계        │          ┃\n┃      ├─────┼┴──────┴────┬───────┼──────┴─────┨\n┃      │주 소     │                        │전화번호      │                        ┃\n┠───┴─────┴────────────┴───────┴────────────┨\n┃ 준비하실 사항 : 위임자의 인감증명서(법인의 경우 법인인감증명서) 1부                  ┃\n┃                위임받은 자의 신분을 확인할 수 있는 신분증(주민등록증, 운전면허증 등) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜(신문용지 54g/㎡)\n\n\n(뒷  쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                ┃\n┃                                                                                ┃\n┃작   성   방   법                                                               ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃ 1. 신청사항(①～⑫)                                                            ┃\n┃   ①상 호(법인명) : 법인의 경우 법인명을 기재합니다.                           ┃\n┃   ②사업자등록번호 :  사업자 등록번호를 기재합니다.                            ┃\n┃   ③성 명(대표자) : 법인의 경우 법인대표이사를 기재합니다.                     ┃\n┃   ④전화번호 : 전자세금계산서 파일제출을 하는 사업장의 휴대전화번호 등을 기재  ┃\n┃                합니다.                                                         ┃\n┃   ⑤주민등록번호 : 법인의 경우는 대표이사의 주민등록번호를 기재합니다.         ┃\n┃   ⑥전자우편(이메일)주소 : 시스템사업자의 전자우편(이메일)주소를 기재합니다.   ┃\n┃   ⑦사업장소재지 : 사업자의 본점 사업장(개인은 주사무소) 소재지를 기재합니다.  ┃\n┃   ⑧신청일자 : 전자세금계산서 전산파일 제출일자                                ┃\n┃   ⑨신청건수 : 전자세금계산서 전산파일 전체 제출건수                           ┃\n┃   ⑩제출매체 : 전자세금계산서 전산파일 제출 매체(CD등) 종류 및 수량            ┃\n┃   ⑪시유기재 : 전산매체로 제출하게 된 원인                                     ┃\n┃   ⑫시스템사업자 등록번호 : 전자세금계산서 시스템사업자의 등록번호 8자리 기재  ┃\n┃   ⑬사업자 종류 :  ASP나 자체발급 중 택 1                                      ┃\n┃   ※ 「전자우편주소」와 「휴대전화번호」는 반드시 기재하여야 합니다.           ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃ 2. 위임장                                                                      ┃\n┃   가. 신청인 본인 외의 사람이 신청하는 경우에는 위임장을 작성하여야 합니다.    ┃\n┃   나. 인감증명서가 없는 비영리법인은 해당 법인의 인적사항이 기재된 공문서 또는 ┃\n┃대표자의 신분증을 제출하면 됩니다.                                              ┃\n┃                                                                                ┃\n┃  ※전자세금계산서 시스템에서 제공하는 서비스 이용과 관련하여 궁금한 사항은 관  ┃\n┃할세무서로  문의하시기 바랍니다.                                                ┃\n┃                                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226291",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596159",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226285",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596153",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226291",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596159",
           "name": "",
           "file_store_url": ""
         }
@@ -2583,17 +2579,17 @@
       "content": "\n[별지 제7-1호 서식]                   (앞  쪽)\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃접수번호│전자계산서 파일 전산매체 제출신청서                                         ┃\n┠────┤                                                                            ┃\n┃        │                                                                            ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━┓\n┃①상호(법인명)  │                        │②사업자    │                            ┃\n┃                │                        │등록번호    │                            ┃\n┠────────┼────────────┼──────┼──────────────┨\n┃③성명(대표자)  │                        │④전화번호  │(사 업 장)                  ┃\n┃                │                        │            ├──────────────┨\n┃                │                        │            │(휴대전화)                  ┃\n┠────────┼────────────┼──────┼──────────────┨\n┃⑤주민등록번호  │                        │⑥전자우편  │                            ┃\n┃                │                        │(이메일)주소│                            ┃\n┠────────┼────────────┴──────┴──────────────┨\n┃⑦ 사업장 소재지│                                                                    ┃\n┠────────┼────────────┬────────┬────────────┨\n┃⑧신청일자      │                        │⑨신청건수      │                        ┃\n┠────────┼────────────┼────────┼────────────┨\n┃⑩제출매체      │                        │⑪신청사 유     │                        ┃\n┠────────┼────────────┼────────┴────────────┨\n┃승인등록내역    │⑫시스템사업자 등록번호 │⑬사업자 종류                             ┃\n┃                ├────────────┼─────────────────────┨\n┃                │                        │                                          ┃\n┠────────┴────────────┴─────────────────────┨\n┃ * CD 1장 당 하나의 tgz 파일(tar gz 사용)로 압축하여 제출하시기 바랍니다.             ┃\n┠───────────────────────────────────────────┨\n┃ 전자(세금)계산서 시스템사업자의 전자계산서 파일제출을 신청 합니다.                   ┃\n┃년    월    일                                                                        ┃\n┃                                    신청인                 (서명 또는 인)             ┃\n┃ ○○세무서장 귀하                                                                    ┃\n┃                                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃위   임   장                                                                          ┃\n┃상기 신청인 본인은 위임받은 자에게 전자계산서 파일제출에 관한 일체의 권리             ┃\n┃와 의무를 위임합니다.                                                                 ┃\n┃위임자(신청인)                (인감날인)                                              ┃\n┠───┬─────┬┬──────┬───────────┬──────┬──────┨\n┃위임  │성 명     ││주민등록번호│                      │위임자와의  │            ┃\n┃받은자│          ││            │                      │관계        │            ┃\n┃      ├─────┼┴──────┴────┬──────┼──────┴──────┨\n┃      │주 소     │                        │전화번호    │                          ┃\n┠───┴─────┴────────────┴──────┴─────────────┨\n┃ 준비하실 사항 : 위임자의 인감증명서(법인의 경우 법인인감증명서) 1부                  ┃\n┃                위임받은 자의 신분을 확인할 수 있는 신분증(주민등록증, 운전면허증 등) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜(신문용지 54g/㎡)\n\n\n(뒷  쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                ┃\n┃                                                                                ┃\n┃작   성   방   법                                                               ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃ 1. 신청사항(①～⑫)                                                            ┃\n┃   ①상 호(법인명) : 법인의 경우 법인명을 기재합니다.                           ┃\n┃   ②사업자등록번호 :  사업자 등록번호를 기재합니다.                            ┃\n┃   ③성 명(대표자) : 법인의 경우 법인대표이사를 기재합니다.                     ┃\n┃   ④전화번호 : 전자계산서 파일제출을 하는 사업장의 휴대전화번호 등을 기재      ┃\n┃                합니다.                                                         ┃\n┃   ⑤주민등록번호 : 법인의 경우는 대표이사의 주민등록번호를 기재합니다.         ┃\n┃   ⑥전자우편(이메일)주소 : 시스템 사업자의 전자우편(이메일)주소를 기재합니다.  ┃\n┃   ⑦사업장소재지 : 사업자의 본점 사업장(개인은 주사무소) 소재지를 기재합니다.  ┃\n┃   ⑧신청일자 : 전자계산서 전산파일 제출일자                                    ┃\n┃   ⑨신청건수 : 전자계산서 전산파일 전체 제출건수                               ┃\n┃   ⑩제출매체 : 전자계산서 전산파일 제출 매체(CD등) 종류 및 수량                ┃\n┃   ⑪시유기재 : 전산매체로 제출하게 된 원인                                     ┃\n┃   ⑫시스템사업자 등록번호 : 전자계산서 시스템사업자의 등록번호 8자리 기재      ┃\n┃   ⑬사업자 종류 :  ASP나 자체발급 중 택 1                                      ┃\n┃   ※ 「전자우편주소」와 「휴대전화번호」는 반드시 기재하여야 합니다.           ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃ 2. 위임장                                                                      ┃\n┃   가. 신청인 본인 외의 사람이 신청하는 경우에는 위임장을 작성하여야 합니다.    ┃\n┃   나. 인감증명서가 없는 비영리법인은 해당 법인의 인적사항이 기재된 공문서 또는 ┃\n┃대표자의 신분증을 제출하면 됩니다.                                              ┃\n┃                                                                                ┃\n┃  ※전자계산서 시스템에서 제공하는 서비스 이용과 관련하여 궁금한 사항은 관할세  ┃\n┃무서로  문의하시기 바랍니다.                                                    ┃\n┃                                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226299",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596167",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226293",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596161",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226299",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596167",
           "name": "",
           "file_store_url": ""
         }
@@ -2614,17 +2610,17 @@
       "content": "[별지 제8호 서식]\n<전자(세금)계산서 시스템사업자 전자세금계산서 파일제출 표찰>\n┌────┬────┬┬───────┬┐\n│전자세금│세무서  ││승인등록번호  ││\n│계산서  ├────┼┼───────┼┤\n│        │상호    ││사업자등록번호││\n│        ├────┼┼───────┼┤\n│        │신청일자││신청건수      ││\n│        ├────┼┼───────┼┤\n│        │전화번호││관리번호      ││\n├────┼────┼┼───────┼┤\n│전자    │세무서  ││승인등록번호  ││\n│계산서  ├────┼┼───────┼┤\n│        │상호    ││사업자등록번호││\n│        ├────┼┼───────┼┤\n│        │신청일자││신청건수      ││\n│        ├────┼┼───────┼┤\n│        │전화번호││관리번호      ││\n└────┴────┴┴───────┴┘\n규격 : 가로 8.5cm, 세로 3cm\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃작   성   방   법                                                             ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃ ? 표찰(LABEL) 기재요령                                                      ┃\n┃   - 전자세금계산서와 전자계산서로 구분 기재하여 제출합니다.                  ┃\n┃   - 지방청 : 제출 지방청 명(이름)을 기재합니다.                              ┃\n┃   - 승인등록번호 : 표준인증번호를 기재합니다.                                ┃\n┃   - 상호 : 법인의 경우 법인명을 기재합니다.                                  ┃\n┃   - 사업자등록번호 : 시스템 사업자 사업자등록번호를 기재합니다.              ┃\n┃   - 신청일자 : 전산파일 제출일자를 기재합니다.                               ┃\n┃   - 신청건수 : 전산파일 전체 제출건수를 기재합니다.                          ┃\n┃   - 전화번호 : 전산파일제출과 관련된 전화번호를 기재합니다.                  ┃\n┃   - 관리번호 : 접수직원이 기재하는 란이므로 공란으로 비워둡니다.             ┃\n┃                                                                              ┃\n┃ ? 표찰(LABEL) 부착요령                                                      ┃\n┃   - CD : 케이스에 부착함 (CD에도 사업자등록번호와 제출일자를 지워지지 않는 펜┃\n┃으로 기재합니다.)                                                             ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226305",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596173",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226301",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596169",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226305",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596173",
           "name": "",
           "file_store_url": ""
         }
@@ -2645,17 +2641,17 @@
       "content": "\n[별지 제9호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전자(세금)계산서 발급채널 부당강요 신고서                                               ┃\n┠─────┬────────┬───────┬─────────┬───────────┨\n┃매 출 자  │① 상호(법인명) │              │② 사업자등록번호 │                      ┃\n┃(신고인)  ├────────┼───────┴─────────┴───────────┨\n┃          │③ 소  재  지   │                                                          ┃\n┃인적사항  ├────────┼───────┬─────────────────────┨\n┃          │④ 신  고  인   │ 성  명       │                                          ┃\n┃          │                ├───────┼─────────────────────┨\n┃          │                │ 직  책       │                                          ┃\n┃          │                ├───────┼─────────────────────┨\n┃          │                │ 주민등록번호 │                                          ┃\n┃          │                ├───────┼─────────────────────┨\n┃          │                │ 연락처       │(직장)         (휴대전화)                 ┃\n┠─────┼────────┼───────┼─────────┬───────────┨\n┃매입자    │⑤ 상 호(법인명)│              │⑥ 사업자등록번호 │                      ┃\n┃(발급채널 ├────────┼───────┴─────────┴───────────┨\n┃강요업체) │⑦ 소   재   지 │                                                          ┃\n┃          ├────────┼───────┬─────────┬───────────┨\n┃          │⑧ 성 명(대표자)│              │⑨ 전  화  번  호 │                      ┃\n┠─────┼────────┴───────┴─────────┴───────────┨\n┃신        │<작성방법>                                                                  ┃\n┃고        │㉠ 전자(세금)계산서 발급채널 부당강요 내용을 6하 원칙에 의하여 자세히 기재  ┃\n┃내        │㉡ 발급채널 부당강요 신고서 접수 후 현지확인 등으로 명확한 사실관계 증명이  ┃\n┃용        │필요한 경우에는 신고인 인적사항이 발급채널 강요업체에 확인될 수 있음        ┃\n┃          ├──────────────────────────────────────┨\n┃          │                                                                            ┃\n┠─────┴──────────────────────────────────────┨\n┃   ?부가가치세법 시행규칙? 제50조, 「국세청 고시」제20  - 호 제4조제6항에             ┃\n┃따라 전자(세금)계산서 발급채널 부당 강요 사업자를 신고합니다.                           ┃\n┃                                                                                        ┃\n┃                                                                                        ┃\n┃년      월      일                                                                      ┃\n┃                                                                                        ┃\n┃                                         신고인                 (서명 또는 인)          ┃\n┃                                                                                        ┃\n┃                                                                                        ┃\n┃ 국세청장 귀하                                                                          ┃\n┃                                                                                        ┃\n┠────────────────────────────────────────────┨\n┃ ※ 첨부: 발행채널 부당강요 관련 증빙[전자(세금)계산서 출력물, 거래명세서, 계약서 등]   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226311",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596179",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226307",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596175",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226311",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596179",
           "name": "",
           "file_store_url": ""
         }
@@ -2676,17 +2672,17 @@
       "content": "[별지 제10호 서식]\n전자세금계산서 전송 등 오류자료 관리부\n┏━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━┓\n┃일련┃반송자료 내역               ┃공급자 통지                             ┃공급받는자 통지                         ┃오류자료┃\n┃번호┠────┬────┬────╂─────┬───┬───┬──────╂─────┬───┬───┬──────┨조치결과┃\n┃    ┃승인번호│전송일자│반송일자┃사업자번호│상 호 │통지일│사실 확인자 ┃사업자번호│상 호 │통지일│사실 확인자 ┃        ┃\n┣━━╋━━━━┿━━━━┿━━━━╋━━━━━┿━━━┿━━━┿━━━━━━╋━━━━━┿━━━┿━━━┿━━━━━━╋━━━━┫\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┗━━┻━━━━┷━━━━┷━━━━┻━━━━━┷━━━┷━━━┷━━━━━━┻━━━━━┷━━━┷━━━┷━━━━━━┻━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226317",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596185",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226313",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596181",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226317",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596185",
           "name": "",
           "file_store_url": ""
         }
@@ -2707,17 +2703,17 @@
       "content": "[별지 제10-1호 서식]\n전자계산서 전송 등 오류자료 관리부\n┏━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━┓\n┃일련┃반송자료 내역               ┃공급자 통지                             ┃공급받는자 통지                         ┃오류자료┃\n┃번호┠────┬────┬────╂─────┬───┬───┬──────╂─────┬───┬───┬──────┨조치결과┃\n┃    ┃승인번호│전송일자│반송일자┃사업자번호│상 호 │통지일│사실 확인자 ┃사업자번호│상 호 │통지일│사실 확인자 ┃        ┃\n┣━━╋━━━━┿━━━━┿━━━━╋━━━━━┿━━━┿━━━┿━━━━━━╋━━━━━┿━━━┿━━━┿━━━━━━╋━━━━┫\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┠──╂────┼────┼────╂─────┼───┼───┼──────╂─────┼───┼───┼──────╂────┨\n┃    ┃        │        │        ┃          │      │      │            ┃          │      │      │            ┃        ┃\n┗━━┻━━━━┷━━━━┷━━━━┻━━━━━┷━━━┷━━━┷━━━━━━┻━━━━━┷━━━┷━━━┷━━━━━━┻━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226323",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596191",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226319",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596187",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226323",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596191",
           "name": "",
           "file_store_url": ""
         }
@@ -2738,17 +2734,17 @@
       "content": "\n[별지 제11호 서식]\n\n제○○○○○-○호\n\n전자세금계산서 표준인증서\n\n표준인증번호:\n\n인 증 유 형:\n\n사업자시스템명:\n\n사 업 자 상 호:\n\n대   표   자:\n\n사업자등록번호:\n\n\n\n위 사업자의 시스템은 ?전자문서 및 전자거래 기본법?\n및 ?부가가치세법?에서 정한 전자세금계산서 표준\n인증 기준과 절차에 적합함을 인증합니다.\n\n년  월  일\n\n\n\n국  세  청  장  (관 인)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226329",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596197",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226325",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596193",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226329",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596197",
           "name": "",
           "file_store_url": ""
         }
@@ -2769,17 +2765,17 @@
       "content": "\n[별지 제12호 서식]\n\n전자세금계산서 표준인증서 내역 변경 요청서\n(접수번호:       )\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃사업자 상호   │                                                            ┃\n┠───────┼──────────────────────────────┨\n┃주소          │□□□□□                                                  ┃\n┃              │                                         (Tel:  -    -    ) ┃\n┠───────┼─────────┬───────┬────────────┨\n┃대표자명      │                  │사업자등록번호│                        ┃\n┠───────┼─────────┼───────┼────────────┨\n┃사업자시스템명│                  │인증번호      │                        ┃\n┠───────┼─────────┼───────┼────────────┨\n┃인증유형      │※ASP, ERP로 구분 │              │                        ┃\n┠───────┴─────────┴───────┴────────────┨\n┃변 경 요 청 내 역                                                           ┃\n┠───────┬──────────────────────────────┨\n┃변경          │※관련 증명서류 별첨                                        ┃\n┃사유 및 내역  │                                                            ┃\n┠───────┼──────────┬──────┬────────────┨\n┃담 당 자      │                    │연 락 처    │                        ┃\n┃              │                    │(이메일)    │                        ┃\n┠───────┴──────────┴──────┴────────────┨\n┃  위와 같이 ?전자(세금)계산서 시스템을 구축·운영하는 사업자가             ┃\n┃지켜야 할 사항 및 표준 인증에 관한 고시? 제17조 규정에 의하여              ┃\n┃표준인증서 내역변경을 요청합니다.                                           ┃\n┠──────────────────────────────────────┨\n┃붙임:관련 증명서류                                                          ┃\n┠──────────────────────────────────────┨\n┃                                        년   월   일                        ┃\n┃                                                                            ┃\n┃                              대표자명                 (서명 또는 인)       ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                       국  세  청  장  귀하                                 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226335",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596203",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226331",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596199",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226335",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596203",
           "name": "",
           "file_store_url": ""
         }
@@ -2800,17 +2796,17 @@
       "content": "\n[별지 제13호 서식]\n\n이  의  신  청  서\n(접수번호:       )\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃사업자 상호   │                                                            ┃\n┠───────┼──────────────────────────────┨\n┃주소          │□□□□□                                                  ┃\n┃              │                                         (Tel:  -    -    ) ┃\n┠───────┼──┬───────┬───────────────────┨\n┃대표자명      │    │사업자등록번호│                                      ┃\n┠───────┼──┼───────┼───────────────────┨\n┃사업자시스템명│    │인증심사일    │                                      ┃\n┠───────┼──┼───────┼───────────────────┨\n┃담당자        │    │              │                                      ┃\n┠───────┼──┴──────┬┴───────────────────┨\n┃신청내역      │인증심사결과(    )│인증철회(     )                         ┃\n┠───────┼─────────┴────────────────────┨\n┃신청사유      │※신청사유:별지 사용 가능                                   ┃\n┠───────┴──────────────────────────────┨\n┃  ?전자(세금)계산서 시스템을 구축·운영하는 사업자가 지켜야 할             ┃\n┃사항 및 표준 인증에 관한 고시? 제19조 규정에 의하여 이의를 신              ┃\n┃청합니다.                                                                   ┃\n┃                                                                            ┃\n┃                        년   월   일                                        ┃\n┃                                                                            ┃\n┃                              대표자명                 (서명 또는 인)       ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                       국  세  청  장  귀하                                 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226341",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596209",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226337",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596205",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164226341",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168596209",
           "name": "",
           "file_store_url": ""
         }
@@ -2825,19 +2821,19 @@
   ],
   "attachments": [
     {
-      "name": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-18호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=164167687",
-      "filename": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-18호).hwpx",
+      "name": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-26호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168592997",
+      "filename": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-26호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-18호).hwpx",
+      "local_path": "첨부파일/전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-26호).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-18호).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=164167691",
-      "filename": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-18호).pdf",
+      "name": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-26호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168593001",
+      "filename": "전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-26호).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-18호).pdf",
+      "local_path": "첨부파일/전자(세금)계산서 시스템을 구축 운영하는 사업자가 지켜야할 사항에 관한 고시(제2026-26호).pdf",
       "file_store_url": ""
     }
   ],
@@ -2853,9 +2849,9 @@
       "internal_ref": 37,
       "appendix_ref": 14
     },
-    "articles_total": 19,
-    "articles_with_relations": 17,
-    "unmatched_relations": 7,
+    "articles_total": 20,
+    "articles_with_relations": 18,
+    "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
