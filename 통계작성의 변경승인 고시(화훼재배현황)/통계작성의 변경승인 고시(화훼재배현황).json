@@ -104,8 +104,14 @@
   "addendum_provision_id": "admrul:통계작성의변경승인고시(화훼재배현황)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의변경승인고시(화훼재배현황)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260831"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20260831",
+    "revision_type": "폐지"
+  },
+  "version_count": 2,
   "git_path": "통계작성의 변경승인 고시(화훼재배현황)/통계작성의 변경승인 고시(화훼재배현황).json"
 }
