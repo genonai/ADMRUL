@@ -49,7 +49,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:통계작성의작성승인(협의)고시(아이돌봄서비스실태조사)#DOC"
+        "provision_id": "admrul:통계작성의작성승인(협의)고시(아이돌봄서비스실태조사)#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20260831",
+            "change": "개정",
+            "content": "1. 통계의 명칭 : 아이돌봄서비스실태조사 2. 통계작성기관의 명칭 : 성평등가족부 3. 통계작성승인(협의)번호 [작성승인(협의)일] : 제154024호 [2025.07.24.] 4. 통계작성의 변경 연월일 : 2026.08.31. 5. 통계작성의 변경 내용과 사유 :[그림]"
+          }
+        ]
       }
     ]
   },
@@ -102,8 +109,10 @@
   "addendum_provision_id": "admrul:통계작성의작성승인(협의)고시(아이돌봄서비스실태조사)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의작성승인(협의)고시(아이돌봄서비스실태조사)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260831"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통계작성의 작성승인(협의) 고시(아이돌봄서비스실태조사)/통계작성의 작성승인(협의) 고시(아이돌봄서비스실태조사).json"
 }
