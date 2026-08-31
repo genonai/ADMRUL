@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0002",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0002",
             "reference_id": "law:청원경찰법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0003",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -173,7 +179,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0005",
             "reference_id": "admrul:해양수산부소속청원경찰관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양수산부 소속 청원경찰 관리규정/해양수산부 소속 청원경찰 관리규정.json"
+            "target_git_path_guess": "해양수산부 소속 청원경찰 관리규정/해양수산부 소속 청원경찰 관리규정.json",
+            "target_git_path": "해양수산부 소속 청원경찰 관리규정/해양수산부 소속 청원경찰 관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -205,7 +215,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0006",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -225,7 +237,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0006",
             "reference_id": "law:청원경찰법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -284,7 +298,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:포항지방해양수산청청원경찰관리규정#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json"
+            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_git_path": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_git_file_path": "포항지방해양수산청 청원경찰 관리규정/별지/별지1_청원경찰 근무실적 평가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -309,7 +328,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:포항지방해양수산청청원경찰관리규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json"
+            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_git_path": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_git_file_path": "포항지방해양수산청 청원경찰 관리규정/별지/별지2_청원경찰 근무실적평가 순위명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -374,7 +398,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -394,7 +420,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013",
             "reference_id": "law:국가공무원법#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -414,7 +442,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013",
             "reference_id": "law:국가공무원법#JO0074_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -434,7 +464,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -454,7 +486,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013",
             "reference_id": "law:국가공무원법#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -474,7 +508,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013",
             "reference_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json"
+            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_git_path": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -506,7 +544,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013_02",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -526,7 +566,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013_02",
             "reference_id": "law:의료법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -546,7 +588,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013_02",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -566,7 +610,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013_02",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -586,7 +632,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0013_02",
             "reference_id": "law:공무원보수규정#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -618,7 +666,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -638,7 +688,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:청원경찰법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -658,7 +710,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -678,7 +732,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -698,7 +754,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -718,7 +776,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -738,7 +798,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -758,7 +820,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -778,7 +842,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -798,7 +864,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -818,7 +886,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -838,7 +908,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -858,7 +930,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -878,7 +952,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -898,7 +974,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:아동청소년의성보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -918,7 +996,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:아동청소년의성보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -938,7 +1018,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -958,7 +1040,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -978,7 +1062,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:형법#JO0356",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -998,7 +1084,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1018,7 +1106,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:청원경찰법#JO0010_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1038,7 +1128,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1058,7 +1150,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0014",
             "reference_id": "law:국가공무원법#JO0078_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1144,7 +1238,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0019",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1164,7 +1260,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0019",
             "reference_id": "law:근로기준법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1184,7 +1282,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0019",
             "reference_id": "law:근로기준법#JO0051_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1216,7 +1316,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0020",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1236,7 +1338,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0020",
             "reference_id": "law:근로기준법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1268,7 +1372,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0021",
             "reference_id": "law:관공서의공휴일에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1288,7 +1394,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0021",
             "reference_id": "law:관공서의공휴일에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1308,7 +1416,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0021",
             "reference_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json"
+            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_git_path": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1348,7 +1460,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0021",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1368,7 +1482,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0021",
             "reference_id": "law:근로기준법#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1400,7 +1516,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0022",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1443,7 +1561,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0024",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1486,7 +1606,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0026",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1540,7 +1662,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0029",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무ㆍ징계 관련 예규/국가공무원 복무ㆍ징계 관련 예규.json"
+            "target_git_path_guess": "국가공무원 복무ㆍ징계 관련 예규/국가공무원 복무ㆍ징계 관련 예규.json",
+            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1583,7 +1709,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0031",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1615,7 +1743,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0032",
             "reference_id": "law:청원경찰법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json"
+            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_path": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1640,7 +1770,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:청원경찰법시행규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json"
+            "target_git_path_guess": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_path": "청원경찰법/시행규칙/청원경찰법 시행규칙.json",
+            "target_git_file_path": "청원경찰법/시행규칙/별표/별표4_계급장의 형태ㆍ규격 및 재질(제9조제2항제3호나목 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1672,7 +1805,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0033",
             "reference_id": "admrul:포항지방해양수산청청원경찰징계규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 청원경찰 징계규정/포항지방해양수산청 청원경찰 징계규정.json"
+            "target_git_path_guess": "포항지방해양수산청 청원경찰 징계규정/포항지방해양수산청 청원경찰 징계규정.json",
+            "target_git_path": "포항지방해양수산청 청원경찰 징계규정/포항지방해양수산청 청원경찰 징계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1726,7 +1863,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0036",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1746,7 +1885,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0036",
             "reference_id": "admrul:항만보안청원경찰장비관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항만보안 청원경찰장비 관리지침/항만보안 청원경찰장비 관리지침.json"
+            "target_git_path_guess": "항만보안 청원경찰장비 관리지침/항만보안 청원경찰장비 관리지침.json",
+            "target_git_path": "항만보안 청원경찰장비 관리지침/항만보안 청원경찰장비 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1778,7 +1921,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0037",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1832,7 +1977,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0040",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1852,7 +1999,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0040",
             "reference_id": "law:청원경찰법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1872,7 +2021,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0040",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1892,7 +2043,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0040",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1912,7 +2065,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0040",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1944,7 +2101,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0041",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1964,7 +2123,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0041",
             "reference_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json"
+            "target_git_path_guess": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_git_path": "포항지방해양수산청 청원경찰 관리규정/포항지방해양수산청 청원경찰 관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1984,7 +2147,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0041",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2004,7 +2169,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0041",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2024,7 +2191,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0041",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2067,7 +2238,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0043",
             "reference_id": "admrul:해양수산부표창규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해양수산부 표창규정/해양수산부 표창규정.json"
+            "target_git_path_guess": "해양수산부 표창규정/해양수산부 표창규정.json",
+            "target_git_path": "해양수산부 표창규정/해양수산부 표창규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2099,7 +2274,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0044",
             "reference_id": "admrul:포항지방해양수산청청원경찰징계규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 청원경찰 징계규정/포항지방해양수산청 청원경찰 징계규정.json"
+            "target_git_path_guess": "포항지방해양수산청 청원경찰 징계규정/포항지방해양수산청 청원경찰 징계규정.json",
+            "target_git_path": "포항지방해양수산청 청원경찰 징계규정/포항지방해양수산청 청원경찰 징계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2153,7 +2332,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0047",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2185,7 +2366,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0048",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2205,7 +2388,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0048",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2259,7 +2444,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0051",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2279,7 +2466,11 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0051",
             "reference_id": "admrul:포항지방해양수산청성희롱성폭력예방지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "포항지방해양수산청 성희롱ㆍ성폭력 예방지침/포항지방해양수산청 성희롱ㆍ성폭력 예방지침.json"
+            "target_git_path_guess": "포항지방해양수산청 성희롱ㆍ성폭력 예방지침/포항지방해양수산청 성희롱ㆍ성폭력 예방지침.json",
+            "target_git_path": "포항지방해양수산청 성희롱·성폭력 예방지침/포항지방해양수산청 성희롱·성폭력 예방지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2311,7 +2502,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0052",
             "reference_id": "law:청원경찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json"
+            "target_git_path_guess": "청원경찰법/법률/청원경찰법.json",
+            "target_git_path": "청원경찰법/법률/청원경찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2331,7 +2524,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0052",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2351,7 +2546,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0052",
             "reference_id": "law:근로기준법#JO0076_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2383,7 +2580,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0053",
             "reference_id": "law:공무원재해보상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 재해보상법/법률/공무원 재해보상법.json"
+            "target_git_path_guess": "공무원 재해보상법/법률/공무원 재해보상법.json",
+            "target_git_path": "공무원 재해보상법/법률/공무원 재해보상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2415,7 +2614,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0054",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2435,7 +2636,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0054",
             "reference_id": "law:근로기준법#JO0093",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2455,7 +2658,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0054",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2475,7 +2680,9 @@
             "source_provision_id": "admrul:포항지방해양수산청청원경찰관리규정#JO0054",
             "reference_id": "law:근로기준법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
