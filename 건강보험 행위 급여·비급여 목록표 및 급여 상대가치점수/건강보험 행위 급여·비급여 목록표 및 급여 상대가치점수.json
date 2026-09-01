@@ -104,8 +104,10 @@
   "addendum_provision_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#ADDENDUM",
   "amendment_provision_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260901"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json"
 }
