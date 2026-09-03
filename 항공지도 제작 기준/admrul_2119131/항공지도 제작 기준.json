@@ -1,12 +1,12 @@
 {
-  "law_id": "98143",
+  "law_id": "2119131",
   "mst": "2100000284776",
   "law_name": "항공지도 제작 기준",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:98143",
+  "adm_uid": "admrul:2119131",
   "promulgation_no": "2026-476",
   "promulgation_date": "20260903",
   "enforcement_date": "20260903",
@@ -24,11 +24,11 @@
     "제개정구분코드": "200407",
     "조문형식여부": "Y",
     "소관부처명": "국토교통부",
-    "전화번호": "044-201-4195",
+    "전화번호": "044-201-4276",
     "제개정구분명": "폐지제정",
     "소관부처코드": "1613000",
-    "생성일자": "20260907",
-    "행정규칙ID": "98143",
+    "생성일자": "20260917",
+    "행정규칙ID": "2119131",
     "시행일자": "20260903",
     "담당부서기관코드": "1613541",
     "발령번호": "2026-476",
@@ -61,10 +61,10 @@
             "target_article_no": "제89조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법/제89조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0001",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0001",
             "reference_id": "law:항공안전법#JO0089",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/법률/항공안전법.json"
@@ -81,10 +81,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0001",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
@@ -101,17 +101,42 @@
             "target_article_no": "제255조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙/제255조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0001",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0255",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "부속서 4",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "부속서4",
+            "target_article_title": "항공지도 고도별 색조 용례(Hypsometric Tint Guide) (제16조 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "부속서",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0001",
+            "target_unit": "BYL0004",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0001"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0001"
       },
       {
         "article_no": "제2조",
@@ -122,7 +147,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0002"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0002"
       },
       {
         "article_no": "제3조",
@@ -144,10 +169,10 @@
             "target_article_no": "제89조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법/제89조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0003",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0003",
             "reference_id": "law:항공안전법#JO0089",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/법률/항공안전법.json"
@@ -164,10 +189,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0003",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0003",
             "reference_id": "law:항공안전법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
@@ -184,17 +209,37 @@
             "target_article_no": "제26조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법 시행령/제26조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0003",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0003",
             "reference_id": "law:항공안전법시행령#JO0026",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0003",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0009",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0003"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0003"
       },
       {
         "article_no": "제4조",
@@ -205,7 +250,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0004"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0004"
       },
       {
         "article_no": "제5조",
@@ -216,7 +261,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0005"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0005"
       },
       {
         "article_no": "제6조",
@@ -227,7 +272,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0006"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0006"
       },
       {
         "article_no": "제7조",
@@ -236,9 +281,35 @@
         "chapter_path": "제2장 일반사항(General Specifications)",
         "content": "제7조(기타 정보, Miscellaneous information) ① 항공지도의 여백 부분 작성 요령은 별표 1에 따른다. 다만, 특정 항공지도에 대해 별도로 정하는 경우에는 그러하지 아니하다.② 항공지도의 전면에는 다음 각 호의 정보를 표기하여야 한다. 다만, 특정 지도에 대해 별도로 정하는 경우에는 그러하지 아니하다.1. 제7조에 따른 항공지도 시리즈의 표제 또는 명칭(약어로 표기할 수 있다)2. 도엽의 명칭 또는 참조 번호3. 지도 여백에 인접 도엽 번호 표시(인접 도엽이 있는 경우에 한한다)③ 항공정보업무기관은 항공지도에 사용한 기호 및 약어에 대한 범례를 각 지도의 전면 또는 후면에 수록하여야 한다. 다만, 지도 내에 공간이 부족하여 표기할 수 없는 경우에는 이를 별도로 발간할 수 있다.④ 항공정보업무기관은 항공지도 발간기관의 명칭과 위치를 지도의 여백에 표기하여야 하며, 항공지도를 문서의 일부로 발간하는 경우 문서의 앞부분에 해당 정보를 표기할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표1",
+            "target_article_title": "항공지도 여백표기(Marginal Note Layout) (제7조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0007",
+            "target_unit": "BYL0001",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0007"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0007"
       },
       {
         "article_no": "제8조",
@@ -247,9 +318,60 @@
         "chapter_path": "제2장 일반사항(General Specifications)",
         "content": "제8조(기호, Symbols) ① 항공정보업무기관이 항공지도를 제작하려는 경우 별표 2에 명시된 기호를 사용하여야 한다. 다만, 민간 항공의 중요한 특징이나 항목을 항공지도에 표시하고자 하는 경우 정해진 기호와 혼동을 일으키거나 가독성을 저해하지 않는 범위에서 별표 2에 정하지 않은 적절한 기호를 사용할 수 있다.② 기호의 크기 및 중요성, 선의 굵기 및 간격은 항공지도의 축척 및 기능에 따라 달라질 수 있으며, 전달하고자 하는 정보의 중요성을 충분히 고려하여야 한다.③ 항공정보업무기관은 지상기반 항행안전시설, 교차점 및 웨이포인트를 표시하는 경우, 항공지도의 목적과 관계없이 모든 항공지도에 동일한 기호를 사용하여야 한다.④ 하나의 지점이 여러 가지 형태의 중요지점의 역할을 할 경우에, 중요지점 기호는 다음 각 호의 순서에 의해 우선순위가 높은 기호 하나만을 지도상에 표시하여야 한다.1. 항행안전시설2. 교차점(intersection) : 항행안전시설로부터의 거리, 레디얼(radial), 자북을 기준으로 한 방위(bearing)로 표시된 중요지점3. 웨이포인트(waypoint) : 기존에 지상기반 항행안전시설 또는 교차점으로 사용되지 않은 지점에만 표기하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0008",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0008",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0008"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0008"
       },
       {
         "article_no": "제9조",
@@ -260,7 +382,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0009"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0009"
       },
       {
         "article_no": "제10조",
@@ -271,7 +393,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0010"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0010"
       },
       {
         "article_no": "제11조",
@@ -282,7 +404,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0011"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0011"
       },
       {
         "article_no": "제12조",
@@ -293,7 +415,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0012"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0012"
       },
       {
         "article_no": "제13조",
@@ -304,7 +426,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0013"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0013"
       },
       {
         "article_no": "제14조",
@@ -315,7 +437,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0014"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0014"
       },
       {
         "article_no": "제15조",
@@ -324,9 +446,35 @@
         "chapter_path": "제2장 일반사항(General Specifications)",
         "content": "제15조(색상, Colours) 항공지도에 사용되는 색상은 별표 3의 항공지도 색상기준에 따른다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표3",
+            "target_article_title": "항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0015",
+            "target_unit": "BYL0003",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0015"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0015"
       },
       {
         "article_no": "제16조",
@@ -335,9 +483,35 @@
         "chapter_path": "제2장 일반사항(General Specifications)",
         "content": "제16조(기복, Relief) ① 항공지도에 기복을 표시하는 경우 다음 각 호의 사용자 요구를 충족하는 방식으로 표현하여야 한다.1. 방향설정 및 식별2. 안전한 지형 회피3. 항공정보가 표시되는 경우 그 명확성4. 비행 계획② 항공지도에 고도별 색조를 사용하여 기복을 표현할 경우, 사용되는 색조는 별표 4의 고도별 색조 기준에 따른다.③ 항공지도에 표고점(spot elevation)을 사용하는 경우 선별된 주요 지점에 표시하여야 한다. 이 경우 정확도가 불확실한 표고점 값에는 \"±\" 표시를 붙여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표4",
+            "target_article_title": "항공지도 고도별 색조 용례(Hypsometric Tint Guide) (제16조 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0016",
+            "target_unit": "BYL0004",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0016"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0016"
       },
       {
         "article_no": "제17조",
@@ -348,7 +522,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0017"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0017"
       },
       {
         "article_no": "제18조",
@@ -357,9 +531,35 @@
         "chapter_path": "제2장 일반사항(General Specifications)",
         "content": "제18조(항공교통업무 공역, Air traffic service airspaces) ① 항공지도에 항공교통업무 공역을 표시하는 경우 공역의 등급, 종류, 명칭 또는 호출부호, 수직 범위 및 사용 무선주파수를 표기하여야 하며, 수평 범위는 별표 2 ICAO 항공지도 기호에 따라 표시하여야 한다.② 시계비행용으로 사용되는 항공지도에는 ‘항공교통업무기준’에 따른 항공교통업무 공역 등급 중 해당되는 부분을 항공지도의 전면 또는 후면에 수록하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0018",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0018"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0018"
       },
       {
         "article_no": "제19조",
@@ -370,7 +570,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0019"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0019"
       },
       {
         "article_no": "제20조",
@@ -381,7 +581,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0020"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0020"
       },
       {
         "article_no": "제21조",
@@ -392,7 +592,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0021"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0021"
       },
       {
         "article_no": "제22조",
@@ -403,7 +603,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0022"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0022"
       },
       {
         "article_no": "제23조",
@@ -414,7 +614,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0023"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0023"
       },
       {
         "article_no": "제24조",
@@ -425,7 +625,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0024"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0024"
       },
       {
         "article_no": "제25조",
@@ -436,7 +636,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0025"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0025"
       },
       {
         "article_no": "제26조",
@@ -445,9 +645,30 @@
         "chapter_path": "제3장 비행장장애물도-ICAO 유형-A(운용한계)(Aerodrome Obstacle Chart-ICAO Type A(Operating Limitations))",
         "content": "제26조(제공범위, Availability) ① 항공정보업무기관은 정기 국제민간항공용으로 사용되는 비행장에 대해 비행장장애물도-ICAO 유형-A(운용한계)를 제4조제2항에서 정한 방법에 따라 제공하여야 한다. 다만, 이륙비행로구역에 중요한 장애물이 없는 비행장이나 비행장지형장애물도-ICAO(전자)가 제공되는 비행장은 제외한다.② 항공정보업무기관은 이륙비행로구역에 중요한 장애물이 없어 동 항공지도를 발간하지 않는 경우 해당 사항을 AIP에 수록하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0026",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0026"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0026"
       },
       {
         "article_no": "제27조",
@@ -458,7 +679,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0027"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0027"
       },
       {
         "article_no": "제28조",
@@ -469,7 +690,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0028"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0028"
       },
       {
         "article_no": "제29조",
@@ -478,9 +699,30 @@
         "chapter_path": "제3장 비행장장애물도-ICAO 유형-A(운용한계)(Aerodrome Obstacle Chart-ICAO Type A(Operating Limitations))",
         "content": "제29조(형식, Format) ① 항공정보업무기관은 비행장장애물도-ICAO 유형-A(운용한계)에 각 활주로, 정지로, 개방구역, 이륙비행로구역 및 장애물의 평면도와 종단면도를 그려야 한다.② 항공정보업무기관은 비행장장애물도-ICAO 유형-A(운용한계)에 활주로, 정지로, 개방구역 및 이륙비행로구역의 장애물에 대한 종단면도를 각 평면도의 위에 함께 표시하여야 한다.③ 제2항과 함께 대체 이륙비행로구역의 종단면도도 전체 이륙비행로의 선형 투영을 포함하여 정보를 쉽게 이해할 수 있는 가장 적합한 방법으로 평면도 위에 함께 표시하여야 한다.④ 항공정보업무기관은 비행장장애물도-ICAO 유형-A(운용한계)의 종단면도 구역 전체(활주로는 제외한다)에 격자(grid)를 표시하여야 한다.⑤ 제4항에 따른 격자의 수직좌표와 수직좌표 기준점은 각각 평균해수면과 이륙비행로구역으로부터 가장 먼 활주로 말단으로 하며, 격자의 간격(가능한 수직은 30미터/100피트, 수평은 300미터/1,000피트로 한다)을 세분하는 눈금선은 격자의 아래와 수직 여백에 표시한다.⑥ 항공정보업무기관은 비행장장애물도-ICAO 유형-A(운용한계)에 다음 각 호에 관한 사항을 기록하는 도표를 수록하여야 한다.1. 제32조제3호에 따른 공시거리 등 운영 데이터2. 수정 사항 및 그 일자",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제6항",
+            "link_text": "제32조제3호",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제32조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제32조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0029",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0032",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0029"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0029"
       },
       {
         "article_no": "제30조",
@@ -491,7 +733,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0030"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0030"
       },
       {
         "article_no": "제31조",
@@ -502,7 +744,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0031"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0031"
       },
       {
         "article_no": "제32조",
@@ -513,7 +755,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0032"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0032"
       },
       {
         "article_no": "제33조",
@@ -524,7 +766,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0033"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0033"
       },
       {
         "article_no": "제34조",
@@ -535,7 +777,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0034"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0034"
       },
       {
         "article_no": "제35조",
@@ -544,9 +786,30 @@
         "chapter_path": "제4장 비행장장애물도-ICAO 유형-B(Aerodrome Obstacle Chart-ICAO Type B)",
         "content": "제35조(제공범위, Availability) ① 항공정보업무기관은 정기 국제민간항공용으로 사용되는 비행장에 대해 비행장장애물도-ICAO 유형-B를  제4조제2항에서 정한 방법에 따라 제공한다. 다만 비행장지형장애물도-ICAO(전자)가 제공되는 비행장은 제외한다.② 항공정보업무기관은 제3장과 제4장에 명시된 기준을 조합하여 항공지도를 제공하는 경우, 이를 비행장장애물도-ICAO(comprehensive)으로 명명하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제35조",
+            "source_clause": "제35조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0035",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0035"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0035"
       },
       {
         "article_no": "제36조",
@@ -557,7 +820,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0036"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0036"
       },
       {
         "article_no": "제37조",
@@ -568,7 +831,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0037"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0037"
       },
       {
         "article_no": "제38조",
@@ -590,10 +853,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0038",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0038",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
@@ -610,17 +873,17 @@
             "target_article_no": "제4조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙/제4조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0038",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0038",
             "reference_id": "law:공항시설법시행규칙#JO0004",
             "target_repo": "LAW",
             "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0038"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0038"
       },
       {
         "article_no": "제39조",
@@ -631,7 +894,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0039"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0039"
       },
       {
         "article_no": "제40조",
@@ -653,10 +916,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0040",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0040",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
@@ -673,17 +936,37 @@
             "target_article_no": "제4조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙/제4조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0040",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0040",
             "reference_id": "law:공항시설법시행규칙#JO0004",
             "target_repo": "LAW",
             "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제40조",
+            "source_clause": "제40조제3항",
+            "link_text": "제44조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제44조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제44조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0040",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0044",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0040"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0040"
       },
       {
         "article_no": "제41조",
@@ -694,7 +977,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0041"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0041"
       },
       {
         "article_no": "제42조",
@@ -703,9 +986,30 @@
         "chapter_path": "제4장 비행장장애물도-ICAO 유형-B(Aerodrome Obstacle Chart-ICAO Type B)",
         "content": "제42조(항공정보ㆍ지도 자료, Aeronautical data) ① 항공정보업무기관은 비행장장애물도-ICAO 유형-B에 다음 각 호와 같은 사항을 표기하여야 한다.1. 비행장 표점과 도ㆍ분ㆍ초로 표시한 지리적 좌표2. 실선으로 표시한 활주로 윤곽3. 활주로의 길이 및 폭4. 1도 단위로 반올림하여 표시한 활주로 자방위 및 활주로 번호5. 활주로의 시단, 정지로, 각 이륙 및 접근지역의 시작점 및 활주로와 정지로의 경사가 현저하게 변경되는 지점에서의 활주로 중심선 표고6. 실선으로 표시한 유도로, 계류장 및 주기지역7. 파선으로 표시한 정지로8. 각 정지로의 길이9. 파선으로 표시한 개방구역10. 각 개방구역의 길이11. 파선으로 표시한 이륙 및 진입표면12. 이륙 및 접근구역13. 다음 각 목의 정보를 포함한 장애물의 정확한 위치가. 장애물의 형태를 표시하는 기호나. 표고다. 식별부호라. 광범위한 장애물의 침투 범위를 범례에서 정하는 방식으로 수록(이륙 및 진입구역 내에서의 주요 지점에 표고점을 표시한다)14. 장애물의 차폐면 내에 위치하여 제33조제1호가목에 따라 표시하지 않아도 되는 그 외 장애물② 항공정보업무기관은 비행장장애물도-ICAO 유형-B에 활주로 및 정지로에 대한 표면 특성을 표시하여야 한다.③ 항공정보업무기관은 비행장장애물도-ICAO 유형-B에 가능한 경우 비행장 표점으로부터 반경 5,000미터(또는 15,000피트) 내의 인접한 접근구역에 위치한 가장 높은 물체 또는 장애물을 눈에 띄게 표시하여야 한다.④ 항공정보업무기관은 비행장장애물도-ICAO 유형-B에 장애물을 구성하는 수목 지역의 범위 및 기복의 형태를 표시할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "제33조제1호가목",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0042",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0033",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0042"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0042"
       },
       {
         "article_no": "제43조",
@@ -716,7 +1020,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0043"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0043"
       },
       {
         "article_no": "제44조",
@@ -738,10 +1042,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0044",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0044",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
@@ -758,17 +1062,17 @@
             "target_article_no": "제113조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙/제113조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0044",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0044",
             "reference_id": "law:항공안전법시행규칙#JO0113",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0044"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0044"
       },
       {
         "article_no": "제45조",
@@ -777,9 +1081,50 @@
         "chapter_path": "제5장 비행장지형장애물도-ICAO(전자)[Aerodrome Terrain and obstacle chart-ICAO(Electronic)]",
         "content": "제45조(제공범위, Availability) ① 항공정보업무기관은 정기 국제민간항공용으로 사용되는 비행장에 대해 비행장지형장애물도-ICAO(전자)를 제4조제2항에서 정한 방법에 따라 제공하여야 한다. 다만, 동 항공지도를 발행하는 경우 비행장장애물도-ICAO Type A(운용한계)와 비행장장애물도-ICAO Type B를 발행하지 않을 수 있으며, 정밀접근지형도-ICAO의 정보를 동 항공지도에 포함하는 경우 정밀접근지형도-ICAO는 발행하지 않을 수 있다.② 항공정보업무기관은 항공지도 사용자가 요구 시에 비행장지형장애물도-ICAO(전자)를 인쇄물 형태로 사용 가능하도록 제작하여야 한다. 출력된 인쇄물에 대한 상세한 설명은 제50조제7항을 참조한다.③ 항공정보업무기관은 비행장지형장애물도-ICAO(전자)의 지리 정보에 대한 ISO 19100 시리즈 표준을 일반적인 데이터 모델로 사용하여 정보의 교환 및 다양한 사용자가 이용할 수 있도록 지원하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제45조",
+            "source_clause": "제45조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0045",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제45조",
+            "source_clause": "제45조제2항",
+            "link_text": "제50조제7항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제50조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제50조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0045",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0050",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0045"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0045"
       },
       {
         "article_no": "제46조",
@@ -790,7 +1135,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0046"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0046"
       },
       {
         "article_no": "제47조",
@@ -812,17 +1157,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/항공정보업무기준",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0047",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0047",
             "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0047"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0047"
       },
       {
         "article_no": "제48조",
@@ -832,6 +1177,51 @@
         "content": "제48조(지도 내용, Chart Contents) ① 항공정보업무기관은 비행장지형장애물도-ICAO(전자)를 제작할 때 다음 각 호의 사항을 고려하여야 한다.1. 지도에 표시되는 형상을 포함하는 컴퓨터 그래픽 응용프로그램을 개발할 때 형상, 형상속성과 공간 기하와 그 위상 관계를 응용프로그램 스키마(application schema)에 명시할 것2. 표시되는 정보는 정의된 표현 규칙에 따라 적용되는 표현 세부기준에 따라 제공할 것3. 표현 세부기준 및 표현 규칙은 데이터세트의 일부로 포함하지 않을 것4. 표현 규칙은 별도로 저장된 표현 세부기준을 참조하는 표현 카탈로그에 저장할 것5. 표현하는데 사용하는 기호는 제9조 및 별표 2의 기준을 따를 것② 항공정보업무기관은 비행장지형장애물도-ICAO(전자) 상에 지형 형상을 표현할 때 다음 각 호의 사항을 고려하여야 한다.1. 항공지도에 표현되고 항공지도와 연결된 데이터베이스는 지형 형상 및 그 속성을 「항공정보업무기준」 제5장에서 규정하는 요건을 충족하는 지형데이터세트를 토대로 할 것2. 디지털 고도모델로 알려진 정의된 격자의 모든 교차점에서 연속적인 고도값으로 지형 표면을 나타내는 방법을 사용하여, 효율적인 일반 지형의 모양을 제공하는 형식으로 지형 형상을 표현할 것3. 지형 표면은 디지털 고도모델 이외에도 선택 가능한 등고선 레이어로 제공할 것4. 디지털 고도모델을 개선하기 위해 디지털 고도모델의 형상과 중첩되는 이미지의 형상을 일치시킨 직교보정 이미지(Ortho-rectified image)를 사용할 것(이 경우 해당 이미지는 별도로 선택 가능한 레이어로 제공하여야 한다)5. 표현되는 지형 형상이 데이터베이스의 다음 각 목의 관련 속성과 연결되도록 할 것가. 지리적 좌표로 표시된 격자점의 수평위치와 그 표고나. 표면의 종류다. 제공되는 경우 등고선 값라. 도시, 주거지역 및 주요 지형의 이름6. 데이터베이스에 제공된 추가 지형 속성은 표현된 지형 형상과 연결되도록 할 것③ 항공정보업무기관은 비행장지형장애물도-ICAO(전자) 상에 장애물 형상을 표현할 때 다음 각 호의 사항을 고려하여야 한다.1. 항공지도에 표현되고 항공지도와 연결된 데이터베이스는 지형 형상 및 그 속성을 「항공정보업무기준」제5장에서 규정하는 요건을 충족하는 장애물데이터세트를 토대로 할 것2. 각각의 장애물은 적절한 기호와 장애물 식별자(identifier)로 표시할 것3. 표현되는 장애물 형상은 데이터베이스의 다음 각 목의 관련 속성과 연결되도록 할 것가. 지리적 좌표로 표시된 수평위치와 그 표고나. 장애물 유형다. 적절한 경우 장애물 범위4. 데이터베이스에 제공된 추가 장애물 속성은 표현된 지형 형상과 연결되도록 할 것④ 항공정보업무기관은 비행장지형장애물도-ICAO(전자) 상에 비행장 형상을 표현할 때 다음 각 호의 사항을 고려하여야 한다.1. 항공지도에 표현되고 항공지도와 연결된 데이터베이스는 비행장 형상 및 그 속성을 「항공정보업무기준」제5장에서 규정하는 요건을 충족하는 비행장 데이터를 토대로 할 것2. 다음 각 목의 비행장 형상을 적절한 기호로 표현할 것가. 비행장 표점나. 활주로, 활주로 번호, 해당되는 경우 정지로와 개방구역다. 유도로, 계류장, 큰 건물과 그외 눈에 띄는 비행장 형상3. 표현되는 비행장 형상은 데이터베이스의 다음 각 목의 관련 속성과 연결되도록 할 것가. 비행장 표점의 지리적 좌표나. 비행장 자기편차와 해당 정보의 기준연도 및 연간변화율다. 활주로, 정지로와 개방구역의 길이와 폭라. 활주로와 정지로의 표면 유형마. 1도 단위로 반올림한 활주로 자방위바. 활주로, 정지로 및 개방구역 각 시단, 활주로 및 정지로의 경사가 현저하게 변경되는 지점에서의 표고사. 활주로 방향별 공시거리 또는 해당 활주로 방향이 이륙, 착륙 또는 이ㆍ착륙에 사용되지 않는 경우 약자 \"NU\"⑤ 항공정보업무기관은 비행장지형장애물도-ICAO(전자) 범위 내에 위치한 항행안전무선시설의 형상을 적절한 기호로 표시하여야 한다(이 경우 그 속성은 데이터베이스의 표현된 항행안전무선시설의 형상과 연결되도록 한다).",
         "enforcement_date": "",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제48조",
+            "source_clause": "제48조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0048",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0009",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제48조",
+            "source_clause": "제48조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0048",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
           {
             "relation_type": "citation",
             "delegation_type": null,
@@ -844,10 +1234,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/항공정보업무기준",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0048",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0048",
             "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
@@ -864,10 +1254,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/항공정보업무기준",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0048",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0048",
             "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
@@ -884,17 +1274,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/항공정보업무기준",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0048",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0048",
             "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0048"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0048"
       },
       {
         "article_no": "제49조",
@@ -905,7 +1295,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0049"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0049"
       },
       {
         "article_no": "제50조",
@@ -916,7 +1306,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0050"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0050"
       },
       {
         "article_no": "제51조",
@@ -925,9 +1315,30 @@
         "chapter_path": "제5장 비행장지형장애물도-ICAO(전자)[Aerodrome Terrain and obstacle chart-ICAO(Electronic)]",
         "content": "제51조(지도 데이터 생산물 세부 사양, Chart data product specification) ① 항공정보업무기관은 비행장지형장애물도-ICAO(전자)를 제작할 때 지도를 구성하는 데이터 세트에 대한 종합적인 설명은 데이터 생산물 세부 사양의 형식으로 제공하여야 한다. 이를 통해 항공항행 사용자가 지도 데이터 생산물을 평가할 수 있고 의도된 목적에 따른 요건을 충족하는지 판단할 수 있도록 하여야 한다.② 항공정보업무기관은 비행장지형장애물도-ICAO(전자)를 제작할 때 지도 데이터 생산물 사양에 개요, 범위, 데이터 생산물 식별, 데이터 내용, 기준계, 데이터 품질 요건과 데이터 수집, 데이터 유지 관리, 데이터 표현 방식, 데이터 생산물 전달에 대한 정보와 함께 기타 추가 정보와 메타데이터 등을 포함하여야 한다.③ 제2항에 따른 지도 데이터 생산물 사양별로 다음 각 호의 세부 내용을 포함하여야 한다.1. 개요: 생산물에 대한 일반적인 설명과 데이터에 대한 일반 정보2. 범위: 공간적 적용 범위(수평 범위)3. 데이터 생산물 식별: 생산물의 이름, 내용ㆍ목적에 대한 간략한 설명과 적용되는 지리적 지역에 대한 설명4. 데이터 내용:데이터 범위 및 형상의 유형 식별, 이에 대한 설명5. 기준계: 수평 및 수직 기준계, 시간 기준계(적용되는 경우)6. 데이터 품질 요건: 허용 가능한 적합한 품질 수준과 이에 따른 데이터 품질 측정값 설명(적용되지 않는 경우 적용되지 않음을 설명하는 것을 포함하여 데이터 품질 요소 및 하위 요소를 포괄할 것)7. 데이터 수집: 출처 및 데이터 수집 과정에 대한 일반적 사항8. 데이터 유지 관리: 지도 현행화 주기를 포함한 데이터 유지 관리 원칙 및 기준9. 데이터 표현 방식: 제48조제1항에 따른 데이터의 지도 도식 방식10. 데이터 생산물 전달: 전달 형식 및 매체에 관한 정보11. 메타 데이터: 핵심 메타 데이터 요소, 추가 메타 데이터 요소를 제공하여야 하는 경우 형식 및 메터 데이터 부호화(encoding) 방식도 함께 기술",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제51조",
+            "source_clause": "제51조제3항",
+            "link_text": "제48조제1항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제48조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제48조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0051",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0048",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0051"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0051"
       },
       {
         "article_no": "제52조",
@@ -938,7 +1349,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0052"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0052"
       },
       {
         "article_no": "제53조",
@@ -949,7 +1360,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0053"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0053"
       },
       {
         "article_no": "제54조",
@@ -960,7 +1371,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0054"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0054"
       },
       {
         "article_no": "제55조",
@@ -971,7 +1382,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0055"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0055"
       },
       {
         "article_no": "제56조",
@@ -982,7 +1393,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0056"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0056"
       },
       {
         "article_no": "제57조",
@@ -993,7 +1404,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0057"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0057"
       },
       {
         "article_no": "제58조",
@@ -1002,9 +1413,30 @@
         "chapter_path": "제7장 항공로도-ICAO(Enroute Chart-ICAO)",
         "content": "제58조(제공범위, Availability) ① 항공정보업무기관은 인천FIR 내 전지역에 대하여 제4조제2항에서 정한 방법에 따라 항공로도-ICAO를 제작하여야 한다.② 항공정보업무기관은 항공로도-ICAO를 제작할 때 다른 항공교통로, 위치보고 요건 또는 비행정보구역, 관제구의 수평 범위가 서로 다른 공역 층(layer)에 존재하여 이를 하나의 항공지도 상에 명확하게 표기할 수 없는 경우 별도의 항공지도로 구분하여 제작한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제58조",
+            "source_clause": "제58조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0058",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0058"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0058"
       },
       {
         "article_no": "제59조",
@@ -1015,7 +1447,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0059"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0059"
       },
       {
         "article_no": "제60조",
@@ -1026,7 +1458,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0060"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0060"
       },
       {
         "article_no": "제61조",
@@ -1037,7 +1469,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0061"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0061"
       },
       {
         "article_no": "제62조",
@@ -1048,7 +1480,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0062"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0062"
       },
       {
         "article_no": "제63조",
@@ -1059,7 +1491,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0063"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0063"
       },
       {
         "article_no": "제64조",
@@ -1070,7 +1502,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0064"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0064"
       },
       {
         "article_no": "제65조",
@@ -1092,17 +1524,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/항공교통업무기준",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0065",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0065",
             "reference_id": "admrul:항공교통업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0065"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0065"
       },
       {
         "article_no": "제66조",
@@ -1113,7 +1545,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0066"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0066"
       },
       {
         "article_no": "제67조",
@@ -1122,9 +1554,30 @@
         "chapter_path": "제8장 지역도-ICAO(Area Chart-ICAO)",
         "content": "제67조(제공범위, Availability) ① 항공정보업무기관은 항공교통로 또는 위치보고 요건이 복잡하여 제4조제2항에서 정한 방법에 따라 항공로도-ICAO상에 적절히 표시하지 못하는 경우에는 지역도-ICAO를 제작하여야 한다.② 항공정보업무기관은 지역도-ICAO를 제작할 때 항공교통로 또는 위치보고 요건이 도착 및 출발 단계에서 서로 다르게 적용되거나, 이를 하나의 항공지도 상에 명확하게 표기할 수 없는 경우 별도의 항공지도로 구분하여 제작한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제67조",
+            "source_clause": "제67조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0067",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0067"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0067"
       },
       {
         "article_no": "제68조",
@@ -1135,7 +1588,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0068"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0068"
       },
       {
         "article_no": "제69조",
@@ -1146,7 +1599,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0069"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0069"
       },
       {
         "article_no": "제70조",
@@ -1157,7 +1610,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0070"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0070"
       },
       {
         "article_no": "제71조",
@@ -1166,9 +1619,35 @@
         "chapter_path": "제8장 지역도-ICAO(Area Chart-ICAO)",
         "content": "제71조(지형지물, Culture and topography) ① 항공정보업무기관은 지역도-ICAO에 수록된 기본 자료와 혼동을 유발시키지 않을 경우 모든 개방된 수역, 대형호수, 강 등의 일반화된 해안선을 표시하여야 한다.② 항공정보업무기관은 현저한 기복이 존재하는 지역에 대해서는 주요 비행장 표고로부터 300미터를 초과하는 모든 기복을 완만한 등고선, 등고선 값, 갈색으로 표시되는 층별 음영을 사용하여 표시하여야 한다.③ 항공정보업무기관은 각각의 가장 높은 등고선 내의 최고 표고를 포함하여 적절한 표고점을 검정색으로 표시하고, 장애물도 표시하여야 한다.④ 제2항에도 불구하고 기본 지형도 상에서 주요 비행장 표고로부터 300미터(또는 1,000피트)를 초과하는 그 다음으로 높은 등고선부터 층별 음영을 적용할 수 있다.⑤ 항공정보업무기관은 제2항부터 제4항까지에 따른 등고선 및 지형에 대해 별표 3의 색상 기준을 따른다.⑥ 항공정보업무기관은 지도 제작을 위해 필요한 표고점 및 장애물을 절차담당자로부터 제공받아 표시한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제71조",
+            "source_clause": "제71조제5항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표3",
+            "target_article_title": "항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0071",
+            "target_unit": "BYL0003",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0071"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0071"
       },
       {
         "article_no": "제72조",
@@ -1179,7 +1658,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0072"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0072"
       },
       {
         "article_no": "제73조",
@@ -1190,7 +1669,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0073"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0073"
       },
       {
         "article_no": "제74조",
@@ -1201,7 +1680,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0074"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0074"
       },
       {
         "article_no": "제75조",
@@ -1212,7 +1691,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0075"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0075"
       },
       {
         "article_no": "제76조",
@@ -1223,7 +1702,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0076"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0076"
       },
       {
         "article_no": "제77조",
@@ -1234,7 +1713,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0077"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0077"
       },
       {
         "article_no": "제78조",
@@ -1245,7 +1724,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0078"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0078"
       },
       {
         "article_no": "제79조",
@@ -1267,17 +1746,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/비행절차설계요령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0079",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0079",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0079"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0079"
       },
       {
         "article_no": "제80조",
@@ -1286,9 +1765,35 @@
         "chapter_path": "제9장 표준계기출발도-ICAO(Standard Departure Chart-Instrument(SID)-ICAO)",
         "content": "제80조(지형지물, Culture and topography) ① 항공정보업무기관은 표준계기출발도-ICAO를 축척에 맞게 제작하는 경우, 지도에 수록된 기본 자료와 혼동을 유발시키지 않는 한 모든 개방된 수역, 대형호수, 강 등의 일반화된 해안선을 표시하여야 한다.② 항공정보업무기관은 현저한 기복이 존재하는 지역에 대해서는 표준계기출발도-ICAO를 축척에 맞게 제작하여야 한다. 이 경우 비행장 표고로부터 300미터(또는 1,000피트)를 초과하는 모든 기복을 완만한 등고선, 등고선 값, 갈색으로 표시되는 층별 음영을 사용하여 표시하여야 한다.③ 항공정보업무기관은 각각의 가장 높은 등고선 내의 최고 표고를 포함하여 적절한 표고점을 검정색으로 표시하고, 장애물도 표시하여야 한다.④ 제2항에도 불구하고 기본 지형도 상에서 주요 비행장 표고로부터 300미터(또는 1,000피트)를 초과하는 그 다음으로 높은 등고선부터 층별 음영을 적용할 수 있다.⑤ 항공정보업무기관은 제2항부터 제4항까지에 따른 등고선 및 지형에 대해 별표 3의 색상 기준을 따른다.⑥ 항공정보업무기관은 지도 제작을 위해 필요한 표고점 및 장애물을 절차담당자로부터 제공받아 표시한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제80조",
+            "source_clause": "제80조제5항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표3",
+            "target_article_title": "항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0080",
+            "target_unit": "BYL0003",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0080"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0080"
       },
       {
         "article_no": "제81조",
@@ -1299,7 +1804,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0081"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0081"
       },
       {
         "article_no": "제82조",
@@ -1310,7 +1815,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0082"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0082"
       },
       {
         "article_no": "제83조",
@@ -1332,17 +1837,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/비행절차설계요령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0083",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0083",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0083"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0083"
       },
       {
         "article_no": "제84조",
@@ -1353,7 +1858,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0084"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0084"
       },
       {
         "article_no": "제85조",
@@ -1364,7 +1869,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0085"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0085"
       },
       {
         "article_no": "제86조",
@@ -1375,7 +1880,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0086"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0086"
       },
       {
         "article_no": "제87조",
@@ -1386,7 +1891,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0087"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0087"
       },
       {
         "article_no": "제88조",
@@ -1397,7 +1902,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0088"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0088"
       },
       {
         "article_no": "제89조",
@@ -1406,9 +1911,35 @@
         "chapter_path": "제10장 표준계기도착도-ICAO(Standard Arrival Chart-Instrument(STAR)-ICAO)",
         "content": "제89조(지형지물, Culture and topography) ① 항공정보업무기관은 표준계기도착도-ICAO를 축척에 맞게 제작하는 경우, 지도에 수록된 기본 자료와 혼동을 유발시키지 않는 한 모든 개방된 수역, 대형 호수, 강 등의 일반화된 해안선을 표시하여야 한다.② 항공정보업무기관은 현저한 기복이 존재하는 지역에 대해서는 표준계기도착도-ICAO를 축척에 맞게 제작하여야 한다. 이 경우 비행장 표고로부터 300미터(또는 1,000피트)를 초과하는 모든 기복을 완만한 등고선, 등고선 값, 갈색으로 표시되는 층별 음영을 사용하여 표시하여야 한다.③ 항공정보업무기관은 각각의 가장 높은 등고선 내의 최고 표고를 포함하여 적절한 표고점을 검정색으로 표시하고, 장애물도 표시하여야 한다.④ 제2항에도 불구하고 기본 지형도 상에서 주요 비행장 표고로부터 300미터(또는 1,000피트)를 초과하는 그 다음으로 높은 등고선부터 층별 음영을 적용할 수 있다.⑤ 항공정보업무기관은 제2항부터 제4항까지에 따른 등고선 및 지형에 대해 별표 3의 색상 기준을 따른다.⑥ 항공정보업무기관은 지도 제작을 위해 필요한 표고점 및 장애물을 절차담당자로부터 제공받아 표시한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제89조",
+            "source_clause": "제89조제5항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표3",
+            "target_article_title": "항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0089",
+            "target_unit": "BYL0003",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0089"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0089"
       },
       {
         "article_no": "제90조",
@@ -1419,7 +1950,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0090"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0090"
       },
       {
         "article_no": "제91조",
@@ -1430,7 +1961,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0091"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0091"
       },
       {
         "article_no": "제92조",
@@ -1452,17 +1983,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/비행절차설계요령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0092",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0092",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0092"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0092"
       },
       {
         "article_no": "제93조",
@@ -1473,7 +2004,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0093"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0093"
       },
       {
         "article_no": "제94조",
@@ -1484,7 +2015,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0094"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0094"
       },
       {
         "article_no": "제95조",
@@ -1495,7 +2026,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0095"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0095"
       },
       {
         "article_no": "제96조",
@@ -1506,7 +2037,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0096"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0096"
       },
       {
         "article_no": "제97조",
@@ -1517,7 +2048,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0097"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0097"
       },
       {
         "article_no": "제98조",
@@ -1528,7 +2059,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0098"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0098"
       },
       {
         "article_no": "제99조",
@@ -1537,9 +2068,35 @@
         "chapter_path": "제11장 계기접근도-ICAO(Instrument Approach Chart-ICAO)",
         "content": "제99조(지형지물, Culture and Topography) ① 항공정보업무기관은 계기접근도-ICAO에 실패접근, 관련 체공절차 및 시계선회절차(설정된 경우에 한한다)를 포함하여 계기접근절차를 안전하게 수행하는데 필요한 지형지물 정보를 표시하여야 한다. 이 경우 최소한 육지, 주요 호수 및 강의 경계는 표시하여야 한다.② 제1항에 따른 지형정보는 이해를 돕기 위해 필요한 경우에만 명칭을 표기하여야 한다.③ 항공정보업무기관은 해당 지역의 고도 특성을 고려하여 가장 적합한 방식으로 표시하여야 하며, 다음 각 호의 경우 공항의 표고에서 150미터(또는 500피트)를 초과하는 모든 기복을 완만한 등고선, 등고선 값, 갈색으로 표시되는 층별 음영을 사용하여 표시하여야 한다.가. 비행장 표고로부터 1,200미터(또는 4,000피트)를 초과하는 기복이 도면의 범위 내에 있는 경우나. 비행장 표점으로부터 11킬로미터(또는 6해리) 이내의 범위에서 600미터(또는 2,000피트)를 초과하는 기복이 있을 경우다. 지형으로 인해 최종접근이나 실패접근절차의 경사도가 최적치보다 가파른 경우라. 가목부터 다목까지 정하는 것보다 낮은 기복이 있을 경우④ 항공정보업무기관은 각각의 가장 높은 등고선 내의 최고 표고를 포함하여 적절한 표고점을 검정색으로 표시하여야 한다.⑤ 제3항에도 불구하고 기본 지형도상에서 주요 비행장 표고로부터 150미터(또는 500피트)를 초과하는 그 다음으로 높은 등고선부터 층별 음영을 적용할 수 있다.⑥ 항공정보업무기관은 제2항부터 제4항까지에 따른 등고선 및 지형에 대해 별표 3의 색상 기준을 따른다.⑦ 항공정보업무기관은 지도 제작을 위해 필요한 표고점을 절차담당자로부터 제공받아 표시한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제99조",
+            "source_clause": "제99조제6항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표3",
+            "target_article_title": "항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0099",
+            "target_unit": "BYL0003",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0099"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0099"
       },
       {
         "article_no": "제100조",
@@ -1550,7 +2107,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0100"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0100"
       },
       {
         "article_no": "제101조",
@@ -1561,7 +2118,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0101"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0101"
       },
       {
         "article_no": "제102조",
@@ -1583,10 +2140,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/비행절차업무기준",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0102",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0102",
             "reference_id": "admrul:비행절차업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
@@ -1603,10 +2160,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/비행절차 설계요령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0102",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0102",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "비행절차 설계요령/비행절차 설계요령.json"
@@ -1623,17 +2180,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/비행절차 설계요령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0102",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0102",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "비행절차 설계요령/비행절차 설계요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0102"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0102"
       },
       {
         "article_no": "제103조",
@@ -1644,7 +2201,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0103"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0103"
       },
       {
         "article_no": "제104조",
@@ -1653,9 +2210,30 @@
         "chapter_path": "제12장 시계접근도-ICAO(Visual Approach Chart-ICAO)",
         "content": "제104조(제공범위, Availability) 항공정보업무기관은 다음 각 호의 경우에 정기 국제민간항공에 사용되는 모든 비행장에 대해 제4조제2항에 따라 시계접근도-ICAO를 제작하여야 한다.1. 제한된 항행안전무선시설만을 이용할 수 있는 경우2. 무선통신시설을 사용할 수 없는 경우3. 1:500,000 또는 그 이상의 축척으로 제작된 비행장 및 인근지역에 대한 적절한 항공지도가 없는 경우4. 시계접근절차가 수립되었을 경우",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제104조",
+            "source_clause": "제104조",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0104",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0104"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0104"
       },
       {
         "article_no": "제105조",
@@ -1666,7 +2244,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0105"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0105"
       },
       {
         "article_no": "제106조",
@@ -1677,7 +2255,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0106"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0106"
       },
       {
         "article_no": "제107조",
@@ -1688,7 +2266,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0107"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0107"
       },
       {
         "article_no": "제108조",
@@ -1699,7 +2277,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0108"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0108"
       },
       {
         "article_no": "제109조",
@@ -1710,7 +2288,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0109"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0109"
       },
       {
         "article_no": "제110조",
@@ -1721,7 +2299,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0110"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0110"
       },
       {
         "article_no": "제111조",
@@ -1732,7 +2310,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0111"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0111"
       },
       {
         "article_no": "제112조",
@@ -1743,7 +2321,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0112"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0112"
       },
       {
         "article_no": "제113조",
@@ -1754,7 +2332,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0113"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0113"
       },
       {
         "article_no": "제114조",
@@ -1763,9 +2341,50 @@
         "chapter_path": "제13장 비행장도 또는 헬기장도-ICAO(Aerodrome/Heliport Chart-ICAO)",
         "content": "제114조(제공범위, Availability) ① 항공정보업무기관은 국제민간항공에 사용되는 모든 비행장 또는 헬기장에 대해 제5조제2항에 따라 비행장도 또는 헬기장도-ICAO를 제작하여야 한다.② 항공정보업무기관은 국제민간항공에 사용되는 그 외 모든 비행장 또는 헬기장에 대해서도 제5조제2항에서 정한 방법에 따라 비행장도 또는 헬기장도-ICAO를 제작할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제114조",
+            "source_clause": "제114조제1항",
+            "link_text": "제5조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0114",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제114조",
+            "source_clause": "제114조제2항",
+            "link_text": "제5조제2항",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0114",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0114"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0114"
       },
       {
         "article_no": "제115조",
@@ -1776,7 +2395,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0115"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0115"
       },
       {
         "article_no": "제116조",
@@ -1787,7 +2406,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0116"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0116"
       },
       {
         "article_no": "제117조",
@@ -1798,7 +2417,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0117"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0117"
       },
       {
         "article_no": "제118조",
@@ -1809,7 +2428,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0118"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0118"
       },
       {
         "article_no": "제119조",
@@ -1820,7 +2439,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0119"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0119"
       },
       {
         "article_no": "제120조",
@@ -1831,7 +2450,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0120"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0120"
       },
       {
         "article_no": "제121조",
@@ -1842,7 +2461,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0121"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0121"
       },
       {
         "article_no": "제122조",
@@ -1853,7 +2472,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0122"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0122"
       },
       {
         "article_no": "제123조",
@@ -1864,7 +2483,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0123"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0123"
       },
       {
         "article_no": "제124조",
@@ -1873,9 +2492,50 @@
         "chapter_path": "제14장 비행장 지상이동도-ICAO(Aerodrome Ground Movement Chart-ICAO)",
         "content": "제124조(비행장 데이터, Aerodrome data) ① 항공정보업무기관은 비행장 지상이동도-ICAO에 다음 각 호의 정보를 포함하여 해당 구역에 관련된 제118조의 모든 정보를 제118조에 따른 동일한 방법으로 표시하여야 한다.1. 1미터 또는 1피트 단위로 반올림한 계류장 표고2. 계류장, 항공기 주기장, 내구력 및 항공기 기종 제한, 등화, 표지 및 그 밖의 시각유도 및 제어시설(해당하는 경우 시각 접현유도시스템의 위치 및 형태를 포함한다)3. 항공기 주기장에 대한 도ㆍ분ㆍ초 및 1/100초 단위로 표시한 지리적 좌표4. 유도로 및 그 명칭, 1미터 단위로 반올림한 폭, 내구력 또는 항공기 형식 제한사항(해당하는 경우에 한한다), 등화, 표지(활주로 대기지점, 설정된 경우 중간 대기 지점을 포함한다), 정지선 및 그 밖의 시각유도 및 제어시설5. 주의지점(Hotspot)의 위치(설정된 경우에 한한다) 및 적절한 추가설명(지도의 앞면 또는 뒷면에 표 형식으로 표시할 수 있다)6. 항공기 표준 유도경로와 명칭(설정된 경우에 한한다)7. 적절한 유도로 중앙선지점에 대하여 도ㆍ분ㆍ초 및 1/100초 단위로 표시한 지리적 좌표8. 항공교통관제업무 관할 경계선9. 채널을 포함한 통신시설(적용되는 경우 로그온(logon) 주소)10. 유도(taxiing) 시 장애물11. 운영상 중요한 항공기 정비지역 및 건물12. VOR 점검지점과 관련 시설의 무선주파수13. 항공기가 영구적으로 사용할 수 없는 이동지역의 일부분② 접이식 날개를 가진 항공기를 수용하는 공항의 경우에는 접이식 날개를 펼친 상태로 안전하게 운항할 수 있는 구역을 도면에 표기하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제124조",
+            "source_clause": "제124조제1항",
+            "link_text": "제118조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제118조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제118조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0124",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0118",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제124조",
+            "source_clause": "제124조제1항",
+            "link_text": "제118조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제118조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제118조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0124",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0118",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0124"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0124"
       },
       {
         "article_no": "제125조",
@@ -1886,7 +2546,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0125"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0125"
       },
       {
         "article_no": "제126조",
@@ -1897,7 +2557,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0126"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0126"
       },
       {
         "article_no": "제127조",
@@ -1908,7 +2568,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0127"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0127"
       },
       {
         "article_no": "제128조",
@@ -1919,7 +2579,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0128"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0128"
       },
       {
         "article_no": "제129조",
@@ -1930,7 +2590,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0129"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0129"
       },
       {
         "article_no": "제130조",
@@ -1939,9 +2599,90 @@
         "chapter_path": "제15장 항공기주기도 또는 접현도-ICAO(Aircraft Parking/Docking Chart-ICAO)",
         "content": "제130조(비행장 데이터, Aerodrome data) 항공정보업무기관은 항공기주기도 또는 접현도-ICAO에 다음 각 호의 정보를 포함하여 해당 구역에 관련된 제118조 및 제124조의 모든 정보를 제118조 및 제124조에 따른 동일한 방법으로 표시하여야 한다.1. 1미터 또는 1피트 단위로 반올림한 계류장 표고2. 계류장, 항공기 주기장, 내구력 및 항공기 기종 제한, 등화, 표지 및 그 밖의 시각유도 및 제어시설(해당하는 경우 시각 접현유도시스템의 위치 및 형태를 포함한다)3. 항공기 주기장에 대한 도ㆍ분ㆍ초 및 1/100초 단위로 표시한 지리적 좌표4. 유도로 진입지점 및 그 명칭, 활주로 대기지점, 중간 대기 지점(설치된 경우에 한한다) 및 정지선5. 주의지점(Hotspot)의 위치(설정된 경우에 한한다) 및 적절한 추가설명(지도의 앞면 또는 뒷면에 표 형식으로 표시할 수 있다)6. 적절한 유도로 중앙선지점에 대하여 도ㆍ분ㆍ초 및 1/100초 단위로 표시한 지리적 좌표7. 항공교통관제업무 관할 경계선8. 채널을 포함한 통신시설(적용되는 경우 로그온(logon) 주소)9. 유도(taxiing) 시 장애물10. 운영상 중요한 항공기 서비스지역 및 건물11. VOR 점검지점과 관련 시설의 무선주파수12. 항공기가 영구적으로 사용할 수 없는 이동지역의 일부분",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제130조",
+            "source_clause": "제130조",
+            "link_text": "제118조 및 제124조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제118조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제118조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0130",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0118",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제130조",
+            "source_clause": "제130조",
+            "link_text": "제118조 및 제124조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제124조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제124조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0130",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0124",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제130조",
+            "source_clause": "제130조",
+            "link_text": "제118조 및 제124조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제118조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제118조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0130",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0118",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제130조",
+            "source_clause": "제130조",
+            "link_text": "제118조 및 제124조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제124조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제124조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0130",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0124",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0130"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0130"
       },
       {
         "article_no": "제131조",
@@ -1952,7 +2693,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0131"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0131"
       },
       {
         "article_no": "제132조",
@@ -1961,9 +2702,35 @@
         "chapter_path": "제16장 세계항공도-ICAO 1:1,000,000(World Aeronautical Chart-ICAO 1:1,000,000)",
         "content": "제132조(제공범위, Availability) ① 항공정보업무기관은 별표 5에 명시된 도곽에 따라 인천FIR에 해당하는 지역에 대하여 세계항공도-ICAO 1:1,000,000를 제공하여야 한다. 다만, 운영상 또는 지도 발간 상 운항 요구사항을 항공도-ICAO 1:500,000 또는 항법도-ICAO(소축척) 발간을 통해 효과적으로 충족할 수 있는 경우 대체하여 제공할 수 있다.② 항공정보업무기관은 모든 육지 지역을 완전히 포함하고, 지도의 연속성을 보장하기 위하여 1:1,000,000 이외의 축척을 사용하여 세계항공도-ICAO를 제작하고자 하는 경우, 지역 간 협정을 통해 결정하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제132조",
+            "source_clause": "제132조제1항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표5",
+            "target_article_title": "세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1:1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0132",
+            "target_unit": "BYL0005",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0132"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0132"
       },
       {
         "article_no": "제133조",
@@ -1974,7 +2741,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0133"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0133"
       },
       {
         "article_no": "제134조",
@@ -1983,9 +2750,35 @@
         "chapter_path": "제16장 세계항공도-ICAO 1:1,000,000(World Aeronautical Chart-ICAO 1:1,000,000)",
         "content": "제134조(형식, Format) ① 항공정보업무기관은 명칭 및 설명에 영문 사용을 원칙으로 하되, 필요한 경우 국문을 병기할 수 있다.② 항공정보업무기관은 인접 도면의 번호와 고도의 측정단위를 도면을 접었을 경우에도 명확히 볼 수 있는 위치에 표기하여야 한다.③ 도엽을 접는 방법은 다음 각 호와 같다.1. 도엽을 위도 중간선(mid-parallel of latitude) 부근의 장축(long axis)을 따라 접고, 도엽의 앞면이 바깥으로 나오도록 하며, 하단 부분이 위쪽을 향하도록 할 것2. 자오선(meridian) 부근에서 안쪽으로 접을 것3. 양쪽의 절반을 아코디언처럼 뒤쪽으로 각각 접을 것④ 항공정보업무기관은 도면 경계선을 별표 5에 있는 도면 경계선과 일치하도록 세계항공도-ICAO 1:1,000,000를 제작하여야 한다.⑤ 항공정보업무기관은 세계항공도-ICAO 1:1,000,000의 구역을 도면 상단과 오른쪽으로 확장하여 중첩되도록 제작하여야 한다.⑥ 제5항에 따른 중첩구역에도 모든 항공, 수로 및 지형지물 정보를 포함하고, 중첩구역은 28킬로미터(또는 15해리)까지로 하되 불가능한 경우 도곽선까지로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제134조",
+            "source_clause": "제134조제4항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표5",
+            "target_article_title": "세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1:1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0134",
+            "target_unit": "BYL0005",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0134"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0134"
       },
       {
         "article_no": "제135조",
@@ -1996,7 +2789,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0135"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0135"
       },
       {
         "article_no": "제136조",
@@ -2005,9 +2798,35 @@
         "chapter_path": "제16장 세계항공도-ICAO 1:1,000,000(World Aeronautical Chart-ICAO 1:1,000,000)",
         "content": "제136조(식별, Identification) 항공정보업무기관은 세계항공도-ICAO 1:1,000,000의 도엽번호를 별표 5에 따라 부여하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제136조",
+            "source_clause": "제136조",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표5",
+            "target_article_title": "세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1:1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0136",
+            "target_unit": "BYL0005",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0136"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0136"
       },
       {
         "article_no": "제137조",
@@ -2018,7 +2837,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0137"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0137"
       },
       {
         "article_no": "제138조",
@@ -2029,7 +2848,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0138"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0138"
       },
       {
         "article_no": "제139조",
@@ -2038,9 +2857,35 @@
         "chapter_path": "제16장 세계항공도-ICAO 1:1,000,000(World Aeronautical Chart-ICAO 1:1,000,000)",
         "content": "제139조(항공정보ㆍ지도 자료, Aeronautical data) 항공정보업무기관은 세계항공도-ICAO 1:1,000,000에 시계 항행용으로 사용 가능하고 개정 주기에 부합하는 범위 내에서 항공정보ㆍ지도 자료는 최소한으로 표시하여야 하며, 세부 수록 사항은 다음 각 호와 같다.1. 비행장가. 지도상에 혼잡을 유발하지 않는 범위 내에서 육상ㆍ수상비행장과 헬기장을 표시하되, 운항상 가장 중요한 곳을 우선적으로 그 명칭과 함께 표시할 것나. 별표 2에 따라 각 비행장에 대해 약식으로 표시한 비행장 표고, 이용 가능한 등화, 활주로 표면형식, 최장 활주로 길이 또는 채널을 지도상에 불필요한 혼란이 일어나지 않는 범위 내에서 표기할 것다. 공중에서 비행장으로 인지될 수 있는 폐쇄된 비행장을 폐쇄비행장으로 표시할 것2. 장애물가. 높이가 지상 100미터(또는 300피트) 이상인 장애물을 표시할 것나. 눈에 띄는 송전선, 영구적인 케이블카 시설 및 풍력터빈이 시계비행에 영향을 주는 장애물이라 판단될 경우 지도에 표시할 것3. 금지, 제한 및 위험구역을 표시할 것4. 항공교통업무 체계가. 관제권, 비행장 교통구역, 관제구, 비행정보구역 및 시계비행으로 비행하는 공역 등을 포함한 항공교통업무 체계의 중요 요소들을 해당 공역 등급과 함께 표시할 것나. 방공식별구역을 표시(필요한 경우에 한한다)하여야 하며, 방공식별구역 절차를 지도 범례에 표기할 것5. 항행안전무선시설: 항행안전무선시설은 해당 기호와 명칭으로 표시할 것(이 경우 지도에 표시된 정보의 일부 또는 전부가 새로운 발행을 통해 최신 상태로 유지하지 않는 한 사용 주파수, 식별부호, 운영시간, 기타 특성 등의 표시를 제외할 것)6. 추가 정보가. 특성 또는 식별정보와 함께 항공지상등화를 표시할 것나. 다음의 경우에 가시거리 28킬로미터(또는 15해리) 이상에서 식별할 수 있는 해안선 또는 고립된 지역의 해양 등대를 표시할 것1) 주변 지역에 더 밝은 해양 등대가 없을 경우2) 해안의 건물 밀집지역 주변에 있는 다른 해양 등대 또는 다른 형식의 등대와 쉽게 구별할 수 있는 경우3) 중요하게 이용될 수 있는 유일한 등대인 경우",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제139조",
+            "source_clause": "제139조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0139",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0139"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0139"
       },
       {
         "article_no": "제140조",
@@ -2051,7 +2896,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0140"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0140"
       },
       {
         "article_no": "제141조",
@@ -2060,9 +2905,35 @@
         "chapter_path": "제17장 항공도-ICAO 1:500,000(Aeronautical Chart-ICAO 1:500,000)",
         "content": "제141조(제공범위, Availability) 항공정보업무기관은 별표 5에 명시된 도곽에 따라 인천FIR에 해당하는 모든 지역에 대하여 항공도-ICAO 1:500,000를 발간하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제141조",
+            "source_clause": "제141조",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표5",
+            "target_article_title": "세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1:1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0141",
+            "target_unit": "BYL0005",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0141"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0141"
       },
       {
         "article_no": "제142조",
@@ -2073,7 +2944,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0142"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0142"
       },
       {
         "article_no": "제143조",
@@ -2084,7 +2955,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0143"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0143"
       },
       {
         "article_no": "제144조",
@@ -2095,7 +2966,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0144"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0144"
       },
       {
         "article_no": "제145조",
@@ -2106,7 +2977,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0145"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0145"
       },
       {
         "article_no": "제146조",
@@ -2117,7 +2988,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0146"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0146"
       },
       {
         "article_no": "제147조",
@@ -2128,7 +2999,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0147"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0147"
       },
       {
         "article_no": "제148조",
@@ -2137,9 +3008,35 @@
         "chapter_path": "제17장 항공도-ICAO 1:500,000(Aeronautical Chart-ICAO 1:500,000)",
         "content": "제148조(항공정보ㆍ지도 자료, Aeronautical data) 항공정보업무기관은 항공도-ICAO 1:500,000의 사용 목적과 개정 주기에 부합하도록 하며, 다음의 항공정보ㆍ지도 자료를 표시하여야 한다.1. 비행장가. 지도상에 혼잡을 유발하지 않는 범위 내에서 육상ㆍ수상상비행장과 헬기장을 표시하되, 운항상 가장 중요한 곳을 우선적으로 그 명칭과 함께 표시할 것나. 별표 2에 따라 각 비행장에 대해 약식으로 표시한 비행장 표고, 이용 가능한 등화, 활주로 표면 형식, 최장 활주로 길이 또는 채널을 지도상에 불필요한 혼란이 일어나지 않는 범위 내에서 표시할 것다. 공중에서 비행장으로 인지될 수 있는 폐쇄된 비행장을 폐쇄비행장으로 표시할 것2. 장애물가. 높이가 지상 100미터(또는 300피트) 이상인 장애물을 표시할 것나. 눈에 띄는 송전선, 영구적인 케이블카 시설 및 풍력터빈이 시계비행에 영향을 주는 장애물이라 판단될 경우 지도에 표시할 것3. 금지, 제한 및 위험구역을 표시할 것4. 항공교통업무 체계가. 관제권, 비행장 교통구역, 관제구, 비행정보구역 및 시계비행으로 비행하는 공역 등을 포함한 항공교통업무 체계의 중요 요소들을 해당 공역등급과 함께 표시할 것나. 방공식별구역(필요한 경우에 한한다)을 표시하여야 하며, 방공식별구역 절차를 지도 범례에 표시할 것5. 항행안전무선시설: 항행안전무선시설은 해당 기호와 명칭으로 표시할 것(이 경우 지도에 표시된 정보의 일부 또는 전부가 새로운 발행을 통해 최신 상태로 유지하지 않는 한 사용 주파수, 식별부호, 운영시간, 기타 특성 등의 표시를 제외할 것)6. 추가 정보가. 특성 또는 식별정보와 함께 항공지상등화를 표시할 것나. 다음의 경우에 가시거리 28킬로미터(또는 15해리) 이상에서 식별할 수 있는 해안선 또는 고립된 지역의 해양 등대를 표시할 것1) 주변 지역에 더 밝은 해양 등대가 없을 경우2) 해안의 건물 밀집지역 주변에 있는 다른 해양 등대 또는 다른 형식의 등대와 쉽게 구별할 수 있는 경우3) 중요하게 이용될 수 있는 유일한 등대인 경우",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제148조",
+            "source_clause": "제148조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0148",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0148"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0148"
       },
       {
         "article_no": "제149조",
@@ -2150,7 +3047,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0149"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0149"
       },
       {
         "article_no": "제150조",
@@ -2159,9 +3056,35 @@
         "chapter_path": "제18장 항법도-ICAO(소축척)(Aeronautical Navigation Chart-ICAO Small Scale)",
         "content": "제150조(제공범위, Availability) 항공정보업무기관은 별표 5에 명시된 도곽에 따라 인천FIR에 해당하는 모든 지역에 대하여 항법도-ICAO(소축척)을 발간하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제150조",
+            "source_clause": "제150조",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표5",
+            "target_article_title": "세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1:1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0150",
+            "target_unit": "BYL0005",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0005",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0150"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0150"
       },
       {
         "article_no": "제151조",
@@ -2172,7 +3095,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0151"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0151"
       },
       {
         "article_no": "제152조",
@@ -2183,7 +3106,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0152"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0152"
       },
       {
         "article_no": "제153조",
@@ -2194,7 +3117,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0153"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0153"
       },
       {
         "article_no": "제154조",
@@ -2205,7 +3128,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0154"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0154"
       },
       {
         "article_no": "제155조",
@@ -2216,7 +3139,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0155"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0155"
       },
       {
         "article_no": "제156조",
@@ -2227,7 +3150,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0156"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0156"
       },
       {
         "article_no": "제157조",
@@ -2236,9 +3159,35 @@
         "chapter_path": "제19장 전자 항공지도 전시기-ICAO(Electronic Aeronautical Chart Display-ICAO)",
         "content": "제157조(목적, Function) 전자 항공지도 전시기-ICAO는 부속서 6의 요건을 준수하고 적절한 백업체계를 갖추어야 하며, 운항승무원이 편리하고 신속하게 비행경로 계획, 감시 및 항행을 수행할 수 있도록 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제157조",
+            "source_clause": "제157조",
+            "link_text": "부속서 6",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "부속서6",
+            "target_article_title": "",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "부속서",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0157",
+            "target_unit": "ANN0006",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#ANN0006",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0157"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0157"
       },
       {
         "article_no": "제158조",
@@ -2249,7 +3198,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0158"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0158"
       },
       {
         "article_no": "제159조",
@@ -2258,9 +3207,80 @@
         "chapter_path": "제19장 전자 항공지도 전시기-ICAO(Electronic Aeronautical Chart Display-ICAO)",
         "content": "제159조(전시 요건, Display requirements) 전자 항공지도 전시기-ICAO는 다음 각 호의 요건을 충족하여야 한다.1. 전시 범위(Display categories)가. 전시되는 정보는 다음의 범위로 각각 구분할 것1) 기본 전시 정보: 비행안전에 필수적인 영구적으로 표시하는 최소한의 정보2) 기타 전시 정보: 비행안전에 필수적인 정보는 아니나 필요에 따라 개별적으로 표시하거나 제거가능한 정보나. 기타 전시정보는 간단히 추가 또는 제거할 수 있어야 하며, 기본 전시 정보는 제거할 수 없도록 할 것2. 전시 모드 및 주변 지역의 생성(Display mode and generation of neighboring area)가. 주변 지역을 자동적으로 재설정 및 생성할 경우 실제 이동모드로 항공기 위치를 계속적으로 도식할 수 있도록 하며, 정지 모드 등도 제공할 것나. 지도구역 및 전시기 화면 가장자리로부터의 항공기 위치를 수동으로 변경할 수 있도록 할 것3. 축척(Scale): 전시되는 지도의 축척을 변경 가능하도록 할 것4. 기호(Symbols): 별표 2에 수록된 전자 항공지도 기호를 사용하되 해당 기호가 없는 경우, 다음 각 목의 기준을 충족하도록 할 것가. 선, 호 및 영역 채우기를 최소한으로 할 것나. 기존의 항공지도 기호와 혼동되지 않을 것다. 화면의 가독성을 저해하지 않을 것5. 전시기 하드웨어(Display Hardware)가. 지도 화면의 크기는 과도한 화면이동 없이 제158조에 따른 정보를 전시하기에 충분하도록 할 것나. 전시기는 별표 2에 수록된 항공지도 기호를 정확하게 표현할 수 있는 성능을 갖추도록 할 것다. 화면표시 방식은 조종실의 자연광 및 인공조명 상태에서도 운항승무원이 전시된 정보를 명확하게 인지할 수 있도록 할 것라. 전시화면의 밝기는 운항승무원이 조정할 수 있도록 할 것",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제159조",
+            "source_clause": "제159조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0159",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제159조",
+            "source_clause": "제159조",
+            "link_text": "제158조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제158조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제158조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0159",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0158",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제159조",
+            "source_clause": "제159조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "별표2",
+            "target_article_title": "항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0159",
+            "target_unit": "BYL0002",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0159"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0159"
       },
       {
         "article_no": "제160조",
@@ -2269,9 +3289,30 @@
         "chapter_path": "제19장 전자 항공지도 전시기-ICAO(Electronic Aeronautical Chart Display-ICAO)",
         "content": "제160조(데이터의 제공 및 갱신, Provision and updating of data) ① 전자 항공지도 전시기-ICAO에 사용되는 자료의 제공 및 갱신은 제21조에 명시한 항공정보ㆍ지도 자료 품질관리 요건을 준수하여야 한다.② 전시기는 기존 자료에 대하여 자동적으로 인가된 갱신을 수행할 수 있어야 한다. 이 경우 인가된 자료와 그 자료의 갱신이 올바르게 수행되었음을 확인할 수 있는 수단이 있어야 한다.③ 전시기에는 인가된 자료에 대한 수동 갱신 입력이 가능하여야 하며, 해당 자료가 최종적으로 전시기에 반영되기 전에 간단한 방법으로 검증할 수 있는 기능을 갖추어야 한다. 이 경우 수동으로 갱신 입력한 자료는 전시 화면상 인가된 자료 및 인가된 갱신 자료와 구별되도록 하며, 가독성을 저해하지 않도록 한다.④ 전시기에는 적용 일시를 포함한 모든 갱신 자료에 대한 기록을 유지하여야 한다.⑤ 전시기에는 운항승무원이 갱신 자료를 검토하고 그 자료가 시스템에 반영되었는지 확인할 수 있도록 운항승무원이 갱신 자료를 화면에 표시할 수 있는 기능을 제공하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제160조",
+            "source_clause": "제160조제1항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "항공지도 제작 기준",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119131",
+            "target_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0160",
+            "reference_id": "admrul:항공지도제작기준:admrul_2119131#JO0021",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+          }
+        ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0160"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0160"
       },
       {
         "article_no": "제161조",
@@ -2282,7 +3323,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0161"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0161"
       },
       {
         "article_no": "제162조",
@@ -2293,7 +3334,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0162"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0162"
       },
       {
         "article_no": "제163조",
@@ -2304,7 +3345,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0163"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0163"
       },
       {
         "article_no": "제164조",
@@ -2315,7 +3356,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0164"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0164"
       },
       {
         "article_no": "제165조",
@@ -2326,7 +3367,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0165"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0165"
       },
       {
         "article_no": "제166조",
@@ -2337,7 +3378,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0166"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0166"
       },
       {
         "article_no": "제167조",
@@ -2348,7 +3389,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0167"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0167"
       },
       {
         "article_no": "제168조",
@@ -2359,7 +3400,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0168"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0168"
       },
       {
         "article_no": "제169조",
@@ -2370,7 +3411,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0169"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0169"
       },
       {
         "article_no": "제170조",
@@ -2381,7 +3422,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0170"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0170"
       },
       {
         "article_no": "제171조",
@@ -2392,7 +3433,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0171"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0171"
       },
       {
         "article_no": "제172조",
@@ -2414,17 +3455,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "98143",
+            "source_admrul_seq": "2119131",
             "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
             "resolve_method": "html",
-            "source_provision_id": "admrul:항공지도제작기준#JO0172",
+            "source_provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0172",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공지도제작기준#JO0172"
+        "provision_id": "admrul:항공지도제작기준:admrul_2119131#JO0172"
       }
     ]
   },
@@ -2433,7 +3474,7 @@
       "promulgation_date": "20260903",
       "promulgation_no": "2026-476",
       "content": "부칙 <제2026-476호, 2026. 9. 3.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(다른 행정규칙의 폐지) ‘항공정보 및 항공지도 등에 관한 업무기준’은 폐지한다.",
-      "provision_id": "admrul:항공지도제작기준#ADDENDUM",
+      "provision_id": "admrul:항공지도제작기준:admrul_2119131#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000284776",
       "source_version_uid": "",
@@ -2451,23 +3492,23 @@
       "content": "■ 항공지도 제작 기준 [별표 1]\n항공지도 여백표기(Marginal Note Layout) (제7조 관련)\n┌──────────────────                ┌────────────────────┐\n│표고를 표시하는데 사용된 측정단위 │                │지도종류의 명칭 또는 명칭               │\n│The units of measurement used to  │                │Designation or title of the chart series│\n│express elevation                 │                │                                        │\n└─────────────────┘                └────────────────────┘\n↑                                    ↙\n┌─────┐              ┌────────────┐\n│          │              │                        │\n└─────┘              └────────────┘\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                              ┃\n┃┌──────────────────────────────┐                              ┃\n┃│                                                            │                              ┃\n┃│                                                            │                              ┃\n┃│                                                            │                              ┃\n┃│                                                            │                              ┃\n┃│                                                            │                              ┃\n┃└──────────────────────────────┘                              ┃\n┃                                                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┌─────┐                      ┌───┐            ┌──────────────────┐\n│          │                      │      │            │                                    │\n└─────┘                      └───┘            └──────────────────┘\n↑                                  ↑                    ↑\n┌───────────┐  ┌───────────┐  ┌───────────────────┐\n│항공정보일자          │  │발간기관 명칭 및 위치 │  │지도 번호 및 명칭                     │\n│Date of aeronautical  │  │Name and location of  │  │Number and name of chart              │\n│Information           │  │producing organization│  │                                      │\n└────────────  └────────────  └───────────────────┘",
       "is_file_only": false,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022345",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169386983",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022341",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169386979",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022345",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169386983",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
-      "provision_id": "admrul:항공지도제작기준#BYL0001",
+      "provision_id": "admrul:항공지도제작기준:admrul_2119131#BYL0001",
       "filename": "별표1_항공지도 여백표기(Marginal Note Layout) (제7조 관련).hwp",
       "file_dir": "별표",
       "local_path": "별표/별표1_항공지도 여백표기(Marginal Note Layout) (제7조 관련).hwp",
@@ -2482,23 +3523,23 @@
       "content": "■ 항공지도 제작 기준 [별표 2]\n항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련)\n┌──────────────────────────────┬────┬────────┐\n│표기대상                                                    │약어    │기호 번호       │\n├──────────────────────────────┼────┼────────┤\n│Abandoned canal                                             │        │30              │\n├──────────────────────────────┼────┼────────┤\n│Advisory airspace                                           │ADA     │115             │\n├──────────────────────────────┼────┼────────┤\n│Advisory route                                              │ADR     │118             │\n├──────────────────────────────┼────┼────────┤\n│Aerodrome data in abbreviated form                          │        │96              │\n├──────────────────────────────┼────┼────────┤\n│Aerodrome/Heliport Charts                                   │        │145-161         │\n├──────────────────────────────┼────┼────────┤\n│Aerodrome Obstacle Charts                                   │        │162-170         │\n├──────────────────────────────┼────┼────────┤\n│Aerodrome reference point                                   │        │151             │\n├──────────────────────────────┼────┼────────┤\n│Aerodromes                                                  │        │84-98           │\n├──────────────────────────────┼────┼────────┤\n│Abandoned or closed aerodrome                               │        │91              │\n├──────────────────────────────┼────┼────────┤\n│Emergency aerodrome or aerodrome with no facilities         │        │90              │\n├──────────────────────────────┼────┼────────┤\n│Aerodrome symbols for Approach Charts                       │        │97,98           │\n├──────────────────────────────┼────┼────────┤\n│Aerodrome traffic zone                                      │ATZ     │112             │\n├──────────────────────────────┼────┼────────┤\n│Aeronautical ground light                                   │        │143             │\n├──────────────────────────────┼────┼────────┤\n│Air defence identification zone                             │ADIZ    │117             │\n├──────────────────────────────┼────┼────────┤\n│Airspace, advisory                                          │ADA     │115             │\n├──────────────────────────────┼────┼────────┤\n│Airspace classifications                                    │        │126,127         │\n├──────────────────────────────┼────┼────────┤\n│Airspace(prohibited, restricted or danger area),            │        │128             │\n│restricted, and common boundary of two areas                │        │                │\n├──────────────────────────────┼────┼────────┤\n│Airspace restrictions                                       │        │128,129         │\n├──────────────────────────────┼────┼────────┤\n│Air Traffic Services                                        │        │111-144         │\n├──────────────────────────────┼────┼────────┤\n│Airway                                                      │AWY     │113             │\n├──────────────────────────────┼────┼────────┤\n│Altitude                                                    │        │                │\n│  Minimum sector                                            │        │171             │\n│  Terminal arrival                                          │        │172             │\n├──────────────────────────────┼────┼────────┤\n│Altitude/flight levels                                      │        │125             │\n├──────────────────────────────┼────┼────────┤\n│Anchorage, sheltered                                        │        │92              │\n├──────────────────────────────┼────┼────────┤\n│Areas                                                       │        │                │\n│  Built-up                                                  │        │47-50           │\n│  Not surveyed for contour information or relief data       │        │18              │\n│incomplete                                                  │        │                │\n│  Prohibited                                                │        │128             │\n│  Restricted                                                │        │128             │\n├──────────────────────────────┼────┼────────┤\n│ATS/MET reporting point                                     │MRP     │123             │\n├──────────────────────────────┼────┼────────┤\n│Bluff                                                       │        │4               │\n├──────────────────────────────┼────┼────────┤\n│Boundaries                                                  │        │                │\n│  international                                             │        │63              │\n│  other                                                     │        │64              │\n├──────────────────────────────┼────┼────────┤\n│Building (on Aerodrome Obstacle Charts)                     │        │164             │\n├──────────────────────────────┼────┼────────┤\n│Buildings                                                   │        │50              │\n├──────────────────────────────┼────┼────────┤\n│Cable, overhead                                             │        │166             │\n├──────────────────────────────┼────┼────────┤\n│Canal                                                       │        │29              │\n├──────────────────────────────┼────┼────────┤\n│Canal, abandoned                                            │        │30              │\n├──────────────────────────────┼────┼────────┤\n│Change-over point                                           │COP     │122             │\n├──────────────────────────────┼────┼────────┤\n│Charted isolated rock                                       │        │44              │\n├──────────────────────────────┼────┼────────┤\n│Chart, highest elevation on                                 │        │12              │\n├──────────────────────────────┼────┼────────┤\n│Chart symbols, electronic                                   │        │108, 143,       │\n│                                                            │        │171-180         │\n├──────────────────────────────┼────┼────────┤\n│Church                                                      │        │80              │\n├──────────────────────────────┼────┼────────┤\n│City or large town                                          │        │47              │\n├──────────────────────────────┼────┼────────┤\n│Clearway                                                    │CWY     │170             │\n│(on Aerodrome Obstacle Charts)                              │        │                │\n├──────────────────────────────┼────┼────────┤\n│Cliff                                                       │        │4               │\n├──────────────────────────────┼────┼────────┤\n│Coast guard station                                         │        │73              │\n├──────────────────────────────┼────┼────────┤\n│Collocated DME fix and marker beacon                        │        │180             │\n├──────────────────────────────┼────┼────────┤\n│Collocated radio navigation aid and marker beacon           │        │178             │\n├──────────────────────────────┼────┼────────┤\n│Collocated VOR and DME radio navigation aids                │VOR/DME │103,110         │\n├──────────────────────────────┼────┼────────┤\n│Collocated VOR and TACAN radio navigation aids              │VORTAC  │107,110         │\n├──────────────────────────────┼────┼────────┤\n│Compass rose                                                │        │110             │\n├──────────────────────────────┼────┼────────┤\n│Coniferous trees                                            │        │15              │\n├──────────────────────────────┼────┼────────┤\n│Contours                                                    │        │1               │\n├──────────────────────────────┼────┼────────┤\n│Contours, approximate                                       │        │2               │\n├──────────────────────────────┼────┼────────┤\n│Control area                                               │CTA     │113             │\n├──────────────────────────────┼────┼────────┤\n│Controlled route                                            │        │113             │\n├──────────────────────────────┼────┼────────┤\n│Control zone                                               │CTR     │116             │\n├──────────────────────────────┼────┼────────┤\n│Controlled route                                            │        │113             │\n├──────────────────────────────┼────┼────────┤\n│Coral reefs and ledges                                      │        │22              │\n├──────────────────────────────┼────┼────────┤\n│Culture                                                     │        │47-83           │\n├──────────────────────────────┼────┼────────┤\n│Culture, miscellaneous                                      │        │63-83           │\n├──────────────────────────────┼────┼────────┤\n│Dam                                                         │        │67              │\n├──────────────────────────────┼────┼────────┤\n│Danger area                                                 │        │128             │\n├──────────────────────────────┼────┼────────┤\n│Danger line                                                 │        │43              │\n├──────────────────────────────┼────┼────────┤\n│Distance measuring equipment                                │DME     │102, 110, 176,  │\n│                                                            │        │177             │\n├──────────────────────────────┼────┼────────┤\n│DME distance                                                │        │104             │\n├──────────────────────────────┼────┼────────┤\n│DME fix                                                     │        │179             │\n│  Collocated DME fix and marker beacon                      │        │180             │\n├──────────────────────────────┼────┼────────┤\n│Dry lake bed                                                │        │39              │\n├──────────────────────────────┼────┼────────┤\n│Dual highway                                                │        │57              │\n├──────────────────────────────┼────┼────────┤\n│Dunes, sand                                                 │        │6               │\n├──────────────────────────────┼────┼────────┤\n│Electronic chart symbols                                    │        │108,143,171-180 │\n├──────────────────────────────┼────┼────────┤\n│Elevation(of doubtful accuracy), spot                       │        │14              │\n├──────────────────────────────┼────┼────────┤\n│Elevation, spot                                             │        │13              │\n├──────────────────────────────┼────┼────────┤\n│Escarpment                                                  │        │4               │\n├──────────────────────────────┼────┼────────┤\n│Escarpment (on Aerodrome Obstacle Charts)                   │        │168             │\n├──────────────────────────────┼────┼────────┤\n│Esker                                                       │        │9               │\n├──────────────────────────────┼────┼────────┤\n│Falls                                                       │        │28              │\n├──────────────────────────────┼────┼────────┤\n│Fence                                                       │        │65              │\n├──────────────────────────────┼────┼────────┤\n│Ferry                                                       │        │68              │\n├──────────────────────────────┼────┼────────┤\n│Final approach fix                                          │FAF     │124             │\n├──────────────────────────────┼────┼────────┤\n│Flight information region                                   │FIR     │111             │\n├──────────────────────────────┼────┼────────┤\n│Flight levels                                               │        │125             │\n├──────────────────────────────┼────┼────────┤\n│Forest ranger station                                       │        │76              │\n├──────────────────────────────┼────┼────────┤\n│Fort                                                        │        │79              │\n├──────────────────────────────┼────┼────────┤\n│Gas field                                                   │        │70              │\n├──────────────────────────────┼────┼────────┤\n│Glaciers                                                    │        │42              │\n├──────────────────────────────┼────┼────────┤\n│Gravel                                                      │        │8               │\n├──────────────────────────────┼────┼────────┤\n│Hard surface runway (on Aerodrome/Heliport Charts)          │        │145             │\n├──────────────────────────────┼────┼────────┤\n│Holding pattern (on electronic charts)                      │        │173             │\n├──────────────────────────────┼────┼────────┤\n│Helicopter alighting area on an aerodrome                   │        │150             │\n│(on Aerodrome/Heliport Charts)                              │        │                │\n├──────────────────────────────┼────┼────────┤\n│Heliport                                                    │        │94              │\n├──────────────────────────────┼────┼────────┤\n│Highest elevation on chart                                  │        │12              │\n├──────────────────────────────┼────┼────────┤\n│Highway, dual                                               │        │57              │\n├──────────────────────────────┼────┼────────┤\n│Highways and roads                                          │        │57-62           │\n├──────────────────────────────┼────┼────────┤\n│Hydrography                                                 │        │19-46           │\n├──────────────────────────────┼────┼────────┤\n│Ice caps                                                    │        │42              │\n├──────────────────────────────┼────┼────────┤\n│Instrument landing system                                  │ILS     │108             │\n├──────────────────────────────┼────┼────────┤\n│Intermediate holding position                               │        │160             │\n├──────────────────────────────┼────┼────────┤\n│International boundary closed to passage of aircraft        │        │129             │\n│except through air corridor                                 │        │                │\n├──────────────────────────────┼────┼────────┤\n│Intersection                                                │INT     │121             │\n├──────────────────────────────┼────┼────────┤\n│Isogonic line or isogonal                                   │        │138             │\n├──────────────────────────────┼────┼────────┤\n│Lake bed, dry                                               │        │39              │\n├──────────────────────────────┼────┼────────┤\n│Lakes                                                       │        │                │\n│  Non-perennial                                             │        │32              │\n│  Perennial                                                 │        │31              │\n├──────────────────────────────┼────┼────────┤\n│Land                                                        │        │                │\n│  Civil                                                     │        │84              │\n│  Military                                                  │        │86              │\n│  Joint civil and military                                  │        │88              │\n├──────────────────────────────┼────┼────────┤\n│Land features appropriately labelled, unusual               │        │10              │\n├──────────────────────────────┼────┼────────┤\n│Landing direction indicator                                 │        │                │\n│  Lighted                                                   │        │156             │\n│  Unlighted                                                 │        │157             │\n├──────────────────────────────┼────┼────────┤\n│Large river(perennial)                                      │        │23              │\n├──────────────────────────────┼────┼────────┤\n│Large structure                                             │        │164             │\n├──────────────────────────────┼────┼────────┤\n│Lava flow                                                   │        │5               │\n├──────────────────────────────┼────┼────────┤\n│Ledges                                                      │        │22              │\n├──────────────────────────────┼────┼────────┤\n│Levee                                                       │        │9               │\n├──────────────────────────────┼────┼────────┤\n│Lightship                                                   │        │144             │\n├──────────────────────────────┼────┼────────┤\n│Lookout tower                                               │        │74              │\n├──────────────────────────────┼────┼────────┤\n│Marine light                                                │        │142             │\n├──────────────────────────────┼────┼────────┤\n│Mine                                                        │        │75              │\n├──────────────────────────────┼────┼────────┤\n│Minimum sector altitude                                     │MSA     │171             │\n├──────────────────────────────┼────┼────────┤\n│Miscellaneous symbols                                       │        │                │\n│  Air Traffic Services                                      │        │137-141         │\n│  Culture                                                   │        │63-83           │\n├──────────────────────────────┼────┼────────┤\n│Missed approach track                                       │        │174             │\n├──────────────────────────────┼────┼────────┤\n│Mosque                                                      │        │81              │\n├──────────────────────────────┼────┼────────┤\n│Mountain pass                                               │        │11              │\n├──────────────────────────────┼────┼────────┤\n│NDB                                                         │        │121             │\n├──────────────────────────────┼────┼────────┤\n│Non-directional radio beacon                                │NDB     │100             │\n├──────────────────────────────┼────┼────────┤\n│Nuclear power station                                       │        │72              │\n├──────────────────────────────┼────┼────────┤\n│Obstacle light                                              │        │155             │\n├──────────────────────────────┼────┼────────┤\n│Obstacles                                                   │        │130-136         │\n├──────────────────────────────┼────┼────────┤\n│Ocean station vessel                                        │        │139             │\n├──────────────────────────────┼────┼────────┤\n│Oil field                                                   │        │70              │\n├──────────────────────────────┼────┼────────┤\n│Overhead cable                                              │        │166             │\n├──────────────────────────────┼────┼────────┤\n│Pagoda                                                      │        │82              │\n├──────────────────────────────┼────┼────────┤\n│Palms                                                       │        │17              │\n├──────────────────────────────┼────┼────────┤\n│Parking areas                                               │        │149             │\n├──────────────────────────────┼────┼────────┤\n│Piereced steel plank or steel mesh runway                   │        │146             │\n├──────────────────────────────┼────┼────────┤\n│Pipeline                                                    │        │69              │\n├──────────────────────────────┼────┼────────┤\n│Point light                                                 │        │154             │\n├──────────────────────────────┼────┼────────┤\n│Pole                                                        │        │163             │\n├──────────────────────────────┼────┼────────┤\n│Power station, nuclear                                      │        │72              │\n├──────────────────────────────┼────┼────────┤\n│Primary road                                                │        │58              │\n├──────────────────────────────┼────┼────────┤\n│Prohibited area                                             │        │128             │\n├──────────────────────────────┼────┼────────┤\n│Prominent transmission line                                 │        │137             │\n├──────────────────────────────┼────┼────────┤\n│Race track                                                  │        │77              │\n├──────────────────────────────┼────┼────────┤\n│Radio marker beacon                                         │        │109, 177        │\n├──────────────────────────────┼────┼────────┤\n│Radio navigation aid                                        │        │                │\n│  Basic                                                     │        │99              │\n│  Collocated radio navigation aid and marker beacon         │        │178             │\n│  Collocated VOR/DME                                        │        │103             │\n│  Collocated VOR and TACAN                                  │        │107             │\n├──────────────────────────────┼────┼────────┤\n│Radio navigation aids                                       │        │99-110,176,178  │\n├──────────────────────────────┼────┼────────┤\n│Railroad(on Aerodrome Obstacle Charts)                      │        │165             │\n├──────────────────────────────┼────┼────────┤\n│Railroads(Culture)                                          │        │51-56           │\n├──────────────────────────────┼────┼────────┤\n│Rapids                                                      │        │27              │\n├──────────────────────────────┼────┼────────┤\n│Relief data incomplete                                      │        │18              │\n├──────────────────────────────┼────┼────────┤\n│Relief shown by hachures                                    │        │3               │\n├──────────────────────────────┼────┼────────┤\n│Reporting and fly-by/flyover functionality                  │        │121             │\n├──────────────────────────────┼────┼────────┤\n│Reservor                                                    │        │38              │\n├──────────────────────────────┼────┼────────┤\n│Restricted airspace(prohibited, restricted or danger area)  │        │128             │\n│and common boundary of two areas                            │        │                │\n├──────────────────────────────┼────┼────────┤\n│Restricted area                                             │        │128             │\n├──────────────────────────────┼────┼────────┤\n│Rice field                                                  │        │36              │\n├──────────────────────────────┼────┼────────┤\n│River                                                       │        │                │\n│  (Perennial), small                                        │        │24              │\n│  (Perennial), large                                        │        │23              │\n├──────────────────────────────┼────┼────────┤\n│Rivers and streams                                          │        │                │\n│  Non-Perennial                                             │        │25              │\n│  Unsurveyed                                                │        │26              │\n├──────────────────────────────┼────┼────────┤\n│Road bridge                                                 │        │61              │\n├──────────────────────────────┼────┼────────┤\n│Road, primary                                               │        │58              │\n├──────────────────────────────┼────┼────────┤\n│Road, secondary                                             │        │59              │\n├──────────────────────────────┼────┼────────┤\n│Roads(Highways and Roads)                                   │        │57-62           │\n├──────────────────────────────┼────┼────────┤\n│Road tunnel                                                 │        │62              │\n├──────────────────────────────┼────┼────────┤\n│Rock awash                                                  │        │45              │\n├──────────────────────────────┼────┼────────┤\n│Rock, charted isolated                                      │        │44              │\n├──────────────────────────────┼────┼────────┤\n│Route                                                       │        │                │\n│  Advisory                                                  │ADR     │118             │\n│  Controlled                                                │        │113             │\n│  Uncontrolled                                              │        │114             │\n├──────────────────────────────┼────┼────────┤\n│Ruins                                                       │        │175             │\n├──────────────────────────────┼────┼────────┤\n│Runway                                                      │        │                │\n│  Hard surface                                              │        │145             │\n│  Unpaved                                                   │        │147             │\n├──────────────────────────────┼────┼────────┤\n│Runway-holding position                                     │        │159             │\n├──────────────────────────────┼────┼────────┤\n│Runway visual(RVR) observation site                         │        │153             │\n├──────────────────────────────┼────┼────────┤\n│Salt lake                                                   │        │33              │\n├──────────────────────────────┼────┼────────┤\n│Salt pans(evaporator)                                       │        │34              │\n├──────────────────────────────┼────┼────────┤\n│Sand area                                                   │        │7               │\n├──────────────────────────────┼────┼────────┤\n│Sand dunes                                                  │        │6               │\n├──────────────────────────────┼────┼────────┤\n│Scale-break(on ATS route)                                   │        │120             │\n├──────────────────────────────┼────┼────────┤\n│Secondary road                                              │        │59              │\n├──────────────────────────────┼────┼────────┤\n│Sheltered anchorage                                         │        │92              │\n├──────────────────────────────┼────┼────────┤\n│Shoals                                                      │        │41              │\n├──────────────────────────────┼────┼────────┤\n│Shore line                                                  │        │                │\n│  Reliable                                                  │        │19              │\n│  Unreliable                                                │        │20              │\n├──────────────────────────────┼────┼────────┤\n│Shrub                                                       │        │162             │\n├──────────────────────────────┼────┼────────┤\n│Small river(perennial)                                      │        │24              │\n├──────────────────────────────┼────┼────────┤\n│Spire                                                       │        │163             │\n├──────────────────────────────┼────┼────────┤\n│Spot elevation                                              │        │13              │\n├──────────────────────────────┼────┼────────┤\n│Spot elevation(of doubtful accuracy)                        │        │14              │\n├──────────────────────────────┼────┼────────┤\n│Spring(perennial or intermittent)                           │        │37              │\n├──────────────────────────────┼────┼────────┤\n│Stadium                                                     │        │77              │\n├──────────────────────────────┼────┼────────┤\n│Steel mesh runway                                           │        │146             │\n├──────────────────────────────┼────┼────────┤\n│Steel plank, pierced                                        │        │146             │\n├──────────────────────────────┼────┼────────┤\n│Stop bar                                                    │        │158             │\n├──────────────────────────────┼────┼────────┤\n│Stopway(on Aerodrome/Heliport Charts)                       │SWY     │148             │\n├──────────────────────────────┼────┼────────┤\n│Stopway(on Aerodrome Obstacle Charts)                       │SWY     │169             │\n├──────────────────────────────┼────┼────────┤\n│Streams                                                     │        │25,26           │\n├──────────────────────────────┼────┼────────┤\n│Structure, large                                            │        │164             │\n├──────────────────────────────┼────┼────────┤\n│Swamp                                                       │        │35              │\n├──────────────────────────────┼────┼────────┤\n│TACAN                                                       │        │121             │\n├──────────────────────────────┼────┼────────┤\n│TACAN(UHF tactical air navigation aid)                      │        │106,110         │\n├──────────────────────────────┼────┼────────┤\n│Tank farms                                                  │        │71              │\n├──────────────────────────────┼────┼────────┤\n│Taxiways                                                    │        │149             │\n├──────────────────────────────┼────┼────────┤\n│Telegraph or telephone line(When a landmark)                │        │66              │\n├──────────────────────────────┼────┼────────┤\n│Temple                                                      │        │83              │\n├──────────────────────────────┼────┼────────┤\n│Terminal arrival altitued                                   │TAA     │172             │\n├──────────────────────────────┼────┼────────┤\n│Terrain penetrating obstacle plane                          │        │167             │\n├──────────────────────────────┼────┼────────┤\n│Tidal flats                                                 │        │21              │\n├──────────────────────────────┼────┼────────┤\n│Topography                                                  │        │1-18            │\n├──────────────────────────────┼────┼────────┤\n│Tower                                                       │        │                │\n│  Lookout                                                   │        │74              │\n│  On Aerodrome Obstacle Charts                              │        │163             │\n├──────────────────────────────┼────┼────────┤\n│Town                                                        │        │48              │\n├──────────────────────────────┼────┼────────┤\n│Town, large                                                 │        │47              │\n├──────────────────────────────┼────┼────────┤\n│Transmission line                                           │        │                │\n│  On Aerodrome Obstacle Charts                              │        │166             │\n│  Prominent                                                 │        │137             │\n├──────────────────────────────┼────┼────────┤\n│Tree                                                        │        │                │\n│  Coniferous                                                │        │15              │\n│  On Aerodrome Obstacle Charts                              │        │162             │\n│  Other                                                     │        │16              │\n├──────────────────────────────┼────┼────────┤\n│UHF tactical air navigation aid(TACAN)                      │        │106,110         │\n├──────────────────────────────┼────┼────────┤\n│Uncontrolled route                                          │        │114             │\n├──────────────────────────────┼────┼────────┤\n│Unpaved runway                                              │        │147             │\n├──────────────────────────────┼────┼────────┤\n│Unusual land features appropriately labelled                │        │10              │\n├──────────────────────────────┼────┼────────┤\n│Unusual water features appropriately labelled               │        │46              │\n├──────────────────────────────┼────┼────────┤\n│VFR reporting point                                         │        │121             │\n├──────────────────────────────┼────┼────────┤\n│VHF omnidirectional radio range                             │VOR     │101,110         │\n├──────────────────────────────┼────┼────────┤\n│Village                                                     │        │49              │\n├──────────────────────────────┼────┼────────┤\n│Visual aids                                                 │        │142-144         │\n├──────────────────────────────┼────┼────────┤\n│Visual flight path                                          │        │119             │\n├──────────────────────────────┼────┼────────┤\n│VOR                                                         │        │121             │\n├──────────────────────────────┼────┼────────┤\n│VOR check-point                                             │        │152             │\n├──────────────────────────────┼────┼────────┤\n│VOR/DME                                                     │        │121             │\n├──────────────────────────────┼────┼────────┤\n│VOR/DME(collocated VOR and DME radio navigation             │        │103             │\n│aids)                                                       │        │                │\n├──────────────────────────────┼────┼────────┤\n│VOR radial                                                  │        │105             │\n├──────────────────────────────┼────┼────────┤\n│VORTAC                                                      │        │121             │\n├──────────────────────────────┼────┼────────┤\n│VORTAC(collocated VOR and TACAN radio navigation            │        │107             │\n│aids)                                                       │        │                │\n├──────────────────────────────┼────┼────────┤\n│VOR(VHF omnidirectional radio range)                        │        │101             │\n├──────────────────────────────┼────┼────────┤\n│Wash                                                        │        │40              │\n├──────────────────────────────┼────┼────────┤\n│Water                                                       │        │                │\n│  Civil                                                     │        │85              │\n│  Military                                                  │        │87              │\n│  Joint civil and military                                  │        │89              │\n├──────────────────────────────┼────┼────────┤\n│Water features appropriately labelled, unusual              │        │46              │\n├──────────────────────────────┼────┼────────┤\n│Water hole (perennial or intermittent)                      │        │37              │\n├──────────────────────────────┼────┼────────┤\n│Waypoint                                                   │WPT     │121             │\n├──────────────────────────────┼────┼────────┤\n│Well (perennial or intermittent)                            │        │37              │\n├──────────────────────────────┼────┼────────┤\n│Wind turbine, unlighted and lighted                         │        │140             │\n├──────────────────────────────┼────┼────────┤\n│Wind turbines, minor group and group in major area,         │        │141             │\n│lighted                                                     │        │                │\n└──────────────────────────────┴────┴────────┘\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
       "is_file_only": false,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022375",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387013",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022347",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169386985",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022375",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387013",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
-      "provision_id": "admrul:항공지도제작기준#BYL0002",
+      "provision_id": "admrul:항공지도제작기준:admrul_2119131#BYL0002",
       "filename": "별표2_항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련).hwp",
       "file_dir": "별표",
       "local_path": "별표/별표2_항공지도 기호(ICAO Chart Symbols) (제8조, 제18조, 제48조, 제139조, 제148조 및 제159조 관련).hwp",
@@ -2513,23 +3554,23 @@
       "content": "■ 항공지도 제작 기준 [별표 3]\n항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련)\n\n\n\n\n\n\n\n",
       "is_file_only": false,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022383",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387021",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022377",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387015",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022383",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387021",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
-      "provision_id": "admrul:항공지도제작기준#BYL0003",
+      "provision_id": "admrul:항공지도제작기준:admrul_2119131#BYL0003",
       "filename": "별표3_항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련).hwp",
       "file_dir": "별표",
       "local_path": "별표/별표3_항공지도 색상기준(Colour Guide) (제15조, 제71조, 제80조, 제89조 및 제99조 관련).hwp",
@@ -2544,23 +3585,23 @@
       "content": "■ 항공지도 제작 기준 [별표 4]\n항공지도 고도별 색조 용례(Hypsometric Tint Guide)\n(제16조 관련)\n\n\n\n\n",
       "is_file_only": false,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022389",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387027",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022385",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387023",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022389",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387027",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
-      "provision_id": "admrul:항공지도제작기준#BYL0004",
+      "provision_id": "admrul:항공지도제작기준:admrul_2119131#BYL0004",
       "filename": "별표4_항공지도 고도별 색조 용례(Hypsometric Tint Guide) (제16조 관련).hwp",
       "file_dir": "별표",
       "local_path": "별표/별표4_항공지도 고도별 색조 용례(Hypsometric Tint Guide) (제16조 관련).hwp",
@@ -2575,23 +3616,23 @@
       "content": "■ 항공지도 제작 기준 [별표 5]\n세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1:1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련)",
       "is_file_only": false,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284776&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022395",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387033",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022391",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387029",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169022395",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169387033",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
-      "provision_id": "admrul:항공지도제작기준#BYL0005",
+      "provision_id": "admrul:항공지도제작기준:admrul_2119131#BYL0005",
       "filename": "별표5_세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1_1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련).hwp",
       "file_dir": "별표",
       "local_path": "별표/별표5_세계항공도 도곽선(Sheet Layout for the World Aeronautical Chart-ICAO 1_1,000,000) (제132조, 제134조, 제136조, 제141조 및 제150조 관련).hwp",
@@ -2618,16 +3659,18 @@
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 24,
+    "relations_total": 69,
     "by_category": {
       "법령": 12,
-      "행정규칙": 12
+      "행정규칙": 57
     },
     "by_relation_type": {
-      "citation": 24
+      "citation": 24,
+      "appendix_ref": 22,
+      "internal_ref": 23
     },
     "articles_total": 172,
-    "articles_with_relations": 13,
+    "articles_with_relations": 44,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -2638,14 +3681,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/항공지도 제작 기준"
   },
-  "provision_id": "admrul:항공지도제작기준#DOC",
-  "addendum_provision_id": "admrul:항공지도제작기준#ADDENDUM",
-  "amendment_provision_id": "admrul:항공지도제작기준#AMENDMENT",
+  "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+  "addendum_provision_id": "admrul:항공지도제작기준:admrul_2119131#ADDENDUM",
+  "amendment_provision_id": "admrul:항공지도제작기준:admrul_2119131#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
-  "repealed": true,
-  "repealed_at": "20260915"
+  "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json"
 }
