@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0001",
             "reference_id": "law:책임운영기관의설치운영에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0001",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -163,7 +167,11 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0006",
             "reference_id": "admrul:국립마산병원기본운영규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json"
+            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_path": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -195,7 +203,11 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0007",
             "reference_id": "admrul:국립마산병원기본운영규정#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json"
+            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_path": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -220,7 +232,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:국립마산병원기본운영규정#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json"
+            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_path": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_file_path": "국립마산병원 기본운영규정/별지/별지1_입원동의서(제7조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -263,7 +280,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0009",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -283,7 +302,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0009",
             "reference_id": "law:의료급여법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -315,7 +336,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0010",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -335,7 +358,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0010",
             "reference_id": "law:국민건강보험법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -355,7 +380,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0010",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -375,7 +402,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0010",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -395,7 +424,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0010",
             "reference_id": "law:의료급여법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -415,7 +446,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0010",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -435,7 +468,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0010",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -533,7 +568,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0017",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -565,7 +602,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0018",
             "reference_id": "law:생명윤리및안전에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -585,7 +624,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0018",
             "reference_id": "law:생명윤리및안전에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -605,7 +646,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0018",
             "reference_id": "law:생명윤리및안전에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -625,7 +668,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0018",
             "reference_id": "law:생명윤리및안전에관한법률#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -645,7 +690,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0018",
             "reference_id": "law:생명윤리및안전에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -665,7 +712,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0018",
             "reference_id": "law:생명윤리및안전에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -685,7 +734,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0018",
             "reference_id": "law:생명윤리및안전에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json"
+            "target_git_path_guess": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_git_path": "생명윤리 및 안전에 관한 법률/법률/생명윤리 및 안전에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -744,7 +795,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국립마산병원기본운영규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json"
+            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_path": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_file_path": "국립마산병원 기본운영규정/별표/별표1_국립마산병원공무원정원표(제21조관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -764,7 +820,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0021",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -784,7 +842,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0021",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -809,7 +869,12 @@
             "target_unit": "BYL0001_02",
             "reference_id": "admrul:국립마산병원기본운영규정#BYL0001_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json"
+            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_path": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_file_path": "국립마산병원 기본운영규정/별표/별표1의2_국립마산병원공무원정원표(제21조관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -829,7 +894,11 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0021",
             "reference_id": "admrul:국립마산병원기본운영규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json"
+            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_path": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -849,7 +918,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0021",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -869,7 +940,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0021",
             "reference_id": "law:국가공무원법#JO0026_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -923,7 +996,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0023",
             "reference_id": "law:책임운영기관의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -943,7 +1018,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0023",
             "reference_id": "law:책임운영기관의설치운영에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -963,7 +1040,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0023",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -983,7 +1062,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0023",
             "reference_id": "law:국가공무원법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1026,7 +1107,11 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0025",
             "reference_id": "admrul:국립마산병원기본운영규정#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json"
+            "target_git_path_guess": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_git_path": "국립마산병원 기본운영규정/국립마산병원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1046,7 +1131,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0025",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1066,7 +1153,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0025",
             "reference_id": "law:국가공무원법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1164,7 +1253,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0032",
             "reference_id": "law:공무원임용시험령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1184,7 +1275,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0032",
             "reference_id": "law:공무원임용시험령#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1293,7 +1386,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0040",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1325,7 +1420,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0041",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1379,7 +1476,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0044",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1411,7 +1510,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0045",
             "reference_id": "law:책임운영기관의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1431,7 +1532,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0045",
             "reference_id": "law:정부기업예산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json"
+            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json",
+            "target_git_path": "정부기업예산법/법률/정부기업예산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1451,7 +1554,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0045",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1471,7 +1576,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0045",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1491,7 +1598,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0045",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1556,7 +1665,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0049",
             "reference_id": "law:책임운영기관의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1576,7 +1687,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0049",
             "reference_id": "law:책임운영기관의설치운영에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1707,7 +1820,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0059",
             "reference_id": "law:자산재평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json",
+            "target_git_path": "자산재평가법/법률/자산재평가법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1727,7 +1842,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0059",
             "reference_id": "law:국가회계기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json"
+            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_git_path": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1747,7 +1864,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0059",
             "reference_id": "law:국가회계기준에관한규칙#JO0038_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json"
+            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_git_path": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1834,7 +1953,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0065",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1866,7 +1987,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0066",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1886,7 +2009,9 @@
             "source_provision_id": "admrul:국립마산병원기본운영규정#JO0066",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
