@@ -889,13 +889,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/성평등가족부 정보보안업무규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:성평등가족부정보화업무규정#JO0025",
-            "reference_id": "admrul:성평등가족부정보보안업무규정#DOC",
+            "reference_id": "admrul:성평등가족부사이버보안업무규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "성평등가족부 정보보안업무규정/성평등가족부 정보보안업무규정.json",
-            "target_git_path": "성평등가족부 정보보안 업무규정/성평등가족부 정보보안 업무규정.json",
+            "target_git_path": "성평등가족부 사이버보안 업무규정/성평등가족부 사이버보안 업무규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "성평등가족부 사이버보안 업무규정/성평등가족부 사이버보안 업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:성평등가족부사이버보안업무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "성평등가족부 정보보안 업무규정/성평등가족부 정보보안 업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:성평등가족부정보보안업무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20251001"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",

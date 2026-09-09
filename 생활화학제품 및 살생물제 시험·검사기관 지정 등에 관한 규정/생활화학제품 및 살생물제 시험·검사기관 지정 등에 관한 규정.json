@@ -456,10 +456,27 @@
             "reference_id": "admrul:안전확인대상생활화학제품지정및안전표시기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "안전확인대상생활화학제품 지정 및 안전ㆍ표시기준/안전확인대상생활화학제품 지정 및 안전ㆍ표시기준.json",
-            "target_git_path": "안전확인대상생활화학제품 지정 및 안전·표시기준/안전확인대상생활화학제품 지정 및 안전·표시기준.json",
+            "target_git_path": "안전확인대상생활화학제품 지정 및 안전ㆍ표시기준/안전확인대상생활화학제품 지정 및 안전ㆍ표시기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "안전확인대상생활화학제품 지정 및 안전·표시기준/안전확인대상생활화학제품 지정 및 안전·표시기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전확인대상생활화학제품지정및안전표시기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "안전확인대상생활화학제품 지정 및 안전ㆍ표시기준/안전확인대상생활화학제품 지정 및 안전ㆍ표시기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전확인대상생활화학제품지정및안전표시기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",

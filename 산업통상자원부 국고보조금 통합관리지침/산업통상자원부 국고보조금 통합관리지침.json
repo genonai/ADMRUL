@@ -176,13 +176,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제33조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0003",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0033",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0033",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0033",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0033",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -317,15 +334,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0004_02",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0003",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BYL0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별표/별표3_내역사업 단계별 분류기준 (제4조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별표/별표3_내역사업 단계별 분류기준 (제4조의2 관련).hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별표/별표3_내역사업 단계별 분류기준 (제4조의2 관련).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BYL0003",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0003",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -348,15 +382,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0004_02",
             "target_unit": "BYL0005",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0005",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BYL0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별표/별표5_내역사업 관리속성 구성 (제4조의2 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별표/별표5_내역사업 관리속성 구성 (제4조의2 관련).hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별표/별표5_내역사업 관리속성 구성 (제4조의2 관련).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BYL0005",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0005",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -402,15 +453,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0005",
             "target_unit": "BYL0001",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0001",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BYL0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별표/별표1_보조사업 선정 기준(제5조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별표/별표1_보조사업 선정 기준(제5조 관련).hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별표/별표1_보조사업 선정 기준(제5조 관련).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -490,15 +558,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0008",
             "target_unit": "BJ0001",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0001",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지1_보조사업 총괄표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지1_보조사업 총괄표.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지1_보조사업 총괄표.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -528,13 +613,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제10조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0009",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0010_02",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0010_02",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0010_02",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0010_02",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -624,15 +726,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0010_02",
             "target_unit": "BJ0007",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0007",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0007",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지7_중복수급 검토제외 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지7_중복수급 검토제외 신청서.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지7_중복수급 검토제외 신청서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0007",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0007",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -954,15 +1073,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0012",
             "target_unit": "BJ0002",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0002",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지2_국고보조금 교부결정통지서 (예시).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지2_국고보조금 교부결정통지서 (예시).hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지2_국고보조금 교부결정통지서 (예시).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1086,15 +1222,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0015",
             "target_unit": "BYL0002",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0002",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BYL0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별표/별표2_보조사업비 카드 사용제한 업종 (제15조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별표/별표2_보조사업비 카드 사용제한 업종 (제15조 관련).hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별표/별표2_보조사업비 카드 사용제한 업종 (제15조 관련).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1117,15 +1270,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0015",
             "target_unit": "BYL0002",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0002",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BYL0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별표/별표2_보조사업비 카드 사용제한 업종 (제15조 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별표/별표2_보조사업비 카드 사용제한 업종 (제15조 관련).hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별표/별표2_보조사업비 카드 사용제한 업종 (제15조 관련).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1166,13 +1336,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제13조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0016",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0013",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0013",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0013",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0013",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1207,15 +1394,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0016_02",
             "target_unit": "BJ0008",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0008",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1245,13 +1449,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제4조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0016_03",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0004",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0004",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1281,13 +1502,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0017",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0002",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0002",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1383,13 +1621,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제17조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0018",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0017",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0017",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0017",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0017",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1552,13 +1807,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제22조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0023",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0022",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0022",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0022",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0022",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -1576,13 +1848,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0023",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1742,13 +2031,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0024",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1802,13 +2108,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0025",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1882,13 +2205,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0026",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1964,13 +2304,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침/제28조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0029",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0028",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#JO0028",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#JO0028",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0028",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -2005,15 +2362,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0029_02",
             "target_unit": "BJ0008",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0008",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -2036,15 +2410,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0029_02",
             "target_unit": "BJ0008",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0008",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지8_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공 동의서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -2241,15 +2632,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0035",
             "target_unit": "BJ0003",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0003",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지3_중요재산 현황(국고보조금 통합관리지침).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지3_중요재산 현황(국고보조금 통합관리지침).hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지3_중요재산 현황(국고보조금 통합관리지침).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0003",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0003",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -2295,15 +2703,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0037",
             "target_unit": "BJ0004",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0004",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지4_보조금이 지원된 부동산 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지4_보조금이 지원된 부동산 증명서.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지4_보조금이 지원된 부동산 증명서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -2326,15 +2751,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0037",
             "target_unit": "BJ0005",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0005",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지5_부기등기 말소 대상 부동산 증명서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지5_부기등기 말소 대상 부동산 증명서.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지5_부기등기 말소 대상 부동산 증명서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],
@@ -2369,15 +2811,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부국고보조금통합관리지침#JO0038",
             "target_unit": "BJ0006",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0006",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#BJ0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_local_path": "별지/별지6_포상금 지급 신청서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "산업통상자원부 국고보조금 통합관리지침/별지/별지6_포상금 지급 신청서.hwp"
+            "target_git_file_path": "산업통상부 국고보조금 관리지침/별지/별지6_포상금 지급 신청서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],

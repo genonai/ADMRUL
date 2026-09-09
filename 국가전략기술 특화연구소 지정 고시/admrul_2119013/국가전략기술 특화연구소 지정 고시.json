@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#JO0001",
             "reference_id": "law:국가전략기술육성에관한특별법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가전략기술 육성에 관한 특별법/법률/국가전략기술 육성에 관한 특별법.json"
+            "target_git_path_guess": "국가전략기술 육성에 관한 특별법/법률/국가전략기술 육성에 관한 특별법.json",
+            "target_git_path": "국가전략기술 육성에 관한 특별법/법률/국가전략기술 육성에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#JO0001",
             "reference_id": "law:국가전략기술육성에관한특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가전략기술 육성에 관한 특별법/시행령/국가전략기술 육성에 관한 특별법 시행령.json"
+            "target_git_path_guess": "국가전략기술 육성에 관한 특별법/시행령/국가전략기술 육성에 관한 특별법 시행령.json",
+            "target_git_path": "국가전략기술 육성에 관한 특별법/시행령/국가전략기술 육성에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#JO0001",
             "reference_id": "law:국가전략기술육성에관한특별법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가전략기술 육성에 관한 특별법/시행령/국가전략기술 육성에 관한 특별법 시행령.json"
+            "target_git_path_guess": "국가전략기술 육성에 관한 특별법/시행령/국가전략기술 육성에 관한 특별법 시행령.json",
+            "target_git_path": "국가전략기술 육성에 관한 특별법/시행령/국가전략기술 육성에 관한 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,11 @@
             "source_provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#JO0002",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -235,5 +245,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국가전략기술 특화연구소 지정 고시/admrul_2119013/국가전략기술 특화연구소 지정 고시.json"
+  "git_path": "국가전략기술 특화연구소 지정 고시/admrul_2119013/국가전략기술 특화연구소 지정 고시.json",
+  "_schlpub_id_suffix": "admrul_2119013"
 }

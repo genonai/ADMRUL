@@ -144,7 +144,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0008",
             "reference_id": "admrul:군인인사관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -198,7 +202,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0011",
             "reference_id": "admrul:방위사업청공무원인사운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json"
+            "target_git_path_guess": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json",
+            "target_git_path": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -218,7 +226,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0011",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -238,7 +248,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0011",
             "reference_id": "admrul:방위사업청공무원인사운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json"
+            "target_git_path_guess": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json",
+            "target_git_path": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -258,7 +272,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0011",
             "reference_id": "admrul:방위사업청공무원인사운영규정#JO0005_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json"
+            "target_git_path_guess": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json",
+            "target_git_path": "방위사업청 공무원 인사운영규정/방위사업청 공무원 인사운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -278,7 +296,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0011",
             "reference_id": "law:군인징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 징계령/법률/군인 징계령.json"
+            "target_git_path_guess": "군인 징계령/법률/군인 징계령.json",
+            "target_git_path": "군인 징계령/법률/군인 징계령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -298,7 +318,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0011",
             "reference_id": "law:군인징계령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 징계령/법률/군인 징계령.json"
+            "target_git_path_guess": "군인 징계령/법률/군인 징계령.json",
+            "target_git_path": "군인 징계령/법률/군인 징계령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -318,7 +340,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0011",
             "reference_id": "law:군인사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -437,7 +461,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0019",
             "reference_id": "admrul:국방인사관리훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 인사관리 훈령/국방 인사관리 훈령.json"
+            "target_git_path_guess": "국방 인사관리 훈령/국방 인사관리 훈령.json",
+            "target_git_path": "국방 인사관리 훈령/국방 인사관리 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -469,7 +497,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0021",
             "reference_id": "admrul:군인인사관리규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -489,7 +521,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0021",
             "reference_id": "admrul:군인인사관리규정#JO0056",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -509,7 +545,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0021",
             "reference_id": "admrul:군인인사관리규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -529,7 +569,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0021",
             "reference_id": "admrul:군인인사관리규정#JO0050",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -727,7 +771,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0027",
             "reference_id": "admrul:군인인사관리규정#JO0026",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -819,7 +867,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0030",
             "reference_id": "admrul:군인인사관리규정#JO0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -839,7 +891,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0030",
             "reference_id": "admrul:군인인사관리규정#JO0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -859,7 +915,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0030",
             "reference_id": "admrul:군인인사관리규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -891,7 +951,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0031",
             "reference_id": "admrul:군인인사관리규정#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -911,7 +975,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0031",
             "reference_id": "admrul:군인인사관리규정#JO0026",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -964,7 +1032,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0033",
             "reference_id": "admrul:군인인사관리규정#JO0035",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -1186,7 +1258,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0042",
             "reference_id": "admrul:군인인사관리규정#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1488,7 +1564,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0064",
             "reference_id": "admrul:군인인사관리규정#JO0063",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1508,7 +1588,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0064",
             "reference_id": "admrul:군인인사관리규정#JO0067",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1540,7 +1624,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0065",
             "reference_id": "admrul:군인인사관리규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1572,7 +1660,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0066",
             "reference_id": "admrul:군인인사관리규정#JO0056",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1604,7 +1696,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0067",
             "reference_id": "admrul:군인인사관리규정#JO0057",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1636,7 +1732,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0068",
             "reference_id": "admrul:군인인사관리규정#JO0066",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1656,7 +1756,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0068",
             "reference_id": "admrul:군인인사관리규정#JO0067",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1688,7 +1792,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0069",
             "reference_id": "admrul:군인인사관리규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1720,7 +1828,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0070",
             "reference_id": "admrul:군인인사관리규정#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1796,7 +1908,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0075",
             "reference_id": "admrul:군전직및취업지원업무에관한훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군 전직 및 취업 지원 업무에 관한 훈령/군 전직 및 취업 지원 업무에 관한 훈령.json"
+            "target_git_path_guess": "군 전직 및 취업 지원 업무에 관한 훈령/군 전직 및 취업 지원 업무에 관한 훈령.json",
+            "target_git_path": "군 전직 및 취업 지원 업무에 관한 훈령/군 전직 및 취업 지원 업무에 관한 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1872,7 +1988,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1892,7 +2010,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1917,7 +2037,10 @@
             "target_unit": "BYL0011",
             "reference_id": "law:공무원수당등에관한규정#BYL0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_file_path": "공무원수당 등에 관한 규정/법률/별표/별표11_특수업무수당 지급 구분표(제14조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1937,7 +2060,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1957,7 +2082,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1982,7 +2109,10 @@
             "target_unit": "BYL0011",
             "reference_id": "law:공무원수당등에관한규정#BYL0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_file_path": "공무원수당 등에 관한 규정/법률/별표/별표11_특수업무수당 지급 구분표(제14조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2002,7 +2132,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2022,7 +2154,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2047,7 +2181,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:군인인사관리규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_file_path": "군인 인사관리규정/별지/별지2_추천서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2067,7 +2206,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2087,7 +2228,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2112,7 +2255,10 @@
             "target_unit": "BYL0010",
             "reference_id": "law:공무원수당등에관한규정#BYL0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_file_path": "공무원수당 등에 관한 규정/법률/별표/별표10_군인의 위험근무수당 지급대상 및 지급기준(제13조 단서 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2132,7 +2278,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2152,7 +2300,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2177,7 +2327,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:군인인사관리규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_file_path": "군인 인사관리규정/별표/별표1_지휘추천 등급별 부여인원 기준표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2197,7 +2352,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2217,7 +2374,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2242,7 +2401,10 @@
             "target_unit": "BYL0011",
             "reference_id": "law:공무원수당등에관한규정#BYL0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_file_path": "공무원수당 등에 관한 규정/법률/별표/별표11_특수업무수당 지급 구분표(제14조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2262,7 +2424,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2282,7 +2446,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2307,7 +2473,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:군인인사관리규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_file_path": "군인 인사관리규정/별지/별지2_추천서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2327,7 +2498,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2347,7 +2520,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2372,7 +2547,10 @@
             "target_unit": "BYL0011",
             "reference_id": "law:공무원수당등에관한규정#BYL0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_file_path": "공무원수당 등에 관한 규정/법률/별표/별표11_특수업무수당 지급 구분표(제14조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2392,7 +2570,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2412,7 +2592,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2437,7 +2619,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:군인인사관리규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json"
+            "target_git_path_guess": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_path": "군인 인사관리규정/군인 인사관리규정.json",
+            "target_git_file_path": "군인 인사관리규정/별지/별지2_추천서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2457,7 +2644,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2477,7 +2666,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2497,7 +2688,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무 수당에 관한 규칙/법률/군인 등의 특수근무 수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무 수당에 관한 규칙/법률/군인 등의 특수근무 수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2517,7 +2710,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:군인등의특수근무수당에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인 등의 특수근무 수당에 관한 규칙/법률/군인 등의 특수근무 수당에 관한 규칙.json"
+            "target_git_path_guess": "군인 등의 특수근무 수당에 관한 규칙/법률/군인 등의 특수근무 수당에 관한 규칙.json",
+            "target_git_path": "군인 등의 특수근무수당에 관한 규칙/법률/군인 등의 특수근무수당에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2537,7 +2732,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2557,7 +2754,9 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0080",
             "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2644,7 +2843,11 @@
             "source_provision_id": "admrul:군인인사관리규정#JO0086",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -168,15 +168,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원공용차량관리지침#JO0007",
             "target_unit": "BYL0001",
-            "reference_id": "admrul:농식품공무원교육원공용차량관리지침#BYL0001",
+            "reference_id": "admrul:농식품인재개발원공용차량관리지침#BYL0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 공용 차량 관리 지침/농식품공무원교육원 공용 차량 관리 지침.json",
-            "target_git_path": "농식품공무원교육원 공용 차량 관리 지침/농식품공무원교육원 공용 차량 관리 지침.json",
+            "target_git_path": "농식품인재개발원 공용 차량 관리 지침/농식품인재개발원 공용 차량 관리 지침.json",
             "target_local_path": "별표/별표1_공용 차량 이용 제한 규정.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 공용 차량 관리 지침/별표/별표1_공용 차량 이용 제한 규정.hwp"
+            "target_git_file_path": "농식품인재개발원 공용 차량 관리 지침/별표/별표1_공용 차량 이용 제한 규정.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 공용 차량 관리 지침/농식품공무원교육원 공용 차량 관리 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원공용차량관리지침#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20150526"
+              },
+              {
+                "git_path": "농식품인재개발원 공용 차량 관리 지침/농식품인재개발원 공용 차량 관리 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원공용차량관리지침#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -199,15 +216,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원공용차량관리지침#JO0007",
             "target_unit": "BYL0002",
-            "reference_id": "admrul:농식품공무원교육원공용차량관리지침#BYL0002",
+            "reference_id": "admrul:농식품인재개발원공용차량관리지침#BYL0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 공용 차량 관리 지침/농식품공무원교육원 공용 차량 관리 지침.json",
-            "target_git_path": "농식품공무원교육원 공용 차량 관리 지침/농식품공무원교육원 공용 차량 관리 지침.json",
+            "target_git_path": "농식품인재개발원 공용 차량 관리 지침/농식품인재개발원 공용 차량 관리 지침.json",
             "target_local_path": "별표/별표2_운행제한기록일지.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 공용 차량 관리 지침/별표/별표2_운행제한기록일지.hwp"
+            "target_git_file_path": "농식품인재개발원 공용 차량 관리 지침/별표/별표2_운행제한기록일지.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 공용 차량 관리 지침/농식품공무원교육원 공용 차량 관리 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원공용차량관리지침#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20150526"
+              },
+              {
+                "git_path": "농식품인재개발원 공용 차량 관리 지침/농식품인재개발원 공용 차량 관리 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원공용차량관리지침#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],

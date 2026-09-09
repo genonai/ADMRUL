@@ -1521,10 +1521,27 @@
             "reference_id": "admrul:(계약예규)예정가격작성기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
-            "target_git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
+            "target_git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              },
+              {
+                "git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1550,12 +1567,29 @@
             "reference_id": "admrul:(계약예규)예정가격작성기준#BYL0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
-            "target_git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
+            "target_git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
             "target_local_path": "별표/별표5_학술연구용역인건비기준단가(’25년).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "(계약예규) 예정가격 작성기준/별표/별표5_학술연구용역인건비기준단가(’25년).hwp"
+            "target_git_file_path": "(계약예규) 예정가격작성기준/별표/별표5_학술연구용역인건비기준단가(’26년).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#BYL0005",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              },
+              {
+                "git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#BYL0005",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",

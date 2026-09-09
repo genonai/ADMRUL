@@ -213,13 +213,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0004",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0002",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -254,15 +271,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0005",
             "target_unit": "BJ0001",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BJ0001",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BJ0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별지/별지1_전화민원 접수.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별지/별지1_전화민원 접수.hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별지/별지1_전화민원 접수.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -285,15 +319,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0005",
             "target_unit": "BJ0002",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BJ0002",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BJ0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별지/별지2_민원서류 접수증(민원인용).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별지/별지2_민원서류 접수증(민원인용).hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별지/별지2_민원서류 접수증.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -311,13 +362,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제4조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0005",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0004",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0004",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -352,15 +420,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0006",
             "target_unit": "BJ0003",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BJ0003",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BJ0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별지/별지3_민원처리 결과보고.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별지/별지3_민원처리 결과보고.hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별지/별지3_민원처리 결과보고.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BJ0003",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BJ0003",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -390,13 +475,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0007",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0002",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -419,15 +521,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0007",
             "target_unit": "BJ0004",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BJ0004",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BJ0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별지/별지4_다수인민원 조사분석카드.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별지/별지4_다수인민원 조사분석카드.hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별지/별지4_다수인민원 조사분석카드.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -457,13 +576,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0008",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0002",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -486,15 +622,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0008",
             "target_unit": "BYL0001",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BYL0001",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BYL0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별표/별표1_민원유형별 처리기간(제8조제8항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별표/별표1_민원유형별 처리기간(제8조제8항 관련).hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별표/별표1_민원유형별 처리기간(제8조제8항 관련).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -524,13 +677,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제11조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0009",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0011",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0011",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0011",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0011",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -548,13 +718,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제7조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0009",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0007",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0007",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0007",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0007",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -572,13 +759,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제10조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0009",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0010",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0010",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0010",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0010",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -596,13 +800,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제10조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0009",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0010",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0010",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0010",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0010",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -620,13 +841,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 민원처리규정/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0009",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#JO0008",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#JO0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#JO0008",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -661,15 +899,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0010",
             "target_unit": "BJ0005",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BJ0005",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BJ0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별지/별지5_민원처리현황.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별지/별지5_민원처리현황.hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별지/별지5_민원처리현황.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -726,15 +981,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0013",
             "target_unit": "BJ0006",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BJ0006",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BJ0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별지/별지6_민원조정위원회심의요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별지/별지6_민원조정위원회심의요구서.hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별지/별지6_민원조정위원회심의요구서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -757,15 +1029,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0013",
             "target_unit": "BJ0007",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BJ0007",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BJ0007",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별지/별지7_민원조정위원회심의조서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별지/별지7_민원조정위원회심의조서.hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별지/별지7_민원조정위원회심의조서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BJ0007",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BJ0007",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -811,15 +1100,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원민원처리규정#JO0015",
             "target_unit": "BYL0002",
-            "reference_id": "admrul:농식품공무원교육원민원처리규정#BYL0002",
+            "reference_id": "admrul:농식품인재개발원민원처리규정#BYL0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
-            "target_git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+            "target_git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
             "target_local_path": "별표/별표2_농식품공무원교육원 민원행정 서비스 이행 기준(제15조제2항 관련).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "농식품공무원교육원 민원처리규정/별표/별표2_농식품공무원교육원 민원행정 서비스 이행 기준(제15조제2항 관련).hwp"
+            "target_git_file_path": "농식품인재개발원 민원처리규정/별표/별표2_농식품인재개발원 민원행정 서비스 이행 기준(제15조제2항 관련).hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 민원처리규정/농식품공무원교육원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원민원처리규정#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20230630"
+              },
+              {
+                "git_path": "농식품인재개발원 민원처리규정/농식품인재개발원 민원처리규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원민원처리규정#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],

@@ -87,13 +87,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 공무원교육상기금 운영규정/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원공무원교육상기금운영규정#JO0003",
-            "reference_id": "admrul:농식품공무원교육원공무원교육상기금운영규정#JO0002",
+            "reference_id": "admrul:농식품인재개발원공무원교육상기금운영규정#JO0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 공무원교육상기금 운영규정/농식품공무원교육원 공무원교육상기금 운영규정.json",
-            "target_git_path": "농식품공무원교육원 공무원교육상기금 운영규정/농식품공무원교육원 공무원교육상기금 운영규정.json",
+            "target_git_path": "농식품인재개발원 공무원교육상기금 운영규정/농식품인재개발원 공무원교육상기금 운영규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 공무원교육상기금 운영규정/농식품공무원교육원 공무원교육상기금 운영규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원공무원교육상기금운영규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20230414"
+              },
+              {
+                "git_path": "농식품인재개발원 공무원교육상기금 운영규정/농식품인재개발원 공무원교육상기금 운영규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원공무원교육상기금운영규정#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],
@@ -189,13 +206,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/농식품공무원교육원 공무원교육상기금 운영규정/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:농식품공무원교육원공무원교육상기금운영규정#JO0010",
-            "reference_id": "admrul:농식품공무원교육원공무원교육상기금운영규정#JO0008",
+            "reference_id": "admrul:농식품인재개발원공무원교육상기금운영규정#JO0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 공무원교육상기금 운영규정/농식품공무원교육원 공무원교육상기금 운영규정.json",
-            "target_git_path": "농식품공무원교육원 공무원교육상기금 운영규정/농식품공무원교육원 공무원교육상기금 운영규정.json",
+            "target_git_path": "농식품인재개발원 공무원교육상기금 운영규정/농식품인재개발원 공무원교육상기금 운영규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 공무원교육상기금 운영규정/농식품공무원교육원 공무원교육상기금 운영규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원공무원교육상기금운영규정#JO0008",
+                "is_current": true,
+                "enforcement_date": "20230414"
+              },
+              {
+                "git_path": "농식품인재개발원 공무원교육상기금 운영규정/농식품인재개발원 공무원교육상기금 운영규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원공무원교육상기금운영규정#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           }
         ],
         "images": [],

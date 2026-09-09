@@ -309,7 +309,23 @@
         "target_git_path": "사회복무요원 복제 규정/사회복무요원 복제 규정.json",
         "target_source_repository": "ADMRUL",
         "target_doc_target": "admrul",
-        "target_doc_kind": "행정규칙"
+        "target_doc_kind": "행정규칙",
+        "target_candidate_paths": [
+          {
+            "git_path": "사회복무요원 복제 규정/사회복무요원 복제 규정.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:사회복무요원복제규정#DOC",
+            "is_current": true,
+            "enforcement_date": "20250101"
+          },
+          {
+            "git_path": "사회복무요원 복제규정/사회복무요원 복제규정.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:사회복무요원복제규정#DOC",
+            "is_current": true,
+            "enforcement_date": "20140321"
+          }
+        ]
       }
     ]
   },
