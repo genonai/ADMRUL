@@ -348,11 +348,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원주차장관리규정#JO0010",
-            "reference_id": "law:저출산고령사회기본법#DOC",
+            "reference_id": "law:인구전략기본법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/법률/인구전략기본법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/법률/인구전략기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법#DOC",
+                "is_current": true,
+                "enforcement_date": "20240424"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -370,11 +387,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법/제10조",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원주차장관리규정#JO0010",
-            "reference_id": "law:저출산고령사회기본법#JO0010",
+            "reference_id": "law:인구전략기본법#JO0010",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/법률/인구전략기본법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/법률/인구전략기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법#JO0010",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법#JO0010",
+                "is_current": true,
+                "enforcement_date": "20240424"
+              }
+            ]
           }
         ],
         "images": [],
