@@ -305,13 +305,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#DOC",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -329,13 +346,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제73조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0073",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0073",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0073",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0073",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -353,13 +387,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제73조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0073",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0073",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0073",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0073",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -377,13 +428,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제74조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0074",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0074",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0074",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0074",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -401,13 +469,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제75조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0075",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0075",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0075",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0075",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -425,13 +510,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제76조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0076",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0076",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0076",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0076",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -449,13 +551,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제77조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0077",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0077",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0077",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0077",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -473,13 +592,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제78조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0078",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0078",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0078",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0078",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -497,13 +633,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제79조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0079",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0079",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0079",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0079",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -521,13 +674,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 정보보안 세부지침/제80조",
             "resolve_method": "html",
             "source_provision_id": "admrul:산업통상자원부민원처리담당자휴대용보호장비운영지침#JO0010",
-            "reference_id": "admrul:산업통상자원부정보보안세부지침#JO0080",
+            "reference_id": "admrul:산업통상부사이버보안세부지침#JO0080",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
-            "target_git_path": "산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+            "target_git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상부 사이버보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부사이버보안세부지침#JO0080",
+                "is_current": true,
+                "enforcement_date": "20260501"
+              },
+              {
+                "git_path": "산업통상부 사이버보안 세부지침/산업통상자원부 정보보안 세부지침/산업통상자원부 정보보안 세부지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부정보보안세부지침:산업통상자원부정보보안세부지침#JO0080",
+                "is_current": true,
+                "enforcement_date": "20230131"
+              }
+            ]
           }
         ],
         "images": [],

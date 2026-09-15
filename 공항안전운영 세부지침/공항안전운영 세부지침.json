@@ -1098,7 +1098,9 @@
             "source_provision_id": "admrul:공항안전운영세부지침#JO0092",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1118,7 +1120,9 @@
             "source_provision_id": "admrul:공항안전운영세부지침#JO0092",
             "reference_id": "law:항공보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공보안법/법률/항공보안법.json"
+            "target_git_path_guess": "항공보안법/법률/항공보안법.json",
+            "target_git_path": "항공보안법/법률/항공보안법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1884,7 +1888,9 @@
             "source_provision_id": "admrul:공항안전운영세부지침#JO0150",
             "reference_id": "law:승강기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "승강기 안전관리법/법률/승강기 안전관리법.json"
+            "target_git_path_guess": "승강기 안전관리법/법률/승강기 안전관리법.json",
+            "target_git_path": "승강기 안전관리법/법률/승강기 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1916,7 +1922,9 @@
             "source_provision_id": "admrul:공항안전운영세부지침#JO0151",
             "reference_id": "law:승강기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "승강기 안전관리법/법률/승강기 안전관리법.json"
+            "target_git_path_guess": "승강기 안전관리법/법률/승강기 안전관리법.json",
+            "target_git_path": "승강기 안전관리법/법률/승강기 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3584,7 +3592,11 @@
             "source_provision_id": "admrul:공항안전운영세부지침#JO0268",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
