@@ -121,11 +121,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법",
             "resolve_method": "html",
             "source_provision_id": "admrul:소규모신재생에너지발전전력등의거래에관한지침#JO0002",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+            "reference_id": "law:재생에너지개발이용보급촉진법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -143,11 +160,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:소규모신재생에너지발전전력등의거래에관한지침#JO0002",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0002",
+            "reference_id": "law:재생에너지개발이용보급촉진법#JO0002",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -574,13 +608,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지이용발전전력의 기준가격 지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:소규모신재생에너지발전전력등의거래에관한지침#JO0009",
-            "reference_id": "admrul:신재생에너지이용발전전력의기준가격지침#DOC",
+            "reference_id": "admrul:재생에너지이용발전전력의기준가격지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지이용발전전력의 기준가격 지침/신ㆍ재생에너지이용발전전력의 기준가격 지침.json",
-            "target_git_path": "신·재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침.json",
+            "target_git_path": "재생에너지이용 발전전력의 기준가격 지침/재생에너지이용 발전전력의 기준가격 지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지이용발전전력의기준가격지침:신재생에너지이용발전전력의기준가격지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20251218"
+              },
+              {
+                "git_path": "재생에너지이용 발전전력의 기준가격 지침/재생에너지이용 발전전력의 기준가격 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지이용발전전력의기준가격지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1017,13 +1068,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지이용발전전력의 기준가격 지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:소규모신재생에너지발전전력등의거래에관한지침#JO0017",
-            "reference_id": "admrul:신재생에너지이용발전전력의기준가격지침#DOC",
+            "reference_id": "admrul:재생에너지이용발전전력의기준가격지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지이용발전전력의 기준가격 지침/신ㆍ재생에너지이용발전전력의 기준가격 지침.json",
-            "target_git_path": "신·재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침.json",
+            "target_git_path": "재생에너지이용 발전전력의 기준가격 지침/재생에너지이용 발전전력의 기준가격 지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지이용발전전력의기준가격지침:신재생에너지이용발전전력의기준가격지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20251218"
+              },
+              {
+                "git_path": "재생에너지이용 발전전력의 기준가격 지침/재생에너지이용 발전전력의 기준가격 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지이용발전전력의기준가격지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1589,11 +1657,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령",
             "resolve_method": "html",
             "source_provision_id": "admrul:소규모신재생에너지발전전력등의거래에관한지침#JO0021",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법시행령#DOC",
+            "reference_id": "law:재생에너지개발이용보급촉진법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법시행령#DOC",
+                "is_current": true,
+                "enforcement_date": "20260310"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법시행령#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1611,13 +1696,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지이용 발전전력의 기준가격 지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:소규모신재생에너지발전전력등의거래에관한지침#JO0021",
-            "reference_id": "admrul:신재생에너지이용발전전력의기준가격지침#DOC",
+            "reference_id": "admrul:재생에너지이용발전전력의기준가격지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지이용 발전전력의 기준가격 지침/신ㆍ재생에너지이용 발전전력의 기준가격 지침.json",
-            "target_git_path": "신·재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침.json",
+            "target_git_path": "재생에너지이용 발전전력의 기준가격 지침/재생에너지이용 발전전력의 기준가격 지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침/신·재생에너지이용 발전전력의 기준가격 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지이용발전전력의기준가격지침:신재생에너지이용발전전력의기준가격지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20251218"
+              },
+              {
+                "git_path": "재생에너지이용 발전전력의 기준가격 지침/재생에너지이용 발전전력의 기준가격 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지이용발전전력의기준가격지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
