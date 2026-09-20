@@ -96,8 +96,10 @@
   "addendum_provision_id": "admrul:먹는물수질공정시험기준#ADDENDUM",
   "amendment_provision_id": "admrul:먹는물수질공정시험기준#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260920"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "먹는물수질공정시험기준/먹는물수질공정시험기준.json"
 }
