@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0001",
             "reference_id": "law:방위사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json"
+            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_git_path": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0001",
             "reference_id": "law:방위사업법시행령#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json"
+            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_git_path": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0001_02",
             "reference_id": "law:방위사업법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/법률/방위사업법.json"
+            "target_git_path_guess": "방위사업법/법률/방위사업법.json",
+            "target_git_path": "방위사업법/법률/방위사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0001_02",
             "reference_id": "law:조달사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0001_02",
             "reference_id": "law:방위사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json"
+            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_git_path": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0001_02",
             "reference_id": "law:방위사업법시행령#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json"
+            "target_git_path_guess": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_git_path": "방위사업법/시행령/방위사업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -211,7 +223,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0002",
             "reference_id": "admrul:표준화업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "표준화 업무규정/표준화 업무규정.json"
+            "target_git_path_guess": "표준화 업무규정/표준화 업무규정.json",
+            "target_git_path": "표준화 업무규정/표준화 업무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -254,7 +270,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0004",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -302,7 +322,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_file_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/별표/별표1_군수품 종별·품류별 조달기관 분류 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -327,7 +352,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_file_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/별표/별표1_군수품 종별·품류별 조달기관 분류 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -347,7 +377,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0006",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -379,7 +413,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0007",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -399,7 +437,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0007",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -442,7 +484,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0009",
             "reference_id": "admrul:업체생산및정비능력확인지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "업체 생산 및 정비능력 확인지침/업체 생산 및 정비능력 확인지침.json"
+            "target_git_path_guess": "업체 생산 및 정비능력 확인지침/업체 생산 및 정비능력 확인지침.json",
+            "target_git_path": "업체 생산 및 정비능력 확인지침/업체 생산 및 정비능력 확인지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -496,7 +542,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0012",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -516,7 +564,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0012",
             "reference_id": "law:국고금관리법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -536,7 +586,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0012",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -568,7 +622,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0013",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -588,7 +646,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0013",
             "reference_id": "admrul:조달청회계직공무원임명규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 회계직공무원 임명규정/조달청 회계직공무원 임명규정.json"
+            "target_git_path_guess": "조달청 회계직공무원 임명규정/조달청 회계직공무원 임명규정.json",
+            "target_git_path": "조달청 회계직공무원 임명규정/조달청 회계직공무원 임명규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -608,7 +670,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0013",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -628,7 +692,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0013",
             "reference_id": "law:조달사업에관한법률시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -648,7 +714,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0013",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -668,7 +736,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0013",
             "reference_id": "law:부가가치세법시행령#JO0069",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -705,7 +775,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_file_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/별표/별표2_생산진도현황.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -748,7 +823,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0016",
             "reference_id": "admrul:표준화업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "표준화 업무규정/표준화 업무규정.json"
+            "target_git_path_guess": "표준화 업무규정/표준화 업무규정.json",
+            "target_git_path": "표준화 업무규정/표준화 업무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -768,7 +847,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0016",
             "reference_id": "admrul:조달청군수품감액업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 군수품 감액업무 처리지침/조달청 군수품 감액업무 처리지침.json"
+            "target_git_path_guess": "조달청 군수품 감액업무 처리지침/조달청 군수품 감액업무 처리지침.json",
+            "target_git_path": "조달청 군수품 감액업무 처리지침/조달청 군수품 감액업무 처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -788,7 +871,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0016",
             "reference_id": "admrul:감가규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "감가규정/감가규정.json"
+            "target_git_path_guess": "감가규정/감가규정.json",
+            "target_git_path": "감가규정/감가규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -820,7 +907,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0017",
             "reference_id": "admrul:군수품조달관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json"
+            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_git_path": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -840,7 +931,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0017",
             "reference_id": "admrul:군수품조달관리규정#JO0039",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json"
+            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_git_path": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -894,7 +989,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0020",
             "reference_id": "admrul:조달청군급식품목가격협의위원회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 군 급식품목 가격협의위원회 운영규정/조달청 군 급식품목 가격협의위원회 운영규정.json"
+            "target_git_path_guess": "조달청 군 급식품목 가격협의위원회 운영규정/조달청 군 급식품목 가격협의위원회 운영규정.json",
+            "target_git_path": "조달청 군 급식품목 가격협의위원회 운영 규정/조달청 군 급식품목 가격협의위원회 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -914,7 +1013,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0020",
             "reference_id": "admrul:조달청군급식품목가격협의위원회운영규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 군 급식품목 가격협의위원회 운영규정/조달청 군 급식품목 가격협의위원회 운영규정.json"
+            "target_git_path_guess": "조달청 군 급식품목 가격협의위원회 운영규정/조달청 군 급식품목 가격협의위원회 운영규정.json",
+            "target_git_path": "조달청 군 급식품목 가격협의위원회 운영 규정/조달청 군 급식품목 가격협의위원회 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -946,7 +1049,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0021",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -966,7 +1073,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0021",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -986,7 +1097,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0021",
             "reference_id": "admrul:조달청군수품정부품질보증업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 군수품 정부 품질보증 업무규정/조달청 군수품 정부 품질보증 업무규정.json"
+            "target_git_path_guess": "조달청 군수품 정부 품질보증 업무규정/조달청 군수품 정부 품질보증 업무규정.json",
+            "target_git_path": "조달청 군수품 정부품질보증 업무규정/조달청 군수품 정부품질보증 업무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1121,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0021",
             "reference_id": "admrul:군수품조달관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json"
+            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_git_path": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1026,7 +1145,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0021",
             "reference_id": "admrul:군수품조달관리규정#JO0098",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json"
+            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_git_path": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1046,7 +1169,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0021",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1111,7 +1238,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0025",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1131,7 +1260,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0025",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1185,7 +1316,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0028",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1205,7 +1338,9 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0028",
             "reference_id": "law:조달사업에관한법률시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1245,7 +1380,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0028",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1299,7 +1438,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0031",
             "reference_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json"
+            "target_git_path_guess": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_git_path": "군수품 조달의 조달청 위탁에 관한 공동훈령/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1319,7 +1462,11 @@
             "source_provision_id": "admrul:군수품조달의조달청위탁에관한공동훈령#JO0031",
             "reference_id": "admrul:군수품조달관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json"
+            "target_git_path_guess": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_git_path": "군수품조달관리규정/군수품조달관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
