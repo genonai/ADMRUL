@@ -66,7 +66,11 @@
             "source_provision_id": "admrul:석유판매가격의최고액#DOC",
             "reference_id": "admrul:석유판매가격의최고액지정및과잉수출제한에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정/석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정.json"
+            "target_git_path_guess": "석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정/석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정.json",
+            "target_git_path": "석유판매가격의 최고액 지정 및 과잉수출제한에 관한 규정/석유판매가격의 최고액 지정 및 과잉수출제한에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -86,7 +90,11 @@
             "source_provision_id": "admrul:석유판매가격의최고액#DOC",
             "reference_id": "admrul:석유판매가격의최고액지정및과잉수출제한에관한규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정/석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정.json"
+            "target_git_path_guess": "석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정/석유 판매가격의 최고액 지정 및 과잉수출제한에 관한 규정.json",
+            "target_git_path": "석유판매가격의 최고액 지정 및 과잉수출제한에 관한 규정/석유판매가격의 최고액 지정 및 과잉수출제한에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -106,7 +114,9 @@
             "source_provision_id": "admrul:석유판매가격의최고액#DOC",
             "reference_id": "law:조세특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json"
+            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json",
+            "target_git_path": "조세특례제한법/법률/조세특례제한법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [

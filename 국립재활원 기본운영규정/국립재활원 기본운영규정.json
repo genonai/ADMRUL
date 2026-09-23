@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0001",
             "reference_id": "law:책임운영기관의설치운영에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0001",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -174,7 +178,11 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0007",
             "reference_id": "admrul:국립재활원기본운영규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -261,7 +269,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0013",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -281,7 +291,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0013",
             "reference_id": "law:식품위생법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -324,7 +336,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0015",
             "reference_id": "law:전공의의수련환경개선및지위향상을위한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전공의의 수련환경 개선 및 지위 향상을 위한 법률/법률/전공의의 수련환경 개선 및 지위 향상을 위한 법률.json"
+            "target_git_path_guess": "전공의의 수련환경 개선 및 지위 향상을 위한 법률/법률/전공의의 수련환경 개선 및 지위 향상을 위한 법률.json",
+            "target_git_path": "전공의의 수련환경 개선 및 지위 향상을 위한 법률/법률/전공의의 수련환경 개선 및 지위 향상을 위한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -344,7 +358,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0015",
             "reference_id": "law:전문의의수련및자격인정등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문의의 수련 및 자격 인정 등에 관한 규정/법률/전문의의 수련 및 자격 인정 등에 관한 규정.json"
+            "target_git_path_guess": "전문의의 수련 및 자격 인정 등에 관한 규정/법률/전문의의 수련 및 자격 인정 등에 관한 규정.json",
+            "target_git_path": "전문의의 수련 및 자격 인정 등에 관한 규정/법률/전문의의 수련 및 자격 인정 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -387,7 +403,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0017",
             "reference_id": "law:의료법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/시행령/의료법시행령.json"
+            "target_git_path_guess": "의료법/시행령/의료법시행령.json",
+            "target_git_path": "의료법/시행령/의료법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -407,7 +425,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0017",
             "reference_id": "law:의료법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/시행령/의료법시행령.json"
+            "target_git_path_guess": "의료법/시행령/의료법시행령.json",
+            "target_git_path": "의료법/시행령/의료법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -593,7 +613,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0031",
             "reference_id": "law:보건복지부와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/시행규칙/보건복지부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/시행규칙/보건복지부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/시행규칙/보건복지부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -613,7 +635,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0031",
             "reference_id": "law:보건복지부와그소속기관직제시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부와 그 소속기관 직제/시행규칙/보건복지부와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "보건복지부와 그 소속기관 직제/시행규칙/보건복지부와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "보건복지부와 그 소속기관 직제/시행규칙/보건복지부와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -645,7 +669,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0032",
             "reference_id": "law:행정기관의조직과정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -665,7 +691,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0032",
             "reference_id": "law:행정기관의조직과정원에관한통칙#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -724,7 +752,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국립재활원기본운영규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_file_path": "국립재활원 기본운영규정/별표/별표1_국립재활원 공무원 정원표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -744,7 +777,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0035",
             "reference_id": "law:행정기관의조직과정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -764,7 +799,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0035",
             "reference_id": "law:행정기관의조직과정원에관한통칙#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -784,7 +821,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0035",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -804,7 +843,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0035",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -829,7 +870,12 @@
             "target_unit": "BYL0001_02",
             "reference_id": "admrul:국립재활원기본운영규정#BYL0001_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_file_path": "국립재활원 기본운영규정/별표/별표1의2_국립재활원 공무원 정원표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -861,7 +907,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0035_02",
             "reference_id": "law:행정기관의조직과정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -881,7 +929,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0035_02",
             "reference_id": "law:행정기관의조직과정원에관한통칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json"
+            "target_git_path_guess": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_git_path": "행정기관의 조직과 정원에 관한 통칙/법률/행정기관의 조직과 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -906,7 +956,12 @@
             "target_unit": "BYL0001_03",
             "reference_id": "admrul:국립재활원기본운영규정#BYL0001_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_file_path": "국립재활원 기본운영규정/별표/별표1의3_국립재활원 공무원 한시정원표(제35조2 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -993,7 +1048,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0040",
             "reference_id": "law:책임운영기관의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1013,7 +1070,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0040",
             "reference_id": "law:책임운영기관의설치운영에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1033,7 +1092,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0040",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1053,7 +1114,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0040",
             "reference_id": "law:국가공무원법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1096,7 +1159,11 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0042",
             "reference_id": "admrul:국립재활원기본운영규정#JO0040",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1128,7 +1195,11 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0043",
             "reference_id": "admrul:국립재활원기본운영규정#JO0042",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1226,7 +1297,11 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0050",
             "reference_id": "admrul:국립재활원기본운영규정#JO0049",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1246,7 +1321,11 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0050",
             "reference_id": "admrul:국립재활원기본운영규정#JO0046",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json"
+            "target_git_path_guess": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_git_path": "국립재활원 기본운영규정/국립재활원 기본운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1289,7 +1368,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0052",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1309,7 +1390,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0052",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1329,7 +1412,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0052",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1349,7 +1434,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0052",
             "reference_id": "law:국가공무원법#JO0026_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1458,7 +1545,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0060",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1478,7 +1567,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0060",
             "reference_id": "law:국가회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계법/법률/국가회계법.json"
+            "target_git_path_guess": "국가회계법/법률/국가회계법.json",
+            "target_git_path": "국가회계법/법률/국가회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1498,7 +1589,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0060",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1518,7 +1611,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0060",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1538,7 +1633,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0060",
             "reference_id": "law:정부기업예산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json"
+            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json",
+            "target_git_path": "정부기업예산법/법률/정부기업예산법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1592,7 +1689,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0063",
             "reference_id": "law:국고금관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/시행령/국고금 관리법 시행령.json"
+            "target_git_path_guess": "국고금 관리법/시행령/국고금 관리법 시행령.json",
+            "target_git_path": "국고금 관리법/시행령/국고금 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1612,7 +1711,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0063",
             "reference_id": "law:국고금관리법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/시행령/국고금 관리법 시행령.json"
+            "target_git_path_guess": "국고금 관리법/시행령/국고금 관리법 시행령.json",
+            "target_git_path": "국고금 관리법/시행령/국고금 관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1644,7 +1745,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0064",
             "reference_id": "law:책임운영기관의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1664,7 +1767,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0064",
             "reference_id": "law:책임운영기관의설치운영에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1707,7 +1812,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0066",
             "reference_id": "law:국고금관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법시행규칙.json"
+            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법시행규칙.json",
+            "target_git_path": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1727,7 +1834,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0066",
             "reference_id": "law:국고금관리법시행규칙#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법시행규칙.json"
+            "target_git_path_guess": "국고금관리법/시행규칙/국고금관리법시행규칙.json",
+            "target_git_path": "국고금 관리법/시행규칙/국고금 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1759,7 +1868,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0067",
             "reference_id": "law:국가회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계법/법률/국가회계법.json"
+            "target_git_path_guess": "국가회계법/법률/국가회계법.json",
+            "target_git_path": "국가회계법/법률/국가회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1779,7 +1890,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0067",
             "reference_id": "law:국가회계법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계법/법률/국가회계법.json"
+            "target_git_path_guess": "국가회계법/법률/국가회계법.json",
+            "target_git_path": "국가회계법/법률/국가회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1799,7 +1912,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0067",
             "reference_id": "law:국가회계기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json"
+            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_git_path": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1941,7 +2056,9 @@
             "source_provision_id": "admrul:국립재활원기본운영규정#JO0078",
             "reference_id": "law:국가회계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계법/시행령/국가회계법 시행령.json"
+            "target_git_path_guess": "국가회계법/시행령/국가회계법 시행령.json",
+            "target_git_path": "국가회계법/시행령/국가회계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
