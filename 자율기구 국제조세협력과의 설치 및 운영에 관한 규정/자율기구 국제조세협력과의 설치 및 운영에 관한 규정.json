@@ -309,7 +309,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:자율기구국제조세협력과의설치및운영에관한규정#JO0006"
+        "provision_id": "admrul:자율기구국제조세협력과의설치및운영에관한규정#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20260924",
+            "change": "개정",
+            "content": "제6조(존속 기한) 이 규정은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 규정을 발령한 2026년 9월 24일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2027년 3월 23일까지를 말한다)까지 그 효력을 가진다."
+          }
+        ]
       }
     ]
   },
@@ -324,6 +331,18 @@
       "source_version_uid": "",
       "source_revision_type": "제정",
       "version_enforcement_date": "20260324"
+    },
+    {
+      "promulgation_date": "20260920",
+      "promulgation_no": "175",
+      "content": "부칙 <제175호, 2026. 9. 20.>제1조(시행일) 이 훈령은 2026년 9월 24일부터 시행한다.",
+      "provision_id": "admrul:자율기구국제조세협력과의설치및운영에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000285298",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260924",
+      "enforcement_date": "20260924"
     }
   ],
   "appendices": [
@@ -403,8 +422,10 @@
   "addendum_provision_id": "admrul:자율기구국제조세협력과의설치및운영에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:자율기구국제조세협력과의설치및운영에관한규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260924"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "자율기구 국제조세협력과의 설치 및 운영에 관한 규정/자율기구 국제조세협력과의 설치 및 운영에 관한 규정.json"
 }
