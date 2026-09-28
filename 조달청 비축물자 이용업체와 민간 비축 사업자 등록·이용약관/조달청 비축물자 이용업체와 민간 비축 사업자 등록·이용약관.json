@@ -1634,6 +1634,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260123"
+    },
+    {
+      "promulgation_date": "20260921",
+      "promulgation_no": "2026-47",
+      "content": "부칙 <제2026-47호, 2026. 9. 21.>제1조(시행일) 이 고시는 2026년 9월 28일부터 시행합니다.제2조(기존 고시의 폐지) 이 규정 시행과 동시에 조달청 고시 제 2026-12호(2026. 1. 23.)는 폐지합니다.",
+      "provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록이용약관#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000285330",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20260928",
+      "enforcement_date": "20260928"
     }
   ],
   "appendices": [
@@ -1714,8 +1726,14 @@
   "addendum_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록이용약관#ADDENDUM",
   "amendment_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록이용약관#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260928"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20260928",
+    "revision_type": "폐지제정"
+  },
+  "version_count": 2,
   "git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관.json"
 }
