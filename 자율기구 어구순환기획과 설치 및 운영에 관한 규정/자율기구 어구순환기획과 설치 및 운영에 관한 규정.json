@@ -295,6 +295,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260328"
+    },
+    {
+      "promulgation_date": "20260914",
+      "promulgation_no": "850",
+      "content": "부칙 <제850호, 2026. 9. 14.>이 훈령은 2026년 9월 28일부터 시행한다.",
+      "provision_id": "admrul:자율기구어구순환기획과설치및운영에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000285152",
+      "source_version_uid": "",
+      "source_revision_type": "폐지",
+      "version_enforcement_date": "20260928",
+      "enforcement_date": "20260928"
     }
   ],
   "appendices": [
@@ -374,8 +386,14 @@
   "addendum_provision_id": "admrul:자율기구어구순환기획과설치및운영에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:자율기구어구순환기획과설치및운영에관한규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260928"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20260928",
+    "revision_type": "폐지"
+  },
+  "version_count": 2,
   "git_path": "자율기구 어구순환기획과 설치 및 운영에 관한 규정/자율기구 어구순환기획과 설치 및 운영에 관한 규정.json"
 }
