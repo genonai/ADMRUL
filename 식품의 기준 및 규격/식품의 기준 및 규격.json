@@ -96,8 +96,10 @@
   "addendum_provision_id": "admrul:식품의기준및규격#ADDENDUM",
   "amendment_provision_id": "admrul:식품의기준및규격#AMENDMENT",
   "is_future": true,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261001"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "식품의 기준 및 규격/식품의 기준 및 규격.json"
 }
