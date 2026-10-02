@@ -538,7 +538,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:국민권익위원회민간협력을위한민간보조사업운영에관한규정#JO0020"
+        "provision_id": "admrul:국민권익위원회민간협력을위한민간보조사업운영에관한규정#JO0020",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제20조(보조금의 사용감독) ① 위원장은 보조사업자에게 보조금 집행상황과 사업진행에 관한 보고서를 제출하도록 하거나, 소속공무원으로 하여금 서류와 장부를 검토하는 등 보조사업의 수행상황을 점검할 수 있다.② 위원장은 점검결과에 따라 필요한 경우 현장조사를 실시할 수 있으며, 조사결과에 따라 보조금 교부결정 취소, 보조금 반환, 강제징수, 제재부가금 부과, 보조사업 수행 제한 등의 필요한 조치를 하여야 하며 보조금 반환 결정은 공소청의 공소제기 시까지 하여야 한다.③ 위원장은 조사결과 고의, 거짓 등의 방법으로 부정수급을 행한 사실이 있다고 판단되는 경우에는 「형사소송법」제234조제2항에 따라 고발하여야 한다."
+          }
+        ]
       },
       {
         "article_no": "제21조",
@@ -1186,6 +1193,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20221020"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "402",
+      "content": "부칙 <제402호, 2026. 9. 29.>이 훈령은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:국민권익위원회민간협력을위한민간보조사업운영에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000285550",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1286,8 +1305,10 @@
   "addendum_provision_id": "admrul:국민권익위원회민간협력을위한민간보조사업운영에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:국민권익위원회민간협력을위한민간보조사업운영에관한규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국민권익위원회 민간협력을 위한 민간보조사업 운영에 관한 규정/국민권익위원회 민간협력을 위한 민간보조사업 운영에 관한 규정.json"
 }
