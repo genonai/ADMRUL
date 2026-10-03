@@ -85,11 +85,28 @@
             "target_url": "https://www.law.go.kr/법령/시체 해부 및 보존에 관한 법률 시행령",
             "resolve_method": "html",
             "source_provision_id": "admrul:시체해부심의회의구성,운영및심의등에관한규정#JO0001",
-            "reference_id": "law:시체해부및보존에관한법률시행령#DOC",
+            "reference_id": "law:시체해부및보존등에관한법률시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "시체 해부 및 보존에 관한 법률/시행령/시체 해부 및 보존에 관한 법률 시행령.json",
-            "target_git_path": "시체 해부 및 보존에 관한 법률/시행령/시체 해부 및 보존에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "시체 해부 및 보존 등에 관한 법률/시행령/시체 해부 및 보존 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "시체 해부 및 보존 등에 관한 법률/시행령/시체 해부 및 보존 등에 관한 법률 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:시체해부및보존등에관한법률시행령#DOC",
+                "is_current": true,
+                "enforcement_date": "20260929"
+              },
+              {
+                "git_path": "시체 해부 및 보존 등에 관한 법률/시행령/시체 해부 및 보존에 관한 법률 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:시체해부및보존에관한법률시행령#DOC",
+                "is_current": true,
+                "enforcement_date": "20220308"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -107,11 +124,28 @@
             "target_url": "https://www.law.go.kr/법령/시체 해부 및 보존에 관한 법률 시행령/제2조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:시체해부심의회의구성,운영및심의등에관한규정#JO0001",
-            "reference_id": "law:시체해부및보존에관한법률시행령#JO0002_02",
+            "reference_id": "law:시체해부및보존등에관한법률시행령#JO0002_02",
             "target_repo": "LAW",
             "target_git_path_guess": "시체 해부 및 보존에 관한 법률/시행령/시체 해부 및 보존에 관한 법률 시행령.json",
-            "target_git_path": "시체 해부 및 보존에 관한 법률/시행령/시체 해부 및 보존에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "시체 해부 및 보존 등에 관한 법률/시행령/시체 해부 및 보존 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "시체 해부 및 보존 등에 관한 법률/시행령/시체 해부 및 보존 등에 관한 법률 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:시체해부및보존등에관한법률시행령#JO0002_02",
+                "is_current": true,
+                "enforcement_date": "20260929"
+              },
+              {
+                "git_path": "시체 해부 및 보존 등에 관한 법률/시행령/시체 해부 및 보존에 관한 법률 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:시체해부및보존에관한법률시행령#JO0002_02",
+                "is_current": true,
+                "enforcement_date": "20220308"
+              }
+            ]
           }
         ],
         "images": [],
