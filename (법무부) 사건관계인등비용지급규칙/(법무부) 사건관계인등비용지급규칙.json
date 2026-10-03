@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:(법무부)사건관계인등비용지급규칙#JO0001",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:(법무부)사건관계인등비용지급규칙#JO0001",
             "reference_id": "law:형사소송법#JO0245_13",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:(법무부)사건관계인등비용지급규칙#JO0001",
             "reference_id": "law:보안관찰법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안관찰법/법률/보안관찰법.json"
+            "target_git_path_guess": "보안관찰법/법률/보안관찰법.json",
+            "target_git_path": "보안관찰법/법률/보안관찰법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:(법무부)사건관계인등비용지급규칙#JO0001",
             "reference_id": "law:보안관찰법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안관찰법/법률/보안관찰법.json"
+            "target_git_path_guess": "보안관찰법/법률/보안관찰법.json",
+            "target_git_path": "보안관찰법/법률/보안관찰법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -214,7 +222,11 @@
             "source_provision_id": "admrul:(법무부)사건관계인등비용지급규칙#JO0007",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

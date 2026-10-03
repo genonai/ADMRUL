@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0002",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0002",
             "reference_id": "law:국민평생직업능력개발법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json"
+            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_git_path": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -163,7 +167,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0006",
             "reference_id": "admrul:고용보험수사관집무규정#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -183,7 +191,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0006",
             "reference_id": "admrul:특별사법경찰관리지명절차등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특별사법경찰관리 지명절차 등에 관한 지침/특별사법경찰관리 지명절차 등에 관한 지침.json"
+            "target_git_path_guess": "특별사법경찰관리 지명절차 등에 관한 지침/특별사법경찰관리 지명절차 등에 관한 지침.json",
+            "target_git_path": "특별사법경찰관리 지명절차 등에 관한 지침/특별사법경찰관리 지명절차 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -203,7 +215,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0006",
             "reference_id": "admrul:특별사법경찰관리지명절차등에관한지침#JO0005_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특별사법경찰관리 지명절차 등에 관한 지침/특별사법경찰관리 지명절차 등에 관한 지침.json"
+            "target_git_path_guess": "특별사법경찰관리 지명절차 등에 관한 지침/특별사법경찰관리 지명절차 등에 관한 지침.json",
+            "target_git_path": "특별사법경찰관리 지명절차 등에 관한 지침/특별사법경찰관리 지명절차 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -262,7 +278,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지1_사무인계인수서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -299,7 +320,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지5_출석요구통지부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -324,7 +350,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지2_출석요구.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -349,7 +380,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지3_출석요구.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -374,7 +410,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지4_출석요구.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -399,7 +440,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지6_전화 등 사실확인내용.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -436,7 +482,12 @@
             "target_unit": "BJ0007",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지7_보고요구서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -461,7 +512,12 @@
             "target_unit": "BJ0008",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지8_보고요구서 발부대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -481,7 +537,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0011",
             "reference_id": "admrul:고용보험수사관집무규정#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -535,7 +595,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0014",
             "reference_id": "admrul:고용보험수사관집무규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -567,7 +631,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0015",
             "reference_id": "admrul:고용보험수사관집무규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -587,7 +655,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0015",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -630,7 +700,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0015_03",
             "reference_id": "admrul:고용보험수사관집무규정#JO0015_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -655,7 +729,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지10_수사지휘서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -680,7 +759,12 @@
             "target_unit": "BJ0010_01",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0010_01",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지10의1_수사지휘건의.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -700,7 +784,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0015_03",
             "reference_id": "admrul:고용보험수사관집무규정#JO0015_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -737,7 +825,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:고용보험수사관집무규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별표/별표1_직업능력개발사업 부정수급 사건 관할 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -769,7 +862,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0017",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -789,7 +884,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0017",
             "reference_id": "law:형사소송법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -809,7 +906,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0017",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -829,7 +928,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0017",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -866,7 +967,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지6_전화 등 사실확인내용.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -914,7 +1020,12 @@
             "target_unit": "BJ0022",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지22_고용보험수사관 기피 신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -934,7 +1045,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_03",
             "reference_id": "admrul:고용보험수사관집무규정#JO0018_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -966,7 +1081,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -986,7 +1103,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:형사소송법#JO0245_11",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1125,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1026,7 +1147,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1046,7 +1169,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1066,7 +1191,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:형사소송법#JO0245_11",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1086,7 +1213,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1106,7 +1235,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0018_04",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1143,7 +1274,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지9_우편진술조서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1218,7 +1354,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0022",
             "reference_id": "admrul:고용보험수사관집무규정#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1238,7 +1378,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0022",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1258,7 +1400,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0022",
             "reference_id": "law:형사소송법#JO0245_10",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1278,7 +1422,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0022",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1298,7 +1444,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0022",
             "reference_id": "admrul:고용보험수사관집무규정#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1323,7 +1473,12 @@
             "target_unit": "BJ0020",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지20_민원서류처리전.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1360,7 +1515,12 @@
             "target_unit": "BJ0011",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지11_민원처리기간 연장통지서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1408,7 +1568,12 @@
             "target_unit": "BJ0012",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지12_범죄인지.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1440,7 +1605,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0026",
             "reference_id": "admrul:고용보험수사관집무규정#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1460,7 +1629,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0026",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1480,7 +1651,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0026",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1500,7 +1673,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0026",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1537,7 +1712,12 @@
             "target_unit": "BJ0013",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지13_범죄경력조회대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1569,7 +1749,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0028",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1589,7 +1771,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0028",
             "reference_id": "law:고용보험법#JO0116",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1609,7 +1793,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0028",
             "reference_id": "law:국민평생직업능력개발법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json"
+            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_git_path": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1629,7 +1815,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0028",
             "reference_id": "law:국민평생직업능력개발법#JO0062_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json"
+            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_git_path": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1677,7 +1865,12 @@
             "target_unit": "BJ0014",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지14_출국금지 및 해제요청 대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1714,7 +1907,12 @@
             "target_unit": "BJ0015",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지15_입국 시 통보 및 해제요청 대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1746,7 +1944,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0032",
             "reference_id": "admrul:기소중지자지명수배통보지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기소중지자 지명수배ㆍ통보 지침/기소중지자 지명수배ㆍ통보 지침.json"
+            "target_git_path_guess": "기소중지자 지명수배ㆍ통보 지침/기소중지자 지명수배ㆍ통보 지침.json",
+            "target_git_path": "기소중지자 지명수배·통보지침/기소중지자 지명수배·통보지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1771,7 +1973,12 @@
             "target_unit": "BJ0016",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지16_지명수배·지명통보 및 해제대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1796,7 +2003,12 @@
             "target_unit": "BJ0017",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지17_지명수배자현황보고.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1850,7 +2062,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0035",
             "reference_id": "law:형의실효등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
+            "target_git_path": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1887,7 +2101,12 @@
             "target_unit": "BJ0018",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지18_범죄통계원표대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1919,7 +2138,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0037",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1944,7 +2165,12 @@
             "target_unit": "BJ0019",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지19_사건송치부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1969,7 +2195,12 @@
             "target_unit": "BJ0020",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지20_민원서류처리전.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2001,7 +2232,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0037_02",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2021,7 +2254,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0037_02",
             "reference_id": "law:형사소송법#JO0197_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2041,7 +2276,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0037_02",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2061,7 +2298,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0037_02",
             "reference_id": "law:형사소송법#JO0197_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2081,7 +2320,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0037_02",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2118,7 +2359,12 @@
             "target_unit": "BJ0021",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지21_경찰장구관리대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2150,7 +2396,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0039",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2170,7 +2418,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0039",
             "reference_id": "admrul:근로감독관집무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json"
+            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_git_path": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2190,7 +2442,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0039",
             "reference_id": "admrul:근로감독관집무규정#JO0050",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json"
+            "target_git_path_guess": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_git_path": "근로감독관집무규정/근로감독관집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2227,7 +2483,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:고용보험수사관집무규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별표/별표2_실업급여 및 모성보호 부정수급 반환금액의 분할납부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2247,7 +2508,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0040",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2267,7 +2530,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0040",
             "reference_id": "law:형사소송법#JO0249",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2287,7 +2552,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0040",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2307,7 +2574,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0040",
             "reference_id": "law:고용보험및산업재해보상보험의보험료징수등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률/법률/고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률.json"
+            "target_git_path_guess": "고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률/법률/고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률.json",
+            "target_git_path": "고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률/법률/고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2339,7 +2608,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0041",
             "reference_id": "admrul:고용보험수사관집무규정#JO0040",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2359,7 +2632,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0041",
             "reference_id": "law:행정절차법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/법률/행정절차법.json"
+            "target_git_path_guess": "행정절차법/법률/행정절차법.json",
+            "target_git_path": "행정절차법/법률/행정절차법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2379,7 +2654,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0041",
             "reference_id": "law:행정절차법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/법률/행정절차법.json"
+            "target_git_path_guess": "행정절차법/법률/행정절차법.json",
+            "target_git_path": "행정절차법/법률/행정절차법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2399,7 +2676,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0041",
             "reference_id": "law:행정절차법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/법률/행정절차법.json"
+            "target_git_path_guess": "행정절차법/법률/행정절차법.json",
+            "target_git_path": "행정절차법/법률/행정절차법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2453,7 +2732,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0044",
             "reference_id": "law:질서위반행위규제법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위 규제법/법률/질서위반행위 규제법.json"
+            "target_git_path_guess": "질서위반행위 규제법/법률/질서위반행위 규제법.json",
+            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2473,7 +2754,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0044",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2493,7 +2776,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0044",
             "reference_id": "law:고용보험법#JO0118",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2518,7 +2803,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지3_출석요구.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2538,7 +2828,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0044",
             "reference_id": "law:국민평생직업능력개발법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json"
+            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_git_path": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2558,7 +2850,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0044",
             "reference_id": "law:국민평생직업능력개발법#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json"
+            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_git_path": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2583,7 +2877,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:고용보험수사관집무규정#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json"
+            "target_git_path_guess": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_path": "고용보험수사관 집무규정/고용보험수사관 집무규정.json",
+            "target_git_file_path": "고용보험수사관 집무규정/별지/별지5_출석요구통지부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2615,7 +2914,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0045",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2635,7 +2936,9 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0045",
             "reference_id": "law:검사와특별사법경찰관의상호협력에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사와 특별사법경찰 관의 상호협력에 관한 규정/법률/검사와 특별사법경찰 관의 상호협력에 관한 규정.json"
+            "target_git_path_guess": "검사와 특별사법경찰 관의 상호협력에 관한 규정/법률/검사와 특별사법경찰 관의 상호협력에 관한 규정.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규정/법률/검사와 특별사법경찰관의 상호협력에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2667,7 +2970,11 @@
             "source_provision_id": "admrul:고용보험수사관집무규정#JO0046",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
