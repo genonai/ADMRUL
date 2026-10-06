@@ -111,7 +111,9 @@
             "source_provision_id": "admrul:신병관련업무처리지침#JO0005",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -131,7 +133,9 @@
             "source_provision_id": "admrul:신병관련업무처리지침#JO0005",
             "reference_id": "law:공소청사건사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
+            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -151,7 +155,11 @@
             "source_provision_id": "admrul:신병관련업무처리지침#JO0005",
             "reference_id": "admrul:체포구속업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "체포ㆍ구속업무처리지침/체포ㆍ구속업무처리지침.json"
+            "target_git_path_guess": "체포ㆍ구속업무처리지침/체포ㆍ구속업무처리지침.json",
+            "target_git_path": "체포·구속 업무처리지침/체포·구속 업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -225,9 +233,13 @@
             "target_url": "https://www.law.go.kr/행정규칙/체포ㆍ호송 등 장비 사용에 관한 지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:신병관련업무처리지침#JO0010",
-            "reference_id": "admrul:체포호송등장비사용에관한지침#DOC",
+            "reference_id": "admrul:호송계호등장비사용에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "체포ㆍ호송 등 장비 사용에 관한 지침/체포ㆍ호송 등 장비 사용에 관한 지침.json"
+            "target_git_path_guess": "체포ㆍ호송 등 장비 사용에 관한 지침/체포ㆍ호송 등 장비 사용에 관한 지침.json",
+            "target_git_path": "호송ㆍ계호 등 장비 사용에 관한 지침/호송ㆍ계호 등 장비 사용에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

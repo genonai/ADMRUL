@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0006",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -120,7 +122,9 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0006",
             "reference_id": "law:형사소송법#JO0245_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -140,7 +144,9 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0006",
             "reference_id": "law:공소청사건사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
+            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -160,7 +166,9 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0006",
             "reference_id": "law:공소청사건사무규칙#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
+            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -192,7 +200,9 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0007",
             "reference_id": "law:공소청사건사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
+            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -212,7 +222,9 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0007",
             "reference_id": "law:공소청사건사무규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
+            "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -244,7 +256,11 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0008",
             "reference_id": "admrul:병존기록접수및처리에대한지침#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json"
+            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_git_path": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -264,7 +280,11 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0008",
             "reference_id": "admrul:병존기록접수및처리에대한지침#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json"
+            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_git_path": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -284,7 +304,11 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0008",
             "reference_id": "admrul:병존기록접수및처리에대한지침#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json"
+            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_git_path": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -304,7 +328,11 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0008",
             "reference_id": "admrul:병존기록접수및처리에대한지침#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json"
+            "target_git_path_guess": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_git_path": "병존기록 접수 및 처리에 대한 지침/병존기록 접수 및 처리에 대한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -347,7 +375,11 @@
             "source_provision_id": "admrul:병존기록접수및처리에대한지침#JO0010",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -373,7 +405,9 @@
         "source_provision_id": "admrul:병존기록접수및처리에대한지침#DOC",
         "reference_id": "law:공소청사건사무규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
+        "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+        "target_git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -393,7 +427,9 @@
         "source_provision_id": "admrul:병존기록접수및처리에대한지침#DOC",
         "reference_id": "law:공소청사건사무규칙#JO0005",
         "target_repo": "LAW",
-        "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json"
+        "target_git_path_guess": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+        "target_git_path": "공소청사건사무규칙/법률/공소청사건사무규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -413,7 +449,9 @@
         "source_provision_id": "admrul:병존기록접수및처리에대한지침#DOC",
         "reference_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json"
+        "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+        "target_git_path": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -433,7 +471,9 @@
         "source_provision_id": "admrul:병존기록접수및처리에대한지침#DOC",
         "reference_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json"
+        "target_git_path_guess": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+        "target_git_path": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/법률/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정.json",
+        "target_source_repository": "LAW"
       }
     ]
   },
