@@ -67,7 +67,11 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0001",
             "reference_id": "admrul:대외무역관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json"
+            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json",
+            "target_git_path": "대외무역관리규정/대외무역관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -87,7 +91,11 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0001",
             "reference_id": "admrul:대외무역관리규정#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json"
+            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json",
+            "target_git_path": "대외무역관리규정/대외무역관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +120,8 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대체수출물품 관세환급에 따른 수출입통관절차 및 환급처리에 관한 예규/대체수출물품 관세환급에 따른 수출입통관절차 및 환급처리에 관한 예규.json"
+            "target_git_path_guess": "대체수출물품 관세환급에 따른 수출입통관절차 및 환급처리에 관한 예규/대체수출물품 관세환급에 따른 수출입통관절차 및 환급처리에 관한 예규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -144,7 +153,11 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0002",
             "reference_id": "admrul:대외무역관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json"
+            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json",
+            "target_git_path": "대외무역관리규정/대외무역관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -164,7 +177,11 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0002",
             "reference_id": "admrul:대외무역관리규정#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json"
+            "target_git_path_guess": "대외무역관리규정/대외무역관리규정.json",
+            "target_git_path": "대외무역관리규정/대외무역관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -196,7 +213,9 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0003",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -216,7 +235,9 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0003",
             "reference_id": "law:관세법#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -259,7 +280,9 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0005",
             "reference_id": "law:수출용원재료에대한관세등환급에관한특례법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수출용원재료에 대한 관세등 환급에 관한 특례법/시행규칙/수출용원재료에 대한 관세등 환급에 관한 특례법 시행규칙.json"
+            "target_git_path_guess": "수출용원재료에 대한 관세등 환급에 관한 특례법/시행규칙/수출용원재료에 대한 관세등 환급에 관한 특례법 시행규칙.json",
+            "target_git_path": "수출용 원재료에 대한 관세 등 환급에 관한 특례법/시행규칙/수출용 원재료에 대한 관세 등 환급에 관한 특례법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +302,9 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0005",
             "reference_id": "law:수출용원재료에대한관세등환급에관한특례법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "수출용원재료에 대한 관세등 환급에 관한 특례법/시행규칙/수출용원재료에 대한 관세등 환급에 관한 특례법 시행규칙.json"
+            "target_git_path_guess": "수출용원재료에 대한 관세등 환급에 관한 특례법/시행규칙/수출용원재료에 대한 관세등 환급에 관한 특례법 시행규칙.json",
+            "target_git_path": "수출용 원재료에 대한 관세 등 환급에 관한 특례법/시행규칙/수출용 원재료에 대한 관세 등 환급에 관한 특례법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -311,7 +336,9 @@
             "source_provision_id": "admrul:대체수출물품관세환급에따른수출입통관절차및환급처리에관한예규#JO0006",
             "reference_id": "law:수출용원재료에대한관세등환급에관한특례법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수출용원재료에 대한 관세등 환급에 관한 특례법/시행령/수출용원재료에 대한 관세등 환급에 관한 특례법 시행령.json"
+            "target_git_path_guess": "수출용원재료에 대한 관세등 환급에 관한 특례법/시행령/수출용원재료에 대한 관세등 환급에 관한 특례법 시행령.json",
+            "target_git_path": "수출용 원재료에 대한 관세 등 환급에 관한 특례법/시행령/수출용 원재료에 대한 관세 등 환급에 관한 특례법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
