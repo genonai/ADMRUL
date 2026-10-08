@@ -388,8 +388,25 @@
             "reference_id": "law:철도산업발전기본법시행규칙#JO0012",
             "target_repo": "LAW",
             "target_git_path_guess": "철도산업발전기본법/시행규칙/철도산업발전기본법시행규칙.json",
-            "target_git_path": "철도산업발전기본법/시행규칙/철도산업발전기본법시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "철도산업발전기본법/시행규칙/철도산업발전기본법 시행규칙.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "철도산업발전기본법/시행규칙/철도산업발전기본법 시행규칙.json",
+                "source_repository": "LAW",
+                "provision_id": "law:철도산업발전기본법시행규칙#JO0012",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "철도산업발전기본법/시행규칙/철도산업발전기본법시행규칙.json",
+                "source_repository": "LAW",
+                "provision_id": "law:철도산업발전기본법시행규칙#JO0012",
+                "is_current": true,
+                "enforcement_date": "20260603"
+              }
+            ]
           },
           {
             "relation_type": "citation",

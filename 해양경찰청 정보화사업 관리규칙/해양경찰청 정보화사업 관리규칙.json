@@ -1883,13 +1883,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/행정안전부 정보보안지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:해양경찰청정보화사업관리규칙#JO0020",
-            "reference_id": "admrul:행정안전부정보보안지침#DOC",
+            "reference_id": "admrul:행정안전부사이버보안지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "행정안전부 정보보안지침/행정안전부 정보보안지침.json",
-            "target_git_path": "행정안전부 정보보안지침/행정안전부 정보보안지침.json",
+            "target_git_path": "행정안전부 사이버보안지침/행정안전부 사이버보안지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "행정안전부 사이버보안지침/행정안전부 사이버보안지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:행정안전부사이버보안지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "행정안전부 사이버보안지침/행정안전부 정보보안지침/행정안전부 정보보안지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:행정안전부정보보안지침:행정안전부정보보안지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20220113"
+              }
+            ]
           },
           {
             "relation_type": "citation",

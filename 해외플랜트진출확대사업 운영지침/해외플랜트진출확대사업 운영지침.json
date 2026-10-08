@@ -245,13 +245,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산업통상자원부 국고보조금 통합관리지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:해외플랜트진출확대사업운영지침#JO0003",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           }
         ],
         "images": [],

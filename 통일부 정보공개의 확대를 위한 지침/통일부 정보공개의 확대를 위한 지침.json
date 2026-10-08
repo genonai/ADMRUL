@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:통일부정보공개의확대를위한지침#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -141,7 +143,9 @@
             "source_provision_id": "admrul:통일부정보공개의확대를위한지침#JO0004",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -161,7 +165,9 @@
             "source_provision_id": "admrul:통일부정보공개의확대를위한지침#JO0004",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -181,7 +187,9 @@
             "source_provision_id": "admrul:통일부정보공개의확대를위한지침#JO0004",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -201,7 +209,11 @@
             "source_provision_id": "admrul:통일부정보공개의확대를위한지침#JO0004",
             "reference_id": "admrul:통일부정보공개의확대를위한지침#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json"
+            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_git_path": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -260,7 +272,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:통일부정보공개의확대를위한지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json"
+            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_git_path": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_git_file_path": "통일부 정보공개의 확대를 위한 지침/별표/별표1_비공개대상정보 세부기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -285,7 +302,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:통일부정보공개의확대를위한지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json"
+            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_git_path": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_git_file_path": "통일부 정보공개의 확대를 위한 지침/별표/별표1_비공개대상정보 세부기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -310,7 +332,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:통일부정보공개의확대를위한지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json"
+            "target_git_path_guess": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_git_path": "통일부 정보공개의 확대를 위한 지침/통일부 정보공개의 확대를 위한 지침.json",
+            "target_git_file_path": "통일부 정보공개의 확대를 위한 지침/별표/별표1_비공개대상정보 세부기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -375,7 +402,11 @@
             "source_provision_id": "admrul:통일부정보공개의확대를위한지침#JO0011",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -836,10 +836,27 @@
             "reference_id": "admrul:농산물검사검정방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농산물 검사ㆍ검정방법 및 절차 등에 관한 규정/농산물 검사ㆍ검정방법 및 절차 등에 관한 규정.json",
-            "target_git_path": "농산물 검사·검정방법 및 절차 등에 관한 규정/농산물 검사·검정방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "농산물 검사ㆍ검정방법 및 절차 등에 관한 규정/농산물 검사ㆍ검정방법 및 절차 등에 관한 규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농산물 검사·검정방법 및 절차 등에 관한 규정/농산물 검사·검정방법 및 절차 등에 관한 규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농산물검사검정방법및절차등에관한규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20221227"
+              },
+              {
+                "git_path": "농산물 검사ㆍ검정방법 및 절차 등에 관한 규정/농산물 검사ㆍ검정방법 및 절차 등에 관한 규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농산물검사검정방법및절차등에관한규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260827"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1160,10 +1177,10 @@
             "target_url": "https://www.law.go.kr/법령/특별사법경찰관리에 대한 검사의 수사지휘 및 특별사법경찰관리의 수사준칙에 관한 규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:지리적표시품사후관리요령#JO0010",
-            "reference_id": "law:특별사법경찰관리에대한검사의수사지휘및특별사법경찰관리의수사준칙에관한규칙#DOC",
+            "reference_id": "law:검사와특별사법경찰관의상호협력에관한규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "특별사법경찰관리에 대한 검사의 수사지휘 및 특별사법경찰관리의 수사준칙에 관한 규칙/법률/특별사법경찰관리에 대한 검사의 수사지휘 및 특별사법경찰관리의 수사준칙에 관한 규칙.json",
-            "target_git_path": "특별사법경찰관리에 대한 검사의 수사지휘 및 특별사법경찰관리의 수사준칙에 관한 규칙/법률/특별사법경찰관리에 대한 검사의 수사지휘 및 특별사법경찰관리의 수사준칙에 관한 규칙.json",
+            "target_git_path": "검사와 특별사법경찰관의 상호협력에 관한 규칙/법률/검사와 특별사법경찰관의 상호협력에 관한 규칙.json",
             "target_source_repository": "LAW"
           },
           {

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0001",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0001",
             "reference_id": "law:선박의입항및출항등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json"
+            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
+            "target_git_path": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0003",
             "reference_id": "law:해사안전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해사안전기본법/법률/해사안전기본법.json"
+            "target_git_path_guess": "해사안전기본법/법률/해사안전기본법.json",
+            "target_git_path": "해사안전기본법/법률/해사안전기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0003",
             "reference_id": "law:해사안전기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "해사안전기본법/법률/해사안전기본법.json"
+            "target_git_path_guess": "해사안전기본법/법률/해사안전기본법.json",
+            "target_git_path": "해사안전기본법/법률/해사안전기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -187,7 +195,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:울산항항만시설운영세칙#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "울산항 항만시설 운영세칙/울산항 항만시설 운영세칙.json"
+            "target_git_path_guess": "울산항 항만시설 운영세칙/울산항 항만시설 운영세칙.json",
+            "target_git_path": "울산항 항만시설 운영세칙/울산항 항만시설 운영세칙.json",
+            "target_git_file_path": "울산항 항만시설 운영세칙/별표/별표1_주요 기본시설의 명칭 및 위치.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -637,7 +650,9 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0038",
             "reference_id": "law:선박의입항및출항등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json"
+            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
+            "target_git_path": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -669,7 +684,9 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0038_02",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -689,7 +706,11 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0038_02",
             "reference_id": "admrul:울산항예선운영세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "울산항 예선운영세칙/울산항 예선운영세칙.json"
+            "target_git_path_guess": "울산항 예선운영세칙/울산항 예선운영세칙.json",
+            "target_git_path": "울산항 예선운영세칙/울산항 예선운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -754,7 +775,11 @@
             "source_provision_id": "admrul:울산항항만시설운영세칙#JO0042",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

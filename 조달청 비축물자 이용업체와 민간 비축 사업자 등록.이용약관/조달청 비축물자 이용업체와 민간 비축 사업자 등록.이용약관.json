@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0001",
             "reference_id": "law:전자조달의이용및촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0001",
             "reference_id": "law:전자조달의이용및촉진에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0001",
             "reference_id": "law:조달사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0001",
             "reference_id": "law:조달사업에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0002",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0002",
             "reference_id": "law:조달사업에관한법률시행령#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0002",
             "reference_id": "admrul:조달청비축사업운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -219,7 +235,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0002",
             "reference_id": "admrul:국가종합전자조달시스템입찰참가자격등록규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가종합전자조달시스템입찰참가자격등록규정/국가종합전자조달시스템입찰참가자격등록규정.json"
+            "target_git_path_guess": "국가종합전자조달시스템입찰참가자격등록규정/국가종합전자조달시스템입찰참가자격등록규정.json",
+            "target_git_path": "국가종합전자조달시스템 입찰참가자격등록규정/국가종합전자조달시스템 입찰참가자격등록규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -239,7 +259,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0002",
             "reference_id": "admrul:국가종합전자조달시스템이용약관#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가종합전자조달시스템 이용약관/국가종합전자조달시스템 이용약관.json"
+            "target_git_path_guess": "국가종합전자조달시스템 이용약관/국가종합전자조달시스템 이용약관.json",
+            "target_git_path": "국가종합전자조달시스템 이용약관/국가종합전자조달시스템 이용약관.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -271,7 +295,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0003",
             "reference_id": "law:전자문서및전자거래기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자문서 및 전자거래 기본법/시행령/전자문서 및 전자거래 기본법 시행령.json"
+            "target_git_path_guess": "전자문서 및 전자거래 기본법/시행령/전자문서 및 전자거래 기본법 시행령.json",
+            "target_git_path": "전자문서 및 전자거래 기본법/시행령/전자문서 및 전자거래 기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -291,7 +317,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0003",
             "reference_id": "law:전자문서및전자거래기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자문서 및 전자거래 기본법/시행규칙/전자문서 및 전자거래 기본법 시행규칙.json"
+            "target_git_path_guess": "전자문서 및 전자거래 기본법/시행규칙/전자문서 및 전자거래 기본법 시행규칙.json",
+            "target_git_path": "전자문서 및 전자거래 기본법/시행규칙/전자문서 및 전자거래 기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -311,7 +339,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0003",
             "reference_id": "law:전자서명법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/시행령/전자서명법 시행령.json"
+            "target_git_path_guess": "전자서명법/시행령/전자서명법 시행령.json",
+            "target_git_path": "전자서명법/시행령/전자서명법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -331,7 +361,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0003",
             "reference_id": "law:전자서명법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/시행규칙/전자서명법 시행규칙.json"
+            "target_git_path_guess": "전자서명법/시행규칙/전자서명법 시행규칙.json",
+            "target_git_path": "전자서명법/시행규칙/전자서명법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -396,7 +428,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0006",
             "reference_id": "admrul:국가종합전자조달시스템입찰참가자격등록규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가종합전자조달시스템입찰참가자격등록규정/국가종합전자조달시스템입찰참가자격등록규정.json"
+            "target_git_path_guess": "국가종합전자조달시스템입찰참가자격등록규정/국가종합전자조달시스템입찰참가자격등록규정.json",
+            "target_git_path": "국가종합전자조달시스템 입찰참가자격등록규정/국가종합전자조달시스템 입찰참가자격등록규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -416,7 +452,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0006",
             "reference_id": "admrul:국가종합전자조달시스템입찰참가자격등록규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가종합전자조달시스템입찰참가자격등록규정/국가종합전자조달시스템입찰참가자격등록규정.json"
+            "target_git_path_guess": "국가종합전자조달시스템입찰참가자격등록규정/국가종합전자조달시스템입찰참가자격등록규정.json",
+            "target_git_path": "국가종합전자조달시스템 입찰참가자격등록규정/국가종합전자조달시스템 입찰참가자격등록규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -459,7 +499,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0008",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -479,7 +521,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0008",
             "reference_id": "law:소득세법#JO0168",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -499,7 +543,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0008",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -519,7 +565,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0008",
             "reference_id": "law:법인세법#JO0111",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -539,7 +587,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0008",
             "reference_id": "law:부가가치세법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -559,7 +609,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0008",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -579,7 +631,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0008",
             "reference_id": "law:부가가치세법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -644,7 +698,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0012",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -664,7 +720,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0012",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -684,7 +742,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0012",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -704,7 +764,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0012",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -791,7 +853,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0018",
             "reference_id": "admrul:조달청비축사업운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -811,7 +877,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0018",
             "reference_id": "admrul:조달청비축사업운영규정#JO0051",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -831,7 +901,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0018",
             "reference_id": "admrul:조달청비축사업운영규정#JO0051",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -851,7 +925,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0018",
             "reference_id": "admrul:조달청비축사업운영규정#JO0052",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -871,7 +949,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0018",
             "reference_id": "admrul:조달청비축사업운영규정#JO0053",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -891,7 +973,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0018",
             "reference_id": "admrul:조달청비축사업운영규정#JO0054",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -911,7 +997,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0018",
             "reference_id": "admrul:조달청비축사업운영규정#JO0055",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json"
+            "target_git_path_guess": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_git_path": "조달청 비축사업 운영규정/조달청 비축사업 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -976,7 +1066,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0022",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -996,7 +1088,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0022",
             "reference_id": "law:소득세법#JO0168",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1016,7 +1110,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0022",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1036,7 +1132,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0022",
             "reference_id": "law:법인세법#JO0111",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1056,7 +1154,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0022",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1076,7 +1176,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0022",
             "reference_id": "law:부가가치세법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1119,7 +1221,9 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0024",
             "reference_id": "law:행정규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json",
+            "target_git_path": "행정규제기본법/법률/행정규제기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1139,7 +1243,11 @@
             "source_provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#JO0024",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

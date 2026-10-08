@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0001",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,11 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0002",
             "reference_id": "admrul:행정안전부인사관리규정#JO0026",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -151,7 +159,11 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0003",
             "reference_id": "admrul:행정안전부위임전결규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 위임전결규정/행정안전부 위임전결규정.json"
+            "target_git_path_guess": "행정안전부 위임전결규정/행정안전부 위임전결규정.json",
+            "target_git_path": "행정안전부 위임전결규정/행정안전부 위임전결규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -194,7 +206,11 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0005",
             "reference_id": "admrul:행정안전부인사관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -235,9 +251,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0007",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -255,9 +273,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0007",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0008",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -275,9 +295,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제13조",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0007",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0013",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -320,7 +342,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0009",
             "reference_id": "law:전문직공무원인사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json"
+            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_git_path": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -340,7 +364,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0009",
             "reference_id": "law:전문직공무원인사규정#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json"
+            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_git_path": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -391,7 +417,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0010",
             "reference_id": "law:전문직공무원인사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json"
+            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_git_path": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -411,7 +439,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0010",
             "reference_id": "law:전문직공무원인사규정#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json"
+            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_git_path": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -462,7 +492,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0011",
             "reference_id": "law:전문직공무원인사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json"
+            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_git_path": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -502,9 +534,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0011_02",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -522,9 +556,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제27조",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0011_02",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0027",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -549,7 +585,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:행정안전부인사관리규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_file_path": "행정안전부 인사관리규정/별표/별표1_재난대응부서 가점 부여기준(제11조의2제4항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -614,7 +655,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0015",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -634,7 +677,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0015",
             "reference_id": "law:공무원임용령#JO0035_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -688,7 +733,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -708,7 +755,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -728,7 +777,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -748,7 +799,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -768,7 +821,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -788,7 +843,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -813,7 +870,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:행정안전부인사관리규정#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_file_path": "행정안전부 인사관리규정/별표/별표4_별도로 정하는 필수보직기간(제18조제3항 및 제4항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -833,7 +895,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -853,7 +917,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0018",
             "reference_id": "law:공무원임용령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -878,7 +944,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:행정안전부인사관리규정#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_file_path": "행정안전부 인사관리규정/별표/별표4_별도로 정하는 필수보직기간(제18조제3항 및 제4항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -943,7 +1014,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0022",
             "reference_id": "law:전문직공무원인사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json"
+            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_git_path": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -963,7 +1036,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0022",
             "reference_id": "law:전문직공무원인사규정#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json"
+            "target_git_path_guess": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_git_path": "전문직공무원 인사규정/법률/전문직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -988,7 +1063,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:행정안전부인사관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_file_path": "행정안전부 인사관리규정/별표/별표5_전문 분야 및 전보 범위(제22조제2항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1018,9 +1098,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0023",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1045,7 +1127,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:행정안전부인사관리규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_file_path": "행정안전부 인사관리규정/별표/별표2_전문직위 가점 부여기준(제23조제5항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1065,7 +1152,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0023",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1090,7 +1179,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:행정안전부인사관리규정#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_file_path": "행정안전부 인사관리규정/별표/별표3_전문관 수당 기준(제23조제5항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1155,7 +1249,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0026",
             "reference_id": "law:별정직공무원인사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json"
+            "target_git_path_guess": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json",
+            "target_git_path": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1175,7 +1271,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0026",
             "reference_id": "law:별정직공무원인사규정#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json"
+            "target_git_path_guess": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json",
+            "target_git_path": "별정직공무원 인사규정/법률/별정직공무원 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1195,7 +1293,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0026",
             "reference_id": "law:전직대통령예우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전직대통령 예우에 관한 법률/법률/전직대통령 예우에 관한 법률.json"
+            "target_git_path_guess": "전직대통령 예우에 관한 법률/법률/전직대통령 예우에 관한 법률.json",
+            "target_git_path": "전직대통령 예우에 관한 법률/법률/전직대통령 예우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1215,7 +1315,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0026",
             "reference_id": "law:전직대통령예우에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "전직대통령 예우에 관한 법률/법률/전직대통령 예우에 관한 법률.json"
+            "target_git_path_guess": "전직대통령 예우에 관한 법률/법률/전직대통령 예우에 관한 법률.json",
+            "target_git_path": "전직대통령 예우에 관한 법률/법률/전직대통령 예우에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1258,7 +1360,11 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0028",
             "reference_id": "admrul:행정안전부인사관리규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1290,7 +1396,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0029",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1310,7 +1418,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0029",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1330,7 +1440,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0029",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1350,7 +1462,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0029",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1370,7 +1484,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0029",
             "reference_id": "law:책임운영기관의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1390,7 +1506,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0029",
             "reference_id": "law:책임운영기관의설치운영에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/법률/책임운영기관의 설치ㆍ운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1433,7 +1551,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0031",
             "reference_id": "law:공무원인사운영에관한특례규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json"
+            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_git_path": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1453,7 +1573,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0031",
             "reference_id": "law:공무원인사운영에관한특례규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json"
+            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_git_path": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1473,7 +1595,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0031",
             "reference_id": "law:공무원인사운영에관한특례규정#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json"
+            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_git_path": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1498,7 +1622,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:행정안전부인사관리규정#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_file_path": "행정안전부 인사관리규정/별표/별표6_전문임기제 공무원 채용 특례 적용대상(제31조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1518,7 +1647,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0031",
             "reference_id": "law:공무원인사운영에관한특례규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json"
+            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_git_path": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1538,7 +1669,9 @@
             "source_provision_id": "admrul:행정안전부인사관리규정#JO0031",
             "reference_id": "law:공무원인사운영에관한특례규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json"
+            "target_git_path_guess": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_git_path": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

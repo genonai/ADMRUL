@@ -225,7 +225,23 @@
             "target_git_path": "천리안위성 공동운영규정/admrul_89986/천리안위성 공동운영규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "천리안위성 공동운영규정/admrul_2040105/천리안위성 공동운영규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:천리안위성공동운영규정:admrul_2040105#DOC",
+                "is_current": true,
+                "enforcement_date": "20210531"
+              },
+              {
+                "git_path": "천리안위성 공동운영규정/admrul_89986/천리안위성 공동운영규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:천리안위성공동운영규정:admrul_89986#DOC",
+                "is_current": true,
+                "enforcement_date": "20250626"
+              }
+            ]
           },
           {
             "relation_type": "citation",

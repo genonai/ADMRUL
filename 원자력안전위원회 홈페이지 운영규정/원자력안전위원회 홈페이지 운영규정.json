@@ -495,13 +495,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전위원회 정보보안 기본지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:원자력안전위원회홈페이지운영규정#JO0022",
-            "reference_id": "admrul:원자력안전위원회정보보안기본지침#DOC",
+            "reference_id": "admrul:원자력안전위원회사이버보안기본지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "원자력안전위원회 정보보안 기본지침/원자력안전위원회 정보보안 기본지침.json",
-            "target_git_path": "원자력안전위원회 정보보안 기본지침/원자력안전위원회 정보보안 기본지침.json",
+            "target_git_path": "원자력안전위원회 사이버보안 기본지침/원자력안전위원회 사이버보안 기본지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "원자력안전위원회 사이버보안 기본지침/원자력안전위원회 사이버보안 기본지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:원자력안전위원회사이버보안기본지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260923"
+              },
+              {
+                "git_path": "원자력안전위원회 사이버보안 기본지침/원자력안전위원회 정보보안 기본지침/원자력안전위원회 정보보안 기본지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:원자력안전위원회정보보안기본지침:원자력안전위원회정보보안기본지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           }
         ],
         "images": [],

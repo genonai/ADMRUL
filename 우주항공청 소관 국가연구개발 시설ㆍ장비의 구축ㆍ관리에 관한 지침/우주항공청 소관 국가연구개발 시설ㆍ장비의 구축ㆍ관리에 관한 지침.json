@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0001",
             "reference_id": "law:과학기술기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json"
+            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_git_path": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0001",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -119,7 +142,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -139,7 +183,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -159,7 +224,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:국가연구개발혁신법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +246,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +268,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:국가연구개발혁신법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
+            "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_git_path": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +290,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -239,7 +312,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:보안업무규정#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -259,7 +334,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:군사기밀보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json"
+            "target_git_path_guess": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json",
+            "target_git_path": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +356,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:군사기밀보호법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json"
+            "target_git_path_guess": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json",
+            "target_git_path": "군사기밀 보호법/시행령/군사기밀 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -299,7 +378,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:국가연구개발혁신법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -319,7 +400,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:우주개발진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우주개발 진흥법/법률/우주개발 진흥법.json"
+            "target_git_path_guess": "우주개발 진흥법/법률/우주개발 진흥법.json",
+            "target_git_path": "우주개발 진흥법/법률/우주개발 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -339,7 +422,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:항공우주산업개발촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공우주산업개발 촉진법/법률/항공우주산업개발 촉진법.json"
+            "target_git_path_guess": "항공우주산업개발 촉진법/법률/항공우주산업개발 촉진법.json",
+            "target_git_path": "항공우주산업개발 촉진법/법률/항공우주산업개발 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -359,7 +444,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:과학기술기본법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -379,7 +466,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:과학기술기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json"
+            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_git_path": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -399,7 +488,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:과학기술기본법시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json"
+            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_git_path": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -419,7 +510,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -439,7 +551,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0006",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0006",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -459,7 +592,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:과학기술기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json"
+            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_git_path": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -479,7 +614,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0002",
             "reference_id": "law:과학기술기본법시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json"
+            "target_git_path_guess": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_git_path": "과학기술기본법/시행령/과학기술기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -533,7 +670,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0005",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -553,7 +692,9 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0005",
             "reference_id": "law:국가연구개발혁신법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -629,7 +770,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0010",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -649,7 +811,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0010",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -674,7 +857,29 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_git_file_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/별표/별표1_연구시설장비 정의 및 구성.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -694,7 +899,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0010",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -714,7 +940,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0010",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0018",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0018",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -812,7 +1059,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0017",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -832,7 +1100,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0017",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -864,7 +1153,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0018",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -884,7 +1194,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0018",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0027",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0027",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -904,7 +1235,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0018",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -924,7 +1276,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0018",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0028",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0028",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0028",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -944,7 +1317,28 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0018",
             "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0031",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json"
+            "target_git_path_guess": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침/국가연구개발 시설·장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침:국가연구개발시설장비의관리등에관한표준지침#JO0031",
+                "is_current": true,
+                "enforcement_date": "20260423"
+              },
+              {
+                "git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#JO0031",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ],
+            "target_git_path": "국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침/국가연구개발 시설ㆍ장비의 관리 등에 관한 표준지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1009,7 +1403,11 @@
             "source_provision_id": "admrul:우주항공청소관국가연구개발시설장비의구축관리에관한지침#JO0022",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

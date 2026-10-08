@@ -253,11 +253,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0002",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+            "reference_id": "law:재생에너지개발이용보급촉진법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -275,11 +292,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/제2조",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0002",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0002",
+            "reference_id": "law:재생에너지개발이용보급촉진법#JO0002",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1134,13 +1168,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0007",
-            "reference_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+            "reference_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
-            "target_git_path": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+            "target_git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260909"
+              },
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1158,13 +1209,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0007",
-            "reference_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
+            "reference_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
-            "target_git_path": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+            "target_git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260909"
+              },
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1182,11 +1250,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0007",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+            "reference_id": "law:재생에너지개발이용보급촉진법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1204,11 +1289,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/제12조의7",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0007",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0012_07",
+            "reference_id": "law:재생에너지개발이용보급촉진법#JO0012_07",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0012_07",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#JO0012_07",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -2246,13 +2348,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0016",
-            "reference_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+            "reference_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
-            "target_git_path": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+            "target_git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260909"
+              },
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2270,13 +2389,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0016",
-            "reference_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
+            "reference_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
-            "target_git_path": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+            "target_git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260909"
+              },
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2294,11 +2430,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0016",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+            "reference_id": "law:재생에너지개발이용보급촉진법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2316,11 +2469,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/제12조의7",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0016",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0012_07",
+            "reference_id": "law:재생에너지개발이용보급촉진법#JO0012_07",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0012_07",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법#JO0012_07",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -3606,11 +3776,28 @@
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0031",
-            "reference_id": "law:신에너지및재생에너지개발이용보급촉진법시행령#DOC",
+            "reference_id": "law:재생에너지개발이용보급촉진법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
-            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:신에너지및재생에너지개발이용보급촉진법시행령#DOC",
+                "is_current": true,
+                "enforcement_date": "20260310"
+              },
+              {
+                "git_path": "재생에너지 개발ㆍ이용ㆍ보급 촉진법/시행령/재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:재생에너지개발이용보급촉진법시행령#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -3652,13 +3839,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영 지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:재생에너지전기의직접전력거래등에관한고시#JO0031",
-            "reference_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+            "reference_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영 지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영 지침.json",
-            "target_git_path": "신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+            "target_git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/신ㆍ재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침:신재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260909"
+              },
+              {
+                "git_path": "재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침/재생에너지 공급의무화제도 및 연료 혼합의무화제도 관리ㆍ운영지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재생에너지공급의무화제도및연료혼합의무화제도관리운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              }
+            ]
           },
           {
             "relation_type": "citation",

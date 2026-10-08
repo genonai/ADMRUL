@@ -60,7 +60,9 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "law:항공안전법#JO0089",
         "target_repo": "LAW",
-        "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+        "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+        "target_git_path": "항공안전법/법률/항공안전법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -80,7 +82,9 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "law:항공안전법시행규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+        "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+        "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -100,7 +104,9 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "law:항공안전법시행규칙#JO0255",
         "target_repo": "LAW",
-        "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+        "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+        "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -120,7 +126,30 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공지도제작기준#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json",
+        "target_candidate_paths": [
+          {
+            "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          }
+        ]
       },
       {
         "relation_type": "citation",
@@ -140,7 +169,11 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+        "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+        "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -160,7 +193,11 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공정보및항공지도업무지침#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공정보 및 항공지도 업무지침/항공정보 및 항공지도 업무지침.json"
+        "target_git_path_guess": "항공정보 및 항공지도 업무지침/항공정보 및 항공지도 업무지침.json",
+        "target_git_path": "항공정보 및 항공지도 업무지침/항공정보 및 항공지도 업무지침.json",
+        "target_source_repository": "ADMRUL",
+        "target_doc_target": "admrul",
+        "target_doc_kind": "행정규칙"
       },
       {
         "relation_type": "citation",
@@ -180,7 +217,30 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공지도제작기준#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json",
+        "target_candidate_paths": [
+          {
+            "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          }
+        ]
       },
       {
         "relation_type": "citation",
@@ -200,7 +260,9 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "law:항공안전법#JO0089",
         "target_repo": "LAW",
-        "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+        "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+        "target_git_path": "항공안전법/법률/항공안전법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -220,7 +282,30 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공지도제작기준#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json",
+        "target_candidate_paths": [
+          {
+            "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          }
+        ]
       },
       {
         "relation_type": "citation",
@@ -240,7 +325,30 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공지도제작기준#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json",
+        "target_candidate_paths": [
+          {
+            "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          }
+        ]
       },
       {
         "relation_type": "citation",
@@ -260,7 +368,30 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공지도제작기준#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json",
+        "target_candidate_paths": [
+          {
+            "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          }
+        ]
       },
       {
         "relation_type": "citation",
@@ -280,7 +411,30 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공지도제작기준#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json",
+        "target_candidate_paths": [
+          {
+            "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          }
+        ]
       },
       {
         "relation_type": "citation",
@@ -300,7 +454,30 @@
         "source_provision_id": "admrul:항공지도제작지침#DOC",
         "reference_id": "admrul:항공지도제작기준#DOC",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json"
+        "target_git_path_guess": "항공지도 제작 기준/항공지도 제작 기준.json",
+        "target_candidate_paths": [
+          {
+            "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          },
+          {
+            "git_path": "항공지도 제작 기준/항공지도 제작 기준.json",
+            "source_repository": "ADMRUL",
+            "provision_id": "admrul:항공지도제작기준#DOC",
+            "is_current": true,
+            "enforcement_date": "20260903"
+          }
+        ]
       }
     ]
   },

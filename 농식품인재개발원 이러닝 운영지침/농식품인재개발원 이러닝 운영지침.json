@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:농식품인재개발원이러닝운영지침#JO0001",
             "reference_id": "law:공무원인재개발법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json"
+            "target_git_path_guess": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_git_path": "공무원 인재개발법/시행령/공무원 인재개발법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,11 @@
             "source_provision_id": "admrul:농식품인재개발원이러닝운영지침#JO0001",
             "reference_id": "admrul:공무원인재개발업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 인재개발 업무처리지침/공무원 인재개발 업무처리지침.json"
+            "target_git_path_guess": "공무원 인재개발 업무처리지침/공무원 인재개발 업무처리지침.json",
+            "target_git_path": "공무원 인재개발 업무처리지침/공무원 인재개발 업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

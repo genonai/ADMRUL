@@ -130,10 +130,10 @@
             "target_url": "https://www.law.go.kr/행정규칙/항공정보 및 항공지도 등에 관한 업무기준",
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
-            "reference_id": "admrul:항공정보및항공지도등에관한업무기준#DOC",
+            "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
-            "target_git_path": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
+            "target_git_path": "항공정보업무 기준/항공정보업무 기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"
@@ -154,10 +154,10 @@
             "target_url": "https://www.law.go.kr/행정규칙/항공정보 및 항공지도 등에 관한 업무기준/제23조",
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
-            "reference_id": "admrul:항공정보및항공지도등에관한업무기준#JO0023",
+            "reference_id": "admrul:항공정보업무기준#JO0023",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
-            "target_git_path": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
+            "target_git_path": "항공정보업무 기준/항공정보업무 기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"
@@ -271,15 +271,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BYL0001",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0001",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별표/별표1_국토교통부 항공정보업무 조직도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표1_국토교통부 항공정보업무 조직도.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별표/별표1_항공정보 품질경영시스템 PDCA 흐름도.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -437,10 +454,10 @@
             "target_url": "https://www.law.go.kr/행정규칙/항공정보 및 항공지도 등에 관한 업무기준",
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
-            "reference_id": "admrul:항공정보및항공지도등에관한업무기준#DOC",
+            "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
-            "target_git_path": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
+            "target_git_path": "항공정보업무 기준/항공정보업무 기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"
@@ -461,10 +478,10 @@
             "target_url": "https://www.law.go.kr/행정규칙/항공정보 및 항공지도 등에 관한 업무기준/제3조",
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
-            "reference_id": "admrul:항공정보및항공지도등에관한업무기준#JO0003",
+            "reference_id": "admrul:항공정보업무기준#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
-            "target_git_path": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
+            "target_git_path": "항공정보업무 기준/항공정보업무 기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"
@@ -490,15 +507,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BYL0002",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0002",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별표/별표2_항공정보 품질경영시스템 PDCA 흐름도.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표2_항공정보 품질경영시스템 PDCA 흐름도.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별표/별표2_항공정보업무 관련 부서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -521,15 +555,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BYL0004",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0004",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별표/별표4_위험도평가 매트릭스.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표4_위험도평가 매트릭스.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별표/별표4_위험도평가 매트릭스.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0004",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0004",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -552,15 +603,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BYL0003",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0003",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별표/별표3_위험도 분류표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별표/별표3_위험도 분류표.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별표/별표3_위험도 분류표.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BYL0003",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BYL0003",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -633,10 +701,10 @@
             "target_url": "https://www.law.go.kr/행정규칙/항공정보 및 항공지도 등에 관한 업무기준",
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
-            "reference_id": "admrul:항공정보및항공지도등에관한업무기준#DOC",
+            "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
-            "target_git_path": "항공정보 및 항공지도 등에 관한 업무기준/항공정보 및 항공지도 등에 관한 업무기준.json",
+            "target_git_path": "항공정보업무 기준/항공정보업무 기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"
@@ -736,15 +804,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0005",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0005",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지5_부적합품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지5_부적합품 관리대장.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지5_내부심사 점검표.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -767,15 +852,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0006",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지6_내부 심사 결과서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -798,15 +900,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0006",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지6_내부 심사 결과서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -829,15 +948,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0005",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0005",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지5_부적합품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지5_부적합품 관리대장.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지5_내부심사 점검표.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -860,15 +996,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0006",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지6_내부 심사 결과서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -891,15 +1044,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0005",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0005",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지5_부적합품 관리대장.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지5_부적합품 관리대장.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지5_내부심사 점검표.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0005",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -922,15 +1092,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0006",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지6_부적합품 보고서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지6_부적합품 보고서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지6_내부 심사 결과서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0006",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -953,15 +1140,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0001",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0001",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지1_연간 내부심사 계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지1_연간 내부심사 계획서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지1_이해관계자 관리 대장.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -984,15 +1188,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0002",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0002",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지2_내부심사 실시계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지2_내부심사 실시계획서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지2_변경 및 개선 제안서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1015,15 +1236,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0002",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0002",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지2_내부심사 실시계획서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지2_내부심사 실시계획서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지2_변경 및 개선 제안서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0002",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1046,15 +1284,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0003",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0003",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지3_내부심사 점검표.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지3_내부심사 점검표.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지3_리스크 평가서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0003",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0003",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1077,15 +1332,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0004",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0004",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지4_내부 심사 계획서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1108,15 +1380,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0004",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0004",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지4_내부 심사 계획서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1139,15 +1428,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0004",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0004",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지4_내부심사 시정조치 보고서(정기, 특별).hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지4_내부 심사 계획서.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0004",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -1170,15 +1476,32 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
             "target_unit": "BJ0008",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0008",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_local_path": "별지/별지8_시정조치 요구서.hwp",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
-            "target_git_file_path": "항공정보 품질경영시스템 운영 매뉴얼/별지/별지8_시정조치 요구서.hwp"
+            "target_git_file_path": "항공정보업무 품질경영시스템 운영 지침/별지/별지8_부적합품 관리대장.hwp",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#BJ0008",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           }
         ],
         "images": [],

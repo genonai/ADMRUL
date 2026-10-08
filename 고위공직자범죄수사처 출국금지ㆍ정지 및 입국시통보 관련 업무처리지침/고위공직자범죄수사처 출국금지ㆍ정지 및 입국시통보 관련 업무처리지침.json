@@ -155,7 +155,9 @@
             "source_provision_id": "admrul:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침#JO0009",
             "reference_id": "law:출입국관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -178,9 +180,12 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침#JO0009",
             "target_unit": "BJ0009",
-            "reference_id": "law:출입국관리법시행규칙#BJ0009",
+            "reference_id": "law:출입국관리법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_file_path": "출입국관리법/시행규칙/서식/서식9_출국금지 요청대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -205,7 +210,29 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침.json"
+            "target_git_path_guess": "고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/고위공직자범죄수사처 출국금지·정지 및 입국시통보 관련 업무처리지침/고위공직자범죄수사처 출국금지·정지 및 입국시통보 관련 업무처리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20220415"
+              },
+              {
+                "git_path": "고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침#BJ0001",
+                "is_current": true,
+                "enforcement_date": "20260917"
+              }
+            ],
+            "target_git_path": "고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침.json",
+            "target_git_file_path": "고위공직자범죄수사처 출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/별지/별지1_입국시 통보요청 대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -259,7 +286,9 @@
             "source_provision_id": "admrul:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침#JO0012",
             "reference_id": "law:출입국관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json"
+            "target_git_path_guess": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_git_path": "출입국관리법/시행규칙/출입국관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -291,7 +320,11 @@
             "source_provision_id": "admrul:고위공직자범죄수사처출국금지정지및입국시통보관련업무처리지침#JO0013",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

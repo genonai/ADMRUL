@@ -253,10 +253,10 @@
             "target_url": "https://www.law.go.kr/법령/인권보호수사규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:인권보호관및인권보호담당관운영에관한지침#JO0007",
-            "reference_id": "law:인권보호수사규칙#DOC",
+            "reference_id": "law:공소청인권보호사무규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "인권보호수사규칙/법률/인권보호수사규칙.json",
-            "target_git_path": "인권보호수사규칙/법률/인권보호수사규칙.json",
+            "target_git_path": "공소청 인권보호사무규칙/법률/공소청 인권보호사무규칙.json",
             "target_source_repository": "LAW"
           },
           {
@@ -275,10 +275,10 @@
             "target_url": "https://www.law.go.kr/법령/인권보호수사규칙/제70조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인권보호관및인권보호담당관운영에관한지침#JO0007",
-            "reference_id": "law:인권보호수사규칙#JO0070",
+            "reference_id": "law:공소청인권보호사무규칙#JO0070",
             "target_repo": "LAW",
             "target_git_path_guess": "인권보호수사규칙/법률/인권보호수사규칙.json",
-            "target_git_path": "인권보호수사규칙/법률/인권보호수사규칙.json",
+            "target_git_path": "공소청 인권보호사무규칙/법률/공소청 인권보호사무규칙.json",
             "target_source_repository": "LAW"
           }
         ],
@@ -356,10 +356,10 @@
             "target_url": "https://www.law.go.kr/법령/인권보호수사규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:인권보호관및인권보호담당관운영에관한지침#JO0010",
-            "reference_id": "law:인권보호수사규칙#DOC",
+            "reference_id": "law:공소청인권보호사무규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "인권보호수사규칙/법률/인권보호수사규칙.json",
-            "target_git_path": "인권보호수사규칙/법률/인권보호수사규칙.json",
+            "target_git_path": "공소청 인권보호사무규칙/법률/공소청 인권보호사무규칙.json",
             "target_source_repository": "LAW"
           },
           {
@@ -378,10 +378,10 @@
             "target_url": "https://www.law.go.kr/법령/인권보호수사규칙/제71조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인권보호관및인권보호담당관운영에관한지침#JO0010",
-            "reference_id": "law:인권보호수사규칙#JO0071",
+            "reference_id": "law:공소청인권보호사무규칙#JO0071",
             "target_repo": "LAW",
             "target_git_path_guess": "인권보호수사규칙/법률/인권보호수사규칙.json",
-            "target_git_path": "인권보호수사규칙/법률/인권보호수사규칙.json",
+            "target_git_path": "공소청 인권보호사무규칙/법률/공소청 인권보호사무규칙.json",
             "target_source_repository": "LAW"
           }
         ],
@@ -415,7 +415,7 @@
             "reference_id": "admrul:출국금지정지및입국시통보관련업무처리지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/출국금지ㆍ정지 및 입국시통보 관련 업무처리지침.json",
-            "target_git_path": "출국금지·정지 및 입국시통보 관련 업무처리지침/출국금지·정지 및 입국시통보 관련 업무처리지침.json",
+            "target_git_path": "출국금지ㆍ정지 및 입국시통보 관련 업무처리지침/출국금지ㆍ정지 및 입국시통보 관련 업무처리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"
@@ -442,7 +442,8 @@
             "target_git_path": "출국금지·정지 및 입국시통보 관련 업무처리지침/출국금지·정지 및 입국시통보 관련 업무처리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -894,10 +895,10 @@
             "target_url": "https://www.law.go.kr/행정규칙/합리적 의사결정을 위한 협의체 등 운영에 관한 지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:인권보호관및인권보호담당관운영에관한지침#JO0018",
-            "reference_id": "admrul:합리적의사결정을위한협의체등운영에관한지침#DOC",
+            "reference_id": "admrul:합리적의사결정을위한협의체운영에관한지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "합리적 의사결정을 위한 협의체 등 운영에 관한 지침/합리적 의사결정을 위한 협의체 등 운영에 관한 지침.json",
-            "target_git_path": "합리적 의사결정을 위한 협의체 등 운영에 관한 지침/합리적 의사결정을 위한 협의체 등 운영에 관한 지침.json",
+            "target_git_path": "합리적 의사결정을 위한 협의체 운영에 관한 지침/합리적 의사결정을 위한 협의체 운영에 관한 지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"

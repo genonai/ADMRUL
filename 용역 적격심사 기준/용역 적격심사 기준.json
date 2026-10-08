@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0003",
             "reference_id": "law:외국환거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json"
+            "target_git_path_guess": "외국환거래법/법률/외국환거래법.json",
+            "target_git_path": "외국환거래법/법률/외국환거래법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -104,7 +106,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:용역적격심사기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별표/별표1_평가기준표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -136,7 +143,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0005",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -156,7 +165,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0005",
             "reference_id": "law:엔지니어링산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json"
+            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -201,7 +212,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:용역적격심사기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별표/별표1_평가기준표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -249,7 +265,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:용역적격심사기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별표/별표1_평가기준표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -286,7 +307,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:용역적격심사기준#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별지/별지1_적격심사신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -311,7 +337,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:용역적격심사기준#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별지/별지2_적격심사 자기평가 및 심사표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -336,7 +367,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:용역적격심사기준#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별지/별지3_용역이행 실적증명서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -356,7 +392,11 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0008",
             "reference_id": "admrul:용역적격심사기준#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -376,7 +416,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0008",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -396,7 +438,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0008",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -416,7 +460,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0008",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -436,7 +482,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0008",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0335_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -461,7 +509,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:용역적격심사기준#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별표/별표4_신용평가등급에 의한 경영상태 평가기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -486,7 +539,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:용역적격심사기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별표/별표3_수시결산제 폐지에 따른 경영상태평가기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -551,7 +609,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:용역적격심사기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별표/별표2_외부감사 비대상업체의 재무상태 진단요령.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -576,7 +639,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:용역적격심사기준#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별지/별지4_재무상태 진단결과 보고서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -601,7 +669,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:용역적격심사기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별표/별표1_평가기준표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -644,7 +717,11 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0010",
             "reference_id": "admrul:용역적격심사기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -703,7 +780,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:용역적격심사기준#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json"
+            "target_git_path_guess": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_path": "용역 적격심사 기준/용역 적격심사 기준.json",
+            "target_git_file_path": "용역 적격심사 기준/별지/별지5_평가결과 설명(디브리핑)의 절차 및 운영.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -735,7 +817,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -755,7 +839,9 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -798,7 +884,11 @@
             "source_provision_id": "admrul:용역적격심사기준#JO0017",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -824,7 +914,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -844,7 +936,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0042",
         "target_repo": "LAW",
-        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -864,7 +958,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -884,7 +980,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0042",
         "target_repo": "LAW",
-        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+        "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -904,7 +1002,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -924,7 +1024,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0004",
         "target_repo": "LAW",
-        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -944,7 +1046,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -964,7 +1068,9 @@
         "source_provision_id": "admrul:용역적격심사기준#DOC",
         "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0002",
         "target_repo": "LAW",
-        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+        "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+        "target_source_repository": "LAW"
       }
     ]
   },

@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0001",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/시행령/방송미디어통신위원회의 설치 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/시행령/방송미디어통신위원회의 설치 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/시행령/방송미디어통신위원회의 설치 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0001",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/시행령/방송미디어통신위원회의 설치 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/시행령/방송미디어통신위원회의 설치 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/시행령/방송미디어통신위원회의 설치 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0003",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0003",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -204,7 +212,23 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0006",
             "reference_id": "admrul:소위원회구성및운영에관한규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2039824/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2039824#DOC",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              },
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2119121/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2119121#DOC",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -224,7 +248,23 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0006",
             "reference_id": "admrul:소위원회구성및운영에관한규칙#JO0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2039824/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2039824#JO0020",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              },
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2119121/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2119121#JO0020",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -244,7 +284,23 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0006",
             "reference_id": "admrul:소위원회구성및운영에관한규칙#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2039824/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2039824#JO0023",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              },
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2119121/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2119121#JO0023",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -264,7 +320,23 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0006",
             "reference_id": "admrul:소위원회구성및운영에관한규칙#JO0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "소위원회 구성 및 운영에 관한 규칙/소위원회 구성 및 운영에 관한 규칙.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2039824/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2039824#JO0024",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              },
+              {
+                "git_path": "소위원회 구성 및 운영에 관한 규칙/admrul_2119121/소위원회 구성 및 운영에 관한 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소위원회구성및운영에관한규칙:admrul_2119121#JO0024",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              }
+            ]
           }
         ],
         "images": [],
@@ -318,7 +390,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회회의공개등에관한규칙:admrul_2039839#JO0009",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -430,5 +504,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "방송미디어통신심의위원회 회의 공개 등에 관한 규칙/admrul_2039839/방송미디어통신심의위원회 회의 공개 등에 관한 규칙.json"
+  "git_path": "방송미디어통신심의위원회 회의 공개 등에 관한 규칙/admrul_2039839/방송미디어통신심의위원회 회의 공개 등에 관한 규칙.json",
+  "_schlpub_id_suffix": "admrul_2039839"
 }
