@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0001",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0001",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0001",
             "reference_id": "law:예비군법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0002",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0002",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0002",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0002",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -269,7 +283,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표1_예비군훈련 체계도(제6조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -294,7 +313,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표2_예비군훈련 관련 법령 및 규칙(제6조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -326,7 +350,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0007",
             "reference_id": "admrul:예비군교육훈련훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -346,7 +374,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0007",
             "reference_id": "admrul:예비군교육훈련훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -366,7 +398,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0007",
             "reference_id": "admrul:예비군교육훈련훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -398,7 +434,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0008",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -418,7 +456,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0008",
             "reference_id": "law:예비군법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -438,7 +478,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0008",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -458,7 +500,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0008",
             "reference_id": "law:병역법#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -483,7 +527,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표3_예비군훈련 유형 및 대상자별 훈련기간(제8조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -515,7 +564,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0009",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -535,7 +586,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0009",
             "reference_id": "law:예비군법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -567,7 +620,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "law:병역법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -587,7 +642,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -607,7 +664,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "law:병역법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -627,7 +686,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "law:예비군법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -647,7 +708,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "law:예비군법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -667,7 +730,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "law:예비군법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행령/예비군법 시행령.json"
+            "target_git_path_guess": "예비군법/시행령/예비군법 시행령.json",
+            "target_git_path": "예비군법/시행령/예비군법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -687,7 +752,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "law:예비군법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행령/예비군법 시행령.json"
+            "target_git_path_guess": "예비군법/시행령/예비군법 시행령.json",
+            "target_git_path": "예비군법/시행령/예비군법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -707,7 +774,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0010",
             "reference_id": "admrul:예비군교육훈련훈령#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -732,7 +803,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표4_예비군훈련 소집통지 수단별 적용 기간(제10조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -774,7 +850,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0011",
             "reference_id": "admrul:예비군교육훈련훈령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -816,7 +896,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0012",
             "reference_id": "admrul:예비군교육훈련훈령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -836,7 +920,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0012",
             "reference_id": "admrul:예비군교육훈련훈령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -868,7 +956,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0013",
             "reference_id": "admrul:예비군교육훈련훈령#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -888,7 +980,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0013",
             "reference_id": "admrul:예비군교육훈련훈령#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -908,7 +1004,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0013",
             "reference_id": "admrul:예비군교육훈련훈령#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -972,7 +1072,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0016",
             "reference_id": "admrul:예비군교육훈련훈령#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -992,7 +1096,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0016",
             "reference_id": "admrul:예비군교육훈련훈령#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1024,7 +1132,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "admrul:예비군교육훈련훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1044,7 +1156,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:예비군법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json"
+            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_git_path": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1064,7 +1178,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:예비군법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json"
+            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_git_path": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1084,7 +1200,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1104,7 +1222,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:병역법시행령#JO0100",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1124,7 +1244,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1144,7 +1266,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:병역법시행령#JO0100",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1164,7 +1288,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:예비군법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json"
+            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_git_path": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1184,7 +1310,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0017",
             "reference_id": "law:예비군법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json"
+            "target_git_path_guess": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_git_path": "예비군법/시행규칙/예비군법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1221,7 +1349,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:예비군교육훈련훈령#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별지/별지2_예비군 교육훈련 소집필증(제18조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1246,7 +1379,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:예비군교육훈련훈령#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별지/별지2_예비군 교육훈련 소집필증(제18조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1266,7 +1404,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0018",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1286,7 +1426,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0018",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1306,7 +1448,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0018",
             "reference_id": "law:재난및안전관리기본법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1338,7 +1482,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0019",
             "reference_id": "admrul:예비군교육훈련훈령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1370,7 +1518,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0020",
             "reference_id": "admrul:예비군교육훈련훈령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1395,7 +1547,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:예비군교육훈련훈령#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별지/별지3_전국단위(휴일) 예비군훈련 신청서(제20조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1427,7 +1584,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0021",
             "reference_id": "admrul:예비군교육훈련훈령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1459,7 +1620,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0022",
             "reference_id": "admrul:예비군교육훈련훈령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -1519,7 +1684,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1539,7 +1706,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:예비군법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1559,7 +1728,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:예비군법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1584,7 +1755,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표5_예비군동원 및 훈련 법규보류 직종(제23조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1609,7 +1785,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표6_예비군동원 및 훈련 방침보류 직종(제23조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1629,7 +1810,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:예비군법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1649,7 +1832,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:병역판정신체검사등검사규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json"
+            "target_git_path_guess": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_git_path": "병역판정 신체검사 등 검사규칙/법률/병역판정 신체검사 등 검사규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1669,7 +1854,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:의료법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json"
+            "target_git_path_guess": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_git_path": "의료법/시행규칙/의료법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1689,7 +1876,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:병역법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1709,7 +1898,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1729,7 +1920,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0023",
             "reference_id": "law:병역법시행령#JO0135",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1754,7 +1947,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표5_예비군동원 및 훈련 법규보류 직종(제23조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1779,7 +1977,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표6_예비군동원 및 훈련 방침보류 직종(제23조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1816,7 +2019,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:예비군교육훈련훈령#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별표/별표7_예비군훈련 연기대상(사유) 및 구비서류(제24조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1870,7 +2078,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0027",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1890,7 +2100,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0027",
             "reference_id": "law:국유재산법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1910,7 +2122,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0027",
             "reference_id": "law:국유재산법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1942,7 +2156,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0028",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1962,7 +2178,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0028",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1982,7 +2200,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0028",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2014,7 +2234,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0029",
             "reference_id": "admrul:예비군휴업보상과치료등에관한훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 휴업 보상과 치료 등에 관한 훈령/예비군 휴업 보상과 치료 등에 관한 훈령.json"
+            "target_git_path_guess": "예비군 휴업 보상과 치료 등에 관한 훈령/예비군 휴업 보상과 치료 등에 관한 훈령.json",
+            "target_git_path": "예비군 휴업보상과 치료 등에 관한 훈령/예비군 휴업보상과 치료 등에 관한 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2034,7 +2258,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0029",
             "reference_id": "admrul:국방환자관리훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 환자관리 훈령/국방 환자관리 훈령.json"
+            "target_git_path_guess": "국방 환자관리 훈령/국방 환자관리 훈령.json",
+            "target_git_path": "국방 환자관리 훈령/국방 환자관리 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2066,7 +2294,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0030",
             "reference_id": "law:예비군법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행령/예비군법 시행령.json"
+            "target_git_path_guess": "예비군법/시행령/예비군법 시행령.json",
+            "target_git_path": "예비군법/시행령/예비군법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2086,7 +2316,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0030",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2106,7 +2338,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0030",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2126,7 +2360,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0030",
             "reference_id": "law:군인사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2146,7 +2382,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0030",
             "reference_id": "law:군인사법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2189,7 +2427,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:예비군법#JO0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2209,7 +2449,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:예비군법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2229,7 +2471,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:예비군법#JO0015_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/법률/예비군법.json"
+            "target_git_path_guess": "예비군법/법률/예비군법.json",
+            "target_git_path": "예비군법/법률/예비군법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2249,7 +2493,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:질서위반행위규제법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2269,7 +2515,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:질서위반행위규제법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2294,7 +2542,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:예비군교육훈련훈령#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별지/별지5_과태료 부과 사전통지서(제32조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2314,7 +2567,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:예비군법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행령/예비군법시행령.json"
+            "target_git_path_guess": "예비군법/시행령/예비군법시행령.json",
+            "target_git_path": "예비군법/시행령/예비군법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2334,7 +2589,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:예비군법시행령#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "예비군법/시행령/예비군법시행령.json"
+            "target_git_path_guess": "예비군법/시행령/예비군법시행령.json",
+            "target_git_path": "예비군법/시행령/예비군법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2354,7 +2611,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:질서위반행위규제법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2374,7 +2633,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:질서위반행위규제법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2399,7 +2660,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:예비군교육훈련훈령#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json"
+            "target_git_path_guess": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_path": "예비군 교육훈련 훈령/예비군 교육훈련 훈령.json",
+            "target_git_file_path": "예비군 교육훈련 훈령/별지/별지6_과태료 부과 결정서(제32조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2419,7 +2685,9 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0032",
             "reference_id": "law:질서위반행위규제법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2451,7 +2719,11 @@
             "source_provision_id": "admrul:예비군교육훈련훈령#JO0033",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
