@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0001",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0001",
             "reference_id": "law:공항시설법시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0001",
             "reference_id": "law:공항시설법시행규칙#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0002",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0002",
             "reference_id": "law:공항시설법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -191,7 +201,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0003",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -211,7 +223,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0003",
             "reference_id": "law:공항시설법시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -236,7 +250,8 @@
             "target_unit": "ANN0010",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#ANN0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -273,7 +288,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_file_path": "항행안전무선시설의 설치 및 기술기준/별표/별표1_항법무선시설.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -298,7 +318,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_file_path": "항행안전무선시설의 설치 및 기술기준/별표/별표2_감시 및 충돌회피 시스템(제4조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -323,7 +348,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_file_path": "항행안전무선시설의 설치 및 기술기준/별표/별표1_항법무선시설.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -348,7 +378,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_file_path": "항행안전무선시설의 설치 및 기술기준/별표/별표2_감시 및 충돌회피 시스템(제4조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -380,7 +415,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0005",
             "reference_id": "law:공항시설법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -400,7 +437,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0005",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -420,7 +459,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0005",
             "reference_id": "law:공항시설법시행규칙#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -479,7 +520,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_file_path": "항행안전무선시설의 설치 및 기술기준/별지/별지1_기술성능기록부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -504,7 +550,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_file_path": "항행안전무선시설의 설치 및 기술기준/별지/별지2_대상시설 제원.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -524,7 +575,11 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0008",
             "reference_id": "admrul:항행안전시설관리및운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 관리 및 운영규정/항행안전시설 관리 및 운영규정.json"
+            "target_git_path_guess": "항행안전시설 관리 및 운영규정/항행안전시설 관리 및 운영규정.json",
+            "target_git_path": "항행안전시설 관리 및 운영규정/항행안전시설 관리 및 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -556,7 +611,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0009",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -576,7 +633,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0009",
             "reference_id": "law:공항시설법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -608,7 +667,11 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0010",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -656,7 +719,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_file_path": "항행안전무선시설의 설치 및 기술기준/별지/별지3_운용개시 검사표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -710,7 +778,11 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0015",
             "reference_id": "admrul:항행안전무선시설의설치및기술기준#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json"
+            "target_git_path_guess": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_git_path": "항행안전무선시설의 설치 및 기술기준/항행안전무선시설의 설치 및 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -730,7 +802,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0015",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -750,7 +824,9 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0015",
             "reference_id": "law:항공안전법시행규칙#JO0255",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -782,7 +858,11 @@
             "source_provision_id": "admrul:항행안전무선시설의설치및기술기준#JO0016",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

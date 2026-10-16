@@ -83,7 +83,8 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:참고인등비용지급규칙#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "참고인등 비용지급규칙/참고인등 비용지급규칙.json"
+            "target_git_path_guess": "참고인등 비용지급규칙/참고인등 비용지급규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -137,7 +138,11 @@
             "source_provision_id": "admrul:참고인등비용지급규칙#JO0006",
             "reference_id": "admrul:참고인등비용지급규칙#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "참고인등 비용지급규칙/참고인등 비용지급규칙.json"
+            "target_git_path_guess": "참고인등 비용지급규칙/참고인등 비용지급규칙.json",
+            "target_git_path": "참고인등 비용지급규칙/참고인등 비용지급규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -169,7 +174,11 @@
             "source_provision_id": "admrul:참고인등비용지급규칙#JO0007",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -195,7 +204,9 @@
         "source_provision_id": "admrul:참고인등비용지급규칙#DOC",
         "reference_id": "law:형사소송법#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+        "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+        "target_git_path": "형사소송법/법률/형사소송법.json",
+        "target_source_repository": "LAW"
       },
       {
         "relation_type": "citation",
@@ -215,7 +226,9 @@
         "source_provision_id": "admrul:참고인등비용지급규칙#DOC",
         "reference_id": "law:형사소송법#JO0221",
         "target_repo": "LAW",
-        "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+        "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+        "target_git_path": "형사소송법/법률/형사소송법.json",
+        "target_source_repository": "LAW"
       }
     ]
   },

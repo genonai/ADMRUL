@@ -788,9 +788,13 @@
             "target_url": "https://www.law.go.kr/법령/참고인등비용지급규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방특별사법경찰관리집무규정#JO0018",
-            "reference_id": "law:참고인등비용지급규칙#DOC",
+            "reference_id": "admrul:참고인등비용지급규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "참고인등비용지급규칙/법률/참고인등비용지급규칙.json"
+            "target_git_path_guess": "참고인등비용지급규칙/법률/참고인등비용지급규칙.json",
+            "target_git_path": "참고인등 비용지급규칙/참고인등 비용지급규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
