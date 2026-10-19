@@ -65636,12 +65636,12 @@
   "version_signature": "acc619771fa60e5365aeb2ca5ec946da0ff66540fef971ed34d3bddb8080496e"
  },
  "admrul:admrul:2085529": {
-  "attempts": 1,
+  "attempts": 0,
   "body_stats": {
    "articles": 25,
    "chars": 10603
   },
-  "collected_signature": null,
+  "collected_signature": "5a53b3d6031f651328c6ca10e5f8eaa117367e77cd88ddb800907ac75c97888e",
   "content_hash": "6e92dd3718ebefba28a19e79cfb9efe17ed1e37bd22794649b27be04677d38a0",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000287040&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -65650,16 +65650,17 @@
   "doc_type": "훈령",
   "emitted_signature": "8bbe6c2f03e7d74061550a164fa307996571bb4a92c646b287029f671d5cad93",
   "enforcement_date": "20261019",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-19T15:12:14.902074+00:00",
-  "last_collected_at": "2026-10-19T15:12:26.828584+00:00",
+  "last_checked_at": "2026-10-19T15:56:34.382758+00:00",
+  "last_collected_at": "2026-10-19T15:56:54.751092+00:00",
   "last_git_error": "git update-index 실패(rc=128) /workspace/law_ai/data/ADMRUL :: 국가정보자원관리원 발주 사업에 대한 제재부과 규정/첨부파일/국가정보자원관리원 발주 사업에 대한 제재부과 규정 개정 전문.hwpx — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-19T15:14:39.835636+00:00",
   "ministry": "국가정보자원관리원",
   "mst": "2100000287040",
   "name": "국가정보자원관리원 발주 사업에 대한 제재부과 규정",
   "payload_law_id": "2085529",
+  "prev_name": null,
   "promulgation_date": "20261019",
   "status": "done",
   "version_count": 1,
@@ -319328,12 +319329,12 @@
   "version_signature": "71a2e11fac97c1ffa7c467f51d3694075f543d37698673a21ac36b114ddd8ece"
  },
  "admrul:admrul:61863": {
-  "attempts": 1,
+  "attempts": 0,
   "body_stats": {
    "articles": 1,
    "chars": 25619
   },
-  "collected_signature": null,
+  "collected_signature": "d3c3c67085d64a1f870d73a49be2b02ed67f2e6e836f1f47b53c98f72888d0f4",
   "content_hash": "180aac8eb5165b3f996576fd90ac8dba22dc47d4c3a165b15fdc20cec4ba85b0",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000286862&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -319342,10 +319343,10 @@
   "doc_type": "고시",
   "emitted_signature": "46a5a0eadfa5a8ee206088c9ddc1f1fc5b46c2e6398ad350e331d50021c84145",
   "enforcement_date": "20261015",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-19T15:06:42.440307+00:00",
-  "last_collected_at": "2026-10-19T15:06:54.981004+00:00",
+  "last_checked_at": "2026-10-19T15:56:34.508508+00:00",
+  "last_collected_at": "2026-10-19T15:56:46.034692+00:00",
   "last_git_error": "git update-index 실패(rc=128) /workspace/law_ai/data/ADMRUL :: (영산강유역환경청)공공폐수처리시설 기본계획 통합 고시/첨부파일/1. 개정고시 전문_폐수기본계획 통합고시 일부 개정_고흥 무인항공영농기술.hwpx — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-19T15:10:18.852433+00:00",
   "ministry": "영산강유역환경청",
@@ -319355,7 +319356,7 @@
    "(영산강유역환경청) 공공폐수처리시설 기본계획 통합 고시"
   ],
   "payload_law_id": "61863",
-  "prev_name": "(영산강유역환경청) 공공폐수처리시설 기본계획 통합 고시",
+  "prev_name": null,
   "promulgation_date": "20261015",
   "rename_pending": {
    "at": "2026-10-19T15:05:53.067537Z",
@@ -363180,12 +363181,12 @@
   "version_signature": "cebb46585e7363c54e5f96120e4ae0b3bf25c3f279b482816117c900aa4ce25b"
  },
  "admrul:admrul:71007": {
-  "attempts": 1,
+  "attempts": 0,
   "body_stats": {
    "articles": 12,
    "chars": 1405
   },
-  "collected_signature": null,
+  "collected_signature": "cebeb9410eb0918bcc4978bed86e6b4fdb20b8bc2f083e358a377008f68cd74f",
   "content_hash": "3b2200317dde06e9a81b9fdb528a37e59b28e706e18f370f0c21373d459feed9",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000287034&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -363194,10 +363195,10 @@
   "doc_type": "훈령",
   "emitted_signature": "90c8868043116f2deca66bc74489fe72e38d7469468142eae3de3da8ea28a5b6",
   "enforcement_date": "20261016",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-19T15:06:42.417004+00:00",
-  "last_collected_at": "2026-10-19T15:06:48.263255+00:00",
+  "last_checked_at": "2026-10-19T15:56:33.967960+00:00",
+  "last_collected_at": "2026-10-19T15:56:42.994436+00:00",
   "last_git_error": "git update-index 실패(rc=128) /workspace/law_ai/data/ADMRUL :: (방송미디어통신위원회) 체납수입금정리위원회 운영규정/별표/별표0_체납수입금정리위원회 구성(방송통신위원회)(제3조 관련).hwp — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-19T15:10:15.234755+00:00",
   "ministry": "방송미디어통신위원회",
@@ -363207,7 +363208,7 @@
    "(방송통신위원회) 체납수입금정리위원회 운영규정"
   ],
   "payload_law_id": "71007",
-  "prev_name": "(방송통신위원회) 체납수입금정리위원회 운영규정",
+  "prev_name": null,
   "promulgation_date": "20261016",
   "rename_pending": {
    "at": "2026-10-19T15:05:51.475229Z",
@@ -376935,12 +376936,12 @@
   "version_signature": "02b51d13c7ae4b65e557da4323b2237a3cb906c65b4d10a0cafb47f0bb8d2fd2"
  },
  "admrul:admrul:73876": {
-  "attempts": 1,
+  "attempts": 0,
   "body_stats": {
    "articles": 14,
    "chars": 4718
   },
-  "collected_signature": null,
+  "collected_signature": "d9c9524c28d238f249d7a1cebc81d1447d9f63899ad1e17e2ed4590537aa5463",
   "content_hash": "0580fe4ea954bc596461857549261cc5ebc6bdd14fc1229054748659e9b3a68d",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000279630&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -376949,10 +376950,10 @@
   "doc_type": "예규",
   "emitted_signature": "8e635dd8ef938c8305ac620c1175496e1522d25049e76ff5944c6878972ff19e",
   "enforcement_date": "20260521",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-19T15:28:49.388287+00:00",
-  "last_collected_at": "2026-10-19T15:29:05.377989+00:00",
+  "last_checked_at": "2026-10-19T15:56:33.964778+00:00",
+  "last_collected_at": "2026-10-19T15:56:39.164791+00:00",
   "last_git_error": "git add(작업트리 변경이 스테이징되지 않음) 실패(rc=128) /workspace/law_ai/data/ADMRUL :: 질병관리청 국가지정 입원치료병상 운영규정 — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-19T15:31:19.837731+00:00",
   "ministry": "질병관리청",
@@ -380341,12 +380342,12 @@
   "version_signature": "b6a0e8b8c8e40aae01c817efb5a4208d7113a21d5d9b2f438c1a8d0a72738062"
  },
  "admrul:admrul:74287": {
-  "attempts": 2,
+  "attempts": 0,
   "body_stats": {
    "articles": 19,
    "chars": 7423
   },
-  "collected_signature": null,
+  "collected_signature": "c6e33e24a2c6afdc8b49cfc3fc2cb651b014e8ca8ce73f0f1ac39d3d8283af43",
   "content_hash": "570cf5b137ad6ae38cf44936996a8e0d4da7923c12424dd3ceef2c7bc69257fb",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000287044&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -380355,16 +380356,17 @@
   "doc_type": "예규",
   "emitted_signature": "1370640cdb41ded1081933196302ffa0990f8be35fed63fde7a3ec66548bd66c",
   "enforcement_date": "20261012",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-19T15:17:52.828862+00:00",
-  "last_collected_at": "2026-10-19T15:18:26.139013+00:00",
+  "last_checked_at": "2026-10-19T15:56:34.486742+00:00",
+  "last_collected_at": "2026-10-19T15:56:40.651880+00:00",
   "last_git_error": "git update-index 실패(rc=128) /workspace/law_ai/data/ADMRUL :: 디엔에이감정 규정/첨부파일/(대검예규 제1431호)디엔에이감정 규정.hwp — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-19T15:21:01.954066+00:00",
   "ministry": "공소청",
   "mst": "2100000287044",
   "name": "디엔에이감정 규정",
   "payload_law_id": "74287",
+  "prev_name": null,
   "promulgation_date": "20261012",
   "status": "done",
   "version_count": 1,
