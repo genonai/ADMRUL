@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0001",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0001",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0002",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0002",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -314,7 +322,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0016",
             "reference_id": "admrul:중독재활업무지침#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -339,7 +351,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:중독재활업무지침#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지1_중독재활 프로그램 시행 대상자 명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -364,7 +381,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:중독재활업무지침#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지2_중독재활 프로그램 수료자 명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -389,7 +411,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:중독재활업무지침#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지3_중독재활 프로그램 진행일지.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -421,7 +448,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0017",
             "reference_id": "admrul:중독재활업무지침#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -446,7 +477,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:중독재활업무지침#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지4_중독재활 프로그램 시행 제외자 명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -483,7 +519,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:중독재활업무지침#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지5_중독재활(환소) 이송자 명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -503,7 +544,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0018",
             "reference_id": "admrul:중독재활업무지침#JO0028",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -628,7 +673,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:중독재활업무지침#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지6_중독재활 프로그램 시행 유예자 명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -682,7 +732,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0030",
             "reference_id": "admrul:중독재활업무지침#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -707,7 +761,12 @@
             "target_unit": "BJ0007",
             "reference_id": "admrul:중독재활업무지침#BJ0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지7_중독재활 프로그램 만족도 조사.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -727,7 +786,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0030",
             "reference_id": "admrul:중독재활업무지침#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -775,7 +838,12 @@
             "target_unit": "BJ0008",
             "reference_id": "admrul:중독재활업무지침#BJ0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지8_이수명령 집행 대상자 명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -812,7 +880,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:중독재활업무지침#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지9_이수명령 집행서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -849,7 +922,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:중독재활업무지침#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지10_이수명령 집행 불응 사유서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -881,7 +959,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0035",
             "reference_id": "admrul:중독재활업무지침#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -918,7 +1000,12 @@
             "target_unit": "BJ0011",
             "reference_id": "admrul:중독재활업무지침#BJ0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지11_이수명령 미집행 안내 확인서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -943,7 +1030,12 @@
             "target_unit": "BJ0012",
             "reference_id": "admrul:중독재활업무지침#BJ0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지12_이수명령 미집행 통보서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1041,7 +1133,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0043",
             "reference_id": "admrul:중독재활업무지침#JO0042",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1078,7 +1174,12 @@
             "target_unit": "BJ0013",
             "reference_id": "admrul:중독재활업무지침#BJ0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지13_중독재활 자문위원회 회의록.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1126,7 +1227,12 @@
             "target_unit": "BJ0014",
             "reference_id": "admrul:중독재활업무지침#BJ0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json"
+            "target_git_path_guess": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_path": "중독재활 업무지침/중독재활 업무지침.json",
+            "target_git_file_path": "중독재활 업무지침/별지/별지14_중독재활업무 실적.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1158,7 +1264,11 @@
             "source_provision_id": "admrul:중독재활업무지침#JO0047",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
