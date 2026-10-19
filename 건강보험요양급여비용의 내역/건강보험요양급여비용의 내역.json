@@ -39,8 +39,56 @@
   "revision_reason": "◇ 개정이유\n「국민건강보험법」제45조 등에 따라 결정된 2026년도 요양기관 유형별 상대가치점수의 점수당 단가를 반영\n◇ 주요내용\n2026년에 적용될 요양기관 유형별 상대가치점수의 점수당 단가를 다음과 같이 함.\n[그림]\n",
   "body": {
     "format": "articles",
-    "article_count": 1,
+    "article_count": 3,
     "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 고시는 「국민건강보험법」 제45조제4항에 따라 요양급여비용의 명세에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건강보험요양급여비용의내역#JO0001",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20270101",
+            "change": "신설",
+            "content": "제1조(목적) 이 고시는 「국민건강보험법」 제45조제4항에 따라 요양급여비용의 명세에 관한 사항을 정함을 목적으로 한다."
+          }
+        ]
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "요양급여비용의 명세",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(요양급여비용의 명세) 「국민건강보험법」 제45조제4항에 따른 요양급여비용의 명세는 「국민건강보험법 시행령」 제21조제2항에 따른 요양급여 각 항목에 대한 상대가치점수에 다음의 표에서 정한 유형별 분류에 따른 점수당 단가를 곱한 것으로 한다.[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170759353",
+            "seq": "170759353",
+            "filename": "제2조_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제2조_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:건강보험요양급여비용의내역#JO0002",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20270101",
+            "change": "신설",
+            "content": "제2조(요양급여비용의 명세) 「국민건강보험법」 제45조제4항에 따른 요양급여비용의 명세는 「국민건강보험법 시행령」 제21조제2항에 따른 요양급여 각 항목에 대한 상대가치점수에 다음의 표에서 정한 유형별 분류에 따른 점수당 단가를 곱한 것으로 한다.[그림]"
+          }
+        ]
+      },
       {
         "article_no": "전문",
         "article_title": "",
@@ -66,9 +114,7 @@
             "source_provision_id": "admrul:건강보험요양급여비용의내역#DOC",
             "reference_id": "law:국민건강보험법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -88,9 +134,7 @@
             "source_provision_id": "admrul:건강보험요양급여비용의내역#DOC",
             "reference_id": "law:국민건강보험법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -110,9 +154,7 @@
             "source_provision_id": "admrul:건강보험요양급여비용의내역#DOC",
             "reference_id": "law:국민건강보험법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
           }
         ],
         "images": [
@@ -126,7 +168,14 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:건강보험요양급여비용의내역#DOC"
+        "provision_id": "admrul:건강보험요양급여비용의내역#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20270101",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       }
     ]
   },
@@ -141,6 +190,18 @@
       "source_version_uid": "",
       "source_revision_type": "전부개정",
       "version_enforcement_date": "20260101"
+    },
+    {
+      "promulgation_date": "20261019",
+      "promulgation_no": "2026-217",
+      "content": "부칙 <제2026-217호, 2026. 10. 19.>이 고시는 2027년 1월 1일부터 시행한다.",
+      "provision_id": "admrul:건강보험요양급여비용의내역#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000287058",
+      "source_version_uid": "",
+      "source_revision_type": "전부개정",
+      "version_enforcement_date": "20270101",
+      "enforcement_date": "20270101"
     }
   ],
   "appendices": [],
@@ -187,8 +248,10 @@
   "addendum_provision_id": "admrul:건강보험요양급여비용의내역#ADDENDUM",
   "amendment_provision_id": "admrul:건강보험요양급여비용의내역#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "건강보험요양급여비용의 내역/건강보험요양급여비용의 내역.json"
 }
