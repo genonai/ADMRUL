@@ -2260,6 +2260,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260508"
+    },
+    {
+      "promulgation_date": "20260811",
+      "promulgation_no": "563",
+      "content": "부칙 <제563호, 2026. 8. 11.>제1조(시행일) 이 규정은 2026년 10월 20일부터 시행한다.제2조(총액인건비제로 증원한 정원의 존속기간) ① 이 규정 시행으로 증원되는 별표 3의 정원 중 1명(행정주사보 또는 임업주사보)은 2029년 10월 19일까지 존속한다.②  이 규정의 시행 전에 총액인건비제로 증원된 행정주사보 또는 임업주사보 1명(훈령 제499호, 2021. 10. 20. 시행)은 이 규정 시행과 동시에 폐지된 것으로 본다.",
+      "provision_id": "admrul:국립산림과학원기본운영규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000283966",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261020",
+      "enforcement_date": "20261020"
     }
   ],
   "appendices": [
@@ -2496,8 +2508,10 @@
   "addendum_provision_id": "admrul:국립산림과학원기본운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립산림과학원기본운영규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261020"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국립산림과학원 기본운영규정/국립산림과학원 기본운영규정.json"
 }
