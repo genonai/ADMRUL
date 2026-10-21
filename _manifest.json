@@ -10266,9 +10266,13 @@
   "version_signature": "b1f9cbbbff54a593ef6862425f14922ab0eaaa2acf0ca59881526a5cec1857cc"
  },
  "admrul:admrul:2036069": {
-  "attempts": 2,
-  "collected_signature": "d76fb8ee70f5fa231b4b1e9fca50caa8d7ec9c0b8144a41794ed23c3776379f7",
-  "content_hash": "2adaab53bde7f8dc84f5e002ee11850e4a2750dca5dd39289ab034023949b0c5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 1,
+   "chars": 594
+  },
+  "collected_signature": "5ac024b0c34c5fff32f80fd8fd0c51f158464b8f0cc1d027d55be785fb725346",
+  "content_hash": "b5e97755a0abb2428e6e93053b38e5729dd5fc207f26a010b64597d08e9bb9e5",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000217509&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2036069",
@@ -10276,16 +10280,18 @@
   "doc_type": "고시",
   "emitted_signature": "d76fb8ee70f5fa231b4b1e9fca50caa8d7ec9c0b8144a41794ed23c3776379f7",
   "enforcement_date": "20221229",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-21T15:28:05.702876+00:00",
-  "last_collected_at": "2026-08-22T05:11:03.904646+00:00",
+  "last_checked_at": "2026-10-21T15:31:56.188644+00:00",
+  "last_collected_at": "2026-10-21T15:31:59.081084+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "보건복지부",
   "mst": "2100000217509",
   "name": "고령친화우수제품 지정대상 품목",
   "payload_law_id": "2036069",
+  "prev_name": null,
   "promulgation_date": "20221229",
-  "status": "failed",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5ac024b0c34c5fff32f80fd8fd0c51f158464b8f0cc1d027d55be785fb725346"
  },
