@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -87,7 +89,11 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0001",
             "reference_id": "admrul:국립농업과학원정보공개운영규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json"
+            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_path": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -119,7 +125,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +147,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0002",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -182,7 +192,11 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0004",
             "reference_id": "admrul:국립농업과학원사무분장규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립농업과학원 사무분장규정/국립농업과학원 사무분장규정.json"
+            "target_git_path_guess": "국립농업과학원 사무분장규정/국립농업과학원 사무분장규정.json",
+            "target_git_path": "국립농업과학원 사무분장규정/국립농업과학원 사무분장규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -236,7 +250,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -256,7 +272,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -276,7 +294,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -296,7 +316,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0092_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -316,7 +338,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0006",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -336,7 +360,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0006",
             "reference_id": "law:국가재정법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -368,7 +394,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0007",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -388,7 +416,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0007",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -431,7 +461,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0008",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -451,7 +483,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0008",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -471,7 +505,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0008",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -491,7 +527,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0008",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -550,7 +588,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:국립농업과학원정보공개운영규정#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json"
+            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_path": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_file_path": "국립농업과학원 정보공개 운영규정/별지/별지1_정보 비공개결정에 대한 이의신청 건.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -587,7 +630,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:국립농업과학원정보공개운영규정#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json"
+            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_path": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_file_path": "국립농업과학원 정보공개 운영규정/별지/별지2_정보공개심의회 심의의결서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -612,7 +660,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:국립농업과학원정보공개운영규정#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json"
+            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_path": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_file_path": "국립농업과학원 정보공개 운영규정/별지/별지3_회의록.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -644,7 +697,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -664,7 +719,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -684,7 +741,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -704,7 +763,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -724,7 +785,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -744,7 +807,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -764,7 +829,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -807,7 +874,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -827,7 +896,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -847,7 +918,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -867,7 +940,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0011_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -910,7 +985,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -930,7 +1007,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -950,7 +1029,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -970,7 +1051,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -990,7 +1073,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1010,7 +1095,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1030,7 +1117,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1050,7 +1139,9 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0017",
             "reference_id": "law:전자금융거래법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1082,7 +1173,11 @@
             "source_provision_id": "admrul:국립농업과학원정보공개운영규정#JO0018",
             "reference_id": "admrul:국립농업과학원정보공개운영규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json"
+            "target_git_path_guess": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_git_path": "국립농업과학원 정보공개 운영규정/국립농업과학원 정보공개 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
