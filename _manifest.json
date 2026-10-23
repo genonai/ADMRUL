@@ -520542,13 +520542,13 @@
   "version_signature": "492f23af82aa741149163a6b8e93a3baacc4d16c91372f46ec82e45907e78c29"
  },
  "admrul:admrul:96376": {
-  "attempt_run": "01a16994-46b",
-  "attempts": 2,
+  "attempt_run": "01a1699b-bc8",
+  "attempts": 0,
   "body_stats": {
    "articles": 6,
    "chars": 1735
   },
-  "collected_signature": null,
+  "collected_signature": "76a581d637c72e3431857bee10ea32f8a9b645197cda2e756b1314b581f7569e",
   "content_hash": "40325c544c132cd007f977ebe12ae001d7e507cab6cc7b4b7f7cd48d3b81d691",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000285340&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -520556,10 +520556,10 @@
   "doc_target": "admrul",
   "doc_type": "훈령",
   "enforcement_date": "20260324",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-23T16:24:49.836406+00:00",
-  "last_collected_at": "2026-10-23T16:24:55.429755+00:00",
+  "last_checked_at": "2026-10-23T16:32:56.915864+00:00",
+  "last_collected_at": "2026-10-23T16:32:59.188745+00:00",
   "last_git_error": "git add(작업트리 변경이 스테이징되지 않음) 실패(rc=128) /workspace/law_ai/data/ADMRUL :: 자율기구 지능데이터담당관 설치 및 운영에 관한 규정 — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-23T16:26:05.090427+00:00",
   "last_seen_at": "2026-10-23T15:18:58.538663+00:00",
