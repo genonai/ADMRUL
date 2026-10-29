@@ -308554,13 +308554,13 @@
   "version_signature": "4e6efd059cf08bdcbb716adebab7f7601526283265dabb3eed3386f21867ec4f"
  },
  "admrul:admrul:57334": {
-  "attempt_run": "01a1884d-4c8",
-  "attempts": 1,
+  "attempt_run": "01a1885d-698",
+  "attempts": 0,
   "body_stats": {
    "articles": 58,
    "chars": 15462
   },
-  "collected_signature": null,
+  "collected_signature": "e677cdb368edf7f3940373df078ea350be3137fdef7ac0ff20f8ff18b102f7de",
   "content_hash": "6ffadeab13bdf0eb1eff6d294b0f3f2c6118ec0fc5f7b2aff1c479b77e7e77ae",
   "detail_link": "/DRF/lawService.do?OC=test&target=admrul&ID=2100000287426&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -308569,10 +308569,10 @@
   "doc_type": "예규",
   "emitted_signature": "b2b1070639591902a73da0fe72423d69ca1bebf2daed7d1bec45021a6b028dea",
   "enforcement_date": "20261029",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-29T15:35:35.876884+00:00",
-  "last_collected_at": "2026-10-29T15:35:43.107500+00:00",
+  "last_checked_at": "2026-10-29T15:53:06.175797+00:00",
+  "last_collected_at": "2026-10-29T15:53:08.602876+00:00",
   "last_git_error": "git update-index 실패(rc=128) /workspace/law_ai/data/ADMRUL :: 국립국악원 국악박물관 운영규정/첨부파일/(전문)국립국악원 국악박물관 운영규정.hwp — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-29T15:38:02.329714+00:00",
   "last_seen_at": "2026-10-29T15:35:26.782682+00:00",
@@ -308580,6 +308580,7 @@
   "mst": "2100000287426",
   "name": "국립국악원 국악박물관 운영규정",
   "payload_law_id": "57334",
+  "prev_name": null,
   "promulgation_date": "20261023",
   "sanity_hold": null,
   "status": "done",
