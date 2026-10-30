@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "law:항공안전법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "law:항공안전법#JO0089_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "law:항공안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +133,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "law:항공안전법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +155,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0221_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +199,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0256_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -207,7 +221,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "admrul:항공교통업무기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
+            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json",
+            "target_git_path": "항공교통업무기준/항공교통업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -227,7 +245,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0001",
             "reference_id": "admrul:항공교통업무기준#JO0035_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
+            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json",
+            "target_git_path": "항공교통업무기준/항공교통업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -259,7 +281,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:공항시설법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +303,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -299,7 +325,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -319,7 +347,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법시행규칙#JO0221",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -339,7 +369,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -359,7 +391,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -379,7 +413,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법시행규칙#JO0228",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -399,7 +435,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법#JO0089",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -419,7 +457,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -439,7 +479,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:항공안전법시행규칙#JO0255",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -459,7 +501,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:공항시설법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -479,7 +523,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -499,7 +545,9 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0002",
             "reference_id": "law:공항시설법시행규칙#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -558,7 +606,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:비행절차업무기준#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지1_비행절차업무 제공 승인신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -578,7 +631,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_03",
             "reference_id": "admrul:비행절차업무기준#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -598,7 +655,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_03",
             "reference_id": "admrul:비행절차업무기준#JO0006_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -618,7 +679,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_03",
             "reference_id": "admrul:비행절차업무기준#JO0006_04",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -643,7 +708,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:비행절차업무기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표1_비행절차업무제공자 승인 지침(제3조의3 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -668,7 +738,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:비행절차업무기준#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지2_비행절차업무 제공 승인서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -693,7 +768,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:비행절차업무기준#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지1_비행절차업무 제공 승인신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -725,7 +805,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_04",
             "reference_id": "admrul:비행절차업무기준#JO0003_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -745,7 +829,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_04",
             "reference_id": "admrul:비행절차업무기준#JO0003_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -765,7 +853,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_04",
             "reference_id": "admrul:비행절차업무기준#JO0003_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -785,7 +877,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_04",
             "reference_id": "admrul:비행절차업무기준#JO0003_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -805,7 +901,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_04",
             "reference_id": "admrul:비행절차업무기준#JO0003_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -825,7 +925,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_04",
             "reference_id": "admrul:비행절차업무기준#JO0003_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -845,7 +949,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0003_04",
             "reference_id": "admrul:비행절차업무기준#JO0003_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -888,7 +996,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0005",
             "reference_id": "admrul:비행절차업무기준#JO0005_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -908,7 +1020,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0005",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -928,7 +1044,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0005",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -965,7 +1085,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:비행절차업무기준#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지3_비표준비행절차 승인신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -990,7 +1115,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:비행절차업무기준#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지4_비표준비행절차 승인서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1010,7 +1140,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0005_02",
             "reference_id": "admrul:비행절차업무기준#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1030,7 +1164,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0005_02",
             "reference_id": "admrul:비행절차업무기준#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1067,7 +1205,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:비행절차업무기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표2_기술지침 등의 관리에 관한 세부사항(제5조의3 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1104,7 +1247,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:비행절차업무기준#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표3_비행절차업무처리과정(제6조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1124,7 +1272,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006",
             "reference_id": "admrul:비행절차업무기준#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1144,7 +1296,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1176,7 +1332,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006_02",
             "reference_id": "admrul:비행절차업무기준#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1196,7 +1356,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006_02",
             "reference_id": "admrul:비행절차업무기준#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1228,7 +1392,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006_03",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1248,7 +1416,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006_03",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1273,7 +1445,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:비행절차업무기준#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표4_품질관리체계(QMS) 핵심 구성요소(제6조의3 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1298,7 +1475,12 @@
             "target_unit": "BYL0004_02",
             "reference_id": "admrul:비행절차업무기준#BYL0004_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표4의2_비행절차업무 품질관리체계(QMS) 표준운영지침(제6조의3 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1323,7 +1505,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:비행절차업무기준#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표4_품질관리체계(QMS) 핵심 구성요소(제6조의3 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1360,7 +1547,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:비행절차업무기준#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표6_성능기반항행 요건 설정기준(제6조의4 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1380,7 +1572,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006_04",
             "reference_id": "admrul:비행절차업무기준#JO0006_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1400,7 +1596,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0006_04",
             "reference_id": "admrul:비행절차업무기준#JO0028",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1425,7 +1625,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:비행절차업무기준#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표6_성능기반항행 요건 설정기준(제6조의4 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1450,7 +1655,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:비행절차업무기준#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표7_RNAV Visual 절차 설정 지침(제6조의4 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1482,7 +1692,23 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0007",
             "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
+            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보업무 기준/admrul_2119115/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_2119115#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              },
+              {
+                "git_path": "항공정보업무 기준/admrul_32014/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_32014#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1502,7 +1728,23 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0007",
             "reference_id": "admrul:항공지도제작기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공지도 제작기준/항공지도 제작기준.json"
+            "target_git_path_guess": "항공지도 제작기준/항공지도 제작기준.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "항공지도 제작 기준/admrul_2119131/항공지도 제작 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공지도제작기준:admrul_2119131#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              },
+              {
+                "git_path": "항공지도 제작 기준/admrul_98143/항공지도 제작 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공지도제작기준:admrul_98143#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1545,7 +1787,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0009",
             "reference_id": "admrul:비행절차업무기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1588,7 +1834,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0011",
             "reference_id": "admrul:비행절차업무기준#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1620,7 +1870,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0012",
             "reference_id": "admrul:비행절차업무기준#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1640,7 +1894,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0012",
             "reference_id": "admrul:비행절차업무기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1672,7 +1930,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0013",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1692,7 +1954,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0013",
             "reference_id": "admrul:비행절차업무기준#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1712,7 +1978,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0013",
             "reference_id": "admrul:비행절차업무기준#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1749,7 +2019,12 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:비행절차업무기준#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표8_민군 비행절차 기술협의체 운영지침(제14조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1781,7 +2056,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0015",
             "reference_id": "admrul:항공교통업무기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
+            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json",
+            "target_git_path": "항공교통업무기준/항공교통업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1801,7 +2080,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0015",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1866,7 +2149,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1886,7 +2173,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019",
             "reference_id": "admrul:비행절차업무기준#JO0005_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1906,7 +2197,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019",
             "reference_id": "admrul:공역관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공역관리규정/공역관리규정.json"
+            "target_git_path_guess": "공역관리규정/공역관리규정.json",
+            "target_git_path": "공역관리규정/공역관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1938,7 +2233,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019_02",
             "reference_id": "admrul:비행절차업무기준#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1958,7 +2257,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019_02",
             "reference_id": "admrul:항공교통업무기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
+            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json",
+            "target_git_path": "항공교통업무기준/항공교통업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1978,7 +2281,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019_02",
             "reference_id": "admrul:항공교통업무기준#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
+            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json",
+            "target_git_path": "항공교통업무기준/항공교통업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1998,7 +2305,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019_02",
             "reference_id": "admrul:항공교통업무안전관리시스템운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 안전관리시스템 운영지침/항공교통업무 안전관리시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 안전관리시스템 운영지침/항공교통업무 안전관리시스템 운영지침.json",
+            "target_git_path": "항공교통업무 안전관리시스템 운영지침/항공교통업무 안전관리시스템 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2018,7 +2329,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0019_02",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2043,7 +2358,12 @@
             "target_unit": "BYL0009",
             "reference_id": "admrul:비행절차업무기준#BYL0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표9_비행절차 안전평가 지침(제19조의2 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2068,7 +2388,12 @@
             "target_unit": "BYL0010",
             "reference_id": "admrul:비행절차업무기준#BYL0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표10_PBN 공역 설계업무 지침(제19조의2 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2111,7 +2436,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0021",
             "reference_id": "admrul:비행절차업무기준#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2131,7 +2460,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0021",
             "reference_id": "admrul:비행절차업무기준#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2151,7 +2484,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0021",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2183,7 +2520,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0022",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2215,7 +2556,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0023",
             "reference_id": "admrul:항행안전시설비행검사업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json"
+            "target_git_path_guess": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
+            "target_git_path": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2235,7 +2580,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0023",
             "reference_id": "admrul:항행안전시설비행검사업무지침#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json"
+            "target_git_path_guess": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
+            "target_git_path": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2267,7 +2616,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0024",
             "reference_id": "admrul:비행절차업무기준#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2287,7 +2640,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0024",
             "reference_id": "admrul:비행절차업무기준#JO0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2307,7 +2664,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0024",
             "reference_id": "admrul:비행절차업무기준#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2327,7 +2688,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0024",
             "reference_id": "admrul:항행안전시설비행검사규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 비행검사규정/항행안전시설 비행검사규정.json"
+            "target_git_path_guess": "항행안전시설 비행검사규정/항행안전시설 비행검사규정.json",
+            "target_git_path": "항행안전시설 비행검사 규정/항행안전시설 비행검사 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2359,7 +2724,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2379,7 +2748,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2399,7 +2772,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2419,7 +2796,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2439,7 +2820,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2459,7 +2844,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2479,7 +2868,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2499,7 +2892,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2519,7 +2916,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2539,7 +2940,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2559,7 +2964,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2579,7 +2988,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2599,7 +3012,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2619,7 +3036,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0019_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2639,7 +3060,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2659,7 +3084,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2679,7 +3108,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2699,7 +3132,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2719,7 +3156,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2744,7 +3185,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:비행절차업무기준#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지5_비행절차 승인 신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2769,7 +3215,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:비행절차업무기준#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지6_비행절차 설계 참여자 현황 및 관계기관 협의.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2794,7 +3245,12 @@
             "target_unit": "BJ0007",
             "reference_id": "admrul:비행절차업무기준#BJ0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지7_비행절차 설계 요약.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2814,7 +3270,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2834,7 +3294,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2854,7 +3318,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2874,7 +3342,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2894,7 +3366,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2914,7 +3390,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025",
             "reference_id": "admrul:비행절차업무기준#JO0019_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2939,7 +3419,12 @@
             "target_unit": "BJ0008",
             "reference_id": "admrul:비행절차업무기준#BJ0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지8_비행절차설계 결과보고서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2964,7 +3449,12 @@
             "target_unit": "BYL0011",
             "reference_id": "admrul:비행절차업무기준#BYL0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표11_비행절차 승인 검토 세부지침(제25조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2989,7 +3479,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:비행절차업무기준#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지9_비행절차 승인서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3021,7 +3516,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0025_02",
             "reference_id": "admrul:비행절차업무기준#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3053,7 +3552,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0026",
             "reference_id": "admrul:비행절차업무기준#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3073,7 +3576,23 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0026",
             "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
+            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보업무 기준/admrul_2119115/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_2119115#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              },
+              {
+                "git_path": "항공정보업무 기준/admrul_32014/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_32014#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           }
         ],
         "images": [],
@@ -3105,7 +3624,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0027",
             "reference_id": "admrul:비행절차업무기준#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3125,7 +3648,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0027",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3145,7 +3672,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0027",
             "reference_id": "admrul:비행절차업무기준#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3165,7 +3696,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0027",
             "reference_id": "admrul:비행절차업무기준#JO0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3185,7 +3720,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0027",
             "reference_id": "admrul:비행절차업무기준#JO0028",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3217,7 +3756,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0028",
             "reference_id": "admrul:비행절차업무기준#JO0006_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3249,7 +3792,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0029",
             "reference_id": "admrul:비행절차업무기준#JO0031",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3269,7 +3816,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0029",
             "reference_id": "admrul:비행절차업무기준#JO0032",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3294,7 +3845,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:비행절차업무기준#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별지/별지10_비행절차업무담당자 지정서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3314,7 +3870,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0029",
             "reference_id": "admrul:비행절차업무기준#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3334,7 +3894,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0029",
             "reference_id": "admrul:비행절차업무기준#JO0033",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3366,7 +3930,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0030",
             "reference_id": "admrul:항공안전공무원교육훈련규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공안전공무원교육훈련규정/항공안전공무원교육훈련규정.json"
+            "target_git_path_guess": "항공안전공무원교육훈련규정/항공안전공무원교육훈련규정.json",
+            "target_git_path": "항공안전공무원 교육훈련 규정/항공안전공무원 교육훈련 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3386,7 +3954,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0030",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3418,7 +3990,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0031",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3443,7 +4019,12 @@
             "target_unit": "BYL0012",
             "reference_id": "admrul:비행절차업무기준#BYL0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표12_비행절차업무담당자 초기교육훈련(제31조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3475,7 +4056,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0032",
             "reference_id": "admrul:비행절차업무기준#JO0031",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3495,7 +4080,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0032",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3520,7 +4109,12 @@
             "target_unit": "BYL0013",
             "reference_id": "admrul:비행절차업무기준#BYL0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표13_비행절차업무담당자 직무교육훈련(제32조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3552,7 +4146,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0033",
             "reference_id": "admrul:비행절차설계요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json"
+            "target_git_path_guess": "비행절차설계요령/비행절차설계요령.json",
+            "target_git_path": "비행절차설계요령/비행절차설계요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3577,7 +4175,12 @@
             "target_unit": "BYL0014",
             "reference_id": "admrul:비행절차업무기준#BYL0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표14_비행절차업무담당자 정기교육훈련(제33조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3614,7 +4217,12 @@
             "target_unit": "BYL0015",
             "reference_id": "admrul:비행절차업무기준#BYL0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_file_path": "비행절차업무기준/별표/별표15_비행절차업무담당자 전문교육훈련(제33조의2 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3657,7 +4265,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0035",
             "reference_id": "admrul:항공안전공무원교육훈련규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공안전공무원교육훈련규정/항공안전공무원교육훈련규정.json"
+            "target_git_path_guess": "항공안전공무원교육훈련규정/항공안전공무원교육훈련규정.json",
+            "target_git_path": "항공안전공무원 교육훈련 규정/항공안전공무원 교육훈련 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3689,7 +4301,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0036",
             "reference_id": "admrul:비행절차설계품질관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json"
+            "target_git_path_guess": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_git_path": "비행절차설계 품질관리요령/비행절차설계 품질관리요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3743,7 +4359,23 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0039",
             "reference_id": "admrul:항공정보업무기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
+            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보업무 기준/admrul_2119115/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_2119115#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              },
+              {
+                "git_path": "항공정보업무 기준/admrul_32014/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_32014#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -3763,7 +4395,23 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0039",
             "reference_id": "admrul:항공정보업무기준#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json"
+            "target_git_path_guess": "항공정보업무기준/항공정보업무기준.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보업무 기준/admrul_2119115/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_2119115#JO0005",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              },
+              {
+                "git_path": "항공정보업무 기준/admrul_32014/항공정보업무 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무기준:admrul_32014#JO0005",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -3783,7 +4431,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0039",
             "reference_id": "admrul:비행절차업무기준#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json"
+            "target_git_path_guess": "비행절차업무기준/비행절차업무기준.json",
+            "target_git_path": "비행절차업무기준/비행절차업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3815,7 +4467,11 @@
             "source_provision_id": "admrul:비행절차업무기준#JO0040",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
