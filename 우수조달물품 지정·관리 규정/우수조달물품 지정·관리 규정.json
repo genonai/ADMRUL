@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0001",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0001",
             "reference_id": "law:조달사업에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0001",
             "reference_id": "law:조달사업에관한법률시행령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:조달사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:조달사업에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -179,7 +189,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -199,7 +213,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -219,7 +237,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "admrul:조달청계약심사협의회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 계약심사협의회 운영 규정/조달청 계약심사협의회 운영 규정.json"
+            "target_git_path_guess": "조달청 계약심사협의회 운영 규정/조달청 계약심사협의회 운영 규정.json",
+            "target_git_path": "조달청 계약심사협의회 운영규정/조달청 계약심사협의회 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -239,7 +261,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:물품목록정보의관리및이용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품목록정보의 관리 및 이용에 관한 법률/법률/물품목록정보의 관리 및 이용에 관한 법률.json"
+            "target_git_path_guess": "물품목록정보의 관리 및 이용에 관한 법률/법률/물품목록정보의 관리 및 이용에 관한 법률.json",
+            "target_git_path": "물품목록정보의 관리 및 이용에 관한 법률/법률/물품목록정보의 관리 및 이용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -259,7 +283,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:물품목록정보의관리및이용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품목록정보의 관리 및 이용에 관한 법률/법률/물품목록정보의 관리 및 이용에 관한 법률.json"
+            "target_git_path_guess": "물품목록정보의 관리 및 이용에 관한 법률/법률/물품목록정보의 관리 및 이용에 관한 법률.json",
+            "target_git_path": "물품목록정보의 관리 및 이용에 관한 법률/법률/물품목록정보의 관리 및 이용에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +305,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "admrul:물품목록정보의관리및이용에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품목록정보의 관리 및 이용에 관한 규정/물품목록정보의 관리 및 이용에 관한 규정.json"
+            "target_git_path_guess": "물품목록정보의 관리 및 이용에 관한 규정/물품목록정보의 관리 및 이용에 관한 규정.json",
+            "target_git_path": "물품목록정보의 관리 및 이용에 관한 규정/물품목록정보의 관리 및 이용에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -299,7 +329,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 기본법/법률/중소기업 기본법.json"
+            "target_git_path_guess": "중소기업 기본법/법률/중소기업 기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -319,7 +351,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 기본법/법률/중소기업 기본법.json"
+            "target_git_path_guess": "중소기업 기본법/법률/중소기업 기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -339,7 +373,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -359,7 +395,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -379,7 +417,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
+            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_git_path": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -399,7 +439,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
+            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_git_path": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -419,7 +461,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -439,7 +485,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0002",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -464,7 +514,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표1_우수제품 지정신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -496,7 +551,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0003",
             "reference_id": "law:조달사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -516,7 +573,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0003",
             "reference_id": "law:조달사업에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -536,7 +595,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0003",
             "reference_id": "law:조달사업에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -561,7 +622,12 @@
             "target_unit": "BJ0001_10",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0001_10",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지1의10_약정서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -581,7 +647,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0003",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -601,7 +669,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0003",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -626,7 +696,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표2_신용평가등급에 따른 경영상태 평가.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -658,7 +733,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -678,7 +755,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:조달사업에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -698,7 +777,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -718,7 +799,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:조달사업에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -738,7 +821,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:산업기술혁신촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술혁신 촉진법/법률/산업기술혁신 촉진법.json"
+            "target_git_path_guess": "산업기술혁신 촉진법/법률/산업기술혁신 촉진법.json",
+            "target_git_path": "산업기술혁신 촉진법/법률/산업기술혁신 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -758,7 +843,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:산업기술혁신촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술혁신촉진법/법률/산업기술혁신촉진법.json"
+            "target_git_path_guess": "산업기술혁신촉진법/법률/산업기술혁신촉진법.json",
+            "target_git_path": "산업기술혁신 촉진법/법률/산업기술혁신 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -778,7 +865,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -798,7 +887,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:실용신안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "실용신안법/법률/실용신안법.json"
+            "target_git_path_guess": "실용신안법/법률/실용신안법.json",
+            "target_git_path": "실용신안법/법률/실용신안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -818,7 +909,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -838,7 +931,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -858,7 +953,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:과학기술기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -878,7 +975,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -898,7 +997,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "law:조달사업에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -923,7 +1024,12 @@
             "target_unit": "BJ0001_07",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0001_07",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지1의7_제품규격서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -948,7 +1054,12 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표8_외국산 부품 사용제품에 대한 예외사유 및 증빙서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -968,7 +1079,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004",
             "reference_id": "admrul:공공조달최소녹색기준제품#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공조달최소녹색기준제품/공공조달최소녹색기준제품.json"
+            "target_git_path_guess": "공공조달최소녹색기준제품/공공조달최소녹색기준제품.json",
+            "target_git_path": "공공조달 최소녹색기준제품/공공조달 최소녹색기준제품.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1000,7 +1115,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004_02",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1020,7 +1139,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004_02",
             "reference_id": "law:조달사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1040,7 +1161,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0004_02",
             "reference_id": "law:조달사업에관한법률시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_git_path": "조달사업에 관한 법률/시행령/조달사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1077,7 +1200,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표2_신용평가등급에 따른 경영상태 평가.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1097,7 +1225,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0005",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
+            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_git_path": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1117,7 +1247,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0005",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
+            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_git_path": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1142,7 +1274,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표2_신용평가등급에 따른 경영상태 평가.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1179,7 +1316,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표1_우수제품 지정신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1199,7 +1341,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0006",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1219,7 +1365,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0006",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1256,7 +1406,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표5_우수제품 장기지정 연장 사유 및 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1304,7 +1459,12 @@
             "target_unit": "BJ0002_02",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0002_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지2의2_우수제품지정심사서(성장 유망 제품), 우수제품지정심사서(일반 제품).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1329,7 +1489,12 @@
             "target_unit": "BJ0002_04",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0002_04",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지2의4_우수제품지정 적용기술심사서(제4조제2항제4호 S_W제품), 우수제품지정 적용기술심사서(제4조제2항제5호 및 제6호 연구개발사업 기술개발제품, 혁신제품).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1354,7 +1519,12 @@
             "target_unit": "BYL0010",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표10_우수제품지정 신인도심사서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1374,7 +1544,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0009",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1399,7 +1573,12 @@
             "target_unit": "BJ0002_04",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0002_04",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지2의4_우수제품지정 적용기술심사서(제4조제2항제4호 S_W제품), 우수제품지정 적용기술심사서(제4조제2항제5호 및 제6호 연구개발사업 기술개발제품, 혁신제품).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1424,7 +1603,12 @@
             "target_unit": "BJ0002_04",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0002_04",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지2의4_우수제품지정 적용기술심사서(제4조제2항제4호 S_W제품), 우수제품지정 적용기술심사서(제4조제2항제5호 및 제6호 연구개발사업 기술개발제품, 혁신제품).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1449,7 +1633,12 @@
             "target_unit": "BYL0010",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표10_우수제품지정 신인도심사서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1481,7 +1670,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0010",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1518,7 +1711,12 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표8_외국산 부품 사용제품에 대한 예외사유 및 증빙서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1550,7 +1748,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0012",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1570,7 +1772,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0012",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1595,7 +1801,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표1_우수제품 지정신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1627,7 +1838,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0013",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1647,7 +1862,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0013",
             "reference_id": "admrul:조달청제조물품직접생산확인기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 제조물품 직접생산확인기준/조달청 제조물품 직접생산확인기준.json"
+            "target_git_path_guess": "조달청 제조물품 직접생산확인기준/조달청 제조물품 직접생산확인기준.json",
+            "target_git_path": "조달청 제조물품 직접생산확인 기준/조달청 제조물품 직접생산확인 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1672,7 +1891,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표1_우수제품 지정신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1697,7 +1921,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표2_신용평가등급에 따른 경영상태 평가.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1729,7 +1958,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0014",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1749,7 +1982,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0014",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1781,7 +2018,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0015",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1801,7 +2042,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0015",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1821,7 +2066,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0015",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1853,7 +2102,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0016",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1878,7 +2131,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표5_우수제품 장기지정 연장 사유 및 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1903,7 +2161,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표5_우수제품 장기지정 연장 사유 및 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1928,7 +2191,12 @@
             "target_unit": "BJ0006_01",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0006_01",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지6의1_우수제품 지정증서 재교부 요청.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1948,7 +2216,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0016",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1985,7 +2257,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표5_우수제품 장기지정 연장 사유 및 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2017,7 +2294,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0018",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2049,7 +2330,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0019",
             "reference_id": "admrul:조달청평가위원통합관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 평가위원 통합관리규정/조달청 평가위원 통합관리규정.json"
+            "target_git_path_guess": "조달청 평가위원 통합관리규정/조달청 평가위원 통합관리규정.json",
+            "target_git_path": "조달청 평가위원 통합관리 규정/조달청 평가위원 통합관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2086,7 +2371,12 @@
             "target_unit": "BJ0002_01",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0002_01",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지2의1_청렴서약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2118,7 +2408,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0021",
             "reference_id": "admrul:조달청평가위원통합관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 평가위원 통합관리규정/조달청 평가위원 통합관리규정.json"
+            "target_git_path_guess": "조달청 평가위원 통합관리규정/조달청 평가위원 통합관리규정.json",
+            "target_git_path": "조달청 평가위원 통합관리 규정/조달청 평가위원 통합관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2138,7 +2432,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0021",
             "reference_id": "admrul:조달청평가위원통합관리규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 평가위원 통합관리규정/조달청 평가위원 통합관리규정.json"
+            "target_git_path_guess": "조달청 평가위원 통합관리규정/조달청 평가위원 통합관리규정.json",
+            "target_git_path": "조달청 평가위원 통합관리 규정/조달청 평가위원 통합관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2170,7 +2468,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0022",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0036",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2202,7 +2504,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0023",
             "reference_id": "admrul:조달청계약심사협의회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 계약심사협의회 운영규정/조달청 계약심사협의회 운영규정.json"
+            "target_git_path_guess": "조달청 계약심사협의회 운영규정/조달청 계약심사협의회 운영규정.json",
+            "target_git_path": "조달청 계약심사협의회 운영규정/조달청 계약심사협의회 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2222,7 +2528,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0023",
             "reference_id": "admrul:조달청계약심사협의회운영규정#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 계약심사협의회 운영규정/조달청 계약심사협의회 운영규정.json"
+            "target_git_path_guess": "조달청 계약심사협의회 운영규정/조달청 계약심사협의회 운영규정.json",
+            "target_git_path": "조달청 계약심사협의회 운영규정/조달청 계약심사협의회 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2254,7 +2564,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0024",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2291,7 +2605,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표6_우수제품 일반지정 연장 사유 및 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2316,7 +2635,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표5_우수제품 장기지정 연장 사유 및 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2341,7 +2665,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표7_지정기간 연장 제외사유.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2366,7 +2695,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표7_지정기간 연장 제외사유.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2386,7 +2720,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0025",
             "reference_id": "law:국가표준기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2406,7 +2742,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0025",
             "reference_id": "law:국가표준기본법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2431,7 +2769,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표7_지정기간 연장 제외사유.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2451,7 +2794,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0025",
             "reference_id": "law:국가표준기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2471,7 +2816,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0025",
             "reference_id": "law:국가표준기본법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2508,7 +2855,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표3_우수제품 지정기간 연장신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2533,7 +2885,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표3_우수제품 지정기간 연장신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2570,7 +2927,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표5_우수제품 장기지정 연장 사유 및 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2595,7 +2957,12 @@
             "target_unit": "BJ0005_02",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0005_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지5의2_우수제품 이의신청 심사서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2615,7 +2982,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0027",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2652,7 +3023,12 @@
             "target_unit": "BJ0004_01",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0004_01",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지4의1_우수제품 규격(모델) 추가 신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2677,7 +3053,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표4_우수제품 규격(모델)추가신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2702,7 +3083,12 @@
             "target_unit": "BJ0004_03",
             "reference_id": "admrul:우수조달물품지정관리규정#BJ0004_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별지/별지4의3_우수제품 규격(모델)추가 심사서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2745,7 +3131,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0030",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2765,7 +3153,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0030",
             "reference_id": "law:산업표준화법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2785,7 +3175,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0030",
             "reference_id": "admrul:물품구매(제조)계약추가특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품구매(제조)계약 추가특수조건/물품구매(제조)계약 추가특수조건.json"
+            "target_git_path_guess": "물품구매(제조)계약 추가특수조건/물품구매(제조)계약 추가특수조건.json",
+            "target_git_path": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2817,7 +3211,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0031",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2854,7 +3250,12 @@
             "target_unit": "BYL0009",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표9_우수제품 만족도 평가등급.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2897,7 +3298,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0034",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2929,7 +3334,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2949,7 +3358,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2974,7 +3387,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표1_우수제품 지정신청 제출서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2994,7 +3412,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3014,7 +3436,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3034,7 +3460,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0031",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3054,7 +3484,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0032",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3074,7 +3508,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0032",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3094,7 +3532,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:물품구매(제조)계약추가특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json"
+            "target_git_path_guess": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json",
+            "target_git_path": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3114,7 +3556,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0035",
             "reference_id": "admrul:물품구매(제조)계약추가특수조건#JO0008_07",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json"
+            "target_git_path_guess": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json",
+            "target_git_path": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3146,7 +3592,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0036",
             "reference_id": "admrul:물품구매(제조)계약추가특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품구매(제조)계약 추가특수조건/물품구매(제조)계약 추가특수조건.json"
+            "target_git_path_guess": "물품구매(제조)계약 추가특수조건/물품구매(제조)계약 추가특수조건.json",
+            "target_git_path": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3166,7 +3616,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0036",
             "reference_id": "admrul:물품구매계약품질관리특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품구매계약 품질관리 특수조건/물품구매계약 품질관리 특수조건.json"
+            "target_git_path_guess": "물품구매계약 품질관리 특수조건/물품구매계약 품질관리 특수조건.json",
+            "target_git_path": "물품구매계약 품질관리 특수조건/물품구매계약 품질관리 특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3186,7 +3640,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0036",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0037",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3206,7 +3664,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0036",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3226,7 +3688,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0036",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3246,7 +3712,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0036",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0030",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3289,7 +3759,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0037",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3309,7 +3783,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0037",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3329,7 +3807,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0037",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3349,7 +3831,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0037",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3374,7 +3860,12 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:우수조달물품지정관리규정#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_file_path": "우수조달물품 지정·관리 규정/별표/별표8_외국산 부품 사용제품에 대한 예외사유 및 증빙서류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3394,7 +3885,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0037",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3414,7 +3909,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0037",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0035",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3434,7 +3933,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0037",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3466,7 +3969,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3486,7 +3991,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3506,7 +4013,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3526,7 +4035,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3546,7 +4057,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0030",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3566,7 +4081,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3586,7 +4105,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3606,7 +4129,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3626,7 +4151,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "law:산업표준화법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3666,7 +4193,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "admrul:물품구매(제조)계약특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품구매(제조)계약 특수조건/물품구매(제조)계약 특수조건.json"
+            "target_git_path_guess": "물품구매(제조)계약 특수조건/물품구매(제조)계약 특수조건.json",
+            "target_git_path": "물품구매(제조)계약 특수조건/물품구매(제조)계약 특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3686,7 +4217,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "admrul:물품구매(제조)계약추가특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품구매(제조)계약 추가특수조건/물품구매(제조)계약 추가특수조건.json"
+            "target_git_path_guess": "물품구매(제조)계약 추가특수조건/물품구매(제조)계약 추가특수조건.json",
+            "target_git_path": "물품구매(제조)계약추가특수조건/물품구매(제조)계약추가특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3726,7 +4261,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "admrul:일반용역계약특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반용역계약특수조건/일반용역계약특수조건.json"
+            "target_git_path_guess": "일반용역계약특수조건/일반용역계약특수조건.json",
+            "target_git_path": "일반용역계약특수조건/일반용역계약특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3746,7 +4285,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0038",
             "reference_id": "admrul:우수조달물품임차계약추가특수조건#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 임차계약 추가특수조건/우수조달물품 임차계약 추가특수조건.json"
+            "target_git_path_guess": "우수조달물품 임차계약 추가특수조건/우수조달물품 임차계약 추가특수조건.json",
+            "target_git_path": "우수조달물품 임차계약 추가특수조건/우수조달물품 임차계약 추가특수조건.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3778,7 +4321,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0039",
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json"
+            "target_git_path_guess": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3798,7 +4345,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0039",
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#JO0002_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json"
+            "target_git_path_guess": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3818,7 +4369,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0039",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3838,7 +4393,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0039",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0038",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3870,7 +4429,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0040",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3890,7 +4453,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0040",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0038",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3922,7 +4489,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0041",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0038",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3954,7 +4525,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0042",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0038",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3997,7 +4572,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0044",
             "reference_id": "admrul:우수조달물품지정관리규정#JO0037",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json"
+            "target_git_path_guess": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_git_path": "우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -4017,7 +4596,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0044",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4037,7 +4618,9 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0044",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4135,7 +4718,11 @@
             "source_provision_id": "admrul:우수조달물품지정관리규정#JO0050",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
