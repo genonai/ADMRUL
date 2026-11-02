@@ -100,7 +100,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0004",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json"
+            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -125,7 +127,10 @@
             "target_unit": "BYL0031",
             "reference_id": "law:공무원보수규정#BYL0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json"
+            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_file_path": "공무원보수규정/법률/별표/별표31_연봉제의 구분 및 적용대상 공무원 구분표(제33조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -143,9 +148,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0004",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -163,9 +170,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제12조",
             "resolve_method": "html",
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0004",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0012",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -197,7 +206,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0005",
             "reference_id": "admrul:국방부성과평가등운영훈령#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -217,7 +230,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0005",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -265,7 +282,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표1_성과계약 평가자 및 확인자(제7조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -339,7 +361,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0010",
             "reference_id": "law:정부업무평가기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json"
+            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -359,7 +383,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0010",
             "reference_id": "law:정부업무평가기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json"
+            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -379,7 +405,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0010",
             "reference_id": "law:정부업무평가기본법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json"
+            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -399,7 +427,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0010",
             "reference_id": "law:정부업무평가기본법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json"
+            "target_git_path_guess": "정부업무평가기본법/법률/정부업무평가기본법.json",
+            "target_git_path": "정부업무평가 기본법/법률/정부업무평가 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -436,7 +466,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지1_성과계약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -461,7 +496,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지2_평가지표 기술서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -546,7 +586,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지3_중간점검표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -588,7 +633,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0014",
             "reference_id": "admrul:국방부상시학습운영예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 상시학습 운영 예규/국방부 상시학습 운영 예규.json"
+            "target_git_path_guess": "국방부 상시학습 운영 예규/국방부 상시학습 운영 예규.json",
+            "target_git_path": "국방부 상시학습 운영 예규/국방부 상시학습 운영 예규.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -608,7 +657,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0014",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -633,7 +686,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지4_최종평가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -658,7 +716,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지5_평가자 자가진단서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -786,7 +849,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지6_이의신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -811,7 +879,12 @@
             "target_unit": "BJ0006_02",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0006_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지6의2_이의신청 심사결정서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -843,7 +916,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0016",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -863,7 +938,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0016",
             "reference_id": "law:국가공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -906,7 +983,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -926,7 +1005,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
             "reference_id": "law:국가공무원법#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -946,7 +1027,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -966,7 +1049,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
             "reference_id": "law:국가공무원법#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -986,7 +1071,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1093,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
             "reference_id": "law:공무원임용령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1024,9 +1113,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1044,9 +1135,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제17조",
             "resolve_method": "html",
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
-            "reference_id": "admrul:공무원성과평가등에관한규정#JO0017",
+            "reference_id": "law:공무원성과평가등에관한규정#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1066,7 +1159,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0018",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1167,7 +1264,12 @@
             "target_unit": "BJ0007",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지7_공무원 성과계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1204,7 +1306,12 @@
             "target_unit": "BJ0008",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지8_성과면담결과.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1229,7 +1336,12 @@
             "target_unit": "BJ0008",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지8_성과면담결과.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1266,7 +1378,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지9_공무원 근무성적평가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1303,7 +1420,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표7_성과평가 인원별 등급 배분표(제26조제5항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1328,7 +1450,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표7_성과평가 인원별 등급 배분표(제26조제5항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1353,7 +1480,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지5_평가자 자가진단서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1378,7 +1510,12 @@
             "target_unit": "BJ0017",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지17_교육 실시 점검표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -1452,7 +1589,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지10_평가단위별 평가결과.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1477,7 +1619,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지9_공무원 근무성적평가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1514,7 +1661,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지10_평가단위별 평가결과.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1539,7 +1691,12 @@
             "target_unit": "BJ0011",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지11_경력상관계수.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1564,7 +1721,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지10_평가단위별 평가결과.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1584,7 +1746,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0028",
             "reference_id": "admrul:국방부성과평가등운영훈령#JO0030",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1609,7 +1775,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지10_평가단위별 평가결과.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1634,7 +1805,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지9_공무원 근무성적평가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1671,7 +1847,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지6_이의신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1696,7 +1877,12 @@
             "target_unit": "BJ0006_02",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0006_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지6의2_이의신청 심사결정서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1733,7 +1919,12 @@
             "target_unit": "BJ0012",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지12_근무성적평가위원회 평가결과.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1753,7 +1944,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0030",
             "reference_id": "admrul:국방부성과평가등운영훈령#JO0028",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1773,7 +1968,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0030",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1793,7 +1990,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0030",
             "reference_id": "law:공무원보수규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1868,7 +2067,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0034",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1888,7 +2089,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0034",
             "reference_id": "law:공무원임용령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1908,7 +2111,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0034",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1928,7 +2133,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0034",
             "reference_id": "law:공무원임용령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1975,7 +2182,12 @@
             "target_unit": "BJ0013",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지13_경력·가점평정표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2012,7 +2224,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표2_경력 환산율표(제36조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2037,7 +2254,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표2_경력 환산율표(제36조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2062,7 +2284,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표3_특수경력직 및 다른 종류 경력직공무원경력의 상당계급표(제36조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [
@@ -2131,7 +2358,12 @@
             "target_unit": "BYL0008",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표8_가점부여기준 및 부여점수(제39조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2151,7 +2383,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0039",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2171,7 +2405,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0039",
             "reference_id": "law:국가공무원법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2191,7 +2427,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0039",
             "reference_id": "law:공무원임용시험령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2211,7 +2449,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0039",
             "reference_id": "law:공무원임용시험령#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2231,7 +2471,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0039",
             "reference_id": "law:공무원임용시험령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2251,7 +2493,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0039",
             "reference_id": "law:공무원임용시험령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2288,7 +2532,12 @@
             "target_unit": "BJ0014",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지14_승진후보자명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2455,7 +2704,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표5_성과평가 항목별 평가내용 및 평가주관부서(제51조제1항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2480,7 +2734,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:국방부성과평가등운영훈령#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별표/별표6_성과평가 항목별 배점 및 평가 반영비율(제51조제2항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2517,7 +2776,12 @@
             "target_unit": "BJ0015",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지15_공무원 성과평가 결과(상_하반기).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2542,7 +2806,12 @@
             "target_unit": "BJ0016",
             "reference_id": "admrul:국방부성과평가등운영훈령#BJ0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_file_path": "국방부 성과평가 등 운영 훈령/별지/별지16_군인 성과평가서(평가자).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2574,7 +2843,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0053",
             "reference_id": "admrul:국방부성과평가등운영훈령#JO0052",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json"
+            "target_git_path_guess": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_git_path": "국방부 성과평가 등 운영 훈령/국방부 성과평가 등 운영 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2617,7 +2890,11 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0055",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2660,7 +2937,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0057",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2680,7 +2959,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0057",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2700,7 +2981,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0057",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2720,7 +3003,9 @@
             "source_provision_id": "admrul:국방부성과평가등운영훈령#JO0057",
             "reference_id": "law:공무원징계령시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
