@@ -727,6 +727,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20221231"
+    },
+    {
+      "promulgation_date": "20261027",
+      "promulgation_no": "179",
+      "content": "부칙 <제179호, 2026. 10. 27.>이 훈령은 「항공교통흐름관리 세부운영매뉴얼」(항공교통본부훈령 제178호)이 시행하는 날부터 시행한다.",
+      "provision_id": "admrul:항공교통흐름관리업무종사자교육훈련세부지침#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000287468",
+      "source_version_uid": "",
+      "source_revision_type": "폐지",
+      "version_enforcement_date": "20261102",
+      "enforcement_date": "20261102"
     }
   ],
   "appendices": [
@@ -1167,8 +1179,14 @@
   "addendum_provision_id": "admrul:항공교통흐름관리업무종사자교육훈련세부지침#ADDENDUM",
   "amendment_provision_id": "admrul:항공교통흐름관리업무종사자교육훈련세부지침#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261102"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20261102",
+    "revision_type": "폐지"
+  },
+  "version_count": 2,
   "git_path": "항공교통흐름관리업무종사자 교육훈련 세부지침/항공교통흐름관리업무종사자 교육훈련 세부지침.json"
 }
