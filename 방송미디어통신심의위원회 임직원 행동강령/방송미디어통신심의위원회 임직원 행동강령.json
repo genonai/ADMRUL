@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0001",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0001",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,23 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0002",
             "reference_id": "admrul:방송미디어통신심의위원회기본규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방송미디어통신심의위원회 기본규칙/방송미디어통신심의위원회 기본규칙.json"
+            "target_git_path_guess": "방송미디어통신심의위원회 기본규칙/방송미디어통신심의위원회 기본규칙.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "방송미디어통신심의위원회 기본규칙/admrul_2039832/방송미디어통신심의위원회 기본규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송미디어통신심의위원회기본규칙:admrul_2039832#DOC",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              },
+              {
+                "git_path": "방송미디어통신심의위원회 기본규칙/admrul_2119119/방송미디어통신심의위원회 기본규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송미디어통신심의위원회기본규칙:admrul_2119119#DOC",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -139,7 +159,23 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0002",
             "reference_id": "admrul:방송미디어통신심의위원회기본규칙#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방송미디어통신심의위원회 기본규칙/방송미디어통신심의위원회 기본규칙.json"
+            "target_git_path_guess": "방송미디어통신심의위원회 기본규칙/방송미디어통신심의위원회 기본규칙.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "방송미디어통신심의위원회 기본규칙/admrul_2039832/방송미디어통신심의위원회 기본규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송미디어통신심의위원회기본규칙:admrul_2039832#JO0012",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              },
+              {
+                "git_path": "방송미디어통신심의위원회 기본규칙/admrul_2119119/방송미디어통신심의위원회 기본규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송미디어통신심의위원회기본규칙:admrul_2119119#JO0012",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -159,7 +195,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0002",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +217,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0002",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +239,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0002",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -219,7 +261,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0002",
             "reference_id": "law:방송미디어통신위원회의설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "방송미디어통신위원회의 설치 및 운영에 관한 법률/법률/방송미디어통신위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -361,7 +405,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0013",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -381,7 +427,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0013",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -413,7 +461,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0014",
             "reference_id": "law:방송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/법률/방송법.json"
+            "target_git_path_guess": "방송법/법률/방송법.json",
+            "target_git_path": "방송법/법률/방송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -433,7 +483,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0014",
             "reference_id": "law:방송법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송법/법률/방송법.json"
+            "target_git_path_guess": "방송법/법률/방송법.json",
+            "target_git_path": "방송법/법률/방송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -453,7 +505,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0014",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -473,7 +527,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0014",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0044_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -527,7 +583,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0017",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -547,7 +605,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0017",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -612,7 +672,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0021",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -632,7 +694,9 @@
             "source_provision_id": "admrul:방송미디어통신심의위원회임직원행동강령#JO0021",
             "reference_id": "law:민법#JO0767",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
