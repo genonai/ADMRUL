@@ -1,16 +1,16 @@
 {
   "law_id": "2111837",
-  "mst": "2200000106455",
+  "mst": "2200000109471",
   "law_name": "공탁사무 문서양식에 관한 예규",
   "law_abbr": "",
   "law_type": "행정예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111837",
-  "promulgation_no": "1420",
-  "promulgation_date": "20250124",
-  "enforcement_date": "20250131",
-  "revision_date": "20250124",
+  "promulgation_no": "1481",
+  "promulgation_date": "20261102",
+  "enforcement_date": "20261103",
+  "revision_date": "20261102",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,24 +19,24 @@
     "담당자명": "",
     "행정규칙종류코드": "B0012",
     "행정규칙명": "공탁사무 문서양식에 관한 예규",
-    "발령일자": "20250124",
+    "발령일자": "20261102",
     "행정규칙종류": "행정예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20250227",
+    "생성일자": "20261109",
     "행정규칙ID": "2111837",
-    "시행일자": "20250131",
+    "시행일자": "20261103",
     "담당부서기관코드": "",
-    "발령번호": "1420",
-    "행정규칙일련번호": "2200000106455",
+    "발령번호": "1481",
+    "행정규칙일련번호": "2200000109471",
     "상위부처명": "대법원"
   },
-  "amendment_text": "공탁사무 문서양식에 관한 예규 일부를 다음과 같이 개정한다.\n제20호 양식, 제2-4호 양식을 각각 별지와 같이 한다.\n부 칙\n이 예규는 2025년 1월 31일부터 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 모바일 주민등록증 제도가 신설되는 내용으로 「주민등록법」(법률 제19841호, 2023. 12. 26. 공포, 2024. 12. 27. 시행)이 개정됨에 따라 이를 반영함\n2. 주요내용\n○ 신분확인서의 문구 중 ‘주민등록확인서비스’를 삭제하고, ‘모바일 주민등록증’의 추가 및 관련 규정을 정정하는 등 양식을 정비함(제20호 양식)\n○ 금전 공탁통지서(형사사건용) 제3항 회수제한신고 부분을 개정 「공탁법」 내용을 반영하여 정비함(제2-4호 양식)",
+  "amendment_text": "공탁사무 문서양식에 관한 예규 일부를 다음과 같이 개정한다.\n제1-9호 양식, 제2-4호 양식을 각각 별지와 같이 한다.\n부 칙\n제1조(시행일) 이 예규는 2026년 11월 3일부터 시행하되, 2026년 10월 2일부터 적용한다.\n제2조(계속사건의 적용례) 이 예규는 이 예규 시행 전에 접수되어 공탁당사자에게 지급되지 아니한 형사사건 피해자를 위하여 변제공탁을 한 사건에 대하여도 적용한다.",
+  "revision_reason": "1. 개정이유\n○ 「공소청법」 개정(법률 제21490호, 2026. 3. 24. 공포, 2026. 10. 2. 시행)에 따라 「공탁법」의 기관명칭 변경 내용을 반영하여 관련 양식을 정비하고자 함\n2. 주요내용\n○ 금전 공탁서(형사사건용)” 양식의 형사사건 사건번호란 중 “지방검찰청”을 “지방공소청”으로 변경하고, 안내사항 3. 중 “검찰청”을 “공소청”으로 변경함(제1-9호 양식)\n○ “금전 공탁통지서(형사사건용)” 양식의 형사사건 사건번호란 중 “지방검찰청”을 “지방공소청”으로 변경함(제2-4호 양식)",
   "body": {
     "format": "articles",
     "article_count": 2,
@@ -83,9 +83,7 @@
         "source_provision_id": "admrul:공탁사무문서양식에관한예규#DOC",
         "reference_id": "law:공탁규칙#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "공탁규칙/법률/공탁규칙.json",
-        "target_git_path": "공탁규칙/법률/공탁규칙.json",
-        "target_source_repository": "LAW"
+        "target_git_path_guess": "공탁규칙/법률/공탁규칙.json"
       },
       {
         "relation_type": "citation",
@@ -105,9 +103,7 @@
         "source_provision_id": "admrul:공탁사무문서양식에관한예규#DOC",
         "reference_id": "law:공탁규칙#JO0003",
         "target_repo": "LAW",
-        "target_git_path_guess": "공탁규칙/법률/공탁규칙.json",
-        "target_git_path": "공탁규칙/법률/공탁규칙.json",
-        "target_source_repository": "LAW"
+        "target_git_path_guess": "공탁규칙/법률/공탁규칙.json"
       },
       {
         "relation_type": "appendix_ref",
@@ -126,14 +122,13 @@
         "appendix_found": false,
         "target_mst": "",
         "source_admrul_seq": "2111837",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000106455&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109471&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:공탁사무문서양식에관한예규#DOC",
         "target_unit": "BJ0001",
         "reference_id": "admrul:공탁사무문서양식에관한예규#BJ0001",
         "target_repo": "ADMRUL",
-        "target_git_path_guess": "공탁사무 문서양식에 관한 예규/공탁사무 문서양식에 관한 예규.json",
-        "target_missing_unit": true
+        "target_git_path_guess": "공탁사무 문서양식에 관한 예규/공탁사무 문서양식에 관한 예규.json"
       }
     ]
   },
@@ -144,10 +139,10 @@
       "content": "부   칙(2011. 5. 30. 제895호)이 예규는 2011년 5월 31일부터 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20121212",
@@ -155,10 +150,10 @@
       "content": "부   칙(2012. 12. 12. 제939호)이 예규는 2012년 12월 17일부터 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20130710",
@@ -166,10 +161,10 @@
       "content": "부   칙(2013. 7. 10. 제972호)제1조(시행일) 이 예규는 2013년 8월 1일부터 시행한다.제2조(다른 예규의 폐지) 다음 각 호의 예규는 각각 폐지한다.1. 손해담보를 목적으로 하는 보증공탁서 작성에 관한 업무처리지침(행정예규 제129호)2. 국가를 피공탁자로 하는 변제공탁의 업무처리지침(행정예규 제130호)",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20130909",
@@ -177,10 +172,10 @@
       "content": "부   칙(2013. 9. 9. 제979호)제1조(시행일) 이 예규는 2013년 10월 1일부터 시행한다.제2조(다른 예규의 폐지) 공탁서 기타 부속서류의 사본 교부에 관한 지침(행정예규 제230호)은 폐지한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20140516",
@@ -188,10 +183,10 @@
       "content": "부 칙(2014. 5. 16.제1017호)이 예규는 2014년  6월  1일부터 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20150515",
@@ -199,10 +194,10 @@
       "content": "부 칙(2015. 5. 15.제1044호)이 예규는 2015년 5월 26일부터 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20180727",
@@ -210,10 +205,10 @@
       "content": "부 칙(2018. 7. 27.제1153호)이 예규는 2018년 8월 27일부터 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20201127",
@@ -221,10 +216,10 @@
       "content": "부   칙(2020. 11. 27.제1235호)제1조(시행일) 이 예규는 2020년 12월 10일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 당시 접수되어 계속 중인 사건에 대하여도 적용한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20220721",
@@ -232,10 +227,10 @@
       "content": "부   칙(2022. 7. 21.제1307호)이 예규는 2022년 7월 22일부터 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20221223",
@@ -243,10 +238,10 @@
       "content": "부   칙(2022. 12. 23.제1326호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20240416",
@@ -254,10 +249,10 @@
       "content": "부   칙(2024. 4. 16.제1392호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20250102",
@@ -265,10 +260,10 @@
       "content": "부   칙(2025. 1. 2.제1416호)제1조(시행일) 이 예규는 2025년 1월 17일부터 시행한다.제2조(적용례) 제1-9호 금전공탁서(형사사건용) 양식은 이 예규 시행 이후 형사사건 피해자를 위하여 변제공탁을 한 경우부터 적용된다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "20250124",
@@ -276,10 +271,21 @@
       "content": "부   칙(2025. 1. 24.제1420호)이 예규는 2025년 1월 31일부터 시행한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
+    },
+    {
+      "promulgation_date": "20261102",
+      "promulgation_no": "1481",
+      "content": "부   칙(2026. 11. 2.제1481호)제1조(시행일) 이 예규는 2026년 11월 3일부터 시행하되, 2026년 10월 2일부터 적용한다.제2조(계속사건의 적용례) 이 예규는 이 예규 시행 전에 접수되어 공탁당사자에게 지급되지 아니한 형사사건 피해자를 위하여 변제공탁을 한 사건에 대하여도 적용한다.",
+      "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000109471",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261103"
     },
     {
       "promulgation_date": "99991231",
@@ -287,10 +293,10 @@
       "content": "부   칙제1조(시행일) 이 예규는 2008년 3월 1일부터 시행한다.제2조(다른 예규의 개정) ① 계좌입금에 의한 공탁금 출급ㆍ회수절차에 관한 업무처리지침 일부를 다음과 같이 개정한다.제2조 제1항 중 “공탁규칙 부록 제2호 제19-1호 서식의”를 “공탁사무 문서양식에 관한 예규 제9-1호 양식의”로 하고, 제3조 제1항 중 “공탁규칙 부록 제2호 제19-2호 서식의”를 “공탁사무 문서양식에 관한 예규 제9-2호 양식의”로 하며, 같은 조 제2항 중 “위 부록 제19-3호 서식의”를 “위 예규 제9-3호 양식의”로 한다.② 공탁물 출급ㆍ회수의 일괄청구에 관한 업무처리지침 일부를 다음과 같이 개정한다.1. 나. 항 중 “공탁사무처리규칙 부록 제2호 7-1, 7-2, 7-3호 서식”을 “공탁사무 문서양식에 관한 예규 제8-1호, 제8-2호, 제8-3호 양식”으로 한다.",
       "provision_id": "admrul:공탁사무문서양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000106455",
+      "source_mst": "2200000109471",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250131"
+      "version_enforcement_date": "20261103"
     }
   ],
   "appendices": [
@@ -303,11 +309,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519807",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305793",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519807",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305793",
           "name": "",
           "file_store_url": ""
         }
@@ -328,11 +334,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519809",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305795",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519809",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305795",
           "name": "",
           "file_store_url": ""
         }
@@ -353,11 +359,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519811",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305797",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519811",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305797",
           "name": "",
           "file_store_url": ""
         }
@@ -378,11 +384,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519813",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305799",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519813",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305799",
           "name": "",
           "file_store_url": ""
         }
@@ -403,11 +409,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519815",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305801",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519815",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305801",
           "name": "",
           "file_store_url": ""
         }
@@ -428,11 +434,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519817",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305803",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519817",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305803",
           "name": "",
           "file_store_url": ""
         }
@@ -453,11 +459,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519819",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305805",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519819",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305805",
           "name": "",
           "file_store_url": ""
         }
@@ -478,11 +484,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519821",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305807",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519821",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305807",
           "name": "",
           "file_store_url": ""
         }
@@ -503,11 +509,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519823",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305809",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519823",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305809",
           "name": "",
           "file_store_url": ""
         }
@@ -528,11 +534,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519825",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305811",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519825",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305811",
           "name": "",
           "file_store_url": ""
         }
@@ -553,11 +559,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519827",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305813",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519827",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305813",
           "name": "",
           "file_store_url": ""
         }
@@ -578,11 +584,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519829",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305815",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519829",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305815",
           "name": "",
           "file_store_url": ""
         }
@@ -603,11 +609,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519831",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305817",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519831",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305817",
           "name": "",
           "file_store_url": ""
         }
@@ -628,11 +634,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519833",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305819",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519833",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305819",
           "name": "",
           "file_store_url": ""
         }
@@ -653,11 +659,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519835",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305821",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519835",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305821",
           "name": "",
           "file_store_url": ""
         }
@@ -678,11 +684,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519837",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305823",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519837",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305823",
           "name": "",
           "file_store_url": ""
         }
@@ -703,11 +709,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519839",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305825",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519839",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305825",
           "name": "",
           "file_store_url": ""
         }
@@ -728,11 +734,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519841",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305827",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519841",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305827",
           "name": "",
           "file_store_url": ""
         }
@@ -753,11 +759,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519843",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305829",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519843",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305829",
           "name": "",
           "file_store_url": ""
         }
@@ -778,11 +784,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519845",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305831",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519845",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305831",
           "name": "",
           "file_store_url": ""
         }
@@ -803,11 +809,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519847",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305833",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519847",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305833",
           "name": "",
           "file_store_url": ""
         }
@@ -828,11 +834,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519849",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305835",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519849",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305835",
           "name": "",
           "file_store_url": ""
         }
@@ -853,11 +859,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519851",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305837",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519851",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305837",
           "name": "",
           "file_store_url": ""
         }
@@ -878,11 +884,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519853",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305839",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519853",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305839",
           "name": "",
           "file_store_url": ""
         }
@@ -903,11 +909,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519855",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305841",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519855",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305841",
           "name": "",
           "file_store_url": ""
         }
@@ -928,11 +934,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519857",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305843",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519857",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305843",
           "name": "",
           "file_store_url": ""
         }
@@ -953,11 +959,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519859",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305845",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519859",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305845",
           "name": "",
           "file_store_url": ""
         }
@@ -978,11 +984,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519861",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305847",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519861",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305847",
           "name": "",
           "file_store_url": ""
         }
@@ -1003,11 +1009,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519863",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305849",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519863",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305849",
           "name": "",
           "file_store_url": ""
         }
@@ -1028,11 +1034,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519865",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305851",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519865",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305851",
           "name": "",
           "file_store_url": ""
         }
@@ -1053,11 +1059,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519867",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305853",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519867",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305853",
           "name": "",
           "file_store_url": ""
         }
@@ -1078,11 +1084,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519869",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305855",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519869",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305855",
           "name": "",
           "file_store_url": ""
         }
@@ -1103,11 +1109,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519871",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305857",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519871",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305857",
           "name": "",
           "file_store_url": ""
         }
@@ -1128,11 +1134,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519873",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305859",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519873",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305859",
           "name": "",
           "file_store_url": ""
         }
@@ -1153,11 +1159,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519875",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305861",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519875",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305861",
           "name": "",
           "file_store_url": ""
         }
@@ -1178,11 +1184,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519877",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305863",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519877",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305863",
           "name": "",
           "file_store_url": ""
         }
@@ -1203,11 +1209,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519879",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305865",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519879",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305865",
           "name": "",
           "file_store_url": ""
         }
@@ -1228,11 +1234,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519881",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305867",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519881",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305867",
           "name": "",
           "file_store_url": ""
         }
@@ -1253,11 +1259,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519883",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305869",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519883",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305869",
           "name": "",
           "file_store_url": ""
         }
@@ -1278,11 +1284,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519885",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305871",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519885",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305871",
           "name": "",
           "file_store_url": ""
         }
@@ -1303,11 +1309,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519803",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305791",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519803",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305791",
           "name": "",
           "file_store_url": ""
         }
@@ -1315,10 +1321,10 @@
       "images": [],
       "provision_id": "admrul:공탁사무문서양식에관한예규#ETC0042",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:공탁사무문서양식에관한예규#ETC0042:file:149519803",
-      "filename": "기타42_[별 표]_flSeq149519803.hwp",
+      "appendix_instance_id": "admrul:공탁사무문서양식에관한예규#ETC0042:file:171305791",
+      "filename": "기타42_[별 표]_flSeq171305791.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타42_[별 표]_flSeq149519803.hwp",
+      "local_path": "기타/기타42_[별 표]_flSeq171305791.hwp",
       "file_store_url": ""
     },
     {
@@ -1330,11 +1336,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519805",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305789",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519805",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305789",
           "name": "",
           "file_store_url": ""
         }
@@ -1342,10 +1348,10 @@
       "images": [],
       "provision_id": "admrul:공탁사무문서양식에관한예규#ETC0042",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:공탁사무문서양식에관한예규#ETC0042:file:149519805",
-      "filename": "기타42_[별 표]_flSeq149519805.hwp",
+      "appendix_instance_id": "admrul:공탁사무문서양식에관한예규#ETC0042:file:171305789",
+      "filename": "기타42_[별 표]_flSeq171305789.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타42_[별 표]_flSeq149519805.hwp",
+      "local_path": "기타/기타42_[별 표]_flSeq171305789.hwp",
       "file_store_url": ""
     },
     {
@@ -1357,11 +1363,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519887",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305873",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149519887",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171305873",
           "name": "",
           "file_store_url": ""
         }
@@ -1391,7 +1397,7 @@
     "unmatched_relations": 3,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 14,
+    "addenda_count": 15,
     "appendices_count": 43,
     "attachments_count": 0
   },
