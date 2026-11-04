@@ -8,9 +8,9 @@
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:98659",
   "promulgation_no": "456",
-  "promulgation_date": "20261106",
-  "enforcement_date": "20261106",
-  "revision_date": "20261106",
+  "promulgation_date": "20261104",
+  "enforcement_date": "20261104",
+  "revision_date": "20261104",
   "revision_type": "제정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "고윤경",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립나주병원 인사운영규정",
-    "발령일자": "20261106",
+    "발령일자": "20261104",
     "행정규칙종류": "예규",
     "제개정구분코드": "200401",
     "조문형식여부": "Y",
@@ -27,15 +27,15 @@
     "전화번호": "061-330-4106",
     "제개정구분명": "제정",
     "소관부처코드": "1352000",
-    "생성일자": "20261106",
+    "생성일자": "20261111",
     "행정규칙ID": "98659",
-    "시행일자": "20261106",
+    "시행일자": "20261104",
     "담당부서기관코드": "1352766",
     "발령번호": "456",
     "행정규칙일련번호": "2100000287850",
     "상위부처명": "보건복지부"
   },
-  "amendment_text": "⊙국립나주병원 예규 제456호\n국립나주병원 인사운영규정을 다음과 같이 공포한다.\n2026년 11월 6일\n국립나주병원장\n국립나주병원 인사운영규정 제정\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 예규는 발령한 날부터 시행한다.\n제2조(다른 예규의 폐지) 다음 각 호의 예규는 각각 폐지한다.\n1. 「국립나주병원 근무성적평가위원회규정」\n2. 「국립나주병원 보통승진심사위원회규정」\n3. 「국립나주병원 공적심사위원회규정」",
+  "amendment_text": "⊙국립나주병원 예규 제456호\n국립나주병원 인사운영규정을 다음과 같이 공포한다.\n2026년 11월 4일\n국립나주병원장\n국립나주병원 인사운영규정 제정\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 예규는 발령한 날부터 시행한다.\n제2조(다른 예규의 폐지) 다음 각 호의 예규는 각각 폐지한다.\n1. 「국립나주병원 근무성적평가위원회규정」\n2. 「국립나주병원 보통승진심사위원회규정」\n3. 「국립나주병원 공적심사위원회규정」",
   "revision_reason": "◇ 제정이유\n현재 각각의 규정으로 운영하고 있는 「국립나주병원 공적심사위원회규정」, 「국립나주병원 근무성적평가위원회규정」 및 「국립나주병원 보통승진심사위원회규정」을 폐지하고, 각 위원회의 구성 및 운영 등에 관한 사항을 하나의 규정으로 통합하여 인사운영의 효율성과 규정 관리의 체계성을 높이려는 것임.\n◇ 주요내용\n가. 인사운영규정의 목적 및 적용범위(안 제1장)\n나. 인사위원회의 구성 및 운영 등에 관한 사항(안 제2장)\n다. 근무성적평가위원회의 구성 및 운영 등에 관한 사항(안 제3장)\n라. 보통승진심사위원회의 구성 및 운영 등에 관한 사항(안 제4장)\n마. 공적심사위원회의 구성 및 운영 등에 관한 사항(안 제5장)",
   "body": {
     "format": "articles",
@@ -44,8 +44,8 @@
       {
         "article_no": "제1조",
         "article_title": "목적",
-        "chapter": "제1장  총  칙",
-        "chapter_path": "제1장  총  칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제1조(목적) 이 규정은 「국가공무원법」, 「보건복지부 인사관리규정」, 「보건복지부 5급 이하 공무원성과평가 등 운영지침」 및 「상훈법」에 따라 국립나주병원 소속 공무원의 인사, 근무성적 평가, 승진심사, 공적심사 등에 필요한 각종 위원회의 운영에 관한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [
@@ -67,9 +67,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -89,11 +87,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0001",
             "reference_id": "admrul:보건복지부인사관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보건복지부 인사관리규정/보건복지부 인사관리규정.json",
-            "target_git_path": "보건복지부 인사관리규정/보건복지부 인사관리규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "보건복지부 인사관리규정/보건복지부 인사관리규정.json"
           },
           {
             "relation_type": "citation",
@@ -113,11 +107,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0001",
             "reference_id": "admrul:보건복지부5급이하공무원성과평가등운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보건복지부 5급 이하 공무원성과평가 등 운영지침/보건복지부 5급 이하 공무원성과평가 등 운영지침.json",
-            "target_git_path": "보건복지부 5급이하 공무원 성과평가등 운영지침/보건복지부 5급이하 공무원 성과평가등 운영지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "보건복지부 5급 이하 공무원성과평가 등 운영지침/보건복지부 5급 이하 공무원성과평가 등 운영지침.json"
           },
           {
             "relation_type": "citation",
@@ -137,9 +127,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0001",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json",
-            "target_git_path": "상훈법/법률/상훈법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "상훈법/법률/상훈법.json"
           }
         ],
         "images": [],
@@ -148,8 +136,8 @@
       {
         "article_no": "제2조",
         "article_title": "적용범위",
-        "chapter": "제1장  총  칙",
-        "chapter_path": "제1장  총  칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제2조(적용범위) 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 규정이 정하는 바를 따른다.",
         "enforcement_date": "",
         "relations": [],
@@ -159,8 +147,8 @@
       {
         "article_no": "제3조",
         "article_title": "인사위원회 설치",
-        "chapter": "제2장  인사위원회",
-        "chapter_path": "제2장  인사위원회",
+        "chapter": "제2장 인사위원회",
+        "chapter_path": "제2장 인사위원회",
         "content": "제3조(인사위원회 설치) 국립나주병원 공무원의 인사에 관한 중요사항을 심의하기 위해 인사위원회를 둔다.",
         "enforcement_date": "",
         "relations": [],
@@ -170,8 +158,8 @@
       {
         "article_no": "제4조",
         "article_title": "인사위원회 구성",
-        "chapter": "제2장  인사위원회",
-        "chapter_path": "제2장  인사위원회",
+        "chapter": "제2장 인사위원회",
+        "chapter_path": "제2장 인사위원회",
         "content": "제4조(인사위원회 구성) ① 위원회는 위원장을 포함하여 5인이상 7인이하의 위원으로 구성하며, 위원장은 원장이 된다.② 위원회의 위원은 과장중에서 회의 개최시마다 원장이 지명하되, 기획운영과장은 당연직이 된다.③ 위원회의 사무를 처리하기 위하여 위원회에 간사와 서기 각 1인을 두되, 간사는 인사총무팀장이 되고, 서기는 인사담당자가 된다.",
         "enforcement_date": "",
         "relations": [],
@@ -181,8 +169,8 @@
       {
         "article_no": "제5조",
         "article_title": "인사위원회 기능",
-        "chapter": "제2장  인사위원회",
-        "chapter_path": "제2장  인사위원회",
+        "chapter": "제2장 인사위원회",
+        "chapter_path": "제2장 인사위원회",
         "content": "제5조(인사위원회 기능) 인사위원회는 다음 각 호의 사항을 심의ㆍ의결한다.1. 인사제도의 변경ㆍ신설에 관한 사항2. 징계 등에 관한 사항3. 기타 인사에 관한 중요사항",
         "enforcement_date": "",
         "relations": [],
@@ -192,8 +180,8 @@
       {
         "article_no": "제6조",
         "article_title": "인사위원회 운영",
-        "chapter": "제2장  인사위원회",
-        "chapter_path": "제2장  인사위원회",
+        "chapter": "제2장 인사위원회",
+        "chapter_path": "제2장 인사위원회",
         "content": "제6조(인사위원회 운영) ① 인사위원회의 회의는 필요에 따라 위원장이 소집한다.② 위원회는 재적 위원 과반수의 출석으로 개의하고 출석 위원 과반수의 찬성으로 의결한다.③ 인사위원회의 회의록은 기록ㆍ보존하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -203,8 +191,8 @@
       {
         "article_no": "제7조",
         "article_title": "근무성적평가위원회 설치",
-        "chapter": "제3장  근무성적평가",
-        "chapter_path": "제3장  근무성적평가",
+        "chapter": "제3장 근무성적평가",
+        "chapter_path": "제3장 근무성적평가",
         "content": "제7조(근무성적평가위원회 설치) 국립나주병원 소속 5급이하 공무원(다만, 6급 이상 행정ㆍ보건ㆍ사회복지ㆍ전산ㆍ시설ㆍ공업직 등 보건복지부 통합관리 대상직렬은 제외)의 근무성적평가에 관한 사항을 심의하기 위하여 근무성적평가위원회(이하 \"근평위원회\"라 한다)를 둔다.",
         "enforcement_date": "",
         "relations": [],
@@ -214,8 +202,8 @@
       {
         "article_no": "제8조",
         "article_title": "근평위원회 구성",
-        "chapter": "제3장  근무성적평가",
-        "chapter_path": "제3장  근무성적평가",
+        "chapter": "제3장 근무성적평가",
+        "chapter_path": "제3장 근무성적평가",
         "content": "제8조(근평위원회 구성) ① 근평위원회는 위원장을 포함하여 5인 이상 7인 이하의 위원으로 구성하며, 위원장은 원장이 된다.② 근평위원회의 위원은 과장중에서 회의 개최시마다 원장이 지명하되, 기획운영과장은 당연직으로 한다. 다만, 위원회의 평가대상이 되는 과장은 제외한다.③ 근평위원회의 사무를 처리하기 위하여 위원회에 간사와 서기 각 1인을 두되, 간사는 인사총무팀장이 되고, 서기는 인사담당자가 된다.",
         "enforcement_date": "",
         "relations": [],
@@ -225,8 +213,8 @@
       {
         "article_no": "제9조",
         "article_title": "근평위원회 기능",
-        "chapter": "제3장  근무성적평가",
-        "chapter_path": "제3장  근무성적평가",
+        "chapter": "제3장 근무성적평가",
+        "chapter_path": "제3장 근무성적평가",
         "content": "제9조(근평위원회 기능) ① 근평위원회는 다음 각 호의 사항을 고려하여 결정해야 한다.1. 각 평가단위별 평가결과와 평가단위별 업무비중2. 그 밖에 근무성적평가의 신뢰성과 타당성을 높이기 위해 필요한 사항② 근평위원회는 근무성적평가 순위와 이의신청 등에 관한 사항을 심의ㆍ의결한다.",
         "enforcement_date": "",
         "relations": [],
@@ -236,8 +224,8 @@
       {
         "article_no": "제10조",
         "article_title": "근평위원회 운영",
-        "chapter": "제3장  근무성적평가",
-        "chapter_path": "제3장  근무성적평가",
+        "chapter": "제3장 근무성적평가",
+        "chapter_path": "제3장 근무성적평가",
         "content": "제10조(근평위원회 운영) ① 근평위원회는 「공무원 성과평가 등에 관한 규정」제5조의 규정에 의해 매년 1월과 7월 중에 개최한다.② 근평위원회는 재적 위원 과반수의 출석으로 개의하고 출석 위원 과반수의 찬성으로 의결한다.",
         "enforcement_date": "",
         "relations": [
@@ -257,11 +245,9 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0010",
-            "reference_id": "law:공무원성과평가등에관한규정#DOC",
+            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
-            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -279,11 +265,9 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정/제5조",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0010",
-            "reference_id": "law:공무원성과평가등에관한규정#JO0005",
+            "reference_id": "admrul:공무원성과평가등에관한규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
-            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
           }
         ],
         "images": [],
@@ -292,8 +276,8 @@
       {
         "article_no": "제11조",
         "article_title": "자료의 제출",
-        "chapter": "제3장  근무성적평가",
-        "chapter_path": "제3장  근무성적평가",
+        "chapter": "제3장 근무성적평가",
+        "chapter_path": "제3장 근무성적평가",
         "content": "제11조(자료의 제출) 간사는 위원장 또는 위원회의 요구가 있을 때에는 당해 평정에 필요한 자료를 제출하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -303,8 +287,8 @@
       {
         "article_no": "제12조",
         "article_title": "보통승진심사위원회 설치",
-        "chapter": "제4장  승진심사",
-        "chapter_path": "제4장  승진심사",
+        "chapter": "제4장 승진심사",
+        "chapter_path": "제4장 승진심사",
         "content": "제12조(보통승진심사위원회 설치)「책임운영기관의 설치ㆍ운영에 관한 법률 시행령」 제18조제1항의 규정에 의하여 국립나주병원장(이하\"원장\"이라 한다)에게 임용권이 위임된 공무원의 승진임용에 관한 사항을 심사하기 위하여 보통승진심사위원회(이하 \"승진위원회\"라 한다)를 둔다.",
         "enforcement_date": "",
         "relations": [
@@ -326,9 +310,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0012",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
-            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -348,9 +330,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0012",
             "reference_id": "law:책임운영기관의설치운영에관한법률시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
-            "target_git_path": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "책임운영기관의 설치ㆍ운영에 관한 법률/시행령/책임운영기관의 설치ㆍ운영에 관한 법률 시행령.json"
           }
         ],
         "images": [],
@@ -359,8 +339,8 @@
       {
         "article_no": "제13조",
         "article_title": "승진위원회 구성",
-        "chapter": "제4장  승진심사",
-        "chapter_path": "제4장  승진심사",
+        "chapter": "제4장 승진심사",
+        "chapter_path": "제4장 승진심사",
         "content": "제13조(승진위원회 구성) 승진위원회의 구성은 제4조의 규정을 적용한다.",
         "enforcement_date": "",
         "relations": [],
@@ -370,8 +350,8 @@
       {
         "article_no": "제14조",
         "article_title": "승진위원회 소집",
-        "chapter": "제4장  승진심사",
-        "chapter_path": "제4장  승진심사",
+        "chapter": "제4장 승진심사",
+        "chapter_path": "제4장 승진심사",
         "content": "제14조(승진위원회 소집) 승진위원회 회의는 필요에 따라 위원장이 소집한다.",
         "enforcement_date": "",
         "relations": [],
@@ -381,8 +361,8 @@
       {
         "article_no": "제15조",
         "article_title": "승진위원회 심사요소",
-        "chapter": "제4장  승진심사",
-        "chapter_path": "제4장  승진심사",
+        "chapter": "제4장 승진심사",
+        "chapter_path": "제4장 승진심사",
         "content": "제15조(승진위원회 심사요소) 승진위원회는 승진후보자명부의 적정여부, 교육이수 실적, 심사대상자의 직무수행능력ㆍ태도ㆍ경력ㆍ인품ㆍ연령 등 제반사항을 고려하여 심사하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -392,8 +372,8 @@
       {
         "article_no": "제16조",
         "article_title": "승진위원회 운영",
-        "chapter": "제4장  승진심사",
-        "chapter_path": "제4장  승진심사",
+        "chapter": "제4장 승진심사",
+        "chapter_path": "제4장 승진심사",
         "content": "제16조(승진위원회 운영) ① 회의는 비공개로 하되, 재적 위원 과반수의 출석으로 개의하며, 출석 위원 과반수의 찬성으로 의결한다.② 위원회의 회의록은 기록ㆍ보존하여야 하되, 승진임용심사 의결서ㆍ위원회의 심사결과 보고서로 갈음할 수 있다.",
         "enforcement_date": "",
         "relations": [],
@@ -403,8 +383,8 @@
       {
         "article_no": "제17조",
         "article_title": "자료의 제출",
-        "chapter": "제4장  승진심사",
-        "chapter_path": "제4장  승진심사",
+        "chapter": "제4장 승진심사",
+        "chapter_path": "제4장 승진심사",
         "content": "제17조(자료의 제출) 간사는 위원장 또는 위원의 요구가 있을 때에는 당해 승진임용심사에 필요한 자료를 제출하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -414,8 +394,8 @@
       {
         "article_no": "제18조",
         "article_title": "공적심사위원회 설치",
-        "chapter": "제5장  공적심사",
-        "chapter_path": "제5장  공적심사",
+        "chapter": "제5장 공적심사",
+        "chapter_path": "제5장 공적심사",
         "content": "제18조(공적심사위원회 설치) 각종 표창 및 상훈 대상자를 추천 또는 선정하기 위하여 공적심사위원회(이하 \"공적위원회\"라 한다)를 둔다.",
         "enforcement_date": "",
         "relations": [],
@@ -425,8 +405,8 @@
       {
         "article_no": "제19조",
         "article_title": "공적위원회 구성",
-        "chapter": "제5장  공적심사",
-        "chapter_path": "제5장  공적심사",
+        "chapter": "제5장 공적심사",
+        "chapter_path": "제5장 공적심사",
         "content": "제19조(공적위원회 구성) 공적위원회의 구성은 제4조의 규정을 적용한다.",
         "enforcement_date": "",
         "relations": [],
@@ -436,8 +416,8 @@
       {
         "article_no": "제20조",
         "article_title": "공적위원회 운영",
-        "chapter": "제5장  공적심사",
-        "chapter_path": "제5장  공적심사",
+        "chapter": "제5장 공적심사",
+        "chapter_path": "제5장 공적심사",
         "content": "제20조(공적위원회 운영) 회의는 비공개로 하되, 재적 위원 과반수의 출석으로 개의하고, 출석 위원 과반수의 찬성으로 의결한다.",
         "enforcement_date": "",
         "relations": [],
@@ -447,8 +427,8 @@
       {
         "article_no": "제21조",
         "article_title": "대상자 추천",
-        "chapter": "제5장  공적심사",
-        "chapter_path": "제5장  공적심사",
+        "chapter": "제5장 공적심사",
+        "chapter_path": "제5장 공적심사",
         "content": "제21조(대상자 추천) 각종 표창 및 상훈대상자는 각 과장이 공적위원회에 추천한다.",
         "enforcement_date": "",
         "relations": [],
@@ -458,8 +438,8 @@
       {
         "article_no": "제22조",
         "article_title": "심사기준",
-        "chapter": "제5장  공적심사",
-        "chapter_path": "제5장  공적심사",
+        "chapter": "제5장 공적심사",
+        "chapter_path": "제5장 공적심사",
         "content": "제22조(심사기준) ① 공적위원회의 심사기준은 다음 각호와 같다.1. 공적내용과 표창 목적과의 적합 여부2. 공적의 객관적 타당성 여부3. 훈격이 신분 및 공적에 적합한지 여부4. 타 공적자와의 균형유지5. 각과의 정원 대 대상자의 비율6. 대상자의 신상과 환경에 대한 여론7. 개인의 발전에 기여할 전망8. 기타(근무년수, 근무부서, 직무분야, 연령 등)② 위원회는 공적의 정도가 유사한 경우에는 다음의 기준에 의하여 우선 순위로 결정한다.1. 상위직보다 하위직 우선2. 단기근무자보다 장기근무자 우선3. 근무성적평점 점수가 높은 자 우선③ 「상훈법」, 「정부 표창 규정」, 정부포상 업무지침 및 보건복지부 장관표창 관련 지침 등에서 정하는 추천제한 사유에 해당하는 자는 추천할 수 없다.",
         "enforcement_date": "",
         "relations": [
@@ -481,9 +461,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0022",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json",
-            "target_git_path": "상훈법/법률/상훈법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "상훈법/법률/상훈법.json"
           },
           {
             "relation_type": "citation",
@@ -503,9 +481,7 @@
             "source_provision_id": "admrul:국립나주병원인사운영규정#JO0022",
             "reference_id": "law:정부표창규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
-            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
           }
         ],
         "images": [],
@@ -514,8 +490,8 @@
       {
         "article_no": "제23조",
         "article_title": "구비서류",
-        "chapter": "제5장  공적심사",
-        "chapter_path": "제5장  공적심사",
+        "chapter": "제5장 공적심사",
+        "chapter_path": "제5장 공적심사",
         "content": "제23조(구비서류) ① 추천자가 추천할 때에는 명단과 공적개요 및 개인공적조서를 별도 서식에 작성, 기획운영과장을 경유하여 원장에게 제출하여야 한다.② 공적조서는 6하원칙에 의하여 구체적으로 작성하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -525,8 +501,8 @@
       {
         "article_no": "제24조",
         "article_title": "비밀누설의 금지",
-        "chapter": "제6장  보 칙",
-        "chapter_path": "제6장  보 칙",
+        "chapter": "제6장 보칙",
+        "chapter_path": "제6장 보칙",
         "content": "제24조(비밀누설의 금지) 각 위원회의 위원 및 간사 등은 위원회의 심의사항ㆍ진술내용 기타 안건 심사와 관련하여 알게 된 사실을 누설해서는 안된다.",
         "enforcement_date": "",
         "relations": [],
@@ -536,8 +512,8 @@
       {
         "article_no": "제25조",
         "article_title": "운영 세칙",
-        "chapter": "제6장  보 칙",
-        "chapter_path": "제6장  보 칙",
+        "chapter": "제6장 보칙",
+        "chapter_path": "제6장 보칙",
         "content": "제25조(운영 세칙) 이 규정 및 다른 법령 등에서 정하지 않은 사항은 각 위원회에서 정한다.",
         "enforcement_date": "",
         "relations": [],
@@ -548,22 +524,22 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20261106",
+      "promulgation_date": "20261104",
       "promulgation_no": "456",
-      "content": "부칙 <제456호, 2026. 11. 6.>제1조(시행일) 이 예규는 발령한 날부터 시행한다.제2조(다른 예규의 폐지) 다음 각 호의 예규는 각각 폐지한다.1. 「국립나주병원 근무성적평가위원회규정」2. 「국립나주병원 보통승진심사위원회규정」3. 「국립나주병원 공적심사위원회규정」",
+      "content": "부칙 <제456호, 2026. 11. 4.>제1조(시행일) 이 예규는 발령한 날부터 시행한다.제2조(다른 예규의 폐지) 다음 각 호의 예규는 각각 폐지한다.1. 「국립나주병원 근무성적평가위원회규정」2. 「국립나주병원 보통승진심사위원회규정」3. 「국립나주병원 공적심사위원회규정」",
       "provision_id": "admrul:국립나주병원인사운영규정#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000287850",
       "source_version_uid": "",
       "source_revision_type": "제정",
-      "version_enforcement_date": "20261106"
+      "version_enforcement_date": "20261104"
     }
   ],
   "appendices": [],
   "attachments": [
     {
       "name": "국립나주병원 인사운영규정(예규 제456호¸ 2026.11.6.).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=171250673",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171382335",
       "filename": "국립나주병원 인사운영규정(예규 제456호¸ 2026.11.6.).hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/국립나주병원 인사운영규정(예규 제456호¸ 2026.11.6.).hwpx",
@@ -571,7 +547,7 @@
     },
     {
       "name": "국립나주병원 인사운영규정(예규 제456호¸ 2026.11.6.).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=171250677",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171382379",
       "filename": "국립나주병원 인사운영규정(예규 제456호¸ 2026.11.6.).pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/국립나주병원 인사운영규정(예규 제456호¸ 2026.11.6.).pdf",
