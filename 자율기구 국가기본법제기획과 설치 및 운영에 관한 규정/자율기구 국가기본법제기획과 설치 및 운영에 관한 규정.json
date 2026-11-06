@@ -319,7 +319,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:자율기구국가기본법제기획과설치및운영에관한규정#JO0005"
+        "provision_id": "admrul:자율기구국가기본법제기획과설치및운영에관한규정#JO0005",
+        "scheduled": [
+          {
+            "enforcement_date": "20261106",
+            "change": "개정",
+            "content": "제5조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령 시행일인 2026년 11월 6일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2027년 5월 5일까지를 말한다)까지 그 효력을 가진다."
+          }
+        ]
       }
     ]
   },
@@ -334,6 +341,18 @@
       "source_version_uid": "",
       "source_revision_type": "제정",
       "version_enforcement_date": "20260506"
+    },
+    {
+      "promulgation_date": "20261027",
+      "promulgation_no": "506",
+      "content": "부칙 <제506호, 2026. 10. 27.>이 훈령은 2026년 11월 6일부터 시행한다.",
+      "provision_id": "admrul:자율기구국가기본법제기획과설치및운영에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000287376",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261106",
+      "enforcement_date": "20261106"
     }
   ],
   "appendices": [
@@ -405,8 +424,10 @@
   "addendum_provision_id": "admrul:자율기구국가기본법제기획과설치및운영에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:자율기구국가기본법제기획과설치및운영에관한규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261106"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "자율기구 국가기본법제기획과 설치 및 운영에 관한 규정/자율기구 국가기본법제기획과 설치 및 운영에 관한 규정.json"
 }
