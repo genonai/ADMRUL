@@ -66,7 +66,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -86,7 +88,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:고위공무원단인사규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공무원단 인사규정/법률/고위공무원단 인사규정.json"
+            "target_git_path_guess": "고위공무원단 인사규정/법률/고위공무원단 인사규정.json",
+            "target_git_path": "고위공무원단 인사규정/법률/고위공무원단 인사규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -106,7 +110,11 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "admrul:공무원임용규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json"
+            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_git_path": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -126,7 +134,11 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "admrul:공무원임용규칙#JO0057_05",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json"
+            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_git_path": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -146,7 +158,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -166,7 +180,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:개방형직위및공모직위의운영등에관한규정#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "개방형 직위 및 공모직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모직위의 운영 등에 관한 규정.json"
+            "target_git_path_guess": "개방형 직위 및 공모직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모직위의 운영 등에 관한 규정.json",
+            "target_git_path": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -186,7 +202,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공직후보자등에관한정보의수집및관리에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정/법률/공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정.json"
+            "target_git_path_guess": "공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정/법률/공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정.json",
+            "target_git_path": "공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정/법률/공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +224,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공직후보자등에관한정보의수집및관리에관한규정#JO0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정/법률/공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정.json"
+            "target_git_path_guess": "공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정/법률/공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정.json",
+            "target_git_path": "공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정/법률/공직후보자 등에 관한 정보의 수집 및 관리에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -226,7 +246,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -246,7 +268,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원임용령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -271,7 +295,12 @@
             "target_unit": "BJ0028",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0028",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지28_행정협업과제 수행 경력 인정 협의 요청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -291,7 +320,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원임용시험령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -311,7 +342,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원임용시험령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json"
+            "target_git_path_guess": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_git_path": "공무원임용시험령/법률/공무원임용시험령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -331,7 +364,11 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "admrul:별정직공무원인사규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "별정직공무원 인사규칙/별정직공무원 인사규칙.json"
+            "target_git_path_guess": "별정직공무원 인사규칙/별정직공무원 인사규칙.json",
+            "target_git_path": "별정직공무원 인사규칙/별정직공무원 인사규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -356,7 +393,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지1_서류전형 심사표(예시).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -376,7 +418,11 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "admrul:국가공무원임용시험및실무수습업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 임용시험 및 실무수습 업무처리 지침/국가공무원 임용시험 및 실무수습 업무처리 지침.json"
+            "target_git_path_guess": "국가공무원 임용시험 및 실무수습 업무처리 지침/국가공무원 임용시험 및 실무수습 업무처리 지침.json",
+            "target_git_path": "국가공무원 임용시험 및 실무수습 업무처리 지침/국가공무원 임용시험 및 실무수습 업무처리 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -396,7 +442,11 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "admrul:개방형직위및공모직위운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개방형 직위 및 공모 직위 운영지침/개방형 직위 및 공모 직위 운영지침.json"
+            "target_git_path_guess": "개방형 직위 및 공모 직위 운영지침/개방형 직위 및 공모 직위 운영지침.json",
+            "target_git_path": "개방형 직위 및 공모 직위 운영지침/개방형 직위 및 공모 직위 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -416,7 +466,11 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "admrul:별정직공무원인사규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "별정직공무원 인사규칙/별정직공무원 인사규칙.json"
+            "target_git_path_guess": "별정직공무원 인사규칙/별정직공무원 인사규칙.json",
+            "target_git_path": "별정직공무원 인사규칙/별정직공무원 인사규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -436,7 +490,11 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "admrul:국가공무원임용시험및실무수습업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 임용시험 및 실무수습 업무처리 지침/국가공무원 임용시험 및 실무수습 업무처리 지침.json"
+            "target_git_path_guess": "국가공무원 임용시험 및 실무수습 업무처리 지침/국가공무원 임용시험 및 실무수습 업무처리 지침.json",
+            "target_git_path": "국가공무원 임용시험 및 실무수습 업무처리 지침/국가공무원 임용시험 및 실무수습 업무처리 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -461,7 +519,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지1_서류전형 심사표(예시).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -486,7 +549,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지2_면접시험 평정표(예시).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -506,7 +574,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:인사혁신처와그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인사혁신처와 그 소속기관 직제/시행규칙/인사혁신처와 그 소속기관 직제 시행규칙.json"
+            "target_git_path_guess": "인사혁신처와 그 소속기관 직제/시행규칙/인사혁신처와 그 소속기관 직제 시행규칙.json",
+            "target_git_path": "인사혁신처와 그 소속기관 직제/시행규칙/인사혁신처와 그 소속기관 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -526,7 +596,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공직선거법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -546,7 +618,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공직선거법#JO0266",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -566,7 +640,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -586,7 +662,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0018_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -606,7 +684,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -626,7 +706,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0018_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -646,7 +728,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공직선거법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -666,7 +750,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공직선거법#JO0266",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -686,7 +772,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -706,7 +794,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원임용령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -726,7 +816,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -746,7 +838,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -766,7 +860,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0018_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -786,7 +882,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -806,7 +904,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -826,7 +926,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0018_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -851,7 +953,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지3_후보자 대비표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -876,7 +983,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지4_보직경로 대비표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -901,7 +1013,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지3_후보자 대비표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -926,7 +1043,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지6_(경력)개방형(공모직위) 선발경과 요약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -951,7 +1073,12 @@
             "target_unit": "BJ0011",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지11_정ㆍ현원표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -976,7 +1103,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지5_경력순위별 추천 및 제외사유.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1001,7 +1133,12 @@
             "target_unit": "BJ0007",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지7_승진후보자 선발경과 요약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1026,7 +1163,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지9_경력경쟁채용후보자 선발경과 요약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1051,7 +1193,12 @@
             "target_unit": "BJ0012",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지12_서류전형 심사 의결서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1076,7 +1223,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지10_별정직 채용후보자 선발경과 요약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1101,7 +1253,12 @@
             "target_unit": "BJ0012",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지12_서류전형 심사 의결서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1126,7 +1283,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지5_경력순위별 추천 및 제외사유.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1146,7 +1308,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1166,7 +1330,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#JO0013_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1186,7 +1352,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1206,7 +1374,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1226,7 +1396,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1246,7 +1418,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1266,7 +1440,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1286,7 +1462,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1306,7 +1484,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1326,7 +1506,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1346,7 +1528,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1366,7 +1550,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1386,7 +1572,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1406,7 +1594,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1426,7 +1616,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1451,7 +1643,12 @@
             "target_unit": "BJ0008",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지8_최초보직후보자 선발경과 요약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1471,7 +1668,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1491,7 +1690,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1511,7 +1712,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1531,7 +1734,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1551,7 +1756,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1571,7 +1778,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1591,7 +1800,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1611,7 +1822,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1631,7 +1844,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1651,7 +1866,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1671,7 +1888,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1691,7 +1910,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1711,7 +1932,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1736,7 +1959,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지9_경력경쟁채용후보자 선발경과 요약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1756,7 +1984,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1776,7 +2006,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1796,7 +2028,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1816,7 +2050,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원임용령#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json"
+            "target_git_path_guess": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_git_path": "외무공무원임용령/법률/외무공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1836,7 +2072,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1856,7 +2094,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:외무공무원법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1876,7 +2116,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:재외공관주재관임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관주재관임용령/법률/재외공관주재관임용령.json"
+            "target_git_path_guess": "재외공관주재관임용령/법률/재외공관주재관임용령.json",
+            "target_git_path": "재외공관주재관 임용령/법률/재외공관주재관 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1896,7 +2138,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:재외공관주재관임용령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관주재관임용령/법률/재외공관주재관임용령.json"
+            "target_git_path_guess": "재외공관주재관임용령/법률/재외공관주재관임용령.json",
+            "target_git_path": "재외공관주재관 임용령/법률/재외공관주재관 임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1921,7 +2165,12 @@
             "target_unit": "BJ0013",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지13_적격심사 의결 요구서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1946,7 +2195,12 @@
             "target_unit": "BJ0014",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지14_적격심사 대상자 무보직 현황.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1971,7 +2225,12 @@
             "target_unit": "BJ0015",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지15_적격심사 사전점검표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1996,7 +2255,12 @@
             "target_unit": "BJ0016",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지16_주요 업무 추진실적서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2021,7 +2285,12 @@
             "target_unit": "BJ0017",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지17_고위공무원 성과평가 결과 현황.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2046,7 +2315,12 @@
             "target_unit": "BJ0018",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지18_고위공무원 무보직자 현황.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2071,7 +2345,12 @@
             "target_unit": "BJ0027",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지27_교육훈련 등의 성과평가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2096,7 +2375,12 @@
             "target_unit": "BJ0019",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지19_직원 평가의견.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2121,7 +2405,12 @@
             "target_unit": "BJ0020",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지20_적격심사일시 통지서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2146,7 +2435,12 @@
             "target_unit": "BJ0021",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지21_적격심사 이의사유서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2171,7 +2465,12 @@
             "target_unit": "BJ0022",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지22_고위공무원임용심사위원회 구술심사 신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2196,7 +2495,12 @@
             "target_unit": "BJ0023",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지23_고위공무원임용심사위원회 출석통지서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2221,7 +2525,12 @@
             "target_unit": "BJ0024",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지24_고위공무원임용심사위원 기피 신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2246,7 +2555,12 @@
             "target_unit": "BJ0025",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지25_적격심사의결서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2271,7 +2585,12 @@
             "target_unit": "BJ0026",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0026",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지26_교육훈련 등의 성과계약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2296,7 +2615,12 @@
             "target_unit": "BJ0027",
             "reference_id": "admrul:고위공무원단인사규칙#BJ0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json"
+            "target_git_path_guess": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_path": "고위공무원단 인사규칙/고위공무원단 인사규칙.json",
+            "target_git_file_path": "고위공무원단 인사규칙/별지/별지27_교육훈련 등의 성과평가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2316,7 +2640,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2336,7 +2662,9 @@
             "source_provision_id": "admrul:고위공무원단인사규칙#DOC",
             "reference_id": "law:공무원징계령시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
