@@ -1563,8 +1563,10 @@
   "addendum_provision_id": "admrul:한약제제급여목록및상한금액표#ADDENDUM",
   "amendment_provision_id": "admrul:한약제제급여목록및상한금액표#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261109"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "한약제제 급여목록 및 상한금액표/한약제제 급여목록 및 상한금액표.json"
 }
