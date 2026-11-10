@@ -1554,7 +1554,7 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:항행안전감독업무규정#JO0016",
             "target_unit": "BJ0124",
-            "reference_id": "law:항공안전법시행규칙#FORM0124",
+            "reference_id": "law:항공안전법시행규칙#BJ0124",
             "target_repo": "LAW",
             "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
             "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
@@ -3033,5 +3033,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "항행안전감독업무 규정/항행안전감독업무 규정.json"
+  "git_path": "항행안전감독업무 규정/항행안전감독업무 규정.json",
+  "repealed": true,
+  "repealed_at": "20261111"
 }
