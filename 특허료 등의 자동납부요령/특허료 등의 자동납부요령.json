@@ -1,25 +1,25 @@
 {
   "law_id": "31842",
-  "mst": "2100000266348",
+  "mst": "2100000288058",
   "law_name": "특허료 등의 자동납부요령",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:31842",
-  "promulgation_no": "4",
-  "promulgation_date": "20251030",
-  "enforcement_date": "20251030",
-  "revision_date": "20251030",
+  "promulgation_no": "2026-21",
+  "promulgation_date": "20261111",
+  "enforcement_date": "20261111",
+  "revision_date": "20261111",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "지식재산처(지식재산정보정책과)",
-    "담당자명": "박진환",
+    "담당자명": "윤가영",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "특허료 등의 자동납부요령",
-    "발령일자": "20251030",
+    "발령일자": "20261111",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "042-481-8756",
     "제개정구분명": "일부개정",
     "소관부처코드": "1431000",
-    "생성일자": "20251104",
+    "생성일자": "20261124",
     "행정규칙ID": "31842",
-    "시행일자": "20251030",
+    "시행일자": "20261111",
     "담당부서기관코드": "1431033",
-    "발령번호": "4",
-    "행정규칙일련번호": "2100000266348",
+    "발령번호": "2026-21",
+    "행정규칙일련번호": "2100000288058",
     "상위부처명": "지식재산처"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\no 「정부조직법」 개정 등(’25.10.1.)에 따라, 법령 개정사항을 반영하여 제명 및 용어 등을 변경\n◇ 주요 내용\no \"특허청\"→\"지식재산처\", \"특허청장\"→\"지식재산처장\" 등 법령 개정사항을 반영하여 용어 등 변경",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 특허료 납부편의 제고를 위한 자동납부 은행 확대 제도 추진에 따라 자동납부가 가능한 은행의 범위를 현행 2개에서 6개로 확대하고 확대된 자동납부 금융기관을 명확히 확인할 수 있도록 관련 규정을 개선\n◇ 주요내용\nㅇ 자동납부 가능 금융기관을 현행 2개에서 6개 기관으로 확대함에 따라 현행 2개의 자동납부 금융기관을 명시한 부칙 제2조(<제2015-14호, 2015.8.10.>)를 삭제하고 전체 6개 금융기관을 별표1로 신설하여 규정(안 제5조제3항)",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -67,9 +67,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0001",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -89,9 +87,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0001",
             "reference_id": "law:특허료등의징수규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           }
         ],
         "images": [],
@@ -123,9 +119,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0002",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json",
-            "target_git_path": "특허법/법률/특허법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허법/법률/특허법.json"
           },
           {
             "relation_type": "citation",
@@ -145,9 +139,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0002",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           }
         ],
         "images": [],
@@ -180,7 +172,7 @@
         "article_title": "자동납부의 신청",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(자동납부의 신청) ① 특허료 등을 자동납부하고자 하는 경우에는 「특허료 등의 징수규칙」 별지 제4호서식의 「수수료 자동납부 신청서」를 지식재산처장 또는 특허심판원장에게 사전에 제출하여야 한다.② 제1항에 따른 특허료 등의 자동납부 신청은 「특허로」를 통한 전자적 방법으로만 할 수 있다.③ 출원인ㆍ권리자 또는 대리인 등이 자동납부를 신청하는 경우에는 지식재산처가 지정한 금융기관의 예금계좌만을 이용할 수 있다.④ 출원인ㆍ권리자 또는 대리인 등이 직접 자동납부를 신청하는 경우에는 신청인(출원인ㆍ권리자 또는 대리인 등) 명의의 금융기관 예금계좌번호를 적어야 한다.⑤ 사전에 지식재산처에 포괄위임등록이 되어 있는 대리인은 출원인 또는 권리자 명의의 금융기관 예금계좌를 통한 자동납부를 대리하여 신청할 수 있다.⑥ 재외자는 「특허료 등의 징수규칙」 제8조제16항 단서에 해당하는 경우를 제외하고, 「특허법」 제5조의 특허관리인에 의하지 아니하면 특허료 등의 자동납부신청을 할 수 없다.⑦ 제4조제2호에 따른 제4년차분부터의 특허료 또는 등록료의 매년 자동납부를 신청하는 경우 1회의 신청서 제출시에 50건 이내의 등록번호를 지정할 수 있다.",
+        "content": "제5조(자동납부의 신청) ① 특허료 등을 자동납부하고자 하는 경우에는 「특허료 등의 징수규칙」 별지 제4호서식의 「수수료 자동납부 신청서」를 지식재산처장 또는 특허심판원장에게 사전에 제출하여야 한다.② 제1항에 따른 특허료 등의 자동납부 신청은 「특허로」를 통한 전자적 방법으로만 할 수 있다.③ 출원인ㆍ권리자 또는 대리인 등이 자동납부를 신청하는 경우에는 별표1에서 지정한 금융기관의 예금계좌만을 이용할 수 있다.④ 출원인ㆍ권리자 또는 대리인 등이 직접 자동납부를 신청하는 경우에는 신청인(출원인ㆍ권리자 또는 대리인 등) 명의의 금융기관 예금계좌번호를 적어야 한다.⑤ 사전에 지식재산처에 포괄위임등록이 되어 있는 대리인은 출원인 또는 권리자 명의의 금융기관 예금계좌를 통한 자동납부를 대리하여 신청할 수 있다.⑥ 재외자는 「특허료 등의 징수규칙」 제8조제16항 단서에 해당하는 경우를 제외하고, 「특허법」 제5조의 특허관리인에 의하지 아니하면 특허료 등의 자동납부신청을 할 수 없다.⑦ 제4조제2호에 따른 제4년차분부터의 특허료 또는 등록료의 매년 자동납부를 신청하는 경우 1회의 신청서 제출시에 50건 이내의 등록번호를 지정할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -201,9 +193,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -226,12 +216,34 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
             "target_unit": "BJ0004",
-            "reference_id": "law:특허료등의징수규칙#FORM0004",
+            "reference_id": "law:특허료등의징수규칙#BJ0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_file_path": "특허료 등의 징수규칙/법률/서식/서식4_수수료 자동납부 신청(취하)서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "특허료 등의 자동납부요령",
+            "target_article_no": "별표1",
+            "target_article_title": "제5조제3항에 따른 자동납부 신청 대상 금융기관",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "31842",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288058&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
+            "target_unit": "BYL0001",
+            "reference_id": "admrul:특허료등의자동납부요령#BYL0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           },
           {
             "relation_type": "citation",
@@ -251,9 +263,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -273,9 +283,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
             "reference_id": "law:특허료등의징수규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -295,9 +303,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json",
-            "target_git_path": "특허법/법률/특허법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허법/법률/특허법.json"
           },
           {
             "relation_type": "citation",
@@ -317,9 +323,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
             "reference_id": "law:특허법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json",
-            "target_git_path": "특허법/법률/특허법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허법/법률/특허법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -339,11 +343,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0005",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           }
         ],
         "images": [],
@@ -375,9 +375,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0006",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -400,12 +398,9 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0006",
             "target_unit": "BJ0004",
-            "reference_id": "law:특허료등의징수규칙#FORM0004",
+            "reference_id": "law:특허료등의징수규칙#BJ0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_file_path": "특허료 등의 징수규칙/법률/서식/서식4_수수료 자동납부 신청(취하)서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -425,9 +420,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0006",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -447,9 +440,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0006",
             "reference_id": "law:특허료등의징수규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -469,9 +460,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0006",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json",
-            "target_git_path": "특허법/법률/특허법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허법/법률/특허법.json"
           },
           {
             "relation_type": "citation",
@@ -491,9 +480,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0006",
             "reference_id": "law:특허법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json",
-            "target_git_path": "특허법/법률/특허법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허법/법률/특허법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -513,11 +500,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0006",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           }
         ],
         "images": [],
@@ -560,11 +543,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -584,11 +563,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -608,11 +583,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           },
           {
             "relation_type": "citation",
@@ -632,9 +603,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "law:특허권등의등록령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허권 등의 등록령/시행규칙/특허권 등의 등록령 시행규칙.json",
-            "target_git_path": "특허권 등의 등록령/시행규칙/특허권 등의 등록령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허권 등의 등록령/시행규칙/특허권 등의 등록령 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -657,12 +626,9 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "target_unit": "BJ0025",
-            "reference_id": "law:특허권등의등록령시행규칙#FORM0025",
+            "reference_id": "law:특허권등의등록령시행규칙#BJ0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허권 등의 등록령/시행규칙/특허권 등의 등록령 시행규칙.json",
-            "target_git_path": "특허권 등의 등록령/시행규칙/특허권 등의 등록령 시행규칙.json",
-            "target_git_file_path": "특허권 등의 등록령/시행규칙/서식/서식25_납부서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허권 등의 등록령/시행규칙/특허권 등의 등록령 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -682,11 +648,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -706,11 +668,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "admrul:특허료등의자동납부요령#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           },
           {
             "relation_type": "citation",
@@ -730,9 +688,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -752,9 +708,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "law:특허료등의징수규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "citation",
@@ -774,9 +728,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json",
-            "target_git_path": "특허법/법률/특허법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허법/법률/특허법.json"
           },
           {
             "relation_type": "citation",
@@ -796,9 +748,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0008",
             "reference_id": "law:특허법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json",
-            "target_git_path": "특허법/법률/특허법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허법/법률/특허법.json"
           }
         ],
         "images": [],
@@ -830,11 +780,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0009",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -854,11 +800,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0009",
             "reference_id": "admrul:특허료등의자동납부요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           }
         ],
         "images": [],
@@ -890,9 +832,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0010",
             "reference_id": "law:특허료등의징수규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -915,12 +855,9 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0010",
             "target_unit": "BJ0004",
-            "reference_id": "law:특허료등의징수규칙#FORM0004",
+            "reference_id": "law:특허료등의징수규칙#BJ0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_path": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json",
-            "target_git_file_path": "특허료 등의 징수규칙/법률/서식/서식4_수수료 자동납부 신청(취하)서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특허료 등의 징수규칙/법률/특허료 등의 징수규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -940,11 +877,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0010",
             "reference_id": "admrul:특허료등의자동납부요령#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_git_path": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "특허료 등의 자동납부요령/특허료 등의 자동납부요령.json"
           }
         ],
         "images": [],
@@ -976,11 +909,7 @@
             "source_provision_id": "admrul:특허료등의자동납부요령#JO0011",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
@@ -995,10 +924,10 @@
       "content": "부칙 <제2009-12호,2009. 6. 26.>제1조(시행일) 이 고시는 2009년 7월 1일부터 시행한다.제2조(지정금융기관) 제5조제3항의 특허청이 지정한 금융기관이라 함은 기업은행을 말한다.",
       "provision_id": "admrul:특허료등의자동납부요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266348",
+      "source_mst": "2100000288058",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251030"
+      "version_enforcement_date": "20261111"
     },
     {
       "promulgation_date": "20120822",
@@ -1006,10 +935,10 @@
       "content": "부칙 <제2012-24호,2012. 8. 22.>제1조(시행일) 이 고시는 2012년 8월 22일부터 시행한다.제2조 (경과규정) 이 고시 시행 당시 종전의 규정에 의하여 추진 중인 사업 등은 본 규정에 의하여 처리된 것으로 본다.",
       "provision_id": "admrul:특허료등의자동납부요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266348",
+      "source_mst": "2100000288058",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251030"
+      "version_enforcement_date": "20261111"
     },
     {
       "promulgation_date": "20150810",
@@ -1017,10 +946,10 @@
       "content": "부칙 <제2015-14호,2015. 8. 10.>제1조(시행일) 이 고시는 2015년 8월 11일부터 시행한다.제2조(지정금융기관) 제5조제3항의 특허청이 지정한 금융기관이라 함은 기업은행 및 농협을 말한다.",
       "provision_id": "admrul:특허료등의자동납부요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266348",
+      "source_mst": "2100000288058",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251030"
+      "version_enforcement_date": "20261111"
     },
     {
       "promulgation_date": "20211222",
@@ -1028,10 +957,10 @@
       "content": "부칙 <제2021-24호, 2021. 12. 22.>이 고시는 2021년 12월 31일부터 시행한다.",
       "provision_id": "admrul:특허료등의자동납부요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266348",
+      "source_mst": "2100000288058",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251030"
+      "version_enforcement_date": "20261111"
     },
     {
       "promulgation_date": "20241220",
@@ -1039,10 +968,10 @@
       "content": "부칙 <제2024-25호, 2024. 12. 20.>이 고시는 2024년 12월 20일부터 시행한다.",
       "provision_id": "admrul:특허료등의자동납부요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266348",
+      "source_mst": "2100000288058",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251030"
+      "version_enforcement_date": "20261111"
     },
     {
       "promulgation_date": "20251030",
@@ -1050,41 +979,84 @@
       "content": "부칙 <제4호, 2025. 10. 30.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:특허료등의자동납부요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266348",
+      "source_mst": "2100000288058",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251030"
+      "version_enforcement_date": "20261111"
+    },
+    {
+      "promulgation_date": "20261111",
+      "promulgation_no": "2026-21",
+      "content": "부칙 <제2026-21호, 2026. 11. 11.>이 고시는 2026년 11월 11일부터 시행한다.",
+      "provision_id": "admrul:특허료등의자동납부요령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000288058",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261111"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "제5조제3항에 따른 자동납부 신청 대상 금융기관",
+      "enforcement_date": "",
+      "content": "[별표 1] 제5조제3항에 따른 자동납부 신청 대상 금융기관\n1. 국민은행\n2. 기업은행\n3. 농협은행\n4. 신한은행\n5. 우리은행\n6. 하나은행",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288058&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171740927",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171740923",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171740927",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:특허료등의자동납부요령#BYL0001",
+      "filename": "별표1_제5조제3항에 따른 자동납부 신청 대상 금융기관.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_제5조제3항에 따른 자동납부 신청 대상 금융기관.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [
     {
-      "name": "(지식재산처고시 제4호) 특허료 등의 자동납부요령 개정안 전문.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157789209",
-      "filename": "(지식재산처고시 제4호) 특허료 등의 자동납부요령 개정안 전문.hwp",
+      "name": "(지식재산처 고시 2026-21호) 특허료 등의 자동납부요령 일부 개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171740579",
+      "filename": "(지식재산처 고시 2026-21호) 특허료 등의 자동납부요령 일부 개정 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(지식재산처고시 제4호) 특허료 등의 자동납부요령 개정안 전문.hwp",
+      "local_path": "첨부파일/(지식재산처 고시 2026-21호) 특허료 등의 자동납부요령 일부 개정 전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "(지식재산처고시 제4호) 특허료 등의 자동납부요령 개정안 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157789213",
-      "filename": "(지식재산처고시 제4호) 특허료 등의 자동납부요령 개정안 전문.pdf",
+      "name": "(지식재산처 고시 2026-21호) 특허료 등의 자동납부요령 일부 개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171740583",
+      "filename": "(지식재산처 고시 2026-21호) 특허료 등의 자동납부요령 일부 개정 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(지식재산처고시 제4호) 특허료 등의 자동납부요령 개정안 전문.pdf",
+      "local_path": "첨부파일/(지식재산처 고시 2026-21호) 특허료 등의 자동납부요령 일부 개정 전문.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 35,
+    "relations_total": 36,
     "by_category": {
       "법령": 24,
-      "행정규칙": 11
+      "행정규칙": 12
     },
     "by_relation_type": {
       "citation": 21,
-      "appendix_ref": 4,
+      "appendix_ref": 5,
       "internal_ref": 10
     },
     "articles_total": 11,
@@ -1092,8 +1064,8 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
-    "appendices_count": 0,
+    "addenda_count": 7,
+    "appendices_count": 1,
     "attachments_count": 2
   },
   "source": {
