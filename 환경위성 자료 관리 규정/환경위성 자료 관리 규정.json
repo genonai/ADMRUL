@@ -1,7 +1,7 @@
 {
   "law_id": "75333",
   "mst": "2100000288014",
-  "law_name": "환경위성 자료관리규정",
+  "law_name": "환경위성 자료 관리 규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
@@ -18,7 +18,7 @@
     "담당부서기관명": "국립환경과학원(환경위성센터)",
     "담당자명": "정재훈",
     "행정규칙종류코드": "B0002",
-    "행정규칙명": "환경위성 자료관리규정",
+    "행정규칙명": "환경위성 자료 관리 규정",
     "발령일자": "20261113",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
@@ -27,7 +27,7 @@
     "전화번호": "032-560-8443",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20261113",
+    "생성일자": "20261120",
     "행정규칙ID": "75333",
     "시행일자": "20261113",
     "담당부서기관코드": "1482308",
@@ -78,9 +78,7 @@
             "source_provision_id": "admrul:환경위성자료관리규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -100,9 +98,7 @@
             "source_provision_id": "admrul:환경위성자료관리규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -122,9 +118,7 @@
             "source_provision_id": "admrul:환경위성자료관리규정#JO0002",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
-            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -144,9 +138,7 @@
             "source_provision_id": "admrul:환경위성자료관리규정#JO0002",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
-            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
           }
         ],
         "images": [],
@@ -178,9 +170,7 @@
             "source_provision_id": "admrul:환경위성자료관리규정#JO0003",
             "reference_id": "law:우주개발진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우주개발 진흥법/법률/우주개발 진흥법.json",
-            "target_git_path": "우주개발 진흥법/법률/우주개발 진흥법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "우주개발 진흥법/법률/우주개발 진흥법.json"
           },
           {
             "relation_type": "citation",
@@ -218,30 +208,9 @@
             "target_url": "https://www.law.go.kr/행정규칙/천리안위성 공동운영규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:환경위성자료관리규정#JO0003",
-            "reference_id": "admrul:천리안위성공동운영규정:admrul_89986#DOC",
+            "reference_id": "admrul:천리안위성공동운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "천리안위성 공동운영규정/천리안위성 공동운영규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "천리안위성 공동운영규정/admrul_2040105/천리안위성 공동운영규정.json",
-                "source_repository": "ADMRUL",
-                "provision_id": "admrul:천리안위성공동운영규정:admrul_2040105#DOC",
-                "is_current": true,
-                "enforcement_date": "20210531"
-              },
-              {
-                "git_path": "천리안위성 공동운영규정/admrul_89986/천리안위성 공동운영규정.json",
-                "source_repository": "ADMRUL",
-                "provision_id": "admrul:천리안위성공동운영규정:admrul_89986#DOC",
-                "is_current": true,
-                "enforcement_date": "20250626"
-              }
-            ],
-            "target_git_path": "천리안위성 공동운영규정/admrul_89986/천리안위성 공동운영규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "천리안위성 공동운영규정/천리안위성 공동운영규정.json"
           },
           {
             "relation_type": "citation",
@@ -261,11 +230,7 @@
             "source_provision_id": "admrul:환경위성자료관리규정#JO0003",
             "reference_id": "admrul:환경위성센터운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 운영 규정/환경위성센터 운영 규정.json",
-            "target_git_path": "환경위성센터 운영 규정/환경위성센터 운영 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 운영 규정/환경위성센터 운영 규정.json"
           }
         ],
         "images": [],
@@ -342,7 +307,7 @@
             "source_clause": "제9조제2항",
             "link_text": "별지 제1호 서식",
             "line_text": "",
-            "target_law_name": "환경위성 자료관리규정",
+            "target_law_name": "환경위성 자료 관리 규정",
             "target_article_no": "별지1",
             "target_article_title": "환경위성 자료 이용 신청서",
             "appendix_no": "1",
@@ -351,18 +316,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "75333",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171363813",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171678439",
             "resolve_method": "html",
             "source_provision_id": "admrul:환경위성자료관리규정#JO0009",
             "target_unit": "BJ0001",
             "reference_id": "admrul:환경위성자료관리규정#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성 자료관리규정/환경위성 자료관리규정.json",
-            "target_git_path": "환경위성 자료관리규정/환경위성 자료관리규정.json",
-            "target_git_file_path": "환경위성 자료관리규정/별지/별지1_환경위성 자료 이용 신청서.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성 자료 관리 규정/환경위성 자료 관리 규정.json"
           }
         ],
         "images": [],
@@ -525,17 +485,17 @@
       "content": "[별지 제1호 서식]\n환경위성 자료 이용 신청서\n□ 사용자 정보\n┏━━━━━━━━━━┓\n┃□ 신청인 정보      ┃\n┠────┬┬───┬┨\n┃소속    ││성명  │┃\n┠────┼┼───┼┨\n┃전화번호││이메일│┃\n┠────┴┴───┴┨\n┃□ 이용 목적        ┃\n┠────┬─────┨\n┃내용    │          ┃\n┗━━━━┷━━━━━┛\n□ 자료 요구사항\n┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃기간            │○ 날짜 :      년    월    일  ∼      년    월    일까지 ┃\n┃                │○ 시간(UTC) : (예시) 전부(22∼07), 00∼05, 01, 02        ┃\n┠────────┼─────────────────────────────┨\n┃자료요청        │□ Level 1C(L1C)                                          ┃\n┃항목            │□ Level 2(L2): (예시) CLOUD, AERAOD, O3T, NO2            ┃\n┃                │□ Level 3(L3): (예시) NO-DAILY                           ┃\n┃                │□ Level 4(L4): (예시) PM10                               ┃\n┠────────┼─────────────────────────────┨\n┃자료요구        │□ 전산망*(SFTP)□ 전산매체(외장하드 등)□ 기타           ┃\n┃형태            │                                                          ┃\n┠────────┼─────┬───────────────────────┨\n┃*전산망         │신청계정명│                                              ┃\n┃(전산망 선택시  │          │※영문, 숫자 포함 20자 이내, 특수문자 제외    ┃\n┃계정정보 작성)  ├─────┼───────────────────────┨\n┃                │공인IP    │                                              ┃\n┃                │          │※SFTP 운영방식: 요청자의 공인IP(고정IP)를    ┃\n┃                │          │환경위성센터의 SFTP 서버에 접근허용하는 방식  ┃\n┗━━━━━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┛\n년      월      일\n신청인            (인)\n환경위성센터장 귀하\nApplication for Access to GEMS Data\n¨ Applicant’s Information\n┏━━━━━━━━━━┯┓\n┃Name                │┃\n┠──────────┼┨\n┃Affiliation         │┃\n┠──────────┼┨\n┃Country of data use │┃\n┠──────────┼┨\n┃E-mail address      │┃\n┠──────────┼┨\n┃Purpose of Use      │┃\n┗━━━━━━━━━━┷┛\n¨ Data requirements\n┏━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃Period            │¡ Date (yyyy/mm/dd-yyyy/mm/dd):                                          ┃\n┃                  │¡ Time (UTC): (Example) All (22-07), 00-05, 01, 02                       ┃\n┠─────────┼─────────────────────────────────────┨\n┃Requested Products│¨ Level 1C (L1C)                                                         ┃\n┃                  │¨ Level 2 (L2): (Example) CLOUD, AERAOD, O3T, NO2                        ┃\n┃                  │¨ Level 3 (L3): (Example) NO2-DAILY                                      ┃\n┃                  │¨ Level 4 (L4): (Example) PM10                                           ┃\n┠─────────┼─────────────────────────────────────┨\n┃Data Transfer     │¨ Network transfer (SFTPO)                                              ┃\n┃Method            │¨ External storage device (e.g., portable hard drive)                    ┃\n┃                  │¨ Other:                                                                 ┃\n┃                  │                                                                          ┃\n┃                  │O Network (If you chose Network, please fill in the information          ┃\n┃                  │below.)                                                                   ┃\n┃                  │u Account Name:  20 characters or fewer, without special                  ┃\n┃                  │characters                                                                ┃\n┃                  │u IP Address: Public IP address only                                      ┃\n┃                  │                                                                          ┃\n┃                  │※ SFTP access: The applicant’s public (static) IP will be authorized to ┃\n┃                  │access the Environmental Satellite Center’s SFTP server.                 ┃\n┗━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\nyyyy/mm/dd\n━━━━━━━━━━━━━━━━━━\nDate          Name    Signature\n\nTo the Director of the Environmental Satellite Center (ESC)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171363813",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171678439",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171363807",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171678433",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171363813",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171678439",
           "name": "",
           "file_store_url": ""
         }
@@ -579,7 +539,7 @@
     "attachments_count": 1
   },
   "source": {
-    "source_url": "https://www.law.go.kr/행정규칙/환경위성 자료관리규정"
+    "source_url": "https://www.law.go.kr/행정규칙/환경위성 자료 관리 규정"
   },
   "provision_id": "admrul:환경위성자료관리규정#DOC",
   "addendum_provision_id": "admrul:환경위성자료관리규정#ADDENDUM",
@@ -588,5 +548,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "환경위성 자료관리규정/환경위성 자료관리규정.json"
+  "git_path": "환경위성 자료 관리 규정/환경위성 자료 관리 규정.json"
 }
