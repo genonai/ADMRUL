@@ -1,16 +1,16 @@
 {
   "law_id": "79597",
-  "mst": "2100000268882",
+  "mst": "2100000288012",
   "law_name": "환경위성센터 주요정보통신기반시설 보호지침",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:79597",
-  "promulgation_no": "898",
-  "promulgation_date": "20251121",
-  "enforcement_date": "20251121",
-  "revision_date": "20251121",
+  "promulgation_no": "923",
+  "promulgation_date": "20261113",
+  "enforcement_date": "20261113",
+  "revision_date": "20261113",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "정재훈",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "환경위성센터 주요정보통신기반시설 보호지침",
-    "발령일자": "20251121",
+    "발령일자": "20261113",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "032-560-8438",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20251128",
+    "생성일자": "20261113",
     "행정규칙ID": "79597",
-    "시행일자": "20251121",
+    "시행일자": "20261113",
     "담당부서기관코드": "1482308",
-    "발령번호": "898",
-    "행정규칙일련번호": "2100000268882",
+    "발령번호": "923",
+    "행정규칙일련번호": "2100000288012",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n상위기관에서 정의하는 주요정보통신기반시설 보호지침이 개정되었고, 그에 따른 환경위성센터의 주요정보통신기반시설을 적절히 보호하기 위하여 교육, 취약점 분석평가 등의 사항을 반영하여 규정 개정\n\n◇ 주요내용\n가. 정보시스템 보호를 위한 담당자의 교육훈련에 관한 사항 신설\n\n나. 상위기관의 취약점 분석평가 제출, 보호업무 위탁지침, 취약점관리 지침 반영\n\n다. 정부 조직 개편에 의한 부처명 수정",
+  "revision_reason": "◇ 제ㆍ개정 이유\n상위기관 지침(기후에너지환경부 소관 주요정보통신기반시설 보호지침)의 개정 사항 반영\n◇ 주요내용\n가. 상위기관 지침의 개정 사항 반영\n- 기후에너지환경부 소관 주요정보통신기반시설 보호지침의 제5조의 정보보호책임자 업무 추가 내용 반영 및 제11조 제1항 사이버보안 전담인력의 교육ㆍ훈련 이수 부분 반영\n- 기후에너지환경부 소관 주요정보통신기반시설 보호지침의 주요정보통신기반시설 보호대책 이행여부 확인 해설서 고려 부분을 환경위성센터의 보호대책 이행 지침에 반영\n- 기후에너지환경부 소관 주요정보통신기반시설 보호지침의 로그자료 보관 및 백업체계 구축 관련 지침을 반영 및 침해사고 예방ㆍ대응 및 복구를 위한 상호협력 및 지원 부분 반영",
   "body": {
     "format": "articles",
     "article_count": 23,
@@ -67,11 +67,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0001",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -103,9 +99,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0002",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
-            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -125,9 +119,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0002",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
-            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
           }
         ],
         "images": [],
@@ -149,7 +141,7 @@
         "article_title": "정보보호책임자",
         "chapter": "제2장 정보보호체계 및 관리",
         "chapter_path": "제2장 정보보호체계 및 관리",
-        "content": "제4조(정보보호책임자) ① 「기후에너지환경부 소관 주요정보통신기반시설 보호지침」 제5조제1항에 따라 국립환경과학원 소관 주요정보통신기반시설 \"정지궤도환경위성 지상국시스템\"의 정보보호책임자는 기후에너지환경부 국립환경과학원 대기환경연구부 환경위성센터장으로 한다.② 「기후에너지환경부 소관 주요정보통신기반시설 보호지침」 제5조제2항의 규정에 따라 정보보호책임자는 다음 각 호의 업무를 수행한다.1. 주요정보통신기반시설의 보호대책 수립ㆍ시행2. 주요정보통신기반시설 보호업무에 대한 기술적 지원 요청3. 취약점 분석ㆍ평가 및 침해사고 예방에 관한 업무4. 취약점 분석ㆍ평가 및 전담반 구성5. 주요정보통신기반시설의 보호에 필요한 조치 명령 및 권고의 이행6. 침해사고의 통지7. 주요정보통신기반시설의 복구 및 보호에 필요한 조치8. 기타 주요정보통신기반시설의 보호업무에 관한 사항",
+        "content": "제4조(정보보호책임자) ① 「기후에너지환경부 소관 주요정보통신기반시설 보호지침」 제5조제1항에 따라 국립환경과학원 소관 주요정보통신기반시설 \"정지궤도환경위성 지상국시스템\"의 정보보호책임자는 기후에너지환경부 국립환경과학원 대기환경연구부 환경위성센터장으로 한다.② ① 항에 따른 정보보호책임자는 다음 각 호의 업무를 수행한다.1. 주요정보통신기반시설의 보호대책 수립ㆍ시행2. 주요정보통신기반시설 보호업무에 대한 기술적 지원 요청3. 취약점 분석ㆍ평가 및 침해사고 예방에 관한 업무4. 취약점 분석ㆍ평가 및 전담반 구성4의2. 주요정보통신기반시설 보호지침 준수 명령의 이행5. 주요정보통신기반시설의 보호에 필요한 조치 명령 및 권고의 이행6. 침해사고의 통지7. 주요정보통신기반시설의 복구 및 보호에 필요한 조치8. 기타 주요정보통신기반시설의 보호업무에 관한 사항",
         "enforcement_date": "",
         "relations": [
           {
@@ -170,11 +162,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0004",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -194,59 +182,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0004",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제2항",
-            "link_text": "「기후에너지환경부 소관 주요정보통신기반시설 보호지침」",
-            "line_text": "",
-            "target_law_name": "기후에너지환경부 소관 주요정보통신기반시설 보호지침",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "79597",
-            "target_url": "https://www.law.go.kr/행정규칙/기후에너지환경부 소관 주요정보통신기반시설 보호지침",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0004",
-            "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제2항",
-            "link_text": "제5조제2항",
-            "line_text": "",
-            "target_law_name": "기후에너지환경부 소관 주요정보통신기반시설 보호지침",
-            "target_article_no": "제5조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "79597",
-            "target_url": "https://www.law.go.kr/행정규칙/기후에너지환경부 소관 주요정보통신기반시설 보호지침/제5조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0004",
-            "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0005",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -278,11 +214,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0005",
             "reference_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "internal_ref",
@@ -302,11 +234,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0005",
             "reference_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -338,11 +266,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0006",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -362,11 +286,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0006",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -377,7 +297,7 @@
         "article_title": "정보보호 교육ㆍ훈련",
         "chapter": "제2장 정보보호체계 및 관리",
         "chapter_path": "제2장 정보보호체계 및 관리",
-        "content": "제7조(정보보호 교육ㆍ훈련) ① 정보보안에 대한 경각심 및 인식 제고를 위하여 환경위성센터 업무종사자는 특별한 사유가 없는 경우에는 국립환경과학원의 연간 정보보안 교육 계획에 따른 교육을 연 1회 이상 이수하여야 한다. 단, \"지상국시스템\"의 보호에 관한 중요한 절차 및 방법 등의 변경이 있거나 신규로 직원을 채용한 때에는 지체 없이 필요한 교육ㆍ훈련을 실사하여야 한다.② 정보보호책임자는 정보보호담당자의 업무 전문성을 제고하고, 소속 공무원 등의 정보보안 지식을 함양하기 위하여 전문기관의 교육 이수나 학술회의 참가 등을 장려하여야 한다.③ 정보보호책임자는 1항에 따른 교육ㆍ훈련을 실시하기 위하여 다음 각 호의 사항을 정하여야 한다.1. 교육ㆍ훈련의 내용 및 방법2. 교육ㆍ훈련에 관한 기록유지 및 인사관리에 관한 사항3. 그 밖에 교육ㆍ훈련을 위하여 필요한 사항",
+        "content": "제7조(정보보호 교육ㆍ훈련) ① 정보보안에 대한 경각심 및 인식 제고를 위하여 환경위성센터 업무종사자는 특별한 사유가 없는 경우에는 국립환경과학원의 연간 정보보안 교육 계획에 따른 교육을 연 1회 이상 이수하여야 한다. 단, \"지상국시스템\"의 보호에 관한 중요한 절차 및 방법 등의 변경이 있거나 신규로 직원을 채용한 때에는 지체 없이 필요한 교육ㆍ훈련을 실시하여야 한다.② 정보보호책임자는 정보보호담당자의 업무 전문성을 제고하고, 소속 공무원 등의 정보보안 지식을 함양하기 위하여 전문기관의 교육 이수나 학술회의 참가 등을 장려하여야 한다.③ 정보보호책임자는 제1항에 따른 교육ㆍ훈련을 실시하기 위하여 다음 각 호의 사항을 정하여야 한다.1. 교육ㆍ훈련의 내용 및 방법2. 교육ㆍ훈련에 관한 기록유지 및 인사관리에 관한 사항3. 그 밖에 교육ㆍ훈련을 위하여 필요한 사항④ 주요정보통신기반시설 정보보안담당자는 해당 시설의 보호를 위하여 필요한 교육ㆍ훈련을 이수하되 담당자 중 1인은 연간 40시간 이상 이수하도록 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -409,9 +329,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "reference_id": "law:정보통신기반보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -431,9 +349,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "reference_id": "law:정보통신기반보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -453,9 +369,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "reference_id": "law:정보통신기반보호법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -475,9 +389,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "reference_id": "law:정보통신기반보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -497,11 +409,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -521,11 +429,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -545,11 +449,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -560,7 +460,7 @@
         "article_title": "보호대책 이행",
         "chapter": "제3장 정보보호대책 수립ㆍ이행",
         "chapter_path": "제3장 정보보호대책 수립ㆍ이행",
-        "content": "제9조(보호대책 이행) 정보보호책임자는 「기후에너지환경부 소관 주요정보통신기반시설 보호지침」 제13조제1항에 의해 기후에너지환경부로부터 통보받은 보호계획과 제8조제1항에 따라 수립한 보호대책을 이행하여야 한다.",
+        "content": "제9조(보호대책 이행) 정보보호책임자는 「기후에너지환경부 소관 주요정보통신기반시설 보호지침」 제13조제1항에 의해 기후에너지환경부로부터 통보받은 보호계획과 제8조제1항에 따라 수립한 보호대책을 이행하여야 한다. 이 경우 분야별 주요정보통신기반시설 보호대책 이행여부 확인 해설서를 참고해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -581,11 +481,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0009",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -605,11 +501,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0009",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "internal_ref",
@@ -629,11 +521,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0009",
             "reference_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -665,11 +553,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0010",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -689,11 +573,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0010",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -725,11 +605,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -749,11 +625,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -773,9 +645,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "reference_id": "law:정보통신기반보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -795,9 +665,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "reference_id": "law:정보통신기반보호법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -817,9 +685,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "reference_id": "law:정보통신기반보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -839,9 +705,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "reference_id": "law:정보보호산업의진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
-            "target_git_path": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -861,9 +725,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "reference_id": "law:정보보호산업의진흥에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
-            "target_git_path": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보보호산업의 진흥에 관한 법률/법률/정보보호산업의 진흥에 관한 법률.json"
           }
         ],
         "images": [],
@@ -895,11 +757,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0012",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -919,11 +777,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0012",
             "reference_id": "admrul:기후에너지환경부소관주요정보통신기반시설보호지침#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기후에너지환경부 소관 주요정보통신기반시설 보호지침/기후에너지환경부 소관 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "citation",
@@ -943,9 +797,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0012",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -965,9 +817,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0012",
             "reference_id": "law:정보통신기반보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
           }
         ],
         "images": [],
@@ -999,11 +849,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0013",
             "reference_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1023,11 +869,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0013",
             "reference_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -1038,7 +880,7 @@
         "article_title": "정보통신망 보안관리",
         "chapter": "제4장 침해사고 예방 및 대응",
         "chapter_path": "제4장 침해사고 예방 및 대응",
-        "content": "제14조(정보통신망 보안관리) ① 정보보호책임자는 \"지상국시스템\" 보호를 위하여 타 정보통신망과 분리ㆍ운영, 인터넷 연결이 차단된 관리자PC를 통한 시스템 관리기능 접속, 비인가 단말기 접속차단 등의 기술적 통제수단을 강구하여야 한다.② 정보보호책임자는 \"지상국시스템\" 관련 서버, 단말기, 네트워크 장비 등에 불필요한 서비스ㆍ사용자 계정 등은 제거하고 유지보수를 위한 외부업체의 원격관리를 금지하여야 한다.③ 정보보호책임자는 \"지상국시스템\" 보호를 위하여 시스템별 사용자접근, 사용내역 등의 로그 자료를 12개월 이상 보관하는 등 기록을 유지하여야 한다.",
+        "content": "제14조(정보통신망 보안관리) ① 정보보호책임자는 \"지상국시스템\" 보호를 위하여 타 정보통신망과 분리ㆍ운영, 인터넷 연결이 차단된 관리자PC를 통한 시스템 관리기능 접속, 비인가 단말기 접속차단 등의 기술적 통제수단을 강구하여야 한다.② 정보보호책임자는 \"지상국시스템\" 관련 서버, 단말기, 네트워크 장비 등에 불필요한 서비스ㆍ사용자 계정 등은 제거하고 유지보수를 위한 외부업체의 원격관리를 금지하여야 한다.③ 정보보호책임자는 \"지상국시스템\" 보호를 위하여 시스템별 사용자접근, 사용내역 등의 로그 자료를 1년 이상 보관하여야 하며, 로그기록의 유출을 방지하기 위한 백업체계를 구축하는 등 대책을 마련하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1092,9 +934,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0017",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1114,9 +954,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0017",
             "reference_id": "law:정보통신기반보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
           }
         ],
         "images": [],
@@ -1149,7 +987,7 @@
         "article_title": "대응ㆍ복구훈련의 실시",
         "chapter": "제4장 침해사고 예방 및 대응",
         "chapter_path": "제4장 침해사고 예방 및 대응",
-        "content": "제20조(대응ㆍ복구훈련의 실시) ① 정보보호책임자는 환경위성센터 업무종사자가 제18조제3항 및 제19조제3항에 따른 침해사고 대응ㆍ복구에 관한 절차 및 방법을 정확히 숙지할 수 있도록 필요한 훈련을 정기적으로 실시하여야 한다.② 정보보호책임자는 대응ㆍ복구훈련을 실시한 결과 미비점이 발견된 경우, 해당되는 대응ㆍ복구 절차 및 방법을 수정ㆍ보완하여야 한다.",
+        "content": "제20조(대응ㆍ복구훈련의 실시) ① 정보보호책임자는 환경위성센터 업무종사자가 제18조제3항 및 제19조제3항에 따른 침해사고 대응ㆍ복구에 관한 절차 및 방법을 정확히 숙지할 수 있도록 필요한 훈련을 정기적으로 실시하여야 한다. 이 경우 정보보호책임자가 필요하다고 인정하는 때에는 다른 관리기관과 공동으로 훈련을 실시할 수 있다.② 정보보호책임자는 대응ㆍ복구훈련을 실시한 결과 미비점이 발견된 경우, 해당되는 대응ㆍ복구 절차 및 방법을 수정ㆍ보완하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1170,11 +1008,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0020",
             "reference_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1194,11 +1028,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0020",
             "reference_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_git_path": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "환경위성센터 주요정보통신기반시설 보호지침/환경위성센터 주요정보통신기반시설 보호지침.json"
           }
         ],
         "images": [],
@@ -1272,7 +1102,7 @@
         "article_title": "재검토기한",
         "chapter": "제4장 침해사고 예방 및 대응",
         "chapter_path": "제4장 침해사고 예방 및 대응",
-        "content": "제23조(재검토기한) 국립환경과학원장은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제23조(재검토기한) 국립환경과학원장은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1293,11 +1123,7 @@
             "source_provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#JO0023",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
@@ -1312,10 +1138,10 @@
       "content": "부칙 <제820호, 2021. 11. 5.>제1조(시행일) 이 지침은 발령한 날부터 시행한다.",
       "provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000268882",
+      "source_mst": "2100000288012",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251121"
+      "version_enforcement_date": "20261113"
     },
     {
       "promulgation_date": "20250224",
@@ -1323,40 +1149,51 @@
       "content": "부칙 <제885호, 2025. 2. 24.>제1조(시행일) 이 예규는 2025년 2월 25일부터 시행한다.",
       "provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000268882",
+      "source_mst": "2100000288012",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251121"
+      "version_enforcement_date": "20261113"
+    },
+    {
+      "promulgation_date": "20261113",
+      "promulgation_no": "923",
+      "content": "부칙 <제923호, 2026. 11. 13.>제1조(시행일) 이 예규는 2026년 11월 13일부터 시행한다.",
+      "provision_id": "admrul:환경위성센터주요정보통신기반시설보호지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000288012",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261113"
     }
   ],
   "appendices": [],
   "attachments": [
     {
-      "name": "환경위성센터 주요정보통신기반시설 보호지침(국립환경과학원 예규 898호¸ 개정 전문).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=158659491",
-      "filename": "환경위성센터 주요정보통신기반시설 보호지침(국립환경과학원 예규 898호¸ 개정 전문).hwpx",
+      "name": "붙임1. 환경위성센터 주요정보통신기반시설 보호지침(예규)_개정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171363911",
+      "filename": "붙임1. 환경위성센터 주요정보통신기반시설 보호지침(예규)_개정안.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/환경위성센터 주요정보통신기반시설 보호지침(국립환경과학원 예규 898호¸ 개정 전문).hwpx",
+      "local_path": "첨부파일/붙임1. 환경위성센터 주요정보통신기반시설 보호지침(예규)_개정안.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "환경위성센터 주요정보통신기반시설 보호지침(국립환경과학원 예규 898호¸ 개정 전문).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=158659495",
-      "filename": "환경위성센터 주요정보통신기반시설 보호지침(국립환경과학원 예규 898호¸ 개정 전문).pdf",
+      "name": "붙임1. 환경위성센터 주요정보통신기반시설 보호지침(예규)_개정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171363915",
+      "filename": "붙임1. 환경위성센터 주요정보통신기반시설 보호지침(예규)_개정안.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/환경위성센터 주요정보통신기반시설 보호지침(국립환경과학원 예규 898호¸ 개정 전문).pdf",
+      "local_path": "첨부파일/붙임1. 환경위성센터 주요정보통신기반시설 보호지침(예규)_개정안.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 43,
+    "relations_total": 41,
     "by_category": {
-      "행정규칙": 28,
+      "행정규칙": 26,
       "법령": 15
     },
     "by_relation_type": {
-      "citation": 36,
+      "citation": 34,
       "internal_ref": 7
     },
     "articles_total": 23,
@@ -1364,7 +1201,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0,
     "attachments_count": 2
   },
