@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0001",
             "reference_id": "law:국방정보화기반조성및국방정보자원관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json"
+            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_git_path": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0001",
             "reference_id": "law:국방정보화기반조성및국방정보자원관리에관한법률#JO0021_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json"
+            "target_git_path_guess": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_git_path": "국방정보화 기반조성 및 국방정보자원관리에 관한 법률/법률/국방정보화 기반조성 및 국방정보자원관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0002",
             "reference_id": "admrul:국방정보화업무훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 정보화업무 훈령/국방 정보화업무 훈령.json"
+            "target_git_path_guess": "국방 정보화업무 훈령/국방 정보화업무 훈령.json",
+            "target_git_path": "국방 정보화업무 훈령/국방 정보화업무 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -139,7 +147,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0002",
             "reference_id": "admrul:국방정보화업무훈령#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 정보화업무 훈령/국방 정보화업무 훈령.json"
+            "target_git_path_guess": "국방 정보화업무 훈령/국방 정보화업무 훈령.json",
+            "target_git_path": "국방 정보화업무 훈령/국방 정보화업무 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -159,7 +171,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0002",
             "reference_id": "admrul:국방전력발전업무훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -184,7 +200,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:국방전력발전업무훈령#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_file_path": "국방전력발전업무훈령/별표/별표4_무기체계 세부분류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -204,7 +225,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0002",
             "reference_id": "admrul:국방전력발전업무훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -229,7 +254,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:국방전력발전업무훈령#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_file_path": "국방전력발전업무훈령/별표/별표5_전력지원체계 세부분류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -249,7 +279,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0002",
             "reference_id": "admrul:국방전력발전업무훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -269,7 +303,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0002",
             "reference_id": "admrul:국방전력발전업무훈령#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -323,7 +361,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0005",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -399,7 +441,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0010",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -431,7 +477,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0011",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -451,7 +501,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0011",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -609,7 +663,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국방사이버보안위험관리지시#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -629,7 +688,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0023",
             "reference_id": "admrul:국방전력발전업무훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -654,7 +717,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:국방전력발전업무훈령#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_file_path": "국방전력발전업무훈령/별표/별표4_무기체계 세부분류.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -679,7 +747,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지1_시스템 보안분류 결과서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -711,7 +784,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0024",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -731,7 +808,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0024",
             "reference_id": "admrul:국방전력발전업무훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -751,7 +832,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0024",
             "reference_id": "admrul:국방전력발전업무훈령#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -794,7 +879,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0026",
             "reference_id": "admrul:국방사이버보안위험관리지시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -814,7 +903,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0026",
             "reference_id": "admrul:국방사이버보안위험관리지시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -851,7 +944,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -876,7 +974,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -908,7 +1011,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0028",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -951,7 +1058,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0030",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0029",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -976,7 +1087,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지3_보안평가 계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -996,7 +1112,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0030",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1016,7 +1136,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0030",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1036,7 +1160,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0030",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1056,7 +1184,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0030",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1088,7 +1220,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0031",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0030",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1113,7 +1249,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지4_후속조치 계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1145,7 +1286,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0032",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0031",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1170,7 +1315,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지5_운용인가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1190,7 +1340,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0032",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1215,7 +1369,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:국방사이버보안위험관리지시#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표2_인가 등급별 기간.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1247,7 +1406,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0033",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0032",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1279,7 +1442,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0034",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1311,7 +1478,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0035",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0030",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1331,7 +1502,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0035",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0032",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1356,7 +1531,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국방사이버보안위험관리지시#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1404,7 +1584,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국방사이버보안위험관리지시#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1429,7 +1614,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지1_시스템 보안분류 결과서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1461,7 +1651,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0038",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0037",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1504,7 +1698,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0040",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0041",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1536,7 +1734,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0041",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0040",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1561,7 +1763,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1581,7 +1788,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0041",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0040",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1606,7 +1817,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지2_보안계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1638,7 +1854,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0042",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0041",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1670,7 +1890,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0043",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0042",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1695,7 +1919,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지3_보안평가 계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1715,7 +1944,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0043",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1735,7 +1968,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0043",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0041",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1755,7 +1992,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0043",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1787,7 +2028,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0044",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0043",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1812,7 +2057,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지4_후속조치 계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1844,7 +2094,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0045",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0044",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1869,7 +2123,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:국방사이버보안위험관리지시#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별지/별지5_운용인가서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1889,7 +2148,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0045",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1914,7 +2177,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:국방사이버보안위험관리지시#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표2_인가 등급별 기간.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1946,7 +2214,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0046",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1978,7 +2250,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0047",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0043",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1998,7 +2274,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0047",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0045",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2023,7 +2303,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:국방사이버보안위험관리지시#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_file_path": "국방 사이버보안 위험관리 지시/별표/별표1_시스템 보안분류 기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2066,7 +2351,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0049",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2086,7 +2375,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0049",
             "reference_id": "admrul:국방전력발전업무훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json"
+            "target_git_path_guess": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_git_path": "국방전력발전업무훈령/국방전력발전업무훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2106,7 +2399,11 @@
             "source_provision_id": "admrul:국방사이버보안위험관리지시#JO0049",
             "reference_id": "admrul:국방사이버보안위험관리지시#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json"
+            "target_git_path_guess": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_git_path": "국방 사이버보안 위험관리 지시/국방 사이버보안 위험관리 지시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
