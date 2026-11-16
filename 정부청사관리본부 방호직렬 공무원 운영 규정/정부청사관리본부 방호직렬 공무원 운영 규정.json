@@ -78,7 +78,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0002",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -141,7 +145,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0004",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -173,7 +179,11 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0005",
             "reference_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정부청사관리본부 방호직렬 공무원 운영 규정/정부청사관리본부 방호직렬 공무원 운영 규정.json"
+            "target_git_path_guess": "정부청사관리본부 방호직렬 공무원 운영 규정/정부청사관리본부 방호직렬 공무원 운영 규정.json",
+            "target_git_path": "정부청사관리본부 방호직렬 공무원 운영 규정/정부청사관리본부 방호직렬 공무원 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -193,7 +203,11 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0005",
             "reference_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정부청사관리본부 방호직렬 공무원 운영 규정/정부청사관리본부 방호직렬 공무원 운영 규정.json"
+            "target_git_path_guess": "정부청사관리본부 방호직렬 공무원 운영 규정/정부청사관리본부 방호직렬 공무원 운영 규정.json",
+            "target_git_path": "정부청사관리본부 방호직렬 공무원 운영 규정/정부청사관리본부 방호직렬 공무원 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -236,7 +250,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0007",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -256,7 +272,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0007",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -286,9 +304,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/공무원 성과평가 등에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0008",
-            "reference_id": "admrul:공무원성과평가등에관한규정#DOC",
+            "reference_id": "law:공무원성과평가등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json"
+            "target_git_path_guess": "공무원 성과평가 등에 관한 규정/공무원 성과평가 등에 관한 규정.json",
+            "target_git_path": "공무원 성과평가 등에 관한 규정/법률/공무원 성과평가 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -308,7 +328,11 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0008",
             "reference_id": "admrul:행정안전부인사관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json"
+            "target_git_path_guess": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_git_path": "행정안전부 인사관리규정/행정안전부 인사관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -340,7 +364,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0009",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -392,7 +418,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0010",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -424,7 +452,9 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0011",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -444,7 +474,11 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0011",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -476,7 +510,11 @@
             "source_provision_id": "admrul:정부청사관리본부방호직렬공무원운영규정#JO0012",
             "reference_id": "admrul:정부청사방호인력교육훈련지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정부청사 방호인력 교육ㆍ훈련지침/정부청사 방호인력 교육ㆍ훈련지침.json"
+            "target_git_path_guess": "정부청사 방호인력 교육ㆍ훈련지침/정부청사 방호인력 교육ㆍ훈련지침.json",
+            "target_git_path": "정부청사 방호인력 교육훈련지침/정부청사 방호인력 교육훈련지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
