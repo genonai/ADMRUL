@@ -309,6 +309,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260614"
+    },
+    {
+      "promulgation_date": "20261110",
+      "promulgation_no": "322",
+      "content": "부칙 <제322호, 2026. 11. 10.>개정 지침은 2026년 공관장 성과평가부터 적용된다. 단, 공관장 역점과제 평가는 2026년 평가시 시범적으로 실시하고, 총점에 대한 가점 또는 감점의 부여는 2027년 공관장 성과평가부터 적용한다.",
+      "provision_id": "admrul:재외공관장통합성과평가지침#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000288062",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261116",
+      "enforcement_date": "20261116"
     }
   ],
   "appendices": [],
@@ -355,8 +367,10 @@
   "addendum_provision_id": "admrul:재외공관장통합성과평가지침#ADDENDUM",
   "amendment_provision_id": "admrul:재외공관장통합성과평가지침#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261116"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "재외공관장 통합성과평가 지침/재외공관장 통합성과평가 지침.json"
 }
