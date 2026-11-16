@@ -72,7 +72,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:마산지방해양수산청등대해양문화공간운영규정#JO0003"
+        "provision_id": "admrul:마산지방해양수산청등대해양문화공간운영규정#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261116",
+            "change": "개정",
+            "content": "제3조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"청장\"이란 마산지방해양수산청장을 말한다.2. \"과장\"이란 마산지방해양수산청 항행정보시설과장을 말한다.3. \"소장\"이란 소매물도항로표지관리소장을 말한다.4. \"등대해양문화공간\"이란 소매물도등대의 전망대 및 진입로 등을 말한다."
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -242,7 +249,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:마산지방해양수산청등대해양문화공간운영규정#JO0011"
+        "provision_id": "admrul:마산지방해양수산청등대해양문화공간운영규정#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20261116",
+            "change": "개정",
+            "content": "제11조(재검토기한) 청장은 이 예규에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다."
+          }
+        ]
       }
     ]
   },
@@ -315,8 +329,10 @@
   "addendum_provision_id": "admrul:마산지방해양수산청등대해양문화공간운영규정#ADDENDUM",
   "amendment_provision_id": "admrul:마산지방해양수산청등대해양문화공간운영규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261116"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "마산지방해양수산청 등대해양문화공간 운영규정/마산지방해양수산청 등대해양문화공간 운영규정.json"
 }
