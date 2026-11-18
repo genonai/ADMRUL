@@ -1,25 +1,25 @@
 {
   "law_id": "84361",
-  "mst": "2100000274152",
+  "mst": "2100000288188",
   "law_name": "아프리카돼지열병 방역실시요령",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:84361",
-  "promulgation_no": "2026-23",
-  "promulgation_date": "20260202",
-  "enforcement_date": "20260202",
-  "revision_date": "20260202",
+  "promulgation_no": "2026-107",
+  "promulgation_date": "20261112",
+  "enforcement_date": "20261118",
+  "revision_date": "20261112",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "농림축산식품부(구제역방역과)",
-    "담당자명": "손지현",
+    "담당자명": "제창욱",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "아프리카돼지열병 방역실시요령",
-    "발령일자": "20260202",
+    "발령일자": "20261112",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-201-2538",
     "제개정구분명": "일부개정",
     "소관부처코드": "1543000",
-    "생성일자": "20260203",
+    "생성일자": "20261118",
     "행정규칙ID": "84361",
-    "시행일자": "20260202",
+    "시행일자": "20261118",
     "담당부서기관코드": "1543405",
-    "발령번호": "2026-23",
-    "행정규칙일련번호": "2100000274152",
+    "발령번호": "2026-107",
+    "행정규칙일련번호": "2100000288188",
     "상위부처명": "농림축산식품부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○「정부조직법」개정(법률 제21065호, 2025.10.1.)에 따라, 법령 개정 사항을 반영하여 부처명칭 등을 변경하는 등 농림축산식품부 소관 행정규칙(훈령ㆍ예규ㆍ고시)을 정비\n◇ 제ㆍ개정 내용\n○ 법령 개정 사항을 반영하여 부처명칭 등 변경\n- 훈령 : 「농림사업정책자금 이차보전규정」 등 19건\n[그림]\n[그림]\n\n- 예규 : 「인수공통전염병(감염병) 대책위원회 운영규정」 1건\n[그림]\n\n- 고시 : 「간척지 임시사용에 관한 지침」 등 14건\n[그림][그림]\n",
+  "revision_reason": "◇ 개정 이유\n○ 아프리카돼지열병(ASF) 발생 예방 및 확산 방지를 위하여 역학조사 및 방역지역 전환 기준일을 세계동물보건기구(WOAH)의 기준을 준용하고, 예찰지역을 탄력적으로 운영할 수 있도록 개편하는 한편, 정밀검사 시료를 폐사체, 퇴비 등으로 전환하여 방역조치를 효율적으로 운영하고자 함\n◇ 주요 개정내용\n○ (방역지역) 예찰지역을 ASF 위험도에 따라 지방 가축방역심의회 등을 통해 탄력적으로 운영ㆍ조정할 수 있도록 개선(안 제2조)\n○ (역학조사ㆍ이동제한) ASF 발생 시 역학조사 기간을 WOAH의 ASF 최대 잠복기 기준을 감안하여 축소하고, 차량 등에 대한 환경검사 검사 이상이 없는 경우 이동제한을 해제할 수 있도록 조정(안 제19조제3항, 별표3)\n○ (방역지역 전환) 관리ㆍ보호지역의 예찰지역으로 전환할 수 있는 시점을 WOAH의 ASF 최대 잠복기 기준을 감안하여 조정(안 제23조제1항)\n○ (가축처분) 발생농장에서 공급한 가축을 사육한 농장에 대해 살처분을 조건부로 유예할 수 있는 조건 신설(안 별표3)\n○ (검사시료) ASF 정밀검사 시료를 기존 혈액에서 폐사체, 퇴비 및 혈액 저장소를 전환(추가)하여 현장 방역조치 효율화(안 별표3)\n○ (재입식 절차) 발생농장에 대한 정의 명확화 및 예방적 살처분 농장 중 ASF 바이러스 미검출 농장에 대한 재입식 점검 기준 완화(안 제32조제1항)\n○ (통제초소 설치) 지방정부 판단 하에 주요도로에 통제초소를 설치할 수 있도록 기준 완화(안 별표7)\n○ (용어 정비) 권위적 용어, 가축방역관 기술지원을 위한 용어, 지방정부 및 도축장 종사자 용어을 정비하고, 방역상 전파 위험도 판단을 위한 절차 명확화(안 제6조제2항, 제12조제1항, 제30조1항, 별표3, 별표7)",
   "body": {
     "format": "articles",
     "article_count": 33,
@@ -67,9 +67,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0001",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -89,9 +87,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0001",
             "reference_id": "law:가축전염병예방법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -102,7 +98,7 @@
         "article_title": "정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(정의) 이 요령에서 사용하는 용어의 뜻은 다음과 같다.1. \"환축\"이란 농림축산검역본부(이하 \"검역본부\"라 한다) 또는 특별시ㆍ광역시ㆍ특별자치시ㆍ특별자치도 또는 도에 소속되어 가축방역업무를 수행하는 기관(이하 \"시ㆍ도 가축방역기관\"이라 한다)으로서 농림축산검역본부장(이하 \"검역본부장\"이라 한다)으로부터 지정받은 아프리카돼지열병 정밀진단기관(이하 \"시ㆍ도 아프리카돼지열병 정밀진단기관\"이라 한다)의 정밀검사에서 아프리카돼지열병에 걸린 것으로 확인된 가축을 말하며, \"의사환축\"이란 검역본부 또는 시ㆍ도 가축방역기관 소속 가축방역관이 임상검사 등을 실시한 결과 아프리카돼지열병에 걸렸다고 믿을 만한 상당한 이유가 있다고 판단한 가축을 말하며, \"의심축\"이란 가축의 소유자 또는 관리자, 축산 관련 종사자 등이 아프리카돼지열병으로 의심하여 신고한 가축으로 검역본부 또는 시ㆍ도 가축방역기관의 가축방역관이 검사하기 전의 가축을 말한다.2. \"발생농장\"이란 의심축, 의사환축 또는 환축이 발생한 가축의 사육시설(이하 \"축사\"라 한다)이 있는 농장을 말하고, \"발생지역\"이란 발생농장이 소재한 시ㆍ군ㆍ구를 말하며, \"발생지\"란 발생농장이 소재한 장소로서 리 단위보다 작은 동일한 생활권의 마을 단위 개념으로 쥐 등 야생동물의 이동거리 등을 감안하여 시장ㆍ군수ㆍ구청장(이하 \"시장ㆍ군수\"라 한다)이 특별시장ㆍ광역시장ㆍ도지사ㆍ특별자치시장ㆍ특별자치도지사(이하 \"시ㆍ도지사\"라 한다)와 협의하여 정한다.3. \"관리지역\"이란 아프리카돼지열병에 오염되었거나 오염되었다고 의심되는 지역으로 발생농장을 중심으로 하여 반경 500m 이내의 지역을 말한다. 다만, 시장ㆍ군수는 해당 지역의 축산업 형태, 지형적 여건, 생활권, 계절적 요인 또는 역학적 특성 등을 감안하여 관리지역의 범위를 시ㆍ도지사 소속 지방 가축방역심의회위원, 시ㆍ도 관계관, 시ㆍ군 관계관, 검역본부 현지 파견담당관 및 「가축전염병 예방법」(이하 \"법\"이라 한다) 제9조의2에 따른 가축전염병기동방역기구(이하 \"기동방역기구\"라 한다)와 협의를 거쳐 이를 확대하거나 축소할 수 있다.4. \"보호지역\"이란 아프리카돼지열병의 추가 발생이 우려되는 지역으로서 발생농장을 중심으로 하여 반경 500m 부터 3km 이내의 지역을 말한다. 다만, 시장ㆍ군수는 해당 지역의 축산업 형태, 지형적 여건, 생활권, 계절적 요인 또는 역학적 특성 등을 감안하여 보호지역의 범위를 시ㆍ도지사 소속 지방 가축방역심의회위원, 시ㆍ도 관계관, 시ㆍ군 관계관, 검역본부 현지 파견담당관 및 기동방역기구와 협의를 거쳐 이를 확대하거나 축소할 수 있다.5. \"예찰지역\"이란 아프리카돼지열병 확산이 우려되는 지역으로서 발생농장을 중심으로 반경 3km를 초과하여 10km 이내의 지역을 말한다. 다만, 시장ㆍ군수는 해당 지역의 축산업 형태, 지형적 여건, 생활권, 계절적 요인 또는 역학적 특성 등을 감안하여 예찰지역의 범위를 시ㆍ도지사 소속 지방 가축방역심의회 위원, 시ㆍ도 관계관, 시ㆍ군 관계관, 검역본부 현지 파견담당관 및 기동방역기구와 협의를 거쳐 이를 확대하거나 축소할 수 있다.6. \"방역지역\"이란 관리지역ㆍ보호지역ㆍ예찰지역을 말한다.7. \"발생일\"이란 제8조에 따른 의심축 신고를 받은 날을 말하며, 신고를 받지 아니하고 검역본부 또는 시ㆍ도 아프리카돼지열병 정밀진단기관이 정밀검사를 실시한 경우에는 해당 환축으로부터 시료를 채취한 날을 말한다.8. \"예방적 살처분\"이란 지리적ㆍ역학적 연관성 등에 따라 아프리카돼지열병 감염이 의심되어 예방적으로 돼지 등의 감수성 동물을 살처분 하는 것을 말한다.9. \"가축 등에 대한 일시 이동중지(Standstill)\"란 법 제19조의2에 따라 아프리카돼지열병이 국내에서 발생 시 확산 방지를 위하여 전국(또는 지역별)의 모든 양돈농장 및 관련 작업장 등에 가축ㆍ사람ㆍ차량ㆍ물품 등의 출입을 일시 중지(48시간 이내 - 필요시 연장)하는 조치를 말한다.10. \"권역\"이란 기본적으로 시ㆍ도 또는 시ㆍ군ㆍ구로 구분된 행정구역을 말하고, 필요시 세부적으로 농림축산식품부장관 또는 검역본부장이 가축의 사육밀도, 사료 공급, 가축 이동, 도축장 이용형태 등 역학적 사항을 고려하여 지역을 구획하여 정할 수 있다. 아프리카돼지열병이 발생한 권역을 \"발생권역\"이라 한다.11. \"거점소독시설\"이란 법 제17조의3 및 같은 법 시행규칙 제20조의3에 따른 시설출입차량이 방역 관련 규정에 따라 이동 시 소독을 실시하고 소독필증을 발급하는 시설로, 시ㆍ군ㆍ구 또는 시ㆍ도 가축방역기관이 설치ㆍ운영하는 시설 및 관련 지침에 따라 별도로 지정받은 민간시설을 말한다.",
+        "content": "제2조(정의) 이 요령에서 사용하는 용어의 뜻은 다음과 같다.1. \"환축\"이란 농림축산검역본부(이하 \"검역본부\"라 한다) 또는 특별시ㆍ광역시ㆍ특별자치시ㆍ특별자치도 또는 도에 소속되어 가축방역업무를 수행하는 기관(이하 \"시ㆍ도 가축방역기관\"이라 한다)으로서 농림축산검역본부장(이하 \"검역본부장\"이라 한다)으로부터 지정받은 아프리카돼지열병 정밀진단기관(이하 \"시ㆍ도 아프리카돼지열병 정밀진단기관\"이라 한다)의 정밀검사에서 아프리카돼지열병에 걸린 것으로 확인된 가축을 말하며, \"의사환축\"이란 검역본부 또는 시ㆍ도 가축방역기관 소속 가축방역관이 임상검사 등을 실시한 결과 아프리카돼지열병에 걸렸다고 믿을 만한 상당한 이유가 있다고 판단한 가축을 말하며, \"의심축\"이란 가축의 소유자 또는 관리자, 축산 관련 종사자 등이 아프리카돼지열병으로 의심하여 신고한 가축으로 검역본부 또는 시ㆍ도 가축방역기관의 가축방역관이 검사하기 전의 가축을 말한다.2. \"발생농장\"이란 의심축, 의사환축 또는 환축이 발생한 가축의 사육시설(이하 \"축사\"라 한다)이 있는 농장을 말하고, \"발생지역\"이란 발생농장이 소재한 시ㆍ군ㆍ구를 말하며, \"발생지\"란 발생농장이 소재한 장소로서 리 단위보다 작은 동일한 생활권의 마을 단위 개념으로 쥐 등 야생동물의 이동거리 등을 감안하여 시장ㆍ군수ㆍ구청장(이하 \"시장ㆍ군수\"라 한다)이 특별시장ㆍ광역시장ㆍ도지사ㆍ특별자치시장ㆍ특별자치도지사(이하 \"시ㆍ도지사\"라 한다)와 협의하여 정한다.3. \"관리지역\"이란 아프리카돼지열병에 오염되었거나 오염되었다고 의심되는 지역으로 발생농장을 중심으로 하여 반경 500m 이내의 지역을 말한다. 다만, 시장ㆍ군수는 해당 지역의 축산업 형태, 지형적 여건, 생활권, 계절적 요인 또는 역학적 특성 등을 감안하여 관리지역의 범위를 시ㆍ도지사 소속 지방 가축방역심의회위원, 시ㆍ도 관계관, 시ㆍ군 관계관, 검역본부 현지 파견담당관 및 「가축전염병 예방법」(이하 \"법\"이라 한다) 제9조의2에 따른 가축전염병기동방역기구(이하 \"기동방역기구\"라 한다)와 협의를 거쳐 이를 확대하거나 축소할 수 있다.4. \"보호지역\"이란 아프리카돼지열병의 추가 발생이 우려되는 지역으로서 발생농장을 중심으로 하여 반경 500m 부터 3km 이내의 지역을 말한다. 다만, 시장ㆍ군수는 해당 지역의 축산업 형태, 지형적 여건, 생활권, 계절적 요인 또는 역학적 특성 등을 감안하여 보호지역의 범위를 시ㆍ도지사 소속 지방 가축방역심의회위원, 시ㆍ도 관계관, 시ㆍ군 관계관, 검역본부 현지 파견담당관 및 기동방역기구와 협의를 거쳐 이를 확대하거나 축소할 수 있다.5. \"예찰지역\"이란 아프리카돼지열병 확산이 우려되는 지역으로서 발생농장을 중심으로 반경 3km를 초과하여 10km 이내의 지역을 말한다. 다만, 시장ㆍ군수는 해당 지역의 축산업 형태, 지형적 여건, 생활권, 계절적 요인 또는 역학적 특성 등을 감안하여 예찰지역 설정 여부 및 범위를 시ㆍ도지사 소속 지방 가축방역심의회 위원, 시ㆍ도 관계관, 시ㆍ군 관계관, 검역본부 현지 파견담당관 및 기동방역기구와 협의를 거쳐 결정할 수 있다.6. \"방역지역\"이란 관리지역ㆍ보호지역ㆍ예찰지역(지방가축방역심의회에서 예찰지역을 설정하는 경우에 한함)을 말한다.7. \"발생일\"이란 제8조에 따른 의심축 신고를 받은 날을 말하며, 신고를 받지 아니하고 검역본부 또는 시ㆍ도 아프리카돼지열병 정밀진단기관이 정밀검사를 실시한 경우에는 해당 환축으로부터 시료를 채취한 날을 말한다.8. \"예방적 살처분\"이란 지리적ㆍ역학적 연관성 등에 따라 아프리카돼지열병 감염이 의심되어 예방적으로 돼지 등의 감수성 동물을 살처분 하는 것을 말한다.9. \"가축 등에 대한 일시 이동중지(Standstill)\"란 법 제19조의2에 따라 아프리카돼지열병이 국내에서 발생 시 확산 방지를 위하여 전국(또는 지역별)의 모든 양돈농장 및 관련 작업장 등에 가축ㆍ사람ㆍ차량ㆍ물품 등의 출입을 일시 중지(48시간 이내 - 필요시 연장)하는 조치를 말한다.10. \"권역\"이란 기본적으로 시ㆍ도 또는 시ㆍ군ㆍ구로 구분된 행정구역을 말하고, 필요시 세부적으로 농림축산식품부장관 또는 검역본부장이 가축의 사육밀도, 사료 공급, 가축 이동, 도축장 이용형태 등 역학적 사항을 고려하여 지역을 구획하여 정할 수 있다. 아프리카돼지열병이 발생한 권역을 \"발생권역\"이라 한다.11. \"거점소독시설\"이란 법 제17조의3 및 같은 법 시행규칙 제20조의3에 따른 시설출입차량이 방역 관련 규정에 따라 이동 시 소독을 실시하고 소독필증을 발급하는 시설로, 시ㆍ군ㆍ구 또는 시ㆍ도 가축방역기관이 설치ㆍ운영하는 시설 및 관련 지침에 따라 별도로 지정받은 민간시설을 말한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -123,9 +119,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0002",
             "reference_id": "law:가축전염병예방법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -145,11 +139,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0002",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "citation",
@@ -169,9 +159,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0002",
             "reference_id": "law:가축전염병예방법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -191,9 +179,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0002",
             "reference_id": "law:가축전염병예방법#JO0017_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -213,9 +199,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0002",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -235,9 +219,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0002",
             "reference_id": "law:가축전염병예방법시행규칙#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           }
         ],
         "images": [],
@@ -280,9 +262,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0004",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -302,9 +282,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0004",
             "reference_id": "law:가축전염병예방법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -324,9 +302,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0004",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -346,9 +322,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0004",
             "reference_id": "law:가축전염병예방법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -370,7 +344,7 @@
         "article_title": "아프리카돼지열병 예찰",
         "chapter": "제2장 예방활동",
         "chapter_path": "제2장 예방활동",
-        "content": "제6조(아프리카돼지열병 예찰) ① 농림축산식품부장관 또는 지방자치단체의 장은 제4조에 따른 아프리카돼지열병 방역대책을 효율적으로 수행하기 위하여 아프리카돼지열병에 관한 예찰계획을 수립ㆍ시행하여야 한다.② 농림축산식품부장관은 매년 감수성 동물(도축장에서 계류 중인 돼지를 포함한다)에 대한 아프리카돼지열병 검사계획을 수립하고 이를 검역본부장 및 시ㆍ도지사에게 시달하여야 한다.③ 검역본부장, 시ㆍ도 가축방역기관장 및 법 제9조에 따른 가축위생방역지원본부장은 제2항에 따른 아프리카돼지열병 검사계획에 따라 감수성 동물에 대한 임상검사ㆍ시료채취 또는 정밀검사 등을 실시하여야 한다.",
+        "content": "제6조(아프리카돼지열병 예찰) ① 농림축산식품부장관 또는 지방자치단체의 장은 제4조에 따른 아프리카돼지열병 방역대책을 효율적으로 수행하기 위하여 아프리카돼지열병에 관한 예찰계획을 수립ㆍ시행하여야 한다.② 농림축산식품부장관은 매년 감수성 동물(도축장에서 계류 중인 돼지를 포함한다)에 대한 아프리카돼지열병 검사계획을 수립하고 이를 검역본부장 및 시ㆍ도지사에게 통보하여야 한다.③ 검역본부장, 시ㆍ도 가축방역기관장 및 법 제9조에 따른 가축위생방역지원본부장은 제2항에 따른 아프리카돼지열병 검사계획에 따라 감수성 동물에 대한 임상검사ㆍ시료채취 또는 정밀검사 등을 실시하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -391,11 +365,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0006",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "citation",
@@ -415,9 +385,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0006",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -437,9 +405,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0006",
             "reference_id": "law:가축전염병예방법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -471,9 +437,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -493,9 +457,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -515,9 +477,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -537,9 +497,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법#JO0017_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -559,9 +517,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -581,9 +537,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법시행규칙#JO0020_09",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -603,9 +557,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법#JO0003_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -625,9 +577,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:농업협동조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json",
-            "target_git_path": "농업협동조합법/법률/농업협동조합법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json"
           },
           {
             "relation_type": "citation",
@@ -647,9 +597,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:수의사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수의사법/법률/수의사법.json",
-            "target_git_path": "수의사법/법률/수의사법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "수의사법/법률/수의사법.json"
           },
           {
             "relation_type": "citation",
@@ -669,9 +617,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:수의사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "수의사법/법률/수의사법.json",
-            "target_git_path": "수의사법/법률/수의사법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "수의사법/법률/수의사법.json"
           },
           {
             "relation_type": "citation",
@@ -691,9 +637,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:축산계열화사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산계열화사업에 관한 법률/법률/축산계열화사업에 관한 법률.json",
-            "target_git_path": "축산계열화사업에 관한 법률/법률/축산계열화사업에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "축산계열화사업에 관한 법률/법률/축산계열화사업에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -713,9 +657,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -735,9 +677,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -760,12 +700,9 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0007",
             "target_unit": "BJ0006",
-            "reference_id": "law:가축전염병예방법시행규칙#FORM0006",
+            "reference_id": "law:가축전염병예방법시행규칙#BJ0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_file_path": "가축전염병 예방법/시행규칙/서식/서식6_소독실시 및 출입 기록부(가축사육시설 등).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           }
         ],
         "images": [],
@@ -797,9 +734,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -819,9 +754,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "reference_id": "law:가축전염병예방법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -841,9 +774,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -863,9 +794,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -884,18 +813,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407341",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469421",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "target_unit": "BJ0001",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별지/별지1_아프리카돼지열병 의심축 신고서.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -914,18 +838,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "target_unit": "BYL0001",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표1_검사시료채취 준비물.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -944,18 +863,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407349",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469429",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "target_unit": "BJ0002",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별지/별지2_아프리카돼지열병 의사환축 발생신고서.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -987,9 +901,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0009",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1009,9 +921,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0009",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1030,18 +940,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0009",
             "target_unit": "BYL0002",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표2_출입금지 표지판.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -1073,11 +978,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "citation",
@@ -1097,9 +998,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1119,9 +1018,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1141,9 +1038,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1163,9 +1058,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1185,9 +1078,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1207,9 +1098,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1229,9 +1118,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1251,9 +1138,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "law:가축전염병예방법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1273,11 +1158,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0010",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -1309,9 +1190,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0011",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1331,9 +1210,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0011",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1353,11 +1230,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0011",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "citation",
@@ -1377,9 +1250,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0011",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1399,9 +1270,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0011",
             "reference_id": "law:가축전염병예방법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1421,9 +1290,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0011",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1443,9 +1310,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0011",
             "reference_id": "law:가축전염병예방법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -1456,7 +1321,7 @@
         "article_title": "시ㆍ도 가축방역기관장의 조치",
         "chapter": "제3장 의심축 및 의사환축 발생시 방역요령",
         "chapter_path": "제3장 의심축 및 의사환축 발생시 방역요령",
-        "content": "제12조(시ㆍ도 가축방역기관장의 조치) ① 시ㆍ도 가축방역기관장은 시ㆍ도지사의 지시를 받아 다음 각 호의 조치를 하여야 한다.1. 법 제13조에 따라 의사환축 발생농장의 가축 이동사항, 출입자, 출입차량 등에 대한 역학조사 실시 및 법 제19조 및 같은 법 시행규칙 제22조의3에 따른 오염우려물품을 포함한 다양한 시료를 채취하여 검역본부에 제공2. 법 제7조에 따라 의사환축 발생농장 안에서 사육되고 있는 감수성 동물의 임상관찰을 위한 소속 가축방역관의 파견 및 임상검사 실시3. 현장파견 가축방역관으로 하여금 별표 1의 검사시료 채취에 필요한 준비물을 갖추고 출장하여 별표 8의 기준에 따라 검사시료를 채취하고 별지 제3호서식의 시료채취 내역서를 작성하여 정밀검사가 실시될 수 있도록 조치4. 발생지의 소독, 통제초소 운영 및 살처분 등 방역 기술지원을 위한 소속 가축방역관의 상주5. 아프리카돼지열병 방역대책상황실 설치 준비② 시ㆍ도 가축방역기관장은 의사환축에 대한 아프리카돼지열병 정밀검사 결과가 음성으로 판정된 경우에는 해당 동물에 대하여 병성감정을 실시할 수 있도록 별지 제5호 서식에 따른 병성감정의뢰서와 시료를 검역본부에 송부하고, 시ㆍ도지사에게 보고하여야 한다.",
+        "content": "제12조(시ㆍ도 가축방역기관장의 조치) ① 시ㆍ도 가축방역기관장은 시ㆍ도지사의 지시를 받아 다음 각 호의 조치를 하여야 한다.1. 법 제13조에 따라 의사환축 발생농장의 가축 이동사항, 출입자, 출입차량 등에 대한 역학조사 실시 및 법 제19조 및 같은 법 시행규칙 제22조의3에 따른 오염우려물품을 포함한 다양한 시료를 채취하여 검역본부에 제공2. 법 제7조에 따라 의사환축 발생농장 안에서 사육되고 있는 감수성 동물의 임상관찰을 위한 소속 가축방역관의 파견 및 임상검사 실시3. 현장파견 가축방역관으로 하여금 별표 1의 검사시료 채취에 필요한 준비물을 갖추고 출장하여 별표 8의 기준에 따라 검사시료를 채취하고 별지 제3호서식의 시료채취 내역서를 작성하여 정밀검사가 실시될 수 있도록 조치4. 발생지의 소독, 통제초소 운영 및 살처분 등 방역 기술지원을 위한 소속 가축방역관의 파견5. 아프리카돼지열병 방역대책상황실 설치 준비② 시ㆍ도 가축방역기관장은 의사환축에 대한 아프리카돼지열병 정밀검사 결과가 음성으로 판정된 경우에는 해당 동물에 대하여 병성감정을 실시할 수 있도록 별지 제5호 서식에 따른 병성감정의뢰서와 시료를 검역본부에 송부하고, 시ㆍ도지사에게 보고하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1477,9 +1342,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "reference_id": "law:가축전염병예방법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1499,9 +1362,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1521,9 +1382,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -1543,9 +1402,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "reference_id": "law:가축전염병예방법시행규칙#JO0022_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -1565,9 +1422,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "reference_id": "law:가축전염병예방법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1586,18 +1441,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "target_unit": "BYL0001",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표1_검사시료채취 준비물.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1616,18 +1466,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0008&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0008&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "target_unit": "BYL0008",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표8_검사시료 채취 및 송부요령(제12조제1항 관련).hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1646,18 +1491,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407357",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469437",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "target_unit": "BJ0003",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별지/별지3_진단용 시료 채취 기록서.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1676,18 +1516,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407371",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469451",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "target_unit": "BJ0005",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별지/별지5_병성감정의뢰서(제11조제3항 관련).hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -1719,9 +1554,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1741,9 +1574,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#JO0052_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1763,9 +1594,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1785,9 +1614,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1807,9 +1634,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1829,9 +1654,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1851,9 +1674,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1873,9 +1694,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0013",
             "reference_id": "law:가축전염병예방법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -1907,9 +1726,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0014",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1929,9 +1746,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0014",
             "reference_id": "law:가축전염병예방법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1951,9 +1766,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0014",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -1973,9 +1786,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0014",
             "reference_id": "law:가축전염병예방법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1995,11 +1806,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0014",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -2030,18 +1837,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407341",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469421",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0015",
             "target_unit": "BJ0001",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별지/별지1_아프리카돼지열병 의심축 신고서.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2061,11 +1863,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0015",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2085,11 +1883,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0015",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -2121,11 +1915,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0016",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "citation",
@@ -2145,9 +1935,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0016",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2167,9 +1955,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0016",
             "reference_id": "law:가축전염병예방법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2189,9 +1975,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0016",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2211,9 +1995,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0016",
             "reference_id": "law:가축전염병예방법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2233,9 +2015,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0016",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2255,9 +2035,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0016",
             "reference_id": "law:가축전염병예방법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -2289,9 +2067,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0017",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2311,9 +2087,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0017",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2332,18 +2106,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0017",
             "target_unit": "BYL0002",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표2_출입금지 표지판.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -2375,9 +2144,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0018",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2397,9 +2164,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0018",
             "reference_id": "law:가축전염병예방법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2419,9 +2184,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0018",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2441,9 +2204,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0018",
             "reference_id": "law:가축전염병예방법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -2454,7 +2215,7 @@
         "article_title": "역학조사",
         "chapter": "제4장 아프리카돼지열병 환축 발생시 방역요령",
         "chapter_path": "제4장 아프리카돼지열병 환축 발생시 방역요령",
-        "content": "제19조(역학조사) ① 의사환축 및 발생농장에 대한 1차 역학조사는 관할 시ㆍ도 가축방역기관장이 실시하고, 발생농장에 대한 2차 역학조사는 검역본부장이 실시하며, 긴급을 요하는 경우에는 검역본부장과 시ㆍ도 가축방역기관장이 공동으로 실시하여야 한다.② 1차 역학조사반은 역학조사 내용을 검역본부장, 관할 시ㆍ도지사 및 시장ㆍ군수에게 전달하여 신속한 방역조치가 이루어지도록 하여야 한다.③ 역학조사는 다음 각 호와 같이 실시하고, 정밀검사 또는 역학조사 결과 추가적인 조사가 필요한 경우 이를 확대하여 실시할 수 있다.1. 의사환축이 발생한 날부터 21일 전까지 가축 및 정액 등 생산물 등의 이동상황 추적조사2. 의사환축이 발생한 날부터 21일 전까지 해당 가축과 직접 접촉한 가축의 소유자ㆍ축사관리인ㆍ수의사ㆍ인공수정사 등이 접촉한 감수성 동물3. 의사환축이 발생한 날부터 21일 전까지 발생농장(발생농장 출하가축을 도축한 도축장을 포함한다)을 출입한 차량이 방문한 농장의 감수성 동물4. 살처분 대상 가축에 대하여 살처분을 실시하기 이전에 역학분석을 위한 채혈 등 검사시료의 채취5. 발생 원인 규명을 위해 농장 내ㆍ외부 및 차량 등의 다양한 오염원 시료 확보④ 시ㆍ도지사 또는 시장ㆍ군수는 제2항에 따른 조사 결과 역학적으로 관련이 있다고 확인된 농장 등에 대하여 별표 3의 기준에 의한 방역조치를 하여야 한다.⑤ 검역본부장 또는 시ㆍ도 가축방역기관장은 역학조사를 실시하기 위하여 필요하다고 판단되는 때에는 법 제13조제2항에 따라 설치된 역학조사반 내에 \"아프리카돼지열병 역학조사반\"을 별도로 편성ㆍ운영할 수 있다.",
+        "content": "제19조(역학조사) ① 의사환축 및 발생농장에 대한 1차 역학조사는 관할 시ㆍ도 가축방역기관장이 실시하고, 발생농장에 대한 2차 역학조사는 검역본부장이 실시하며, 긴급을 요하는 경우에는 검역본부장과 시ㆍ도 가축방역기관장이 공동으로 실시하여야 한다.② 1차 역학조사반은 역학조사 내용을 검역본부장, 관할 시ㆍ도지사 및 시장ㆍ군수에게 전달하여 신속한 방역조치가 이루어지도록 하여야 한다.③ 역학조사는 다음 각 호와 같이 실시하고, 정밀검사 또는 역학조사 결과 추가적인 조사가 필요한 경우 이를 확대하여 실시할 수 있다.1. 의사환축이 발생한 날부터 19일 전까지 가축 및 정액 등 생산물 등의 이동상황 추적조사2. 의사환축이 발생한 날부터 19일 전까지 해당 가축과 직접 접촉한 가축의 소유자ㆍ축사관리인ㆍ수의사ㆍ인공수정사 등이 접촉한 감수성 동물3. 의사환축이 발생한 날부터 19일 전까지 발생농장(발생농장 출하가축을 도축한 도축장을 포함한다)을 출입한 차량이 방문한 농장의 감수성 동물4. 살처분 대상 가축에 대하여 살처분을 실시하기 이전에 역학분석을 위한 채혈 등 검사시료의 채취5. 발생 원인 규명을 위해 농장 내ㆍ외부 및 차량 등의 다양한 오염원 시료 확보④ 시ㆍ도지사 또는 시장ㆍ군수는 제2항에 따른 조사 결과 역학적으로 관련이 있다고 확인된 농장 등에 대하여 별표 3의 기준에 의한 방역조치를 하여야 한다.⑤ 검역본부장 또는 시ㆍ도 가축방역기관장은 역학조사를 실시하기 위하여 필요하다고 판단되는 때에는 법 제13조제2항에 따라 설치된 역학조사반 내에 \"아프리카돼지열병 역학조사반\"을 별도로 편성ㆍ운영할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2474,18 +2235,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0019",
             "target_unit": "BYL0003",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표3_역학조사 관련 농장 등의 방역조치(제19조제4항 관련).hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "citation",
@@ -2505,9 +2261,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0019",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2527,9 +2281,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0019",
             "reference_id": "law:가축전염병예방법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -2561,9 +2313,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0020",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2583,9 +2333,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0020",
             "reference_id": "law:가축전염병예방법시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2605,11 +2353,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0020",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "citation",
@@ -2629,9 +2373,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0020",
             "reference_id": "law:가축전염병예방법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2643,25 +2385,20 @@
             "line_text": "",
             "target_law_name": "아프리카돼지열병 방역실시요령",
             "target_article_no": "별지4",
-            "target_article_title": "소독필증",
+            "target_article_title": "소독필증(제20조제4항 관련)",
             "appendix_no": "4",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407363",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469443",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0020",
             "target_unit": "BJ0004",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별지/별지4_소독필증.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2680,18 +2417,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0020",
             "target_unit": "BYL0001",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표1_검사시료채취 준비물.hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -2723,9 +2455,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0021",
             "reference_id": "law:가축전염병예방법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2745,9 +2475,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0021",
             "reference_id": "law:가축전염병예방법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2767,9 +2495,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0021",
             "reference_id": "law:가축전염병예방법시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_git_path": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/시행규칙/가축전염병 예방법 시행규칙.json"
           }
         ],
         "images": [],
@@ -2791,7 +2517,7 @@
         "article_title": "방역지역 전환 및 해제",
         "chapter": "제4장 아프리카돼지열병 환축 발생시 방역요령",
         "chapter_path": "제4장 아프리카돼지열병 환축 발생시 방역요령",
-        "content": "제23조(방역지역 전환 및 해제) ① 시장ㆍ군수는 다음 각 호의 조치가 모두 끝난 날부터 21일이 경과된 후 관리지역과 보호지역을 예찰지역으로 전환한다.1. 마지막 발생농장의 살처분 대상 가축에 대한 살처분(발생농장을 중심으로 반경 500미터 내의 농장에서 사육되고 있는 감수성 동물을 살처분한 때에는 그 동물을 포함한다)2. 발생농장 안의 오염 또는 오염의심 물건에 대한 세척ㆍ소독ㆍ소각 또는 매몰 조치② 예찰지역 안의 가축 등에 대한 이동제한 등 방역조치 기간은 발생농장의 살처분 대상가축(발생농장을 중심으로 반경 5백미터 내외의 감수성 동물까지 살처분한 때에는 그 가축을 포함한다)의 마지막 살처분 및 소독조치가 끝난 날부터 30일이 지난 후 예찰지역 안의 돼지에 대한 임상검사, 정밀검사 및 농장 환경시료 정밀검사를 실시하여 이상이 없다고 판정된 날까지로 한다.③ 제2항에 따른 검사의 실시 횟수는 1회로 한다. 다만, 검역본부장 또는 시ㆍ도지사는 검사 결과 이상이 있거나 역학적으로 추가 검사가 필요하다고 판단되는 때에는 재검사를 실시할 수 있다.",
+        "content": "제23조(방역지역 전환 및 해제) ① 시장ㆍ군수는 다음 각 호의 조치가 모두 끝난 날부터 19일이 경과된 후 관리지역과 보호지역을 예찰지역으로 전환한다.1. 마지막 발생농장의 살처분 대상 가축에 대한 살처분(발생농장을 중심으로 반경 500미터 내의 농장에서 사육되고 있는 감수성 동물을 살처분한 때에는 그 동물을 포함한다)2. 발생농장 안의 오염 또는 오염의심 물건에 대한 세척ㆍ소독ㆍ소각 또는 매몰 조치② 예찰지역 안의 가축 등에 대한 이동제한 등 방역조치 기간은 발생농장의 살처분 대상가축(발생농장을 중심으로 반경 5백미터 내외의 감수성 동물까지 살처분한 때에는 그 가축을 포함한다)의 마지막 살처분 및 소독조치가 끝난 날부터 30일이 지난 후 예찰지역 안의 돼지에 대한 임상검사, 정밀검사 및 농장 환경시료 정밀검사를 실시하여 이상이 없다고 판정된 날까지로 한다.③ 제2항에 따른 검사의 실시 횟수는 1회로 한다. 다만, 검역본부장 또는 시ㆍ도지사는 검사 결과 이상이 있거나 역학적으로 추가 검사가 필요하다고 판단되는 때에는 재검사를 실시할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2823,9 +2549,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0024",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           },
           {
             "relation_type": "citation",
@@ -2845,9 +2569,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0024",
             "reference_id": "law:가축전염병예방법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "가축전염병 예방법/법률/가축전염병 예방법.json"
           }
         ],
         "images": [],
@@ -2912,9 +2634,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0028",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리기본법/법률/재난 및 안전관리기본법.json",
-            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "재난 및 안전관리기본법/법률/재난 및 안전관리기본법.json"
           },
           {
             "relation_type": "citation",
@@ -2934,9 +2654,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0028",
             "reference_id": "law:재난및안전관리기본법#JO0034_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리기본법/법률/재난 및 안전관리기본법.json",
-            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "재난 및 안전관리기본법/법률/재난 및 안전관리기본법.json"
           }
         ],
         "images": [],
@@ -2958,7 +2676,7 @@
         "article_title": "종식후속대책",
         "chapter": "제5장 종식 후속대책 추진",
         "chapter_path": "제5장 종식 후속대책 추진",
-        "content": "제30조(종식후속대책) ① 농림축산식품부장관은 방역지역에 대한 이동제한 등 방역조치를 해제한 후 시행하여야 하는 양돈농장 정밀검사, 아프리카돼지열병 발생 시ㆍ군 특별관리방안 등 사후관리 대책을 수립하여 시ㆍ도지사 및 검역본부장에게 시달하여야 한다.② 발생지역 관할 시ㆍ도지사와 검역본부장은 제1항의 사후관리대책을 시행하기 위한 세부 추진계획을 수립하여 추진하여야 한다.",
+        "content": "제30조(종식후속대책) ① 농림축산식품부장관은 방역지역에 대한 이동제한 등 방역조치를 해제한 후 시행하여야 하는 양돈농장 정밀검사, 아프리카돼지열병 발생 시ㆍ군 특별관리방안 등 사후관리 대책을 수립하여 시ㆍ도지사 및 검역본부장에게 통보하여야 한다.② 발생지역 관할 시ㆍ도지사와 검역본부장은 제1항의 사후관리대책을 시행하기 위한 세부 추진계획을 수립하여 추진하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2980,7 +2698,7 @@
         "article_title": "가축의 재사육",
         "chapter": "제5장 종식 후속대책 추진",
         "chapter_path": "제5장 종식 후속대책 추진",
-        "content": "제32조(가축의 재사육) ① 제18조에 따라 가축이 살처분된 농장의 축사 안에 감수성 동물(돼지)을 다시 사육할 목적으로 입식할 수 있는 시기는 다음 각 호와 같다.1. 발생농장 : 예찰지역에 대한 이동제한이 해제된 이후 30일이 경과하고, 농장의 청소ㆍ세척 및 소독에 대한 시장ㆍ군수(이하 \"1차 점검\"이라 한다)와 검역본부 및 시ㆍ도 가축방역기관으로 구성된 평가단(필요시 민간전문가 포함)의 농장 평가(이하 \"2차 점검\"이라 한다)에서 이상이 없어야 하며, 별표 4의 입식시험 실시요령에 따른 60일간의 입식시험에서 이상이 없는 경우2. 관리지역 : 발생농장의 입식시험에서 이상이 없고 가축을 재사육하려는 농장에 대한 1차 점검과 2차 점검에서 이상이 없는 경우. 다만, 발생농장이 폐업하거나 발생농장의 입식시험이 이동제한 해제 후 30일 이상 지연되는 경우에는 가축을 재사육하려는 농장에 대한 1차 점검과 2차 점검에서 이상이 없고 청소ㆍ세척ㆍ소독 및 환경검사 결과 음성으로 판정될 경우3. 그 외 지역 : 이동제한이 해제된 이후 30일이 경과하고, 가축을 재사육하려는 농장에 대한 1차 점검과 2차 점검에서 이상이 없는 경우4. 시장ㆍ군수는 농림축산식품부장관 및 시ㆍ도지사와 협의하여 아프리카돼지열병이 야생멧돼지에서 검출된 지역 또는 그 인접지역 내에서 아프리카돼지열병 예방을 위해 살처분된 농장에 대하여는 별도의 재입식 추진절차와 기간을 정하여 재입식을 추진할 수 있다.② 제1항에 따라 가축을 재입식한 후 시장ㆍ군수는 60일이 경과할 때까지 주 1회 이상 임상검사를 실시하여야 한다.",
+        "content": "제32조(가축의 재사육) ① 제18조에 따라 가축이 살처분된 농장의 축사 안에 감수성 동물(돼지)을 다시 사육할 목적으로 입식할 수 있는 시기는 다음 각 호와 같다.1. 발생(양성)농장 : 예찰지역에 대한 이동제한이 해제된 이후 30일이 경과하고, 농장의 청소ㆍ세척 및 소독에 대한 시장ㆍ군수(이하 \"1차 점검\"이라 한다)와 검역본부 및 시ㆍ도 가축방역기관으로 구성된 평가단(필요시 민간전문가 포함)의 농장 평가(이하 \"2차 점검\"이라 한다)에서 이상이 없어야 하며, 별표 4의 입식시험 실시요령에 따른 60일간의 입식시험에서 이상이 없는 경우2. 관리지역 : 발생농장의 입식시험에서 이상이 없고 가축을 재사육하려는 농장에 대한 1차 점검과 2차 점검에서 이상이 없는 경우. 다만, 발생농장이 폐업하거나 발생농장의 입식시험이 이동제한 해제 후 30일 이상 지연되는 경우에는 가축을 재사육하려는 농장에 대한 1차 점검과 2차 점검에서 이상이 없고 청소ㆍ세척ㆍ소독 및 환경검사 결과 음성으로 판정될 경우3. 그 외 지역 : 이동제한이 해제된 이후 30일이 경과하고, 가축을 재사육하려는 농장에 대해 청소ㆍ세척 및 소독이 완료되고, 환경검사 결과 음성으로 판정될 경우4. 시장ㆍ군수는 농림축산식품부장관 및 시ㆍ도지사와 협의하여 아프리카돼지열병이 야생멧돼지에서 검출된 지역 또는 그 인접지역 내에서 아프리카돼지열병 예방을 위해 살처분된 농장에 대하여는 별도의 재입식 추진절차와 기간을 정하여 재입식을 추진할 수 있다.② 제1항에 따라 가축을 재입식한 후 시장ㆍ군수는 60일이 경과할 때까지 주 1회 이상 임상검사를 실시하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -3001,11 +2719,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0032",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3024,18 +2738,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "84361",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0004&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0032",
             "target_unit": "BYL0004",
             "reference_id": "admrul:아프리카돼지열병방역실시요령#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_path": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json",
-            "target_git_file_path": "아프리카돼지열병 방역실시요령/별표/별표4_입식시험 실시요령(제32조제1항 관련).hwp",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "아프리카돼지열병 방역실시요령/아프리카돼지열병 방역실시요령.json"
           }
         ],
         "images": [],
@@ -3046,7 +2755,7 @@
         "article_title": "재검토 기한",
         "chapter": "제5장 종식 후속대책 추진",
         "chapter_path": "제5장 종식 후속대책 추진",
-        "content": "제33조(재검토 기한) 농림축산식품부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2024년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제33조(재검토 기한) 농림축산식품부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -3067,11 +2776,7 @@
             "source_provision_id": "admrul:아프리카돼지열병방역실시요령#JO0033",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
@@ -3086,10 +2791,10 @@
       "content": "부칙 <제2023-4호, 2023. 1. 30.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(다른 고시의 개정) 「해외악성가축전염병 방역실시요령」 일부를 다음과 같이 개정한다.제1조 본문 중 \"아프리카돼지열병\"을 \"우역\"으로, 제2조제1호 중 \"우폐역, 아프리카돼지열병\"을 \"우폐역\"으로 한다.",
       "provision_id": "admrul:아프리카돼지열병방역실시요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274152",
+      "source_mst": "2100000288188",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260202"
+      "version_enforcement_date": "20261118"
     },
     {
       "promulgation_date": "20230901",
@@ -3097,10 +2802,10 @@
       "content": "부칙 <제2023-56호, 2023. 9. 1.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:아프리카돼지열병방역실시요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274152",
+      "source_mst": "2100000288188",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260202"
+      "version_enforcement_date": "20261118"
     },
     {
       "promulgation_date": "20260202",
@@ -3108,10 +2813,10 @@
       "content": "부칙 <제2026-3호, 2026. 2. 2.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:아프리카돼지열병방역실시요령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274152",
+      "source_mst": "2100000288188",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260202"
+      "version_enforcement_date": "20261118"
     }
   ],
   "appendices": [
@@ -3121,20 +2826,20 @@
       "kind": "별표",
       "title": "검사시료채취 준비물",
       "enforcement_date": "",
-      "content": "[별표 1]\n검사시료채취 준비물\n┌──────────────────────┬────────┬────┐\n│집   행   용   구                           │수   량         │비   고 │\n┝━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━┿━━━━┥\n│부검용칼                                    │2개             │        │\n├──────────────────────┼────────┼────┤\n│가위                                        │2개             │        │\n├──────────────────────┼────────┼────┤\n│ 핀셋                                       │2개             │        │\n├──────────────────────┼────────┼────┤\n│주사기(안락사용)                            │2개             │        │\n├──────────────────────┼────────┼────┤\n│체온계                                      │1개             │        │\n├──────────────────────┼────────┼────┤\n│프라스틱 백(90×90㎝)                       │6개             │        │\n├──────────────────────┼────────┼────┤\n│프라스틱 백(50×25㎝)                       │6개             │        │\n├──────────────────────┼────────┼────┤\n│장화                                        │1켤레           │        │\n├──────────────────────┼────────┼────┤\n│손잡이가 긴 솔                              │1개             │        │\n├──────────────────────┼────────┼────┤\n│양동이                                      │1개             │        │\n├──────────────────────┼────────┼────┤\n│ 소독약                                     │2리터           │        │\n├──────────────────────┼────────┼────┤\n│고무장갑                                    │2짝             │        │\n├──────────────────────┼────────┼────┤\n│1회용 수술장갑                              │6짝             │        │\n├──────────────────────┼────────┼────┤\n│위생작업복                                  │2벌             │        │\n├──────────────────────┼────────┼────┤\n│혈액채취병                                  │30개            │        │\n├──────────────────────┼────────┼────┤\n│혈액채취병(EDTA 함유)                       │30개            │        │\n├──────────────────────┼────────┼────┤\n│1회용 주사기 20㎖                           │30개            │        │\n├──────────────────────┼────────┼────┤\n│1회용 주사기 5㎖                            │30개            │        │\n├──────────────────────┼────────┼────┤\n│멸균면봉                                    │10개            │        │\n├──────────────────────┼────────┼────┤\n│내용물이 새지않도록 고무가 들어 있고  나선형│10개            │        │\n│의 두껑이 있는 25cc 병                      │                │        │\n├──────────────────────┼────────┼────┤\n│내용물이 새지 않도록 고무가 들어 있고 나선형│10개            │        │\n│의 두껑이 있는 알미늄 깡통                  │                │        │\n├──────────────────────┼────────┼────┤\n│ 냉장박스                                   │1개             │        │\n├──────────────────────┼────────┼────┤\n│ 얼음팩                                     │2개             │        │\n├──────────────────────┼────────┼────┤\n│바이러스 수송용 배지 또는 조직배양배지      │50개 또는 500 ml│        │\n└──────────────────────┴────────┴────┘",
+      "content": "[별표 1]\n검사시료채취 준비물\n┌─────────────────────┬────────┬────┐\n│집   행   용   구                         │수   량         │비   고 │\n┝━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━┿━━━━┥\n│부검용칼                                  │2개             │        │\n├─────────────────────┼────────┼────┤\n│가위                                      │2개             │        │\n├─────────────────────┼────────┼────┤\n│ 핀셋                                     │2개             │        │\n├─────────────────────┼────────┼────┤\n│주사기(안락사용)                          │2개             │        │\n├─────────────────────┼────────┼────┤\n│체온계                                    │1개             │        │\n├─────────────────────┼────────┼────┤\n│프라스틱 백(90×90㎝)                     │6개             │        │\n├─────────────────────┼────────┼────┤\n│프라스틱 백(50×25㎝)                     │6개             │        │\n├─────────────────────┼────────┼────┤\n│장화                                      │1켤레           │        │\n├─────────────────────┼────────┼────┤\n│손잡이가 긴 솔                            │1개             │        │\n├─────────────────────┼────────┼────┤\n│양동이                                    │1개             │        │\n├─────────────────────┼────────┼────┤\n│ 소독약                                   │2리터           │        │\n├─────────────────────┼────────┼────┤\n│고무장갑                                  │2짝             │        │\n├─────────────────────┼────────┼────┤\n│1회용 수술장갑                            │6짝             │        │\n├─────────────────────┼────────┼────┤\n│위생작업복                                │2벌             │        │\n├─────────────────────┼────────┼────┤\n│혈액채취병                                │30개            │        │\n├─────────────────────┼────────┼────┤\n│혈액채취병(EDTA 함유)                     │30개            │        │\n├─────────────────────┼────────┼────┤\n│1회용 주사기 20㎖                         │30개            │        │\n├─────────────────────┼────────┼────┤\n│1회용 주사기 5㎖                          │30개            │        │\n├─────────────────────┼────────┼────┤\n│멸균면봉                                  │10개            │        │\n├─────────────────────┼────────┼────┤\n│내용물이 새지않도록 고무가 들어 있고  나선│10개            │        │\n│형의 두껑이 있는 25cc 병                  │                │        │\n├─────────────────────┼────────┼────┤\n│내용물이 새지 않도록 고무가 들어 있고 나선│10개            │        │\n│형의 두껑이 있는 알미늄 깡통              │                │        │\n├─────────────────────┼────────┼────┤\n│ 냉장박스                                 │1개             │        │\n├─────────────────────┼────────┼────┤\n│ 얼음팩                                   │2개             │        │\n├─────────────────────┼────────┼────┤\n│바이러스 수송용 배지 또는 조직배양배지    │50개 또는 500 ml│        │\n└─────────────────────┴────────┴────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407035",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469235",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407031",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469231",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407035",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469235",
           "name": "",
           "file_store_url": ""
         }
@@ -3154,18 +2859,18 @@
       "enforcement_date": "",
       "content": "[별표 2]\n출입금지 표지판",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407041",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469241",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407037",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469237",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407041",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469241",
           "name": "",
           "file_store_url": ""
         }
@@ -3183,20 +2888,20 @@
       "kind": "별표",
       "title": "역학조사 관련 농장 등의 방역조치(제19조제4항 관련)",
       "enforcement_date": "",
-      "content": "[별표 3]\n역학조사 관련 농장 등의 방역조치(제19조제4항 관련)\n1. 발생농장에 가축을 공급한 농장 또는 정액을 공급한 인공수정센터 등(발생농장이 해당 정액을 사용한 경우에 한한다) : 발생일 기준 과거 21일 이내에 가축 또는 정액을 공급한 경우에 마지막 공급일부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성가축에 대하여 임상검사를 실시하고 이상증상 발견 시 정밀검사 실시\n2. 발생농장에서 공급한 가축을 사육하고 있는 농장\n가. 발생일 기준 과거 10일 이내에 공급한 가축이 있는 경우에 해당농장에 대하여 이동제한을 실시하고, 감수성이 있는 가축은 지체없이 살처분하고 오염물건은 소독 또는 소각ㆍ매몰조치\n나. 발생일 기준 과거 21일 이내에 공급한 가축이 있는 경우에 해당농장에 대하여 마지막 입식일부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성 동물에 대하여 임상검사 및 혈액검사를 실시하여 감염의 우려가 없을 경우 이동제한을 해제\n3. 발생농장에서 생산한 정액과 해당 정액을 사용한 농장\n가. 발생일 기준 과거 21일 이내에 생산된 정액은 전량 폐기\n나. 발생일 기준 21일 이내에 생산된 정액을 사용한 농장의 가축에 대하여 해당 정액 사용일부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성 동물에 대하여 임상검사를 실시하고 이상증상 발견 시 정밀검사 실시\n4. 발생농장 환축과 접촉한 사람(소유자등ㆍ진료수의사ㆍ인공수정사ㆍ가축 출하차량 운전자 등)이 방문하였거나 발생농장을 출입하였던 차량이 출입한 농장 : 발생일 기준 과거 21일 이내에 방문 또는 출입한 다른 농장의 가축에 대하여 마지막으로 방문 또는 출입한 날부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성 동물에 대하여 임상검사를 실시하고 이상증상 발견 시 정밀검사 실시\n가. 다만, 이동제한 대상 가축을 도태(출하) 또는 수매하고자 하는 경우에는 임상관찰 및 정밀검사 등을 실시하여 이상이 없고 강화된 방역시설을 설치한 농장의 가축에 한하여 지정도축장으로 출하 가능\n5. 발생농장 출하가축의 도축장 등\n가. 발생일 기준 과거 10일 이내에 출하된 가축이 도축장에 계류되어 있는 경우 당해 계류가축 전두수를 지체없이 살처분\n나. 발생일 기준 과거 10일 이내에 출하된 가축이 도축되어 지육 등 상태로 보관 또는 판매 중인 경우에는 폐기(이 경우 함께 보관 중인 도축 물량이 구분되지 아니한 때에는 보관 또는 판매 중인 물량 전체를 폐기)\n- 다만, 10일 이내에 출하된 가축이 당시 가축방역관 예찰 및 정밀검사 등에서 이상이 없어 방역상 전파 위험이 낮다고 판단되는 경우 폐기하지 않을 수 있음\n다. 발생일 기준 과거 21일 이내에 발생농장에서 출하된 가축이 도축장에 반입된 이후 그 도축장을 방문한 차량 또는 사람이 출입한 다른 농장에 대하여는 차량 또는 사람이 마지막 방문한 날부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성 동물에 대하여 임상검사를 실시하고 이상증상 발견 시에는 정밀검사를 실시하며, 방문한 시설에 대하여는 청소, 세척 및 소독 실시. 다만, 이동제한 대상 가축을 도태(출하) 또는 수매하고자 하는 경우에는 임상관찰 및 정밀검사 등을 실시하여 이상이 없고 강화된 방역시설을 설치한(도태(출하)에 한함) 농장의 가축에 한하여 지정도축장으로 출하 가능\n라. 발생일 기준 과거 21일 이내에 발생농장에서 출하된 가축이 도축장에 반입된 이후 그 도축장에 방문한 사람 및 차량에 대하여는 방문당시 의복ㆍ신발, 차량 등에 대한 세척ㆍ소독 및 건조 후 운행토록 조치\n마. 발생일 기준 과거 21일 이내에 발생농장에서 출하된 가축이 반입된 도축장에 대해서는 가축방역관 입회하에 도축장 내외부 및 작업인부 등에 대해서 청소ㆍ세척ㆍ소독 후 이동제한 해제\n6. 검역본부장 또는 시ㆍ도 가축방역기관장의 역학조사 결과 이동제한 등의 방역조치가 필요한 것으로 조사된 역학관련 차량(차량운전자 포함)에 대해서는 해당 축산시설을 마지막 방문한 날로부터 10일간 이동제한 조치 실시 및 접촉 당시 의복ㆍ신발ㆍ차량 등에 대한 세척ㆍ소독 및 건조 조치\n7. 발생일 기준 과거 21일 이내에 발생농장을 출입한 사람 또는 차량(사료운반ㆍ소유자등ㆍ진료수의사ㆍ인공수정사ㆍ가축출하차량 등)이 방문한 시설(농장제외)에 대하여는 가축방역관 입회 하에 청소ㆍ세척 및 소독 후 이동제한 해제\n8. 발생일 기준 과거 21일 이내에 발생농장으로부터 공급받은 분변 등이 있는 경우 생석회를 도포하거나 소독약을 살포하고 비닐 등으로 덮어 처리하여 반입된 날부터 30일 경과 후 병원체 오염여부 검사 결과 이상이 없는 경우 이동제한 해제\n9. 발생농장에서 발생일 기준 과거 21일 이내에 발생농장으로부터 분변 등을 공급받은 분뇨처리업체의 관련시설에 대하여는 세척ㆍ소독 및 건조 조치하고 30일 동안 분뇨 등에 대하여 반출입 금지, 차량 등은 세척ㆍ소독 조치하고 10일간 이동제한 조치\n10. 발생농장 소유자(동거가족이 소유한 농장 포함) 등이 다른 지역에서 사육하거나 위탁사육 하는 농장 등으로 역학적으로 관련성이 있는 경우\n가. 발생농장 소유자 등이 다른 지역에서 사육하는 농장에 대해서는 발생일로부터 19일간 이동제한 및 주기적 임상관찰ㆍ청소ㆍ세척ㆍ소독. 다만, 이동제한 대상 가축을 도태(출하) 또는 수매하고자 하는 경우에는 임상관찰 및 정밀검사 등을 실시하여 이상이 없고 강화된 방역시설을 설치한 농장의 가축에 한하여 지정도축장으로 출하 가능하며, 발생농장 소유자(동거가족이 소유한 농장 포함)의 다른 농장에서 추가 발생하여 이동제한 기간이 연장되는 경우 강화된 방역시설이 설치된 농장을 대상으로 방역실태를 점검하고 임상검사 및 정밀검사를 실시하여 이상이 없는 경우에는 이동 허용 가능\n나. 발생농장 소속 법인 계열 농장(위탁농장 포함)에 대해서는 발생일로부터 19일간 가축 이동 또는 출하 시 임상검사 실시\n11. 방역조치 기준일\n가. 방역조치 대상 선정 또는 방역조치 기간 산정 시 기준일(발생일 또는 방문일 등)은 기간 산정에 산입하지 않음\n나. 역학조사 등에서 발생일 이전에 임상증상이 나타난 것으로 확인되는 경우에는 발생일 대신 임상증상 발현일을 방역조치 기준일로 함\n12. 방역조치 조정 등 : 시ㆍ도지사 또는 시장ㆍ군수는 검역본부장이 파견한 관계관 또는 관할 가축방역기관장의 기술자문을 받아 역학관련 방역조치 대상농장, 사람, 차량 등에 대한 이동제한 기간, 조치방법 등을 조정할 수 있다.",
+      "content": "[별표 3]\n역학조사 관련 농장 등의 방역조치(제19조제4항 관련)\n1. 발생농장에 가축을 공급한 농장 또는 정액을 공급한 인공수정센터 등(발생농장이 해당 정액을 사용한 경우에 한한다) : 발생일 기준 과거 19일 이내에 가축 또는 정액을 공급한 경우에 마지막 공급일부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성가축에 대하여 임상검사를 실시하고 이상증상 발견 시 정밀검사 실시\n2. 발생농장에서 공급한 가축을 사육하고 있는 농장\n가. 발생일 기준 과거 10일 이내에 공급한 가축이 있는 경우에 해당농장에 대하여 이동제한을 실시하고, 감수성이 있는 가축은 지체없이 살처분하고 오염물건은 소독 또는 소각ㆍ매몰조치(단, 공급받은 가축 정밀검사(20% 이상 검사, 20두 미만 시 전두수) 결과 음성으로 확인된 경우, 시ㆍ도지사 또는 시장ㆍ군수는 위험도 평가 후 농림축산식품부장관과의 협의를 통해 살처분을 유예할 수 있으며, 이 경우 해당 농장에 대하여 마지막 입식일부터 19일 이상 이동제한 조치를 하고 매주 임상검사 및 정밀검사(폐사체ㆍ퇴비검사 또는 혈액검사)를 실시하여 이상이 없을 경우 이동제한을 해제)\n나. 발생일 기준 과거 19일 이내에 공급한 가축이 있는 경우에 해당농장에 대하여 마지막 입식일부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성 동물에 대하여 임상검사 및 정밀검사(폐사체ㆍ퇴비검사 또는 혈액검사)를 실시하여 감염의 우려가 없을 경우 이동제한을 해제\n3. 발생농장에서 생산한 정액과 해당 정액을 사용한 농장\n가. 발생일 기준 과거 19일 이내에 생산된 정액은 전량 폐기\n나. 발생일 기준 19일 이내에 생산된 정액을 사용한 농장의 가축에 대하여 해당 정액 사용일부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성 동물에 대하여 임상검사를 실시하고 이상증상 발견 시 정밀검사 실시\n4. 발생농장 환축과 접촉한 사람(소유자등ㆍ진료수의사ㆍ인공수정사ㆍ가축 출하차량 운전자 등)이 방문하였거나 발생농장을 출입하였던 차량이 출입한 농장 : 발생일 기준 과거 19일 이내에 방문 또는 출입한 다른 농장의 가축에 대하여 마지막으로 방문 또는 출입한 날부터 19일 이상 이동제한 조치를 하고, 함께 사육하고 있는 감수성 동물에 대하여 임상검사를 실시하고 이상증상 발견 시 정밀검사 실시\n가. 다만, 이동제한 대상 가축을 도태(출하) 또는 수매하고자 하는 경우에는 임상검사 및 정밀검사 등을 실시하여 이상이 없고 강화된 방역시설을 설치한 농장의 가축에 한하여 지정도축장으로 출하 가능\n5. 발생농장 출하가축의 도축장 등\n가. 발생일 기준 과거 10일 이내에 출하된 가축이 도축장에 계류되어 있는 경우 당해 계류가축 전두수를 지체없이 살처분\n나. 발생일 기준 과거 10일 이내에 출하된 가축이 도축되어 지육 등 상태로 보관 또는 판매 중인 경우에는 폐기(이 경우 함께 보관 중인 도축 물량이 구분되지 아니한 때에는 보관 또는 판매 중인 물량 전체를 폐기)\n- 다만, 10일 이내에 출하된 가축이 당시 가축방역관 예찰 및 정밀검사 등에서 이상이 없거나, 위험도 평가 결과 방역상 전파 위험이 낮다고 판단되는 경우 폐기하지 않을 수 있음\n다. 발생일 기준 과거 19일 이내에 발생농장에서 출하된 가축이 도축장에 반입된 이후 그 도축장을 방문한 차량 또는 사람이 출입한 다른 농장에 대하여는 차량 또는 사람이 마지막 방문한 날부터 19일 이상 이동제한 조치를 하고(단, 발생농장의 가축을 도축한 당일 도축장 혈액저장조(탱크) 등에서 채취한 혈액 정밀검사 결과 음성으로 확인될 경우, 해당 도축장과 역학적으로 관련된 농장에 대한 이동제한 해제), 함께 사육하고 있는 감수성 동물에 대하여 임상검사를 실시하고 이상증상 발견 시에는 정밀검사를 실시하며, 방문한 시설에 대하여는 청소, 세척 및 소독 실시. 다만, 이동제한 대상 가축을 도태(출하) 또는 수매하고자 하는 경우에는 임상관찰 및 정밀검사 등을 실시하여 이상이 없고 강화된 방역시설을 설치한(도태(출하)에 한함) 농장의 가축에 한하여 지정도축장으로 출하 가능\n라. 발생일 기준 과거 19일 이내에 발생농장에서 출하된 가축이 도축장에 반입된 이후 그 도축장에 방문한 사람 및 차량에 대하여는 방문당시 의복ㆍ신발, 차량 등에 대한 세척ㆍ소독 및 건조 후 운행토록 조치\n마. 발생일 기준 과거 19일 이내에 발생농장에서 출하된 가축이 반입된 도축장에 대해서는 가축방역관 입회하에 도축장 내외부 및 작업인부 등에 대해서 청소ㆍ세척ㆍ소독 후 이동제한 해제\n6. 검역본부장 또는 시ㆍ도 가축방역기관장의 역학조사 결과 발생농장 방문 등의 사유로 이동제한 등의 방역조치가 필요한 것으로 조사된 역학관련 차량(차량운전자 포함)에 대해서는 해당 축산시설을 마지막 방문한 날로부터 10일간 이동제한 조치 실시 및 접촉 당시 의복ㆍ신발ㆍ차량 내외부 등에 대한 세척ㆍ소독 및 건조 후 환경검사(차량의 표면, 손잡이, 바퀴, 및 운전자의 발 등)를 실시하고, 검사결과 이상이 없는 경우 이동제한 해제\n7. 발생일 기준 과거 19일 이내에 발생농장을 출입한 사람 또는 차량(사료운반ㆍ소유자등ㆍ진료수의사ㆍ인공수정사ㆍ가축출하차량 등)이 방문한 시설(농장제외)에 대하여는 가축방역관 입회 하에 청소ㆍ세척 및 소독 후 이동제한 해제\n8. 발생일 기준 과거 19일 이내에 발생농장으로부터 공급받은 분변 등이 있는 경우 생석회를 도포하거나 소독약을 살포하고 비닐 등으로 덮어 처리하여 반입된 날부터 30일 경과 후 병원체 오염여부 검사 결과 이상이 없는 경우 이동제한 해제\n9. 발생농장에서 발생일 기준 과거 19일 이내에 발생농장으로부터 분변 등을 공급받은 분뇨처리업체의 관련시설에 대하여는 세척ㆍ소독 및 건조 조치하고 30일 동안 분뇨 등에 대하여 반출입 금지, 차량 등은 세척ㆍ소독 조치하고 10일간 이동제한 조치\n10. 발생농장 소유자(동거가족이 소유한 농장 포함) 등이 다른 지역에서 사육하거나 위탁사육 하는 농장 등으로 역학적으로 관련성이 있는 경우\n가. 발생농장 소유자 등이 다른 지역에서 사육하는 농장에 대해서는 발생일로부터 19일간 이동제한 및 주기적 임상관찰ㆍ청소ㆍ세척ㆍ소독. 다만, 이동제한 대상 가축을 도태(출하) 또는 수매하고자 하는 경우에는 임상관찰 및 정밀검사 등을 실시하여 이상이 없고 강화된 방역시설을 설치한 농장의 가축에 한하여 지정도축장으로 출하 가능하며, 발생농장 소유자(동거가족이 소유한 농장 포함)의 다른 농장에서 추가 발생하여 이동제한 기간이 연장되는 경우 강화된 방역시설이 설치된 농장을 대상으로 방역실태를 점검하고 임상검사 및 정밀검사를 실시하여 이상이 없는 경우에는 이동 허용 가능\n나. 발생농장 소속 법인 계열 농장(위탁농장 포함)에 대해서는 발생일로부터 19일간 가축 이동 또는 출하 시 임상검사 실시\n11. 방역조치 기준일\n가. 방역조치 대상 선정 또는 방역조치 기간 산정 시 기준일(발생일 또는 방문일 등)은 기간 산정에 산입하지 않음\n나. 역학조사 등에서 발생일 이전에 임상증상이 나타난 것으로 확인되는 경우에는 발생일 대신 임상증상 발현일을 방역조치 기준일로 함\n12. 방역조치 조정 등 : 시ㆍ도지사 또는 시장ㆍ군수는 검역본부장이 파견한 관계관 또는 관할 가축방역기관장의 기술자문을 받아 역학관련 방역조치 대상농장, 사람, 차량 등에 대한 이동제한 기간, 조치방법 등을 조정할 수 있다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407051",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469251",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407043",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469243",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407051",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469251",
           "name": "",
           "file_store_url": ""
         }
@@ -3214,20 +2919,20 @@
       "kind": "별표",
       "title": "입식시험 실시요령(제32조제1항 관련)",
       "enforcement_date": "",
-      "content": "[별표 4]\n입식시험 실시요령(제32조제1항 관련)\n1. 입식시험의 준비\n가. 시장ㆍ군수는 입식시험 계획을 수립하고, 발생농장 소유자등에 대하여 소독ㆍ시험가축선정ㆍ검사 등 입식시험에 필요한 사항을 교육하여야 한다.\n나. 해당 농장의 소유자등은 주택ㆍ관리사ㆍ축사 내외ㆍ진입로ㆍ운동장ㆍ축산기자재 등에 대한 청소ㆍ세척 및 소독을 실시하여야 한다.\n다. 시장ㆍ군수는 해당 농장에 대하여 청소ㆍ세척 및 소독실시 실태, 오염물건 처리상황 등에 대하여 점검을 실시하고 미흡한 사항을 발견하는 경우에는 입식시험을 개시하기 전에 보완하도록 조치하여야 한다.\n2. 시험가축의 선정\n가. 입식시험에 사용하는 가축(이하 \"시험가축\"이라 한다)은 아프리카돼지열병에 감염되지 아니한 가축으로서 관리지역 밖에서 사육되고 있는 가축이어야 한다.\n나. 시장ㆍ군수는 농장으로 시험가축을 이동하기 전에 혈액시료를 채취하여 검역본부장 또는 시ㆍ도 아프리카돼지열병 정밀진단기관의 장에게 정밀검사를 의뢰하고 항원ㆍ항체가 검출되지 않을 경우 시험가축 입식을 허용한다.\n다. 시험가축의 종류 및 두수는 양돈농장 돈사별로 생후 60～70일의 돼지 각 3두 이상으로 한다.\n3. 입식시험의 방법\n가. 발생농장의 소유자등은 시험가축의 구입장소ㆍ구입일자ㆍ운반방법ㆍ항체검사결과 및 사육일지 등에 관한 기록을 작성하여야 한다.\n나. 돼지사육농장에서는 돈사별(단, 돈사가 복층인 경우 층별)로 돼지 각 3두 이상을 입식한다.\n다. 발생농장의 소유자등은 사료를 축사 바닥에 두어 급여하는 등 시험가축이 발생농장 중 오염 가능성이 있는 장소 또는 부위에 접촉할 수 있도록 주의를 기울여야 한다.\n라. 가축방역관은 입식시험을 개시한 후 14일간은 매 2일마다, 그 이후 30일까지는 매주 2회, 60일까지는 매주 1회 시험가축에 대한 임상검사를 실시한다.\n마. 시장ㆍ군수는 입식시험 개시일부터 60일이 경과한 후 혈액시료를 채취하여 검역본부장 또는 시ㆍ도 아프리카돼지열병 정밀진단기관의 장에게 항원ㆍ항체 검사를 의뢰하여야 한다.",
+      "content": "[별표 4]\n입식시험 실시요령(제32조제1항 관련)\n1. 입식시험의 준비\n가. 시장ㆍ군수는 입식시험 계획을 수립하고, 발생농장 소유자등에 대하여 소독ㆍ시험가축선정ㆍ검사 등 입식시험에 필요한 사항을 교육하여야 한다.\n나. 해당 농장의 소유자등은 주택ㆍ관리사ㆍ축사 내외ㆍ진입로ㆍ운동장ㆍ축산기자재 등에 대한 청소ㆍ세척 및 소독을 실시하여야 한다.\n다. 시장ㆍ군수는 해당 농장에 대하여 청소ㆍ세척 및 소독실시 실태, 오염물건 처리상황 등에 대하여 점검을 실시하고 미흡한 사항을 발견하는 경우에는 입식시험을 개시하기 전에 보완하도록 조치하여야 한다.\n2. 시험가축의 선정\n가. 입식시험에 사용하는 가축(이하 \"시험가축\"이라 한다)은 아프리카돼지열병에 감염되지 아니한 가축으로서 관리지역 밖에서 사육되고 있는 가축이어야 한다.\n나. 시장ㆍ군수는 농장으로 시험가축을 이동하기 전에 혈액시료를 채취하여 검역본부장 또는 시ㆍ도 아프리카돼지열병 정밀진단기관의 장에게 정밀검사를 의뢰하고 항원ㆍ항체가 검출되지 않을 경우 시험가축 입식을 허용한다.\n다. 시험가축의 종류 및 두수는 양돈농장 돈사별로 생후 60～70일의 돼지 각 3두 이상으로 한다.\n3. 입식시험의 방법\n가. 발생농장의 소유자등은 시험가축의 구입장소ㆍ구입일자ㆍ운반방법ㆍ항체검사결과 및 사육일지 등에 관한 기록을 작성하여야 한다.\n나. 돼지사육농장에서는 돈사별로 돼지 각 3두 이상을 입식한다.\n다. 발생농장의 소유자등은 사료를 축사 바닥에 두어 급여하는 등 시험가축이 발생농장 중 오염 가능성이 있는 장소 또는 부위에 접촉할 수 있도록 주의를 기울여야 한다.\n라. 가축방역관은 입식시험을 개시한 후 14일간은 매 2일마다, 그 이후 30일까지는 매주 2회, 60일까지는 매주 1회 시험가축에 대한 임상검사를 실시한다.\n마. 시장ㆍ군수는 입식시험 개시일부터 60일이 경과한 후 혈액시료를 채취하여 검역본부장 또는 시ㆍ도 아프리카돼지열병 정밀진단기관의 장에게 항원ㆍ항체 검사를 의뢰하여야 한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407057",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469257",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407053",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469253",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407057",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469257",
           "name": "",
           "file_store_url": ""
         }
@@ -3247,18 +2952,18 @@
       "enforcement_date": "",
       "content": "[별표 5]\n아프리카돼지열병 지역별 위험도\n1. 위험도는 지형적 여건, 역학적 특성, 축산업 형태, 야생멧돼지 서식실태, 계절적 요인 등을 종합적으로 고려하여 판단\n가. 지형적 여건 : 지형을 구분시키는 산, 강 등의 자연적 요소와 고속도로 등 인위적 요소에 따른 분리 가능성 분석\n나. 역학적 특성 : 기존 발생농장과의 관계 및 농장들 간, 계열사와의 관계, 사료회사 및 분뇨처리 업체와의 관계 등에 대한 역학적 관계 분석, 도축출하 및 가축이동 상황 등 분석\n* 원인체의 특성에 대한 분석 포함\n다. 축산업 형태 : 사육돼지 밀집도(단위 면적당 농가수, 단위면적당 사육 두수, 단위면적당 축산종사자 수)에 대하여 방역대 내 지역과 방역대 외 지역을 비교하여 해당지역의 상대적 밀집도 분석\n라. 야생멧돼지 서식실태 : 인근의 야생멧돼지 존재 여부와 야생멧돼지의 출현 빈도에 따른 위험도 분석\n마. 계절적 요인 : 주변지역 평균 기온, 강수, 강설량 등에 따른 바이러스 생존 가능성 등에 대한 분석\n바. 기타 고려사항 : 해당 농장 또는 지역적(마을단위 등) 특성 반영",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407303",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469383",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407299",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469379",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407303",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469383",
           "name": "",
           "file_store_url": ""
         }
@@ -3276,20 +2981,20 @@
       "kind": "별표",
       "title": "아프리카돼지열병 위기경보단계별 관계부처·기관 역할",
       "enforcement_date": "",
-      "content": "[별표 6]\n아프리카돼지열병 위기경보단계별 관계부처ㆍ기관 역할\n1. 관심단계\n┌────────┬─────────────────────────────────┐\n│부  서          │임무 및 역할                                                      │\n┝━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│국무조정실      │o아프리카돼지열병 방역 및 축산물 수급안정 관련 부처 간 협조?조   │\n│                │정 등                                                             │\n├────────┼─────────────────────────────────┤\n│행정안전부      │o 위기상황 모니터링 및 주관기관 대응활동 파악?보고               │\n│                │o주관기관 위기경보 발령(협조)사항을 행정안전부 소관부서 및 관련   │\n│                │지자체 등 전파                                                    │\n├────────┼─────────────────────────────────┤\n│재정경제부·    │o방역 및 축산물 수급안정, 농가지원대책 등 관련 소요예산 지원(협조)│\n│기획예산처      │                                                                  │\n├────────┼─────────────────────────────────┤\n│해양경찰청      │o 항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 협조               │\n│                │o항만 검역활동 강화 협조, 국내입항 무역선, 외항선, 원양어선 등    │\n│                │선원 및 승객에 대한 방역조치 협조                                 │\n├────────┼─────────────────────────────────┤\n│국방부          │o 현장방역인력 및 장비 지원준비                                   │\n├────────┼─────────────────────────────────┤\n│경찰청          │o 통제초소 인력지원                                               │\n│                │o 불법축산물 단속, 수사 고발 등 협조                              │\n├────────┼─────────────────────────────────┤\n│관세청          │o 공항ㆍ항만을 통한 가축ㆍ축산물의  밀반입 단속ㆍ감시 협조        │\n├────────┼─────────────────────────────────┤\n│식품의약품안전처│o 불법수입축산물 반입, 유통·판매 단속                            │\n├────────┼─────────────────────────────────┤\n│법무부          │o 가축질병 발생국 방문농가 및 외국인근로자 등에 대한 신고 협조,   │\n│                │해외축산물 불법반입 등 위법농가 입국제한 등 조치 협조             │\n├────────┼─────────────────────────────────┤\n│외교부          │o 해외 가축질병 발생 동향 등 정보 입수 지원                       │\n│                │o 발생지역 여행경보 발령 필요성 검토                              │\n├────────┼─────────────────────────────────┤\n│문화체육관광부  │o ASF방역수칙 홍보 등 협조(TV 자막 광고 등)                       │\n│                │o 소비자 불안심리 해소를 위한 정보제공 협조(TV 자막 광고 등)      │\n├────────┼─────────────────────────────────┤\n│기후에너지환경  │o 살처분 매몰지 환경관리계획 지침 통보(지자체 등)                 │\n│부              │o 전국 야생멧돼지 현황, 이동경로 및 시기, 야생멧돼지 발생 등 정보 │\n│                │수집 및 공유                                                      │\n│                │o 야생멧돼지 질병 예찰 및 서식현황 조사                           │\n│                │o 농림축산식품부장관 요청시 남은음식물 자가처리급여 금지          │\n├────────┼─────────────────────────────────┤\n│고용노동부      │o 외국인근로자, 외국인 고용사업장 대상 불법 휴대축산물 반입 금지  │\n│                │및 과태료 상향 등 교육·홍보 협조                                 │\n├────────┼─────────────────────────────────┤\n│국토교통부      │o 국내 입국 항공기 대상 입국 전 기내방송 및 공항 내 검역 관련     │\n│                │안내방송 및 전광판 표출 등 홍보 협조                              │\n└────────┴─────────────────────────────────┘\n2. 주의단계\n┌────────┬─────────────────────────────────┐\n│부  서          │임무 및 역할                                                      │\n┝━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│국무조정실      │o 아프리카돼지열병 방역 및 축산물 수급안정 관련 부처 간 협조?    │\n│                │조정 등                                                           │\n├────────┼─────────────────────────────────┤\n│행정안전부      │o 주관기관 및 가축질병 발생지역과 연계한 위기상황 모니터링 강화   │\n│                │및 보고                                                           │\n│                │o 주관기관 위기경보 발령(협조)사항을 행정안전부 소관부서 및       │\n│                │관련 지자체 등 전파                                               │\n├────────┼─────────────────────────────────┤\n│재정경제부·    │o방역 및 축산물 수급안정, 농가지원대책 등 관련 소요예산 지원(협조)│\n│기획예산처      │                                                                  │\n├────────┼─────────────────────────────────┤\n│해양경찰청      │o 항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 협조               │\n│                │o항만 검역활동 강화 협조, 국내입항 무역선, 외항선, 원양어선 등    │\n│                │선원 및 승객에 대한 방역조치 협조                                 │\n├────────┼─────────────────────────────────┤\n│국방부          │o 현장 방역인력 및 장비 지원 준비                                 │\n├────────┼─────────────────────────────────┤\n│경찰청          │o 현장 방역인력 지원 협조                                         │\n│                │  - 오염?위험?경계지역 이동통제초소 인력지원                    │\n│                │o 불법축산물 단속, 수사 고발 등 협조                              │\n├────────┼─────────────────────────────────┤\n│관세청          │o 공항ㆍ항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 강화         │\n├────────┼─────────────────────────────────┤\n│식품의약품안전처│o 불법수입축산물 반입, 유통·판매 단속                            │\n├────────┼─────────────────────────────────┤\n│법무부          │o 가축질병 발생국 방문농가 및 외국인근로자 등에 대한 신고 협조,   │\n│                │해외축산물 불법반입 등 위법농가 입국제한 등 조치 협조             │\n├────────┼─────────────────────────────────┤\n│외교부          │o 국제동향 등 정보 입수 지원                                      │\n│국가정보원      │o 해외 가축질병 발생 동향 파악 협조                               │\n├────────┼─────────────────────────────────┤\n│문화체육관광부  │oASF방역수칙 홍보 등 협조(TV 자막 광고 등)                        │\n│                │o소비자 불안심리 해소를 위한 정보제공 협조(TV 자막 광고 등)       │\n├────────┼─────────────────────────────────┤\n│기후에너지환경  │o 가축 매몰지 관측정 모니터링 및 지자체 조치사항 시달(단계별      │\n│부              │조치사항 이행 등)                                                 │\n│                │o 살처분 매몰지 환경관리 기술지원                                 │\n│                │o 전국 야생멧돼지 현황, 이동경로 등 정보수집 공유, 야생멧돼지     │\n│                │ASF 예찰 및 질병검사                                              │\n│                │  - 야생멧돼지 ASF SOP에 따른 대응                                │\n├────────┼─────────────────────────────────┤\n│고용노동부      │o 외국인근로자, 외국인 고용사업장 대상 불법 휴대축산물 반입 금지  │\n│                │및 과태료 상향 등 교육·홍보 협조                                 │\n├────────┼─────────────────────────────────┤\n│국토교통부      │o 국내 입국 항공기 대상 입국 전 기내방송 및 공항 내 검역 관련     │\n│                │안내방송 및 전광판 표출 등 홍보 협조                              │\n└────────┴─────────────────────────────────┘\n3. 심각단계\n┌────────┬─────────────────────────────────┐\n│부  서          │임무 및 역할                                                      │\n┝━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│국무조정실      │o아프리카돼지열병 방역 및 축산물 수급안정 관련 부처 간 협조?조   │\n│                │정 등                                                             │\n├────────┼─────────────────────────────────┤\n│행정안전부      │o상황판단회의 등을 통한 중대본 운영여부 검토                      │\n│                │o중앙재난안전대책본부 설치·운영(필요시)                          │\n│                │  -관계기관 파견요원등으로 중대본 실무반 구성?운영               │\n│                │  * 주관기관이 “심각”단계 발령후, 부처간 대책조율이 필요하다고  │\n│                │판단하여 건의하는 경우에 검토후 설치                              │\n│                │o주관·유관기관간 정보공유체계 강화                               │\n│                │o주관기관 위기경보 발령(협조)사항을 행정안전부 소관부서 및 관계   │\n│                │지자체 등 전파                                                    │\n│                │o지자체 행·재정 지원 및 방역활동 강화 독려                       │\n│                │o지역재난안전대책본부 지휘 및 감독                                │\n│                │o필요시 중앙수습지원단 구성 및 현지 파견                          │\n│                │o재난사태 선포 여부 건의·판단 및 피해상황 보고?전파             │\n│                │o지방자치단체 특별교부세 등 지원 확대                             │\n│                │o지방자치단체에 현장상황관리관 파견                               │\n├────────┼─────────────────────────────────┤\n│재정경제부·    │o방역 및 축산물 수급안정, 농가지원대책 등 관련 소요예산 지원(협조)│\n│기획예산처      │                                                                  │\n├────────┼─────────────────────────────────┤\n│해양경찰청      │o 항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 강화               │\n│                │o항만 검역활동 강화 협조, 국내입항 무역선, 외항선, 원양어선 등    │\n│                │선원 및 승객에 대한 방역조치 강화                                 │\n├────────┼─────────────────────────────────┤\n│국방부          │o현장 방역·통제인력 및 장비 지원                                 │\n├────────┼─────────────────────────────────┤\n│경찰청          │o 현장 방역인력 지원 확대, 이동통제초소 인력지원                  │\n│                │o 역학조사시 지역경찰관 투입 협조(필요시)                         │\n│                │o 불법축산물 단속, 수사 고발 등 협조                              │\n├────────┼─────────────────────────────────┤\n│관세청          │o 공항·항만을 통한 가축·축산물의 밀반입 단속·감시 강화         │\n├────────┼─────────────────────────────────┤\n│식품의약품안전처│o 불법수입축산물 반입, 유통·판매 단속                            │\n│                │o 국민의 불안심리 해소를 위한 홍보 협조 강화                      │\n├────────┼─────────────────────────────────┤\n│법무부          │o 가축질병 발생국 방문농가 및 외국인근로자 등에 대한 신고 협조,   │\n│                │해외축산물 불법반입 등 위법농가 입국제한 등 조치 협조             │\n├────────┼─────────────────────────────────┤\n│외교부          │o국제동향 등 정보 입수 지원 강화                                  │\n│국가정보원      │o해외 가축질병 발생 동향 파악 협조 강화                           │\n├────────┼─────────────────────────────────┤\n│문화체육관광부  │o ASF방역수칙 홍보 등 협조(TV 자막 광고 등)                       │\n│                │o소비자 불안심리 해소를 위한 정보제공 협조(TV 자막 광고 등)       │\n├────────┼─────────────────────────────────┤\n│기후에너지환경  │o 가축 매몰지 관측정 모니터링 및 지자체  조치 사항 시달(단계별    │\n│부              │조치사항 이행 등)                                                 │\n│                │o 살처분 매몰지 환경관리 기술지원                                 │\n│                │o 전국 야생멧돼지 현황, 이동경로 등 정보수집 공유, 야생멧돼지     │\n│                │ASF 예찰 및 질병검사                                              │\n│                │  - 야생멧돼지 ASF SOP에 따른 대응                                │\n│                │o 남은음식물의 돼지 급여 제한 시 협조                             │\n├────────┼─────────────────────────────────┤\n│고용노동부      │o 외국인근로자, 외국인 고용사업장 대상 불법 휴대축산물 반입 금지  │\n│                │및 과태료 상향 등 교육·홍보 협조                                 │\n├────────┼─────────────────────────────────┤\n│국토교통부      │o 국내 입국 항공기 대상 입국 전 기내방송 및 공항 내 검역 관련     │\n│                │안내방송 및 전광판 표출 등 홍보 협조                              │\n└────────┴─────────────────────────────────┘",
+      "content": "[별표 6]\n아프리카돼지열병 위기경보단계별 관계부처ㆍ기관 역할\n1. 관심단계\n┌────────┬────────────────────────────────┐\n│부  서          │임무 및 역할                                                    │\n┝━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│국무조정실      │o아프리카돼지열병 방역 및 축산물 수급안정 관련 부처 간 협조?조 │\n│                │정 등                                                           │\n├────────┼────────────────────────────────┤\n│행정안전부      │o 위기상황 모니터링 및 주관기관 대응활동 파악?보고             │\n│                │o주관기관 위기경보 발령(협조)사항을 행정안전부 소관부서 및 관   │\n│                │련 지자체 등 전파                                               │\n├────────┼────────────────────────────────┤\n│재정경제부·    │o방역 및 축산물 수급안정, 농가지원대책 등 관련 소요예산 지원(협 │\n│기획예산처      │조)                                                             │\n├────────┼────────────────────────────────┤\n│해양경찰청      │o 항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 협조             │\n│                │o항만 검역활동 강화 협조, 국내입항 무역선, 외항선, 원양어선 등  │\n│                │선원 및 승객에 대한 방역조치 협조                               │\n├────────┼────────────────────────────────┤\n│국방부          │o 현장방역인력 및 장비 지원준비                                 │\n├────────┼────────────────────────────────┤\n│경찰청          │o 통제초소 인력지원                                             │\n│                │o 불법축산물 단속, 수사 고발 등 협조                            │\n├────────┼────────────────────────────────┤\n│관세청          │o 공항ㆍ항만을 통한 가축ㆍ축산물의  밀반입 단속ㆍ감시 협조      │\n├────────┼────────────────────────────────┤\n│식품의약품안전처│o 불법수입축산물 반입, 유통·판매 단속                          │\n├────────┼────────────────────────────────┤\n│법무부          │o 가축질병 발생국 방문농가 및 외국인근로자 등에 대한 신고 협조, │\n│                │해외축산물 불법반입 등 위법농가 입국제한 등 조치 협조           │\n├────────┼────────────────────────────────┤\n│외교부          │o 해외 가축질병 발생 동향 등 정보 입수 지원                     │\n│                │o 발생지역 여행경보 발령 필요성 검토                            │\n├────────┼────────────────────────────────┤\n│문화체육관광부  │oASF방역수칙 홍보 등 협조(TV 자막 광고 등)                      │\n│                │o소비자 불안심리 해소를 위한 정보제공 협조(TV 자막 광고 등)     │\n├────────┼────────────────────────────────┤\n│기후에너지      │o 살처분 매몰지 환경관리계획 지침 통보(지자체 등)               │\n│환경부          │o 전국 야생멧돼지 현황, 이동경로 및 시기, 야생멧돼지 발생 등 정 │\n│                │보수집 및 공유                                                  │\n│                │o 야생멧돼지 질병 예찰 및 서식현황 조사                         │\n│                │o 농림축산식품부장관 요청시 남은음식물 자가처리급여 금지        │\n├────────┼────────────────────────────────┤\n│고용노동부      │o 외국인근로자, 외국인 고용사업장 대상 불법 휴대축산물 반입 금  │\n│                │지 및 과태료 상향 등 교육·홍보 협조                            │\n├────────┼────────────────────────────────┤\n│국토교통부      │o 국내 입국 항공기 대상 입국 전 기내방송 및 공항 내 검역 관련   │\n│                │안내방송 및 전광판 표출 등 홍보 협조                            │\n└────────┴────────────────────────────────┘\n2. 주의단계\n┌────────┬────────────────────────────────┐\n│부  서          │임무 및 역할                                                    │\n┝━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│국무조정실      │o아프리카돼지열병 방역 및 축산물 수급안정 관련 부처 간 협조?조 │\n│                │정 등                                                           │\n├────────┼────────────────────────────────┤\n│행정안전부      │o주관기관 및 가축질병 발생지역과 연계한 위기상황 모니터링 강화  │\n│                │및 보고                                                         │\n│                │o주관기관 위기경보 발령(협조)사항을 행정안전부 소관부서 및 관   │\n│                │련 지자체 등 전파                                               │\n├────────┼────────────────────────────────┤\n│재정경제부·    │o방역 및 축산물 수급안정, 농가지원대책 등 관련 소요예산 지원(협 │\n│기획예산처      │조)                                                             │\n├────────┼────────────────────────────────┤\n│해양경찰청      │o 항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 협조             │\n│                │o항만 검역활동 강화 협조, 국내입항 무역선, 외항선, 원양어선     │\n│                │등 선원 및 승객에 대한 방역조치 협조                            │\n├────────┼────────────────────────────────┤\n│국방부          │o 현장 방역인력 및 장비 지원 준비                               │\n├────────┼────────────────────────────────┤\n│경찰청          │o 현장 방역인력 지원 협조                                       │\n│                │  - 오염?위험?경계지역 이동통제초소 인력지원                  │\n│                │o 불법축산물 단속, 수사 고발 등 협조                            │\n├────────┼────────────────────────────────┤\n│관세청          │o 공항ㆍ항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 강화       │\n├────────┼────────────────────────────────┤\n│식품의약품안전처│o 불법수입축산물 반입, 유통·판매 단속                          │\n├────────┼────────────────────────────────┤\n│법무부          │o 가축질병 발생국 방문농가 및 외국인근로자 등에 대한 신고 협    │\n│                │조, 해외축산물 불법반입 등 위법농가 입국제한 등 조치 협조       │\n├────────┼────────────────────────────────┤\n│외교부          │o 국제동향 등 정보 입수 지원                                    │\n│국가정보원      │o 해외 가축질병 발생 동향 파악 협조                             │\n├────────┼────────────────────────────────┤\n│문화체육관광부  │oASF방역수칙 홍보 등 협조(TV 자막 광고 등)                      │\n│                │o소비자 불안심리 해소를 위한 정보제공 협조(TV 자막 광고 등)     │\n├────────┼────────────────────────────────┤\n│기후에너지      │o 가축 매몰지 관측정 모니터링 및 지자체 조치사항 시달(단계별    │\n│환경부          │조치사항 이행 등)                                               │\n│                │o 살처분 매몰지 환경관리 기술지원                               │\n│                │o 전국 야생멧돼지 현황, 이동경로 등 정보수집 공유, 야생멧돼지   │\n│                │ASF 예찰 및 질병검사                                            │\n│                │  - 야생멧돼지 ASF SOP에 따른 대응                              │\n├────────┼────────────────────────────────┤\n│고용노동부      │o 외국인근로자, 외국인 고용사업장 대상 불법 휴대축산물 반입 금  │\n│                │지 및 과태료 상향 등 교육·홍보 협조                            │\n├────────┼────────────────────────────────┤\n│국토교통부      │o 국내 입국 항공기 대상 입국 전 기내방송 및 공항 내 검역 관련   │\n│                │안내방송 및 전광판 표출 등 홍보 협조                            │\n└────────┴────────────────────────────────┘\n3. 심각단계\n┌────────┬─────────────────────────────────┐\n│부  서          │임무 및 역할                                                      │\n┝━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│국무조정실      │o아프리카돼지열병 방역 및 축산물 수급안정 관련 부처 간 협조?조   │\n│                │정 등                                                             │\n├────────┼─────────────────────────────────┤\n│행정안전부      │o상황판단회의 등을 통한 중대본 운영여부 검토                      │\n│                │o중앙재난안전대책본부 설치·운영(필요시)                          │\n│                │  -관계기관 파견요원등으로 중대본 실무반 구성?운영               │\n│                │  * 주관기관이 “심각”단계 발령후, 부처간 대책조율이 필요하다고  │\n│                │판단하여 건의하는 경우에 검토후 설치                              │\n│                │o주관·유관기관간 정보공유체계 강화                               │\n│                │o주관기관 위기경보 발령(협조)사항을 행정안전부 소관부서 및 관     │\n│                │계 지자체 등 전파                                                 │\n│                │o지자체 행·재정 지원 및 방역활동 강화 독려                       │\n│                │o지역재난안전대책본부 지휘 및 감독                                │\n│                │o필요시 중앙수습지원단 구성 및 현지 파견                          │\n│                │o재난사태 선포 여부 건의·판단 및 피해상황 보고?전파             │\n│                │o지방자치단체 특별교부세 등 지원 확대                             │\n│                │o지방자치단체에 현장상황관리관 파견                               │\n├────────┼─────────────────────────────────┤\n│재정경제부·    │o방역 및 축산물 수급안정, 농가지원대책 등 관련 소요예산 지원(협   │\n│기획예산처      │조)                                                               │\n├────────┼─────────────────────────────────┤\n│해양경찰청      │o 항만을 통한 가축ㆍ축산물의 밀반입 단속ㆍ감시 강화               │\n│                │o항만 검역활동 강화 협조, 국내입항 무역선, 외항선, 원양어선       │\n│                │등 선원 및 승객에 대한 방역조치 강화                              │\n├────────┼─────────────────────────────────┤\n│국방부          │o현장 방역·통제인력 및 장비 지원                                 │\n├────────┼─────────────────────────────────┤\n│경찰청          │o 현장 방역인력 지원 확대, 이동통제초소 인력지원                  │\n│                │o 역학조사시 지역경찰관 투입 협조(필요시)                         │\n│                │o 불법축산물 단속, 수사 고발 등 협조                              │\n├────────┼─────────────────────────────────┤\n│관세청          │o 공항·항만을 통한 가축·축산물의 밀반입 단속·감시 강화         │\n├────────┼─────────────────────────────────┤\n│식품의약품안전처│o 불법수입축산물 반입, 유통·판매 단속                            │\n│                │o 국민의 불안심리 해소를 위한 홍보 협조 강화                      │\n├────────┼─────────────────────────────────┤\n│법무부          │o 가축질병 발생국 방문농가 및 외국인근로자 등에 대한 신고 협      │\n│                │조, 해외축산물 불법반입 등 위법농가 입국제한 등 조치 협조         │\n├────────┼─────────────────────────────────┤\n│외교부          │o국제동향 등 정보 입수 지원 강화                                  │\n│국가정보원      │o해외 가축질병 발생 동향 파악 협조 강화                           │\n├────────┼─────────────────────────────────┤\n│문화체육관광부  │o ASF방역수칙 홍보 등 협조(TV 자막 광고 등)                       │\n│                │o소비자 불안심리 해소를 위한 정보제공 협조(TV 자막 광고 등)       │\n├────────┼─────────────────────────────────┤\n│기후에너지      │o 가축 매몰지 관측정 모니터링 및 지자체  조치 사항 시달(단계별    │\n│환경부          │조치사항 이행 등)                                                 │\n│                │o 살처분 매몰지 환경관리 기술지원                                 │\n│                │o 전국 야생멧돼지 현황, 이동경로 등 정보수집 공유, 야생멧돼지     │\n│                │ASF 예찰 및 질병검사                                              │\n│                │  - 야생멧돼지 ASF SOP에 따른 대응                                │\n│                │o 남은음식물의 돼지 급여 제한 시 협조                             │\n├────────┼─────────────────────────────────┤\n│고용노동부      │o 외국인근로자, 외국인 고용사업장 대상 불법 휴대축산물 반입 금지  │\n│                │및 과태료 상향 등 교육·홍보 협조                                 │\n├────────┼─────────────────────────────────┤\n│국토교통부      │o 국내 입국 항공기 대상 입국 전 기내방송 및 공항 내 검역 관련     │\n│                │안내방송 및 전광판 표출 등 홍보 협조                              │\n└────────┴─────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407315",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469395",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407305",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469385",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407315",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469395",
           "name": "",
           "file_store_url": ""
         }
@@ -3307,20 +3012,20 @@
       "kind": "별표",
       "title": "가축 등에 대한 일시 이동중지(Standstill) 조치 요령",
       "enforcement_date": "",
-      "content": "[별표 7]\n가축 등에 대한 일시 이동중지(Standstill) 조치 요령\n1. 일시 이동중지(Standstill) 정의\n가. 아프리카돼지열병이 국내에서 발생 시 확산 방지를 위하여 전국(또는 지역별)의 모든 돼지 농장 및 관련 작업장 등에 가축ㆍ사람ㆍ차량ㆍ물품 등의 출입을 일시 중지(48시간 이내 - 필요시 연장)하는 조치를 말한다.\n2. 일시 이동중지(Standstill) 발령권자, 시점 및 적용범위\n가. 발령권자 및 시점 : 농림축산식품부장관 또는 시ㆍ도지사는 아프리카돼지열병 발생상황에 따라 Standstill을 발령하며, 발령시점은 다음과 같다.\n1) 최초 발생 시(의사환축 발생 포함)\n2) 신규 시ㆍ도 단위에서 발생 시\n3) 가축방역심의회에서 결정 시 등\n나. 적용 범위 : 최초 발생 시(의사환축 발생 포함)에는 전국 단위로 발령하고, 이후부터는 가축방역심의회에서 발생농장이 소재한 시ㆍ도와 사람ㆍ차량 등의 역학관련 지역 등을 고려하여 결정한다.\n1) 다만, 시ㆍ도지사는 일시 이동중지 명령 시 지방 가축방역심의회를 통해 적용 범위 및 시간 등을 논의하여야 하며, 농림축산식품부장관과 협의를 거쳐 명령을 발령하여야 한다.\n다. 가목 및 나목에 따른 일시 이동중지 명령 발령 시점 및 적용범위는 방역상황에 따라 조정될 수 있다.\n3. 일시 이동중지(Standstill) 기간\n가. 발령시점으로부터 48시간 이내의 범위에서 유지하되 필요시 1회 48시간 이내로 연장할 수 있다.\n4. 일시 이동중지(Standstill) 적용 대상\n가. 전국 또는 지역별 모든 돼지 농장에 가축ㆍ사람ㆍ차량의 출입금지\n나. 전국 또는 지역별 모든 돼지관련 작업장에 사람, 차량, 물품 등 이동 금지\n5. 일시 이동중지(Standstill) 전파\n가. 발령권자는 관계부처, 지자체, 관련단체 및 협회에 공문조치 및 언론 등을 통해 발표한다.\n1) 발령권자는 「가축전염병 예방법」 제19조의2의 규정에 따라 아프리카돼지열병의 전국적 확산을 방지하기 위하여 전국 또는 지역의 \"가축ㆍ시설출입차량 및 축산관련 종사자에 대한 이동 중지\" 명령을 아래와 같이 공고할 수 있다.\n나. 검역본부장은 KAHIS에 등록되어 있는 돼지 사육농장 및 축산관계자에 대해 SMS 등을 통해 전파한다.\n다. 시ㆍ도지사 및 시장ㆍ군수는 관내 모든 축산농장ㆍ축산관련 종사자(업체)에게 SMS 및 마을방송 등을 통해 상황을 전파하고 동시에 「가축전염병 예방법 시행규칙」 제22조의5 규정에 따라 \"이동중지 명령\"을 공고한다.\n* SMS 예시 : ○○군 아프리카돼지열병 발생, 00월 00일 00시까지 모든 돼지 농장ㆍ작업장에 가축ㆍ사람ㆍ차량ㆍ물품 등 이동금지 발령\n라. 농협ㆍ축종별단체ㆍ협회는 자체 연락망을 통해 Standstill 발령 및 준수사항을 전파\n1) 특히, 도축ㆍ사료ㆍ동물약품ㆍ분뇨ㆍ기자재 등 모든 축산관련 작업장 경영자는 소속직원 및 지입차량 기사 등에게 즉시 통보\n6. 일시 이동중지(Standstill) 이행상황 점검\n가. 지자체에서는 주요도로에 임시 통제초소를 설치하여 축산관련차량의 이동제한을 실시한다.\n나. 축산관련 작업장 출입구에 관련차량의 이동을 통제한다.\n다. 돼지ㆍ축산관련 물품ㆍ차량ㆍ종사자의 농장출입 금지여부를 순회점검을 실시한다.\n7. 일시 이동중지(Standstill) 기간 동안 적용 대상자 조치요령\n가. 가축 등에 대한 일시 이동중지 적용 대상자는 축산관련 작업장 출입을 금지한다.\n나. 이동 중인 축산관련 차량은 출발한 장소로 돌아오거나 축산관련 작업장이 아닌 가축방역상 안전한 장소로 이동한다.\n8. 일시 이동중지(Standstill) 기간 동안 주체별 방역조치 사항\n가. 돼지농장\n1) 농장에서 사용 중인 축산차량은 농장에 주차하여 운행을 중지한 후, 차량의 내ㆍ외부를 철저히 세척ㆍ소독하며 농장의 내ㆍ외부 또한 소독을 철저하게 실시한다.\n2) 이동중지 적용 대상자 중에서 부득이 하게 이동을 하여야 하는 경우에는 승인을 받아야 하며, 이 경우 이동중지 대상자는 시ㆍ도 가축방역기관의 장에게 이동승인 신청서와 소독필증 제출하여야 한다.\n나. 축산관련 종사자 : 축산관련 종사자는 소유 차량을 사무실 또는 집에 주차하여 운행을 중지한 후 차량 내ㆍ외부를 철저히 세척 및 소독을 실시한다.\n다. 축산관련 작업장\n1) 축산관련 작업장에서 이용하는 축산관련 차량은 일시 이동중지 발령 전 해당 작업장으로 이동하고, 차량의 내ㆍ외부를 철저히 소독하고 작업장 전체에 대해 일제히 소독을 실시한다.\n2) 분뇨차량, 중간유통(계류 등) 등 기타 축산차량도 이에 준하여 조치한다.\n라. 농림축산식품부\n1) 관계 기관별 행동요령을 총괄 지휘한다.\n2) 일시 이동중지 명령 발동 후 동 명령기간 동안 이행점검 등 필요한 방역조치를 실시한다.\n3) 일시 이동중지 기간 동안 아프리카돼지열병 방역상황실 비상체제를 24시간 운영 및 대응에 따른 각종 불편 및 민원을 최소화한다.\n4) 명령 발동 이전, 지자체 및 기관, 협회(단체)별 이행 준비 상황을 확인하고 세부 실시사항에 대한 운영요령을 안내한다.\n5) 정부합동점검반 편성, 운영을 계획하고 및 일시 이동중지 이행 사항실태에 대해 점검한다.\n마. 농림축산검역본부\n1) 합동점검반편성 및 운영 계획에 따라 일시 이동중지 이행사항 실태를 점검한다.\n2) 주요도로에 거점소독시설 및 임시 통제초소를 방문하여 축산관련 차량의 이동중지 및 명령위반 여부를 점검한다.\n3) 축산관련 작업장 출입구에 관련 차량의 이동중지 및 출입 통제 여부를 점검한다.\n4) 생축ㆍ축산물품ㆍ차량ㆍ종사자의 농장의 이동중지 및 출입 통제 여부를 점검한다.\n5) 축산시설 및 축산차량의 GPS정보를 통한 축산시설 출입여부를 점검을 할 경우 이동중지 이행점검표(이하 \"이행점검표\"라 한다)를 참고하여 점검할 수 있다.\n6) 점검 후 「가축전염병 예방법령」 위반 사항이 있을 경우 해당 위반 조항에 따라 조치하고 이동중지명령 위반에 대한 확인서를 징구하고 관할 지자체에 통보한다.\n바. 시ㆍ도(시ㆍ군)\n1) 주요도로에 통제초소를 설치하고 돼지 이동을 위한 차량 등의 이동중지 이행여부를 점검 후 결과를 수시로(상황별로) 농림축산식품부에 보고한다.\n2) 자체 점검반을 구성하고 점검계획을 마련 하여 농장, 축산관계 시설(도축장, 사료공장, 분뇨처리시설 등) 등에 대한 점검을 실시한다.\n3) KAHIS의 축산차량 GPS정보를 활용하여 축산차량이 축산시설에 방문하였는지 여부를 수시로 점검하고, 위반사항 확인 시 행정 조치토록 한다.\n4) 이동중지 이행실태 점검 결과 이동중지 명령 위반자에 대하여는 관련법의 규정에 따라 처분하도록 한다.\n5) 점검반에서 동 명령 위반자에 대한 통보 즉시 관련법에 의거하여 고발 등 조치토록 한다.\n6) 관할지역의 국방부 및 경찰청에 이동통제 초소 및 거점소독시설에 인력을 지원하고 점검할 수 있도록 사전 협조를 요청한다.\n7) 농림축산검역본부 등 점검반 요청 시 각 관할 소재의 축산관계시설, 축산농장, 거점소독시설(이동통제시설)의 소재지 등에 대한 정보를 제공한다.\n사, 시ㆍ도 방역가축기관(동물위생연구소 등)\n1) 농림축산식품부장관이 이동중지 명령 시 이동중지 대상에서 예외대상으로 정해진 경우 해당자는 시ㆍ도 가축방역기관의 장에게 이동승인을 신청하고 시ㆍ도 가축방역기관의 장이 승인한다.\n2) 이동승인의 신청에 의하여 시ㆍ도 가축방역기관의 장으로 부터 이동승인을 받은 대상은 소독 등 필요한 방역조치(소독필증 제출)를 한 후 \"이동승인서\"를 발급받을 수 있다.\n* 이동승인서 : 「가축전염병 예방법 시행규칙」 별지 제8호의3서식\n아. 농협중앙회\n1) 일시 이동중지 명령 발동 이전 및 발동기간 중 축산농장 등에 대해 소독 지원 및 홍보를 실시한다.\n2) 공동방제단, 축협 방역차량 등을 이용하여 주요도로 및 방역취약지(소규모 농장 등)에 대해 일제히 소독한다.\n3) 축산농장, 축산관련시설(사료회사, 분뇨 처리업체 등)에 동 실시내용에 대해 적극 홍보한다.\n4) 매 6시간마다 소독 실적을 취합하여 농림축산식품부 상황실로 결과를 제출한다.\n5) 축산관계차량 등의 이동명령 위반에 대해 발견 시 즉시 농림축산검역본부(중앙기동점검반) 또는 관할 지자체(시ㆍ군)에 신고한다.\n자. 협회 및 계열사\n1) 소속 농장에 대해 일시 이동중지명령 준수사항 및 소독조치에 대해 홍보를 실시한다.\n※ (관련 협회) 대한한돈협회, 한국축산물처리협회 (대상 계열사) 전국 양돈계열회사\n2) 소속 회원농장에 대해 다음의 사항을 사전에 홍보하고, 명령발동기간 중 6시간 단위로 이행여부를 재확인 한다.\n- 이동중지 및 이동제한 명령을 준수하고, 소유 차량(GPS 미등록 자가용 포함) 및 농장에 대한 세척ㆍ소독을 철저히 하도록 홍보\n3) 각 협회는 매 6시간별로 농장 대상 홍보실적(SMS 등)을 취합하여 농림축산식품부 상황실로 결과를 제출한다.\n8. 일시 이동중지(Standstill) 예외 대상\n가. 사료의 보관ㆍ공급의 목적으로 불가피하게 이동하여야 하는 경우\n나. 치료 등을 목적으로 불가피하게 축산관계시설 등을 출입하여야 하는 경우\n다. 해당 지역의 아프리카돼지열병 발생 및 확산 상황을 고려하여 이동 승인이 필요하다고 인정하는 아래 사례 등의 경우\n1) 축산농장, 축산관계시설에서 머무는 사람을 위한 먹거리, 생활용품, 의약품 등 생활필수시설 공급을 위한 이동\n- 축산관계자가 아닌 일반 외부인을 통한 반입 허용하되 해당 외부인 및 반입차량에 대한 소독 등 방역조치 필수\n2) 축산농장, 축산관계시설에서 생활하는 학생이 학업을 위해 학교, 학원 등을 다니는 경우\n- 축산농장, 축산관계시설 출입 시 소독 등 방역조치 필수\n3) 축산농장, 축산관계시설에 머무는 자가 질병 등의 사유로 병원 등 의료시설을 이용해야 하는 경우\n- 축산농장, 축산관계시설 출입 시 소독 등 방역조치 필수\n4) 도축장 종사자(품질평가사, 도축검사관 포함)로서 축산관계 시설에 머무르지 않고 도축장으로 출퇴근하는 자\n- 다만, 도축장 운영조건 등은 농림축산식품부 사전 협의 후, 승인\n5) 기타 가축방역기관장의 승인을 받은 경우(농림축산식품부 협의 필요)\n라. 일시 이동중지 이행상황을 점검하거나 소독을 지원하는 경우\n마. 도축출하 가축을 운반 중인 차량의 경우(다만, 시ㆍ도지사는 도축장에 검사관 또는 가축방역관을 배치하여 도축장 도착 즉시 가축에 대한 임상관찰을 실시하여야 함)\n10. 일시 이동중지(Standstill) 명령 해제\n가. 농림축산식품부장관 또는 시ㆍ도지사는 발생농장의 역학조사에 따른 역학관련농장의 이동제한 등 방역조치가 완료되면 일시 이동제한 명령을 해제한다.\n나. 필요시 이동제한 기간을 연장할 수 있으며, 해제는 발령절차와 동일하게 전파한다.",
+      "content": "[별표 7]\n가축 등에 대한 일시 이동중지(Standstill) 조치 요령\n1. 일시 이동중지(Standstill) 정의\n가. 아프리카돼지열병이 국내에서 발생 시 확산 방지를 위하여 전국(또는 지역별)의 모든 돼지 농장 및 관련 작업장 등에 가축ㆍ사람ㆍ차량ㆍ물품 등의 출입을 일시 중지(48시간 이내 - 필요시 연장)하는 조치를 말한다.\n2. 일시 이동중지(Standstill) 발령권자, 시점 및 적용범위\n가. 발령권자 및 시점 : 농림축산식품부장관 또는 시ㆍ도지사는 아프리카돼지열병 발생상황에 따라 Standstill을 발령하며, 발령시점은 다음과 같다.\n1) 최초 발생 시(의사환축 발생 포함)\n2) 신규 시ㆍ도 단위에서 발생 시\n3) 가축방역심의회에서 결정 시 등\n나. 적용 범위 : 최초 발생 시(의사환축 발생 포함)에는 전국 단위로 발령하고, 이후부터는 가축방역심의회에서 발생농장이 소재한 시ㆍ도와 사람ㆍ차량 등의 역학관련 지역 등을 고려하여 결정한다.\n1) 다만, 시ㆍ도지사는 일시 이동중지 명령 시 지방 가축방역심의회를 통해 적용 범위 및 시간 등을 논의하여야 하며, 농림축산식품부장관과 협의를 거쳐 명령을 발령하여야 한다.\n다. 가목 및 나목에 따른 일시 이동중지 명령 발령 시점 및 적용범위는 방역상황에 따라 조정될 수 있다.\n3. 일시 이동중지(Standstill) 기간\n가. 발령시점으로부터 48시간 이내의 범위에서 유지하되 필요시 1회 48시간 이내로 연장할 수 있다.\n4. 일시 이동중지(Standstill) 적용 대상\n가. 전국 또는 지역별 모든 돼지 농장에 가축ㆍ사람ㆍ차량의 출입금지\n나. 전국 또는 지역별 모든 돼지관련 작업장에 사람, 차량, 물품 등 이동 금지\n5. 일시 이동중지(Standstill) 전파\n가. 발령권자는 관계부처, 지자체, 관련단체 및 협회에 공문조치 및 언론 등을 통해 발표한다.\n1) 발령권자는 「가축전염병 예방법」 제19조의2의 규정에 따라 아프리카돼지열병의 전국적 확산을 방지하기 위하여 전국 또는 지역의 \"가축ㆍ시설출입차량 및 축산관련 종사자에 대한 이동 중지\" 명령을 아래와 같이 공고할 수 있다.\n나. 검역본부장은 KAHIS에 등록되어 있는 돼지 사육농장 및 축산관계자에 대해 SMS 등을 통해 전파한다.\n다. 시ㆍ도지사 및 시장ㆍ군수는 관내 모든 축산농장ㆍ축산관련 종사자(업체)에게 SMS 및 마을방송 등을 통해 상황을 전파하고 동시에 「가축전염병 예방법 시행규칙」 제22조의5 규정에 따라 \"이동중지 명령\"을 공고한다.\n* SMS 예시 : ○○군 아프리카돼지열병 발생, 00월 00일 00시까지 모든 돼지 농장ㆍ작업장에 가축ㆍ사람ㆍ차량ㆍ물품 등 이동금지 발령\n라. 농협ㆍ축종별단체ㆍ협회는 자체 연락망을 통해 Standstill 발령 및 준수사항을 전파\n1) 특히, 도축ㆍ사료ㆍ동물약품ㆍ분뇨ㆍ기자재 등 모든 축산관련 작업장 경영자는 소속직원 및 지입차량 기사 등에게 즉시 통보\n6. 일시 이동중지(Standstill) 이행상황 점검\n가. 지자체에서는 주요도로에 임시 통제초소를 설치(필요 시)하여 축산관련차량의 이동제한을 실시한다.\n나. 축산관련 작업장 출입구에 관련차량의 이동을 통제한다.\n다. 돼지ㆍ축산관련 물품ㆍ차량ㆍ종사자의 농장출입 금지여부를 순회점검을 실시한다.\n7. 일시 이동중지(Standstill) 기간 동안 적용 대상자 조치요령\n가. 가축 등에 대한 일시 이동중지 적용 대상자는 축산관련 작업장 출입을 금지한다.\n나. 이동 중인 축산관련 차량은 출발한 장소로 돌아오거나 축산관련 작업장이 아닌 가축방역상 안전한 장소로 이동한다.\n8. 일시 이동중지(Standstill) 기간 동안 주체별 방역조치 사항\n가. 돼지농장\n1) 농장에서 사용 중인 축산차량은 농장에 주차하여 운행을 중지한 후, 차량의 내ㆍ외부를 철저히 세척ㆍ소독하며 농장의 내ㆍ외부 또한 소독을 철저하게 실시한다.\n2) 이동중지 적용 대상자 중에서 부득이 하게 이동을 하여야 하는 경우에는 승인을 받아야 하며, 이 경우 이동중지 대상자는 시ㆍ도 가축방역기관의 장에게 이동승인 신청서와 소독필증 제출하여야 한다.\n나. 축산관련 종사자 : 축산관련 종사자는 소유 차량을 사무실 또는 집에 주차하여 운행을 중지한 후 차량 내ㆍ외부를 철저히 세척 및 소독을 실시한다.\n다. 축산관련 작업장\n1) 축산관련 작업장에서 이용하는 축산관련 차량은 일시 이동중지 발령 전 해당 작업장으로 이동하고, 차량의 내ㆍ외부를 철저히 소독하고 작업장 전체에 대해 일제히 소독을 실시한다.\n2) 분뇨차량, 중간유통(계류 등) 등 기타 축산차량도 이에 준하여 조치한다.\n라. 농림축산식품부\n1) 관계 기관별 행동요령을 총괄 지휘한다.\n2) 일시 이동중지 명령 발동 후 동 명령기간 동안 이행점검 등 필요한 방역조치를 실시한다.\n3) 일시 이동중지 기간 동안 아프리카돼지열병 방역상황실 비상체제를 24시간 운영 및 대응에 따른 각종 불편 및 민원을 최소화한다.\n4) 명령 발동 이전, 지자체 및 기관, 협회(단체)별 이행 준비 상황을 확인하고 세부 실시사항에 대한 운영요령을 안내한다.\n5) 정부합동점검반 편성, 운영을 계획하고 및 일시 이동중지 이행 사항실태에 대해 점검한다.\n마. 농림축산검역본부\n1) 합동점검반편성 및 운영 계획에 따라 일시 이동중지 이행사항 실태를 점검한다.\n2) 주요도로에 거점소독시설 및 임시 통제초소를 방문하여 축산관련 차량의 이동중지 및 명령위반 여부를 점검한다.\n3) 축산관련 작업장 출입구에 관련 차량의 이동중지 및 출입 통제 여부를 점검한다.\n4) 생축ㆍ축산물품ㆍ차량ㆍ종사자의 농장의 이동중지 및 출입 통제 여부를 점검한다.\n5) 축산시설 및 축산차량의 GPS정보를 통한 축산시설 출입여부를 점검을 할 경우 이동중지 이행점검표(이하 \"이행점검표\"라 한다)를 참고하여 점검할 수 있다.\n6) 점검 후 「가축전염병 예방법령」 위반 사항이 있을 경우 해당 위반 조항에 따라 조치하고 이동중지명령 위반에 대한 확인서를 징구하고 관할 지자체에 통보한다.\n바. 시ㆍ도(시ㆍ군)\n1) 주요도로에 통제초소를 설치(필요 시)하고 돼지 이동을 위한 차량 등의 이동중지 이행여부를 점검 후 결과를 수시로(상황별로) 농림축산식품부에 보고한다.\n2) 자체 점검반을 구성하고 점검계획을 마련 하여 농장, 축산관계 시설(도축장, 사료공장, 분뇨처리시설 등) 등에 대한 점검을 실시한다.\n3) KAHIS의 축산차량 GPS정보를 활용하여 축산차량이 축산시설에 방문하였는지 여부를 수시로 점검하고, 위반사항 확인 시 행정 조치토록 한다.\n4) 이동중지 이행실태 점검 결과 이동중지 명령 위반자에 대하여는 관련법의 규정에 따라 처분하도록 한다.\n5) 점검반에서 동 명령 위반자에 대한 통보 즉시 관련법에 의거하여 고발 등 조치토록 한다.\n6) 필요 시 관할지역의 국방부 및 경찰청에 이동통제 초소 및 거점소독시설에 인력을 지원하고 점검할 수 있도록 사전 협조를 요청한다.\n7) 농림축산검역본부 등 점검반 요청 시 각 관할 소재의 축산관계시설, 축산농장, 거점소독시설(이동통제시설)의 소재지 등에 대한 정보를 제공한다.\n사. 시ㆍ도 방역가축기관(동물위생시험소 등)\n1) 농림축산식품부장관이 이동중지 명령 시 이동중지 대상에서 예외대상으로 정해진 경우 해당자는 시ㆍ도 가축방역기관의 장에게 이동승인을 신청하고 시ㆍ도 가축방역기관의 장이 승인한다.\n2) 이동승인의 신청에 의하여 시ㆍ도 가축방역기관의 장으로 부터 이동승인을 받은 대상은 소독 등 필요한 방역조치(소독필증 제출)를 한 후 \"이동승인서\"를 발급받을 수 있다.\n* 이동승인서 : 「가축전염병 예방법 시행규칙」 별지 제8호의3서식\n아. 농협중앙회\n1) 일시 이동중지 명령 발동 이전 및 발동기간 중 축산농장 등에 대해 소독 지원 및 홍보를 실시한다.\n2) 공동방제단, 축협 방역차량 등을 이용하여 주요도로 및 방역취약지(소규모 농장 등)에 대해 일제히 소독한다.\n3) 축산농장, 축산관련시설(사료회사, 분뇨 처리업체 등)에 동 실시내용에 대해 적극 홍보한다.\n4) 매 6시간마다 소독 실적을 취합하여 농림축산식품부 상황실로 결과를 제출한다.\n5) 축산관계차량 등의 이동명령 위반에 대해 발견 시 즉시 농림축산검역본부(중앙기동점검반) 또는 관할 지자체(시ㆍ군)에 신고한다.\n자. 협회 및 계열사\n1) 소속 농장에 대해 일시 이동중지명령 준수사항 및 소독조치에 대해 홍보를 실시한다.\n※ (관련 협회) 대한한돈협회, 한국축산물처리협회 (대상 계열사) 전국 양돈계열회사\n2) 소속 회원농장에 대해 다음의 사항을 사전에 홍보하고, 명령발동기간 중 6시간 단위로 이행여부를 재확인 한다.\n- 이동중지 및 이동제한 명령을 준수하고, 소유 차량(GPS 미등록 자가용 포함) 및 농장에 대한 세척ㆍ소독을 철저히 하도록 홍보\n3) 각 협회는 매 6시간별로 농장 대상 홍보실적(SMS 등)을 취합하여 농림축산식품부 상황실로 결과를 제출한다.\n8. 일시 이동중지(Standstill) 예외 대상\n가. 사료의 보관ㆍ공급의 목적으로 불가피하게 이동하여야 하는 경우\n나. 치료 등을 목적으로 불가피하게 축산관계시설 등을 출입하여야 하는 경우\n다. 해당 지역의 아프리카돼지열병 발생 및 확산 상황을 고려하여 이동 승인이 필요하다고 인정하는 아래 사례 등의 경우\n1) 축산농장, 축산관계시설에서 머무는 사람을 위한 먹거리, 생활용품, 의약품 등 생활필수시설 공급을 위한 이동\n- 축산관계자가 아닌 일반 외부인을 통한 반입 허용하되 해당 외부인 및 반입차량에 대한 소독 등 방역조치 필수\n2) 축산농장, 축산관계시설에서 생활하는 학생이 학업을 위해 학교, 학원 등을 다니는 경우\n- 축산농장, 축산관계시설 출입 시 소독 등 방역조치 필수\n3) 축산농장, 축산관계시설에 머무는 자가 질병 등의 사유로 병원 등 의료시설을 이용해야 하는 경우\n- 축산농장, 축산관계시설 출입 시 소독 등 방역조치 필수\n4) 도축장 종사자(품질평가사, 도축검사관, 도축검사원 포함)로서 축산관계 시설에 머무르지 않고 도축장으로 출퇴근하는 자\n- 다만, 도축장 운영조건 등은 농림축산식품부 사전 협의 후, 승인\n5) 기타 가축방역기관장의 승인을 받은 경우(농림축산식품부 협의 필요)\n라. 일시 이동중지 이행상황을 점검하거나 소독을 지원하는 경우\n마. 도축출하 가축을 운반 중인 차량의 경우(다만, 시ㆍ도지사는 도축장에 검사관 또는 가축방역관을 배치하여 도축장 도착 즉시 가축에 대한 임상관찰을 실시하여야 함)\n10. 일시 이동중지(Standstill) 명령 해제\n가. 농림축산식품부장관 또는 시ㆍ도지사는 발생농장의 역학조사에 따른 역학관련농장의 이동제한 등 방역조치가 완료되면 일시 이동제한 명령을 해제한다.\n나. 필요시 이동제한 기간을 연장할 수 있으며, 해제는 발령절차와 동일하게 전파한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0007&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407329",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469409",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407317",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469397",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407329",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469409",
           "name": "",
           "file_store_url": ""
         }
@@ -3340,18 +3045,18 @@
       "enforcement_date": "",
       "content": "[별표 8]\n검사시료 채취 및 송부요령(제12조제1항 관련)\n1. 아프리카돼지열병 검사를 위한 농장의 검사시료 채취 기준은 다음과 같다.\n가. 조직 시료의 경우 비장, 림프절, 필요시 편도, 간, 심장, 폐, 신장 등의 실질 장기\n나. 혈액 시료의 경우 전혈(EDTA 처리, 개체당 7ml 이상)\n※ 발생 돈사의 경우 필요시 조정 가능\n2. 검사시료 채취대상은 동일 농장 내 동거축에 대해 반드시 철저한 임상검사를 실시한 후 아프리카돼지열병이 의심되는 개체를 선정하여 시료채취를 실시하도록 한다.\n3. 시료 송부시 다음 사항을 기재한 시료채취내역서(별지 제3호 서식)를 반드시 첨부하여야 하며, 시료가 운송 중 누출되거나 파손되지 않도록 적절히 밀폐 포장하여야 한다.\n- 농장명, 축주명, 농장주소, 연락처, 시료채취 연월일, 시료채취시 임상증상 유무(고열, 폐사, 사료섭취량 감소, 피부충출혈 등)\n4. 송부처 : 농림축산검역본부(해외전염병과) 또는 시ㆍ도 아프리카돼지열병 정밀진단기관",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274152&bylNo=0008&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407335",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000288188&bylNo=0008&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469415",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407331",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469411",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407335",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469415",
           "name": "",
           "file_store_url": ""
         }
@@ -3369,20 +3074,20 @@
       "kind": "별지",
       "title": "아프리카돼지열병 의심축 신고서",
       "enforcement_date": "",
-      "content": "[별지 제1호서식]\n아프리카돼지열병 의심축 신고서\n┌─────────────────────────────────────┐\n│                                                                          │\n│                                                                          │\n│1. 신고접수월일 :                         접수시각 : (오전/오후)          │\n│                                                                          │\n│2. 신고자 주소 :                           전화번호 :                     │\n│                                                                          │\n│     성명 :                                (직   업)                      │\n│                                                                          │\n│3. 발생농가의 주소 :                       전화번호 :                     │\n│                                                                          │\n│     성명 :                                                               │\n│                                                                          │\n│4. 신고사항                                                               │\n│                                                                          │\n│   축종 :                                                                 │\n│                                                                          │\n│   사육두수 :                                                             │\n│                                                                          │\n│   발생두수 :                                                             │\n│                                                                          │\n│5. 증상, 병력, 특이사항                                                   │\n│                                                                          │\n│6. 사전에 응급조치한 사항                                                 │\n│                                                                          │\n│                                                                          │\n│7. 신고자에 대한 지시사항                                                 │\n│                                                                          │\n│                                                                          │\n│8. 신고접수자                                                             │\n│  소속 :                  직급 :               성명 :                     │\n│                                                                          │\n│9. 조치사항(조치시간 및 내역)                                             │\n│                                                                          │\n│                                                                          │\n│                                                                          │\n└─────────────────────────────────────┘",
+      "content": "[별지 제1호서식]\n아프리카돼지열병 의심축 신고서\n┌─────────────────────────────────────┐\n│                                                                          │\n│                                                                          │\n│ 1. 신고접수월일 :                         접수시각 : (오전/오후)         │\n│                                                                          │\n│2. 신고자 주소 :                           전화번호 :                     │\n│                                                                          │\n│     성명 :                                (직   업)                      │\n│                                                                          │\n│3. 발생농가의 주소 :                       전화번호 :                     │\n│                                                                          │\n│     성명 :                                                               │\n│                                                                          │\n│4. 신고사항                                                               │\n│                                                                          │\n│   축종 :                                                                 │\n│                                                                          │\n│   사육두수 :                                                             │\n│                                                                          │\n│   발생두수 :                                                             │\n│                                                                          │\n│5. 증상, 병력, 특이사항                                                   │\n│                                                                          │\n│6. 사전에 응급조치한 사항                                                 │\n│                                                                          │\n│                                                                          │\n│7. 신고자에 대한 지시사항                                                 │\n│                                                                          │\n│                                                                          │\n│8. 신고접수자                                                             │\n│  소속 :                  직급 :               성명 :                     │\n│                                                                          │\n│9. 조치사항(조치시간 및 내역)                                             │\n│                                                                          │\n│                                                                          │\n│                                                                          │\n└─────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407341",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469421",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407337",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469417",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407341",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469421",
           "name": "",
           "file_store_url": ""
         }
@@ -3400,20 +3105,20 @@
       "kind": "별지",
       "title": "아프리카돼지열병 의사환축 발생신고서",
       "enforcement_date": "",
-      "content": "[별지 제2호서식]\n아프리카돼지열병 의사환축 발생신고서\n┌────────────────────────────────────────┐\n│                                                                                │\n│                                                                                │\n│                                                                                │\n│ 1. 신고자 성명 :                 월일 :                시각 :                  │\n│ 2. 축주  주소 :                                                                │\n│         성명 :                                                                 │\n│          전화번호 :                                                            │\n│          축사 소재지(축주의 주소와 상이한 경우) :                              │\n│ 3. 현지 조사일 :                  시간 :                                       │\n│ 4. 사육두수 : 총   두                                                          │\n│  - 모돈    , 후보돈    , 비육돈    , 육성돈    , 자돈    , 웅돈                │\n│ 5. 환축(축종, 두수)                                                            │\n│  -                                                                             │\n│  -                                                                             │\n│ 6. 병력, 증상, 병변의 개요                                                     │\n│  -                                                                             │\n│  -                                                                             │\n│ 7. 진단 소견(출장자의 소견도 기재)                                             │\n│  -                                                                             │\n│                                                                                │\n│ 8. 시료 채취내역                                                               │\n│                                                                                │\n│ 9. 조치사항                                                                    │\n│  - 출입구의 폐쇄, 가축의 계류, 소독조의 설치                                   │\n│                                                                                │\n│                                                                                │\n│                                                                                │\n│ 10. 과거 21일간의 가축의 이동상황                                              │\n│  - 판매                                                                        │\n│  - 구입                                                                        │\n│                                                                                │\n│ 11. 과거 10일간에 접촉한 자                                                    │\n│  - 출입한적이 있는 수의사, 가축인공수정사, 가축중개상, 농장관리자              │\n│  - 다른 축사에의 방문 여부                                                     │\n│                                                                                │\n│ 12. 축주의 관리하는 다른 축사(두수)                                            │\n│                                                                                │\n│ 13. 500m이내 양돈농가의 유무                                                   │\n│                                                                                │\n│ 14. 도축                                                                       │\n│  - 도축장명 :                                                                  │\n│  - 도축장 소재지 :                                                             │\n│                                                                                │\n│ 15. 외국인 근로자 고용여부                                                     │\n│                                                                                │\n│ 16. 축주(가족포함) 및 종사자의 최근 21일 이내 해외출입국사실 여부              │\n│                                                                                │\n│ 17. 최근 21일 이내 외국에서 들어온 소포의 여부                                 │\n│                                                                                │\n│ 18. 기타 참고될 만한 사항                                                      │\n│                                                                                │\n│                                                                                │\n│ 출장자 성명                월일                   시각                         │\n│                                                                                │\n│                                                                                │\n└────────────────────────────────────────┘",
+      "content": "[별지 제2호서식]\n┌────────────────────────────────────────┐\n│                                                                                │\n│ 1. 신고자 성명 :                 월일 :                시각 :                  │\n│ 2. 축주  주소 :                                                                │\n│         성명 :                                                                 │\n│          전화번호 :                                                            │\n│          축사 소재지(축주의 주소와 상이한 경우) :                              │\n│ 3. 현지 조사일 :                  시간 :                                       │\n│ 4. 사육두수 : 총   두                                                          │\n│  - 모돈    , 후보돈    , 비육돈    , 육성돈    , 자돈    , 웅돈                │\n│ 5. 환축(축종, 두수)                                                            │\n│  -                                                                             │\n│  -                                                                             │\n│ 6. 병력, 증상, 병변의 개요                                                     │\n│  -                                                                             │\n│  -                                                                             │\n│ 7. 진단 소견(출장자의 소견도 기재)                                             │\n│  -                                                                             │\n│                                                                                │\n│ 8. 시료 채취내역                                                               │\n│                                                                                │\n│ 9. 조치사항                                                                    │\n│  - 출입구의 폐쇄, 가축의 계류, 소독조의 설치                                   │\n│                                                                                │\n│                                                                                │\n│                                                                                │\n│ 10. 과거 19일간의 가축의 이동상황                                              │\n│  - 판매                                                                        │\n│  - 구입                                                                        │\n│                                                                                │\n│ 11. 과거 10일간에 접촉한 자                                                    │\n│  - 출입한적이 있는 수의사, 가축인공수정사, 가축중개상, 농장관리자              │\n│  - 다른 축사에의 방문 여부                                                     │\n│                                                                                │\n│ 12. 축주의 관리하는 다른 축사(두수)                                            │\n│                                                                                │\n│ 13. 500m이내 양돈농가의 유무                                                   │\n│                                                                                │\n│ 14. 도축                                                                       │\n│  - 도축장명 :                                                                  │\n│  - 도축장 소재지 :                                                             │\n│                                                                                │\n│ 15. 외국인 근로자 고용여부                                                     │\n│                                                                                │\n│ 16. 축주(가족포함) 및 종사자의 최근 19일 이내 해외출입국사실 여부              │\n│                                                                                │\n│ 17. 최근 19일 이내 외국에서 들어온 소포의 여부                                 │\n│                                                                                │\n│ 18. 기타 참고될 만한 사항                                                      │\n│                                                                                │\n│                                                                                │\n│ 출장자 성명                월일                   시각                         │\n│                                                                                │\n└────────────────────────────────────────┘\n아프리카돼지열병 의사환축 발생신고서",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407349",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469429",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407343",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469423",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407349",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469429",
           "name": "",
           "file_store_url": ""
         }
@@ -3434,17 +3139,17 @@
       "content": "[별지 제3호서식]\n진단용 시료 채취 기록서\n1. 일반사항\nㅇ 담당 가축방역관의 소속 및 성명 :\nㅇ 시료채취자의 소속 및 성명 :\nㅇ 축주의 성명 및 주소 :\nㅇ 시료 채취일자 및 시간 :\n2. 의심질병에 관한 사항\nㅇ 의심되는 질병명 :\nㅇ 당해 농장의 병력 :\n3. 임상관찰 결과\nㅇ 관찰 두수 :\nㅇ 의심질병 임상증상 유무(고열, 폐사, 사료섭취량 감소, 피부충출혈 등)\nㅇ 기타 소견 :\n4. 시료에 관한 사항\nㅇ 가축시료 :     두,     점\n- 증상축 :     두,     점 (전혈     점, 혈청     점, 조직     점)\n- 동거축 :     두,     점 (전혈     점, 혈청     점, 조직     점)\nㅇ 환경시료 :     점\n* 시료채취 세부내역 : 붙임\n5. 시료 및 동물에 관한 기타사항\n[붙임] 시료채취 세부내역\n□ 가축 시료\n┌──┬───┬───┬──┬──┬───────┬───────┬─────────┬──────┐\n│번호│축종  │축사  │연령│성별│병변발생 후   │체온 또는     │시료내역(점수)    │비고        │\n│    │(품종)│및    │    │    │경과시간(추정)│폐사 후       ├──┬──┬───┤(동거축     │\n│    │      │돈방  │    │    │              │경과시간(추정 │전혈│혈청│조직  │또는 증상축 │\n│    │      │구분  │    │    │              │)             │    │    │(채취 │표시)       │\n│    │      │      │    │    │              │              │    │    │부위) │            │\n┝━━┿━━━┿━━━┿━━┿━━┿━━━━━━━┿━━━━━━━┿━━┿━━┿━━━┿━━━━━━┥\n│1   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│2   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│3   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│4   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│5   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│6   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│7   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│8   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│9   │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│10  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│11  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│12  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│13  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│14  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│15  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│16  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│17  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│18  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│19  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│20  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│21  │      │      │    │    │              │              │    │    │      │            │\n├──┼───┼───┼──┼──┼───────┼───────┼──┼──┼───┼──────┤\n│：  │      │      │    │    │              │              │    │    │      │            │\n└──┴───┴───┴──┴──┴───────┴───────┴──┴──┴───┴──────┘\n□ 환경 시료\n┌──┬─────┬─────┬────────┬──┬──┬──┐\n│번호│채취 장소 │채취 대상 │채취 방법       │건수│점수│비고│\n│    │          │          │(VTM, 면봉,     │    │    │    │\n│    │          │          │코니컬 튜브 등) │    │    │    │\n┝━━┿━━━━━┿━━━━━┿━━━━━━━━┿━━┿━━┿━━┥\n│1   │          │          │                │    │    │    │\n├──┼─────┼─────┼────────┼──┼──┼──┤\n│2   │          │          │                │    │    │    │\n└──┴─────┴─────┴────────┴──┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407357",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469437",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407351",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469431",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407357",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469437",
           "name": "",
           "file_store_url": ""
         }
@@ -3460,31 +3165,31 @@
       "no": "0004",
       "branch": "00",
       "kind": "별지",
-      "title": "소독필증",
+      "title": "소독필증(제20조제4항 관련)",
       "enforcement_date": "",
-      "content": "[별지 제4호서식] 소독필증(제20조제4항 관련)\n┌────────────────────────────────────────────────┐\n│일련번호 :                                                                                      │\n│소독필증                                                                                        │\n├────┬─────┬─┬──────┬────────────────────────────┤\n│운전자  │성명      │  │차량번호    │                                                        │\n│        ├─────┼─┴──────┴────────────────────────────┤\n│        │주소      │(연락처 :               )                                                 │\n├────┼─────┼─┬────┬──┬─┬─────────────────────────┤\n│소독내역│소독일시  │  │이동경로│    │→│                                                  │\n│        ├─────┼─┴────┴──┴─┴─────────────────────────┤\n│        │이동목적  │                                                                          │\n├────┼─────┼─────────────────────────────────────┤\n│소독    │소독지역  │□ 발생지, □ 보호지역, □ 예찰지역, □ 야생멧돼지 예찰지역, □ ○○ 시? │\n│실시자  │          │군, □ ○○ 시?도                                                        │\n│        ├─────┼─────────────────────────────────────┤\n│        │소독장소명│                                                                          │\n│        ├─────┼┬──┬───┬──┬──────────────────────────┤\n│        │소속      ││직급│      │성명│                                                    │\n├────┴─────┴┴──┴───┴──┴──────────────────────────┤\n│ 가축전염병예방법 제17조제3항에 따라 위와 같이 소독을 실시하였음을 증명합니다.                  │\n│년        월       일                                                                           │\n│소독실시 확인자  소속 :           직 :            성명 :         (서명)                         │\n└────────────────────────────────────────────────┘\n--------------------------- 절취선----------------------------\n┌────────────────────────────────────────────────┐\n│일련번호 :                                                                                      │\n│소독필증                                                                                        │\n├────┬─────┬─┬──────┬────────────────────────────┤\n│운전자  │성명      │  │차량번호    │                                                        │\n│        ├─────┼─┴──────┴────────────────────────────┤\n│        │주소      │(연락처 :               )                                                 │\n├────┼─────┼─┬────┬──┬─┬─────────────────────────┤\n│소독내역│소독일시  │  │이동경로│    │→│                                                  │\n│        ├─────┼─┴────┴──┴─┴─────────────────────────┤\n│        │이동목적  │                                                                          │\n├────┼─────┼─────────────────────────────────────┤\n│소독    │소독지역  │□ 발생지, □ 보호지역, □ 예찰지역, □ 야생멧돼지 예찰지역, □ ○○ 시? │\n│실시자  │          │군, □ ○○ 시?도                                                        │\n│        ├─────┼─────────────────────────────────────┤\n│        │소독장소명│                                                                          │\n│        ├─────┼┬──┬───┬──┬──────────────────────────┤\n│        │소속      ││직급│      │성명│                                                    │\n├────┴─────┴┴──┴───┴──┴──────────────────────────┤\n│ 가축전염병예방법 제17조제3항에 따라 위와 같이 소독을 실시하였음을 증명합니다.                  │\n│년        월       일                                                                           │\n│소독실시 확인자  소속 :           직 :            성명 :         (서명)                         │\n└────────────────────────────────────────────────┘\n--------------------------- 절취선----------------------------\n┌────────────────────────────────────────────────┐\n│일련번호 :                                                                                      │\n│소독필증                                                                                        │\n├────┬─────┬─┬──────┬────────────────────────────┤\n│운전자  │성명      │  │차량번호    │                                                        │\n│        ├─────┼─┴──────┴────────────────────────────┤\n│        │주소      │(연락처 :               )                                                 │\n├────┼─────┼─┬────┬──┬─┬─────────────────────────┤\n│소독내역│소독일시  │  │이동경로│    │→│                                                  │\n│        ├─────┼─┴────┴──┴─┴─────────────────────────┤\n│        │이동목적  │                                                                          │\n├────┼─────┼─────────────────────────────────────┤\n│소독    │소독지역  │□ 발생지, □ 보호지역, □ 예찰지역, □ 야생멧돼지 예찰지역, □ ○○ 시? │\n│실시자  │          │군, □ ○○ 시?도                                                        │\n│        ├─────┼─────────────────────────────────────┤\n│        │소독장소명│                                                                          │\n│        ├─────┼┬──┬───┬──┬──────────────────────────┤\n│        │소속      ││직급│      │성명│                                                    │\n├────┴─────┴┴──┴───┴──┴──────────────────────────┤\n│ 가축전염병예방법 제17조제3항에 따라 위와 같이 소독을 실시하였음을 증명합니다.                  │\n│년        월       일                                                                           │\n│소독실시 확인자  소속 :           직 :            성명 :         (서명)                         │\n└────────────────────────────────────────────────┘",
+      "content": "[별지 제4호서식] 소독필증(제20조제4항 관련)\n┌──────────────────────────────────────────┐\n│일련번호 :                                                                          │\n│소독필증                                                                            │\n├────┬─────┬─┬──────┬──────────────────────┤\n│운전자  │성명      │  │차량번호    │                                            │\n│        ├─────┼─┴──────┴──────────────────────┤\n│        │주소      │(연락처 :               )                                     │\n├────┼─────┼─┬────┬──┬─┬───────────────────┤\n│소독내역│소독일시  │  │이동경로│    │→│                                      │\n│        ├─────┼─┴────┴──┴─┴───────────────────┤\n│        │이동목적  │                                                              │\n├────┼─────┼───────────────────────────────┤\n│소독    │소독지역  │□ 발생지, □ 보호지역, □ 예찰지역, □ 야생멧돼지 예찰지역,  │\n│실시자  │          │□ ○○ 시?군, □ ○○ 시?도                                │\n│        ├─────┼───────────────────────────────┤\n│        │소독장소명│                                                              │\n│        ├─────┼┬──┬───┬──┬────────────────────┤\n│        │소속      ││직급│      │성명│                                        │\n├────┴─────┴┴──┴───┴──┴────────────────────┤\n│ 가축전염병예방법 제17조제3항에 따라 위와 같이 소독을 실시하였음을 증명합니다.      │\n│년        월       일                                                               │\n│소독실시 확인자  소속 :           직 :            성명 :         (서명)             │\n└──────────────────────────────────────────┘\n--------------------------- 절취선----------------------------\n┌──────────────────────────────────────────┐\n│일련번호 :                                                                          │\n│소독필증                                                                            │\n├────┬─────┬─┬──────┬──────────────────────┤\n│운전자  │성명      │  │차량번호    │                                            │\n│        ├─────┼─┴──────┴──────────────────────┤\n│        │주소      │(연락처 :               )                                     │\n├────┼─────┼─┬────┬──┬─┬───────────────────┤\n│소독내역│소독일시  │  │이동경로│    │→│                                      │\n│        ├─────┼─┴────┴──┴─┴───────────────────┤\n│        │이동목적  │                                                              │\n├────┼─────┼───────────────────────────────┤\n│소독    │소독지역  │□ 발생지, □ 보호지역, □ 예찰지역, □ 야생멧돼지 예찰지역,  │\n│실시자  │          │□ ○○ 시?군, □ ○○ 시?도                                │\n│        ├─────┼───────────────────────────────┤\n│        │소독장소명│                                                              │\n│        ├─────┼┬──┬───┬──┬────────────────────┤\n│        │소속      ││직급│      │성명│                                        │\n├────┴─────┴┴──┴───┴──┴────────────────────┤\n│ 가축전염병예방법 제17조제3항에 따라 위와 같이 소독을 실시하였음을 증명합니다.      │\n│년        월       일                                                               │\n│소독실시 확인자  소속 :           직 :            성명 :         (서명)             │\n└──────────────────────────────────────────┘\n--------------------------- 절취선----------------------------\n┌──────────────────────────────────────────┐\n│일련번호 :                                                                          │\n│소독필증                                                                            │\n├────┬─────┬─┬──────┬──────────────────────┤\n│운전자  │성명      │  │차량번호    │                                            │\n│        ├─────┼─┴──────┴──────────────────────┤\n│        │주소      │(연락처 :               )                                     │\n├────┼─────┼─┬────┬──┬─┬───────────────────┤\n│소독내역│소독일시  │  │이동경로│    │→│                                      │\n│        ├─────┼─┴────┴──┴─┴───────────────────┤\n│        │이동목적  │                                                              │\n├────┼─────┼───────────────────────────────┤\n│소독    │소독지역  │□ 발생지, □ 보호지역, □ 예찰지역, □ 야생멧돼지 예찰지역,  │\n│실시자  │          │□ ○○ 시?군, □ ○○ 시?도                                │\n│        ├─────┼───────────────────────────────┤\n│        │소독장소명│                                                              │\n│        ├─────┼┬──┬───┬──┬────────────────────┤\n│        │소속      ││직급│      │성명│                                        │\n├────┴─────┴┴──┴───┴──┴────────────────────┤\n│ 가축전염병예방법 제17조제3항에 따라 위와 같이 소독을 실시하였음을 증명합니다.      │\n│년        월       일                                                               │\n│소독실시 확인자  소속 :           직 :            성명 :         (서명)             │\n└──────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407363",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469443",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407359",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469439",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407363",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469443",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:아프리카돼지열병방역실시요령#BJ0004",
-      "filename": "별지4_소독필증.hwp",
+      "filename": "별지4_소독필증(제20조제4항 관련).hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4_소독필증.hwp",
+      "local_path": "별지/별지4_소독필증(제20조제4항 관련).hwp",
       "file_store_url": ""
     },
     {
@@ -3493,20 +3198,20 @@
       "kind": "별지",
       "title": "병성감정의뢰서(제11조제3항 관련)",
       "enforcement_date": "",
-      "content": "[별지 제5호서식] 병성감정의뢰서(제11조제3항 관련)\n(앞쪽)\n┏━━━━━━━┳━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┳━━━━━━┳━━━━━━━━━━━┓\n┃접수번호      ┃              ┃병 성 감 정 의 뢰 서                      ┃처리 기간   ┃18일                  ┃\n┃              ┃              ┃(산업동물용)                              ┃            ┃                      ┃\n┣━━━━━━━╋━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┻━━━━━━┻━━━━━━━━━━━┫\n┃의뢰인*       ┃성  명        │                                                                                ┃\n┃              ┠───────┼─────┬────┬──────────┬─────┬────────────┨\n┃              ┃업체명        │          │일반전화│                    │휴대전화  │                        ┃\n┃              ┠───────┼─────┴────┴──────────┴─────┴────────────┨\n┃              ┃주  소        │                                                                                ┃\n┃              ┠───────┼──────────┬──────────┬──────────────────┨\n┃              ┃전자우편주소  │                    │팩스 번호           │                                    ┃\n┃              ┠───────┼──────────┴──────────┴──────────────────┨\n┃              ┃결과통보 방법 │  ? 우편               ? 팩스               ? 전자우편                       ┃\n┣━━━━━━━╋━━━━━━━┿━━━━━┯━━━━┯━━━━━━━━━━┯━━━━━┯━━━━━━━━━━━━┫\n┃사육농장      ┃ 축주 성명    │          │일반전화│                    │휴대전화  │                        ┃\n┃현황*         ┠───────┼─────┼────┼──────────┴─────┴────────────┨\n┃              ┃농장명        │          │주소    │                                                          ┃\n┃              ┠───────┼─────┴────┼──────────┬──────────────────┨\n┃              ┃축종          │                    │품종                │                                    ┃\n┣━━━━━━━╋━━━━━━━┿━━━━━━━┯━━┷━━━┯━━━━━━┷━━┯━━━━━━━━━━━━━━━┫\n┃              ┃구분          │성축(계)      │비육축(계)  │육성축(계)        │자축(계)                      ┃\n┃사육단계별    ┠───────┼───────┼──────┼─────────┼───────────────┨\n┃질병발생상황  ┃사육두수      │(두/수)       │(두/수)     │(두/수)           │(두/수)                       ┃\n┃              ┠───────┼───────┼──────┼─────────┼───────────────┨\n┃              ┃발생두수      │(두/수)       │(두/수)     │(두/수)           │(두/수)                       ┃\n┃              ┠───────┼───────┼──────┼─────────┼───────────────┨\n┃              ┃발생연령      │(연/월)       │(일/월)     │(일/월)           │(일)                          ┃\n┃              ┠───────┼───────┼──────┼─────────┼───────────────┨\n┃              ┃폐사내역      │(두/수)       │(두/수)     │(두/수)           │(두/수)                       ┃\n┃              ┠───────┼───────┼──────┼─────────┼───────────────┨\n┃              ┃최초 발생일   │(연월일)      │(연월일)    │(연월일)          │(연월일)                      ┃\n┃              ┠───────┼───────┼──────┼─────────┼───────────────┨\n┃              ┃최초 폐사일   │              │            │                  │                              ┃\n┃              ┠───────┼───────┴──────┼─────────┴───────────────┨\n┃              ┃축사 동별     │(폐사두수 /사육두수)        │                                                  ┃\n┃              ┃폐사율        │                            │                                                  ┃\n┣━━━━━━━╋━━━━━━━┷━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃임상증상*     ┃ ? 소화기계       ? 호흡기계       ? 신경계       ? 급사                                    ┃\n┃(주요 증상을  ┃ ? 유사산 (*아래 유사산 정보 기입 요망)       ? 중독       ? 기타 (      )                   ┃\n┃자세히 기재)  ┠────────────────────────────────────────────────┨\n┃              ┃                                                                                                ┃\n┃              ┣━━━━━━━┯━━━━━━━┯━━━━━━┯━━━━━━━━━┯━━━━━━━━━━━━━━━┫\n┃              ┃*유사산       │유산 월령     │모축 산차수 │유산 경력         │유산태아 기형 유무            ┃\n┃              ┃정보          ├───────┼──────┼─────────┼───────────────┨\n┃              ┃              │              │            │ ? 유      ? 무 │ ? 유      ? 무             ┃\n┣━━━━━━━╋━━━━━━━┷━━━━━┯━┷━━━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━┫\n┃농장내        ┃백신 접종 내역            │                                                                    ┃\n┃질병발생      ┃(종류, 시기)              │                                                                    ┃\n┃및            ┠─────────────┼──────────────────────────────────┨\n┃치료내역      ┃최근 6개월간 약물 투여 및 │                                                                    ┃\n┃              ┃치료효과                  │                                                                    ┃\n┃              ┠─────────────┼──────────────────────────────────┨\n┃              ┃수의사의 최근 진료 (치료) │                                                                    ┃\n┃              ┃일시 및 내용              │                                                                    ┃\n┃              ┠─────────────┼──────────────────────────────────┨\n┃              ┃최근 6개월간 질병 발생 상황│                                                                    ┃\n┃              ┠─────────────┼──────────────────────────────────┨\n┃              ┃최근 30일간 가축 구입 여부│                                                                    ┃\n┣━━━━━━━╋━━━━━━━┯━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃사육환경      ┃사육 형태     │ □ 축사사육    □ 방목    □ 기타 (    ）                                      ┃\n┃              ┠───────┼────────────────────────────────────────┨\n┃              ┃최근 사육환경 │ □ 가축 이동    □ 살충제 등 도포    □ 쥐약 사용    □ 동물사 신축            ┃\n┃              ┃변화          │ □ 구축사의 리모델링, 분뇨 제거          □ 기타 (      ）                   ┃\n┃              ┠───────┼────────────────────────────────────────┨\n┃              ┃사료의 종류   │ □ 농후사료(곡류)    □ 조사료(볏짚·목초)    □ 기타 사료(  )                 ┃\n┃              ┃및 급여상황   │ □ 최근 사료의 변화 *바뀐 급여 방법 사료 종류 등이 있을 경우 기재              ┃\n┃              ┠───────┼────────────────────────────────────────┨\n┃              ┃음수 급여상황 │ □ 지하수    □ 상수도    □ 최근 음수 변화                                    ┃\n┣━━━━━━━╋━━━━━┯━┷━━━┯━━┯━━┯━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━┫\n┃가검물        ┃구분      │의뢰두수  │연령│성별│체중                │귀표번호    │비고                    ┃\n┃내역*         ┃          │(시료수)  │    │    │(정확하지 않을 경우 │            │                        ┃\n┃              ┃          │          │    │    │어림잡아 기입)      │            │                        ┃\n┃              ┠─────┼─────┼──┼──┼──────────┼──────┼────────────┨\n┃              ┃(예)생축  │          │    │    │                    │필요 시 기재│발병시기 등 기재        ┃\n┃              ┠─────┼─────┼──┼──┼──────────┼──────┼────────────┨\n┃              ┃(예)사축  │          │    │    │                    │            │폐사 또는 안락사 일시,  ┃\n┃              ┃          │          │    │    │                    │            │안락사 방법 등 기재     ┃\n┃              ┠─────┼─────┼──┼──┼──────────┼──────┼────────────┨\n┃              ┃(예)부검  │          │    │    │                    │            │부검일시, 부검소견,     ┃\n┃              ┃장기      │          │    │    │                    │            │장기종류 등 자세히 기재 ┃\n┃              ┠─────┼─────┼──┼──┼──────────┼──────┼────────────┨\n┃              ┃(예)혈액  │          │    │    │                    │            │시료 성상(색깔, 냄새,   ┃\n┃              ┃또는      │          │    │    │                    │            │점도 등) 자세히 기재    ┃\n┃              ┃분변      │          │    │    │                    │            │                        ┃\n┃              ┠─────┼─────┴──┴──┴──────────┴──────┼────────────┨\n┃              ┃(예)사료  │                                                          │상세내용 및 검사 의뢰   ┃\n┃              ┃또는      │                                                          │항목 기재               ┃\n┃              ┃음수      │                                                          │                        ┃\n┣━━━━━━━╋━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┫\n┃검사          ┃ 1.? 부검    2.? 혈액검사    3.? 혈청화학검사     4.? 병리조직검사    5.? 바이러스검사     ┃\n┃의뢰항목*     ┃ 6.? 세균 배양 및 항생제 감수성시험    7.? 분변 내 기생충검사                                 ┃\n┃              ┃ 8.? 분변의 전자현미경검사    9.? 유산 관련 질병 검사                                         ┃\n┃              ┃10.? 중독 관련 질병 검사                                                                       ┃\n┃              ┃ · 원하시는 검사 항목에 표시하세요. (1번은 2번부터 10번을 포함합니다.)                         ┃\n┃              ┠───────┬────────────────────────────────────────┨\n┃              ┃기타          │                                                                                ┃\n┃              ┃요구 사항     │                                                                                ┃\n┣━━━━━━━┻━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┫\n┃「가축전염병 예방법」 제12조 제1항 및 제46조 규정에 의하여                            │수수료                  ┃\n┃위와 같이 의뢰합니다.                                                                 ┝━━━━━━━━━━━━┫\n┃  년    월   일                                                                       │「가축전염병            ┃\n┃ 의 뢰 인   (서명  또는  인)                                                          │예방법」  제46조 및     ┃\n┃                                                                                      │같은 법 시행규칙        ┃\n┃농림축산검역본부장  귀하                                                              │제45조의2에서           ┃\n┃                                                                                      │정하는 수수료           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┛\n※별표(*)는 필수 입력사항입니다.",
+      "content": "[별지 제5호서식] 병성감정의뢰서(제11조제3항 관련)\n┏━━━━━━━┳━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━┳━━━━━━━━━━┓\n┃접수번호      ┃            ┃병 성 감 정 의 뢰 서                      ┃처리기간      ┃18일                ┃\n┣━━━━━━━╋━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━┻━━━━━━━━━━┫\n┃의 뢰 인      ┃성  명      │                                                                                ┃\n┃              ┠──────┼─────┬────────┬──────┬─────┬────────────┨\n┃              ┃업소명      │          │일반전화        │            │핸드폰    │                        ┃\n┃              ┠──────┼─────┴────────┴──────┴─────┴────────────┨\n┃              ┃주  소      │                                                                                ┃\n┃              ┠──────┼──────────────┬──────┬──────────────────┨\n┃              ┃메일주소    │                            │팩스번호    │                                    ┃\n┃              ┠──────┼──────────────┴──────┴──────────────────┨\n┃              ┃결과통보    │     ? 우편       ? 팩스      ? 메일                                         ┃\n┃              ┃방법        │                                                                                ┃\n┣━━━━━━━╋━━━━━━┿━━━━━┯━━━━━━━━┯━━━━━━┯━━━━━┯━━━━━━━━━━━━┫\n┃사육농장      ┃ 축주 성명  │          │일반전화        │            │핸드폰    │                        ┃\n┃              ┠──────┼─────┼────────┼──────┴─────┴────────────┨\n┃현황          ┃농장명      │          │주소            │                                                  ┃\n┃              ┠──────┼─────┴────────┼──────┬──────────────────┨\n┃              ┃축종        │                            │품종        │                                    ┃\n┣━━━━━━━╋━━━━━━┿━━━━━━━━━━┯━━━┷━━━━┯━┷━━━━━━┯━━━━━━━━━━━┫\n┃              ┃구분        │성축(계)            │비육축(계)      │육성축(계)      │자축(계)              ┃\n┃발생상황      ┠──────┼──────────┼────────┼────────┼───────────┨\n┃              ┃사육두수    │(두/수)             │(두/수)         │(두/수)         │(두/수)               ┃\n┃              ┠──────┼──────────┼────────┼────────┼───────────┨\n┃              ┃발생두수    │(두/수)             │(두/수)         │(두/수)         │(두/수)               ┃\n┃              ┠──────┼──────────┼────────┼────────┼───────────┨\n┃              ┃발생연령    │(연/월)             │(일/월)         │(일/월)         │(일)                  ┃\n┃              ┠──────┼──────────┼────────┼────────┼───────────┨\n┃              ┃폐사내역    │(두/수)             │(두/수)         │(두/수)         │(두/수)               ┃\n┃              ┠──────┼──────────┼────────┼────────┼───────────┨\n┃              ┃최초발생일  │ (연,월,일)         │  (연,월,일)    │   (연,월,일)   │    (연,월,일)        ┃\n┃              ┠──────┼──────────┼────────┼────────┼───────────┨\n┃              ┃최초폐사일  │                    │                │                │                      ┃\n┃              ┠──────┼──────────┼────────┴────────┴───────────┨\n┃              ┃축사 동별   │(폐사두수/사육두수) │                                                          ┃\n┃              ┃폐사율      │                    │                                                          ┃\n┣━━━━━━━╋━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃임상증상      ┃ ? 소화기계              ? 호흡기계             ? 신경계                                   ┃\n┃              ┃ ? 유사산 (*아래 유사산 정보 기입 요망)    ? 중독       ? 기타 (      )                    ┃\n┃(주요 증상을  ┠───────────────────────────────────────────────┨\n┃자세히 기재)  ┃                                                                                              ┃\n┃              ┣━━━━━━┯━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━┫\n┃              ┃*유사산     │유산 월령           │모축 산차       │유산 경력       │유산태아 기형 유무    ┃\n┃              ┃정보        ├──────────┼────────┼────────┼───────────┨\n┃              ┃            │                    │                │  ? 유  ? 무  │  ? 유  ? 무        ┃\n┃              ┃            ├──────────┼────────┼────────┼───────────┨\n┃              ┃            │태반 유무           │혈액 유무       │모축 백신 내역  │비고                  ┃\n┃              ┃            │                    │(모축 및 동거축)│                │                      ┃\n┃              ┃            ├──────────┼────────┼────────┼───────────┨\n┃              ┃            │   ? 유  ? 무     │   ? 유  ? 무 │                │                      ┃\n┣━━━━━━━╋━━━━━━┷━━━━━━━━━━┿━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━━┫\n┃축군병력      ┃수의사의 마지막 진료(치료) 일시 및 내│                                                          ┃\n┃              ┃용                                │                                                          ┃\n┃              ┠─────────────────┼─────────────────────────────┨\n┃              ┃최근 6개월간 질병 발생 상황       │                                                          ┃\n┃              ┠─────────────────┼─────────────────────────────┨\n┃              ┃최근 30일간 가축 구입 여부        │                                                          ┃\n┃              ┠─────────────────┼─────────────────────────────┨\n┃              ┃백신 접종 내역 (종류, 시기)       │                                                          ┃\n┃              ┠─────────────────┼─────────────────────────────┨\n┃              ┃최근 6개월간 약물 주사 또는 도포, │                                                          ┃\n┃              ┃구충제 투여 내역(종류, 시기)      │                                                          ┃\n┣━━━━━━━╋━━━━━━┯━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃환경상황      ┃산업동물    │사육형태            │ □ 사사   □ 방목  □ 기타 (     ）                   ┃\n┃              ┃            ├──────────┼─────────────────────────────┨\n┃              ┃            │최근 환경변화       │ □ 가축 이동(이동일자, 이동 내역)   □ 살충제 도포       ┃\n┃              ┃            │                    │ □ 살서제 사용                                           ┃\n┃              ┃            │                    │ □ 축사 신축   □ 구축사의 리모델링, 분뇨 제거           ┃\n┃              ┃            │                    │ □ 기타 (      ）                                      ┃\n┃              ┣━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃              ┃반려동물    │사육형태            │ □ 집안 사육   □ 집밖 사육  □ 이웃과 접촉              ┃\n┃              ┃            │                    │ □ 공장에 접촉 □ 기타 (     ）                       ┃\n┃              ┃            ├──────────┼─────────────────────────────┨\n┃              ┃            │최근 환경변화       │ □ 약물 치료   □ 살충제 도포  □ 세정제 접촉            ┃\n┃              ┃            │                    │ □ 자동차 관련 물품에 접촉     □ 기타 (     ）        ┃\n┣━━━━━━━╋━━━━━━┿━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃사료 및       ┃사료        │ □ 농후사료   □ 조사료 □ 기타 사료 (     ）                               ┃\n┃음수          ┃            │ □ 최근 사료 변화 (         ）                                              ┃\n┃급여상황      ┃            │ □ 사료 급여 방법 변화 (         ）                                         ┃\n┃              ┃            │ □ 부패된 사료 급여 여부 (         ）                                       ┃\n┃              ┣━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃              ┃음수        │ □ 지하수   □ 상수도  □ 최근 음수 변화 (     ）                           ┃\n┣━━━━━━━╋━━━━━━┿━━━━┯━━━━━┯━━┯━━━━━━━┯━━━━┯━━━━━━━━━━━━━┫\n┃가검물        ┃구분        │의뢰두수│연령      │성별│체중          │귀표번호│비고                      ┃\n┃내역          ┃            │또는    │          │    │              │        │                          ┃\n┃              ┃            │시료수  │          │    │              │        │                          ┃\n┃              ┠──────┼────┼─────┼──┼───────┼────┼─────────────┨\n┃              ┃(예)생축    │        │          │    │정확하지 않을 │필요시  │발병시기 등 기재          ┃\n┃              ┃            │        │          │    │경우 어림잡아 │기재    │                          ┃\n┃              ┃            │        │          │    │기입          │        │                          ┃\n┃              ┠──────┼────┼─────┼──┼───────┼────┼─────────────┨\n┃              ┃(예)사축    │        │          │    │              │        │폐사 또는 안락사 일시,    ┃\n┃              ┃            │        │          │    │              │        │안락사 방법 등 기재       ┃\n┃              ┠──────┼────┼─────┼──┼───────┼────┼─────────────┨\n┃              ┃(예)부검장기│        │          │    │              │        │부검일시, 부검소견,       ┃\n┃              ┃            │        │          │    │              │        │장기종류 등 자세히 기재   ┃\n┃              ┠──────┼────┼─────┼──┼───────┼────┼─────────────┨\n┃              ┃(예)혈액    │        │          │    │              │        │시료 성상(색깔, 냄새,     ┃\n┃              ┃또는 분변   │        │          │    │              │        │점도 등) 자세히 기재      ┃\n┃              ┠──────┼────┼─────┼──┼───────┼────┼─────────────┨\n┃              ┃(예)사료    │        │          │    │              │        │검사 의뢰 항목 기재       ┃\n┃              ┃또는 음수   │        │          │    │              │        │                          ┃\n┣━━━━━━━╋━━━━━━┷━━━━┷━━━━━┷━━┷━━━━━━━┷━━━━┷━━━━━━━━━━━━━┫\n┃검    사      ┃ 1.? 부검    2.? 혈액검사    3.? 혈청화학검사    4.? 병리조직검사                         ┃\n┃의뢰항목      ┃ 5.? 바이러스검사              6.? 세균 배양 및 항생제 감수성시험                           ┃\n┃              ┃ 7.? 분변 내 기생충검사        8.? 분변의 전자현미경검사                                    ┃\n┃              ┃ 9.? 유산 관련 질병 검사     10.? 중독 관련 질병 검사                                       ┃\n┃              ┃ * 원하시는 검사 항목에 표시하세요.(1번은 2번부터 10번을 포함합니다.)                         ┃\n┃              ┠──────┬────────────────────────────────────────┨\n┃              ┃기타        │                                                                                ┃\n┃              ┃요구 사항   │                                                                                ┃\n┣━━━━━━━┻━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┫\n┃가축전염병예방법 제12조 제1항 및 제46조 규정에 의하여 위와 같이                       │수수료                ┃\n┃의뢰합니다.                                                                           ┝━━━━━━━━━━━┫\n┃ 20    년    월    일                                                                 │가축전염병예방법      ┃\n┃                         의 뢰 인                (서명  또는  인)                     │제46조 및 같은법 시행 ┃\n┃  농림축산검역본부  귀하                                                              │규칙 제45조의2에서 정 ┃\n┃                                                                                      │하는 수수료           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407371",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469451",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407365",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469445",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161407371",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171469451",
           "name": "",
           "file_store_url": ""
         }
@@ -3521,19 +3226,19 @@
   ],
   "attachments": [
     {
-      "name": "11.제2026-23호_아프리카돼지열병 방역실시요령(고시) 개정전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161401333",
-      "filename": "11.제2026-23호_아프리카돼지열병 방역실시요령(고시) 개정전문.hwpx",
+      "name": "아프리카돼지열병 방역실시요령(농림축산식품부 고시 제2026-107호) 개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171469169",
+      "filename": "아프리카돼지열병 방역실시요령(농림축산식품부 고시 제2026-107호) 개정 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/11.제2026-23호_아프리카돼지열병 방역실시요령(고시) 개정전문.hwpx",
+      "local_path": "첨부파일/아프리카돼지열병 방역실시요령(농림축산식품부 고시 제2026-107호) 개정 전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "11.제2026-23호_아프리카돼지열병 방역실시요령(고시) 개정전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161401337",
-      "filename": "11.제2026-23호_아프리카돼지열병 방역실시요령(고시) 개정전문.pdf",
+      "name": "아프리카돼지열병 방역실시요령(농림축산식품부 고시 제2026-107호) 개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171469173",
+      "filename": "아프리카돼지열병 방역실시요령(농림축산식품부 고시 제2026-107호) 개정 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/11.제2026-23호_아프리카돼지열병 방역실시요령(고시) 개정전문.pdf",
+      "local_path": "첨부파일/아프리카돼지열병 방역실시요령(농림축산식품부 고시 제2026-107호) 개정 전문.pdf",
       "file_store_url": ""
     }
   ],
