@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0001",
             "reference_id": "law:법무부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_git_path": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -99,7 +101,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0002",
             "reference_id": "law:법무부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_git_path": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0002",
             "reference_id": "law:법무부와그소속기관직제#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_git_path": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -187,7 +195,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지1_공무직근로자 정원표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -219,7 +232,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005",
             "reference_id": "admrul:법무부비공무원공정채용규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 비공무원 공정채용 규정/법무부 비공무원 공정채용 규정.json"
+            "target_git_path_guess": "법무부 비공무원 공정채용 규정/법무부 비공무원 공정채용 규정.json",
+            "target_git_path": "법무부 비공무원 공정채용 규정/법무부 비공무원 공정채용 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -239,7 +256,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005",
             "reference_id": "admrul:법무부비공무원공정채용규정#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 비공무원 공정채용 규정/법무부 비공무원 공정채용 규정.json"
+            "target_git_path_guess": "법무부 비공무원 공정채용 규정/법무부 비공무원 공정채용 규정.json",
+            "target_git_path": "법무부 비공무원 공정채용 규정/법무부 비공무원 공정채용 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -259,7 +280,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005",
             "reference_id": "law:장애인고용촉진및직업재활법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +302,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005",
             "reference_id": "law:장애인고용촉진및직업재활법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -316,7 +341,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지2_기간제근로자 채용계획서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -348,7 +378,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005_03",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -368,7 +400,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005_03",
             "reference_id": "law:개인정보보호법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -388,7 +422,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005_03",
             "reference_id": "law:개인정보보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -408,7 +444,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005_03",
             "reference_id": "admrul:법무부개인정보보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 개인정보 보호지침/법무부 개인정보 보호지침.json"
+            "target_git_path_guess": "법무부 개인정보 보호지침/법무부 개인정보 보호지침.json",
+            "target_git_path": "법무부 개인정보 보호지침/법무부 개인정보 보호지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -428,7 +468,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005_03",
             "reference_id": "admrul:법무부개인정보보호지침#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 개인정보 보호지침/법무부 개인정보 보호지침.json"
+            "target_git_path_guess": "법무부 개인정보 보호지침/법무부 개인정보 보호지침.json",
+            "target_git_path": "법무부 개인정보 보호지침/법무부 개인정보 보호지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -448,7 +492,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005_03",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -468,7 +514,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0005_03",
             "reference_id": "law:개인정보보호법#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -500,7 +548,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0006",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -520,7 +570,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0006",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -552,7 +604,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0007",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -584,7 +640,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0008",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -604,7 +662,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0008",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -641,7 +701,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지3_표준 근로계약서(안).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -666,7 +731,12 @@
             "target_unit": "BJ0004",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지4_서약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -698,7 +768,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0010",
             "reference_id": "law:건강검진기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건강검진기본법/법률/건강검진기본법.json"
+            "target_git_path_guess": "건강검진기본법/법률/건강검진기본법.json",
+            "target_git_path": "건강검진기본법/법률/건강검진기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -723,7 +795,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지5_근로자 인사관리카드.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -743,7 +820,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0010",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -768,7 +849,12 @@
             "target_unit": "BJ0006",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지6_공정채용 확인서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -793,7 +879,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지5_근로자 인사관리카드.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -830,7 +921,12 @@
             "target_unit": "BJ0008",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지8_신분증의 규격·제식 및 기재사항.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -850,7 +946,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -870,7 +968,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -895,7 +995,12 @@
             "target_unit": "BJ0009",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지9_공무직원증 발급대장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -915,7 +1020,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -935,7 +1042,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -955,7 +1064,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -975,7 +1086,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0062_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -995,7 +1108,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0062_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1015,7 +1130,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0062_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1035,7 +1152,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0062_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1055,7 +1174,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0011",
             "reference_id": "law:국가공무원복무규칙#JO0062_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
+            "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_git_path": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1114,7 +1235,12 @@
             "target_unit": "BJ0010",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지10_겸직허가 신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1139,7 +1265,12 @@
             "target_unit": "BJ0011",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지11_경고(주의)장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1176,7 +1307,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별표/별표1_공무직 등 근로자 청렴의무 위반 징계기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1235,7 +1371,12 @@
             "target_unit": "BJ0012",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지12_근무상황부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1267,7 +1408,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0014",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1299,7 +1442,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0015",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0034",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1342,7 +1489,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0017",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1379,7 +1530,12 @@
             "target_unit": "BJ0013",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지13_근로자 근무성적 평정표(예시).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1404,7 +1560,12 @@
             "target_unit": "BJ0014",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지14_근무성적평정 순위명부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1452,7 +1613,12 @@
             "target_unit": "BJ0015",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지15_휴직원.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1477,7 +1643,12 @@
             "target_unit": "BJ0015",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지15_휴직원.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1497,7 +1668,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0020",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1517,7 +1690,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0020",
             "reference_id": "law:국가공무원법#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1537,7 +1712,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0020",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1557,7 +1734,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0020",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1605,7 +1784,12 @@
             "target_unit": "BJ0016",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지16_복직원.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1630,7 +1814,12 @@
             "target_unit": "BJ0017",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지17_복직자 복무상황 신고서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1662,7 +1851,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0023",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1682,7 +1873,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0023",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#JO0021_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1725,7 +1918,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0024",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1745,7 +1940,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0024",
             "reference_id": "law:국가공무원복무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1765,7 +1962,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0024",
             "reference_id": "law:국가공무원복무규정#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1785,7 +1984,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0024",
             "reference_id": "law:국가공무원복무규정#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1805,7 +2006,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0024",
             "reference_id": "law:국가공무원복무규정#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1842,7 +2045,12 @@
             "target_unit": "BJ0018",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지18_시간외근로기록부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1862,7 +2070,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0025",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1894,7 +2104,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1914,7 +2126,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026",
             "reference_id": "law:근로기준법#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1934,7 +2148,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026",
             "reference_id": "law:노동절제정에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "노동절 제정에 관한 법률/법률/노동절 제정에 관한 법률.json"
+            "target_git_path_guess": "노동절 제정에 관한 법률/법률/노동절 제정에 관한 법률.json",
+            "target_git_path": "노동절 제정에 관한 법률/법률/노동절 제정에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1954,7 +2170,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026",
             "reference_id": "law:관공서의공휴일에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1974,7 +2192,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026",
             "reference_id": "law:관공서의공휴일에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1994,7 +2214,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026",
             "reference_id": "law:관공서의공휴일에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2026,7 +2248,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2046,7 +2270,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_02",
             "reference_id": "law:근로기준법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2066,7 +2292,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_02",
             "reference_id": "law:근로기준법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2086,7 +2314,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_02",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2106,7 +2336,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_02",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2126,7 +2358,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2146,7 +2380,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_02",
             "reference_id": "law:근로기준법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2178,7 +2414,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2198,7 +2436,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:국가공무원복무규정#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2218,7 +2458,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2238,7 +2480,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무ㆍ징계 관련 예규/국가공무원 복무ㆍ징계 관련 예규.json"
+            "target_git_path_guess": "국가공무원 복무ㆍ징계 관련 예규/국가공무원 복무ㆍ징계 관련 예규.json",
+            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2258,7 +2504,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:근로기준법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2278,7 +2526,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:근로기준법시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2298,7 +2548,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:근로기준법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2318,7 +2570,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:근로기준법시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2338,7 +2592,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무ㆍ징계 관련 예규/국가공무원 복무ㆍ징계 관련 예규.json"
+            "target_git_path_guess": "국가공무원 복무ㆍ징계 관련 예규/국가공무원 복무ㆍ징계 관련 예규.json",
+            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2358,7 +2616,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0022_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2378,7 +2638,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:한부모가족지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2398,7 +2660,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:한부모가족지원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2418,7 +2682,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2438,7 +2704,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률시행령#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2458,7 +2726,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:영유아보육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "영유아보육법/법률/영유아보육법.json"
+            "target_git_path_guess": "영유아보육법/법률/영유아보육법.json",
+            "target_git_path": "영유아보육법/법률/영유아보육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2478,7 +2748,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:유아교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유아교육법/법률/유아교육법.json"
+            "target_git_path_guess": "유아교육법/법률/유아교육법.json",
+            "target_git_path": "유아교육법/법률/유아교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2498,7 +2770,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2518,7 +2792,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:초중등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2538,7 +2814,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:장애인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2558,7 +2836,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:장애인복지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2578,7 +2858,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2598,7 +2880,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:국민건강보험법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2618,7 +2902,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2638,7 +2924,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2658,7 +2946,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2678,7 +2968,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2698,7 +2990,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0026_03",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2741,7 +3037,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2761,7 +3059,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2781,7 +3081,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2801,7 +3103,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2821,7 +3125,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:산업안전보건법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2841,7 +3147,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:산업안전보건법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2861,7 +3169,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2881,7 +3191,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:국민건강보험법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2901,7 +3213,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:결핵예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json"
+            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json",
+            "target_git_path": "결핵예방법/법률/결핵예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2921,7 +3235,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:결핵예방법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json"
+            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json",
+            "target_git_path": "결핵예방법/법률/결핵예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2941,7 +3257,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:혈액관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json"
+            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json",
+            "target_git_path": "혈액관리법/법률/혈액관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2961,7 +3279,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2981,7 +3301,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3001,7 +3323,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3021,7 +3345,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3041,7 +3367,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3061,7 +3389,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0028",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3148,7 +3478,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0032",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3191,7 +3523,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0034",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3228,7 +3564,12 @@
             "target_unit": "BJ0019",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지19_근로자 계약해지 통보서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3265,7 +3606,12 @@
             "target_unit": "BJ0020",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지20_공무직 등 근로자 임면 보고.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3297,7 +3643,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0037",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3317,7 +3665,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0037",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3360,7 +3710,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0038_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3378,9 +3730,11 @@
             "target_url": "https://www.law.go.kr/법령/남녀고용평등법",
             "resolve_method": "html",
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0038_02",
-            "reference_id": "law:남녀고용평등법#DOC",
+            "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json"
+            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3417,7 +3771,12 @@
             "target_unit": "BJ0022",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지22_출석통지서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3442,7 +3801,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별표/별표1_공무직 등 근로자 청렴의무 위반 징계기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3467,7 +3831,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별표/별표2_성실 및 품위유지 의무 위반 징계기준.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3492,7 +3861,12 @@
             "target_unit": "BJ0022",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지22_출석통지서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3517,7 +3891,12 @@
             "target_unit": "BJ0023",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지23_서면진술서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3537,7 +3916,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0039",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3557,7 +3938,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0039",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3577,7 +3960,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0039",
             "reference_id": "law:공무원징계령시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3614,7 +3999,12 @@
             "target_unit": "BJ0024",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지24_징계의결서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -3639,7 +4029,12 @@
             "target_unit": "BJ0025",
             "reference_id": "admrul:법무부공무직등근로자관리지침#BJ0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_file_path": "법무부 공무직 등 근로자 관리지침/별지/별지25_징계처분사유설명서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3682,7 +4077,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0040_03",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0038",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3702,7 +4101,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0040_03",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0038",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3722,7 +4125,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0040_03",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0038_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3742,7 +4149,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0040_03",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0039",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3762,7 +4173,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0040_03",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0040",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3782,7 +4197,11 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0040_03",
             "reference_id": "admrul:법무부공무직등근로자관리지침#JO0040_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json"
+            "target_git_path_guess": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_git_path": "법무부 공무직 등 근로자 관리지침/법무부 공무직 등 근로자 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3847,7 +4266,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0042_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3867,7 +4288,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0042_02",
             "reference_id": "law:근로기준법#JO0076_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3897,9 +4320,11 @@
             "target_url": "https://www.law.go.kr/법령/남녀고용평등법",
             "resolve_method": "html",
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0042_03",
-            "reference_id": "law:남녀고용평등법#DOC",
+            "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json"
+            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3917,9 +4342,11 @@
             "target_url": "https://www.law.go.kr/법령/남녀고용평등법",
             "resolve_method": "html",
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0042_03",
-            "reference_id": "law:남녀고용평등법#DOC",
+            "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json"
+            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3937,9 +4364,11 @@
             "target_url": "https://www.law.go.kr/법령/남녀고용평등법/제14조",
             "resolve_method": "html",
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0042_03",
-            "reference_id": "law:남녀고용평등법#JO0014",
+            "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json"
+            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3991,7 +4420,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0043",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4023,7 +4454,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0044",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4043,7 +4476,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0044",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4075,7 +4510,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0045",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4095,7 +4532,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0045",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4127,7 +4566,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0046",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4147,7 +4588,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0046",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4167,7 +4610,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0046",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4221,7 +4666,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0049",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4241,7 +4688,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0049",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4261,7 +4710,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0049",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4281,7 +4732,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0049",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4301,7 +4754,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0049",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4321,7 +4776,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0049",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4353,7 +4810,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0050",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4373,7 +4832,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0050",
             "reference_id": "law:근로기준법#JO0093",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4393,7 +4854,9 @@
             "source_provision_id": "admrul:법무부공무직등근로자관리지침#JO0050",
             "reference_id": "law:근로기준법#JO0094",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
