@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0001",
             "reference_id": "law:감염병의예방및관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행령/감염병의 예방 및 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행령/감염병의 예방 및 관리에 관한 법률 시행령.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/시행령/감염병의 예방 및 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0001",
             "reference_id": "law:감염병의예방및관리에관한법률시행령#JO0001_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행령/감염병의 예방 및 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행령/감염병의 예방 및 관리에 관한 법률 시행령.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/시행령/감염병의 예방 및 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0001",
             "reference_id": "admrul:질병관리청종합상황실운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 종합상황실 운영규정/질병관리청 종합상황실 운영규정.json"
+            "target_git_path_guess": "질병관리청 종합상황실 운영규정/질병관리청 종합상황실 운영규정.json",
+            "target_git_path": "질병관리청 종합상황실 운영규정/질병관리청 종합상황실 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -127,7 +135,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0001",
             "reference_id": "admrul:질병관리청종합상황실운영규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 종합상황실 운영규정/질병관리청 종합상황실 운영규정.json"
+            "target_git_path_guess": "질병관리청 종합상황실 운영규정/질병관리청 종합상황실 운영규정.json",
+            "target_git_path": "질병관리청 종합상황실 운영규정/질병관리청 종합상황실 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -181,7 +193,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0004",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -224,7 +240,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0006",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -316,7 +336,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:질병관리청콜센터운영규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_file_path": "질병관리청 콜센터 운영 규정/별표/별표1_악성ㆍ강성민원 유형(제11조의2 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -341,7 +366,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:질병관리청콜센터운영규정#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_file_path": "질병관리청 콜센터 운영 규정/별표/별표2_악성ㆍ강성민원 처리 기준(제11조의2 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -366,7 +396,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:질병관리청콜센터운영규정#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_file_path": "질병관리청 콜센터 운영 규정/별표/별표3_악성ㆍ강성민원 세부 응대 절차(제11조의2 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -398,7 +433,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0012",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -430,7 +469,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0013",
             "reference_id": "admrul:질병관리청협상에의한계약제안서평가업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 협상에 의한 계약 제안서 평가 업무처리 규정/질병관리청 협상에 의한 계약 제안서 평가 업무처리 규정.json"
+            "target_git_path_guess": "질병관리청 협상에 의한 계약 제안서 평가 업무처리 규정/질병관리청 협상에 의한 계약 제안서 평가 업무처리 규정.json",
+            "target_git_path": "질병관리청 협상에 의한 계약 제안서 평가 업무처리 규정/질병관리청 협상에 의한 계약 제안서 평가 업무처리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -462,7 +505,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -482,7 +529,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -502,7 +553,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -522,7 +577,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -542,7 +601,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -562,7 +625,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -582,7 +649,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -602,7 +673,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -622,7 +697,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -642,7 +721,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -662,7 +745,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -682,7 +769,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -702,7 +793,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0011_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -734,7 +829,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0015",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -777,7 +876,9 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0017",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -797,7 +898,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0017",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -817,7 +922,9 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0017",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -837,7 +944,9 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0017",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -889,7 +998,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0018",
             "reference_id": "admrul:질병관리청콜센터운영규정#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json"
+            "target_git_path_guess": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_git_path": "질병관리청 콜센터 운영 규정/질병관리청 콜센터 운영 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -921,7 +1034,11 @@
             "source_provision_id": "admrul:질병관리청콜센터운영규정#JO0019",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

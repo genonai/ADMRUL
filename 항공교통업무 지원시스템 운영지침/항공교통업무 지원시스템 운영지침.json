@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0001",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0001",
             "reference_id": "law:항공안전법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,9 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0001",
             "reference_id": "law:항공안전법#JO0089_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +145,11 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0002",
             "reference_id": "admrul:국가항공안전프로그램#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가 항공안전프로그램/국가 항공안전프로그램.json"
+            "target_git_path_guess": "국가 항공안전프로그램/국가 항공안전프로그램.json",
+            "target_git_path": "국가항공안전프로그램/국가항공안전프로그램.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -187,7 +197,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:항공교통업무지원시스템운영지침#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_path": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_file_path": "항공교통업무 지원시스템 운영지침/별표/별표1_개별 메뉴별 관련부서 (제4조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -230,7 +245,11 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0006",
             "reference_id": "admrul:항공교통업무지원시스템운영지침#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_path": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -289,7 +308,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:항공교통업무지원시스템운영지침#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_path": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_file_path": "항공교통업무 지원시스템 운영지침/별지/별지1_시스템 사용자 계정 신청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -314,7 +338,12 @@
             "target_unit": "BJ0002",
             "reference_id": "admrul:항공교통업무지원시스템운영지침#BJ0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_path": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_file_path": "항공교통업무 지원시스템 운영지침/별지/별지2_시스템 사용자 권한 변경 요청서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -368,7 +397,11 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0012",
             "reference_id": "admrul:항공교통업무지원시스템운영지침#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_path": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -393,7 +426,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:항공교통업무지원시스템운영지침#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_path": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_file_path": "항공교통업무 지원시스템 운영지침/별표/별표2_장애발생 시 처리 절차(제12조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -418,7 +456,12 @@
             "target_unit": "BJ0003",
             "reference_id": "admrul:항공교통업무지원시스템운영지침#BJ0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json"
+            "target_git_path_guess": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_path": "항공교통업무 지원시스템 운영지침/항공교통업무 지원시스템 운영지침.json",
+            "target_git_file_path": "항공교통업무 지원시스템 운영지침/별지/별지3_장애처리 일지.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -505,7 +548,9 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0018",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -525,7 +570,9 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -557,7 +604,11 @@
             "source_provision_id": "admrul:항공교통업무지원시스템운영지침#JO0019",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_git_path": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

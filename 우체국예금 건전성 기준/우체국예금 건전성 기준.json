@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0001",
             "reference_id": "law:우체국예금보험에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우체국 예금ㆍ보험에 관한 법률/법률/우체국 예금ㆍ보험에 관한 법률.json"
+            "target_git_path_guess": "우체국 예금ㆍ보험에 관한 법률/법률/우체국 예금ㆍ보험에 관한 법률.json",
+            "target_git_path": "우체국예금ㆍ보험에 관한 법률/법률/우체국예금ㆍ보험에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0001",
             "reference_id": "law:우체국예금보험에관한법률#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "우체국 예금ㆍ보험에 관한 법률/법률/우체국 예금ㆍ보험에 관한 법률.json"
+            "target_git_path_guess": "우체국 예금ㆍ보험에 관한 법률/법률/우체국 예금ㆍ보험에 관한 법률.json",
+            "target_git_path": "우체국예금ㆍ보험에 관한 법률/법률/우체국예금ㆍ보험에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0002",
             "reference_id": "law:우정사업운영에관한특례법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json"
+            "target_git_path_guess": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json",
+            "target_git_path": "우정사업 운영에 관한 특례법/시행령/우정사업 운영에 관한 특례법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0002",
             "reference_id": "law:우체국예금보험에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우체국 예금ㆍ보험에 관한 법률/시행령/우체국 예금ㆍ보험에 관한 법률 시행령.json"
+            "target_git_path_guess": "우체국 예금ㆍ보험에 관한 법률/시행령/우체국 예금ㆍ보험에 관한 법률 시행령.json",
+            "target_git_path": "우체국예금ㆍ보험에 관한 법률/시행령/우체국예금ㆍ보험에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +167,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0002",
             "reference_id": "admrul:우체국예금특별회계회계규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json"
+            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_git_path": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -191,7 +203,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0003",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -211,7 +225,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0003",
             "reference_id": "law:은행법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -254,7 +270,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005",
             "reference_id": "admrul:우체국예금건전성기준#JO0040",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -286,7 +306,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_02",
             "reference_id": "law:우정사업운영에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업 운영에 관한 특례법/법률/우정사업 운영에 관한 특례법.json"
+            "target_git_path_guess": "우정사업 운영에 관한 특례법/법률/우정사업 운영에 관한 특례법.json",
+            "target_git_path": "우정사업 운영에 관한 특례법/법률/우정사업 운영에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -306,7 +328,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_02",
             "reference_id": "law:우정사업운영에관한특례법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "우정사업 운영에 관한 특례법/법률/우정사업 운영에 관한 특례법.json"
+            "target_git_path_guess": "우정사업 운영에 관한 특례법/법률/우정사업 운영에 관한 특례법.json",
+            "target_git_path": "우정사업 운영에 관한 특례법/법률/우정사업 운영에 관한 특례법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -338,7 +362,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_03",
             "reference_id": "admrul:우체국예금건전성기준#JO0005_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -358,7 +386,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_03",
             "reference_id": "admrul:예금자금전략위원회운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json"
+            "target_git_path_guess": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json",
+            "target_git_path": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -378,7 +410,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_03",
             "reference_id": "admrul:예금자금전략위원회운영지침#JO0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json"
+            "target_git_path_guess": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json",
+            "target_git_path": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -398,7 +434,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_03",
             "reference_id": "admrul:예금자금전략위원회운영지침#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json"
+            "target_git_path_guess": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json",
+            "target_git_path": "예금자금전략위원회 운영지침/예금자금전략위원회 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -418,7 +458,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_03",
             "reference_id": "admrul:우체국예금건전성기준#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -438,7 +482,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0005_03",
             "reference_id": "admrul:우체국예금건전성기준#JO0005_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -470,7 +518,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0006",
             "reference_id": "admrul:우체국예금건전성기준#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -524,7 +576,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0009",
             "reference_id": "admrul:우체국예금건전성기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -544,7 +600,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0009",
             "reference_id": "admrul:은행업감독업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -569,7 +629,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:은행업감독업무시행세칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_file_path": "은행업감독업무시행세칙/별표/별표3_신용ㆍ운영리스크 위험가중자산에 대한 자기자본비율 산출 기준(바젤Ⅲ 기준).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -589,7 +654,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0009",
             "reference_id": "admrul:은행업감독업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -614,7 +683,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:은행업감독업무시행세칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_file_path": "은행업감독업무시행세칙/별표/별표3_신용ㆍ운영리스크 위험가중자산에 대한 자기자본비율 산출 기준(바젤Ⅲ 기준).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -634,7 +708,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0009",
             "reference_id": "admrul:은행업감독업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -659,7 +737,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:은행업감독업무시행세칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_file_path": "은행업감독업무시행세칙/별표/별표3_신용ㆍ운영리스크 위험가중자산에 대한 자기자본비율 산출 기준(바젤Ⅲ 기준).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -679,7 +762,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0009",
             "reference_id": "admrul:은행업감독업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -704,7 +791,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:은행업감독업무시행세칙#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_file_path": "은행업감독업무시행세칙/별표/별표3_신용ㆍ운영리스크 위험가중자산에 대한 자기자본비율 산출 기준(바젤Ⅲ 기준).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -736,7 +828,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0010",
             "reference_id": "admrul:우체국예금건전성기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -756,7 +852,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0010",
             "reference_id": "admrul:은행업감독업무시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json"
+            "target_git_path_guess": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_git_path": "은행업감독업무시행세칙/은행업감독업무시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -804,7 +904,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우체국예금건전성기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_file_path": "우체국예금 건전성 기준/별표/별표1_자산건전성 분류 단계별 정의 및 분류 기준(제12조).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -824,7 +929,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0012",
             "reference_id": "admrul:우체국예금특별회계회계규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json"
+            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_git_path": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -844,7 +953,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0012",
             "reference_id": "admrul:우체국예금특별회계회계규정#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json"
+            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_git_path": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +982,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우체국예금건전성기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_file_path": "우체국예금 건전성 기준/별표/별표1_자산건전성 분류 단계별 정의 및 분류 기준(제12조).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -894,7 +1012,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:우체국예금건전성기준#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_file_path": "우체국예금 건전성 기준/별표/별표1_자산건전성 분류 단계별 정의 및 분류 기준(제12조).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -926,7 +1049,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0013",
             "reference_id": "admrul:우체국예금건전성기준#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -958,7 +1085,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0014",
             "reference_id": "admrul:우체국예금건전성기준#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -990,7 +1121,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0015",
             "reference_id": "admrul:우체국예금특별회계회계규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json"
+            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_git_path": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1010,7 +1145,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0015",
             "reference_id": "admrul:우체국예금특별회계회계규정#JO0020",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json"
+            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_git_path": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1030,7 +1169,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0015",
             "reference_id": "admrul:대손충당금설정지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대손충당금 설정지침/대손충당금 설정지침.json"
+            "target_git_path_guess": "대손충당금 설정지침/대손충당금 설정지침.json",
+            "target_git_path": "대손충당금 설정지침/대손충당금 설정지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1050,7 +1193,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0015",
             "reference_id": "law:공무원연금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json",
+            "target_git_path": "공무원연금법/법률/공무원연금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1070,7 +1215,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0015",
             "reference_id": "law:공무원연금법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json",
+            "target_git_path": "공무원연금법/법률/공무원연금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1090,7 +1237,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0015",
             "reference_id": "admrul:대손충당금설정지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대손충당금 설정지침/대손충당금 설정지침.json"
+            "target_git_path_guess": "대손충당금 설정지침/대손충당금 설정지침.json",
+            "target_git_path": "대손충당금 설정지침/대손충당금 설정지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1110,7 +1261,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0015",
             "reference_id": "admrul:대손충당금설정지침#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대손충당금 설정지침/대손충당금 설정지침.json"
+            "target_git_path_guess": "대손충당금 설정지침/대손충당금 설정지침.json",
+            "target_git_path": "대손충당금 설정지침/대손충당금 설정지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1158,7 +1313,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:우체국예금건전성기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_file_path": "우체국예금 건전성 기준/별표/별표2_계량지표의 산정기준(제17조, 제22조).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1190,7 +1350,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0018",
             "reference_id": "admrul:우체국예금건전성기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1238,7 +1402,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:우체국예금건전성기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_file_path": "우체국예금 건전성 기준/별표/별표2_계량지표의 산정기준(제17조, 제22조).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1286,7 +1455,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:우체국예금건전성기준#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_file_path": "우체국예금 건전성 기준/별표/별표2_계량지표의 산정기준(제17조, 제22조).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1306,7 +1480,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0022",
             "reference_id": "admrul:우체국예금건전성기준#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1349,7 +1527,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0024",
             "reference_id": "law:우편대체법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편대체법/법률/우편대체법.json"
+            "target_git_path_guess": "우편대체법/법률/우편대체법.json",
+            "target_git_path": "우편대체법/법률/우편대체법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1381,7 +1561,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0025",
             "reference_id": "law:국유재산법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json"
+            "target_git_path_guess": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_git_path": "국유재산법/시행령/국유재산법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1424,7 +1606,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0027",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1444,7 +1628,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0027",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1464,7 +1650,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0027",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1484,7 +1672,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0027",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1504,7 +1694,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0027",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1536,7 +1728,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0028",
             "reference_id": "admrul:우체국예금건전성기준#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1556,7 +1752,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0028",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1576,7 +1774,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0028",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1596,7 +1796,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0028",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1616,7 +1818,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0028",
             "reference_id": "admrul:우체국예금건전성기준#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1636,7 +1842,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0028",
             "reference_id": "admrul:우체국예금건전성기준#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1656,7 +1866,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0028",
             "reference_id": "admrul:우체국예금건전성기준#JO0027",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1721,7 +1935,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0032",
             "reference_id": "admrul:우체국예금자금운용지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금자금운용지침/우체국예금자금운용지침.json"
+            "target_git_path_guess": "우체국예금자금운용지침/우체국예금자금운용지침.json",
+            "target_git_path": "우체국예금자금운용지침/우체국예금자금운용지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1797,7 +2015,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0037",
             "reference_id": "admrul:우체국예금리스크관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 리스크관리지침/우체국예금 리스크관리지침.json"
+            "target_git_path_guess": "우체국예금 리스크관리지침/우체국예금 리스크관리지침.json",
+            "target_git_path": "우체국예금 리스크관리지침/우체국예금 리스크관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1829,7 +2051,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0038",
             "reference_id": "admrul:우체국예금특별회계회계규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json"
+            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_git_path": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1849,7 +2075,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0038",
             "reference_id": "admrul:우체국예금특별회계회계규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json"
+            "target_git_path_guess": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_git_path": "우체국예금특별회계 회계규정/우체국예금특별회계 회계규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1869,7 +2099,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0038",
             "reference_id": "law:정부기업예산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json"
+            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json",
+            "target_git_path": "정부기업예산법/법률/정부기업예산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1889,7 +2121,9 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0038",
             "reference_id": "law:국가회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계법/법률/국가회계법.json"
+            "target_git_path_guess": "국가회계법/법률/국가회계법.json",
+            "target_git_path": "국가회계법/법률/국가회계법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1954,7 +2188,11 @@
             "source_provision_id": "admrul:우체국예금건전성기준#JO0042",
             "reference_id": "admrul:우체국예금건전성기준#JO0008",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json"
+            "target_git_path_guess": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_git_path": "우체국예금 건전성 기준/우체국예금 건전성 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
