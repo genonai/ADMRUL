@@ -67,7 +67,9 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0001",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -87,7 +89,9 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0001",
             "reference_id": "law:항공안전법시행규칙#JO0238",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0003",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0003",
             "reference_id": "law:항공안전법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -215,7 +223,9 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0006",
             "reference_id": "law:항공안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -324,7 +334,11 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0014",
             "reference_id": "admrul:항공교통업무기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
+            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json",
+            "target_git_path": "항공교통업무기준/항공교통업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -344,7 +358,11 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0014",
             "reference_id": "admrul:항공교통업무기준#JO0035",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json"
+            "target_git_path_guess": "항공교통업무기준/항공교통업무기준.json",
+            "target_git_path": "항공교통업무기준/항공교통업무기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -381,7 +399,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:항공교통관리우발계획#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별표/별표1_ACG 운영 및 직무대행(제15조 및 제17조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -429,7 +452,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:항공교통관리우발계획#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별표/별표1_ACG 운영 및 직무대행(제15조 및 제17조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -494,7 +522,11 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0021",
             "reference_id": "admrul:항공교통관리우발계획#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -519,7 +551,12 @@
             "target_unit": "BYL0002",
             "reference_id": "admrul:항공교통관리우발계획#BYL0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별표/별표2_우발 범주 별 대응 절차(제21조제1항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -544,7 +581,12 @@
             "target_unit": "BYL0003",
             "reference_id": "admrul:항공교통관리우발계획#BYL0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별표/별표3_화산재 대응 절차(제21조제6항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -581,7 +623,12 @@
             "target_unit": "BYL0004",
             "reference_id": "admrul:항공교통관리우발계획#BYL0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별표/별표4_우발항공로 및 비행고도배정체계(제22조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -635,7 +682,11 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0025",
             "reference_id": "admrul:항공교통관리우발계획#JO0024",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -667,7 +718,11 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0026",
             "reference_id": "admrul:항공교통관리우발계획#JO0025",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -704,7 +759,12 @@
             "target_unit": "BYL0005",
             "reference_id": "admrul:항공교통관리우발계획#BYL0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별표/별표5_우발대응 일반절차(제27조항 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -752,7 +812,12 @@
             "target_unit": "BYL0006",
             "reference_id": "admrul:항공교통관리우발계획#BYL0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별표/별표6_항공고시보 표준문안(제29조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -789,7 +854,12 @@
             "target_unit": "BJ0001",
             "reference_id": "admrul:항공교통관리우발계획#BJ0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_file_path": "항공교통관리 우발계획/별지/별지1_우발사태 상황보고서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -843,7 +913,11 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0033",
             "reference_id": "admrul:항공교통관리우발계획#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -886,7 +960,11 @@
             "source_provision_id": "admrul:항공교통관리우발계획#JO0035",
             "reference_id": "admrul:항공교통관리우발계획#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json"
+            "target_git_path_guess": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_git_path": "항공교통관리 우발계획/항공교통관리 우발계획.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

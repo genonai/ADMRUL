@@ -2554,13 +2554,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/항행안전시설 비행검사 업무지침",
             "resolve_method": "html",
             "source_provision_id": "admrul:비행절차업무기준#JO0023",
-            "reference_id": "admrul:항행안전시설비행검사업무지침#DOC",
+            "reference_id": "admrul:항행안전시설비행검사업무지침:admrul_98798#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
-            "target_git_path": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
+            "target_git_path": "항행안전시설 비행검사 업무지침/admrul_98798/항행안전시설 비행검사 업무지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항행안전시설 비행검사 업무지침/admrul_91669/항행안전시설 비행검사 업무지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항행안전시설비행검사업무지침:admrul_91669#DOC",
+                "is_current": true,
+                "enforcement_date": "20260414"
+              },
+              {
+                "git_path": "항행안전시설 비행검사 업무지침/admrul_98798/항행안전시설 비행검사 업무지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항행안전시설비행검사업무지침:admrul_98798#DOC",
+                "is_current": true,
+                "enforcement_date": "20261120"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2578,13 +2595,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/항행안전시설 비행검사 업무지침/제23조",
             "resolve_method": "html",
             "source_provision_id": "admrul:비행절차업무기준#JO0023",
-            "reference_id": "admrul:항행안전시설비행검사업무지침#JO0023",
+            "reference_id": "admrul:항행안전시설비행검사업무지침:admrul_98798#JO0023",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
-            "target_git_path": "항행안전시설 비행검사 업무지침/항행안전시설 비행검사 업무지침.json",
+            "target_git_path": "항행안전시설 비행검사 업무지침/admrul_98798/항행안전시설 비행검사 업무지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항행안전시설 비행검사 업무지침/admrul_91669/항행안전시설 비행검사 업무지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항행안전시설비행검사업무지침:admrul_91669#JO0023",
+                "is_current": true,
+                "enforcement_date": "20260414"
+              },
+              {
+                "git_path": "항행안전시설 비행검사 업무지침/admrul_98798/항행안전시설 비행검사 업무지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항행안전시설비행검사업무지침:admrul_98798#JO0023",
+                "is_current": true,
+                "enforcement_date": "20261120"
+              }
+            ]
           }
         ],
         "images": [],
