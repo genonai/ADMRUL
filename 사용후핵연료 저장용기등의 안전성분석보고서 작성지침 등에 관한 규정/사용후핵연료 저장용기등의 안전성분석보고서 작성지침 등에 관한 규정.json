@@ -308,7 +308,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:사용후핵연료저장용기등의안전성분석보고서작성지침등에관한규정#JO0006"
+        "provision_id": "admrul:사용후핵연료저장용기등의안전성분석보고서작성지침등에관한규정#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20261125",
+            "change": "개정",
+            "content": "제6조(설계승인번호) 설계승인서의 승인번호는 설계승인기관을 나타내는 영문 약어, 해당 저장용기등이 사용되는 원자로시설을 나타내는 영문 약어, 승인 순서를 나타내는 3자리 숫자 및 「원자력안전법」 제77조의2제1항 후단에 따라 해당 저장용기등이 설계승인의 변경승인을 받은 횟수를 나타내는 2자리 숫자를 다음 각 호의 구분에 따라 차례대로 표시함으로써 부여한다. 이 경우 각 영문 약어 및 2자리 또는 3자리 숫자 사이에는 빗금을 표시한다.1. NSSC: 설계승인 기관2. PWR/PHWR/RR: 저장되는 사용후핵연료 구분가. PWR: 가압경수로형 사용후핵연료나. PHWR: 가압중수로형 사용후핵연료다. RR: 연구용 원자로 사용후핵연료3. 001∼999: 승인 일련번호4. 00∼99: 설계승인의 변경회수"
+          }
+        ]
       },
       {
         "article_no": "제7조",
@@ -428,8 +435,10 @@
   "addendum_provision_id": "admrul:사용후핵연료저장용기등의안전성분석보고서작성지침등에관한규정#ADDENDUM",
   "amendment_provision_id": "admrul:사용후핵연료저장용기등의안전성분석보고서작성지침등에관한규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261125"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "사용후핵연료 저장용기등의 안전성분석보고서 작성지침 등에 관한 규정/사용후핵연료 저장용기등의 안전성분석보고서 작성지침 등에 관한 규정.json"
 }
