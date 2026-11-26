@@ -1473,7 +1473,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:항공영어구술능력증명시험실시요령#JO0024"
+        "provision_id": "admrul:항공영어구술능력증명시험실시요령#JO0024",
+        "scheduled": [
+          {
+            "enforcement_date": "20261126",
+            "change": "개정",
+            "content": "제24조(위원회의 구성) ① 위원회는 위원장 1명을 포함하여 10명 이내의 위원으로 구성한다.② 위원장은 국토교통부 항공자격팀장으로 하고, 위원은 다음 각 호의 자로 한다.1. 한국교통안전공단 항공자격처장 또는 그 지정 대리인2. 평가기관의 장 또는 그 지정대리인(공단 외 평가기관이 지정된 경우에 한함)3. 평가인력기준에 해당하는 자 중 국토교통부장관이 위촉하는 자"
+          }
+        ]
       },
       {
         "article_no": "제25조",
@@ -2296,8 +2303,10 @@
   "addendum_provision_id": "admrul:항공영어구술능력증명시험실시요령#ADDENDUM",
   "amendment_provision_id": "admrul:항공영어구술능력증명시험실시요령#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261126"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
 }
