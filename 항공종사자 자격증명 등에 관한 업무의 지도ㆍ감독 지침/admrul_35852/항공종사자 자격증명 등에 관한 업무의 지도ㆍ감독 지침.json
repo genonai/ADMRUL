@@ -486,7 +486,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:항공종사자자격증명등에관한업무의지도감독지침:admrul_35852#JO0004"
+        "provision_id": "admrul:항공종사자자격증명등에관한업무의지도감독지침:admrul_35852#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20261126",
+            "change": "개정",
+            "content": "제4조(지도ㆍ감독) ① 항공자격팀장은 자격증명 등에 관한 업무에 대하여 「항공안전법」 제132조 및 「행정권한의 위임및 위탁에 관한 규정」 제14조에 따라 지도ㆍ감독할 수 있다.② 항공자격팀장은 제1항에 따른 지도ㆍ감독을 위하여 이 예규에서 정하는 바에 따라 주기적으로 점검을 실시하여야 한다."
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -1284,8 +1291,10 @@
   "addendum_provision_id": "admrul:항공종사자자격증명등에관한업무의지도감독지침:admrul_35852#ADDENDUM",
   "amendment_provision_id": "admrul:항공종사자자격증명등에관한업무의지도감독지침:admrul_35852#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261126"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "항공종사자 자격증명 등에 관한 업무의 지도ㆍ감독 지침/admrul_35852/항공종사자 자격증명 등에 관한 업무의 지도ㆍ감독 지침.json"
 }
