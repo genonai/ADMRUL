@@ -83,8 +83,10 @@
   "addendum_provision_id": "admrul:중앙행정기관등의이전계획변경#ADDENDUM",
   "amendment_provision_id": "admrul:중앙행정기관등의이전계획변경#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261130"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "중앙행정기관 등의 이전계획 변경/중앙행정기관 등의 이전계획 변경.json"
 }
