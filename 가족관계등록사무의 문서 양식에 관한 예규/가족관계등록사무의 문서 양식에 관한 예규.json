@@ -437,6 +437,18 @@
       "version_enforcement_date": "20250719"
     },
     {
+      "promulgation_date": "20261118",
+      "promulgation_no": "657",
+      "content": "부   칙(2026. 11. 18. 제657호)\n이 예규는 2026. 12. 1.부터 시행한다.",
+      "provision_id": "admrul:가족관계등록사무의문서양식에관한예규#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2200000109437",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261201",
+      "enforcement_date": "20261201"
+    },
+    {
       "promulgation_date": "99991231",
       "promulgation_no": "9999",
       "content": "부   칙\n이 예규는 2008년 1월  1일부터 시행한다.",
@@ -3177,8 +3189,10 @@
   "addendum_provision_id": "admrul:가족관계등록사무의문서양식에관한예규#ADDENDUM",
   "amendment_provision_id": "admrul:가족관계등록사무의문서양식에관한예규#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261201"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "가족관계등록사무의 문서 양식에 관한 예규/가족관계등록사무의 문서 양식에 관한 예규.json"
 }
